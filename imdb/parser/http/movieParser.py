@@ -614,6 +614,11 @@ class DOMHTMLMovieParser(DOMParserBase):
         Rule(
             key='cover url',
             extractor=Path('//img[@alt="Poster"]/@src')
+        ),
+        Rule(
+            key='budget',
+            extractor=Path('(//*[@class="titlereference-section-box-office"]/*[@class="titlereference-list ipl-zebra-list"]/*[@class="ipl-zebra-list__item"]/td)[2]/text()',
+            transform=transformers.strip)
         )
     ]
 
