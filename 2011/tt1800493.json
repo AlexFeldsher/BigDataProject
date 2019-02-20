@@ -1,0 +1,401 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "1 May 2011"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "28 August 2011"
+            },
+            {
+                "country": "Finland\n",
+                "date": "14 March 2012"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "7 April 2012"
+            },
+            {
+                "country": "Japan\n",
+                "date": "14 April 2012"
+            }
+        ],
+        "release dates": [
+            "UK::1 May 2011",
+            "Sweden::28 August 2011",
+            "Finland::14 March 2012",
+            "Hungary::7 April 2012",
+            "Japan::14 April 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Exile"
+            },
+            {
+                "countries": "Finland",
+                "title": "Mielen lukot"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Mentala barriärer"
+            },
+            {
+                "countries": "Finland (DVD title)",
+                "title": "Exile"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Száműzetés"
+            },
+            {
+                "countries": "Russia",
+                "title": "Изгнание"
+            },
+            {
+                "countries": "USA",
+                "title": "Exile"
+            }
+        ],
+        "akas": [
+            "Exile (original title)",
+            "Mielen lukot Finland",
+            "Mentala barriärer Finland (Swedish title)",
+            "Exile Finland (DVD title)",
+            "Száműzetés Hungary",
+            "Изгнание Russia",
+            "Exile USA"
+        ],
+        "akas from release info": [
+            "Exile (original title)",
+            "Mielen lukot Finland",
+            "Mentala barriärer Finland (Swedish title)",
+            "Exile Finland (DVD title)",
+            "Száműzetés Hungary",
+            "Изгнание Russia",
+            "Exile USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Exile (TV Mini-Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 58,
+                    "original air date": "1 May 2011",
+                    "year": "2011",
+                    "plot": "\n    Sacked after an affair with the boss's wife magazine writer Tom Ronstadt returns from London to Bacup where his sister Nancy is caring for their father Sam, a former journalist,now suffering from Alzheimer's.Forced to stay and help Nancy, Tom finds it impossible to communicate with a father with whom, even in better days, there was plainly friction. Tom goes for a drink with old school friend Mike Eldridge, who is unaware that Tom slept with his wife Mandy, after picking her up in the pub where she works. Tom tells him he left home as a youngster when his father ...    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Exile (TV Mini-Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 44,
+                    "original air date": "2 May 2011",
+                    "year": "2011",
+                    "plot": "\n    Tom learns from a newspaper archive that Metzler was a doctor at Greenlake psychiatric hospital in the 1970s. He seeks out Wendy Smith,his father's former secretary who is cagey but tells him that J. Cleaver, who has paid the money into Sam's account, was probably a patient at the hospital. Hoping that familiar faces may jog his memory Tom takes his father to his old paper's charity dinner where Sam is cordial to Metzler but Richard, a colleague of Sam's,confirms to Tom that his father was indeed investigating Metzler for malpractice. When Sam gave up Richard assumed ...    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Exile (TV Mini-Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 42,
+                    "original air date": "3 May 2011",
+                    "year": "2011",
+                    "plot": "\n    After Tom has shown Nancy his discovery they return to see Wendy, who sent the envelope. She reveals that Sam and his wife Edith, believing themselves unable to have children, adopted Tom. The siblings manage to get Sam to say that Metzler gave them a baby but Mandy's mother, a former nurse at Greenlake, believes that a ward orderly named Ricky Tulse, not Metzler,was the truly sinister figure who encouraged vulnerable patients to have sex whilst he watched. Tom tracks down Tulse, dying of cancer, who admits, before killing himself, that he is Tom's father, having ...    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Simm, John"
+            },
+            {
+                "name": "Broadbent, Jim"
+            },
+            {
+                "name": "Colman, Olivia"
+            },
+            {
+                "name": "Mirallegro, Nico"
+            },
+            {
+                "name": "Fishwick, Daryl"
+            },
+            {
+                "name": "Goose, Claire"
+            },
+            {
+                "name": "Dooley, Shaun"
+            },
+            {
+                "name": "West, Timothy"
+            },
+            {
+                "name": "Dunn, Sarah Jayne"
+            },
+            {
+                "name": "Clayton, Alex"
+            },
+            {
+                "name": "Parks, Sarah"
+            },
+            {
+                "name": "Magowan, Kate"
+            },
+            {
+                "name": "Mills, Lucie"
+            },
+            {
+                "name": "Hurley, John-Paul"
+            },
+            {
+                "name": "Birtwistle, Jamie"
+            },
+            {
+                "name": "Black, Denise"
+            },
+            {
+                "name": "Dang, John"
+            },
+            {
+                "name": "Cummings, Des"
+            },
+            {
+                "name": "Corduner, Allan"
+            },
+            {
+                "name": "Dennehy, Ned"
+            },
+            {
+                "name": "Draycott, John"
+            },
+            {
+                "name": "Greenhalgh, Abby"
+            },
+            {
+                "name": "Brown, Sandra"
+            },
+            {
+                "name": "Grant, Ross"
+            },
+            {
+                "name": "Atkinson, William"
+            },
+            {
+                "name": "Dove, Paul J."
+            }
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "180"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Finland:K-16"
+        ],
+        "original air date": "01 May 2011 (UK)",
+        "number of seasons": 1,
+        "rating": 7.4,
+        "votes": 1466,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNjIyYmYxNzgtYTYxNS00NTA2LTg0ZjItOTg0MmVmZTBiNTM5XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Exile",
+        "year": 2011,
+        "kind": "tv mini series",
+        "series years": "2011-2011",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Abbott, Paul"
+            },
+            {
+                "name": "Brocklehurst, Daniel"
+            }
+        ],
+        "director": [
+            {
+                "name": "Alexander, John"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Abbott Vision"
+            },
+            {
+                "name": "Red Production Company"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "BBC Worldwide"
+            },
+            {
+                "name": "Filmbox Extra 1"
+            },
+            {
+                "name": "Filmbox HD"
+            },
+            {
+                "name": "Scanbox Entertainment"
+            },
+            {
+                "name": "WOWOW Prime"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Space Digital"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Victor Humphries t/a Vision Motor Services"
+            }
+        ],
+        "plot": [
+            "A father and son story, with a thriller motor. It explores a mystery from the past with a brutal and shocking revelation.::Don Metzler"
+        ],
+        "tech": {
+            "runtime": [
+                "3 hr (180 min)",
+                "1 hr (60 min) (3 parts)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1466,
+                "rating": 7.4
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "aged 18 29": {
+                "votes": 171,
+                "rating": 7.6
+            },
+            "aged 30 44": {
+                "votes": 521,
+                "rating": 7.3
+            },
+            "aged 45 plus": {
+                "votes": 520,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 719,
+                "rating": 7.3
+            },
+            "males aged 18 29": {
+                "votes": 94,
+                "rating": 7.7
+            },
+            "males aged 30 44": {
+                "votes": 294,
+                "rating": 7.2
+            },
+            "males aged 45 plus": {
+                "votes": 307,
+                "rating": 7.3
+            },
+            "females": {
+                "votes": 508,
+                "rating": 7.5
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "females aged 18 29": {
+                "votes": 72,
+                "rating": 7.4
+            },
+            "females aged 30 44": {
+                "votes": 214,
+                "rating": 7.5
+            },
+            "females aged 45 plus": {
+                "votes": 202,
+                "rating": 7.6
+            },
+            "top 1000 voters": {
+                "votes": 63,
+                "rating": 6.4
+            },
+            "us users": {
+                "votes": 196,
+                "rating": 7.3
+            },
+            "non us users": {
+                "votes": 853,
+                "rating": 7.4
+            }
+        },
+        "number of votes": {
+            "10": 168,
+            "9": 199,
+            "8": 455,
+            "7": 385,
+            "6": 134,
+            "5": 40,
+            "4": 23,
+            "3": 18,
+            "2": 13,
+            "1": 31
+        },
+        "arithmetic mean": 7.5,
+        "median": 8
+    }
+}

@@ -1,0 +1,612 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "11 January 2011"
+            },
+            {
+                "country": "Spain\n",
+                "date": "29 April 2012"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "28 September 2012"
+            },
+            {
+                "country": "Finland\n",
+                "date": "21 March 2014"
+            }
+        ],
+        "release dates": [
+            "USA::11 January 2011",
+            "Spain::29 April 2012",
+            "Sweden::28 September 2012",
+            "Finland::21 March 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Lights Out"
+            },
+            {
+                "countries": "Finland",
+                "title": "Viimeinen erä"
+            },
+            {
+                "countries": "Russia",
+                "title": "Тушите свет"
+            },
+            {
+                "countries": "Spain",
+                "title": "El declive de Patrick Leary"
+            }
+        ],
+        "akas": [
+            "Lights Out (original title)",
+            "Viimeinen erä Finland",
+            "Тушите свет Russia",
+            "El declive de Patrick Leary Spain"
+        ],
+        "akas from release info": [
+            "Lights Out (original title)",
+            "Viimeinen erä Finland",
+            "Тушите свет Russia",
+            "El declive de Patrick Leary Spain"
+        ],
+        "episodes": {
+            "1": {
+                "0": {
+                    "title": "Un-aired Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lights Out (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 0,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lights Out (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 65,
+                    "original air date": "11 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    Former heavyweight boxing champion Patrick \"Lights\" Leary struggles to find his identity and support his wife and three daughters after retiring from the ring.    "
+                },
+                "2": {
+                    "title": "Cakewalk",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lights Out (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 47,
+                    "original air date": "18 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    When Lights is threatened with criminal charges, he's forced to make a special delivery that could have unexpected consequences.    "
+                },
+                "3": {
+                    "title": "The Shot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lights Out (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 44,
+                    "original air date": "25 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    Lights, on the eve of his fortieth birthday, struggles to reach a young fighter who may be the Leary gym's best hope of a champion since Lights retired.    "
+                },
+                "4": {
+                    "title": "Bolo Punch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lights Out (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 43,
+                    "original air date": "1 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    Johnny gets himself into a life-threatening bind, and Lights may have to put himself on the line to bail his brother out.    "
+                },
+                "5": {
+                    "title": "The Comeback",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lights Out (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 41,
+                    "original air date": "8 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    As the Learys' financial situation turns more desperate, the aftershocks threaten Lights' and Theresa's marriage.    "
+                },
+                "6": {
+                    "title": "Combinations",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lights Out (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 39,
+                    "original air date": "15 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    Lights prepares for his first fight in five years, while dealing with the heartbreak of being away from his family.    "
+                },
+                "7": {
+                    "title": "Crossroads",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lights Out (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 38,
+                    "original air date": "22 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    Lights, at a crossroad, attempts a difficult comeback both in the ring, and in his home.    "
+                },
+                "8": {
+                    "title": "Head Games",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lights Out (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 47,
+                    "original air date": "1 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Lights, in dire need of alternative training, turns to an unorthodox boxing guru.    "
+                },
+                "9": {
+                    "title": "Infight",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lights Out (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 40,
+                    "original air date": "8 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Lights' allegiance to a new boxing mentor threatens to tear his family apart.    "
+                },
+                "10": {
+                    "title": "Cut Men",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lights Out (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 36,
+                    "original air date": "15 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    An injury puts Lights' comeback, his health, and even Theresa's medical career, in jeopardy.    "
+                },
+                "11": {
+                    "title": "Rainmaker",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lights Out (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 39,
+                    "original air date": "22 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Lights tries to help a penniless and punch drunk former champ, even while his own future is threatened by a talkative witness.    "
+                },
+                "12": {
+                    "title": "Sucker Punch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lights Out (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 35,
+                    "original air date": "29 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Just as things are ramping up for the big fight, Lights receives a surprise visitor.    "
+                },
+                "13": {
+                    "title": "War",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lights Out (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 42,
+                    "original air date": "5 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    Lights and Reynolds face off for the heavyweight title.    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "Unaired Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lights Out (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 15,
+        "cast": [
+            {
+                "name": "McCallany, Holt"
+            },
+            {
+                "name": "Keach, Stacy"
+            },
+            {
+                "name": "McCormack, Catherine"
+            },
+            {
+                "name": "Schreiber, Pablo"
+            },
+            {
+                "name": "Hagner, Meredith"
+            },
+            {
+                "name": "Shane, Ryann"
+            },
+            {
+                "name": "Cathey, Reg E."
+            },
+            {
+                "name": "Brown, Billy"
+            },
+            {
+                "name": "Pilblad, Lily"
+            },
+            {
+                "name": "Marvel, Elizabeth"
+            },
+            {
+                "name": "Irwin, Bill"
+            },
+            {
+                "name": "Davey-Fitzpatrick, Seamus"
+            },
+            {
+                "name": "Moran, Dan"
+            },
+            {
+                "name": "Shenkman, Ben"
+            },
+            {
+                "name": "Umeh, Gavin-Keith"
+            },
+            {
+                "name": "Pascal, Pedro"
+            },
+            {
+                "name": "Keane, Brian"
+            },
+            {
+                "name": "Antonacci, Joe"
+            },
+            {
+                "name": "Cosico, Marmee Regine"
+            },
+            {
+                "name": "Aylesworth, Reiko"
+            },
+            {
+                "name": "Boras, Annika"
+            },
+            {
+                "name": "Doyle, Mike"
+            },
+            {
+                "name": "Albert, Steve"
+            },
+            {
+                "name": "Parente, Rocco"
+            },
+            {
+                "name": "Walker, Eamonn"
+            },
+            {
+                "name": "Collins, Patrick"
+            },
+            {
+                "name": "Chlumsky, Anna"
+            },
+            {
+                "name": "Venito, Lenny"
+            },
+            {
+                "name": "Perrine, Valerie"
+            },
+            {
+                "name": "Farhood, Steve"
+            },
+            {
+                "name": "DeLuca, John"
+            },
+            {
+                "name": "Kiesche, Tom"
+            },
+            {
+                "name": "Brown, Jonnie"
+            },
+            {
+                "name": "D'Leon, Mario"
+            },
+            {
+                "name": "Kalison, Glenn"
+            },
+            {
+                "name": "Kelly, Michael James"
+            },
+            {
+                "name": "Leckington, Robert"
+            },
+            {
+                "name": "Marks, Annalaina"
+            },
+            {
+                "name": "Paras, Tess"
+            },
+            {
+                "name": "Pettograsso, Mark"
+            },
+            {
+                "name": "Polonsky, Larisa"
+            },
+            {
+                "name": "Shigemoto, Len"
+            },
+            {
+                "name": "Solo, Johnny"
+            },
+            {
+                "name": "McMurray, Sam"
+            },
+            {
+                "name": "Morse, David"
+            },
+            {
+                "name": "Shyer, Christopher"
+            },
+            {
+                "name": "Wood, Frank"
+            },
+            {
+                "name": "Rutten, Bas"
+            },
+            {
+                "name": "Dossett, John"
+            },
+            {
+                "name": "LeMay, Addison"
+            }
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Sport"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "United States:TV-MA"
+        ],
+        "number of seasons": 1,
+        "rating": 8.0,
+        "votes": 2899,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNzhkZWYyYzUtMWZlZS00ZmYyLWJiOTEtZjM1ZDI5YzZhYTYyXkEyXkFqcGdeQXVyNDQ5MDYzMTk@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Lights Out",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-2011",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Zackham, Justin"
+            },
+            {
+                "name": "Goluboff, Bryan"
+            },
+            {
+                "name": "Leight, Warren"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Two Ton Films"
+            },
+            {
+                "name": "Fineman Entertainment"
+            },
+            {
+                "name": "Fox Television Studios"
+            },
+            {
+                "name": "FX Productions"
+            },
+            {
+                "name": "TVM Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "FX Network"
+            },
+            {
+                "name": "FX Network"
+            },
+            {
+                "name": "MTV3"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Gotham Sound and Communications"
+            },
+            {
+                "name": "Haddad's"
+            },
+            {
+                "name": "Panavision"
+            }
+        ],
+        "plot": [
+            "A former heavyweight boxing champion struggles to find his identity after retiring from the ring.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (USA)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Panavision Genesis HD Camera",
+                "Sony SRW9000"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2899,
+                "rating": 8.0
+            },
+            "aged 18 29": {
+                "votes": 504,
+                "rating": 8.1
+            },
+            "aged 30 44": {
+                "votes": 1666,
+                "rating": 8.1
+            },
+            "aged 45 plus": {
+                "votes": 417,
+                "rating": 7.8
+            },
+            "males": {
+                "votes": 2401,
+                "rating": 8.1
+            },
+            "males aged 18 29": {
+                "votes": 466,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 1535,
+                "rating": 8.1
+            },
+            "males aged 45 plus": {
+                "votes": 342,
+                "rating": 7.8
+            },
+            "females": {
+                "votes": 217,
+                "rating": 7.8
+            },
+            "females aged 18 29": {
+                "votes": 32,
+                "rating": 7.1
+            },
+            "females aged 30 44": {
+                "votes": 110,
+                "rating": 7.7
+            },
+            "females aged 45 plus": {
+                "votes": 69,
+                "rating": 8.1
+            },
+            "top 1000 voters": {
+                "votes": 49,
+                "rating": 6.4
+            },
+            "us users": {
+                "votes": 1272,
+                "rating": 8.2
+            },
+            "non us users": {
+                "votes": 1034,
+                "rating": 7.8
+            }
+        },
+        "number of votes": {
+            "10": 780,
+            "9": 641,
+            "8": 736,
+            "7": 362,
+            "6": 165,
+            "5": 71,
+            "4": 29,
+            "3": 29,
+            "2": 18,
+            "1": 68
+        },
+        "arithmetic mean": 8.2,
+        "median": 8
+    }
+}
