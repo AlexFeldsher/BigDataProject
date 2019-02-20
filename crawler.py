@@ -64,7 +64,7 @@ def crawl(imdb_title_db, output_dir, year):
         data = dict()
         data['imdb'] = scrape_imdb_page(series_id[2:], IMDB_INFO)
         if data['imdb'] is not None:
-            data = scrape_wikipedia_page(data, data['imdb']['title'], series_start_year)
+            # data = scrape_wikipedia_page(data, data['imdb']['title'], series_start_year)
             with open('{}/{}.json'.format(output_dir, series_id), 'w') as out:
                 out.write(json.dumps(data, ensure_ascii=False, default=lambda o: o.data, indent=4))
     db.close()
@@ -121,7 +121,7 @@ def scrape_imdb_page(series_id, info):
     """ :param series_id: id with the prefix 'tt' removed
         :para info: the info the gather
         :returns: the series data object, of None if failed """
-    print('Scraping IMDB...')
+    #print('Scraping IMDB...')
     data = ia.get_movie(series_id, info)
     return imdb_to_json(data)
 
