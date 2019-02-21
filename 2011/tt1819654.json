@@ -1,0 +1,842 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "13 September 2011"
+            },
+            {
+                "country": "Canada\n",
+                "date": "16 September 2011"
+            },
+            {
+                "country": "UK\n",
+                "date": "29 September 2011"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "1 March 2012"
+            },
+            {
+                "country": "Spain\n",
+                "date": "15 April 2012"
+            },
+            {
+                "country": "Japan\n",
+                "date": "19 August 2012"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "4 September 2012"
+            },
+            {
+                "country": "France\n",
+                "date": "16 September 2012"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "5 November 2012"
+            },
+            {
+                "country": "Finland\n",
+                "date": "7 July 2014"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "22 August 2015"
+            }
+        ],
+        "release dates": [
+            "USA::13 September 2011",
+            "Canada::16 September 2011",
+            "UK::29 September 2011",
+            "Sweden::1 March 2012",
+            "Spain::15 April 2012",
+            "Japan::19 August 2012",
+            "Netherlands::4 September 2012",
+            "France::16 September 2012",
+            "Hungary::5 November 2012",
+            "Finland::7 July 2014",
+            "Belgium::22 August 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Ringer"
+            },
+            {
+                "countries": "France",
+                "title": "Ringer"
+            },
+            {
+                "countries": "Greece",
+                "title": "Ringer"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Ringer - A vér kötelez"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Vida Dupla"
+            },
+            {
+                "countries": "Russia",
+                "title": "Двойник"
+            }
+        ],
+        "akas": [
+            "Ringer (original title)",
+            "Ringer France",
+            "Ringer Greece",
+            "Ringer - A vér kötelez Hungary",
+            "Vida Dupla Portugal",
+            "Двойник Russia"
+        ],
+        "akas from release info": [
+            "Ringer (original title)",
+            "Ringer France",
+            "Ringer Greece",
+            "Ringer - A vér kötelez Hungary",
+            "Vida Dupla Portugal",
+            "Двойник Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 473,
+                    "original air date": "13 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Rather then trusting her witness protection program handler, FBI Agent Victor Machado, sole gangster murder trial witness Bridget Kelly make a run for it on her own, before the trial. She's welcomed in New York by her rich, identical twin sister Siobhan Martin and her dream husband Andrew. Only a suicide note on their yacht informs Bridget that spoiled-rotten Siobhan wasn't happy, but she accepts taking her place as seemingly perfect cover. Shortly after she discovers her twin wasn't faithful either, the whole family is a mess, notably drug-addicted daughter Juliet. ...    "
+                },
+                "2": {
+                    "title": "She's Ruining Everything",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 332,
+                    "original air date": "20 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    FBI Agent Machado tries tenaciously to properly question 'Siobhan', who dodges him as zealously. That game is up when she must organize in one day, with a brilliant gay event planner, a party fro Henry and his partner Olivia's investment firm, and he already decided on the loft where she left the assailant's corpse, which she's now unable to evacuate and must hide. Henry is delighted with the 'old Siobhan' who cares again for him and 'their rebellious junk daughter, not unlike young Bridget. Henry still dodges Gemma's suspicion of adultery and asks 'Siobhan' why they ...    "
+                },
+                "3": {
+                    "title": "If You Ever Want a French Lesson...",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 273,
+                    "original air date": "27 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Henry grudgingly agrees to let Andrew withdraw his investment in his hedge fund, which his firm partner sees as crucial foothold to lure wife Gemma's family fortune. Based solely on a photograph used by her assailant, Bridget speculates that Henry might have order a hit-man for Siobhan, whose former utterings she now reads in that light. FBI Agent Machado is increasingly openly vexed by \"Siobhan's\" lack of cooperation, while the real one, learning about her closed Manhattan accounts, turns even more grimly on her 'insufferable' twin.    "
+                },
+                "4": {
+                    "title": "It's Gonna Kill Me, But I'll Do It",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 280,
+                    "original air date": "4 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    Still posing as Siobhan, Bridget, and Andrew head to the Hamptons with Gemma and Henry to celebrate her birthday. Despite the close quarters, Henry is dead-set on rekindling his affair with Siobhan. Gemma learns some unsettling news, while FBI agent Victor Machado closes in on some new information, which forces Bridget to reveal some of her past in order to protect her secrets.    "
+                },
+                "5": {
+                    "title": "A Whole New Kind of Bitch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 263,
+                    "original air date": "11 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    Henry worries more about his failing novel ambition then his dysfunctional marriage. That only strengthens cheated Gemma's resolve to clean him out in a divorce, so she blackmails 'Siobhan' to provide irrefutable proof in bed, even after being informed of the twin sisters switch, yet a reconciliation is attempted beyond Gemma's midnight deadline. Andrew greatly appreciates \"Siobhan's\" help with stepdaughter Juliet, who is spared rehab but transferred to a public school and turns on 'Siobhan'. The mobsters torture Malcolm to put them on Bridget's trail.    "
+                },
+                "6": {
+                    "title": "The Poor Kids Do It Everyday",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 251,
+                    "original air date": "18 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    Henry worries seriously as blood traces suggest his ex Gemma may be murdered, he disappearance puzzles Bridget as much. Andrew's daughter Juliet thought to get an easy start with clean slate at her new high-school, but is targeted by a haughty bully and the principal informally got her crushing record, yet young teacher carpenter sides with her. Gangsters finally break private eye Malcolm by torture to lead them to Siobhan. Forensic courtesy finally brigs agent Machado on the trace of the sisters' twin link.    "
+                },
+                "7": {
+                    "title": "Oh Gawd, There's Two of Them?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 232,
+                    "original air date": "1 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    Henry worries about his ex Gemma's whereabouts, and being the police's prime suspect. Agent Machado's progressing investigation forces Bridget to admit to shocked Andrew and Henry she's a twin, not being Siobhan's sister. She's delighted with private eye Charlie Young offering his 'cleaner' service to cover her tracks, notably an abandoned car, but he has a secret agenda and secret real master. To Andrew's bitter dismay, junkie daughter Juliet gets in big trouble again by joining her new school's party scene, so he suspends her trust fund allowance as desperate last ...    "
+                },
+                "8": {
+                    "title": "Maybe We Can Get a Dog Instead?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 204,
+                    "original air date": "8 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    Andrew and Bridget are told some upsetting news that also affects Henry. Juliet continues to form an unlikely bond with her teacher Mr. Carpenter and Malcolm shows up in New York, where Agent Machado confronts him. Meanwhile, Siobhan's relationship with Tyler is jeopardized.    "
+                },
+                "9": {
+                    "title": "Shut Up and Eat Your Bologna",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 206,
+                    "original air date": "15 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    Bridget begins to realize she is developing feelings for Andrew, while Henry and Andrew's business partner Olivia bond over common interests. Malcolm is suspicious of Bridget's new NA sponsor Charlie and Bridget makes an appointment with Siobhan's therapist, hoping it will help her discover some insight into her sister's life.    "
+                },
+                "10": {
+                    "title": "That's What You Get for Trying to Kill Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 215,
+                    "original air date": "29 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    Henry begins to target someone as a suspect in the disappearance of his wife Gemma and realizes he must work with Bridget to find out more information. Malcolm talks to the police about his suspicion of Charlie, while Juliet develops an unhealthy obsession with her teacher Mr. Carpenter. Meanwhile, Agent Machado meets with an informant back in Wyoming.    "
+                },
+                "11": {
+                    "title": "It Just Got Normal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 199,
+                    "original air date": "31 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    Andrew hopes to assure his investment firm's future with new software. His ICT expert being unavailable, he gives Malcolm, a professor, a shot, which Bridget arranged as her man is running out of money and options. She gets Henry to agree to a meeting sos he can explain her erratic behavior and the Gemma drama, but that goes south because of the real Siobhan, who returned from Paris as her lover Tyler no longer puts their affair over company loyalty to Andrew, and impersonates herself in therapy and home to sabotage Bridget, who ends up seeing her with unsuspecting ...    "
+                },
+                "12": {
+                    "title": "What Are You Doing Here, Ho-Bag?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 194,
+                    "original air date": "7 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Juliet's mother Catherine arrives in town, where she proceeds to wreak havoc on Andrew and Bridget's relationship. Bridget discovers someone from Siobhan's past and thinks he might be the key to her learning more information about her sister. Meanwhile, Henry discovers a lead that causes Agent Machado to think he is closing in on Bridget.    "
+                },
+                "13": {
+                    "title": "It's Easy to Cry When This Much Cash is Involved",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 174,
+                    "original air date": "14 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Bridget visits some of the last locations Siobhan went before she disappeared and discovers that Siobhan kept a secret office. Olivia finds out some information about Henry and blackmails him into introducing her to Gemma's wealthy father Tim Arbogast. Meanwhile, in Paris, Tyler struggles with a moral decision that could affect Siobhan and Andrew.    "
+                },
+                "14": {
+                    "title": "Whores Don't Make That Much",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 186,
+                    "original air date": "21 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Bridget encounters Dylan, who was an important part of the sisters' past. After finding something in Henry's possession that belongs to Bridget, Malcolm befriends Henry to keep an eye on him. Catherine asks Andrew to make a big decision regarding Juliet that could change their family dynamic.    "
+                },
+                "15": {
+                    "title": "P.S. You're an Idiot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 160,
+                    "original air date": "28 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Andrew proposes again and Bridget realizes she is in over her head. Olivia becomes increasingly suspicious of Malcolm while he is working at Martin/Charles. Juliet makes a decision that forces her mother Catherine to take drastic measures.    "
+                },
+                "16": {
+                    "title": "You're Way Too Pretty to Go to Jail",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 161,
+                    "original air date": "6 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Agent Machado's past with his informant, stripper Shaylene Briggs is revealed and Siobhan deceives Malcolm when she pretends to be Bridget. In Paris, Tyler takes something from Siobhan that is a key piece of evidence in her plot for revenge. Henry realizes Bridget knows more than she should and has to keep her from interfering with his plans.    "
+                },
+                "17": {
+                    "title": "What We Have Is Worth the Pain",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 166,
+                    "original air date": "13 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Bridget fears that something has happened to Malcolm when she cannot get in touch with him. In an effort to find him, Bridget visits the hotel where Malcolm was staying and discover on security footage that Andrew was the last person to see Malcolm before he disappeared. Meanwhile, Juliet discovers that someone in her family played a part in the attack on Tessa and Siobhan admits to Henry the reason she faked her death.    "
+                },
+                "18": {
+                    "title": "That Woman's Never Been a Victim Her Entire Life",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 155,
+                    "original air date": "20 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    After an attempt is made on Bridget's life, Agent Machado is determined to find who was responsible. Henry accuses Siobhan of putting a hit out on Bridget, while Bridget thinks Olivia was behind it. Meanwhile, Andrew admits to asking Malcolm to leave town and Juliet goes missing.    "
+                },
+                "19": {
+                    "title": "Let's Kill Bridget",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 163,
+                    "original air date": "27 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Bridget decides that the only way she will feel safe is if she testifies against Bodaway Macawi (guest star Zahn McClarnon)    "
+                },
+                "20": {
+                    "title": "If You're Just an Evil Bitch Then Get Over It",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 166,
+                    "original air date": "3 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Still posing as Siobhan, Bridget admits to Agent Machado that someone tried to kill her months earlier and she thought it was Andrew. (Justin Bruening and Andrea Roth guest star)    "
+                },
+                "21": {
+                    "title": "It's Called Improvising, Bitch!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "votes": 186,
+                    "original air date": "10 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Catherine's plan to drive Andrew and Bridget, posing as Siobhan, apart unravels. (guest star Andrea Roth)    "
+                },
+                "22": {
+                    "title": "I'm the Good Twin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ringer (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "votes": 218,
+                    "original air date": "17 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    As the vow renewal nears, Bridget realizes she first needs to tell Andrew the truth about who she really is. (guest star Zahn McClarnon)    "
+                }
+            }
+        },
+        "number of episodes": 22,
+        "cast": [
+            {
+                "name": "Gellar, Sarah Michelle"
+            },
+            {
+                "name": "Polaha, Kristoffer"
+            },
+            {
+                "name": "Gruffudd, Ioan"
+            },
+            {
+                "name": "Carbonell, Nestor"
+            },
+            {
+                "name": "Deutch, Zoey"
+            },
+            {
+                "name": "Colter, Mike"
+            },
+            {
+                "name": "Bruening, Justin"
+            },
+            {
+                "name": "Dohring, Jason"
+            },
+            {
+                "name": "Murray, Jaime"
+            },
+            {
+                "name": "Roth, Andrea"
+            },
+            {
+                "name": "McClarnon, Zahn"
+            },
+            {
+                "name": "Summers, Tara"
+            },
+            {
+                "name": "Miller, Billy"
+            },
+            {
+                "name": "Golightly, Gage"
+            },
+            {
+                "name": "Elwood, Chris"
+            },
+            {
+                "name": "Thomas, Sean Patrick"
+            },
+            {
+                "name": "Pettie, Darren"
+            },
+            {
+                "name": "Marder, Jordan"
+            },
+            {
+                "name": "Harrison, Gregory"
+            },
+            {
+                "name": "Watts, Noah"
+            },
+            {
+                "name": "Hernández, Maximiliano"
+            },
+            {
+                "name": "Holder, Meagan"
+            },
+            {
+                "name": "Del Negro, Matthew"
+            },
+            {
+                "name": "Deloach, Nikki"
+            },
+            {
+                "name": "Flynn, Dasha"
+            },
+            {
+                "name": "Swallow, Emily"
+            },
+            {
+                "name": "Tavares, Chelsea"
+            },
+            {
+                "name": "Amick, Mädchen"
+            },
+            {
+                "name": "Banks, Jonathan"
+            },
+            {
+                "name": "Porter, Adina"
+            },
+            {
+                "name": "Hallisay, Brian"
+            },
+            {
+                "name": "Patel, Kosha"
+            },
+            {
+                "name": "Madio, James"
+            },
+            {
+                "name": "Aragon, Adriano"
+            },
+            {
+                "name": "Hanes, Ken"
+            },
+            {
+                "name": "Dandridge, Merle"
+            },
+            {
+                "name": "Collins, Misha"
+            },
+            {
+                "name": "Powell, Drew"
+            },
+            {
+                "name": "Stafford, Michelle"
+            },
+            {
+                "name": "Lubatti, Henri"
+            },
+            {
+                "name": "Neal, Dylan"
+            },
+            {
+                "name": "Robuck, Nic"
+            },
+            {
+                "name": "Lester, Loren"
+            },
+            {
+                "name": "Collins, Chad Michael"
+            },
+            {
+                "name": "Cousins, Christopher"
+            },
+            {
+                "name": "Marnò, Mozhan"
+            },
+            {
+                "name": "Menendez, Gonzalo"
+            },
+            {
+                "name": "Anderson, Nicole Gale"
+            },
+            {
+                "name": "Hodge, Mike"
+            },
+            {
+                "name": "Pace, Rachel"
+            }
+        ],
+        "locations": [
+            "Adelphi University, Garden City, Long Island, New York, USA",
+            "City Stage- 435 West 19th Street, New York City, New York, USA",
+            "Los Angeles, California, USA",
+            "Nassau Coliseum, Uniondale, Long Island, New York, USA",
+            "New York City, New York, USA",
+            "Oyster Bay, Long Island, New York, USA",
+            "Sea Cliff, Long Island, New York, USA"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "44"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Netherlands:12",
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 6.9,
+        "votes": 19426,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMzY3NjU4OTIzNF5BMl5BanBnXkFtZTcwMDQwMzIwNg@@._V1_SX101_CR0,0,101,150_.jpg",
+        "plot outline": "Bridget is six months sober and starting to get her life back on track when she becomes the sole witness to a professional hit. She flees to New York, telling no one. In New York, Bridget reunites with her estranged twin, Siobhan. Wealthy, pampered and seemingly happily married, Siobhan lives what appears to be a fairy tale life. The identical twin sisters seem to be mending their frayed relationship, until Siobhan disappears overboard during a boat trip the two take together, and Bridget makes the split decision to take on her sister's identity. She discovers shocking secrets, not only about her sister and her marriage, but other secrets as well. Bridget soon realizes she is no safer as Siobhan than she is as herself.",
+        "languages": [
+            "English"
+        ],
+        "title": "Ringer",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-2012",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Charmelo, Eric C."
+            },
+            {
+                "name": "Snyder, Nicole"
+            },
+            {
+                "name": "Faerber, Jay"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "CBS Television Studios"
+            },
+            {
+                "name": "Warner Bros. Television"
+            },
+            {
+                "name": "ABC Television Studios"
+            },
+            {
+                "name": "Brillstein Entertainment Partners"
+            },
+            {
+                "name": "Cinema Vehicle Services"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "The CW Network (The CW)"
+            },
+            {
+                "name": "Dlife"
+            },
+            {
+                "name": "FOXlife"
+            },
+            {
+                "name": "Global"
+            },
+            {
+                "name": "Liv"
+            },
+            {
+                "name": "M6 Métropole Télévision"
+            },
+            {
+                "name": "Mediaset España"
+            },
+            {
+                "name": "Net5"
+            },
+            {
+                "name": "Network Ten"
+            },
+            {
+                "name": "PRO 4"
+            },
+            {
+                "name": "Sky Living"
+            },
+            {
+                "name": "SuperTV2"
+            },
+            {
+                "name": "TV2"
+            },
+            {
+                "name": "Telecinco"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Stargate Studios"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "ARRI / Camera Service Center"
+            },
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Cineverse"
+            },
+            {
+                "name": "Direct Tools & Fasteners"
+            },
+            {
+                "name": "Hula Post"
+            },
+            {
+                "name": "MTI Film"
+            },
+            {
+                "name": "Marc Graue Recording Studios: Voiceover and Post"
+            },
+            {
+                "name": "Movie Movers"
+            },
+            {
+                "name": "Ohana Camera Expendables"
+            },
+            {
+                "name": "Soundtrack New York"
+            }
+        ],
+        "plot": [
+            "Bridget is six months sober and starting to get her life back on track when she becomes the sole witness to a professional hit. She flees to New York, telling no one. In New York, Bridget reunites with her estranged twin, Siobhan. Wealthy, pampered and seemingly happily married, Siobhan lives what appears to be a fairy tale life. The identical twin sisters seem to be mending their frayed relationship, until Siobhan disappears overboard during a boat trip the two take together, and Bridget makes the split decision to take on her sister's identity. She discovers shocking secrets, not only about her sister and her marriage, but other secrets as well. Bridget soon realizes she is no safer as Siobhan than she is as herself.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "44 min"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 19426,
+                "rating": 6.9
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 9.5
+            },
+            "aged 18 29": {
+                "votes": 5101,
+                "rating": 7.4
+            },
+            "aged 30 44": {
+                "votes": 8917,
+                "rating": 6.8
+            },
+            "aged 45 plus": {
+                "votes": 2435,
+                "rating": 6.5
+            },
+            "males": {
+                "votes": 7225,
+                "rating": 6.5
+            },
+            "males aged 18 29": {
+                "votes": 1896,
+                "rating": 7.2
+            },
+            "males aged 30 44": {
+                "votes": 3744,
+                "rating": 6.4
+            },
+            "males aged 45 plus": {
+                "votes": 1332,
+                "rating": 6.1
+            },
+            "females": {
+                "votes": 9640,
+                "rating": 7.3
+            },
+            "females aged under 18": {
+                "votes": 2,
+                "rating": 9.5
+            },
+            "females aged 18 29": {
+                "votes": 3133,
+                "rating": 7.5
+            },
+            "females aged 30 44": {
+                "votes": 5058,
+                "rating": 7.2
+            },
+            "females aged 45 plus": {
+                "votes": 1073,
+                "rating": 7.1
+            },
+            "top 1000 voters": {
+                "votes": 162,
+                "rating": 5.6
+            },
+            "us users": {
+                "votes": 4045,
+                "rating": 6.9
+            },
+            "non us users": {
+                "votes": 8545,
+                "rating": 6.8
+            }
+        },
+        "number of votes": {
+            "10": 4944,
+            "9": 2374,
+            "8": 3416,
+            "7": 3301,
+            "6": 1974,
+            "5": 1247,
+            "4": 693,
+            "3": 409,
+            "2": 342,
+            "1": 726
+        },
+        "arithmetic mean": 7.5,
+        "median": 8
+    }
+}

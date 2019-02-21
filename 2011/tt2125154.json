@@ -1,0 +1,150 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Russia\n",
+                "date": "27 November 2011"
+            },
+            {
+                "country": "Russia\n",
+                "date": "29 November 2011",
+                "notes": "                            (video premiere)"
+            }
+        ],
+        "release dates": [
+            "Russia::27 November 2011",
+            "Russia::29 November 2011                            (video premiere)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Good People"
+            },
+            {
+                "countries": "Russia",
+                "title": "Хорошие люди"
+            }
+        ],
+        "akas": [
+            "Good People (original title)",
+            "Хорошие люди Russia"
+        ],
+        "akas from release info": [
+            "Good People (original title)",
+            "Хорошие люди Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Nadejda Ischenko",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Good People (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "27 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Ashihmina, Tatyana"
+            },
+            {
+                "name": "Ischenko, Nadejda"
+            },
+            {
+                "name": "Ischenko, Valery"
+            },
+            {
+                "name": "Ischenko, Venera"
+            },
+            {
+                "name": "Kurmel, Nikolay"
+            },
+            {
+                "name": "Maximov, Michail"
+            },
+            {
+                "name": "Nurulin, Timur"
+            },
+            {
+                "name": "Rebrov, Sergey"
+            }
+        ],
+        "locations": [
+            "Orenburg City, Russia"
+        ],
+        "genres": [
+            "Documentary",
+            "Biography"
+        ],
+        "runtimes": [
+            "9"
+        ],
+        "countries": [
+            "Russia"
+        ],
+        "country codes": [
+            "ru"
+        ],
+        "language codes": [
+            "ru"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "Russian"
+        ],
+        "title": "Good People",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Ischenko, Nadejda"
+            },
+            {
+                "name": "Ischenko, Venera"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "xXxStudio"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "xXxStudio"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "9 min (Russia)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

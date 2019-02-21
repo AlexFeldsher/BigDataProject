@@ -1,0 +1,932 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "14 September 2011"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "12 January 2012"
+            },
+            {
+                "country": "USA\n",
+                "date": "  2013"
+            }
+        ],
+        "release dates": [
+            "USA::14 September 2011",
+            "Sweden::12 January 2012",
+            "USA::2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Up All Night"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Будни цяла нощ"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Éjjel-nappal szülök"
+            },
+            {
+                "countries": "Poland",
+                "title": "Do bialego rana"
+            },
+            {
+                "countries": "Portugal (working title)",
+                "title": "Pais Desesperados"
+            },
+            {
+                "countries": "Russia",
+                "title": "Всю ночь напролет"
+            },
+            {
+                "countries": "Spain (new title)",
+                "title": "Sin pegar ojo"
+            }
+        ],
+        "akas": [
+            "Up All Night (original title)",
+            "Будни цяла нощ Bulgaria (Bulgarian title)",
+            "Éjjel-nappal szülök Hungary",
+            "Do bialego rana Poland",
+            "Pais Desesperados Portugal (working title)",
+            "Всю ночь напролет Russia",
+            "Sin pegar ojo Spain (new title)"
+        ],
+        "akas from release info": [
+            "Up All Night (original title)",
+            "Будни цяла нощ Bulgaria (Bulgarian title)",
+            "Éjjel-nappal szülök Hungary",
+            "Do bialego rana Poland",
+            "Pais Desesperados Portugal (working title)",
+            "Всю ночь напролет Russia",
+            "Sin pegar ojo Spain (new title)"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Friendships & Partnerships",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 53,
+                    "original air date": "20 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    \"The Ava Show\" is cancelled - Reagan and Ava's friendship is tested following the news of the show's cancellation. Meanwhile, Reagan hires her brother Scott to help remodel their bathroom, and Chris decides to re-enter the working world.    "
+                },
+                "2": {
+                    "title": "Home/Office",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 41,
+                    "original air date": "27 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reagan's first week at home with Amy may upset the delicate balance of the neighboorhood.    "
+                },
+                "3": {
+                    "title": "Swingers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 40,
+                    "original air date": "4 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reagan and Chris set out to prove that they are an adventurous couple.    "
+                },
+                "4": {
+                    "title": "Jerry Duty",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 40,
+                    "original air date": "11 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Chris relives his college days when he reunites with his former roommate.    "
+                },
+                "5": {
+                    "title": "Another Saturday Night",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 37,
+                    "original air date": "18 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reagan and Chris head for a long overdue night out.    "
+                },
+                "6": {
+                    "title": "Ma'am'd",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 42,
+                    "original air date": "25 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reagan worries her age is catching up with her while Ava and Walter get ready for Halloween.    "
+                },
+                "7": {
+                    "title": "Thanksgiving",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 40,
+                    "original air date": "15 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    The Brinkley's Thanksgiving takes an unexpected detour.    "
+                },
+                "8": {
+                    "title": "The Game of Life",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 37,
+                    "original air date": "29 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reagan and Chris join the neighbors for a weekend getaway.    "
+                },
+                "9": {
+                    "title": "I Can't Quit You",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 27,
+                    "original air date": "6 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n    Chris (Will Arnett) and Scott (Luka Jones) take on the competition and Reagan (Christina Applegate) connects with an old friend -- Mary Elizabeth Ellis guest stars.    "
+                },
+                "10": {
+                    "title": "First Snow",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 37,
+                    "original air date": "13 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n    The holiday season is off to a not-so-great start for the Brinkleys.    "
+                },
+                "11": {
+                    "title": "The Wedding",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 35,
+                    "original air date": "13 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n    Take a look back at Chris and Reagan's wild wedding day.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 176,
+                    "original air date": "14 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Reagan Brinkley is a loving wife, successful career woman, life of the party and, most recently, mom. Determined not to compromise her career or cool reputation to the clichés of motherhood, Reagan adjusts to life with a baby and returns to work with the support of her stay-at-home husband, Chris. As Reagan and Chris figure out their new life, self-doubt, sleep deprivation and the pressure of today's parenting protocols rattle their confidence. What's more, the endless needs of Reagan's boss, ambitious but vulnerable talk-show host Ava, threaten to throw Reagan off ...    "
+                },
+                "2": {
+                    "title": "Cool Neighbors",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 128,
+                    "original air date": "21 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    When a \"cool\" new couple moves in across the street, Reagan and Chris become obsessed with finding out every detail about them. Elsewhere, Ava struggles with the fact that baby Amy does not like her, especially when she takes a liking to Calvin.    "
+                },
+                "3": {
+                    "title": "Working Late & Working It",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 100,
+                    "original air date": "28 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Chris tries to get Reagan to bring the sexy back into their relationship with some advice from his new friend Reed. Meanwhile, when Ava finds out her ex-boyfriend, B-Ro, is getting married, she blames Reagan for the advice she gave her that caused them to break up.    "
+                },
+                "4": {
+                    "title": "New Car",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 82,
+                    "original air date": "5 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    Reagan's love for online shopping takes a bizarre turn when she and Chris go on the hunt for a practical family car. Concerned about their newborn's welfare, Chris aims to negotiate a deal for the perfect new car that is safe but not boring. Meanwhile, Ava decides to take on more serious talk show topics, but is overwhelmed by the amount of preparation it takes to pull it off.    "
+                },
+                "5": {
+                    "title": "Mr. Bob's Toddler Kaleidoscope",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 86,
+                    "original air date": "12 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    Reagan fears that her busy schedule may be affecting her parenting skills. Chris finds a new calling in Amy's playgroup. Meanwhile, Ava continues to struggle with the lack of quality time she has with Reagan.    "
+                },
+                "6": {
+                    "title": "Birth",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 84,
+                    "original air date": "19 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    Reagan tries to keep it together when her \"perfect\" birth plan falls apart, while Chris wrestles with the decision to leave his law firm. Elsewhere, Ava must overcome the fears that are keeping her away from her best friend at such an important time.    "
+                },
+                "7": {
+                    "title": "Parents",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 71,
+                    "original air date": "2 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    Reagan wants to set an example for her daughter by trying to get along with her own parents. The untimely death of a crew member inspires Ava to reexamine her relationship with the staff. Meanwhile, Chris vows to make some lifestyle changes when he starts to fear that his life may be cut short too.    "
+                },
+                "8": {
+                    "title": "First Night Away",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 75,
+                    "original air date": "9 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    Reagan and Chris have a romantic night away to reignite the spark in their relationship. While babysitting Amy, Ava connects with the Brinkley's neighbor, Kevin, a single dad who is the complete opposite of her ostentatious boyfriend, Julian.    "
+                },
+                "9": {
+                    "title": "Hiring and Firing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 68,
+                    "original air date": "16 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    Reagan's inability to fire a less-than-stellar assistant, Nancy, leads Ava to question whether she has lost her edge. Meanwhile, Reagan and Chris hope to find a babysitter that will give him some much-needed parental relief.    "
+                },
+                "10": {
+                    "title": "Week Off",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 65,
+                    "original air date": "23 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    When the Ava show takes a break, Reagan is thrilled to spend the week at home with Amy, but her type-A personality and defiant sense of justice upset the delicate balance of Chris's neighborhood social life. Meanwhile, Ava tries to win over Kevin's daughter by giving her vocal lessons for a performance at school.    "
+                },
+                "11": {
+                    "title": "First Christmas",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 69,
+                    "original air date": "7 Dec. 2011",
+                    "year": "2011",
+                    "plot": "\n    Reagan will do whatever it takes to make Amy's first Christmas memorable -- Jason Lee and Blythe Danner guest star.    "
+                },
+                "12": {
+                    "title": "New Year's Eve",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 62,
+                    "original air date": "12 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reagan's extreme competiveness comes out at a New Year's Eve game night, much to Chris's embarrassment. Meanwhile, Kevin worries that Ava is ashamed of him and Missy brings an unexpected date to the party.    "
+                },
+                "13": {
+                    "title": "Rivals",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 62,
+                    "original air date": "19 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reagan and Ava are thrown into a spiral when rival talk-show host and former friend of the show, Shayna, is suspected of stealing their show ideas. At home, Reagan develops some jealous feelings towards Chris's new female friend.    "
+                },
+                "14": {
+                    "title": "Preschool Auction",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 55,
+                    "original air date": "2 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reagan will do whatever it takes to get Amy into the best preschool - Dean Winters guest stars.    "
+                },
+                "15": {
+                    "title": "Day After Valentine's Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 54,
+                    "original air date": "9 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Sparks fly on Valentine's Day after a passionate fight in Ava's relationship inspires Reagan and Chris to up the ante with their own displays of passion -- Jason Lee guest stars.    "
+                },
+                "16": {
+                    "title": "Travel Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 52,
+                    "original air date": "16 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reagan and Chris take their first trip with Amy as Ava faces her musical past - Alanis Morissette and Jason Lee guest star.    "
+                },
+                "17": {
+                    "title": "First Birthday",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 45,
+                    "original air date": "23 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    A moment of weakness with his uncomfortably enthusiastic neighbors leads Chris to agree to host a joint first birthday party for Amy, and Reagan to accuse him of being a pushover. Ava takes it upon herself to take the birthday party to the next level, while Nancy sees this as an opportunity to look for a man.    "
+                },
+                "18": {
+                    "title": "New Boss",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 48,
+                    "original air date": "1 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    On the cusp of the fifth anniversary of \"Ava,\" Reagan and Ava's idol, Yvonne Encanto, acquires the show. This acquisition brings more than they were expecting when Yvonne's right hand, Luke Granby, an ex-military man, takes charge as the new boss. Meanwhile, Chris and Reed decide to refurbish Reed's recently inherited motorcycle.    "
+                },
+                "19": {
+                    "title": "Couple Friends",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 52,
+                    "original air date": "8 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reagan and Chris try a little too hard to befriend a fun couple, Justin and Lawrence, who have a young child. Meanwhile, Ava's feud with Luke over her show's business dealings gets uncomfortably personal.    "
+                },
+                "20": {
+                    "title": "Baby Fever",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 50,
+                    "original air date": "15 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Chris pulls out all the stops to convince Reagan to have another baby. Meanwhile, Ava's decision to join a mentorship program, started by Yvonne Encanto, has less than stellar results and Missy is worried she's cheating on Ava by helping Luke.    "
+                },
+                "21": {
+                    "title": "Daddy Daughter Time",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "votes": 53,
+                    "original air date": "22 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    When Chris gets a segment on the Ava show, Reagan starts to realize how much she needs her own space at work. Meanwhile, Ava's dad visits with his family, who are more interested in meeting celebrities like Sharon Osbourne, Ava's rival, than spending time with Ava.    "
+                },
+                "22": {
+                    "title": "Letting Go",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "votes": 49,
+                    "original air date": "29 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reagan and Chris face the changes in their lives - Stevie Nicks and Chris Diamantopoulos guest star.    "
+                },
+                "23": {
+                    "title": "Hey Jealousy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 23,
+                    "votes": 52,
+                    "original air date": "5 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reagan's relationship with her boss begins to affect her relationship with Chris - Fred Armisen, Will Forte and Steven Pasquale guest star.    "
+                },
+                "24": {
+                    "title": "The Proposals",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Up All Night (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 24,
+                    "votes": 56,
+                    "original air date": "12 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reagan and Chris have a chance to rewrite history - Jason Lee, Chris Diamantopoulos and Marion Ross guest star.    "
+                }
+            }
+        },
+        "number of episodes": 35,
+        "cast": [
+            {
+                "name": "Applegate, Christina"
+            },
+            {
+                "name": "Rudolph, Maya"
+            },
+            {
+                "name": "Arnett, Will"
+            },
+            {
+                "name": "Hall, Jennifer"
+            },
+            {
+                "name": "Villepique, Jean"
+            },
+            {
+                "name": "Braunger, Matt"
+            },
+            {
+                "name": "Jones, Luka"
+            },
+            {
+                "name": "Prince, Carly"
+            },
+            {
+                "name": "Prince, Delaney"
+            },
+            {
+                "name": "Lee, Jason"
+            },
+            {
+                "name": "Cannon, Nick"
+            },
+            {
+                "name": "Hayes, Sean"
+            },
+            {
+                "name": "Pasquale, Steven"
+            },
+            {
+                "name": "Diamantopoulos, Chris"
+            },
+            {
+                "name": "Gregor, Adam"
+            },
+            {
+                "name": "Friedman, Quinn"
+            },
+            {
+                "name": "Danner, Blythe"
+            },
+            {
+                "name": "Forte, Will"
+            },
+            {
+                "name": "Csengery, Chloe"
+            },
+            {
+                "name": "Gordon, Japheth"
+            },
+            {
+                "name": "Shannon, Molly"
+            },
+            {
+                "name": "Huebel, Rob"
+            },
+            {
+                "name": "McGee, Jack"
+            },
+            {
+                "name": "Mullally, Megan"
+            },
+            {
+                "name": "Best, Eve"
+            },
+            {
+                "name": "Ellis, Mary Elizabeth"
+            },
+            {
+                "name": "Falcone, Ben"
+            },
+            {
+                "name": "Weaver, Michael"
+            },
+            {
+                "name": "Willert, Masen"
+            },
+            {
+                "name": "Salazar, Ryan"
+            },
+            {
+                "name": "Droege, Drew"
+            },
+            {
+                "name": "Maddux, Jayden"
+            },
+            {
+                "name": "Ever, Sawyer"
+            },
+            {
+                "name": "Willert, Jaxen"
+            },
+            {
+                "name": "Hitchcock, Michael"
+            },
+            {
+                "name": "Aaron, Caroline"
+            },
+            {
+                "name": "Dratch, Rachel"
+            },
+            {
+                "name": "La Placa, Alison"
+            },
+            {
+                "name": "Nicks, Stevie"
+            },
+            {
+                "name": "Winkler, Henry"
+            },
+            {
+                "name": "Campbell, Adam"
+            },
+            {
+                "name": "French, Kate"
+            },
+            {
+                "name": "Lauer, Matt"
+            },
+            {
+                "name": "Page, Sam"
+            },
+            {
+                "name": "Pyle, Missi"
+            },
+            {
+                "name": "Schiff, Richard"
+            },
+            {
+                "name": "Tompkins, Paul F."
+            },
+            {
+                "name": "Austin, Reggie"
+            },
+            {
+                "name": "Hale, Tony"
+            },
+            {
+                "name": "Morissette, Alanis"
+            }
+        ],
+        "locations": [
+            "CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "22"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "number of seasons": 2,
+        "rating": 6.5,
+        "votes": 8921,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTM3ODkxNTA2MV5BMl5BanBnXkFtZTcwNTA3OTQzNg@@._V1_SY150_CR5,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Up All Night",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-2012",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Spivey, Emily"
+            },
+            {
+                "name": "Rivinoja, Erica"
+            },
+            {
+                "name": "Williams, Caroline"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Broadway Video"
+            },
+            {
+                "name": "Universal Media Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "National Broadcasting Company (NBC)"
+            },
+            {
+                "name": "Canadian Television (CTV)"
+            },
+            {
+                "name": "ITV 2"
+            },
+            {
+                "name": "Universal Channel"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Designer Wardrobe Trailers"
+            },
+            {
+                "name": "Direct Tools & Fasteners"
+            },
+            {
+                "name": "Good Dog Animals"
+            },
+            {
+                "name": "Inter Video"
+            },
+            {
+                "name": "Movie Movers"
+            },
+            {
+                "name": "Movie Movers"
+            },
+            {
+                "name": "Movie Movers"
+            },
+            {
+                "name": "Reel Security"
+            }
+        ],
+        "plot": [
+            "Takes an irreverent look at parenthood through the point of view of an acerbic working mother, along with her stay-at-home husband and opinionated parents.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "22 min"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 8921,
+                "rating": 6.5
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "aged 18 29": {
+                "votes": 2149,
+                "rating": 6.6
+            },
+            "aged 30 44": {
+                "votes": 4536,
+                "rating": 6.5
+            },
+            "aged 45 plus": {
+                "votes": 1047,
+                "rating": 5.9
+            },
+            "males": {
+                "votes": 4144,
+                "rating": 6.2
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 18 29": {
+                "votes": 1011,
+                "rating": 6.4
+            },
+            "males aged 30 44": {
+                "votes": 2351,
+                "rating": 6.3
+            },
+            "males aged 45 plus": {
+                "votes": 657,
+                "rating": 5.8
+            },
+            "females": {
+                "votes": 3784,
+                "rating": 6.8
+            },
+            "females aged 18 29": {
+                "votes": 1115,
+                "rating": 6.8
+            },
+            "females aged 30 44": {
+                "votes": 2138,
+                "rating": 6.9
+            },
+            "females aged 45 plus": {
+                "votes": 382,
+                "rating": 6.1
+            },
+            "top 1000 voters": {
+                "votes": 109,
+                "rating": 5.2
+            },
+            "us users": {
+                "votes": 3054,
+                "rating": 6.5
+            },
+            "non us users": {
+                "votes": 3284,
+                "rating": 6.3
+            }
+        },
+        "number of votes": {
+            "10": 1387,
+            "9": 778,
+            "8": 1600,
+            "7": 1834,
+            "6": 1267,
+            "5": 743,
+            "4": 411,
+            "3": 256,
+            "2": 205,
+            "1": 440
+        },
+        "arithmetic mean": 6.8,
+        "median": 7
+    }
+}

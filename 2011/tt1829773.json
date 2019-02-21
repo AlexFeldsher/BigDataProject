@@ -1,0 +1,155 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Australia\n",
+                "date": "24 January 2011"
+            }
+        ],
+        "release dates": [
+            "Australia::24 January 2011"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "6PM with George Negus"
+            },
+            {
+                "countries": "Australia (new title)",
+                "title": "6:30 with George Negus"
+            }
+        ],
+        "akas": [
+            "6PM with George Negus (original title)",
+            "6:30 with George Negus Australia (new title)"
+        ],
+        "akas from release info": [
+            "6PM with George Negus (original title)",
+            "6:30 with George Negus Australia (new title)"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Episode dated 22 September 2011",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "6PM with George Negus (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "22 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "MacDonald, Hamish"
+            },
+            {
+                "name": "Negus, George"
+            },
+            {
+                "name": "Riminton, Hugh"
+            }
+        ],
+        "locations": [
+            "Channel Ten Studios, Sydney, New South Wales, Australia::(studio)"
+        ],
+        "genres": [
+            "News"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "country codes": [
+            "au"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "rating": 3.5,
+        "votes": 11,
+        "languages": [
+            "English"
+        ],
+        "title": "6PM with George Negus",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-2011",
+        "distributors": [
+            {
+                "name": "Network Ten"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "30 min (Australia)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 11,
+                "rating": 3.5
+            },
+            "aged 18 29": {
+                "votes": 2,
+                "rating": 4.0
+            },
+            "aged 30 44": {
+                "votes": 6,
+                "rating": 3.7
+            },
+            "males": {
+                "votes": 7,
+                "rating": 2.7
+            },
+            "males aged 18 29": {
+                "votes": 1,
+                "rating": 1.0
+            },
+            "males aged 30 44": {
+                "votes": 5,
+                "rating": 2.9
+            },
+            "top 1000 voters": {
+                "votes": 1,
+                "rating": 5.0
+            },
+            "us users": {
+                "votes": 1,
+                "rating": 4.0
+            },
+            "non us users": {
+                "votes": 7,
+                "rating": 2.7
+            }
+        },
+        "number of votes": {
+            "10": 0,
+            "9": 0,
+            "8": 0,
+            "7": 2,
+            "6": 0,
+            "5": 2,
+            "4": 1,
+            "3": 1,
+            "2": 2,
+            "1": 3
+        },
+        "arithmetic mean": 3.5,
+        "median": 3
+    }
+}

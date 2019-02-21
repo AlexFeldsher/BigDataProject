@@ -1,0 +1,133 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "10 October 2011"
+            },
+            {
+                "country": "UK\n",
+                "date": "10 October 2011",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "UK\n",
+                "date": "15 October 2011"
+            }
+        ],
+        "release dates": [
+            "UK::10 October 2011",
+            "UK::10 October 2011                            (internet)",
+            "UK::15 October 2011"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Question 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "DBA in Space (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "10 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Qustion 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "DBA in Space (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "10 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Qustion 3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "DBA in Space (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "12 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "McGehee, Brad"
+            },
+            {
+                "name": "Mooney, Nell"
+            }
+        ],
+        "genres": [
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOTNlN2ZkYTQtMTZkNi00ZGZhLWFmN2YtYjZlNTlkZjc4OTlkXkEyXkFqcGdeQXVyMjAxODg3NzY@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "DBA in Space",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-",
+        "akas": [
+            "DBA in Space (United Kingdom)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Best, Dave"
+            },
+            {
+                "name": "McGregor, William"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "The Mill"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "The Mill"
+            }
+        ],
+        "plot": [
+            "An online interactive challenge where one lucky viewer will win a trip to space.::McGregor, Will"
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

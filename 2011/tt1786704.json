@@ -1,0 +1,576 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "29 June 2011"
+            },
+            {
+                "country": "Brazil\n",
+                "date": "6 March 2012"
+            }
+        ],
+        "release dates": [
+            "USA::29 June 2011",
+            "Brazil::6 March 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "State of Georgia"
+            },
+            {
+                "countries": "France",
+                "title": "Georgia dans tous ses États"
+            },
+            {
+                "countries": "Russia",
+                "title": "Большая Джорджия"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "The Great State of Georgia"
+            },
+            {
+                "countries": "USA (informal title)",
+                "title": "Georgia"
+            }
+        ],
+        "akas": [
+            "State of Georgia (original title)",
+            "Georgia dans tous ses États France",
+            "Большая Джорджия Russia",
+            "The Great State of Georgia USA (working title)",
+            "Georgia USA (informal title)"
+        ],
+        "akas from release info": [
+            "State of Georgia (original title)",
+            "Georgia dans tous ses États France",
+            "Большая Джорджия Russia",
+            "The Great State of Georgia USA (working title)",
+            "Georgia USA (informal title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "State of Georgia (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 27,
+                    "original air date": "29 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Georgia, an aspiring actress with a larger than life personality, and her best friend move from the South to New York City so she can become famous.    "
+                },
+                "2": {
+                    "title": "Flavor of the Week",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "State of Georgia (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 18,
+                    "original air date": "6 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    Georgia doesn't listen to Jo's advice and dates the guy at the yoghurt shop.    "
+                },
+                "3": {
+                    "title": "Best Friends For-Never",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "State of Georgia (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 14,
+                    "original air date": "13 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    Georgia thinks her friendship with Jo is falling apart and attempts to reconnect Aunt Honey with her long, lost best friend.    "
+                },
+                "4": {
+                    "title": "The Mole",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "State of Georgia (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 11,
+                    "original air date": "20 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    Georgia is suspicious of a guy who asks her out on a date when she can't find any information about him online. Jo tutors a high school student who seems to have a crush on her.    "
+                },
+                "5": {
+                    "title": "Know When to Fold 'em",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "State of Georgia (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 12,
+                    "original air date": "27 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    Georgia needs to leave work early to film her first commercial. Jo has an unexplained attraction to her co-worker.    "
+                },
+                "6": {
+                    "title": "Mo' Honey, Mo' Problems",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "State of Georgia (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 15,
+                    "original air date": "3 Aug. 2011",
+                    "year": "2011",
+                    "plot": "\n    Georgia and Jo believe Aunt Honey is having financial difficulty when she moves into their apartment. They help to plan the fundraiser that Aunt Honey hosts every year.    "
+                },
+                "7": {
+                    "title": "There's a Place for Us",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "State of Georgia (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 11,
+                    "original air date": "3 Aug. 2011",
+                    "year": "2011",
+                    "plot": "\n    Georgia and Jo try to get into an exclusive nightclub. Jo is unhappy with her assigned study carrel in grad school.    "
+                },
+                "8": {
+                    "title": "R-E-S-P-E-C-T",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "State of Georgia (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 10,
+                    "original air date": "3 Aug. 2011",
+                    "year": "2011",
+                    "plot": "\n    Georgia hosts a talent showcase with the help of Aunt Honey. Jo gets her hair straightened for the first time.    "
+                },
+                "9": {
+                    "title": "Foot in the Door",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "State of Georgia (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 10,
+                    "original air date": "3 Aug. 2011",
+                    "year": "2011",
+                    "plot": "\n    Aunt Honey helps Georgia get her first big break on a prime time television show.    "
+                },
+                "10": {
+                    "title": "The Popular Chicks",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "State of Georgia (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 10,
+                    "original air date": "10 Aug. 2011",
+                    "year": "2011",
+                    "plot": "\n    Georgia pretends to have front row tickets to a concert to impress an old frenemy. Jason Derulo guest stars.    "
+                },
+                "11": {
+                    "title": "It's Not Easy Being Green",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "State of Georgia (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 8,
+                    "original air date": "17 Aug. 2011",
+                    "year": "2011",
+                    "plot": "\n    Georgia and Jo pretend to live an organic lifestyle when they go on a double date with farmers.    "
+                },
+                "12": {
+                    "title": "Locked Up, a Broad",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "State of Georgia (TV Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 10,
+                    "original air date": "17 Aug. 2011",
+                    "year": "2011",
+                    "plot": "\n    Georgia and Jo find themselves in a bind when Georgia tries on a dress Aunt Honey warns her not to touch.    "
+                }
+            }
+        },
+        "number of episodes": 12,
+        "cast": [
+            {
+                "name": "Raven-Symoné"
+            },
+            {
+                "name": "Delfino, Majandra"
+            },
+            {
+                "name": "Devine, Loretta"
+            },
+            {
+                "name": "Covais, Kevin"
+            },
+            {
+                "name": "Minhaj, Hasan"
+            },
+            {
+                "name": "Rogel, Jason"
+            },
+            {
+                "name": "Arison, Amir"
+            },
+            {
+                "name": "LaMarr, Phil"
+            },
+            {
+                "name": "Weber, Charlie"
+            },
+            {
+                "name": "Beauvais, Garcelle"
+            },
+            {
+                "name": "Bruening, Justin"
+            },
+            {
+                "name": "Derulo, Jason"
+            },
+            {
+                "name": "Hill, Amy"
+            },
+            {
+                "name": "Janowicz, Josh"
+            },
+            {
+                "name": "Lewis, Jenifer"
+            },
+            {
+                "name": "Mackenzie, Peter"
+            },
+            {
+                "name": "Sulieman, Sterling"
+            },
+            {
+                "name": "Bowie, John Ross"
+            },
+            {
+                "name": "Burns, Regan"
+            },
+            {
+                "name": "Hayes, Kristina"
+            },
+            {
+                "name": "Holroyd, Scott"
+            },
+            {
+                "name": "Monfries, Henry"
+            },
+            {
+                "name": "Palermo, Brian"
+            },
+            {
+                "name": "Parsons, Nathan"
+            },
+            {
+                "name": "Shaw, Brit"
+            },
+            {
+                "name": "Adams, Tacey"
+            },
+            {
+                "name": "Clark, Jessica"
+            },
+            {
+                "name": "DeVault, Mary K."
+            },
+            {
+                "name": "Lee, Elaine Mani"
+            },
+            {
+                "name": "Liu, Jenn"
+            },
+            {
+                "name": "Alegria, Louie"
+            },
+            {
+                "name": "Hargrove, Hayes"
+            },
+            {
+                "name": "Lawrence, Torrey B."
+            },
+            {
+                "name": "Luza, Jessica"
+            },
+            {
+                "name": "McCarthy, Seamus"
+            },
+            {
+                "name": "Alvarado, Adrian"
+            },
+            {
+                "name": "Avery, Rachel"
+            },
+            {
+                "name": "Callahan, Cody"
+            },
+            {
+                "name": "Culp, Clint"
+            },
+            {
+                "name": "Amato, Bruno"
+            },
+            {
+                "name": "Covington, Martez"
+            },
+            {
+                "name": "de Metz, Delon"
+            },
+            {
+                "name": "Nolan, Ryan James"
+            },
+            {
+                "name": "Crawford, Jarrod"
+            },
+            {
+                "name": "Featherson, Ashley Blaine"
+            },
+            {
+                "name": "Günsberg, Andrew"
+            },
+            {
+                "name": "Lillis, Bryan"
+            },
+            {
+                "name": "DuBarry, Ramona"
+            },
+            {
+                "name": "Weiner, Molly"
+            },
+            {
+                "name": "Angel, Belle"
+            }
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "23"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1 / (high definition)",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 6.7,
+        "votes": 989,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjMwMTE4MTY2Ml5BMl5BanBnXkFtZTcwMzcwOTM4NQ@@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "Georgia Chamberlain is a confident aspiring actress with a larger-than-life personality who moves to the city from the South in order to make it on Broadway. Along with her quirky best friend and science-geek Jo, she'll pursue her acting dreams as she tackles part-time jobs and countless auditions with often hilarious results.",
+        "languages": [
+            "English"
+        ],
+        "title": "State of Georgia",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-2011",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Greenstein, Jeff"
+            },
+            {
+                "name": "Weiner, Jennifer"
+            },
+            {
+                "name": "Rudell, Kirk J."
+            }
+        ],
+        "production companies": [
+            {
+                "name": "ABC Television Studios"
+            },
+            {
+                "name": "Disney Enterprises"
+            },
+            {
+                "name": "Jennifer Weiner Productions"
+            },
+            {
+                "name": "Kirk J. Rudell Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "ABC Family"
+            },
+            {
+                "name": "ABC Family"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney Enterprises"
+            },
+            {
+                "name": "Disney-ABC Domestic Television"
+            },
+            {
+                "name": "Sony Spin"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Marshall/Plumb Research Associates"
+            }
+        ],
+        "plot": [
+            "Georgia Chamberlain is a confident aspiring actress with a larger-than-life personality who moves to the city from the South in order to make it on Broadway. Along with her quirky best friend and science-geek Jo, she'll pursue her acting dreams as she tackles part-time jobs and countless auditions with often hilarious results.::iTunes"
+        ],
+        "tech": {
+            "runtime": [
+                "23 min (approx)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1 / (high definition)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 989,
+                "rating": 6.7
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "aged 18 29": {
+                "votes": 399,
+                "rating": 7.3
+            },
+            "aged 30 44": {
+                "votes": 390,
+                "rating": 6.2
+            },
+            "aged 45 plus": {
+                "votes": 79,
+                "rating": 6.0
+            },
+            "males": {
+                "votes": 338,
+                "rating": 5.9
+            },
+            "males aged 18 29": {
+                "votes": 129,
+                "rating": 7.5
+            },
+            "males aged 30 44": {
+                "votes": 159,
+                "rating": 5.1
+            },
+            "males aged 45 plus": {
+                "votes": 45,
+                "rating": 5.4
+            },
+            "females": {
+                "votes": 550,
+                "rating": 7.1
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 18 29": {
+                "votes": 263,
+                "rating": 7.2
+            },
+            "females aged 30 44": {
+                "votes": 227,
+                "rating": 7.0
+            },
+            "females aged 45 plus": {
+                "votes": 34,
+                "rating": 7.0
+            },
+            "top 1000 voters": {
+                "votes": 25,
+                "rating": 5.7
+            },
+            "us users": {
+                "votes": 445,
+                "rating": 7.0
+            },
+            "non us users": {
+                "votes": 254,
+                "rating": 5.7
+            }
+        },
+        "number of votes": {
+            "10": 323,
+            "9": 84,
+            "8": 130,
+            "7": 129,
+            "6": 107,
+            "5": 59,
+            "4": 34,
+            "3": 27,
+            "2": 30,
+            "1": 66
+        },
+        "arithmetic mean": 7.3,
+        "median": 8
+    }
+}

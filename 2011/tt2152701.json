@@ -1,0 +1,363 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "9 December 2011",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "France\n",
+                "date": "9 December 2011",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "10 December 2011"
+            },
+            {
+                "country": "Germany\n",
+                "date": "16 December 2011",
+                "notes": "                            (part 2)"
+            },
+            {
+                "country": "France\n",
+                "date": "16 December 2011",
+                "notes": "                            (part 2)"
+            }
+        ],
+        "release dates": [
+            "Germany::9 December 2011                            (part 1)",
+            "France::9 December 2011                            (part 1)",
+            "Germany::10 December 2011",
+            "Germany::16 December 2011                            (part 2)",
+            "France::16 December 2011                            (part 2)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Das automatische Gehirn"
+            },
+            {
+                "countries": "France (literal title)",
+                "title": "Le cerveau et ses automatismes"
+            },
+            {
+                "countries": "France (first part title)",
+                "title": "Le cerveau et ses automatismes: La magie de l'inconscient"
+            },
+            {
+                "countries": "France (second part title)",
+                "title": "Le cerveau et ses automatismes: Le pouvoir de l'inconscient"
+            },
+            {
+                "countries": "Germany (second part title)",
+                "title": "Das automatische Gehirn: Die Macht des Unbewussten"
+            },
+            {
+                "countries": "Germany (first part title)",
+                "title": "Das automatische Gehirn: Die Magie des Unbewussten"
+            },
+            {
+                "countries": "Greece",
+                "title": "Aftomatos engefalos"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "Automatic Brain: The Power of the Uncouncious"
+            }
+        ],
+        "akas": [
+            "Das automatische Gehirn (original title)",
+            "Le cerveau et ses automatismes France (literal title)",
+            "Le cerveau et ses automatismes: La magie de l'inconscient France (first part title)",
+            "Le cerveau et ses automatismes: Le pouvoir de l'inconscient France (second part title)",
+            "Das automatische Gehirn: Die Macht des Unbewussten Germany (second part title)",
+            "Das automatische Gehirn: Die Magie des Unbewussten Germany (first part title)",
+            "Aftomatos engefalos Greece",
+            "Automatic Brain: The Power of the Uncouncious World-wide (English title)"
+        ],
+        "akas from release info": [
+            "Das automatische Gehirn (original title)",
+            "Le cerveau et ses automatismes France (literal title)",
+            "Le cerveau et ses automatismes: La magie de l'inconscient France (first part title)",
+            "Le cerveau et ses automatismes: Le pouvoir de l'inconscient France (second part title)",
+            "Das automatische Gehirn: Die Macht des Unbewussten Germany (second part title)",
+            "Das automatische Gehirn: Die Magie des Unbewussten Germany (first part title)",
+            "Aftomatos engefalos Greece",
+            "Automatic Brain: The Power of the Uncouncious World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Die Magie des Unbewussten",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Automatic Brain: The Power of the Uncouncious (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "10 Dec. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Das Wissen des Unbewussten",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Automatic Brain: The Power of the Uncouncious (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "16 Dec. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Snyder, Allan"
+            },
+            {
+                "name": "Bargh, John"
+            },
+            {
+                "name": "Macknik, Stephen"
+            },
+            {
+                "name": "Robbins, Apollo"
+            },
+            {
+                "name": "Martínez-Conde, Susana"
+            },
+            {
+                "name": "Mischel, Walter"
+            },
+            {
+                "name": "Roth, Gerhard"
+            },
+            {
+                "name": "Todorov, Alex"
+            },
+            {
+                "name": "Ehrsson, Henrik"
+            },
+            {
+                "name": "Grützner, Henriette Fee"
+            },
+            {
+                "name": "Moss, Johannes"
+            },
+            {
+                "name": "Völz, Benjamin"
+            },
+            {
+                "name": "Brand, Matthias"
+            },
+            {
+                "name": "Smith, Mickey"
+            },
+            {
+                "name": "Rangel, Antonio"
+            },
+            {
+                "name": "Ganse, Stefan"
+            },
+            {
+                "name": "Fisher, Helen"
+            },
+            {
+                "name": "Haynes, John-Dylan"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "87"
+        ],
+        "countries": [
+            "Germany",
+            "France",
+            "Cyprus",
+            "Greece",
+            "Ireland"
+        ],
+        "country codes": [
+            "de",
+            "fr",
+            "cy",
+            "gr",
+            "ie"
+        ],
+        "language codes": [
+            "en",
+            "de"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 7.6,
+        "votes": 41,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BM2UyN2Y2MzMtZTY5NS00YjJjLTkyNDItZGMzOTM3NDJhZGMxXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SY150_CR6,0,101,150_.jpg",
+        "plot outline": "Over 90 percent of our daily actions are done unconsciously, an \"autopilot\" in our head. Automatic Brain takes a look at how unconscious processes steer the lives of two ordinary people, from everyday routines to life choices such as finding a partner.",
+        "languages": [
+            "English",
+            "German"
+        ],
+        "title": "Automatic Brain: The Power of the Uncouncious",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "D'Amicis, Francesca"
+            },
+            {
+                "name": "Höfer, Petra"
+            },
+            {
+                "name": "Röckenhaus, Freddie"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "colourFIELD Tell-A-Vision"
+            },
+            {
+                "name": "CyBC"
+            },
+            {
+                "name": "Hellenic Radio & Television (ERT)"
+            },
+            {
+                "name": "Raidió Teilifís Éireann (RTÉ)"
+            },
+            {
+                "name": "Schweizerische Radio- und Fernsehgesellschaft (SRG)"
+            },
+            {
+                "name": "Swedish Educational Broadcasting Company (UR)"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            },
+            {
+                "name": "European Broadcasting Union (EBU)"
+            },
+            {
+                "name": "Westdeutscher Rundfunk (WDR)"
+            },
+            {
+                "name": "Arte"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Alive Vertrieb und Marketing"
+            },
+            {
+                "name": "Arte"
+            },
+            {
+                "name": "Arte"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "422 South"
+            }
+        ],
+        "plot": [
+            "Over 90 percent of our daily actions are done unconsciously, an \"autopilot\" in our head. Automatic Brain takes a look at how unconscious processes steer the lives of two ordinary people, from everyday routines to life choices such as finding a partner."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr 27 min (87 min) (2 parts)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 41,
+                "rating": 7.6
+            },
+            "aged 18 29": {
+                "votes": 12,
+                "rating": 6.9
+            },
+            "aged 30 44": {
+                "votes": 13,
+                "rating": 8.3
+            },
+            "aged 45 plus": {
+                "votes": 6,
+                "rating": 7.5
+            },
+            "males": {
+                "votes": 28,
+                "rating": 7.7
+            },
+            "males aged 18 29": {
+                "votes": 10,
+                "rating": 6.5
+            },
+            "males aged 30 44": {
+                "votes": 11,
+                "rating": 8.4
+            },
+            "males aged 45 plus": {
+                "votes": 6,
+                "rating": 7.5
+            },
+            "females": {
+                "votes": 4,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 2,
+                "rating": 8.5
+            },
+            "females aged 30 44": {
+                "votes": 2,
+                "rating": 7.5
+            },
+            "top 1000 voters": {
+                "votes": 2,
+                "rating": 7.5
+            },
+            "us users": {
+                "votes": 3,
+                "rating": 5.7
+            },
+            "non us users": {
+                "votes": 26,
+                "rating": 7.8
+            }
+        },
+        "number of votes": {
+            "10": 8,
+            "9": 6,
+            "8": 14,
+            "7": 4,
+            "6": 4,
+            "5": 2,
+            "4": 0,
+            "3": 0,
+            "2": 1,
+            "1": 2
+        },
+        "arithmetic mean": 7.6,
+        "median": 8
+    }
+}

@@ -1,0 +1,797 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Japan\n",
+                "date": "6 March 2011",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "6 April 2011"
+            }
+        ],
+        "release dates": [
+            "Japan::6 March 2011                            (limited)",
+            "Japan::6 April 2011"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Steins;Gate"
+            },
+            {
+                "countries": "Russia",
+                "title": "Врата Штейна"
+            },
+            {
+                "countries": "Spain",
+                "title": "Steins;Gate"
+            },
+            {
+                "countries": "Ukraine",
+                "title": "Брама;Штейна"
+            }
+        ],
+        "akas": [
+            "Steins;Gate (original title)",
+            "Врата Штейна Russia",
+            "Steins;Gate Spain",
+            "Брама;Штейна Ukraine"
+        ],
+        "akas from release info": [
+            "Steins;Gate (original title)",
+            "Врата Штейна Russia",
+            "Steins;Gate Spain",
+            "Брама;Штейна Ukraine"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Kyoukaimenjou No Missing Link - Divide by Zero",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "votes": 138,
+                    "original air date": "3 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    Alternate 23rd episode of Steins;Gate, which leads into the story of \"Steins;Gate 0\".    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Prologue to the Beginning and End",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 473,
+                    "original air date": "6 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    A scientist can't recall events that others claim he experienced.    "
+                },
+                "2": {
+                    "title": "Time Travel Paranoia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 408,
+                    "original air date": "13 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    Okabe is surprised to see Makise up and about after she was killed.    "
+                },
+                "3": {
+                    "title": "Parallel Process Paranoia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 388,
+                    "original air date": "20 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    Okabe suspects his microwave oven is behind the recent unusual events.    "
+                },
+                "4": {
+                    "title": "Interpreter Rendezvous...",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 386,
+                    "original air date": "27 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    Okabe needs to find a very old computer to hack a very new tech.    "
+                },
+                "5": {
+                    "title": "Starmine Rendezvous",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 377,
+                    "original air date": "4 May 2011",
+                    "year": "2011",
+                    "plot": "\n    A successful hack reveals SERN's big secret.    "
+                },
+                "6": {
+                    "title": "Butterfly Effect's Divergence",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 374,
+                    "original air date": "11 May 2011",
+                    "year": "2011",
+                    "plot": "\n    Okabe's small scale experiment is partially successful.    "
+                },
+                "7": {
+                    "title": "Divergence Singularity",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 369,
+                    "original air date": "18 May 2011",
+                    "year": "2011",
+                    "plot": "\n    Okabe takes his experimentation to the next level by texting the winning lotto numbers back in time, but he fails to consider how his actions might alter the present - or the future.    "
+                },
+                "8": {
+                    "title": "Chaos Theory Homeostasis I",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 357,
+                    "original air date": "25 May 2011",
+                    "year": "2011",
+                    "plot": "\n    The latest experiment for Okabe and his lab mates leads to the disappearance of one of their own. Next, they'll attempt to use their time travel technology to make a young boy's dream a reality.    "
+                },
+                "9": {
+                    "title": "Chaos Theory Homeostasis II",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 356,
+                    "original air date": "1 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Okabe grows concerned over the drastic changes his experimentation is causing, and the IBN-5100 disappears from the lab. The only hope for finding a replacement rests upon the delicate shoulders of Feyris the cat girl.    "
+                },
+                "10": {
+                    "title": "Chaos Theory Homeostasis III",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 351,
+                    "original air date": "8 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    The part-time warrior from downstairs tells Okabe about the search for her missing father. Meanwhile, the aspiring mad scientist is troubled by a mysterious text message.    "
+                },
+                "11": {
+                    "title": "Dogma in Event Horizon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 359,
+                    "original air date": "15 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    As the lab members prepare to transport human memories by way of a Time Leap, Okabe receives some highly disturbing news: Makise may be a SERN spy!    "
+                },
+                "12": {
+                    "title": "Dogma in Ergosphere",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 437,
+                    "original air date": "22 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Tension builds at the Lab when Makise and Suzuha both show up for the party, but that's just the beginning. As the night draws to a close, armed thugs - led by a familiar face - come looking for the time machine.    "
+                },
+                "13": {
+                    "title": "Metaphysics Necrosis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 382,
+                    "original air date": "29 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Okabe, desperate to prevent the tragedy he's already seen happen, summons the courage for a daring Time Leap. Can he save the life of his oldest and dearest companion?    "
+                },
+                "14": {
+                    "title": "Physically Necrosis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 377,
+                    "original air date": "6 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    Despite his many attempts, Okabe is unable to prevent the death of Mayuri, so he turns to Makise for help solving the riddle of time travel. Later, Suzuha's true identity is revealed    "
+                },
+                "15": {
+                    "title": "Missing Link Necrosis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 349,
+                    "original air date": "13 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    Suzuha reveals the orgins of SERN's future totalitarianism. While she continues her work to destroy the organization, Okabe and Mayuri continue the search for Suzuha's father.    "
+                },
+                "16": {
+                    "title": "Sacrificial Necrosis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 379,
+                    "original air date": "20 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    The truth about Suzuha's father is finally revealed. Okabe realizes the devastating consequences of stopping her from leaving the night of the party.    "
+                },
+                "17": {
+                    "title": "Made in Complex",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 349,
+                    "original air date": "27 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    After the change in divergence fails to have a lasting effect, Okabe and Kurisu set out to further manipulate time in the hopes of gaining an IBN 5100.    "
+                },
+                "18": {
+                    "title": "Fractal Androgynous",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 350,
+                    "original air date": "3 Aug. 2011",
+                    "year": "2011",
+                    "plot": "\n    In a further attempt to rescue Mayuri from her fate, Okabe reveals Ruka's past to her. Ruka must make a difficult decision that might change her entire life.    "
+                },
+                "19": {
+                    "title": "Endless Apoptosis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 352,
+                    "original air date": "10 Aug. 2011",
+                    "year": "2011",
+                    "plot": "\n    Okabe must make a time leap in order to save Moeka from herself. He realizes that all is not what it seems as Moeka's shady behavior leads him closer to the IBN 5100.    "
+                },
+                "20": {
+                    "title": "Finalize Apoptosis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 359,
+                    "original air date": "17 Aug. 2011",
+                    "year": "2011",
+                    "plot": "\n    With the help of Kurisu and Moeka, Okabe attempts to get closer to the IBN 5100 and the mysterious FB. As he closes in on SERN's network, he realizes that the path to victory will not be without additional sacrifice.    "
+                },
+                "21": {
+                    "title": "Paradox Meltdown",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "votes": 352,
+                    "original air date": "24 Aug. 2011",
+                    "year": "2011",
+                    "plot": "\n    With his new discovery in mind, Okabe continues his attempts to protect Mayuri while also trying to avoid Kurisu's potential impending fate.    "
+                },
+                "22": {
+                    "title": "Being Meltdown",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "votes": 492,
+                    "original air date": "31 Aug. 2011",
+                    "year": "2011",
+                    "plot": "\n    In order to continue his work against SERN, Okabe must finally choose between saving Kurisu or Mayuri.    "
+                },
+                "23": {
+                    "title": "Open the Steins Gate",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 23,
+                    "votes": 462,
+                    "original air date": "7 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Tasked with preventing an impending World War III by an alternate Suzuha, Okabe finds himself playing an active part in Kurisu's death.    "
+                },
+                "24": {
+                    "title": "Achievement Point",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 24,
+                    "votes": 531,
+                    "original air date": "14 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Okabe has one final chance to travel back in time, set everything right, and save the girl he never even got to love. His mission is vital, but it may mean the end for the mad scientist.    "
+                },
+                "25": {
+                    "title": "Egoistic Poriomania",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Steins;Gate (TV Series 2011–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 25,
+                    "votes": 368,
+                    "original air date": "22 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    After being invited to Los Angeles by Faris, Okabe finds himself chasing after someone who looks strikingly like Suzuha. Later, Okabe and Kurisu discuss their potential love for each other.    "
+                }
+            }
+        },
+        "number of episodes": 26,
+        "cast": [
+            {
+                "name": "Miyano, Mamoru"
+            },
+            {
+                "name": "Imai, Asami"
+            },
+            {
+                "name": "Hanazawa, Kana"
+            },
+            {
+                "name": "Burch, Ashly"
+            },
+            {
+                "name": "Nishimura, Trina"
+            },
+            {
+                "name": "Tatum, J. Michael"
+            },
+            {
+                "name": "Seki, Tomokazu"
+            },
+            {
+                "name": "Rinehart, Tyson"
+            },
+            {
+                "name": "Leigh, Cherami"
+            },
+            {
+                "name": "Tamura, Yukari"
+            },
+            {
+                "name": "Gotô, Saori"
+            },
+            {
+                "name": "Kobayashi, Yû"
+            },
+            {
+                "name": "Terasoma, Masaki"
+            },
+            {
+                "name": "Cavanagh, Jessica"
+            },
+            {
+                "name": "Sabat, Christopher"
+            },
+            {
+                "name": "Seidel, Lindsay"
+            },
+            {
+                "name": "Momoi, Haruko"
+            },
+            {
+                "name": "Yamamoto, Ayano"
+            },
+            {
+                "name": "Palencia, Brina"
+            },
+            {
+                "name": "Saxton, Jad"
+            },
+            {
+                "name": "Ushida, Hiroko"
+            },
+            {
+                "name": "Saito, Takayuki"
+            },
+            {
+                "name": "Burgmeier, John"
+            },
+            {
+                "name": "Clinkenbeard, Colleen"
+            },
+            {
+                "name": "Freeman, Scott"
+            },
+            {
+                "name": "Kobayashi, Katsunori"
+            },
+            {
+                "name": "Tsuchida, Hiroshi"
+            },
+            {
+                "name": "Ogata, Mitsuru"
+            },
+            {
+                "name": "Satô, Takuya"
+            },
+            {
+                "name": "Sakakibara, Naoko"
+            },
+            {
+                "name": "Soda, Takahito"
+            },
+            {
+                "name": "Clark, Leah"
+            },
+            {
+                "name": "Sinclair, Ian"
+            },
+            {
+                "name": "Sutton, Montgomery"
+            },
+            {
+                "name": "Tipton, Alexis"
+            },
+            {
+                "name": "Trosko, Dave"
+            },
+            {
+                "name": "Sakamaki, Manabu"
+            },
+            {
+                "name": "Kikumoto, Taira"
+            },
+            {
+                "name": "Honda, Mariko"
+            },
+            {
+                "name": "Itatori, Masaaki"
+            },
+            {
+                "name": "Yukinari, Toa"
+            },
+            {
+                "name": "Takeda, Kôji"
+            },
+            {
+                "name": "Hirano, Mai"
+            },
+            {
+                "name": "Hachisuga, Kozo"
+            },
+            {
+                "name": "Elliott, R. Bruce"
+            },
+            {
+                "name": "Liebrecht, Jason"
+            },
+            {
+                "name": "McFarland, Mike"
+            },
+            {
+                "name": "Parsons, Phil"
+            },
+            {
+                "name": "Seitz, Patrick"
+            },
+            {
+                "name": "Walker, Tyler"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Drama",
+            "Romance",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "runtimes": [
+            "24"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "country codes": [
+            "jp"
+        ],
+        "language codes": [
+            "ja",
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "certificates": [
+            "Australia:M",
+            "Canada:PG::(Manitoba)",
+            "Canada:13+::(Quebec)",
+            "Germany:12",
+            "New Zealand:M",
+            "Russia:12+",
+            "South Korea:15",
+            "United Kingdom:12",
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 8.7,
+        "votes": 31170,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjUxMzE4ZDctODNjMS00MzIwLThjNDktODkwYjc5YWU0MDc0XkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_SX101_CR0,0,101,150_.jpg",
+        "plot outline": "Okabe Rintarou, a university student who refers to himself as Crazy Mad Scientist Hououin Kyouma and his lab's members work on a microwave device that can transfer messages to the past. Without getting captured, they should get it working in order to beat the evil organization, SERN and stop their evil plans.",
+        "languages": [
+            "Japanese",
+            "English"
+        ],
+        "title": "Steins;Gate",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-2015",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Hanada, Jukki"
+            },
+            {
+                "name": "Nemoto, Toshizo"
+            },
+            {
+                "name": "Shikura, Chiyomaru"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Frontier Works"
+            },
+            {
+                "name": "Future Gadget Lab"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "AT-X"
+            },
+            {
+                "name": "Chiba TV"
+            },
+            {
+                "name": "FUNimation Entertainment"
+            },
+            {
+                "name": "Nico Nico Douga"
+            },
+            {
+                "name": "Sun TV"
+            },
+            {
+                "name": "TV Aichi"
+            },
+            {
+                "name": "TV Saitama"
+            },
+            {
+                "name": "Television Kanagawa (TVK)"
+            },
+            {
+                "name": "Tokyo MX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "5pb."
+            },
+            {
+                "name": "Nitroplus"
+            },
+            {
+                "name": "White Fox"
+            }
+        ],
+        "plot": [
+            "After discovering time travel, a university student and his colleagues must use their knowledge of it to stop an evil organization and their diabolical plans.::ralo229",
+            "Okabe Rintarou, a university student who refers to himself as Crazy Mad Scientist Hououin Kyouma and his lab's members work on a microwave device that can transfer messages to the past. Without getting captured, they should get it working in order to beat the evil organization, SERN and stop their evil plans.::j4x",
+            "Steins; Gate is a story about time travel and the consequences of it's misuse. The protagonist is a man named Okabe Rintarou; a self-proclaimed \"mad scientist\" who goes by the name of Hououin Kyouma. He is about to attend a lecture from a man proclaiming to have discovered the secrets of time travel, Rintarou then challenges his theorem by claiming a man named \"John Titor\" has beaten him to it. He is taken away from the lecture by a strange girl named Makise Kurisu who asks him about a previous conversation they had not too long ago, but Rintarou has no idea who this girl is and leaves her- only to find out that shortly after his departure she has been stabbed to death. Perplexed by these recent events, Rintarou sends a message to a friend named Itaru concerning Kurisu's murder. As he clicks the \"send message button\" he is unconsciously thrown into a alternate reality several inconsistencies with his own memories such as John Titor never appearing in 2010 or there being a large satellite crashed into the roof of the radio kaikan. Dumbfounded by this experience, he begins to piece together a successful method of time travel. On completion, he begins to misuse this power by helping out friends with past dilemmas, not considering the weight of his actions. Eventually leading to consequences so great, he questions whether or not time travel was worth discovering after all...::matteobortone"
+        ],
+        "tech": {
+            "runtime": [
+                "24 min (Japan)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "negative format": [
+                "Digital"
+            ],
+            "cinematographic process": [
+                "Digital (720p) (source format)",
+                "Digital Intermediate (1080p) (master format)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 31170,
+                "rating": 8.7
+            },
+            "aged under 18": {
+                "votes": 118,
+                "rating": 8.4
+            },
+            "aged 18 29": {
+                "votes": 13396,
+                "rating": 8.9
+            },
+            "aged 30 44": {
+                "votes": 5387,
+                "rating": 8.4
+            },
+            "aged 45 plus": {
+                "votes": 675,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 19362,
+                "rating": 8.8
+            },
+            "males aged under 18": {
+                "votes": 99,
+                "rating": 8.4
+            },
+            "males aged 18 29": {
+                "votes": 11866,
+                "rating": 9.0
+            },
+            "males aged 30 44": {
+                "votes": 4850,
+                "rating": 8.5
+            },
+            "males aged 45 plus": {
+                "votes": 568,
+                "rating": 7.4
+            },
+            "females": {
+                "votes": 2222,
+                "rating": 8.5
+            },
+            "females aged under 18": {
+                "votes": 17,
+                "rating": 8.5
+            },
+            "females aged 18 29": {
+                "votes": 1399,
+                "rating": 8.7
+            },
+            "females aged 30 44": {
+                "votes": 482,
+                "rating": 8.0
+            },
+            "females aged 45 plus": {
+                "votes": 91,
+                "rating": 6.7
+            },
+            "top 1000 voters": {
+                "votes": 136,
+                "rating": 6.5
+            },
+            "us users": {
+                "votes": 2711,
+                "rating": 8.5
+            },
+            "non us users": {
+                "votes": 11266,
+                "rating": 8.7
+            }
+        },
+        "number of votes": {
+            "10": 13288,
+            "9": 8848,
+            "8": 4598,
+            "7": 1893,
+            "6": 707,
+            "5": 393,
+            "4": 187,
+            "3": 196,
+            "2": 168,
+            "1": 892
+        },
+        "arithmetic mean": 8.7,
+        "median": 9
+    }
+}

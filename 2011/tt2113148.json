@@ -1,0 +1,493 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Finland\n",
+                "date": "25 December 2011"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "27 December 2011"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "27 December 2011",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "28 December 2011",
+                "notes": "                            (part 2)"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "5 June 2012",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "12 January 2013"
+            },
+            {
+                "country": "Germany\n",
+                "date": "28 March 2013",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "30 March 2013",
+                "notes": "                            (part 2)"
+            },
+            {
+                "country": "UK\n",
+                "date": "6 April 2013"
+            }
+        ],
+        "release dates": [
+            "Finland::25 December 2011",
+            "Sweden::27 December 2011",
+            "Sweden::27 December 2011                            (part 1)",
+            "Sweden::28 December 2011                            (part 2)",
+            "Netherlands::5 June 2012                            (DVD premiere)",
+            "Japan::12 January 2013",
+            "Germany::28 March 2013                            (part 1)",
+            "Germany::30 March 2013                            (part 2)",
+            "UK::6 April 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Arne Dahl: Misterioso"
+            },
+            {
+                "countries": "Finland",
+                "title": "Arne Dahl: Pudotuspeli"
+            },
+            {
+                "countries": "Russia",
+                "title": "Арне Даль: Мистериозо"
+            },
+            {
+                "countries": "UK (subtitle)",
+                "title": "Arne Dahl: The Blinded Man"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "Arne Dahl: Misterioso"
+            }
+        ],
+        "akas": [
+            "Arne Dahl: Misterioso (original title)",
+            "Arne Dahl: Pudotuspeli Finland",
+            "Арне Даль: Мистериозо Russia",
+            "Arne Dahl: The Blinded Man UK (subtitle)",
+            "Arne Dahl: Misterioso World-wide (English title)"
+        ],
+        "akas from release info": [
+            "Arne Dahl: Misterioso (original title)",
+            "Arne Dahl: Pudotuspeli Finland",
+            "Арне Даль: Мистериозо Russia",
+            "Arne Dahl: The Blinded Man UK (subtitle)",
+            "Arne Dahl: Misterioso World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Arne Dahl: Misterioso (TV Mini-Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 13,
+                    "original air date": "27 Dec. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Arne Dahl: Misterioso (TV Mini-Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 12,
+                    "original air date": "28 Dec. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Arvidsson, Malin"
+            },
+            {
+                "name": "Lindh, Irene"
+            },
+            {
+                "name": "Ljungmark, Claes"
+            },
+            {
+                "name": "Roney, Shanti"
+            },
+            {
+                "name": "Samuelsson, Magnus"
+            },
+            {
+                "name": "Varela, Matias"
+            },
+            {
+                "name": "Åkerfelt, Niklas"
+            },
+            {
+                "name": "Blomgren, Mats"
+            },
+            {
+                "name": "Hallgren, Frida"
+            },
+            {
+                "name": "Hartelius, Claes"
+            },
+            {
+                "name": "Ribbing, Ebba"
+            },
+            {
+                "name": "Sarachu, César"
+            },
+            {
+                "name": "Unger, Bisse"
+            },
+            {
+                "name": "Bentsler, Nikolai"
+            },
+            {
+                "name": "Elfsberg, Claes"
+            },
+            {
+                "name": "Gustafsson, Pontus"
+            },
+            {
+                "name": "Malmsten, Mait"
+            },
+            {
+                "name": "Sarv, Kristjan"
+            },
+            {
+                "name": "Zupping, Sten"
+            },
+            {
+                "name": "Thor, Staffan Kihlbom"
+            },
+            {
+                "name": "Thunberg, Oskar"
+            },
+            {
+                "name": "Dejert, Lars"
+            },
+            {
+                "name": "Andersson, Björn"
+            },
+            {
+                "name": "Beckman, Anders"
+            },
+            {
+                "name": "Emretsson, Jan-Erik"
+            },
+            {
+                "name": "Eriksson, Dick"
+            },
+            {
+                "name": "Berg-Böhm, Sofia"
+            },
+            {
+                "name": "Eriksson, John Axel"
+            },
+            {
+                "name": "Björklund, Andreas"
+            },
+            {
+                "name": "Jansson, Kim"
+            },
+            {
+                "name": "Dilber, Suzanna"
+            },
+            {
+                "name": "Lithner, Mathias"
+            },
+            {
+                "name": "Ehrner, Magnus"
+            },
+            {
+                "name": "Rodríguez, Juan"
+            },
+            {
+                "name": "Rothlin, Anna"
+            },
+            {
+                "name": "Bergqvist, Maia Hansson"
+            },
+            {
+                "name": "Holmberg, Per"
+            },
+            {
+                "name": "Schön, Hanna"
+            },
+            {
+                "name": "Linnertorp, Karl"
+            },
+            {
+                "name": "Wannbäck, Angela"
+            },
+            {
+                "name": "Mossegård, Lena"
+            },
+            {
+                "name": "Oja, Rein"
+            },
+            {
+                "name": "Panzenböck, Robert"
+            },
+            {
+                "name": "Sseruwagi, Richard"
+            },
+            {
+                "name": "Tschernich, Wladimir"
+            },
+            {
+                "name": "Waldekranz, Jan"
+            },
+            {
+                "name": "von Rosen, Anna"
+            },
+            {
+                "name": "Hamory, Michael"
+            },
+            {
+                "name": "Kvarnlöt, Henrik"
+            },
+            {
+                "name": "Norestahl, Tom"
+            }
+        ],
+        "locations": [
+            "Kvarnholmen, Nacka, Stockholm, Sweden::(where Gunnar Nyberg finds Unkas Storm)",
+            "Tallinn, Estonia::(Estonian scenes)"
+        ],
+        "genres": [
+            "Crime"
+        ],
+        "runtimes": [
+            "178"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "country codes": [
+            "se"
+        ],
+        "language codes": [
+            "sv",
+            "en",
+            "ru"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "certificates": [
+            "Finland:K-15",
+            "Netherlands:16"
+        ],
+        "original air date": "25 Dec 2011 (Finland)",
+        "number of seasons": 1,
+        "rating": 6.7,
+        "votes": 1390,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNTY2MzEzOTczN15BMl5BanBnXkFtZTcwMTMxNzY4OA@@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "Three Swedish financiers are murdered over three consecutive nights. Evidence suggests that the killings will continue and the world of finance is panicked. The police quickly set up a special unit under the leadership of Detective Jenny Hultin. She hand picks six police officers from across the country and they form the so-called A-group. Under enormous pressure they attempt to solve the case before more finance officers are murdered.",
+        "languages": [
+            "Swedish",
+            "English",
+            "Russian"
+        ],
+        "title": "Arne Dahl: Misterioso",
+        "year": 2011,
+        "kind": "tv mini series",
+        "series years": "2011-2011",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Börjlind, Cilla"
+            },
+            {
+                "name": "Börjlind, Rolf"
+            },
+            {
+                "name": "Dahl, Arne"
+            }
+        ],
+        "director": [
+            {
+                "name": "Hamrell, Harald"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Filmlance International AB"
+            },
+            {
+                "name": "Sveriges Television"
+            },
+            {
+                "name": "Zweites Deutsches Fernsehen"
+            },
+            {
+                "name": "ZDF Enterprises"
+            },
+            {
+                "name": "Filmregion Stockholm Mälardalen"
+            },
+            {
+                "name": "Nordisk Film Production"
+            },
+            {
+                "name": "Yleisradio"
+            },
+            {
+                "name": "Norsk TV2 AS"
+            },
+            {
+                "name": "MEDIA Programme of the European Union"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Sveriges Television (SVT)"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            },
+            {
+                "name": "Nordisk Film"
+            },
+            {
+                "name": "AXN Mystery"
+            },
+            {
+                "name": "Edel Media & Entertainment"
+            },
+            {
+                "name": "Film1"
+            },
+            {
+                "name": "Lumière Home Entertainment"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Panorama film & teatereffekter"
+            }
+        ],
+        "plot": [
+            "Three Swedish financiers are murdered over three consecutive nights. Evidence suggests that the killings will continue and the world of finance is panicked. The police quickly set up a special unit under the leadership of Detective Jenny Hultin. She hand picks six police officers from across the country and they form the so-called A-group. Under enormous pressure they attempt to solve the case before more finance officers are murdered.::Anonymous"
+        ],
+        "synopsis": [
+            "Arne Dahl - Misterioso\nA failed robbery attempt at Sydbanken outside Avesta leaves one robber lying dead with a dart through his eye, but there are no witnesses to the incident and no perpetrator is ever identified.\nIn Stockholm, three high-profile businessmen are assassinated in a short period of time, and Jenny Hultin of National CID is assigned the task of putting together a special team to solve the case before the assassin strikes again. Dependable Paul Hjelm, computer expert Jorge Chavez, old warhorse Viggo Norlander, freethinker Arto Söderstedt, muscle-man Gunnar Nyberg and outstanding interrogator Kerstin Holm together form the A-group.\nDespite the fact that the three dead men moved in the same circles and frequented the same clubs, it proves difficult to find a common denominator that could have lead to their deaths. Several false leads delay the investigation, and before the A-group gets back on the right track, another businessman turns up dead.\nThe ammunition that was used in the killings has been traced to an Estonian Juri-X gang and Norlander travels to Tallinn to investigate the connection. Frustrated at always being stuck behind a desk, he takes unnecessary risks. He ends up in the gangs hands and is crucified in an abandoned warehouse. He returns to Stockholm, crushed but alive, and brings back information that connects the Estonian gang with one of the companies where each of the victims was on the board of directors.\nMeanwhile, the rest of the A-group follows up on an unexpected lead. When the murderer attacks his fifth victim, he is interrupted and leaves behind a CD with a unique recording of Thelonius Monks Misterioso album. Through Chavezs contacts in the music business, they manage to trace the record back to a bartender in Avesta who turns out to have bought alcohol from the Juri-X gang. When pressured, the bartender confesses that it was the guys who delivered the alcohol that stole the CD. The mystery deepens and everything points to the Estonian gang being behind the killing of the board members of a company that refused to pay for protection.\nBut its not quite that simple\nThe police in Avesta explain that it was one of the gangs alcohol suppliers who was killed during the failed bank robbery we saw in the beginning. An investigation of the banks employees reveals that there can really only be one possible suspect in the killing. It turns out that the so-called Fat Cat Killings have nothing whatsoever to do with the Baltic mafia, but were an act of personal revenge. With only one of Sydbankens board members still alive, the A-group faces a race against time to find him before the murderer does."
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr 58 min (178 min) (2 parts)",
+                "1 hr 58 min (118 min) (edited) (Germany)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1390,
+                "rating": 6.7
+            },
+            "aged 18 29": {
+                "votes": 113,
+                "rating": 6.6
+            },
+            "aged 30 44": {
+                "votes": 489,
+                "rating": 6.5
+            },
+            "aged 45 plus": {
+                "votes": 509,
+                "rating": 6.9
+            },
+            "males": {
+                "votes": 901,
+                "rating": 6.6
+            },
+            "males aged 18 29": {
+                "votes": 72,
+                "rating": 6.7
+            },
+            "males aged 30 44": {
+                "votes": 382,
+                "rating": 6.4
+            },
+            "males aged 45 plus": {
+                "votes": 396,
+                "rating": 6.7
+            },
+            "females": {
+                "votes": 267,
+                "rating": 7.0
+            },
+            "females aged 18 29": {
+                "votes": 40,
+                "rating": 6.3
+            },
+            "females aged 30 44": {
+                "votes": 98,
+                "rating": 6.7
+            },
+            "females aged 45 plus": {
+                "votes": 111,
+                "rating": 7.4
+            },
+            "top 1000 voters": {
+                "votes": 44,
+                "rating": 5.8
+            },
+            "us users": {
+                "votes": 48,
+                "rating": 6.5
+            },
+            "non us users": {
+                "votes": 912,
+                "rating": 6.6
+            }
+        },
+        "number of votes": {
+            "10": 107,
+            "9": 98,
+            "8": 296,
+            "7": 386,
+            "6": 264,
+            "5": 119,
+            "4": 42,
+            "3": 25,
+            "2": 23,
+            "1": 30
+        },
+        "arithmetic mean": 6.8,
+        "median": 7
+    }
+}

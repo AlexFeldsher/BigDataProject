@@ -1,0 +1,129 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Switzerland\n",
+                "date": "  2011"
+            },
+            {
+                "country": "Switzerland\n",
+                "date": "13 April 2011",
+                "notes": "                            (French speaking region)"
+            }
+        ],
+        "release dates": [
+            "Switzerland::2011",
+            "Switzerland::13 April 2011                            (French speaking region)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chroniques Cinéma (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Bernasconi, Fulvio"
+            },
+            {
+                "name": "Kali, Sami"
+            },
+            {
+                "name": "Menth, Eponine"
+            },
+            {
+                "name": "Raymond, Maxime"
+            },
+            {
+                "name": "Schaub, Christoph"
+            }
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "9"
+        ],
+        "countries": [
+            "Switzerland"
+        ],
+        "country codes": [
+            "ch"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "French"
+        ],
+        "title": "Chroniques Cinéma",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-",
+        "akas": [
+            "Chroniques Cinéma (Switzerland)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Graber, Patrick"
+            },
+            {
+                "name": "Kali, Sami"
+            },
+            {
+                "name": "Monney, Benoît"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Bad Taste Pictures"
+            }
+        ],
+        "plot": [
+            "Yvon and Didier, two young men, are trying to make their first movie.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "9 min (Switzerland)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Canon XH-A1"
+            ],
+            "cinematographic process": [
+                "HDV"
+            ]
+        }
+    }
+}
