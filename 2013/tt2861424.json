@@ -1,0 +1,997 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "2 December 2013"
+            },
+            {
+                "country": "Germany\n",
+                "date": "29 November 2014"
+            },
+            {
+                "country": "UK\n",
+                "date": "4 September 2015"
+            },
+            {
+                "country": "France\n",
+                "date": "9 October 2015"
+            },
+            {
+                "country": "Italy\n",
+                "date": "1 May 2016"
+            }
+        ],
+        "release dates": [
+            "USA::2 December 2013",
+            "Germany::29 November 2014",
+            "UK::4 September 2015",
+            "France::9 October 2015",
+            "Italy::1 May 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Rick and Morty"
+            },
+            {
+                "countries": "Argentina",
+                "title": "Rick y Morty"
+            },
+            {
+                "countries": "Croatia",
+                "title": "Rick i Morty"
+            },
+            {
+                "countries": "Czech Republic (new title)",
+                "title": "Rick a Morty"
+            },
+            {
+                "countries": "France",
+                "title": "Rick et Morty"
+            },
+            {
+                "countries": "Germany",
+                "title": "Rick and Morty"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Rick és Morty"
+            },
+            {
+                "countries": "Italy",
+                "title": "Rick and Morty"
+            },
+            {
+                "countries": "Lithuania",
+                "title": "Rikas ir Mortis"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Rick e Morty"
+            },
+            {
+                "countries": "Russia",
+                "title": "Рик и Морти"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Rik i Morti"
+            },
+            {
+                "countries": "Spain",
+                "title": "Rick y Morty"
+            },
+            {
+                "countries": "Ukraine",
+                "title": "Рiк та Мортi"
+            },
+            {
+                "countries": "USA",
+                "title": "Rick and Morty"
+            }
+        ],
+        "akas": [
+            "Rick and Morty (original title)",
+            "Rick y Morty Argentina",
+            "Rick i Morty Croatia",
+            "Rick a Morty Czech Republic (new title)",
+            "Rick et Morty France",
+            "Rick and Morty Germany",
+            "Rick és Morty Hungary",
+            "Rick and Morty Italy",
+            "Rikas ir Mortis Lithuania",
+            "Rick e Morty Portugal",
+            "Рик и Морти Russia",
+            "Rik i Morti Serbia",
+            "Rick y Morty Spain",
+            "Рiк та Мортi Ukraine",
+            "Rick and Morty USA"
+        ],
+        "akas from release info": [
+            "Rick and Morty (original title)",
+            "Rick y Morty Argentina",
+            "Rick i Morty Croatia",
+            "Rick a Morty Czech Republic (new title)",
+            "Rick et Morty France",
+            "Rick and Morty Germany",
+            "Rick és Morty Hungary",
+            "Rick and Morty Italy",
+            "Rikas ir Mortis Lithuania",
+            "Rick e Morty Portugal",
+            "Рик и Морти Russia",
+            "Rik i Morti Serbia",
+            "Rick y Morty Spain",
+            "Рiк та Мортi Ukraine",
+            "Rick and Morty USA"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "The Rickshank Rickdemption",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 13005,
+                    "original air date": "1 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Rick, still in galactic prison, puts an intricate escape plan into action. Back on Earth, which is now under federation control, Morty and Summer have an argument about their grandpa.    "
+                },
+                "2": {
+                    "title": "Rickmancing the Stone",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 6874,
+                    "original air date": "30 Jul. 2017",
+                    "year": "2017",
+                    "plot": "\n    With the kids dealing with their parents' divorce, Rick takes them to a Mad Max-style universe where he tries to steal a green crystal from a group of scavengers.    "
+                },
+                "3": {
+                    "title": "Pickle Rick",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 10194,
+                    "original air date": "6 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    Rick turns himself into a pickle while Beth, Summer, and Morty go to family therapy.    "
+                },
+                "4": {
+                    "title": "Vindicators 3: The Return of Worldender",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 6456,
+                    "original air date": "13 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    Rick and Morty are summoned by the Vindicators to stop Worldender but end up in a deathtrap conceived by Drunk Rick.    "
+                },
+                "5": {
+                    "title": "The Whirly Dirly Conspiracy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 6066,
+                    "original air date": "20 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    Rick takes Jerry on a sympathy adventure to a resort where everyone is immortal when there, and Jerry meets some old acquaintances of Rick's who want payback.    "
+                },
+                "6": {
+                    "title": "Rest and Ricklaxation",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 6518,
+                    "original air date": "27 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    Following a stressful adventure, Rick and Morty go on a break to a spa where they remove their toxins, which in turn take a form of their own.    "
+                },
+                "7": {
+                    "title": "The Ricklantis Mixup",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 18874,
+                    "original air date": "10 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Whilst Rick and Morty go off to adventure in Atlantis, we take a look at how the Citadel has rebuilt itself since both Rick and Morty visited.    "
+                },
+                "8": {
+                    "title": "Morty's Mind Blowers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 5903,
+                    "original air date": "17 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Rick reveals to Morty his \"Morty's mind blowers,\" a collection of memories Morty asked Rick to erase from his mind.    "
+                },
+                "9": {
+                    "title": "The ABC's of Beth",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 4817,
+                    "original air date": "24 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Rick brings Beth to a world he created for her when she was younger while Beth looks for a long-lost childhood friend trapped there for years.    "
+                },
+                "10": {
+                    "title": "The Rickchurian Mortydate",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 4807,
+                    "original air date": "1 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Rick and Morty are called upon by the president to kill a vicious alien in the secret tunnels under the White House.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 7656,
+                    "original air date": "2 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    A sociopathic scientist drags his innocent grandson on dangerous inter-dimensional adventures.    "
+                },
+                "2": {
+                    "title": "Lawnmower Dog",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 7713,
+                    "original air date": "9 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    Rick helps Jerry out with the dog.    "
+                },
+                "3": {
+                    "title": "Anatomy Park",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 6990,
+                    "original air date": "16 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    It's Christmas. Rick shrinks Morty, injecting him into a homeless man to save Anatomy Park. Jerry tries to have a Christmas free of electronic devices, but regrets his decision when his parents introduce him to their new friend.    "
+                },
+                "4": {
+                    "title": "M. Night Shaym-Aliens!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 7085,
+                    "original air date": "13 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Rick and Morty try to get to the bottom of a mystery.    "
+                },
+                "5": {
+                    "title": "Meeseeks and Destroy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 8008,
+                    "original air date": "20 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Rick provides the family with a solution to their problems, freeing him up to go on an adventure led by Morty.    "
+                },
+                "6": {
+                    "title": "Rick Potion #9",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 7856,
+                    "original air date": "27 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    After Rick gives Morty a love potion for prom, things quickly spiral out of control when the serum splices with the flu - causing it to spread. Rick and Morty scramble to cure the crisis, making matters worse in the process.    "
+                },
+                "7": {
+                    "title": "Raising Gazorpazorp",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 6445,
+                    "original air date": "10 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Morty becomes a father to an alien baby, while Rick and Summer get trapped in a dangerous dimension.    "
+                },
+                "8": {
+                    "title": "Rixty Minutes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 7398,
+                    "original air date": "17 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Rick hooks up the family's TV with interdimensional cable, allowing them to watch infinite TV from across the multiverse.    "
+                },
+                "9": {
+                    "title": "Something Ricked This Way Comes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 6403,
+                    "original air date": "24 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Summer gets a job at a pawn shop owned by the devil. Jerry helps Morty with his science fair project.    "
+                },
+                "10": {
+                    "title": "Close Rick-counters of the Rick Kind",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 8185,
+                    "original air date": "7 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Rick, falsely blamed for Murder by the council of Ricks, begins a cross-dimensional pursuit with the authorities while attempting to prove his innocence.    "
+                },
+                "11": {
+                    "title": "Ricksy Business",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 6190,
+                    "original air date": "14 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Beth and Jerry head for an iceberg of a date leaving Rick in charge. Morty doesn't get to go on any more adventures if the house isn't in the same condition when they get back.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "A Rickle in Time",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 7075,
+                    "original air date": "26 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    Having restarted time, Rick, Morty and Summer are in a quantum-uncertain state of existence. An argument leads to the creation of two alternate timelines, which need to be stitched back together fast if they are to escape quantum collapse.    "
+                },
+                "2": {
+                    "title": "Mortynight Run",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 6817,
+                    "original air date": "2 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    Rick and Morty try to save a gas life form while Jerry resides in a daycare made for Jerrys.    "
+                },
+                "3": {
+                    "title": "Auto Erotic Assimilation",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 6593,
+                    "original air date": "9 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    Rick gets emotional. Beth and Jerry get into a fight.    "
+                },
+                "4": {
+                    "title": "Total Rickall",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 9884,
+                    "original air date": "16 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    The Smith house is locked down after parasites threaten to take over the world by multiplying through flashbacks.    "
+                },
+                "5": {
+                    "title": "Get Schwifty",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 6481,
+                    "original air date": "23 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    Rick and morty must aid Earth after a giant head disrupts the planet, demanding to see a hit song performed.    "
+                },
+                "6": {
+                    "title": "The Ricks Must Be Crazy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 7750,
+                    "original air date": "30 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    Rick is having trouble with his car and they have to fix it by traveling to the microverse.    "
+                },
+                "7": {
+                    "title": "Big Trouble in Little Sanchez",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 5943,
+                    "original air date": "13 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    Rick joins in on some hijinks by transferring his consciousness into teenage \"Tiny Rick.\" Beth and Jerry sort out their relationship.    "
+                },
+                "8": {
+                    "title": "Interdimensional Cable 2: Tempting Fate",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 6262,
+                    "original air date": "20 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    Jerry is faced with the difficult decision of losing his manhood in order to save an alien leader from imminent death. Meanwhile, Rick, Morty and Summer explore the possibilities of interdimensional television.    "
+                },
+                "9": {
+                    "title": "Look Who's Purging Now",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 6183,
+                    "original air date": "27 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    Rick and Morty arrive on an alien planet to fix their ship just as the day of the purge begins there, Jerry and Summer work on their father-daughter relationship, but his lack of employment keeps coming up.    "
+                },
+                "10": {
+                    "title": "The Wedding Squanchers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 7988,
+                    "original air date": "4 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    The Smith family is invited to the wedding of Rick's best friend, Birdperson. Things go south when it's discovered that the bride isn't who she says she is.    "
+                }
+            },
+            "4": {
+                "1": {
+                    "title": "Episode #4.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rick and Morty (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "plot": "\n    Plot is unknown at this time    "
+                }
+            }
+        },
+        "number of episodes": 32,
+        "cast": [
+            {
+                "name": "Roiland, Justin"
+            },
+            {
+                "name": "Parnell, Chris"
+            },
+            {
+                "name": "Grammer, Spencer"
+            },
+            {
+                "name": "Chalke, Sarah"
+            },
+            {
+                "name": "Wahlgren, Kari"
+            },
+            {
+                "name": "Kenny, Tom"
+            },
+            {
+                "name": "Ridley, Ryan"
+            },
+            {
+                "name": "LaMarche, Maurice"
+            },
+            {
+                "name": "Johnson, Brandon"
+            },
+            {
+                "name": "Harmon, Dan"
+            },
+            {
+                "name": "Hendrie, Phil"
+            },
+            {
+                "name": "North, Nolan"
+            },
+            {
+                "name": "Steele, Cassie"
+            },
+            {
+                "name": "Paulsen, Rob"
+            },
+            {
+                "name": "Chernoff, Scott"
+            },
+            {
+                "name": "Kellum, Echo"
+            },
+            {
+                "name": "Strong, Tara"
+            },
+            {
+                "name": "Williams, Gary Anthony"
+            },
+            {
+                "name": "David, Keith"
+            },
+            {
+                "name": "Benson, Daniel"
+            },
+            {
+                "name": "Holmes, William"
+            },
+            {
+                "name": "Harnell, Jess"
+            },
+            {
+                "name": "Jennings, Will"
+            },
+            {
+                "name": "Berger, Melique"
+            },
+            {
+                "name": "DiMaggio, John"
+            },
+            {
+                "name": "Buscarino, Jackie"
+            },
+            {
+                "name": "Schrab, Rob"
+            },
+            {
+                "name": "MacNeille, Tress"
+            },
+            {
+                "name": "Bauza, Eric"
+            },
+            {
+                "name": "Carvey, Dana"
+            },
+            {
+                "name": "Agee, Steve"
+            },
+            {
+                "name": "Bergman, Jeff"
+            },
+            {
+                "name": "Black, Claudia"
+            },
+            {
+                "name": "Cross, David"
+            },
+            {
+                "name": "Gomez-Preston, Reagan"
+            },
+            {
+                "name": "Molina, Alfred"
+            },
+            {
+                "name": "Besser, Matt"
+            },
+            {
+                "name": "Callis, James"
+            },
+            {
+                "name": "Clement, Jemaine"
+            },
+            {
+                "name": "Colbert, Stephen"
+            },
+            {
+                "name": "Hendricks, Christina"
+            },
+            {
+                "name": "Hirsch, Alex"
+            },
+            {
+                "name": "Kane, Chelsea"
+            },
+            {
+                "name": "Key, Keegan-Michael"
+            },
+            {
+                "name": "Briedis, Jonas"
+            },
+            {
+                "name": "Davis, Jeff Bryan"
+            },
+            {
+                "name": "Fillion, Nathan"
+            },
+            {
+                "name": "Hale, Tony"
+            },
+            {
+                "name": "Jacobs, Gillian"
+            },
+            {
+                "name": "Middleditch, Thomas"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "runtimes": [
+            "23"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Argentina:16::(VOD rating)",
+            "Australia:MA15+",
+            "Australia:M::(Season 1 DVD)",
+            "Australia:M::(TV rating)",
+            "Brazil:16",
+            "Canada:14A::(Manitoba/Ontario)",
+            "Canada:PG::(Ontario)",
+            "Canada:16+::(Quebec)",
+            "Canada:13+::(Quebec)",
+            "France:10",
+            "Germany:12::(DVD rating)",
+            "Italy:VM14",
+            "Italy:T",
+            "Malaysia:P13",
+            "Netherlands:12::(season 1)",
+            "New Zealand:R16",
+            "Norway:16::(Netflix self-rating)",
+            "Philippines:PG-13",
+            "Portugal:M/16",
+            "Russia:16+",
+            "Singapore:M18",
+            "South Korea:18",
+            "Spain:16",
+            "Spain:13::(original TV rating)",
+            "United Kingdom:15",
+            "United States:TV-MA::(L)",
+            "United States:TV-14::(most episodes)",
+            "United States:TV-MA::(some episodes)"
+        ],
+        "number of seasons": 4,
+        "rating": 9.3,
+        "votes": 253008,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjRiNDRhNGUtMzRkZi00MThlLTg0ZDMtNjc5YzFjYmFjMmM4XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SY150_CR1,0,101,150_.jpg",
+        "plot outline": "An animated series on adult-swim about the infinite adventures of Rick, a genius alcoholic and careless scientist, with his grandson Morty, a 14 year-old anxious boy who is not so smart. Together, they explore the infinite universes; causing mayhem and running into trouble.",
+        "languages": [
+            "English"
+        ],
+        "title": "Rick and Morty",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "writer": [
+            {
+                "name": "Harmon, Dan"
+            },
+            {
+                "name": "Roiland, Justin"
+            },
+            {
+                "name": "Kauffman, Tom"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Harmonius Claptrap"
+            },
+            {
+                "name": "Justin Roiland's Solo Vanity Card Productions"
+            },
+            {
+                "name": "Starburns Industries"
+            },
+            {
+                "name": "Williams Street"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Adult Swim"
+            },
+            {
+                "name": "Comedy Central"
+            },
+            {
+                "name": "I.Sat"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Studio Hamburg Enterprises"
+            },
+            {
+                "name": "TBS"
+            },
+            {
+                "name": "TNT Series"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Bardel Entertainment"
+            },
+            {
+                "name": "Cyberchicken Animation"
+            },
+            {
+                "name": "Snipple Animation"
+            },
+            {
+                "name": "Starburns Industries"
+            },
+            {
+                "name": "Sub Pop Records"
+            },
+            {
+                "name": "Tycoon Animation"
+            }
+        ],
+        "plot": [
+            "An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",
+            "An animated series on adult-swim about the infinite adventures of Rick, a genius alcoholic and careless scientist, with his grandson Morty, a 14 year-old anxious boy who is not so smart. Together, they explore the infinite universes; causing mayhem and running into trouble.::Ruben Galaviz",
+            "An animated show centered around a crazy, yet genius, old-man and his grandson, which he takes on his ridiculous inter-dimensional space travels. A drunk old man and his innocent grandson travel through time and space as they observe and disturb all races, species, and sexes.::gavin Johns",
+            "Rick, an alcoholic mad scientist, stumbles into his grandson Morty's room begging for help on an intergalactic adventure. Morty reluctantly agrees and finds himself on a never ending quest across time, dimension and space. Morty must keep Rick in check as he causes havoc everywhere they go.::Lachlan Bedford",
+            "Traveling across the multiverse together, super genius Rick Sanchez and his grandson Morty Smith embark on wacky adventures where only one thing is absolute: Rick is the smartest madman in all the multiverse and nothing can change that, portal guns and all.::Johnny",
+            "Rick Sanchez, a depressed, alcoholic, abusive, madman (who also happens to be a genius scientist with the ability to travel through dimensions) returns to his daughter Beth's life after two decades of being silent between the two. He finds her married to an incompetent, pathetic man named Jerry, and the couple has two teenage kids. Summer, the oldest girl, is a rebellious teen looking to have more friends at school, and Morty, the youngest child and a boy, is an anxious, quiet, and sweet kid. Rick makes Morty his sidekick and takes him on hilarious Interdimensional adventures, causing poor Morty to become steadily more miserable due to Rick's insane, abusive, and careless additude."
+        ],
+        "synopsis": [
+            "The series follows the misadventures of alcoholic scientist Rick and his overly nervous grandson Morty, who split their time between domestic family life and intergalactic travel. Often finding themselves in a heap of trouble that more often than not created through their own actions, these two will get themselves out of trouble in the most entertaining way! This extremely clever show will blow your mind as well as all other parallel realities of your mind!"
+        ],
+        "tech": {
+            "runtime": [
+                "23 min"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "negative format": [
+                "Digital"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 253008,
+                "rating": 9.3
+            },
+            "aged under 18": {
+                "votes": 1467,
+                "rating": 9.2
+            },
+            "aged 18 29": {
+                "votes": 93514,
+                "rating": 9.4
+            },
+            "aged 30 44": {
+                "votes": 53137,
+                "rating": 9.2
+            },
+            "aged 45 plus": {
+                "votes": 6651,
+                "rating": 8.8
+            },
+            "males": {
+                "votes": 151161,
+                "rating": 9.3
+            },
+            "males aged under 18": {
+                "votes": 1214,
+                "rating": 9.2
+            },
+            "males aged 18 29": {
+                "votes": 78637,
+                "rating": 9.4
+            },
+            "males aged 30 44": {
+                "votes": 46590,
+                "rating": 9.2
+            },
+            "males aged 45 plus": {
+                "votes": 5710,
+                "rating": 8.8
+            },
+            "females": {
+                "votes": 22599,
+                "rating": 9.1
+            },
+            "females aged under 18": {
+                "votes": 174,
+                "rating": 9.0
+            },
+            "females aged 18 29": {
+                "votes": 13230,
+                "rating": 9.2
+            },
+            "females aged 30 44": {
+                "votes": 5682,
+                "rating": 8.9
+            },
+            "females aged 45 plus": {
+                "votes": 782,
+                "rating": 8.1
+            },
+            "top 1000 voters": {
+                "votes": 332,
+                "rating": 7.8
+            },
+            "us users": {
+                "votes": 28119,
+                "rating": 9.3
+            },
+            "non us users": {
+                "votes": 84793,
+                "rating": 9.2
+            }
+        },
+        "number of votes": {
+            "10": 149788,
+            "9": 59136,
+            "8": 24308,
+            "7": 8045,
+            "6": 2652,
+            "5": 1413,
+            "4": 778,
+            "3": 725,
+            "2": 711,
+            "1": 5452
+        },
+        "arithmetic mean": 9.2,
+        "median": 1
+    }
+}

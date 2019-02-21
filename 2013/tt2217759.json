@@ -1,0 +1,538 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2013"
+            },
+            {
+                "country": "USA\n",
+                "date": "4 February 2013"
+            },
+            {
+                "country": "Germany\n",
+                "date": "7 February 2013"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "8 June 2014"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "  2015"
+            },
+            {
+                "country": "Finland\n",
+                "date": "12 July 2015"
+            }
+        ],
+        "release dates": [
+            "USA::2013",
+            "USA::4 February 2013",
+            "Germany::7 February 2013",
+            "Sweden::8 June 2014",
+            "Belgium::2015",
+            "Finland::12 July 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Monday Mornings"
+            },
+            {
+                "countries": "Russia",
+                "title": "Тяжёлый понедельник"
+            }
+        ],
+        "akas": [
+            "Monday Mornings (original title)",
+            "Тяжёлый понедельник Russia"
+        ],
+        "akas from release info": [
+            "Monday Mornings (original title)",
+            "Тяжёлый понедельник Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Monday Mornings (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 96,
+                    "original air date": "4 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Chelsea General is home to some of the top surgeons in the world, thanks in large part to the hospital's notorious Monday morning morbidity and mortality - or \"311\" - conferences. In these legendary meetings, Chief of Staff Harding Hooten (Alfred Molina) leads a harsh, closed-door review of the complications encountered and mistakes made during the course of patient care.    "
+                },
+                "2": {
+                    "title": "Deus Ex Machina",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Monday Mornings (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 72,
+                    "original air date": "11 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Sung, Hooten and Villanueva join forces to convince Trisha Miller (guest star Cozi Zuehlsdorff), a 13-year-old girl with an advanced brain stem glioma, to try surgery one last time before giving up.    "
+                },
+                "3": {
+                    "title": "Who's Sorry Now?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Monday Mornings (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 56,
+                    "original air date": "18 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Sung is forced to meet with Risk Management's Fran Horowitz (guest star Valerie Mahaffey) after refusing to apologize to the wife of a patient who died on his table.    "
+                },
+                "4": {
+                    "title": "Forks Over Knives",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Monday Mornings (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 45,
+                    "original air date": "25 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Tina's proposal to use an unorthodox procedure to treat a young man with extreme O.C.D. divides the surgeons at the 311 conference.    "
+                },
+                "5": {
+                    "title": "The Legend and the Fall",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Monday Mornings (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 44,
+                    "original air date": "4 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Hooten's mentor, Dr. Arvin Wayne (guest star Hal Holbrook), walks into the wrong procedure on the wrong day, leading the surgeons at Chelsea General to question the cognitive abilities of one of the hospital's elder statesmen.    "
+                },
+                "6": {
+                    "title": "Communion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Monday Mornings (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 46,
+                    "original air date": "11 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    When paramedics rush in with a stabbing victim, Villanueva is stunned to realize that the patient is his own son, Nick (guest star Denzel Whitaker).    "
+                },
+                "7": {
+                    "title": "One Fine Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Monday Mornings (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 45,
+                    "original air date": "18 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Ty and Tina receive a late night call from Afghanistan, where Corpsman Jacob Gold (guest star Reiley McClendon) desperately needs help when his fellow Marine suffers a traumatic head injury.    "
+                },
+                "8": {
+                    "title": "Truth or Consequences",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Monday Mornings (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 54,
+                    "original air date": "25 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    During Monday's 311 conference, Hooten calls Dr. Stewart Delany (guest star Ioan Gruffund) to explain how a careless mistake killed Delany's young patient. But the outcome of the conference leaves the hospital's surgeons conflicted.    "
+                },
+                "9": {
+                    "title": "Wheels Within Wheels",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Monday Mornings (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 40,
+                    "original air date": "1 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    Ty and Hooten believe Supreme Court hopeful Judge Beverly Nathenson's facial pain is the result of a brain tumor; upon operating, the surgeons discover a diagnosis much more shocking.    "
+                },
+                "10": {
+                    "title": "Family Ties",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Monday Mornings (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 43,
+                    "original air date": "8 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    Hooten and Buck find themselves facing off in court against attorney Mitch Tompkins (guest star Anthony Heald) after a grieving son refuses to comply with his mother's final wishes. Sydney's outrage over the health of a morbidly obese 16-year-old boy further strains her relationship with Lieberman (guest star Jonathan Silverman).    "
+                }
+            }
+        },
+        "number of episodes": 10,
+        "cast": [
+            {
+                "name": "Rhames, Ving"
+            },
+            {
+                "name": "Bamber, Jamie"
+            },
+            {
+                "name": "Finnigan, Jennifer"
+            },
+            {
+                "name": "Irwin, Bill"
+            },
+            {
+                "name": "Sim, Keong"
+            },
+            {
+                "name": "Blue, Sarayu"
+            },
+            {
+                "name": "Swallow, Emily"
+            },
+            {
+                "name": "Molina, Alfred"
+            },
+            {
+                "name": "Mahaffey, Valerie"
+            },
+            {
+                "name": "Silverman, Jonathan"
+            },
+            {
+                "name": "Gray-Stanford, Jason"
+            },
+            {
+                "name": "Heald, Anthony"
+            },
+            {
+                "name": "Podell, Eyal"
+            },
+            {
+                "name": "Pifko, Cara"
+            },
+            {
+                "name": "Rose, Adam"
+            },
+            {
+                "name": "Chung, Ewan"
+            },
+            {
+                "name": "Quinlan, Patrick"
+            },
+            {
+                "name": "Tordi, Gian Franco"
+            },
+            {
+                "name": "Summers, Tara"
+            },
+            {
+                "name": "Cook, Mason"
+            },
+            {
+                "name": "Shinick, Kevin"
+            },
+            {
+                "name": "Okoro, Nija"
+            },
+            {
+                "name": "Cudworth, Dean"
+            },
+            {
+                "name": "Denzlinger, Jeremy"
+            },
+            {
+                "name": "Le, Phong"
+            },
+            {
+                "name": "Quinonez, Adrian"
+            },
+            {
+                "name": "Mair, Akeem"
+            },
+            {
+                "name": "Pettis, Nicole"
+            },
+            {
+                "name": "Schmidt, Jon"
+            },
+            {
+                "name": "Pennick, Jay"
+            },
+            {
+                "name": "Fonteyne, Kevin"
+            },
+            {
+                "name": "Gruffudd, Ioan"
+            },
+            {
+                "name": "Marks, Annika"
+            },
+            {
+                "name": "McClendon, Reiley"
+            },
+            {
+                "name": "Bostick, Devon"
+            },
+            {
+                "name": "Gallagher, Megan"
+            },
+            {
+                "name": "McCartan, Ryan"
+            },
+            {
+                "name": "King, Matthew Yang"
+            },
+            {
+                "name": "Clarke, Jeff"
+            },
+            {
+                "name": "Fain, Holley"
+            },
+            {
+                "name": "Bailey-Reed, Bonnie"
+            },
+            {
+                "name": "Behnken, Lukas"
+            },
+            {
+                "name": "Brownstein, Rob"
+            },
+            {
+                "name": "Calderon, Wilmer"
+            },
+            {
+                "name": "Mitchell, Kenneth"
+            },
+            {
+                "name": "Siemaszko, Nina"
+            },
+            {
+                "name": "Zuehlsdorff, Cozi"
+            },
+            {
+                "name": "Charlton, William"
+            },
+            {
+                "name": "Daniels, Spencer"
+            },
+            {
+                "name": "Dillman, Valerie"
+            }
+        ],
+        "locations": [
+            "Los Angeles, California, USA"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Germany:12"
+        ],
+        "number of seasons": 1,
+        "rating": 7.8,
+        "votes": 2667,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTM3OTU5ODk1MV5BMl5BanBnXkFtZTcwNTY5MjY3OA@@._V1_SY150_CR62,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Monday Mornings",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-2013",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Gupta, Sanjay"
+            },
+            {
+                "name": "Kelley, David E."
+            },
+            {
+                "name": "Struck, Karen"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "David E. Kelley Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "TNT"
+            },
+            {
+                "name": "StudioCanal"
+            },
+            {
+                "name": "TNT Serie"
+            },
+            {
+                "name": "TNT"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Executive Assurance"
+            },
+            {
+                "name": "MBS Media Campus"
+            },
+            {
+                "name": "Ohana Camera Expendables"
+            },
+            {
+                "name": "Pivotal Post"
+            },
+            {
+                "name": "RH Factor"
+            },
+            {
+                "name": "Reel Security"
+            }
+        ],
+        "plot": [
+            "Follows the lives of five surgeons as they push the limits of their personal and professional feelings.::TNT"
+        ],
+        "tech": {
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2667,
+                "rating": 7.8
+            },
+            "aged 18 29": {
+                "votes": 357,
+                "rating": 7.9
+            },
+            "aged 30 44": {
+                "votes": 877,
+                "rating": 7.5
+            },
+            "aged 45 plus": {
+                "votes": 858,
+                "rating": 7.9
+            },
+            "males": {
+                "votes": 1213,
+                "rating": 7.6
+            },
+            "males aged 18 29": {
+                "votes": 184,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 519,
+                "rating": 7.4
+            },
+            "males aged 45 plus": {
+                "votes": 433,
+                "rating": 7.6
+            },
+            "females": {
+                "votes": 984,
+                "rating": 7.9
+            },
+            "females aged 18 29": {
+                "votes": 167,
+                "rating": 7.7
+            },
+            "females aged 30 44": {
+                "votes": 350,
+                "rating": 7.6
+            },
+            "females aged 45 plus": {
+                "votes": 409,
+                "rating": 8.3
+            },
+            "top 1000 voters": {
+                "votes": 51,
+                "rating": 6.4
+            },
+            "us users": {
+                "votes": 808,
+                "rating": 7.9
+            },
+            "non us users": {
+                "votes": 802,
+                "rating": 7.4
+            }
+        },
+        "number of votes": {
+            "10": 855,
+            "9": 535,
+            "8": 558,
+            "7": 336,
+            "6": 131,
+            "5": 73,
+            "4": 37,
+            "3": 29,
+            "2": 29,
+            "1": 84
+        },
+        "arithmetic mean": 8.1,
+        "median": 9
+    }
+}
