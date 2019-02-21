@@ -1,0 +1,109 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "2 June 2013"
+            },
+            {
+                "country": "Canada\n",
+                "date": "2 June 2013",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "Canada::2 June 2013",
+            "Canada::2 June 2013                            (internet)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Stanzie Tooth",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Weld Art Collective Presents (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "2 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    May 2013 Artist of the Month Stanzie Tooth prepares for her upcoming solo exhibition at General Hardware Contemporary.    "
+                },
+                "2": {
+                    "title": "In Conversation with Greta Hodgkinson",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Weld Art Collective Presents (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "4 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Greta Hodgkinson, principal dancer with The National Ballet of Canada. Greta sits down to discuss her role in \"Carmen\".    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Hodgkinson, Greta"
+            },
+            {
+                "name": "Tooth, Stanzie"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "5"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "country codes": [
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "budget": "CAD500 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Weld Art Collective Presents",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-2014",
+        "akas": [
+            "Weld Art Collective Presents (Canada)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Weld Art Collective"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Weld Art Collective"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "5 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

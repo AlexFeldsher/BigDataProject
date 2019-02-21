@@ -1,0 +1,136 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "France\n",
+                "date": "September 2013",
+                "notes": "                            (Festival de la fiction TV de la Rochelle)"
+            },
+            {
+                "country": "France\n",
+                "date": "September 2013",
+                "notes": "                            (La Rochelle TV Festival)"
+            },
+            {
+                "country": "France\n",
+                "date": "February 2015",
+                "notes": "                            (Festival de Luchon)"
+            },
+            {
+                "country": "France\n",
+                "date": "6 February 2015",
+                "notes": "                            (Luchon Film Festival)"
+            }
+        ],
+        "release dates": [
+            "France::September 2013                            (Festival de la fiction TV de la Rochelle)",
+            "France::September 2013                            (La Rochelle TV Festival)",
+            "France::February 2015                            (Festival de Luchon)",
+            "France::6 February 2015                            (Luchon Film Festival)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "...qui reçoivent une promotion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dans la tête des gens (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "Sep. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "...qui font leur coming out",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dans la tête des gens (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Labannierre, Benoît"
+            },
+            {
+                "name": "Laugérias, Eric"
+            },
+            {
+                "name": "Mounicot, Sophie"
+            },
+            {
+                "name": "Chaix, Didier"
+            },
+            {
+                "name": "Khalil, Rachida"
+            },
+            {
+                "name": "Jamal, Sami"
+            },
+            {
+                "name": "Lucas, Rémi"
+            },
+            {
+                "name": "Santoni, Sarah-Cheyenne"
+            }
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "3"
+        ],
+        "countries": [
+            "France"
+        ],
+        "country codes": [
+            "fr"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "French"
+        ],
+        "title": "Dans la tête des gens",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-",
+        "akas": [
+            "Dans la tête des gens (France)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Connac, Guilhem"
+            },
+            {
+                "name": "Labannierre, Benoît"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Fiction'Air"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "3 min"
+            ]
+        }
+    }
+}
