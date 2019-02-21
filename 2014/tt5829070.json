@@ -1,0 +1,125 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "9 February 2014"
+            },
+            {
+                "country": "France\n",
+                "date": "9 February 2014"
+            }
+        ],
+        "release dates": [
+            "Germany::9 February 2014",
+            "France::9 February 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "ARTE Junior Magazin"
+            },
+            {
+                "countries": "France",
+                "title": "ARTE Junior le mag"
+            },
+            {
+                "countries": "World-wide (alternative title)",
+                "title": "Arte Journal Junior"
+            }
+        ],
+        "akas": [
+            "ARTE Junior Magazin (original title)",
+            "ARTE Junior le mag France",
+            "Arte Journal Junior World-wide (alternative title)"
+        ],
+        "akas from release info": [
+            "ARTE Junior Magazin (original title)",
+            "ARTE Junior le mag France",
+            "Arte Journal Junior World-wide (alternative title)"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Episode dated 15 November 2015",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "ARTE Junior Magazin (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "15 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Holdener, Edouard"
+            },
+            {
+                "name": "Rauschendorf, Frank"
+            },
+            {
+                "name": "Haffner, Dorothée"
+            },
+            {
+                "name": "Höfchen, Carolyn"
+            },
+            {
+                "name": "Kreuzer, Magali"
+            }
+        ],
+        "genres": [
+            "Family",
+            "News"
+        ],
+        "runtimes": [
+            "15"
+        ],
+        "countries": [
+            "Germany",
+            "France"
+        ],
+        "country codes": [
+            "de",
+            "fr"
+        ],
+        "language codes": [
+            "de",
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "languages": [
+            "German",
+            "French"
+        ],
+        "title": "ARTE Junior Magazin",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-",
+        "production companies": [
+            {
+                "name": "ARTE"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "ARTE"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "15 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

@@ -1,0 +1,485 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Poland\n",
+                "date": "September 2014"
+            },
+            {
+                "country": "Germany\n",
+                "date": "November 2014"
+            },
+            {
+                "country": "Pakistan\n",
+                "date": "November 2014"
+            },
+            {
+                "country": "Russia\n",
+                "date": "November 2014"
+            },
+            {
+                "country": "China\n",
+                "date": "  2015"
+            },
+            {
+                "country": "South Korea\n",
+                "date": "  2015"
+            },
+            {
+                "country": "United Arab Emirates\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Armenia\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Angola\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Austria\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Bosnia and Herzegovina\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Bulgaria\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Belarus\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Switzerland\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Serbia and Montenegro\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Cyprus\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Czech Republic\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Georgia\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Hong Kong\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Croatia\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Israel\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Iceland\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Italy\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Kenya\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Kyrgyzstan\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Kazakhstan\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Lithuania\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Latvia\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Moldova\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Republic of Macedonia\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Malta\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Nigeria\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Portugal\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Romania\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Slovenia\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Slovakia\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Ukraine\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "South Africa\n",
+                "date": "April 2015"
+            },
+            {
+                "country": "Australia\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Canada\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Algeria\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Egypt\n",
+                "date": "  2016"
+            },
+            {
+                "country": "UK\n",
+                "date": "  2016"
+            },
+            {
+                "country": "India\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Iran\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Japan\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Libya\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Morocco\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Mauritania\n",
+                "date": "  2016"
+            },
+            {
+                "country": "New Zealand\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Oman\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Qatar\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Saudi Arabia\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Sudan\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Tunisia\n",
+                "date": "  2016"
+            },
+            {
+                "country": "USA\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Yemen\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Vietnam\n",
+                "date": "  2017"
+            }
+        ],
+        "release dates": [
+            "Poland::September 2014",
+            "Germany::November 2014",
+            "Pakistan::November 2014",
+            "Russia::November 2014",
+            "China::2015",
+            "South Korea::2015",
+            "United Arab Emirates::April 2015",
+            "Armenia::April 2015",
+            "Angola::April 2015",
+            "Austria::April 2015",
+            "Bosnia and Herzegovina::April 2015",
+            "Belgium::April 2015",
+            "Bulgaria::April 2015",
+            "Belarus::April 2015",
+            "Switzerland::April 2015",
+            "Serbia and Montenegro::April 2015",
+            "Cyprus::April 2015",
+            "Czech Republic::April 2015",
+            "Georgia::April 2015",
+            "Hong Kong::April 2015",
+            "Croatia::April 2015",
+            "Hungary::April 2015",
+            "Israel::April 2015",
+            "Iceland::April 2015",
+            "Italy::April 2015",
+            "Kenya::April 2015",
+            "Kyrgyzstan::April 2015",
+            "Kazakhstan::April 2015",
+            "Lithuania::April 2015",
+            "Latvia::April 2015",
+            "Moldova::April 2015",
+            "Republic of Macedonia::April 2015",
+            "Malta::April 2015",
+            "Nigeria::April 2015",
+            "Netherlands::April 2015",
+            "Portugal::April 2015",
+            "Romania::April 2015",
+            "Slovenia::April 2015",
+            "Slovakia::April 2015",
+            "Ukraine::April 2015",
+            "South Africa::April 2015",
+            "Australia::2016",
+            "Canada::2016",
+            "Algeria::2016",
+            "Egypt::2016",
+            "UK::2016",
+            "India::2016",
+            "Iran::2016",
+            "Japan::2016",
+            "Libya::2016",
+            "Morocco::2016",
+            "Mauritania::2016",
+            "New Zealand::2016",
+            "Oman::2016",
+            "Qatar::2016",
+            "Saudi Arabia::2016",
+            "Sudan::2016",
+            "Tunisia::2016",
+            "USA::2016",
+            "Yemen::2016",
+            "Vietnam::2017"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Zaspane Slonko",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Agi Bagi (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Boberek, Jaroslaw"
+            },
+            {
+                "name": "Grzeskowiak, Marta"
+            },
+            {
+                "name": "Kerth, Anna"
+            },
+            {
+                "name": "Mrozinska, Agnieszka"
+            },
+            {
+                "name": "Niedzwiedz, Tomasz"
+            },
+            {
+                "name": "Palmer, Sean"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family",
+            "Music"
+        ],
+        "runtimes": [
+            "11"
+        ],
+        "countries": [
+            "Poland"
+        ],
+        "country codes": [
+            "pl"
+        ],
+        "language codes": [
+            "en",
+            "pl"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD (HD 1080p)",
+        "sound mix": [
+            "Stereo::(original version)"
+        ],
+        "number of seasons": 1,
+        "rating": 7.3,
+        "votes": 7,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjA4ZTk1NzctOGMwYy00NjFhLTkyYjMtOTZiZWNkZTNiYTBjXkEyXkFqcGdeQXVyNDkzMzc5NTg@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "Agi Bagi is an animated series dedicated to the preschoolers. It is adventure with a little bit of ecological education. The series tells us about the planet with two sides: Agi and Bagi and the relationship between the two tribes which inhabit the planet: Agingas and Bagingas. They come together with nature to take care about an ecosystem, and in every episode they solve a particular problem related to the environment, such as a flood, a sun that oversleeps, how to use the wind's power, understand the planet or segregate the litter. And it shows we can deal with it if we work together.",
+        "languages": [
+            "English",
+            "Polish"
+        ],
+        "title": "Agi Bagi",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-",
+        "akas": [
+            "Agi Bagi (Poland)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Mordarski, Waldemar"
+            },
+            {
+                "name": "Nehrebecka, Marzena"
+            },
+            {
+                "name": "Niedzwiedz, Tomasz"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Badi Badi FX Studio"
+            }
+        ],
+        "plot": [
+            "_Agi Bagi_ (qv) is an animated series dedicated to the preschoolers. It is adventure with a little bit of ecological education. The series tells us about the planet with two sides: Agi and Bagi and the relationship between the two tribes which inhabit the planet: Agingas and Bagingas. They come together with nature to take care about an ecosystem, and in every episode they solve a particular problem related to the environment, such as a flood, a sun that oversleeps, how to use the wind's power, understand the planet or segregate the litter. And it shows we can deal with it if we work together."
+        ],
+        "tech": {
+            "runtime": [
+                "11 min"
+            ],
+            "sound mix": [
+                "Stereo (original version)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD (HD 1080p)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 7,
+                "rating": 7.3
+            },
+            "aged 18 29": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "aged 30 44": {
+                "votes": 3,
+                "rating": 7.7
+            },
+            "males": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "males aged 30 44": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "females": {
+                "votes": 3,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 30 44": {
+                "votes": 2,
+                "rating": 7.0
+            },
+            "top 1000 voters": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "non us users": {
+                "votes": 3,
+                "rating": 7.7
+            }
+        },
+        "number of votes": {
+            "10": 2,
+            "9": 1,
+            "8": 1,
+            "7": 0,
+            "6": 2,
+            "5": 0,
+            "4": 0,
+            "3": 0,
+            "2": 1,
+            "1": 0
+        },
+        "arithmetic mean": 7.3,
+        "median": 8
+    }
+}
