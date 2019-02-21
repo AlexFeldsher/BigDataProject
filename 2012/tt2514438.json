@@ -1,0 +1,647 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "9 November 2012"
+            },
+            {
+                "country": "USA\n",
+                "date": "9 November 2012",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::9 November 2012",
+            "USA::9 November 2012                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "High Maintenance"
+            },
+            {
+                "countries": "Poland",
+                "title": "W potrzebie"
+            },
+            {
+                "countries": "Russia",
+                "title": "Кайф с доставкой"
+            }
+        ],
+        "akas": [
+            "High Maintenance (original title)",
+            "W potrzebie Poland",
+            "Кайф с доставкой Russia"
+        ],
+        "akas from release info": [
+            "High Maintenance (original title)",
+            "W potrzebie Poland",
+            "Кайф с доставкой Russia"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Geiger",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 47,
+                    "original air date": "11 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    A woman struggles with her fiancé's increasing paranoia and survival tendencies.    "
+                },
+                "2": {
+                    "title": "Genghis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 47,
+                    "original air date": "11 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    A frustrated cubicle-working idealist tries to make a difference in the world by becoming a teacher. His attempts fall flat and the experience challenges his optimism.    "
+                },
+                "3": {
+                    "title": "Ruth",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 52,
+                    "original air date": "11 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    The guy plays matchmaker, sending two middle-aged marijuana enthusiasts on a first date.    "
+                },
+                "4": {
+                    "title": "Sufjan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 42,
+                    "original air date": "5 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Reagan and Ezra get priced out of Williamsburg and head to a more affordable neighborhood where they learn you can't have it all when it comes to New York real estate.    "
+                },
+                "5": {
+                    "title": "Esme",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 44,
+                    "original air date": "5 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    A hapless weed delivery girl fumbles her way through various misguided pursuits and steals some of the Guy's customers along the way.    "
+                },
+                "6": {
+                    "title": "Sabrina",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 43,
+                    "original air date": "5 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Six friends escape the city and head upstate for a weekend, but they spend more time worrying about their careers than enjoying themselves.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Stevie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 79,
+                    "original air date": "9 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    The guy delivers to a cute chick stressed out by her psychotic boss.    "
+                },
+                "2": {
+                    "title": "Heidi",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 73,
+                    "original air date": "9 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    A guy meets a clingy girl after a recent breakup. He calls the guy and finally sees the light.    "
+                },
+                "3": {
+                    "title": "Jamie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 64,
+                    "original air date": "9 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    The guy delivers to a lesbian couple and helps them with a rodent problem.    "
+                },
+                "4": {
+                    "title": "Trixie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 61,
+                    "original air date": "7 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    The guy delivers to a couple who are renting a room to inconsiderate guests on Airbnb.    "
+                },
+                "5": {
+                    "title": "Olivia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 62,
+                    "original air date": "7 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    The guy delivers to a sick woman and her isolated son and shares an uncomfortable moment with him.    "
+                },
+                "6": {
+                    "title": "Helen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 65,
+                    "original air date": "7 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    The Guy delivers to an agoraphobic man who has lives with his mother and is obsessed with Helen.    "
+                },
+                "7": {
+                    "title": "Dinah",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 56,
+                    "original air date": "19 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    A couple's relationship is tested by a house guest.    "
+                },
+                "8": {
+                    "title": "Jonathan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 52,
+                    "original air date": "20 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    The guy tries to cheer up Hannibal Buress.    "
+                },
+                "9": {
+                    "title": "Elijah",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 58,
+                    "original air date": "20 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    A private chef is hired to prepare a Passover dinner.    "
+                },
+                "10": {
+                    "title": "Brad Pitts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 53,
+                    "original air date": "20 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    An uptight woman discusses Brad Pitts with her birdwatching friend who she discovers is very ill. She suggests that they smoke marijuana together to help with her friend's low appetite. Meanwhile, the guy gets high with two professional stoners.    "
+                },
+                "11": {
+                    "title": "Qasim",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 61,
+                    "original air date": "29 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    Scott, a young adult workout addict with a regimented lifestyle, meets Kitty, a cute girl from spin class, and they go on a date. When Kitty discovers the motivation behind Scott's odd sleep schedule, she is less than thrilled.    "
+                },
+                "12": {
+                    "title": "Matilda",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 51,
+                    "original air date": "4 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Guy struggles to entertain his teenage niece.    "
+                },
+                "13": {
+                    "title": "Rachel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "High Maintenance (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 86,
+                    "original air date": "26 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    One in the series of critically acclaimed High Maintenance shorts, Rachel focuses on Colin (Dan Stevens of Downton Abbey), a husband, stay-at-home father and writer. When he starts to fixate on his insecurities about past success and his secret tendencies to dress up in his wife's designer clothing, writer's block sets in. Procrastination, pot and fashion fill his days until he gets some needed encouragement from an unlikely source. This witty short is a beautiful portrait of acceptance from outside and in.    "
+                }
+            }
+        },
+        "number of episodes": 19,
+        "cast": [
+            {
+                "name": "Sinclair, Ben"
+            },
+            {
+                "name": "Monsen, Avery"
+            },
+            {
+                "name": "Yorke, Heléne"
+            },
+            {
+                "name": "Thompson, Candace"
+            },
+            {
+                "name": "Knefel, Molly"
+            },
+            {
+                "name": "Palughi, Brenna"
+            },
+            {
+                "name": "Lee, Greta"
+            },
+            {
+                "name": "Khan, Azhar"
+            },
+            {
+                "name": "Roberti, Chris"
+            },
+            {
+                "name": "Creighton, Michael Cyril"
+            },
+            {
+                "name": "Dean, Jordan"
+            },
+            {
+                "name": "Huppuch, Birgit"
+            },
+            {
+                "name": "Jenkins, Max"
+            },
+            {
+                "name": "Peery, John"
+            },
+            {
+                "name": "Roy, Marcella"
+            },
+            {
+                "name": "Roy, Rob Leo"
+            },
+            {
+                "name": "Sickles, Dan"
+            },
+            {
+                "name": "Wilkof, Lee"
+            },
+            {
+                "name": "Rosenberg, Lynne Marie"
+            },
+            {
+                "name": "Sherman, Micah"
+            },
+            {
+                "name": "Cameron, Michelle"
+            },
+            {
+                "name": "Stone, Yael"
+            },
+            {
+                "name": "Pahuja, Rajeev"
+            },
+            {
+                "name": "Comey, Rachel"
+            },
+            {
+                "name": "Arcement, Ashley"
+            },
+            {
+                "name": "Bouloukos, Theodore"
+            },
+            {
+                "name": "Chen, Lyman"
+            },
+            {
+                "name": "Gessner, Mark"
+            },
+            {
+                "name": "Harris, Kyle"
+            },
+            {
+                "name": "Moloney, Bridget"
+            },
+            {
+                "name": "Almanzar, Victor"
+            },
+            {
+                "name": "Altman, Carlen"
+            },
+            {
+                "name": "Berman, Fred"
+            },
+            {
+                "name": "Bilger, Bettina"
+            },
+            {
+                "name": "Bock, Crystal"
+            },
+            {
+                "name": "Buress, Hannibal"
+            },
+            {
+                "name": "Cassidy, Nat"
+            },
+            {
+                "name": "Chen, Hank"
+            },
+            {
+                "name": "Donohue, Kether"
+            },
+            {
+                "name": "Hartman, Katie"
+            },
+            {
+                "name": "Haynes, Victoria"
+            },
+            {
+                "name": "Hopkins, Anna Rose"
+            },
+            {
+                "name": "Kenneally, T.J."
+            },
+            {
+                "name": "Loseby, Melissa"
+            },
+            {
+                "name": "Luebbe, Dawn"
+            },
+            {
+                "name": "Malaos, Alex"
+            },
+            {
+                "name": "Minor, Matthew"
+            },
+            {
+                "name": "Offner, Deborah"
+            },
+            {
+                "name": "Rothe, Jessica"
+            },
+            {
+                "name": "Rudick, Leah"
+            }
+        ],
+        "locations": [
+            "New York City, New York, USA"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Mono"
+        ],
+        "number of seasons": 2,
+        "rating": 8.1,
+        "votes": 3187,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYjY5Zjg2ODQtMDQzMi00NDFlLTk1YjItM2UwNGVlNTQ0ZWNmXkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "High Maintenance",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-2015",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Blichfeld, Katja"
+            },
+            {
+                "name": "Creighton, Michael Cyril"
+            },
+            {
+                "name": "Sinclair, Ben"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Janky Clown Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Vimeo"
+            },
+            {
+                "name": "Vimeo"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Cineverse"
+            },
+            {
+                "name": "Company 3"
+            }
+        ],
+        "plot": [
+            "A nameless cannabis delivery guy delivers his much-needed medication to stressed-out New Yorkers.::Jankyclown Productions"
+        ],
+        "tech": {
+            "runtime": [
+                "30 min"
+            ],
+            "sound mix": [
+                "Mono"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "laboratory": [
+                "Company 3 (digital intermediate)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3187,
+                "rating": 8.1
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "aged 18 29": {
+                "votes": 784,
+                "rating": 8.4
+            },
+            "aged 30 44": {
+                "votes": 1304,
+                "rating": 8.0
+            },
+            "aged 45 plus": {
+                "votes": 339,
+                "rating": 7.3
+            },
+            "males": {
+                "votes": 1936,
+                "rating": 8.0
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 18 29": {
+                "votes": 575,
+                "rating": 8.4
+            },
+            "males aged 30 44": {
+                "votes": 997,
+                "rating": 7.9
+            },
+            "males aged 45 plus": {
+                "votes": 250,
+                "rating": 7.4
+            },
+            "females": {
+                "votes": 592,
+                "rating": 8.2
+            },
+            "females aged 18 29": {
+                "votes": 200,
+                "rating": 8.6
+            },
+            "females aged 30 44": {
+                "votes": 277,
+                "rating": 8.1
+            },
+            "females aged 45 plus": {
+                "votes": 82,
+                "rating": 7.2
+            },
+            "top 1000 voters": {
+                "votes": 55,
+                "rating": 5.6
+            },
+            "us users": {
+                "votes": 764,
+                "rating": 8.3
+            },
+            "non us users": {
+                "votes": 1213,
+                "rating": 7.9
+            }
+        },
+        "number of votes": {
+            "10": 880,
+            "9": 763,
+            "8": 831,
+            "7": 302,
+            "6": 110,
+            "5": 67,
+            "4": 45,
+            "3": 37,
+            "2": 32,
+            "1": 120
+        },
+        "arithmetic mean": 8.1,
+        "median": 9
+    }
+}

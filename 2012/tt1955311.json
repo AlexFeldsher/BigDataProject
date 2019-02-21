@@ -1,0 +1,716 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "4 January 2012"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "23 February 2012",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "USA\n",
+                "date": "11 September 2012"
+            },
+            {
+                "country": "Finland\n",
+                "date": "10 June 2013"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "14 November 2013"
+            }
+        ],
+        "release dates": [
+            "Canada::4 January 2012",
+            "Netherlands::23 February 2012                            (limited)",
+            "USA::11 September 2012",
+            "Finland::10 June 2013",
+            "Hungary::14 November 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Bomb Girls"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Bomba/nők"
+            },
+            {
+                "countries": "Poland",
+                "title": "Bombowe dziewczyny"
+            },
+            {
+                "countries": "Russia",
+                "title": "Девушки и бомбы"
+            }
+        ],
+        "akas": [
+            "Bomb Girls (original title)",
+            "Bomba/nők Hungary",
+            "Bombowe dziewczyny Poland",
+            "Девушки и бомбы Russia"
+        ],
+        "akas from release info": [
+            "Bomb Girls (original title)",
+            "Bomba/nők Hungary",
+            "Bombowe dziewczyny Poland",
+            "Девушки и бомбы Russia"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "The Quickening",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 60,
+                    "original air date": "2 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    With the war intensifying overseas, Gladys is inspired to organize a fundraiser for Canadian POWs, which her parents commandeer for their own means.    "
+                },
+                "2": {
+                    "title": "Roses Red",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 36,
+                    "original air date": "9 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    It's Valentine's Day and everyone at Victory Munitions tries to feel the love while grappling with the shocking Allied defeat at Singapore - and their own individual losses.    "
+                },
+                "3": {
+                    "title": "The Enemy Within",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 38,
+                    "original air date": "16 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Gladys accompanies Marco and his mother on a journey to an internment camp in a bid to help Marco's detained father.    "
+                },
+                "4": {
+                    "title": "Guests of Honour",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 39,
+                    "original air date": "23 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Buzzing with excitement, Lorna hosts a dinner for her visiting son Gene - but the party hits some snags when Sheila brings an unexpected guest - while news of escaped POWs results in a city-wide blackout.    "
+                },
+                "5": {
+                    "title": "The Harder We Fight",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 35,
+                    "original air date": "30 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    The factory has a few hiccups when an influx of new girls arrive to bolster the workforce. Gladys feels the heat of Gene's attentions and the competition heats up between Vera and Carol in the office.    "
+                },
+                "6": {
+                    "title": "Where There's Smoke",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 32,
+                    "original air date": "6 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Victory Munitions hosts a star-studded cavalcade to raise money for war bonds. But with tensions rising between Lorna and Gladys, amplified by Gene's volatile behaviour, the fireworks finale isn't the night's only explosion.    "
+                },
+                "7": {
+                    "title": "Party Line",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 30,
+                    "original air date": "25 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    News of a daring raid on Dieppe electrifies the nation. But as the truth slowly trickles in, the women of VicMu deal with the unfolding tragedy of \"Operation Jubilee\" in personal and unexpected ways.    "
+                },
+                "8": {
+                    "title": "Fifth Column",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 29,
+                    "original air date": "1 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    The women find themselves caught up in their own film noir action after seeing Hitchcock's spine-tingling Saboteur. Faced by threats on the home front, the women realize enemies are closer than they feared.    "
+                },
+                "9": {
+                    "title": "Something Fierce",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 32,
+                    "original air date": "8 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    An intrepid reporter visits VicMu - shaking things up and causing Lorna to examine her value at work. Kate takes an innovative approach to jumpstarting her singing career. Thanks to Clifford, Gladys sees a different side of her father.    "
+                },
+                "10": {
+                    "title": "Romeo Foxtrot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 29,
+                    "original air date": "15 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    orna takes up dancing - surprising both herself and the instructor. Kate and Ivan explore the terms of engagement while Betty learns what it means to date a soldier.    "
+                },
+                "11": {
+                    "title": "Kings and Pawns",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 25,
+                    "original air date": "22 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    Gladys is torn between her patriotic duty and her friendships. Lorna wrestles with her family's changing dynamics. Marco feels trapped as he realises that people he thought were on his side are working against him.    "
+                },
+                "12": {
+                    "title": "Blood Relations",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 33,
+                    "original air date": "29 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    here's a festive spirit in the air with Kate's wedding fast approaching and the first Allied victory at El Alamein on the horizon. But dormant threats resurface, jeopardising the status quo.    "
+                },
+                "13": {
+                    "title": "Facing the Enemy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "original air date": "27 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Jumping Tracks",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 88,
+                    "original air date": "11 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    When rich-girl Gladys Witham takes an office job at Victory Munitions, she discovers a new world - a fascinating sisterhood and a cause that she hopes may change her life.    "
+                },
+                "2": {
+                    "title": "Misfires",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 54,
+                    "original air date": "11 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    The women at Victory Munitions must band together when the blame for an accidental explosion is laid at their feet.    "
+                },
+                "3": {
+                    "title": "How You Trust",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 50,
+                    "original air date": "18 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    A surprise inspection puts Victory Munitions employees under the gun, giving Lorna an opportunity to finally rid the factory of Marco, and Gladys must defend herself against a thief to prove an accused Kate's innocence.    "
+                },
+                "4": {
+                    "title": "Bringing Up Bombshell",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 48,
+                    "original air date": "25 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    A propaganda film shoot has the girls discovering they're victims of the war's hype.    "
+                },
+                "5": {
+                    "title": "Armistice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 47,
+                    "original air date": "1 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    With Armistice Day nearing, battles near and far get cast into stark relief. Lorna struggles to free herself from Marco while Gladys's secret engagement is exposed.    "
+                },
+                "6": {
+                    "title": "Elements of Surprise",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bomb Girls (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 55,
+                    "original air date": "8 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Set against the attack on Pearl Harbor, Gladys's secret job is exposed, while Lorna grapples with a possible pregnancy and Kate struggles to stand up to the return of her manipulative father.    "
+                }
+            }
+        },
+        "number of episodes": 19,
+        "cast": [
+            {
+                "name": "Tilly, Meg"
+            },
+            {
+                "name": "Balfour, Jodi"
+            },
+            {
+                "name": "Hegele, Charlotte"
+            },
+            {
+                "name": "Liebert, Ali"
+            },
+            {
+                "name": "Cupo, Antonio"
+            },
+            {
+                "name": "Phillips, Anastasia"
+            },
+            {
+                "name": "Fitzpatrick, Richard"
+            },
+            {
+                "name": "Outerbridge, Peter"
+            },
+            {
+                "name": "Greenblatt, Natasha"
+            },
+            {
+                "name": "McGowan, James"
+            },
+            {
+                "name": "Hennig, Kate"
+            },
+            {
+                "name": "Burchell, Carlyn"
+            },
+            {
+                "name": "Seater, Michael"
+            },
+            {
+                "name": "Pigott, Sebastian"
+            },
+            {
+                "name": "Codrington, Jim"
+            },
+            {
+                "name": "Norton, Lisa"
+            },
+            {
+                "name": "Smith, Tre"
+            },
+            {
+                "name": "Richards, Jasmine"
+            },
+            {
+                "name": "Grey, Gabe"
+            },
+            {
+                "name": "Penikett, Tahmoh"
+            },
+            {
+                "name": "Petardi, Rafael"
+            },
+            {
+                "name": "Ralston, John"
+            },
+            {
+                "name": "Ellwand, Toni"
+            },
+            {
+                "name": "Fanfair, Robinne"
+            },
+            {
+                "name": "Dier, Brett"
+            },
+            {
+                "name": "Wilson, Rachel"
+            },
+            {
+                "name": "MacLellan, Billy"
+            },
+            {
+                "name": "Allen, Brittany"
+            },
+            {
+                "name": "Vitale, Luke"
+            },
+            {
+                "name": "Waddell, Karen"
+            },
+            {
+                "name": "Arnott, Stewart"
+            },
+            {
+                "name": "Goodman, Jake"
+            },
+            {
+                "name": "Hughes, Stuart"
+            },
+            {
+                "name": "Lea, Ron"
+            },
+            {
+                "name": "Moran, Derek"
+            },
+            {
+                "name": "Moffat, Jane"
+            },
+            {
+                "name": "Abbey, Graham"
+            },
+            {
+                "name": "Chen, Terry"
+            },
+            {
+                "name": "Hewitt, Kjartan"
+            },
+            {
+                "name": "O'Donnell, Rosie"
+            },
+            {
+                "name": "Greco, Jessica"
+            },
+            {
+                "name": "Butcher, Adam"
+            },
+            {
+                "name": "Charles, Tanika"
+            },
+            {
+                "name": "Lake, Ian"
+            },
+            {
+                "name": "Cumyn, Steve"
+            },
+            {
+                "name": "Atherton, Ted"
+            },
+            {
+                "name": "Eastwood, Jayne"
+            },
+            {
+                "name": "Hemstad, Dave"
+            },
+            {
+                "name": "Johnson, Geordie"
+            },
+            {
+                "name": "Wetsch, Jeffrey"
+            }
+        ],
+        "locations": [
+            "Parkwood Estate, Oshawa, Ontario, Canada",
+            "Toronto, Ontario, Canada"
+        ],
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "country codes": [
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Finland:K-12::(TV rating)",
+            "Netherlands:12"
+        ],
+        "number of seasons": 2,
+        "rating": 7.9,
+        "votes": 3673,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTkyMDgxMjEwOV5BMl5BanBnXkFtZTcwNzM5MTIzNw@@._V1_SY150_CR1,0,101,150_.jpg",
+        "plot outline": "Set in the 1940s, Bomb Girls tells the remarkable stories of the women who risked their lives in a munitions factory building bombs for the Allied forces fighting on the European front. The series delves into the lives of these exceptional women from all walks of life - peers, friends and rivals - who find themselves thrust into new worlds and changed profoundly as they are liberated from their home and social restrictions.",
+        "languages": [
+            "English"
+        ],
+        "title": "Bomb Girls",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Drennan, Debi"
+            },
+            {
+                "name": "Jennings, Maureen"
+            },
+            {
+                "name": "MacLennan, Michael"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Muse Entertainment Enterprises"
+            },
+            {
+                "name": "Back Alley Film Productions"
+            },
+            {
+                "name": "Shaw Media"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Shaw Media"
+            },
+            {
+                "name": "Muse Distribution International"
+            },
+            {
+                "name": "Global"
+            },
+            {
+                "name": "Batrax Entertainment"
+            },
+            {
+                "name": "Film Café"
+            },
+            {
+                "name": "Film1 Series"
+            },
+            {
+                "name": "Visionary Thinking"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Buzzy's Recording"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Entertainment Partners Canada"
+            },
+            {
+                "name": "Klass Security and Investigations"
+            },
+            {
+                "name": "PS Production Services"
+            },
+            {
+                "name": "PS Production Services"
+            },
+            {
+                "name": "Premium Sound"
+            },
+            {
+                "name": "Sync OnSet"
+            }
+        ],
+        "plot": [
+            "A drama about World War II women at work in a munitions factory.::Anonymous",
+            "Set in the 1940s, _Bomb Girls_ (qv) tells the remarkable stories of the women who risked their lives in a munitions factory building bombs for the Allied forces fighting on the European front. The series delves into the lives of these exceptional women from all walks of life - peers, friends and rivals - who find themselves thrust into new worlds and changed profoundly as they are liberated from their home and social restrictions.::Michael MacLennan"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Arri Alexa (season 2)"
+            ],
+            "negative format": [
+                "SxS Pro (season 2)"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (2K) (master format)",
+                "ProRes 4:4:4 (1080/23.976p) (source format) (season 2)"
+            ],
+            "printed film format": [
+                "HDTV"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3673,
+                "rating": 7.9
+            },
+            "aged 18 29": {
+                "votes": 697,
+                "rating": 8.1
+            },
+            "aged 30 44": {
+                "votes": 1296,
+                "rating": 7.8
+            },
+            "aged 45 plus": {
+                "votes": 813,
+                "rating": 7.6
+            },
+            "males": {
+                "votes": 763,
+                "rating": 7.2
+            },
+            "males aged 18 29": {
+                "votes": 78,
+                "rating": 7.2
+            },
+            "males aged 30 44": {
+                "votes": 280,
+                "rating": 7.0
+            },
+            "males aged 45 plus": {
+                "votes": 363,
+                "rating": 7.3
+            },
+            "females": {
+                "votes": 2181,
+                "rating": 8.1
+            },
+            "females aged 18 29": {
+                "votes": 604,
+                "rating": 8.3
+            },
+            "females aged 30 44": {
+                "votes": 989,
+                "rating": 8.0
+            },
+            "females aged 45 plus": {
+                "votes": 440,
+                "rating": 8.0
+            },
+            "top 1000 voters": {
+                "votes": 49,
+                "rating": 6.8
+            },
+            "us users": {
+                "votes": 1000,
+                "rating": 7.9
+            },
+            "non us users": {
+                "votes": 1192,
+                "rating": 7.7
+            }
+        },
+        "number of votes": {
+            "10": 1066,
+            "9": 720,
+            "8": 939,
+            "7": 526,
+            "6": 168,
+            "5": 74,
+            "4": 50,
+            "3": 35,
+            "2": 24,
+            "1": 71
+        },
+        "arithmetic mean": 8.2,
+        "median": 8
+    }
+}

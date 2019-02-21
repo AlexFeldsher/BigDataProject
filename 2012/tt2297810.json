@@ -1,0 +1,554 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "June 2012"
+            },
+            {
+                "country": "USA\n",
+                "date": "14 August 2012"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "23 August 2013"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "2 November 2013"
+            }
+        ],
+        "release dates": [
+            "USA::June 2012",
+            "USA::14 August 2012",
+            "Netherlands::23 August 2013",
+            "Sweden::2 November 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Burn with Jeff Ross"
+            },
+            {
+                "countries": " (short title)",
+                "title": "The Burn"
+            }
+        ],
+        "akas": [
+            "The Burn with Jeff Ross (original title)",
+            "The Burn (short title)"
+        ],
+        "akas from release info": [
+            "The Burn with Jeff Ross (original title)",
+            "The Burn (short title)"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Anthony Jeselnik/Lisa Lampanelli/Bobby Lee",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Burn with Jeff Ross (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "8 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Jeff roasts new year's resolutions.    "
+                },
+                "2": {
+                    "title": "Dave Attell/Judah Friedlander/Natasha Leggero",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Burn with Jeff Ross (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "original air date": "15 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Jeff and the group roast the Oscar nominees. Jeff roasts the cast of \"The View\".    "
+                },
+                "3": {
+                    "title": "Episode #2.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Burn with Jeff Ross (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "22 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Jeff Ross is joined by Margaret Cho, Brian Posehn, and James Adomian as they roast smokers and Manti Te'o's \"girlfriend,\" and has a \"friendly fire\" with Bob Saget.    "
+                },
+                "4": {
+                    "title": "Gilbert Gottfried/T. J. Miller/Aisha Tyler",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Burn with Jeff Ross (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 9,
+                    "original air date": "29 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Jeff takes a group of teachers to a gun range. Jeff roasts stars at a showing of the movie 43.    "
+                },
+                "5": {
+                    "title": "Michael Ian Black/Sherrod Small/Adam Carolla",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Burn with Jeff Ross (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "original air date": "5 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Jeff goes to Martin Luther King Jr. Boulevard on Martin Luther King Jr. Day to roast black people.    "
+                },
+                "6": {
+                    "title": "Episode #2.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Burn with Jeff Ross (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "original air date": "12 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Jeff Ross is joined by Nikki Glaser, Al Madrigal, and Ralphie May as they roast Valentine's Day and hipsters, and Jeff has a \"friendly fire\" with Snoop Lion.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Ralphie May/Amy Schumer/J.B. Smoove/Sarah Silverman",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Burn with Jeff Ross (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 12,
+                    "original air date": "14 Aug. 2012",
+                    "year": "2012",
+                    "plot": "\n    Jeff roasts meter maids.    "
+                },
+                "2": {
+                    "title": "Gilbert Gottfried/Russell Peters/Marc Maron/John Stamos",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Burn with Jeff Ross (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 11,
+                    "original air date": "21 Aug. 2012",
+                    "year": "2012",
+                    "plot": "\n    Jeff roasts the paparazzi.    "
+                },
+                "3": {
+                    "title": "Jimmy Kimmel/Jim Norton/Bobby Lee/Mary Lynn Rajskub",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Burn with Jeff Ross (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 10,
+                    "original air date": "28 Aug. 2012",
+                    "year": "2012",
+                    "plot": "\n    Jeff roasts bouncers.    "
+                },
+                "4": {
+                    "title": "Anthony Jeselnik/Natasha Leggero/Todd Glass",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Burn with Jeff Ross (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 10,
+                    "original air date": "4 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    Jeff roasts able-bodied people who park in handicapped spaces.    "
+                },
+                "5": {
+                    "title": "Rachael Harris/T.J. Miller/Hannibal Buress",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Burn with Jeff Ross (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 6,
+                    "original air date": "11 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    Jeff roasts the porn industry.    "
+                },
+                "6": {
+                    "title": "Amy Schumer/Chelsea Peretti/Brody Stevens/Arianny Celeste",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Burn with Jeff Ross (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 7,
+                    "original air date": "18 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    Jeff roasts a ten-million dollar rock.    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "Episode dated 1 February 2013",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Burn with Jeff Ross (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "1 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Ross, Jeffrey"
+            },
+            {
+                "name": "Gottfried, Gilbert"
+            },
+            {
+                "name": "Larson, Ed"
+            },
+            {
+                "name": "Miller, T.J."
+            },
+            {
+                "name": "Leggero, Natasha"
+            },
+            {
+                "name": "Jeselnik, Anthony"
+            },
+            {
+                "name": "Schumer, Amy"
+            },
+            {
+                "name": "Lee, Bobby"
+            },
+            {
+                "name": "Smoove, J.B."
+            },
+            {
+                "name": "Harris, Rachael"
+            },
+            {
+                "name": "Kimmel, Jimmy"
+            },
+            {
+                "name": "May, Ralphie"
+            },
+            {
+                "name": "Attell, Dave"
+            },
+            {
+                "name": "Black, Michael Ian"
+            },
+            {
+                "name": "Norton, Jim"
+            },
+            {
+                "name": "Peters, Russell"
+            },
+            {
+                "name": "Friedlander, Judah"
+            },
+            {
+                "name": "Small, Sherrod"
+            },
+            {
+                "name": "Buress, Hannibal"
+            },
+            {
+                "name": "Glass, Todd"
+            },
+            {
+                "name": "Maron, Marc"
+            },
+            {
+                "name": "Carolla, Adam"
+            },
+            {
+                "name": "Tyler, Aisha"
+            },
+            {
+                "name": "Knoxville, Johnny"
+            },
+            {
+                "name": "Rajskub, Mary Lynn"
+            },
+            {
+                "name": "Silverman, Sarah"
+            },
+            {
+                "name": "Stamos, John"
+            },
+            {
+                "name": "Jordan, Katie"
+            },
+            {
+                "name": "Angelina, Eva"
+            },
+            {
+                "name": "Gamble, Seth"
+            },
+            {
+                "name": "Driller, Ryan"
+            },
+            {
+                "name": "Rose, Kristina"
+            },
+            {
+                "name": "Spiegler, Mark"
+            },
+            {
+                "name": "Celeste, Arianny"
+            },
+            {
+                "name": "Cox, Patrick"
+            },
+            {
+                "name": "Peretti, Chelsea"
+            },
+            {
+                "name": "Schini, Kevin"
+            },
+            {
+                "name": "Stevens, Brody"
+            },
+            {
+                "name": "Arnold, Tom"
+            },
+            {
+                "name": "Behar, Joy"
+            },
+            {
+                "name": "Buttler, Joseph"
+            },
+            {
+                "name": "Common"
+            },
+            {
+                "name": "David, Larry"
+            },
+            {
+                "name": "Dick, Andy"
+            },
+            {
+                "name": "Goldberg, Whoopi"
+            },
+            {
+                "name": "Hasselbeck, Elisabeth"
+            },
+            {
+                "name": "Kingsley, Curtis"
+            },
+            {
+                "name": "Kittelson, Andrea"
+            },
+            {
+                "name": "Lampanelli, Lisa"
+            },
+            {
+                "name": "Scott, Seann William"
+            }
+        ],
+        "locations": [
+            "Hollywood Center Studios - 1040 N. Las Palmas Avenue, Hollywood, Los Angeles, California, USA"
+        ],
+        "genres": [
+            "Comedy",
+            "Talk-Show"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "certificates": [
+            "Netherlands:12",
+            "United States:TV-14"
+        ],
+        "number of seasons": 2,
+        "rating": 7.7,
+        "votes": 611,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNDMyMzYwOTYyMl5BMl5BanBnXkFtZTcwMDExMTUyOA@@._V1_SX101_CR0,0,101,150_.jpg",
+        "plot outline": "Jeff Ross will skewer the week's pop culture topics in-studio, and hit the streets to take aim at public enemies, such as meter maids, the paparazzi, and those who need to be taken down a notch, like Betty White. Ross will be joined by fellow comics and celebrity pals as he verbally incinerates all the things we loathe and love. Absolutely no one is safe. Every episode will end with a tribute to whomever or whatever passed away that week, entitled 'Too Soon?'.",
+        "languages": [
+            "English"
+        ],
+        "title": "The Burn with Jeff Ross",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Joyce, Jesse"
+            },
+            {
+                "name": "Tiana, Sarah"
+            },
+            {
+                "name": "Gibbons, Mike"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Enough With The Bread Already Productions"
+            },
+            {
+                "name": "New Boots"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Comedy Central"
+            },
+            {
+                "name": "Comedy Central"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "1Iota Productions"
+            },
+            {
+                "name": "Central Talent Booking"
+            },
+            {
+                "name": "Sande Alessi Casting"
+            }
+        ],
+        "plot": [
+            "Jeff Ross will skewer the week's pop culture topics in-studio, and hit the streets to take aim at public enemies, such as meter maids, the paparazzi, and those who need to be taken down a notch, like Betty White. Ross will be joined by fellow comics and celebrity pals as he verbally incinerates all the things we loathe and love. Absolutely no one is safe. Every episode will end with a tribute to whomever or whatever passed away that week, entitled 'Too Soon?'.::Comedy Central"
+        ],
+        "tech": {
+            "runtime": [
+                "30 min (including commercials)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 611,
+                "rating": 7.7
+            },
+            "aged 18 29": {
+                "votes": 131,
+                "rating": 8.0
+            },
+            "aged 30 44": {
+                "votes": 289,
+                "rating": 7.7
+            },
+            "aged 45 plus": {
+                "votes": 75,
+                "rating": 7.0
+            },
+            "males": {
+                "votes": 458,
+                "rating": 7.8
+            },
+            "males aged 18 29": {
+                "votes": 119,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 253,
+                "rating": 7.8
+            },
+            "males aged 45 plus": {
+                "votes": 63,
+                "rating": 7.1
+            },
+            "females": {
+                "votes": 57,
+                "rating": 6.5
+            },
+            "females aged 18 29": {
+                "votes": 12,
+                "rating": 5.8
+            },
+            "females aged 30 44": {
+                "votes": 34,
+                "rating": 6.9
+            },
+            "females aged 45 plus": {
+                "votes": 10,
+                "rating": 6.3
+            },
+            "top 1000 voters": {
+                "votes": 28,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 267,
+                "rating": 7.6
+            },
+            "non us users": {
+                "votes": 155,
+                "rating": 7.8
+            }
+        },
+        "number of votes": {
+            "10": 167,
+            "9": 90,
+            "8": 129,
+            "7": 115,
+            "6": 31,
+            "5": 15,
+            "4": 7,
+            "3": 7,
+            "2": 13,
+            "1": 37
+        },
+        "arithmetic mean": 7.7,
+        "median": 8
+    }
+}

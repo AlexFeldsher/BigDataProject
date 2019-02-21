@@ -1,0 +1,618 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2012"
+            },
+            {
+                "country": "Canada\n",
+                "date": "16 October 2012"
+            },
+            {
+                "country": "USA\n",
+                "date": "16 October 2012"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "20 January 2013"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "11 March 2013"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "29 July 2013"
+            },
+            {
+                "country": "Japan\n",
+                "date": "9 April 2014"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "10 May 2016"
+            }
+        ],
+        "release dates": [
+            "USA::2012",
+            "Canada::16 October 2012",
+            "USA::16 October 2012",
+            "Hungary::20 January 2013",
+            "Netherlands::11 March 2013",
+            "Sweden::29 July 2013",
+            "Japan::9 April 2014",
+            "Belgium::10 May 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Emily Owens M.D."
+            },
+            {
+                "countries": "Hungary",
+                "title": "Emily doktornő"
+            },
+            {
+                "countries": "Russia",
+                "title": "Доктор Эмили Оуэнс"
+            }
+        ],
+        "akas": [
+            "Emily Owens M.D. (original title)",
+            "Emily doktornő Hungary",
+            "Доктор Эмили Оуэнс Russia"
+        ],
+        "akas from release info": [
+            "Emily Owens M.D. (original title)",
+            "Emily doktornő Hungary",
+            "Доктор Эмили Оуэнс Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emily Owens M.D. (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 98,
+                    "original air date": "16 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Dr Owens starts her internship with her friend Dr Will Collins. Alas her former high school nemesis Cassandra is also interning. The nurses don't like Emily, Cassandra shows her up, the resident doctor said she overstepped her bounds, etc.    "
+                },
+                "2": {
+                    "title": "Emily and... The Alan Zolman Incident",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emily Owens M.D. (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 78,
+                    "original air date": "23 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Emily's cases include a man who is ineligible for surgery and will die without it; a woman who has an acute case of OCD and is difficult to diagnosis because of her compulsions. She tries to act normal around Will who rejected her love.    "
+                },
+                "3": {
+                    "title": "Emily and... the Outbreak",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emily Owens M.D. (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 79,
+                    "original air date": "30 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Dr Bandari quizzes the interns for the chance to help in surgery. While Cassandra wins, she freezes during the operation. Emily treats a gymnast with an unknown condition and a man who has gall bladder problems. Micah encourages Emily.    "
+                },
+                "4": {
+                    "title": "Emily and... the Predator",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emily Owens M.D. (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 52,
+                    "original air date": "13 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Emily and Micah help a patient who needs a kidney transplant, but does not want a kidney from her new husband. A woman pregnant with twins is a surrogate for her sister; one unborn twin is dying. Will wants to ask Cassandra out on a date.    "
+                },
+                "5": {
+                    "title": "Emily and... the Tell-Tale Heart",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emily Owens M.D. (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 52,
+                    "original air date": "20 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Emily helps a patient who needs a partial liver transplant and a drug addict going through withdrawal. Micah asks Emily to be on the team helping with his mother's cancer treatment. Cassandra asks Emily to find out why Will is avoiding her.    "
+                },
+                "6": {
+                    "title": "Emily and... the Question of Faith",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emily Owens M.D. (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 50,
+                    "original air date": "27 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Emily works with a well-known pediatrician on a baby diagnosed with male and female genitals. Tyra learns her father had an affair; she tells him she is a lesbian. Cassandra pretends to be friends with Emily for Will's sake but causes trouble.    "
+                },
+                "7": {
+                    "title": "Emily and... the Good and the Bad",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emily Owens M.D. (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 67,
+                    "original air date": "4 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n    It's Emily's birthday and she wants to keep it quiet. Will creates a party for her. Cases include a criminal in for a heart operation, and a loved flower delivery man who collapses during a delivery. Micah and Emily work together.    "
+                },
+                "8": {
+                    "title": "Emily and... The Car and the Cards",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emily Owens M.D. (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 47,
+                    "original air date": "1 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Micah, Emily, Will, and others rush to save a teenager impaled with a pole from a car accident. Her boyfriend caused the accident who appears unharmed. Emily helps a beautiful model who has cancer in her mouth which will ruin her looks.    "
+                },
+                "9": {
+                    "title": "Emily and... The Love of Larping",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emily Owens M.D. (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 39,
+                    "original air date": "8 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Emily is ready for a change in her life. Cassandra sets Emily up on a blind date. Micah plans a weekend skiing trip. Cases include a woman with cancer, a business executive who is too busy to get treatment, and a man who seems psychotic.    "
+                },
+                "10": {
+                    "title": "Emily and... The Social Experiment",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emily Owens M.D. (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 41,
+                    "original air date": "15 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Michah treats a patient who needs new lungs but has cancer. Emily has a patient who is convinced she is going to die because she read it in the Tarot cards. Tyra teaches Emily how to flirt. A doctor who used to work at the hospital returns.    "
+                },
+                "11": {
+                    "title": "Emily and... The Teapot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emily Owens M.D. (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 50,
+                    "original air date": "22 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Emily, Will, and Cassandra are in competition for Bandari's research assistant. Emily wins because of her ability to talk to patients. Emily decides to stop waiting for Will, and Michal thinks it might be his chance to invite her out.    "
+                },
+                "12": {
+                    "title": "Emily and... The Perfect Storm",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emily Owens M.D. (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 62,
+                    "original air date": "29 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Emily triages victims of a bus accident during an ice storm. Cases include a woman who wants to be a doctor, a solider who has a head wound, and a pregnant woman in early labor. Micah makes a move towards Emily. Cassandra breaks with Will.    "
+                },
+                "13": {
+                    "title": "Emily and... The Leap",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emily Owens M.D. (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 90,
+                    "original air date": "5 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Emily & Micah discuss starting a relationship and plan a first date. Micah's sister visits and their mother decides to stop treatment. Will decides he wants to be with Emily. Will misdiagnoses a woman's condition who then dies.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Gummer, Mamie"
+            },
+            {
+                "name": "Hartley, Justin"
+            },
+            {
+                "name": "King, Aja Naomi"
+            },
+            {
+                "name": "Rady, Michael"
+            },
+            {
+                "name": "Zadegan, Necar"
+            },
+            {
+                "name": "McCreary, Kelly"
+            },
+            {
+                "name": "Bancroft, Yoshié"
+            },
+            {
+                "name": "Willes, Christine"
+            },
+            {
+                "name": "Lennix, Harry"
+            },
+            {
+                "name": "Barroll, Catherine"
+            },
+            {
+                "name": "Ghanimé, Mark"
+            },
+            {
+                "name": "Ishibashi, Brittany"
+            },
+            {
+                "name": "Sahel, Sachin"
+            },
+            {
+                "name": "Harrison, Michelle"
+            },
+            {
+                "name": "Dixon-Warren, Tanja"
+            },
+            {
+                "name": "Edwards, Ian"
+            },
+            {
+                "name": "Goree, Eli"
+            },
+            {
+                "name": "House, Marci T."
+            },
+            {
+                "name": "Woodside, D.B."
+            },
+            {
+                "name": "Ramirez, J.R."
+            },
+            {
+                "name": "Goossen, Jeananne"
+            },
+            {
+                "name": "Mailey, Laci J"
+            },
+            {
+                "name": "Drake, Patricia"
+            },
+            {
+                "name": "Atebe, Camille"
+            },
+            {
+                "name": "Anderson, Nicola"
+            },
+            {
+                "name": "Ha, Benita"
+            },
+            {
+                "name": "Dale, Ian Anthony"
+            },
+            {
+                "name": "Allen, Trish"
+            },
+            {
+                "name": "Campbell, Paul"
+            },
+            {
+                "name": "Kanagawa, Hiro"
+            },
+            {
+                "name": "Thai, Elizabeth"
+            },
+            {
+                "name": "Percival, Marlowe"
+            },
+            {
+                "name": "Churchill, Candus"
+            },
+            {
+                "name": "Wong, Theresa"
+            },
+            {
+                "name": "Stone, Julia Sarah"
+            },
+            {
+                "name": "DiPillo, Rachel"
+            },
+            {
+                "name": "Krosney, Alexandra"
+            },
+            {
+                "name": "Bobadilla, Daniela"
+            },
+            {
+                "name": "Coy, Chris"
+            },
+            {
+                "name": "Holmes, Emily"
+            },
+            {
+                "name": "Rous, Bess"
+            },
+            {
+                "name": "Williams, Virginia"
+            },
+            {
+                "name": "Richards, J. August"
+            },
+            {
+                "name": "Van Hooft, Anna"
+            },
+            {
+                "name": "Coloma, Marcus"
+            },
+            {
+                "name": "Garlington, Lee"
+            },
+            {
+                "name": "Latessa, Dick"
+            },
+            {
+                "name": "McMillian, Michael"
+            },
+            {
+                "name": "Prasad, Sunita"
+            },
+            {
+                "name": "Rubin, Brady"
+            }
+        ],
+        "locations": [
+            "Vancouver, British Columbia, Canada",
+            "North Shore Studios, North Vancouver, British Columbia, Canada",
+            "University of British Columbia, Vancouver, British Columbia, Canada"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Netherlands:12"
+        ],
+        "number of seasons": 1,
+        "rating": 7.6,
+        "votes": 6211,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTM2ODQ3NzIzOV5BMl5BanBnXkFtZTcwNjI0MTcyOA@@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Emily Owens M.D.",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-2013",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Urman, Jennie Snyder"
+            },
+            {
+                "name": "Kelley, John C."
+            },
+            {
+                "name": "Babcock, David"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "The Dan Jinks Company"
+            },
+            {
+                "name": "Warner Bros. Television"
+            },
+            {
+                "name": "CBS Television Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "The CW Network (The CW)"
+            },
+            {
+                "name": "Canadian Television (CTV)"
+            },
+            {
+                "name": "ETC Entertainment Central"
+            },
+            {
+                "name": "FEM3"
+            },
+            {
+                "name": "Net5"
+            },
+            {
+                "name": "Network Ten"
+            },
+            {
+                "name": "WOWOW Prime"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Universal Studios Sound Facilities"
+            },
+            {
+                "name": "Modern VideoFilm"
+            },
+            {
+                "name": "CBS Studios"
+            },
+            {
+                "name": "Aion Art Gallery"
+            },
+            {
+                "name": "Entertainment Partners Canada"
+            },
+            {
+                "name": "Hula Post"
+            },
+            {
+                "name": "William F. White International"
+            }
+        ],
+        "plot": [
+            "A young doctor realizes that working as an intern in a big hospital is very much the same as being in high school.::vhavnal"
+        ],
+        "tech": {
+            "runtime": [
+                "43 min"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 6211,
+                "rating": 7.6
+            },
+            "aged 18 29": {
+                "votes": 1757,
+                "rating": 7.8
+            },
+            "aged 30 44": {
+                "votes": 2229,
+                "rating": 7.5
+            },
+            "aged 45 plus": {
+                "votes": 712,
+                "rating": 6.9
+            },
+            "males": {
+                "votes": 1180,
+                "rating": 6.7
+            },
+            "males aged 18 29": {
+                "votes": 298,
+                "rating": 7.1
+            },
+            "males aged 30 44": {
+                "votes": 520,
+                "rating": 6.6
+            },
+            "males aged 45 plus": {
+                "votes": 300,
+                "rating": 6.4
+            },
+            "females": {
+                "votes": 3768,
+                "rating": 7.9
+            },
+            "females aged 18 29": {
+                "votes": 1434,
+                "rating": 8.0
+            },
+            "females aged 30 44": {
+                "votes": 1678,
+                "rating": 7.8
+            },
+            "females aged 45 plus": {
+                "votes": 396,
+                "rating": 7.7
+            },
+            "top 1000 voters": {
+                "votes": 74,
+                "rating": 5.7
+            },
+            "us users": {
+                "votes": 1433,
+                "rating": 7.5
+            },
+            "non us users": {
+                "votes": 1925,
+                "rating": 7.3
+            }
+        },
+        "number of votes": {
+            "10": 2247,
+            "9": 903,
+            "8": 1214,
+            "7": 847,
+            "6": 367,
+            "5": 201,
+            "4": 98,
+            "3": 69,
+            "2": 62,
+            "1": 203
+        },
+        "arithmetic mean": 8.1,
+        "median": 9
+    }
+}

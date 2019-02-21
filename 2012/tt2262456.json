@@ -1,0 +1,579 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "30 June 2012"
+            },
+            {
+                "country": "USA\n",
+                "date": "20 September 2013"
+            },
+            {
+                "country": "Finland\n",
+                "date": "7 December 2013"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "4 July 2015"
+            },
+            {
+                "country": "Japan\n",
+                "date": "14 December 2015",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "8 April 2017",
+                "notes": "                            (theatrical release)"
+            }
+        ],
+        "release dates": [
+            "UK::30 June 2012",
+            "USA::20 September 2013",
+            "Finland::7 December 2013",
+            "Sweden::4 July 2015",
+            "Japan::14 December 2015                            (internet)",
+            "Japan::8 April 2017                            (theatrical release)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Hollow Crown"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Кухата корона"
+            },
+            {
+                "countries": "Finland",
+                "title": "Ontto kruunu"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Den ihåliga kronan"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Hollow Crown - Koronák harca"
+            },
+            {
+                "countries": "Hungary (second season title)",
+                "title": "Hollow Crown - Rózsák háborúja"
+            },
+            {
+                "countries": "Russia",
+                "title": "Пустая корона"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Henrijada"
+            },
+            {
+                "countries": "UK (second season title)",
+                "title": "The Hollow Crown: The Wars Of The Roses"
+            }
+        ],
+        "akas": [
+            "The Hollow Crown (original title)",
+            "Кухата корона Bulgaria (Bulgarian title)",
+            "Ontto kruunu Finland",
+            "Den ihåliga kronan Finland (Swedish title)",
+            "Hollow Crown - Koronák harca Hungary",
+            "Hollow Crown - Rózsák háborúja Hungary (second season title)",
+            "Пустая корона Russia",
+            "Henrijada Serbia",
+            "The Hollow Crown: The Wars Of The Roses UK (second season title)"
+        ],
+        "akas from release info": [
+            "The Hollow Crown (original title)",
+            "Кухата корона Bulgaria (Bulgarian title)",
+            "Ontto kruunu Finland",
+            "Den ihåliga kronan Finland (Swedish title)",
+            "Hollow Crown - Koronák harca Hungary",
+            "Hollow Crown - Rózsák háborúja Hungary (second season title)",
+            "Пустая корона Russia",
+            "Henrijada Serbia",
+            "The Hollow Crown: The Wars Of The Roses UK (second season title)"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Henry VI Part 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Hollow Crown (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 382,
+                    "original air date": "11 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    Following his father's early death and the loss of possessions in France young Henry VI comes to the throne, under the protection of the duke of Gloucester. He is unaware that there are other claimants to the throne, Plantagent of York and Somerset of Lancaster, whose factions will ultimately cause the Wars of the Roses. Ignorant of the schisms Henry tries to unite them in the Hundred Years War, capturing Joan of Arc, before he marries Margaret of Anjou to unite England and France, but there is no dowry, angering the court. Margaret finds the pious Henry a dull ...    "
+                },
+                "2": {
+                    "title": "Henry VI Part 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Hollow Crown (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 342,
+                    "original air date": "18 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    Five years on the country in is in the midst of civil war with Suffolk and Buckingham among the casualties at the battle of St Albans and the triumphant Plantagenet claiming the throne for the Yorkists. To avoid further bloodshed Henry agrees to make Plantagenrt his heir on his death, angering queen Margaret, who shocks her husband with a violent counter action. However the Yorkists triumph with Edward IV crowned king. Henry, descending into madness, is imprisoned in the Tower of London whilst Margaret and her son seek sanctuary in France. Yet Edward is not without ...    "
+                },
+                "3": {
+                    "title": "Richard III",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Hollow Crown (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 400,
+                    "original air date": "25 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    Evil Richard plots his path to rule and layers that path with bodies of friend and foe alike.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Richard II",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Hollow Crown (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 1304,
+                    "original air date": "20 Sep. 2013",
+                    "year": "2013",
+                    "plot": "\n    The incompetent Richard II is deposed by Henry Bolingbroke and undergoes a crisis of identity once he is no longer king.    "
+                },
+                "2": {
+                    "title": "Henry IV, Part 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Hollow Crown (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 1114,
+                    "original air date": "27 Sep. 2013",
+                    "year": "2013",
+                    "plot": "\n    1403: Henry IV finds himself facing uprisings from the Welsh chieftain Owen Glendower and impetuous young Harry \"Hotspur\" Percy, son of Henry Percy, Earl of Northumberland, angry with the king for not paying Glendower ransom for his brother-in-law Mortimer. Another trial for Henry is the fact that his son, Prince Hal, keeps company with the older, reprobate drunkard Sir John Falstaff. Though the prince is his friend he is not above playing cruel jests on Falstaff, robbing him in disguise and returning his money after Falstaff has given an exaggerated account of his ...    "
+                },
+                "3": {
+                    "title": "Henry IV, Part 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Hollow Crown (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 843,
+                    "original air date": "4 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    Northumberland swears revenge for his son's death and gathers his allies to fight the ailing king. Meanwhile, the Lord Chief Justice having rebuked Falstaff for being a bad influence on Hal, charges him to recruit an army on Henry's behalf. After brawling with the truculent Pistol, Falstaff prepares to leave his lover, Doll Tearsheet, criticizing Hal to her, unaware that the prince is eaves-dropping. Falstaff assembles a motley crew from Justice Shallow but Henry's cousin Westmoreland arrests the rebel leaders after duping them into a truce. Hal, assuming his father ...    "
+                },
+                "4": {
+                    "title": "Henry V",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Hollow Crown (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 950,
+                    "original air date": "11 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    Hal is now a responsible monarch as Henry V, his rejection of Falstaff hastening the latter's death. Told by courtiers that,through Edward III, he has a claim to the French throne he makes overtures to the Dauphin but is sent a humiliating present of tennis balls. He prepares an expeditionary force to cross the Channel and take the throne, capturing the town of Harfleur during a surprise nocturnal raid following an inspirational speech. Though merciful to its inhabitants, Henry allows soldier Bardolph to be hung for looting. After another truce is turned down by the ...    "
+                }
+            }
+        },
+        "number of episodes": 7,
+        "cast": [
+            {
+                "name": "Lesser, Anton"
+            },
+            {
+                "name": "Beale, Simon Russell"
+            },
+            {
+                "name": "Georgeson, Tom"
+            },
+            {
+                "name": "Mackay, John"
+            },
+            {
+                "name": "Hiddleston, Tom"
+            },
+            {
+                "name": "Okonedo, Sophie"
+            },
+            {
+                "name": "Laurenson, James"
+            },
+            {
+                "name": "Sturridge, Tom"
+            },
+            {
+                "name": "Walters, Julie"
+            },
+            {
+                "name": "Armstrong, Alun"
+            },
+            {
+                "name": "Attenborough, Will"
+            },
+            {
+                "name": "Asquith, Conrad"
+            },
+            {
+                "name": "Cumberbatch, Benedict"
+            },
+            {
+                "name": "Daniels, Ben"
+            },
+            {
+                "name": "David, Alan"
+            },
+            {
+                "name": "Dunbar, Adrian"
+            },
+            {
+                "name": "Conningham, Ian"
+            },
+            {
+                "name": "Fleet, James"
+            },
+            {
+                "name": "Fox, Phoebe"
+            },
+            {
+                "name": "Dawson, David"
+            },
+            {
+                "name": "Dillon, Drew"
+            },
+            {
+                "name": "Dockery, Michelle"
+            },
+            {
+                "name": "Harris, Barney"
+            },
+            {
+                "name": "Faber, Henry"
+            },
+            {
+                "name": "Hawes, Keeley"
+            },
+            {
+                "name": "McQuarrie, Stuart"
+            },
+            {
+                "name": "Heffernan, John"
+            },
+            {
+                "name": "Miles, Ben"
+            },
+            {
+                "name": "Needham, Matthew"
+            },
+            {
+                "name": "Irons, Jeremy"
+            },
+            {
+                "name": "Robinson, Lucy"
+            },
+            {
+                "name": "Ritter, Paul"
+            },
+            {
+                "name": "Townsend, Stanley"
+            },
+            {
+                "name": "Peake, Maxine"
+            },
+            {
+                "name": "Stone-Fewings, Jo"
+            },
+            {
+                "name": "Streatfeild, Geoffrey"
+            },
+            {
+                "name": "Rowan, Dominic"
+            },
+            {
+                "name": "Watkins, Jason"
+            },
+            {
+                "name": "Tennyson, Matthew"
+            },
+            {
+                "name": "Troughton, Sam"
+            },
+            {
+                "name": "Valentine, Samuel"
+            },
+            {
+                "name": "Weaver, Al"
+            },
+            {
+                "name": "Ballard, Jamie"
+            },
+            {
+                "name": "Akrout, Edward"
+            },
+            {
+                "name": "Bradley, David"
+            },
+            {
+                "name": "Altin, Josef"
+            },
+            {
+                "name": "Armstrong, Simon"
+            },
+            {
+                "name": "Beard, Tom"
+            },
+            {
+                "name": "Armstrong, Joe"
+            },
+            {
+                "name": "Bremmer, Richard"
+            }
+        ],
+        "locations": [
+            "Alnwick Castle, Alnwick, Northumberland, England, UK::(Season 2)"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "runtimes": [
+            "150"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Finland:K-16::(TV rating)",
+            "Ireland:15::(DVD box set rating)",
+            "Japan:PG12",
+            "Singapore:NC16",
+            "United Kingdom:15::(DVD box set rating)"
+        ],
+        "number of seasons": 2,
+        "rating": 8.4,
+        "votes": 4804,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjkyOTQ4MDQ5OF5BMl5BanBnXkFtZTgwNTU5NTEwMDE@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "New adaptations of Shakespeare's tetralogy of history plays comprising the \"Henriad\" for the BBC's 2012 Cultural Olympiad: King Richard II; King Henry IV, Part 1; King Henry IV, Part 2; King Henry V. The plays chronicle a continuous period in British history from the end of the fourteenth century to the aftermath of the Battle of Agincourt in 1415. Together, the plays comprise a story with recurring themes of power struggles, redemption, family conflict, and betrayal.",
+        "languages": [
+            "English"
+        ],
+        "title": "The Hollow Crown",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Eyre, Richard"
+            },
+            {
+                "name": "Goold, Rupert"
+            },
+            {
+                "name": "Power, Ben"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Neal Street Productions"
+            },
+            {
+                "name": "NBC Universal Television"
+            },
+            {
+                "name": "WNET Thirteen"
+            },
+            {
+                "name": "British Broadcasting Corporation"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC) Television"
+            },
+            {
+                "name": "Channel Ginga"
+            },
+            {
+                "name": "Hulu"
+            },
+            {
+                "name": "New KSM"
+            },
+            {
+                "name": "OTE Cinema"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "DNegTV"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Casting Collective"
+            },
+            {
+                "name": "Flying Pictures"
+            },
+            {
+                "name": "Oh So Small Productions"
+            },
+            {
+                "name": "Panavision London"
+            },
+            {
+                "name": "Ray Knight Casting"
+            }
+        ],
+        "plot": [
+            "A mini-series of adaptations of Shakespeare's history plays: Richard II, Henry IV Parts 1 and 2, and Henry V.",
+            "New adaptations of Shakespeare's tetralogy of history plays comprising the \"Henriad\" for the BBC's 2012 Cultural Olympiad: King Richard II; King Henry IV, Part 1; King Henry IV, Part 2; King Henry V. The plays chronicle a continuous period in British history from the end of the fourteenth century to the aftermath of the Battle of Agincourt in 1415. Together, the plays comprise a story with recurring themes of power struggles, redemption, family conflict, and betrayal.::PKemp"
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr 30 min (150 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 4804,
+                "rating": 8.4
+            },
+            "aged under 18": {
+                "votes": 3,
+                "rating": 8.0
+            },
+            "aged 18 29": {
+                "votes": 1332,
+                "rating": 8.6
+            },
+            "aged 30 44": {
+                "votes": 1467,
+                "rating": 8.3
+            },
+            "aged 45 plus": {
+                "votes": 798,
+                "rating": 8.3
+            },
+            "males": {
+                "votes": 1642,
+                "rating": 8.1
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 4.0
+            },
+            "males aged 18 29": {
+                "votes": 450,
+                "rating": 8.4
+            },
+            "males aged 30 44": {
+                "votes": 665,
+                "rating": 7.9
+            },
+            "males aged 45 plus": {
+                "votes": 431,
+                "rating": 7.9
+            },
+            "females": {
+                "votes": 2135,
+                "rating": 8.7
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 18 29": {
+                "votes": 865,
+                "rating": 8.7
+            },
+            "females aged 30 44": {
+                "votes": 774,
+                "rating": 8.6
+            },
+            "females aged 45 plus": {
+                "votes": 357,
+                "rating": 8.7
+            },
+            "top 1000 voters": {
+                "votes": 80,
+                "rating": 6.7
+            },
+            "us users": {
+                "votes": 740,
+                "rating": 8.5
+            },
+            "non us users": {
+                "votes": 2128,
+                "rating": 8.3
+            }
+        },
+        "number of votes": {
+            "10": 1565,
+            "9": 1304,
+            "8": 1053,
+            "7": 412,
+            "6": 150,
+            "5": 88,
+            "4": 34,
+            "3": 39,
+            "2": 29,
+            "1": 130
+        },
+        "arithmetic mean": 8.4,
+        "median": 9
+    }
+}

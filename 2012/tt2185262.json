@@ -1,0 +1,426 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Spain\n",
+                "date": "23 September 2012",
+                "notes": "                            (San Sebastian Film Festival)"
+            },
+            {
+                "country": "Spain\n",
+                "date": "23 September 2012",
+                "notes": "                            (San Sebastián Film Festival)"
+            },
+            {
+                "country": "Portugal\n",
+                "date": "31 March 2013"
+            },
+            {
+                "country": "Portugal\n",
+                "date": "7 April 2013"
+            },
+            {
+                "country": "Portugal\n",
+                "date": "14 April 2013"
+            }
+        ],
+        "release dates": [
+            "Spain::23 September 2012                            (San Sebastian Film Festival)",
+            "Spain::23 September 2012                            (San Sebastián Film Festival)",
+            "Portugal::31 March 2013",
+            "Portugal::7 April 2013",
+            "Portugal::14 April 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "As Linhas de Torres Vedras"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Линиите на Уелингтън"
+            },
+            {
+                "countries": "France",
+                "title": "Les lignes de Wellington"
+            },
+            {
+                "title": "Lines of Wellington"
+            }
+        ],
+        "akas": [
+            "As Linhas de Torres Vedras (original title)",
+            "Линиите на Уелингтън Bulgaria (Bulgarian title)",
+            "Les lignes de Wellington France",
+            "Lines of Wellington "
+        ],
+        "akas from release info": [
+            "As Linhas de Torres Vedras (original title)",
+            "Линиите на Уелингтън Bulgaria (Bulgarian title)",
+            "Les lignes de Wellington France",
+            "Lines of Wellington "
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Depois da Batalha",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "As Linhas de Torres Vedras (TV Mini-Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 6,
+                    "original air date": "31 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Terra Queimada",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "As Linhas de Torres Vedras (TV Mini-Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "7 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Torres Vedras",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "As Linhas de Torres Vedras (TV Mini-Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "14 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Borges, Miguel"
+            },
+            {
+                "name": "Arrais, João"
+            },
+            {
+                "name": "Lopes, Nuno"
+            },
+            {
+                "name": "Vargas, Filipe"
+            },
+            {
+                "name": "Pimentel, Afonso"
+            },
+            {
+                "name": "Chaves, Soraia"
+            },
+            {
+                "name": "West, Jemima"
+            },
+            {
+                "name": "Urgeghe, Marcello"
+            },
+            {
+                "name": "Cotta, Carloto"
+            },
+            {
+                "name": "Amalric, Mathieu"
+            },
+            {
+                "name": "Poupaud, Melvil"
+            },
+            {
+                "name": "Paredes, Marisa"
+            },
+            {
+                "name": "Guerra, Victoria"
+            },
+            {
+                "name": "Malkovich, John"
+            },
+            {
+                "name": "Waddington, Gonçalo"
+            },
+            {
+                "name": "Dawson, Francis Braddell"
+            },
+            {
+                "name": "Perez, Vincent"
+            },
+            {
+                "name": "Zidi, Malik"
+            },
+            {
+                "name": "Dória, Diogo"
+            },
+            {
+                "name": "Meireles, José"
+            },
+            {
+                "name": "Martins, Rita"
+            },
+            {
+                "name": "Wiborg, Manuel"
+            },
+            {
+                "name": "Ferreira, Pedro"
+            },
+            {
+                "name": "Zylberstein, Elsa"
+            },
+            {
+                "name": "Luz, Adriano"
+            },
+            {
+                "name": "Jerónimo, Albano"
+            },
+            {
+                "name": "de Verona, Joana"
+            },
+            {
+                "name": "Aibéo, Ricardo"
+            },
+            {
+                "name": "Bastos, Maria João"
+            },
+            {
+                "name": "Carmignac, Lucrèce"
+            },
+            {
+                "name": "Deneuve, Catherine"
+            },
+            {
+                "name": "Huppert, Isabelle"
+            },
+            {
+                "name": "Manaïa, Tiago"
+            },
+            {
+                "name": "Pires, Paulo"
+            },
+            {
+                "name": "Piccoli, Michel"
+            },
+            {
+                "name": "Monteiro, Miguel"
+            },
+            {
+                "name": "Saboga, João"
+            },
+            {
+                "name": "Sancho, Elmano"
+            },
+            {
+                "name": "Bogomolov, Dmitry"
+            },
+            {
+                "name": "Lacerda, Pedro"
+            },
+            {
+                "name": "Mastroianni, Chiara"
+            },
+            {
+                "name": "Vadim, Christian"
+            },
+            {
+                "name": "Heard, Miriam"
+            },
+            {
+                "name": "Carinhas, Sara"
+            },
+            {
+                "name": "Villas-Boas, João"
+            },
+            {
+                "name": "Dias, Diogo Ricardo"
+            },
+            {
+                "name": "Ferreira, Inês"
+            },
+            {
+                "name": "Leite, Liliana"
+            }
+        ],
+        "locations": [
+            "Lisbon, Portugal",
+            "Torres Vedras, Portugal",
+            "Sintra, Portugal",
+            "Óbidos, Leiria, Portugal"
+        ],
+        "genres": [
+            "War"
+        ],
+        "runtimes": [
+            "170"
+        ],
+        "countries": [
+            "Portugal",
+            "France"
+        ],
+        "country codes": [
+            "pt",
+            "fr"
+        ],
+        "language codes": [
+            "fr",
+            "pt",
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "original air date": "31 Mar 2013 (Portugal)",
+        "number of seasons": 1,
+        "rating": 7.4,
+        "votes": 65,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOTNiODVjZjYtY2Q5NC00NTljLWJhNGYtMmRkZjMzMThlOTNkXkEyXkFqcGdeQXVyMjA3NjI2NDA@._V1_SY150_CR1,0,101,150_.jpg",
+        "languages": [
+            "French",
+            "Portuguese",
+            "English"
+        ],
+        "title": "As Linhas de Torres Vedras",
+        "year": 2012,
+        "kind": "tv mini series",
+        "series years": "2012-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Saboga, Carlos"
+            }
+        ],
+        "director": [
+            {
+                "name": "Sarmiento, Valeria"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Alfama Films"
+            },
+            {
+                "name": "France 3 Cinéma"
+            },
+            {
+                "name": "Leopardo Filmes"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Arte France"
+            },
+            {
+                "name": "RAI Radiotelevisione Italiana"
+            },
+            {
+                "name": "Radiotelevisão Portuguesa (RTP)"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr 50 min (170 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 65,
+                "rating": 7.4
+            },
+            "aged 18 29": {
+                "votes": 17,
+                "rating": 8.1
+            },
+            "aged 30 44": {
+                "votes": 23,
+                "rating": 6.6
+            },
+            "aged 45 plus": {
+                "votes": 11,
+                "rating": 6.8
+            },
+            "males": {
+                "votes": 39,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 11,
+                "rating": 7.5
+            },
+            "males aged 30 44": {
+                "votes": 17,
+                "rating": 6.7
+            },
+            "males aged 45 plus": {
+                "votes": 10,
+                "rating": 6.8
+            },
+            "females": {
+                "votes": 13,
+                "rating": 8.1
+            },
+            "females aged 18 29": {
+                "votes": 6,
+                "rating": 9.3
+            },
+            "females aged 30 44": {
+                "votes": 5,
+                "rating": 6.3
+            },
+            "females aged 45 plus": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "top 1000 voters": {
+                "votes": 4,
+                "rating": 8.0
+            },
+            "us users": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "non us users": {
+                "votes": 42,
+                "rating": 7.0
+            }
+        },
+        "number of votes": {
+            "10": 17,
+            "9": 7,
+            "8": 7,
+            "7": 16,
+            "6": 8,
+            "5": 2,
+            "4": 3,
+            "3": 1,
+            "2": 0,
+            "1": 4
+        },
+        "arithmetic mean": 7.4,
+        "median": 7
+    }
+}

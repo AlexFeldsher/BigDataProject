@@ -1,0 +1,630 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "8 July 2012"
+            },
+            {
+                "country": "Germany\n",
+                "date": "17 October 2012"
+            },
+            {
+                "country": "USA\n",
+                "date": "June 2013"
+            },
+            {
+                "country": "France\n",
+                "date": "24 June 2017"
+            }
+        ],
+        "release dates": [
+            "UK::8 July 2012",
+            "Germany::17 October 2012",
+            "USA::June 2013",
+            "France::24 June 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Sinbad"
+            },
+            {
+                "countries": "France",
+                "title": "Sinbad"
+            },
+            {
+                "countries": "Germany",
+                "title": "Sindbad"
+            },
+            {
+                "countries": "Poland",
+                "title": "Sindbad"
+            },
+            {
+                "countries": "Russia",
+                "title": "Синдбад"
+            }
+        ],
+        "akas": [
+            "Sinbad (original title)",
+            "Sinbad France",
+            "Sindbad Germany",
+            "Sindbad Poland",
+            "Синдбад Russia"
+        ],
+        "akas from release info": [
+            "Sinbad (original title)",
+            "Sinbad France",
+            "Sindbad Germany",
+            "Sindbad Poland",
+            "Синдбад Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sinbad (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 86,
+                    "original air date": "8 Jul. 2012",
+                    "year": "2012",
+                    "plot": "\n    When the charismatic trickster Sinbad and his brother Jamil get unintentionally involved in the death of the powerful Lord Akbari's son, unexpected, tragical events get set in motion and lead to the beginning of an amazing adventure.    "
+                },
+                "2": {
+                    "title": "Queen of the Water-Thieves",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sinbad (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 68,
+                    "original air date": "Jul. 2012",
+                    "year": "2012",
+                    "plot": "\n    The crew of the Providence arrive to an island, where they are captured by the followers of Razia - the so-called Queen of the Water-Thieves.    "
+                },
+                "3": {
+                    "title": "House of Games",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sinbad (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 62,
+                    "original air date": "Jul. 2012",
+                    "year": "2012",
+                    "plot": "\n    After Anwar loses the Providence while betting imprudently, the crew find themselves involved in the world of gambling houses in order to win their ship back.    "
+                },
+                "4": {
+                    "title": "Old Man of the Sea",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sinbad (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 29,
+                    "original air date": "29 Jul. 2012",
+                    "year": "2012",
+                    "plot": "\n    When the Providence fins an abandoned ship in the middle of the sea, the rescue a mysterious old man. He seems to be linked to Nala and might be able to throw some light on her past somehow.    "
+                },
+                "5": {
+                    "title": "Hunted",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sinbad (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 27,
+                    "original air date": "Aug. 2012",
+                    "year": "2012",
+                    "plot": "\n    While Taryn gets closer to Sinbad than ever, he tries and help Gunnar, who's being hunted by a group of vigilantes who want to make him pay for his violent past as a bloodthirsty warrior.    "
+                },
+                "6": {
+                    "title": "The Siren",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sinbad (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 27,
+                    "original air date": "Aug. 2012",
+                    "year": "2012",
+                    "plot": "\n    Sinbad falls off the Providence and is rescued by a mysterious woman, who starts exercising an unusual influence on him.    "
+                },
+                "7": {
+                    "title": "Homecoming",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sinbad (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 25,
+                    "original air date": "Aug. 2012",
+                    "year": "2012",
+                    "plot": "\n    Sinbad and his crew mates return to Basra. Its inhabitants are fleeing the city as the inauguration of Akbari as the new Emir approaches.    "
+                },
+                "8": {
+                    "title": "Kuji",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sinbad (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 25,
+                    "original air date": "Aug. 2012",
+                    "year": "2012",
+                    "plot": "\n    Anwar finds a strange box in a desert island. When he and Sinbad open it, a god girl named Kuji is released.    "
+                },
+                "9": {
+                    "title": "Eye of the Tiger",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sinbad (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 26,
+                    "original air date": "Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    Sinbad looks for a magical stone which provides visions from the future, while he's being tracked by a bounty hunter called Tiger.    "
+                },
+                "10": {
+                    "title": "For Whom the Egg Shatters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sinbad (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 26,
+                    "original air date": "Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    After Tiger's negotiation, the crew is hired by a professor to ship herself and a precious item to a barren island.    "
+                },
+                "11": {
+                    "title": "Fiend or Friend?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sinbad (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 23,
+                    "original air date": "2012",
+                    "year": "2012",
+                    "plot": "\n    Following Tiger's advice, the crew of the Providence reach the island of Malta, where they can find a map to the Land of the Dead. Dangers awaits them in the shape of a mysterious creature.    "
+                },
+                "12": {
+                    "title": "Land of the Dead",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sinbad (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 27,
+                    "original air date": "Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    The crew of the Providence, which includes a very special stowaway now, reaches the Land of the Dead, where secrets will be revealed.    "
+                }
+            }
+        },
+        "number of episodes": 12,
+        "cast": [
+            {
+                "name": "Knight, Elliot"
+            },
+            {
+                "name": "Corlett, Marama"
+            },
+            {
+                "name": "Cowan, Elliot"
+            },
+            {
+                "name": "Inocian, Junix"
+            },
+            {
+                "name": "Leonidas, Dimitri"
+            },
+            {
+                "name": "Brady, Orla"
+            },
+            {
+                "name": "Daniels, Estella"
+            },
+            {
+                "name": "Andrews, Naveen"
+            },
+            {
+                "name": "Gilbert, Robert"
+            },
+            {
+                "name": "Middleton, Tuppence"
+            },
+            {
+                "name": "Naor, Igal"
+            },
+            {
+                "name": "Suzman, Janet"
+            },
+            {
+                "name": "Harris, George"
+            },
+            {
+                "name": "Anderson, Devon"
+            },
+            {
+                "name": "Acharki, Myriam"
+            },
+            {
+                "name": "Portelli, Paul"
+            },
+            {
+                "name": "Tointon, Hannah"
+            },
+            {
+                "name": "Amuka-Bird, Nikki"
+            },
+            {
+                "name": "Ingleby, Lee"
+            },
+            {
+                "name": "Toth, Marek"
+            },
+            {
+                "name": "Horne, Mathew"
+            },
+            {
+                "name": "Jones, Mark Lewis"
+            },
+            {
+                "name": "Lynch, Evanna"
+            },
+            {
+                "name": "Xuereb, Ruben"
+            },
+            {
+                "name": "McKee, Iain"
+            },
+            {
+                "name": "Norgaard, Carsten"
+            },
+            {
+                "name": "Raison, Miranda"
+            },
+            {
+                "name": "Bonello, Mary Rose"
+            },
+            {
+                "name": "Cade, Dan"
+            },
+            {
+                "name": "Scott, Dougray"
+            },
+            {
+                "name": "Walters, Ashley"
+            },
+            {
+                "name": "Barber, Paul"
+            },
+            {
+                "name": "Borg, Harry"
+            },
+            {
+                "name": "Calvert, Julia"
+            },
+            {
+                "name": "Carr, Joe"
+            },
+            {
+                "name": "Dingli, Christopher"
+            },
+            {
+                "name": "King, Georgia"
+            },
+            {
+                "name": "Okonedo, Sophie"
+            },
+            {
+                "name": "Rossi, George"
+            },
+            {
+                "name": "Spall, Timothy"
+            },
+            {
+                "name": "Bailie, David"
+            },
+            {
+                "name": "Burgess, Fisun"
+            },
+            {
+                "name": "Busuttil, Steffan"
+            },
+            {
+                "name": "Frietas, Aldonio Danny"
+            },
+            {
+                "name": "Reece, Arkie"
+            },
+            {
+                "name": "Cauchi, Manuel"
+            },
+            {
+                "name": "Egres, Katinka"
+            },
+            {
+                "name": "Galea, Nicholas"
+            },
+            {
+                "name": "Wilde, Andrew"
+            },
+            {
+                "name": "Isabelle, Cassar"
+            }
+        ],
+        "locations": [
+            "Malta",
+            "Mediterranean Film Studios, Kalkara, Malta"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "rating": 6.5,
+        "votes": 3305,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTQwNzYyMzUwM15BMl5BanBnXkFtZTcwNTU1Njc1OA@@._V1_SY150_CR0,0,101,150_.jpg",
+        "budget": "EUR17,000,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Sinbad",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-2013",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Biswas, Neil"
+            },
+            {
+                "name": "Dormer, James"
+            },
+            {
+                "name": "Doyle, Bev"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Impossible Pictures"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "BBC Worldwide"
+            },
+            {
+                "name": "Bell Media"
+            },
+            {
+                "name": "British Sky Broadcasting (BSkyB)"
+            },
+            {
+                "name": "CNBC-e"
+            },
+            {
+                "name": "Canal+"
+            },
+            {
+                "name": "Filmbox"
+            },
+            {
+                "name": "Nine Network Australia"
+            },
+            {
+                "name": "Polyband"
+            },
+            {
+                "name": "Space: The Imagination Station"
+            },
+            {
+                "name": "Star TV"
+            },
+            {
+                "name": "Syfy"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "AQ Films"
+            },
+            {
+                "name": "ARRI Lighting Rental"
+            },
+            {
+                "name": "ARRI Media"
+            },
+            {
+                "name": "Aslan Charles Kousetta"
+            },
+            {
+                "name": "Audiolink Radio Communications"
+            },
+            {
+                "name": "De Lane Lea"
+            },
+            {
+                "name": "Mecon Media Concept"
+            },
+            {
+                "name": "Peter Anderson Studio"
+            }
+        ],
+        "plot": [
+            "A Persian prisoner sets out to find his dead brother with help from his misfit group.::Matt Lamley"
+        ],
+        "synopsis": [
+            "Episode 1:When street rat Sinbad accidentally kills Lord Akbaris son, Akbari kills Sinbads brother in revenge. Sinbad escapes, but his grandmother Safia places a curse on him that until he atones for his sins he cant stay on dry land for more than 24 hours.Sinbad stows away on the Providence, but magical sea creatures attack and all on board die except for Sinbad; Anwar, the ship's doctor; Gunnar, a Norse trader; Nala, a noblewoman on the run; Rina, a thief and the ship's Cook.Episode 2:The crew are captured by Water-Thieves, a feral tribe. Sinbad tries to seduce their fierce leader Razia to save himself, but despite satisfying her, he learns she will kill him that night.Sinbad escapes with the help of Razia's chained Roc, a giant mythical bird, and creates a diversion allowing his friends to escape. Sinbad returns to Razia's chamber and frees the Roc, but Razia attacks him. As his curse kicks in and is about to destroy him, the Roc swoops in and rescues Sinbad.Episode 3:When Anwar loses The Providence in a bet to merchant Abdul-Fahim, Sinbad confides about the curse- he will die unless they get the ship back.The gang follow Abdul-Fahim to a gaming-house and Sinbad wins back the ship. But the twisted gaming-house owners, twins Faris and Essam, challenge Sinbad to free his friends from a series of enchanted rooms before his curse kills him.He succeeds, but Faris petulantly demands to keep Sinbad as his plaything. Rina becomes concerned about the others and whilst the brothers fight, rescues the curse-stricken Sinbad and drags him out of the casino. The crew welcome Rina back and Sinbad confesses to them about his curse.Episode 4:Running low on water with Cook severely dehydrated, the crew find a strange old man on a deserted ship. They are unaware it is Death come to reclaim his bride, Nala, who ran away from their ritual wedding.Nala agrees to wed Death, believing it will bring back her dead father. Realising who the old man is, Sinbad rushes to save Nala, but in vain. It is only when Death accidentally reveals he has no knowledge of Nalas grief that the spell breaks and Nala escapes. The rain comes, reviving Cook.Episode 5:Gunnar and Sinbad are ambushed by the Khaima, a band of warriors, who avenge injustice. Their leader, Obsidian, sentences Gunnar to death for his brutal Viking past.Taryn creates a magical Stalker, which hunts down Sinbad at the Khaima campjust as Obsidian is about to kill Sinbad and Gunnar. The Khaima slash at the Stalker, but it repairs itself.As Gunnar urges, Sinbad defeats the Stalker by mastering his anger. Obsidian pardons Gunnar and invites him to join the Khaima, but Gunnar declines.Episode 6:Attacked by a sea creature, Sinbad wakes, rescued by mysterious Roisin. Sinbad falls for her, unaware she is stealing his memories and the people in them from him. Rina find Roisin as she is about to kill Sinbad and offers her memories for his life. Rinas bad memory of how her mother sold her into slavery destroys Roisin, returning Sinbads memories. Sinbad has a vision of his grandmother calling for help and sets off back to Basra to rescue her, unaware it is a trap set by Taryn and Akbari. Episode 7:Sinbad returns to Basra to rescue his grandmother, but it is a trap set by Akbari and Taryn. Akbari duels Sinbad, who gets the upper hand. Sinbad spares Akbari and apologises for the death of Akbaris son, breaking the curse. To Sinbads shock Taryn kills Akbari, telling Sinbad she can lead him to his brother in the Land of the Dead. Safia disrupts Taryns magic, causing Taryn to collapse. Before she dies Safia hints that Sinbad is special. Nala stays to rebuild Basra as the others sail on.\n"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Arri Alexa, Cooke S4 and Fujinon Alura Lenses"
+            ],
+            "negative format": [
+                "SxS Pro"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (2K) (master format)",
+                "ProRes 4:4:4 (1080p/24) (source format)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3305,
+                "rating": 6.5
+            },
+            "aged under 18": {
+                "votes": 3,
+                "rating": 5.3
+            },
+            "aged 18 29": {
+                "votes": 864,
+                "rating": 6.9
+            },
+            "aged 30 44": {
+                "votes": 1236,
+                "rating": 6.3
+            },
+            "aged 45 plus": {
+                "votes": 544,
+                "rating": 6.3
+            },
+            "males": {
+                "votes": 2074,
+                "rating": 6.3
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 5.0
+            },
+            "males aged 18 29": {
+                "votes": 657,
+                "rating": 7.0
+            },
+            "males aged 30 44": {
+                "votes": 930,
+                "rating": 6.2
+            },
+            "males aged 45 plus": {
+                "votes": 393,
+                "rating": 6.0
+            },
+            "females": {
+                "votes": 665,
+                "rating": 6.9
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "females aged 18 29": {
+                "votes": 201,
+                "rating": 6.9
+            },
+            "females aged 30 44": {
+                "votes": 283,
+                "rating": 6.6
+            },
+            "females aged 45 plus": {
+                "votes": 145,
+                "rating": 7.4
+            },
+            "top 1000 voters": {
+                "votes": 61,
+                "rating": 5.5
+            },
+            "us users": {
+                "votes": 387,
+                "rating": 6.8
+            },
+            "non us users": {
+                "votes": 1538,
+                "rating": 6.2
+            }
+        },
+        "number of votes": {
+            "10": 725,
+            "9": 266,
+            "8": 443,
+            "7": 604,
+            "6": 471,
+            "5": 306,
+            "4": 148,
+            "3": 109,
+            "2": 67,
+            "1": 166
+        },
+        "arithmetic mean": 7.0,
+        "median": 7
+    }
+}

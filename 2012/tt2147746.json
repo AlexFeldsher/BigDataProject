@@ -1,0 +1,103 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "14 May 2012"
+            }
+        ],
+        "release dates": [
+            "Germany::14 May 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Kur Royal"
+            },
+            {
+                "countries": "France",
+                "title": "Restons en bons thermes!"
+            }
+        ],
+        "akas": [
+            "Kur Royal (original title)",
+            "Restons en bons thermes! France"
+        ],
+        "akas from release info": [
+            "Kur Royal (original title)",
+            "Restons en bons thermes! France"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Bad Ischl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Kur Royal (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "14 May 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "country codes": [
+            "de"
+        ],
+        "language codes": [
+            "de"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "languages": [
+            "German"
+        ],
+        "title": "Kur Royal",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "writer": [
+            {
+                "name": "Hemschemeier, Meike"
+            },
+            {
+                "name": "Kirschner, Monika"
+            },
+            {
+                "name": "Koshofer, Nina"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "TAG/TRAUM Filmproduktion"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Arte"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "43 min (5 episodes)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

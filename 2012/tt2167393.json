@@ -1,0 +1,479 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "16 October 2012"
+            },
+            {
+                "country": "USA\n",
+                "date": "30 October 2012"
+            },
+            {
+                "country": "Germany\n",
+                "date": "21 April 2013"
+            }
+        ],
+        "release dates": [
+            "USA::16 October 2012",
+            "USA::30 October 2012",
+            "Germany::21 April 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Men Who Built America"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Gigantes da Indústria"
+            },
+            {
+                "countries": "Germany",
+                "title": "Der große Aufbruch - Die Pioniere Amerikas"
+            },
+            {
+                "countries": "Iran (Persian title)",
+                "title": "Mardani ke America ra Sakhtand"
+            },
+            {
+                "countries": "Russia",
+                "title": "Люди, построившие Америку"
+            },
+            {
+                "countries": "USA",
+                "title": "The Men Who Built America"
+            }
+        ],
+        "akas": [
+            "The Men Who Built America (original title)",
+            "Gigantes da Indústria Brazil",
+            "Der große Aufbruch - Die Pioniere Amerikas Germany",
+            "Mardani ke America ra Sakhtand Iran (Persian title)",
+            "Люди, построившие Америку Russia",
+            "The Men Who Built America USA"
+        ],
+        "akas from release info": [
+            "The Men Who Built America (original title)",
+            "Gigantes da Indústria Brazil",
+            "Der große Aufbruch - Die Pioniere Amerikas Germany",
+            "Mardani ke America ra Sakhtand Iran (Persian title)",
+            "Люди, построившие Америку Russia",
+            "The Men Who Built America USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "A New War Begins",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Men Who Built America (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 115,
+                    "original air date": "16 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Out of the turmoil of the Civil War, America enters an age of enlightenment that will change the landscape of the country forever. The growth is driven by five insightful men who will change the world forever.    "
+                },
+                "2": {
+                    "title": "Bloody Battles",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Men Who Built America (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 92,
+                    "original air date": "23 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    As it recovers from the Civil War, America undertakes the largest building phase of the country s history. While much of the growth is driven by railroads and oil, it's built using steel.    "
+                },
+                "3": {
+                    "title": "Changing the Game",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Men Who Built America (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 87,
+                    "original air date": "30 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    The steel and oil have forever changed the face of America, but they are just the beginning. JP Morgan arrives on the scene and expedites growth through finance.    "
+                },
+                "4": {
+                    "title": "When One Ends, Another Begins",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Men Who Built America (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 86,
+                    "original air date": "6 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Railroads, oil, steel and electricity have all been harnessed in less than 50 years, but the face of America is changing and will never be the same.    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Scott, Campbell"
+            },
+            {
+                "name": "Brands, H.W."
+            },
+            {
+                "name": "Cuban, Mark"
+            },
+            {
+                "name": "Deutsch, Donny"
+            },
+            {
+                "name": "Trump, Donald"
+            },
+            {
+                "name": "Case, Steve"
+            },
+            {
+                "name": "Cramer, Jim"
+            },
+            {
+                "name": "Achinger, AJ"
+            },
+            {
+                "name": "Bailey, John C."
+            },
+            {
+                "name": "Baska, Amy"
+            },
+            {
+                "name": "Bassett, Matthew"
+            },
+            {
+                "name": "Boliek, Matt"
+            },
+            {
+                "name": "Brandes, Walter"
+            },
+            {
+                "name": "Bruzzese, Dante"
+            },
+            {
+                "name": "Bush, Maren"
+            },
+            {
+                "name": "Cavett, Kenneth"
+            },
+            {
+                "name": "Chmiel, Michael"
+            },
+            {
+                "name": "Christian, Edward"
+            },
+            {
+                "name": "Donahoe, David"
+            },
+            {
+                "name": "Donaldson, Cary"
+            },
+            {
+                "name": "Dow, John"
+            },
+            {
+                "name": "Falberg, Alex"
+            },
+            {
+                "name": "Frederic, Michael"
+            },
+            {
+                "name": "Galloway, Shary"
+            },
+            {
+                "name": "Gamble, David"
+            },
+            {
+                "name": "Getman, Tim"
+            },
+            {
+                "name": "Griffin, Adam"
+            },
+            {
+                "name": "Gunn, Einar"
+            },
+            {
+                "name": "Hardt, Luke"
+            },
+            {
+                "name": "Harvey, Robert Lee"
+            },
+            {
+                "name": "James, Jimmie"
+            },
+            {
+                "name": "Keabler, John"
+            },
+            {
+                "name": "Kidd, James"
+            },
+            {
+                "name": "Klein, Richard F."
+            },
+            {
+                "name": "McNary, Cameron"
+            },
+            {
+                "name": "Meehan, Don"
+            },
+            {
+                "name": "Messner, Eric"
+            },
+            {
+                "name": "Morck, Justin"
+            },
+            {
+                "name": "Navarro, Puy"
+            },
+            {
+                "name": "Odell, Dan"
+            },
+            {
+                "name": "Rastello, Joe"
+            },
+            {
+                "name": "Reynolds, Ray"
+            },
+            {
+                "name": "Rolland, Eric"
+            },
+            {
+                "name": "Satra, Sonia"
+            },
+            {
+                "name": "Schiff, Ed"
+            },
+            {
+                "name": "Scully, Hugh"
+            },
+            {
+                "name": "Segaller, Adam Jonas"
+            },
+            {
+                "name": "Urbas, Yaron"
+            },
+            {
+                "name": "Wiegand, Joseph"
+            },
+            {
+                "name": "Nasaw, David"
+            }
+        ],
+        "genres": [
+            "Documentary",
+            "Biography",
+            "History"
+        ],
+        "runtimes": [
+            "295"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Singapore:PG",
+            "United States:TV-14"
+        ],
+        "original air date": "16 Oct 2012 (USA)",
+        "number of seasons": 1,
+        "rating": 8.7,
+        "votes": 2917,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNTgwMjI4NDI2N15BMl5BanBnXkFtZTcwMjI1NzE3OA@@._V1_SY150_CR7,0,101,150_.jpg",
+        "plot outline": "Miniseries shines a spotlight on the influential builders, dreamers and believers whose feats transformed the United States, a nation decaying from the inside after the Civil War, into the greatest economic and technological superpower the world had ever seen. The Men Who Built America is the story of a nation at the crossroads and of the people who catapulted it to prosperity.",
+        "languages": [
+            "English"
+        ],
+        "title": "The Men Who Built America",
+        "year": 2012,
+        "kind": "tv mini series",
+        "series years": "2012-2012",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Counsman, Randy"
+            },
+            {
+                "name": "David, Stephen"
+            },
+            {
+                "name": "Fahy, John"
+            }
+        ],
+        "director": [
+            {
+                "name": "Magan, Ruan"
+            },
+            {
+                "name": "Reams, Patrick"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Stephen David Entertainment"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "History Channel"
+            },
+            {
+                "name": "Lions Gate Films Home Entertainment"
+            },
+            {
+                "name": "Polyband"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Brainstorm Digital"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "A&E Network"
+            },
+            {
+                "name": "Audio Network"
+            },
+            {
+                "name": "De Wolfe Music"
+            },
+            {
+                "name": "Extreme Production Music"
+            },
+            {
+                "name": "Getty Images"
+            },
+            {
+                "name": "Library of Congress"
+            },
+            {
+                "name": "T3 Media"
+            },
+            {
+                "name": "Vanacore Music"
+            }
+        ],
+        "plot": [
+            "Miniseries shines a spotlight on the influential builders, dreamers and believers whose feats transformed the United States, a nation decaying from the inside after the Civil War, into the greatest economic and technological superpower the world had ever seen. _The Men Who Built America_ (qv) is the story of a nation at the crossroads and of the people who catapulted it to prosperity.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "4 hr 55 min (295 min) (4 parts)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2917,
+                "rating": 8.7
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 6.0
+            },
+            "aged 18 29": {
+                "votes": 622,
+                "rating": 8.9
+            },
+            "aged 30 44": {
+                "votes": 1084,
+                "rating": 8.6
+            },
+            "aged 45 plus": {
+                "votes": 465,
+                "rating": 8.4
+            },
+            "males": {
+                "votes": 1971,
+                "rating": 8.6
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 548,
+                "rating": 8.9
+            },
+            "males aged 30 44": {
+                "votes": 931,
+                "rating": 8.6
+            },
+            "males aged 45 plus": {
+                "votes": 340,
+                "rating": 8.3
+            },
+            "females": {
+                "votes": 354,
+                "rating": 8.6
+            },
+            "females aged 18 29": {
+                "votes": 64,
+                "rating": 8.9
+            },
+            "females aged 30 44": {
+                "votes": 148,
+                "rating": 8.6
+            },
+            "females aged 45 plus": {
+                "votes": 116,
+                "rating": 8.5
+            },
+            "top 1000 voters": {
+                "votes": 52,
+                "rating": 7.5
+            },
+            "us users": {
+                "votes": 886,
+                "rating": 8.5
+            },
+            "non us users": {
+                "votes": 790,
+                "rating": 8.6
+            }
+        },
+        "number of votes": {
+            "10": 1076,
+            "9": 893,
+            "8": 578,
+            "7": 196,
+            "6": 61,
+            "5": 34,
+            "4": 15,
+            "3": 13,
+            "2": 13,
+            "1": 38
+        },
+        "arithmetic mean": 8.7,
+        "median": 9
+    }
+}
