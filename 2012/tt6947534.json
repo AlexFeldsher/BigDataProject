@@ -1,0 +1,125 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Russia\n",
+                "date": "15 March 2012"
+            },
+            {
+                "country": "Russia\n",
+                "date": "15 March 2012",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "Russia::15 March 2012",
+            "Russia::15 March 2012                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Shkolobloggery"
+            },
+            {
+                "countries": "Russia",
+                "title": "Школоблоггеры"
+            }
+        ],
+        "akas": [
+            "Shkolobloggery (original title)",
+            "Школоблоггеры Russia"
+        ],
+        "akas from release info": [
+            "Shkolobloggery (original title)",
+            "Школоблоггеры Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Chuma Internetov",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shkolobloggery (TV Series 2012–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "15 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Nifyodov, Andrey"
+            },
+            {
+                "name": "Nifedov, Pavel"
+            },
+            {
+                "name": "Krylova, Irina"
+            }
+        ],
+        "genres": [
+            "Comedy",
+            "Music"
+        ],
+        "runtimes": [
+            "20"
+        ],
+        "countries": [
+            "Russia"
+        ],
+        "country codes": [
+            "ru"
+        ],
+        "language codes": [
+            "ru"
+        ],
+        "color info": [
+            "Color::(HD)"
+        ],
+        "certificates": [
+            "Russia:18+"
+        ],
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNWQzMzlmNTEtY2NlZC00MDFiLWI5NzMtYzJhZWUzMjg3ZWEyXkEyXkFqcGdeQXVyNjE5NjI4NzI@._V1_SX101_CR0,0,101,150_.jpg",
+        "budget": "RUR100 (estimated)",
+        "languages": [
+            "Russian"
+        ],
+        "title": "Shkolobloggery",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-2014",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Nifyodov, Andrey"
+            },
+            {
+                "name": "Nifedov, Pavel"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "OmskoeTV"
+            }
+        ],
+        "plot": [
+            "A chubby Russian alcoholic reviews children's vlogs on Internet.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "20 min"
+            ],
+            "color": [
+                "Color (HD)"
+            ]
+        }
+    }
+}
