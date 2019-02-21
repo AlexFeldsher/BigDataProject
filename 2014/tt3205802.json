@@ -1,0 +1,1734 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "25 September 2014"
+            },
+            {
+                "country": "USA\n",
+                "date": "25 September 2014"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "8 October 2014"
+            },
+            {
+                "country": "UK\n",
+                "date": "22 October 2014"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "3 November 2014"
+            },
+            {
+                "country": "Spain\n",
+                "date": "27 November 2014"
+            },
+            {
+                "country": "Portugal\n",
+                "date": "27 November 2014"
+            },
+            {
+                "country": "Italy\n",
+                "date": "27 January 2015"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "9 February 2015"
+            },
+            {
+                "country": "Germany\n",
+                "date": "15 April 2015",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "18 April 2015"
+            },
+            {
+                "country": "France\n",
+                "date": "30 June 2015"
+            },
+            {
+                "country": "Germany\n",
+                "date": "2 September 2015"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "4 September 2015",
+                "notes": "                            (French speaking region)"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "15 January 2016",
+                "notes": "                            (Flemish speaking region)"
+            }
+        ],
+        "release dates": [
+            "Canada::25 September 2014",
+            "USA::25 September 2014",
+            "Sweden::8 October 2014",
+            "UK::22 October 2014",
+            "Hungary::3 November 2014",
+            "Spain::27 November 2014",
+            "Portugal::27 November 2014",
+            "Italy::27 January 2015",
+            "Netherlands::9 February 2015",
+            "Germany::15 April 2015                            (limited)",
+            "Japan::18 April 2015",
+            "France::30 June 2015",
+            "Germany::2 September 2015",
+            "Belgium::4 September 2015                            (French speaking region)",
+            "Belgium::15 January 2016                            (Flemish speaking region)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "How to Get Away with Murder"
+            },
+            {
+                "countries": "Brazil (alternative title)",
+                "title": "Como Defender um Assassino"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Lições de um Crime"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Как да ни се размине за убийство"
+            },
+            {
+                "countries": "Estonia",
+                "title": "Kuidas mõrvast puhtalt pääseda"
+            },
+            {
+                "countries": "France",
+                "title": "Murder"
+            },
+            {
+                "countries": "Germany",
+                "title": "How to Get Away with Murder"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Hogyan ússzunk meg egy gyilkosságot?"
+            },
+            {
+                "countries": "Italy",
+                "title": "Le regole del delitto perfetto"
+            },
+            {
+                "countries": "Japan (alternative title)",
+                "title": "Satsujin wo Muzai ni suru Houhou"
+            },
+            {
+                "countries": "Lithuania",
+                "title": "Kaip issisukt ivykdzius zmogzudyste"
+            },
+            {
+                "countries": "Poland",
+                "title": "Sposób na morderstwo"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Como Defender Um Assassino"
+            },
+            {
+                "countries": "Romania",
+                "title": "Cum sa scapi nepedepsit"
+            },
+            {
+                "countries": "Russia",
+                "title": "Как избежать наказания за убийство"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Kako se izvući sa ubistvom"
+            },
+            {
+                "countries": "Spain",
+                "title": "Cómo defender a un asesino"
+            },
+            {
+                "countries": "Turkey (Turkish title)",
+                "title": "Cinayetten Paçayi Kurtarmak"
+            },
+            {
+                "countries": "Ukraine",
+                "title": "Як уникнути кари за вбивство"
+            },
+            {
+                "countries": "USA",
+                "title": "How to Get Away with Murder"
+            }
+        ],
+        "akas": [
+            "How to Get Away with Murder (original title)",
+            "Como Defender um Assassino Brazil (alternative title)",
+            "Lições de um Crime Brazil",
+            "Как да ни се размине за убийство Bulgaria (Bulgarian title)",
+            "Kuidas mõrvast puhtalt pääseda Estonia",
+            "Murder France",
+            "How to Get Away with Murder Germany",
+            "Hogyan ússzunk meg egy gyilkosságot? Hungary",
+            "Le regole del delitto perfetto Italy",
+            "Satsujin wo Muzai ni suru Houhou Japan (alternative title)",
+            "Kaip issisukt ivykdzius zmogzudyste Lithuania",
+            "Sposób na morderstwo Poland",
+            "Como Defender Um Assassino Portugal",
+            "Cum sa scapi nepedepsit Romania",
+            "Как избежать наказания за убийство Russia",
+            "Kako se izvući sa ubistvom Serbia",
+            "Cómo defender a un asesino Spain",
+            "Cinayetten Paçayi Kurtarmak Turkey (Turkish title)",
+            "Як уникнути кари за вбивство Ukraine",
+            "How to Get Away with Murder USA"
+        ],
+        "akas from release info": [
+            "How to Get Away with Murder (original title)",
+            "Como Defender um Assassino Brazil (alternative title)",
+            "Lições de um Crime Brazil",
+            "Как да ни се размине за убийство Bulgaria (Bulgarian title)",
+            "Kuidas mõrvast puhtalt pääseda Estonia",
+            "Murder France",
+            "How to Get Away with Murder Germany",
+            "Hogyan ússzunk meg egy gyilkosságot? Hungary",
+            "Le regole del delitto perfetto Italy",
+            "Satsujin wo Muzai ni suru Houhou Japan (alternative title)",
+            "Kaip issisukt ivykdzius zmogzudyste Lithuania",
+            "Sposób na morderstwo Poland",
+            "Como Defender Um Assassino Portugal",
+            "Cum sa scapi nepedepsit Romania",
+            "Как избежать наказания за убийство Russia",
+            "Kako se izvući sa ubistvom Serbia",
+            "Cómo defender a un asesino Spain",
+            "Cinayetten Paçayi Kurtarmak Turkey (Turkish title)",
+            "Як уникнути кари за вбивство Ukraine",
+            "How to Get Away with Murder USA"
+        ],
+        "episodes": {
+            "5": {
+                "1": {
+                    "title": "Your Funeral",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 1,
+                    "votes": 506,
+                    "original air date": "27 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Annalise selects students for her new legal clinic at Middleton and juggles job offers from competing firms, all while the Keating 4 attempt to move on from last semester's turmoil. And in a startling flash-forward, a new mystery is introduced and it shakes things up for everyone.    "
+                },
+                "2": {
+                    "title": "Whose Blood Is That?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 2,
+                    "votes": 408,
+                    "original air date": "4 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Annalise preps to defend her first class action plaintiff and adjusts to the politics of the new job. Meanwhile, Frank is suspicious of Gabriel and does some investigating of his own, and Asher complicates Bonnie's new life away from Annalise.    "
+                },
+                "3": {
+                    "title": "The Baby Was Never Dead",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 3,
+                    "votes": 391,
+                    "original air date": "11 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Annalise and Emmett defend a wealthy CEO accused of killing his business partner; the governor goes after Annalise; Bonnie struggles to accept her budding romance; Asher tries to outmaneuver his old mentor.    "
+                },
+                "4": {
+                    "title": "It's Her Kid",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 4,
+                    "votes": 367,
+                    "original air date": "18 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Aiming for an insanity plea, Annalise and Nate try to convince Nate's dad to get a psych eval. Michaela tries to earn Tegan's trust back.    "
+                },
+                "5": {
+                    "title": "It Was the Worst Day of My Life",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 5,
+                    "votes": 413,
+                    "original air date": "25 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    After Annalise chooses Gabriel as her second chair, the unexpected duo puts all of their time into Nate Sr.'s murder re-trial as they try to get a jury to grant an insanity plea. Meanwhile, Bonnie has a hard time trying to rebound after a dark part of her past comes back.    "
+                },
+                "6": {
+                    "title": "We Can Find Him",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 6,
+                    "votes": 378,
+                    "original air date": "1 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Annalise receives a call from Governor Birkhead, and she's forced to weigh an interesting offer, while Bonnie reunites with her sister looking for answers from what happened years ago. Connor and Oliver try to keep their cool while their mothers are in town helping with wedding plans, and Tegan surprisingly enlists Laurel's help on a big case at the firm.    "
+                },
+                "7": {
+                    "title": "I Got Played",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 7,
+                    "votes": 357,
+                    "original air date": "8 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Connor and Oliver attempted to find a church for their wedding to placate their moms. Annalise and Nate try to find justice in the case of Nate Sr.'s death. The governor's sincerity to Analise's cause is questioned.    "
+                },
+                "8": {
+                    "title": "I Want to Love You Until the Day I Die",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 8,
+                    "votes": 568,
+                    "original air date": "15 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    In the explosive winter finale, Connor and Oliver's big wedding day has arrived, but there's murder in the air; and the mystery of who the unlucky victim is will be revealed.    "
+                },
+                "9": {
+                    "title": "He Betrayed Us Both",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 9,
+                    "votes": 289,
+                    "original air date": "17 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    New information is revealed to everyone in the aftermath of the wedding.    "
+                },
+                "10": {
+                    "title": "Don't Go Dark on Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 10,
+                    "votes": 220,
+                    "original air date": "24 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    Bonnie and Nate formulate their alibis when Miller's murder investigation intensifies. Annalise makes plans so Gabriel does not learn the truth about his father.    "
+                },
+                "11": {
+                    "title": "Be the Martyr",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 11,
+                    "votes": 196,
+                    "original air date": "31 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    Nate is out to prove he was right about who killed his father. Bonnie wallows in self-doubt. Analise turns the tables in the courtroom.    "
+                },
+                "12": {
+                    "title": "We Know Everything",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 12,
+                    "votes": 180,
+                    "original air date": "7 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    Annalise and the team try to help Gabriel. The FBI make progress on the D.A. case.    "
+                },
+                "13": {
+                    "title": "Where Are Your Parents?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 13,
+                    "votes": 148,
+                    "original air date": "14 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    Everyone gathers at Annalise's for the holiday but she is still wrestling with a decision about her future. The Miller murder investigation widens.    "
+                },
+                "14": {
+                    "title": "Make Me the Enemy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 14,
+                    "original air date": "21 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "15": {
+                    "title": "Please Say No One Else Is Dead",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 15,
+                    "original air date": "28 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 2598,
+                    "original air date": "25 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    Student Wes Gibbins begins attending law classes taught by renowned lawyer, the tough and enigmatic Annalise Keating. She offers five students the chance to work with her, while in a flash forward, the students chosen dispose of a body.    "
+                },
+                "2": {
+                    "title": "It's All Her Fault",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 1962,
+                    "original air date": "2 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    The team defend a millionaire accused of murdering his wife, and as they probe, more secrets are revealed. Meanwhile, Annalise is suspicious of Sam's knowledge of Lila Stangard, and in the flash forward, Wes makes a mysterious phone call.    "
+                },
+                "3": {
+                    "title": "Smile, or Go to Jail",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 1800,
+                    "original air date": "9 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    A woman originally arrested for a misdemeanor is revealed as a terrorist who carried out a deadly attack years earlier. The team work to clear her, while Wes tries to investigate Lila Sangard's murder, and Nate seeks information about Sam.    "
+                },
+                "4": {
+                    "title": "Let's Get to Scooping",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 1894,
+                    "original air date": "16 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    The team helps a woman accused of insider trading, which has a profound effect on the people working for her. Meanwhile, Bonnie helps obtain a video copy of Rebecca's confession, significantly affecting her case.    "
+                },
+                "5": {
+                    "title": "We're Not Friends",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 1626,
+                    "original air date": "23 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Annalise takes on a tough case defending a minor who fatally shoots his police officer father. Meanwhile, Annalise and Sam continue to argue over his relationship with Lila, and Wes and Rebecca begin to question Annalise's motives. In flash-forwards, we learn more about Laurel's relationship with Frank and why he was calling her the night of Sam's death.    "
+                },
+                "6": {
+                    "title": "Freakin' Whack-a-Mole",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 1642,
+                    "original air date": "30 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Annalise manages to orchestrate an appeal for a man on death row, convicted of murdering his girlfriend years earlier, and sentenced by Asher's father, Judge William Millstone. Meanwhile, Frank tries to locate Rebecca.    "
+                },
+                "7": {
+                    "title": "He Deserved to Die",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 1533,
+                    "original air date": "6 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Annalise and her team throw themselves into defending Rebecca, with all sides playing dirty. Meanwhile, Michaela receives a surprising request, Laurel considers a career change, and the flash forward reveals more about Sam's death.    "
+                },
+                "8": {
+                    "title": "He Has a Wife",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 1569,
+                    "original air date": "13 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    The revelation about Lila's pregnancy prompts several different reactions, Michaela meets Aiden's domineering mother, and the case of a real estate agent accused of murdering her children's nanny proves difficult for the team.    "
+                },
+                "9": {
+                    "title": "Kill Me, Kill Me, Kill Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 2570,
+                    "original air date": "20 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    The flash forward finally syncs with the present, and the events that transpired on the night of Sam's death are revealed, which has severe consequences for all involved.    "
+                },
+                "10": {
+                    "title": "Hello Raskolnikov",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 1535,
+                    "original air date": "29 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    As the search for Sam begins, it is uncertain how much Annalise knows about what really happened, while a surprise visitor creates complications for the students.    "
+                },
+                "11": {
+                    "title": "Best Christmas Ever",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 1436,
+                    "original air date": "5 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    After Christmas and New Year, the students arrive back at college and are immediately given the task of assisting with the case of a woman who claims to have been abused by her husband and forced to imprison young girls for years.    "
+                },
+                "12": {
+                    "title": "She's a Murderer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 1572,
+                    "original air date": "12 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    A stunning discovery in Sam's murder case leads to changes for Annalise and the students, while their latest case is a complex one involving the mob.    "
+                },
+                "13": {
+                    "title": "Mama's Here Now",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 1572,
+                    "original air date": "19 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Wracked with guilt, Annalise turns to an unlikely source for help, while Bonnie is assigned a difficult case which she must solve without Annalise.    "
+                },
+                "14": {
+                    "title": "The Night Lila Died",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 1571,
+                    "original air date": "26 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    As the team defend a priest accused of murdering a fellow man of the cloth, a series of flashbacks begins to finally reveal exactly what happened on the night Lila was murdered.    "
+                },
+                "15": {
+                    "title": "It's All My Fault",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 2485,
+                    "original air date": "26 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Michaela, Connor, Laurel and Wes get into trouble, before the truth about Lila's death is revealed.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "It's Time to Move On",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 1839,
+                    "original air date": "24 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    The students are still in shock over Rebecca's disappearance, but while Annalise and Frank try to find out who killed her, they must act as though nothing has happened. Annalise takes on two siblings accused of killing their parents.    "
+                },
+                "2": {
+                    "title": "She's Dying",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 1370,
+                    "original air date": "1 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Annalise and her team are blindsided when investigators try to pin a new charge on the wealthy siblings she's been hired to represent. Meanwhile, things for Annalise become even more difficult when she's brutally cross-examined on the witness stand during Nate's preliminary hearing.    "
+                },
+                "3": {
+                    "title": "It's Called the Octopus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 1225,
+                    "original air date": "8 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    When Annalise takes on a new client, the team must investigate a very high end sex club to get answers. Meanwhile, Annalise is still representing the siblings accused of killing their parents, but the case takes a turn for the worse when a new motive surfaces, and Wes teams up with an unexpected ally.    "
+                },
+                "4": {
+                    "title": "Skanks Get Shanked",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 1275,
+                    "original air date": "15 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    When a teenager is found murdered in the woods, Annalise and her team is hired to represent an unlikely suspect named in the case. Meanwhile, Asher comes across a shocking confession, and Wes learns new information about Rebecca's disappearance.    "
+                },
+                "5": {
+                    "title": "Meet Bonnie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 1349,
+                    "original air date": "22 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Asher discovers not everything is what it seems when you work for Annalise. Meanwhile, Frank is presented with a situation that hits close to home, and Wes' search to find out more about Rebecca's disappearance culminates into an explosive confrontation.    "
+                },
+                "6": {
+                    "title": "Two Birds, One Millstone",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 1173,
+                    "original air date": "29 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Annalise takes on a new client, a transgender professor accused of killing her husband. Meanwhile, the Keating 5 are left to handle the Hapstall case and they discover a shocking new suspect.    "
+                },
+                "7": {
+                    "title": "I Want You to Die",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 1182,
+                    "original air date": "5 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Annalise and the team defend a client accused of badgering a person to the point of suicide; Eve (Famke Janssen) defends Nate again when he faces possible new charges.    "
+                },
+                "8": {
+                    "title": "Hi, I'm Philip",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 1160,
+                    "original air date": "12 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Philip makes a threatening move and ADA Sinclair may have figured out away to take down Annalise. Meanwhile, Catherine and Caleb are forced to make a life changing decision.    "
+                },
+                "9": {
+                    "title": "What Did We Do?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 2640,
+                    "original air date": "19 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    ADA Sinclair finally gets her biggest break yet in the Hapstall case - but it comes with a deadly consequence as the details of the night Annalise was shot are revealed, and her shooter is finally unmasked.    "
+                },
+                "10": {
+                    "title": "What Happened to You, Annalise?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 1098,
+                    "original air date": "11 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Weeks after Wes shot Annalise, he and the rest of the Keating 5 deal with the ramifications of that night as Annalise works toward recovery.    "
+                },
+                "11": {
+                    "title": "She Hates Us",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 1071,
+                    "original air date": "18 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Tensions in the Keating household run high, as each student struggles in their own way trying to return to normalcy. In a flashback, we'll learn new details about Annalise's past.    "
+                },
+                "12": {
+                    "title": "It's a Trap",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 1053,
+                    "original air date": "25 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Annalise tries to be one step ahead of Philip while Wes and Laurel start putting the pieces of a private project together.    "
+                },
+                "13": {
+                    "title": "Something Bad Happened",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 1219,
+                    "original air date": "3 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Annalise goes forward with a risky plan to protect the team from Philip. Wes continues to investigate his mother's death.    "
+                },
+                "14": {
+                    "title": "There's My Baby",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "votes": 1245,
+                    "original air date": "10 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    The Keating 5 are called into questioning by A.D.A Denver about the night Emily Sinclair was murdered. Meanwhile, Caleb goes missing as the manhunt for Philip intensifies.    "
+                },
+                "15": {
+                    "title": "Anna Mae",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "votes": 1348,
+                    "original air date": "17 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Annalise starts to break under pressure and wants to escape; Frank needs to accept the things he has done; Wes is one step closer to learning about his past.    "
+                }
+            },
+            "3": {
+                "1": {
+                    "title": "We're Good People Now",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 1177,
+                    "original air date": "22 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    With Wallace Mahoney's murder unsolved and Frank's whereabouts unknown, the \"Keating 5\" struggle to move on with their lives as they enter into their second year of law school.    "
+                },
+                "2": {
+                    "title": "There Are Worse Things Than Murder",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 953,
+                    "original air date": "29 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    With her job in jeopardy, Annalise confronts the Middleton University Board; secrets come to light as the Keating 5 compete for the case of a battered woman accused of killing her husband.    "
+                },
+                "3": {
+                    "title": "Always Bet Black",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 904,
+                    "original air date": "6 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    Annalise presents her class with a high-profile murder case that pushes even the Keating 5's morals, while Laurel makes a shocking discovery through an unlikely source.    "
+                },
+                "4": {
+                    "title": "Don't Tell Annalise",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 923,
+                    "original air date": "13 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    A young client's fate is up in the air after incriminating evidence against Annalise is revealed to the Philadelphia Bar Association's disciplinary board. Meanwhile, Frank's shocking behavior has consequences for someone he knows well.    "
+                },
+                "5": {
+                    "title": "It's About Frank",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 864,
+                    "original air date": "20 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    The mystery behind the Annelise \"killer\" flyers takes a surprising twist. Meanwhile, Frank's troubled past is exposed and a shocking new discovery changes everything about the night of the fire.    "
+                },
+                "6": {
+                    "title": "Is Someone Really Dead?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 835,
+                    "original air date": "27 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    A veteran is charged with assault, while a break in the Wallace Mahoney case catches the team off guard.    "
+                },
+                "7": {
+                    "title": "Call It Mother's Intuition",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 834,
+                    "original air date": "3 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Annalise and her students take on a case of conspiracy to murder by two siblings, as Frank's actions lead to painful consequences.    "
+                },
+                "8": {
+                    "title": "No More Blood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 958,
+                    "original air date": "10 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    An unlikely source of help is sought by Bonnie and Annalise, creating further tension amongst the Keating 5. Meanwhile, Annalise's new client offers a great deal of surprise.    "
+                },
+                "9": {
+                    "title": "Who's Dead?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 2144,
+                    "original air date": "17 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Annalise and Nate argue after a tip about Renee Atwood is exposed; the person under the sheet is revealed.    "
+                },
+                "10": {
+                    "title": "We're Bad People",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 831,
+                    "original air date": "26 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    With Annalise in jail on charges of arson and first-degree murder, the Keating 4 try to cope with Wes' death.    "
+                },
+                "11": {
+                    "title": "Not Everything's About Annalise",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 11,
+                    "votes": 770,
+                    "original air date": "2 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    As Annalise struggles to cope with prison life, Frank attempts to confess to Wes' murder with opposition from the DA. While the Keating 4 struggle over Annalise's innocence.    "
+                },
+                "12": {
+                    "title": "Go Cry Somewhere Else",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 12,
+                    "votes": 776,
+                    "original air date": "9 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    The prosecution attempts to bring up a new charge against Annalise; Nate reveals new information that could jeopardize his own innocence.    "
+                },
+                "13": {
+                    "title": "It's War",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 13,
+                    "votes": 808,
+                    "original air date": "16 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Annalise is determined to take down DA Denver and ADA Atwood.    "
+                },
+                "14": {
+                    "title": "He Made a Terrible Mistake",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 14,
+                    "votes": 876,
+                    "original air date": "23 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Annalise copes with a new twist in the DA's case; alliances change in the Keating 4 as they uncover new information about Wes's death; details from the night of the fire reveal Wes's murderer.    "
+                },
+                "15": {
+                    "title": "Wes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 15,
+                    "votes": 1161,
+                    "original air date": "23 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Annalise and the Keating 4 see how far they'll go to keep themselves safe as the night of the fire reveals who killed Wes.    "
+                }
+            },
+            "4": {
+                "1": {
+                    "title": "I'm Going Away",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "votes": 898,
+                    "original air date": "28 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Annalise returns to her family home to pick up the pieces of her shattered life. Meanwhile, \"Keating 4\" face an uncertain future while Laurel becomes obsessed with finding out what happened to Wes the night he died.    "
+                },
+                "2": {
+                    "title": "I'm Not Her",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "votes": 771,
+                    "original air date": "5 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    While Annalise reconnects with an important client, she continues struggling to move forward. Meanwhile, the \"Keating 4\" try to move past their tarnished reputations; in flash-forward, details to a tragic crime start unfolding.    "
+                },
+                "3": {
+                    "title": "It's for the Greater Good",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "votes": 677,
+                    "original air date": "12 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Annalise takes on a case for the greater good. Meanwhile, Laurel asks Michaela to help get information on Wes' death; Connor makes a major decision. In a flash-forward, a surprising confrontation during the night of the crime is revealed.    "
+                },
+                "4": {
+                    "title": "Was She Ever Good at Her Job?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 4,
+                    "votes": 655,
+                    "original air date": "19 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Feeling like she's found her purpose again, Annalise focuses on developing her big case as Bonnie grows suspicious. Meanwhile, Connor gets a surprise visit from his dad; Laurel turns to an old friend to relieve stress.    "
+                },
+                "5": {
+                    "title": "I Love Her",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 5,
+                    "votes": 712,
+                    "original air date": "26 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Annalise gathers signatures for her class-action lawsuit with Bonnie is on her trail as their origin story is revealed. Michaela recruits Oliver, while Asher becomes uncomfortable with her work hours and Frank questions Laurel.    "
+                },
+                "6": {
+                    "title": "Stay Strong, Mama",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 6,
+                    "votes": 635,
+                    "original air date": "2 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Annalise forges ahead with her class lawsuit and receives help from a former colleague. Meanwhile, Laurel continues to investigate her father's company; Asher confronts Michaela about her odd behavior; details about Isaac's past are revealed.    "
+                },
+                "7": {
+                    "title": "Nobody Roots for Goliath",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 7,
+                    "votes": 674,
+                    "original air date": "9 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    When Annalise's resolve to certify her class action lawsuit is tested, a surprising ally comes to her aid. Meanwhile, Laurel and Michaela hit a roadblock after someone discovers their plans to take down Laurel's father.    "
+                },
+                "8": {
+                    "title": "Live. Live. Live.",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 8,
+                    "votes": 1851,
+                    "original air date": "16 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Annalise is confronted with disturbing news involving one of Isaac's patients. Meanwhile, the investigation into Wes' murder comes to a head, and details of the whereabouts of Laurel's baby are revealed.    "
+                },
+                "9": {
+                    "title": "He's Dead",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 9,
+                    "votes": 853,
+                    "original air date": "18 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    As the police investigate Simon's accidental shooting, Keating 4 deal with a new set of obstacles. Meanwhile, Annalise finds herself in an unimaginable situation as Laurel and her baby struggle to cling to life.    "
+                },
+                "10": {
+                    "title": "Everything We Did Was for Nothing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 10,
+                    "votes": 592,
+                    "original air date": "25 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    As Laurel struggles to come to terms with the events of that tragic night, Annalise and Frank work together to do what is best for the group. As Annalise builds her class action case, new details of a past murder are revealed.    "
+                },
+                "11": {
+                    "title": "He's a Bad Father",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 11,
+                    "votes": 582,
+                    "original air date": "1 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Laurel gets help from an important figure in her past as she deals with details of her past. Meanwhile, Annalise must overcome an obstacle involving one of her clients to her class-action lawsuit.    "
+                },
+                "12": {
+                    "title": "Ask Him About Stella",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 12,
+                    "votes": 597,
+                    "original air date": "8 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    In Annalise's case to help Laurel, damaging details about a key witness are revealed. The Keating Four continue to work on Annalise's class action lawsuit.    "
+                },
+                "13": {
+                    "title": "Lahey v. Commonwealth of Pennsylvania",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 13,
+                    "votes": 953,
+                    "original air date": "1 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    A meeting with Olivia Pope proves to be crucial in giving Annalise the opportunity to argue her case in the nation's highest court.    "
+                },
+                "14": {
+                    "title": "The Day Before He Died",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 14,
+                    "votes": 607,
+                    "original air date": "8 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    The Keating 4 gets help from Analise to devise a new plan when detectives get a break in the investigation of Simon's shooting. Laurel learns new details about the night Wes dies leading to a shocking confrontation.    "
+                },
+                "15": {
+                    "title": "Nobody Else Is Dying",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "How to Get Away with Murder (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 15,
+                    "votes": 681,
+                    "original air date": "15 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Annalise's inner circle must deal with a suspicious death that results in a shocking arrest. A new development involving one of the team changes everything.    "
+                }
+            }
+        },
+        "number of episodes": 75,
+        "cast": [
+            {
+                "name": "Davis, Viola"
+            },
+            {
+                "name": "Brown, Billy"
+            },
+            {
+                "name": "Falahee, Jack"
+            },
+            {
+                "name": "King, Aja Naomi"
+            },
+            {
+                "name": "McGorry, Matt"
+            },
+            {
+                "name": "Souza, Karla"
+            },
+            {
+                "name": "Weber, Charlie"
+            },
+            {
+                "name": "Weil, Liza"
+            },
+            {
+                "name": "Ricamora, Conrad"
+            },
+            {
+                "name": "Enoch, Alfred"
+            },
+            {
+                "name": "Vann, Amirah"
+            },
+            {
+                "name": "Dabu, Behzad"
+            },
+            {
+                "name": "Verica, Tom"
+            },
+            {
+                "name": "Martinez, Benito"
+            },
+            {
+                "name": "Findlay, Katie"
+            },
+            {
+                "name": "Flynn, Rome"
+            },
+            {
+                "name": "Hutton, Timothy"
+            },
+            {
+                "name": "Sampson, Kendrick"
+            },
+            {
+                "name": "Reid, Corbin"
+            },
+            {
+                "name": "Smits, Jimmy"
+            },
+            {
+                "name": "Jones, Jasmyne"
+            },
+            {
+                "name": "Hensley, John"
+            },
+            {
+                "name": "Jones, Adrianna"
+            },
+            {
+                "name": "Velez, Luna Lauren"
+            },
+            {
+                "name": "Okuda, Amy"
+            },
+            {
+                "name": "Burns, Sarah"
+            },
+            {
+                "name": "Jackson, Milauna"
+            },
+            {
+                "name": "Janssen, Famke"
+            },
+            {
+                "name": "Garayua, Gloria"
+            },
+            {
+                "name": "Morales, Esai"
+            },
+            {
+                "name": "White, Jefferson"
+            },
+            {
+                "name": "Tyson, Cicely"
+            },
+            {
+                "name": "Clarke, Dameon"
+            },
+            {
+                "name": "Turman, Glynn"
+            },
+            {
+                "name": "West, Megan"
+            },
+            {
+                "name": "Posey, John"
+            },
+            {
+                "name": "Scott, Kelsey"
+            },
+            {
+                "name": "Caldwell, L. Scott"
+            },
+            {
+                "name": "Hamilton, Melinda Page"
+            },
+            {
+                "name": "Gupta, Arjun"
+            },
+            {
+                "name": "Ross, Yolonda"
+            },
+            {
+                "name": "Platt, Lenny"
+            },
+            {
+                "name": "Hahn, Jacqueline"
+            },
+            {
+                "name": "Benedict, Joy"
+            },
+            {
+                "name": "Brown, Issac Ryan"
+            },
+            {
+                "name": "Risch, Matthew"
+            },
+            {
+                "name": "Haun, Ellen"
+            },
+            {
+                "name": "Gonzalez, Nicholas"
+            },
+            {
+                "name": "Kim, Intae"
+            },
+            {
+                "name": "Finnøy, Jessyka"
+            }
+        ],
+        "locations": [
+            "Los Angeles, California, USA",
+            "1130 W 27th St, Los Angeles, California, USA::(Annalise Keatings House)",
+            "Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en",
+            "es"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo",
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Australia:M",
+            "Brazil:14",
+            "Brazil:16::(season 1)",
+            "Canada:14A",
+            "Canada:13+::(Québec)",
+            "France:Tous publics",
+            "Germany:16",
+            "Germany:12",
+            "Ireland:15",
+            "Italy:T",
+            "Netherlands:12",
+            "New Zealand:M",
+            "Norway:12",
+            "Poland:12",
+            "Russia:18+",
+            "Singapore:R21",
+            "Singapore:PG13",
+            "South Africa:16",
+            "South Korea:18",
+            "Spain:16",
+            "Sweden:11",
+            "United Kingdom:15",
+            "United States:TV-14"
+        ],
+        "number of seasons": 5,
+        "rating": 8.2,
+        "votes": 100618,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjMzNzM1MDI4NV5BMl5BanBnXkFtZTgwNjk1OTYzNjM@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "A sexy, suspense-driven legal thriller about a group of ambitious law students and their brilliant, mysterious criminal defense professor. They become entangled in a murder plot that will shake the entire university and change the course of their lives.",
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "title": "How to Get Away with Murder",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "writer": [
+            {
+                "name": "Nowalk, Peter"
+            },
+            {
+                "name": "Thompson, Sarah L."
+            },
+            {
+                "name": "Balogun, Morenike"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Shondaland"
+            },
+            {
+                "name": "Nowalk Entertainment"
+            },
+            {
+                "name": "ABC Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Disney-ABC Domestic Television"
+            },
+            {
+                "name": "American Broadcasting Company (ABC)"
+            },
+            {
+                "name": "Canadian Television (CTV)"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "DiziMax"
+            },
+            {
+                "name": "Dlife"
+            },
+            {
+                "name": "Eén"
+            },
+            {
+                "name": "FOX Life"
+            },
+            {
+                "name": "M6"
+            },
+            {
+                "name": "Net5"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "RTL Crime"
+            },
+            {
+                "name": "RTL-TVi"
+            },
+            {
+                "name": "Raidió Teilifís Éireann (RTÉ)"
+            },
+            {
+                "name": "Rede Globo de Televisão"
+            },
+            {
+                "name": "TV3"
+            },
+            {
+                "name": "TV6"
+            },
+            {
+                "name": "Universal Channel"
+            },
+            {
+                "name": "VOX"
+            },
+            {
+                "name": "Walt Disney Studios Home Entertainment"
+            },
+            {
+                "name": "Walt Disney Studios Home Entertainment"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Clairmont Camera Film & Digital"
+            },
+            {
+                "name": "Philly Picture Cars"
+            },
+            {
+                "name": "Pro-Tech Automotive Services"
+            },
+            {
+                "name": "Sim"
+            }
+        ],
+        "plot": [
+            "A group of ambitious law students and their brilliant criminal defense professor become involved in a twisted murder plot that promises to change the course of their lives.::Anonymous",
+            "A sexy, suspense-driven legal thriller about a group of ambitious law students and their brilliant, mysterious criminal defense professor. They become entangled in a murder plot that will shake the entire university and change the course of their lives.",
+            "Annalise Keating. For her students, she's a great teacher. And every year, she selects four of them to work with her as lawyers. But this year, when everyone arrives at school in the first day, Lila Stangard, a young girl, is already missing. They dont know it, but the life of everyone close to Annalise's office is going to fall into a dark and unending series of murders...::Félix Lhôte",
+            "A group of 5 sexy young law students are hired by a ruthless defense lawyer after becoming her favorite students in the class. But working for Annelise Keating isn't as easy as they thought it would be. A young sorority girl is found murdered and everyone's a suspect and everybody is hiding something.::Benjamin Johnston",
+            "The brilliant, charismatic and seductive Professor Annalise Keating gets entangled with four law students from her class, _How to Get Away with Murder_ (qv). Little do they know that they will have to apply what they learned to real life, in this masterful, sexy, suspense-driven legal thriller.::ahmetkozan"
+        ],
+        "synopsis": [
+            "The first eight episodes alternate between small flashes of events happening on December 12th,2014 (the night of Sam Keatings' murder) and the main part of that episode. This main part of these episodes takes place some weeks before December the 12th (a countdown is shown in each episode).At the start of the semester, Professor Annelise Keating tells the students she will teach them \"How to Get Away with Murder\". Based on the proposed defenses in the first case offered, Keating selects five students who will help her in her real life law practice. These five are Connor Walsh, Michaela Pratt, Asher Millstone, Laurel Castillo and Wes Gibbins.The body of a fellow student named Lila Stangard, who was missing for several weeks, is found in a water tank. Prime suspects are her boyfriend Griffin O'Reilly and Rebecca Sutter. The latter lives in the same building and on the same floor as Wes Gibbins. Over the course of the weeks Rebecca and Wes fall in love. Rebecca is a suspect because she was caught having sex with Lila's boyfriend. To the audience, she is even more suspect because she has got Lila's phone, which she hides in Wes' bathroom. Lila's phone contains a sexting picture sent by Sam Keating to Lila. In the picture he is identified by the wallpaper in the Keating bedroom.Wes convinces Professor Keating to defend Rebecca in the murder case. During the investigation, it is revealed that Lila Stangard was having an affair with Professor Keatings husband Sam Keating, that she was pregnant and that Sam Keating tried to conjole her into having an abortion.On the night of the murder:\nSam and Annelise had a vicous fight about their respective affairs.Police officer Nate Lahey sends Rebecca into the Keating house to download the data of Sams smartphone from his laptop.At the same time, Michaela wants to return a stolen trophy.Wes discovers Rebecca's plans annd follows her to the Keating house along with Connor and Laurel.Sam discovers the intruders and thinks Rebecca wants to steal data. He chases her upstairs and a fight ensumes. During the fight Michaela pushes Sam over the bannister and he falls and appears to be dead.A few minutes later, while the team discusses what to do next. Sam suddenly leaps up and starts strangling Rebecca. Wes grabs the trophy and hits Sam, who is now really dead. All five students run out into the woods but decide to return to the house and dispose of Sams body.The body is rolled into a carpet and shoved into Connors car. As they leave the house they are nearly caught by a campus guard, but saved by a campus party. The body is brought into the woods and burned; the remains are put into plastic bags and thrown into a dumpster. Somewhere Michaela loses her engagement ring.Annelise is complicit in the murder. She discovered the body when she came home and is the mastermind of the plan to get rid of the body. In order to get herself an alibi she drives to her lovers house and has sex with him. The team creates an alibi for themselves by joining the campus party and taking selfies.In court, Annelise proves that Sam was the father of Lila Stangards baby and shows him driving to the murder location on the night of the murder, where he was for nineteen minutes. Based on this evidence the charges against Rebecca are dropped.In episode eleven Hannah Keating (Sams sister) shows up. She is convinced that Anelise either killed Sam or is complicit in the murder. Annelises' apparent lack of grief when the body of Sam is found at the end of the 11th episode is all the more proof for her. The team of studens is trying to cope with the events. Mutual distrust and emotional breakdowns start to occur.In the 12th episode, Hannah testifies in court about an alleged death threat which Annelise would have made three years earlier. Based on this testimony the Keating house is searched and sprayed with luminol. Due to a vigorous scrubbing by Annelise no blood traces are found.Sams wedding ring is found in the woods behind campus. On it is a fingerprint, which matches Nate Lahey's. He is arrested.In the 13th episode, the mother of Annelise Keating visits. In Annelise's absence, Bonnie Winterbottom narrowly wins a rape case with the help of her students. It is revealed that Annelise was abused by a family member, whom was killed by her mother by setting fire on the family residence.Wes and Laurel visit the mental hospital where Rudy (the former occupant of Wes' room) is held. When shown a picture of Rebecca, he says \"Wet\". The episode ends with Rebecca checking for Wes' location by means of tracing his cell phone.\nOn the last (double) episode we learn that Lila was killed by Frank Delfino, an emloyee in Annelises form, on request of Sam. Rebecca had become wet because she hid in the water tank with Lila's body. Rebecca threatens to betray the group to the police and is found dead in the cliffhanger moments of the episode. Her killer is yet unknown."
+        ],
+        "tech": {
+            "runtime": [
+                "43 min"
+            ],
+            "sound mix": [
+                "Stereo",
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Sony F55"
+            ],
+            "negative format": [
+                "Digital"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 100618,
+                "rating": 8.2
+            },
+            "aged under 18": {
+                "votes": 175,
+                "rating": 8.6
+            },
+            "aged 18 29": {
+                "votes": 32663,
+                "rating": 8.5
+            },
+            "aged 30 44": {
+                "votes": 24602,
+                "rating": 7.9
+            },
+            "aged 45 plus": {
+                "votes": 7071,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 35392,
+                "rating": 7.9
+            },
+            "males aged under 18": {
+                "votes": 83,
+                "rating": 8.5
+            },
+            "males aged 18 29": {
+                "votes": 15007,
+                "rating": 8.4
+            },
+            "males aged 30 44": {
+                "votes": 12591,
+                "rating": 7.7
+            },
+            "males aged 45 plus": {
+                "votes": 3706,
+                "rating": 7.1
+            },
+            "females": {
+                "votes": 35915,
+                "rating": 8.4
+            },
+            "females aged under 18": {
+                "votes": 76,
+                "rating": 8.7
+            },
+            "females aged 18 29": {
+                "votes": 17088,
+                "rating": 8.6
+            },
+            "females aged 30 44": {
+                "votes": 11555,
+                "rating": 8.1
+            },
+            "females aged 45 plus": {
+                "votes": 3236,
+                "rating": 7.9
+            },
+            "top 1000 voters": {
+                "votes": 293,
+                "rating": 6.3
+            },
+            "us users": {
+                "votes": 11152,
+                "rating": 7.9
+            },
+            "non us users": {
+                "votes": 33834,
+                "rating": 8.0
+            }
+        },
+        "number of votes": {
+            "10": 30761,
+            "9": 25339,
+            "8": 23131,
+            "7": 10767,
+            "6": 4506,
+            "5": 2099,
+            "4": 1073,
+            "3": 750,
+            "2": 604,
+            "1": 1588
+        },
+        "arithmetic mean": 8.4,
+        "median": 9
+    }
+}

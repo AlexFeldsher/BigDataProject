@@ -1,0 +1,118 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "15 January 2012"
+            },
+            {
+                "country": "USA\n",
+                "date": "15 January 2012",
+                "notes": "                            (Los Angeles, California)"
+            }
+        ],
+        "release dates": [
+            "USA::15 January 2012",
+            "USA::15 January 2012                            (Los Angeles, California)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Pantagruelism and Waggery for the Ill-Informed (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "15 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Etten, Ellen"
+            },
+            {
+                "name": "Hartigan, Florence"
+            },
+            {
+                "name": "Moseley, Burl"
+            },
+            {
+                "name": "Skeens, Mark"
+            },
+            {
+                "name": "Hedges, Aliza"
+            },
+            {
+                "name": "Armes, Michael"
+            },
+            {
+                "name": "Turner, Branson"
+            }
+        ],
+        "locations": [
+            "Los Angeles, California, USA",
+            "Glendale, California, USA"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.85 : 1",
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Pantagruelism and Waggery for the Ill-Informed",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "akas": [
+            "Pantagruelism and Waggery for the Ill-Informed (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Turner, Branson"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Archetype Storytelling"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "30 min"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.85 : 1"
+            ]
+        }
+    }
+}

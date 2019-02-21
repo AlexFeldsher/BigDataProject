@@ -1,0 +1,682 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "11 May 2012"
+            },
+            {
+                "country": "Canada\n",
+                "date": "26 August 2012"
+            },
+            {
+                "country": "Germany\n",
+                "date": "23 September 2012"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "12 October 2012",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "19 October 2012",
+                "notes": "                            (part 2)"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "2 February 2013"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "23 June 2014"
+            }
+        ],
+        "release dates": [
+            "USA::11 May 2012",
+            "Canada::26 August 2012",
+            "Germany::23 September 2012",
+            "Hungary::12 October 2012                            (part 1)",
+            "Hungary::19 October 2012                            (part 2)",
+            "Netherlands::2 February 2013",
+            "Sweden::23 June 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Common Law"
+            },
+            {
+                "countries": "France",
+                "title": "Wes et Travis"
+            },
+            {
+                "countries": "Greece",
+                "title": "Common Law"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Haláli zsaruk"
+            },
+            {
+                "countries": "Poland",
+                "title": "Partnerzy"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Parceiros à Força"
+            },
+            {
+                "countries": "Russia",
+                "title": "Общее дело"
+            }
+        ],
+        "akas": [
+            "Common Law (original title)",
+            "Wes et Travis France",
+            "Common Law Greece",
+            "Haláli zsaruk Hungary",
+            "Partnerzy Poland",
+            "Parceiros à Força Portugal",
+            "Общее дело Russia"
+        ],
+        "akas from release info": [
+            "Common Law (original title)",
+            "Wes et Travis France",
+            "Common Law Greece",
+            "Haláli zsaruk Hungary",
+            "Partnerzy Poland",
+            "Parceiros à Força Portugal",
+            "Общее дело Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Common Law (TV Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 141,
+                    "original air date": "11 May 2012",
+                    "year": "2012",
+                    "plot": "\n    The captain of two bickering detectives sends them to couples' therapy.    "
+                },
+                "2": {
+                    "title": "Ride-Along",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Common Law (TV Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 83,
+                    "original air date": "18 May 2012",
+                    "year": "2012",
+                    "plot": "\n    The team investigates a woman who died during her honeymoon.    "
+                },
+                "3": {
+                    "title": "Soul Mates",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Common Law (TV Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 85,
+                    "original air date": "1 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Wes and Travis investigate the murder of a woman whose death could be linked to her involvement in a dating website.    "
+                },
+                "4": {
+                    "title": "The Ex-Factor",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Common Law (TV Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 78,
+                    "original air date": "8 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Travis' ex-partner causes tension between the guys when they receive a special assignment to stop a crime ring responsible for stealing high-end vehicles.    "
+                },
+                "5": {
+                    "title": "The T Word",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Common Law (TV Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 84,
+                    "original air date": "15 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Travis and Wes investigate various home invasions. It is soon discovered that one of Travis' foster brothers may be involved.    "
+                },
+                "6": {
+                    "title": "Performance Anxiety",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Common Law (TV Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 80,
+                    "original air date": "22 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Feeling the pressure of reaching a milestone on the job, Wes and Travis start to suffer from performance anxiety while on the hunt for a pair of criminals emulating the famous Bonnie and Clyde.    "
+                },
+                "7": {
+                    "title": "Role Play",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Common Law (TV Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 81,
+                    "original air date": "29 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Travis and Wes swap lives during an exercise to help them better understand one another.    "
+                },
+                "8": {
+                    "title": "Joint Custody",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Common Law (TV Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 72,
+                    "original air date": "13 Jul. 2012",
+                    "year": "2012",
+                    "plot": "\n    When a fellow officer is shot in a gang-related shooting, Wes and Travis investigate the crime while taking on the responsibility of caring for their injured colleague's K-9 dog.    "
+                },
+                "9": {
+                    "title": "Odd Couples",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Common Law (TV Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 72,
+                    "original air date": "20 Jul. 2012",
+                    "year": "2012",
+                    "plot": "\n    Wes and Travis stake out the apartment of a novelist suspected of helping in a prison break.    "
+                },
+                "10": {
+                    "title": "In-Laws vs. Outlaws",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Common Law (TV Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 62,
+                    "original air date": "27 Jul. 2012",
+                    "year": "2012",
+                    "plot": "\n    Wes and Travis' loyalties are at odds as the mentors who brought them each up the ranks assist on a high-stakes drug related murder. Seeing each other's strengths and flaws magnified in their mentors, Wes and Travis come away with a new appreciation for one another.    "
+                },
+                "11": {
+                    "title": "Hot for Teacher",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Common Law (TV Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 59,
+                    "original air date": "3 Aug. 2012",
+                    "year": "2012",
+                    "plot": "\n    Wes tells Travis about dreams he's had involving Dr. Ryan, which turns out to be a mistake.    "
+                },
+                "12": {
+                    "title": "Gun!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Common Law (TV Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 89,
+                    "original air date": "10 Aug. 2012",
+                    "year": "2012",
+                    "plot": "\n    Wes and Travis try to work their way back into the good graces of Dr. Ryan and their therapy group by finally agreeing to tell the whole story of what landed them there in the first place.    "
+                }
+            }
+        },
+        "number of episodes": 12,
+        "cast": [
+            {
+                "name": "Ealy, Michael"
+            },
+            {
+                "name": "Kole, Warren"
+            },
+            {
+                "name": "Walger, Sonya"
+            },
+            {
+                "name": "McGee, Jack"
+            },
+            {
+                "name": "Brocato, Lyle"
+            },
+            {
+                "name": "Castay, Leslie"
+            },
+            {
+                "name": "Cloke, Vanessa"
+            },
+            {
+                "name": "Grubbs, Gary"
+            },
+            {
+                "name": "Myles, Yohance"
+            },
+            {
+                "name": "Indigo"
+            },
+            {
+                "name": "Smith, Kay"
+            },
+            {
+                "name": "Jordan, Allyson Leigh"
+            },
+            {
+                "name": "Gonzalez, Randal"
+            },
+            {
+                "name": "Hooks, Ronnie"
+            },
+            {
+                "name": "Segari, Robert"
+            },
+            {
+                "name": "Coppola, Alicia"
+            },
+            {
+                "name": "Chomko, Elizabeth"
+            },
+            {
+                "name": "Cahill, Kerry"
+            },
+            {
+                "name": "Scarborough, Sean"
+            },
+            {
+                "name": "Bennett, Liza J."
+            },
+            {
+                "name": "Zehetner, Nora"
+            },
+            {
+                "name": "Jr., Ed Begley"
+            },
+            {
+                "name": "Kulbersh, Adam"
+            },
+            {
+                "name": "Terry, Marquita"
+            },
+            {
+                "name": "Harris, Mustafa"
+            },
+            {
+                "name": "Williams, Kaleti"
+            },
+            {
+                "name": "Yousef, Ned"
+            },
+            {
+                "name": "Dieterich, Z."
+            },
+            {
+                "name": "Jordan, Wendy Clarice"
+            },
+            {
+                "name": "Leitell, A.J."
+            },
+            {
+                "name": "Lybrand, Brie"
+            },
+            {
+                "name": "Uzzell, Joseph"
+            },
+            {
+                "name": "Wyant, Timothy"
+            },
+            {
+                "name": "Bogush, Elizabeth"
+            },
+            {
+                "name": "Fahey, Jeff"
+            },
+            {
+                "name": "Germann, Greg"
+            },
+            {
+                "name": "Peña, Elizabeth"
+            },
+            {
+                "name": "Purcell, Dominic"
+            },
+            {
+                "name": "Shea, John"
+            },
+            {
+                "name": "Brown, Brianna"
+            },
+            {
+                "name": "Diamond, Reed"
+            },
+            {
+                "name": "Irby, Michael"
+            },
+            {
+                "name": "Magers, Evan Michael"
+            },
+            {
+                "name": "Ontiveros, Lupe"
+            },
+            {
+                "name": "Rispoli, Michael"
+            },
+            {
+                "name": "Ruttan, Susan"
+            },
+            {
+                "name": "Simmons, Henry"
+            },
+            {
+                "name": "Sterling, Maury"
+            },
+            {
+                "name": "Tarabay, Nick E."
+            },
+            {
+                "name": "Tighe, Kevin"
+            }
+        ],
+        "locations": [
+            "New Orleans, Louisiana, USA"
+        ],
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Germany:12",
+            "Netherlands:12"
+        ],
+        "number of seasons": 1,
+        "rating": 8.0,
+        "votes": 5700,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTQ5NjI0NjEzMF5BMl5BanBnXkFtZTcwNzg3MTc3Nw@@._V1_SY150_CR7,0,101,150_.jpg",
+        "plot outline": "Travis Marks and Wes Mitchell are police detective partners with wildly differing personalities. Marks is a charmer with the ladies and Mitchell is a methodical former lawyer. They can't stand one another. Their boss, fed up with conflict, sends them off to have couples therapy.",
+        "languages": [
+            "English"
+        ],
+        "title": "Common Law",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-2012",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Wibberley, Cormac"
+            },
+            {
+                "name": "Wibberley, Marianne"
+            },
+            {
+                "name": "Sweeny, Craig"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Junction Entertainment"
+            },
+            {
+                "name": "CBS Television Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "USA Network"
+            },
+            {
+                "name": "Net5"
+            },
+            {
+                "name": "Paramount Home Entertainment"
+            },
+            {
+                "name": "Sat.1"
+            },
+            {
+                "name": "Showcase"
+            },
+            {
+                "name": "SuperTV2"
+            },
+            {
+                "name": "TV2"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Hi-Ground Media"
+            },
+            {
+                "name": "Spectrum Effects"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Smart Post Sound"
+            },
+            {
+                "name": "Sony Sound"
+            },
+            {
+                "name": "Keslow Camera"
+            },
+            {
+                "name": "Keep Me Posted"
+            },
+            {
+                "name": "Modern VideoFilm"
+            },
+            {
+                "name": "CBS Studios"
+            },
+            {
+                "name": "Jefferson Parish, Louisiana"
+            },
+            {
+                "name": "Jefferson Film Office"
+            },
+            {
+                "name": "Actors Choice Talent Agency"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Hollywood Trucks"
+            },
+            {
+                "name": "Hula Post"
+            },
+            {
+                "name": "LA Management"
+            },
+            {
+                "name": "Millennium Studios"
+            },
+            {
+                "name": "Silver Screen Rentals"
+            },
+            {
+                "name": "Tectus Security Services"
+            }
+        ],
+        "plot": [
+            "Centers on cops Wes Mitchell and Travis Marks, who have a problem, each other. So their captain sends them to couples therapy.::Anonymous",
+            "Travis Marks and Wes Mitchell are police detective partners with wildly differing personalities. Marks is a charmer with the ladies and Mitchell is a methodical former lawyer. They can't stand one another. Their boss, fed up with conflict, sends them off to have couples therapy.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "43 min"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Red One MX"
+            ],
+            "negative format": [
+                "Redcode RAW"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (2K) (master format)",
+                "Redcode RAW (4.5K) (source format)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 5700,
+                "rating": 8.0
+            },
+            "aged 18 29": {
+                "votes": 1692,
+                "rating": 8.3
+            },
+            "aged 30 44": {
+                "votes": 2153,
+                "rating": 7.8
+            },
+            "aged 45 plus": {
+                "votes": 796,
+                "rating": 7.5
+            },
+            "males": {
+                "votes": 2628,
+                "rating": 7.7
+            },
+            "males aged 18 29": {
+                "votes": 848,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 1204,
+                "rating": 7.6
+            },
+            "males aged 45 plus": {
+                "votes": 429,
+                "rating": 7.3
+            },
+            "females": {
+                "votes": 2222,
+                "rating": 8.3
+            },
+            "females aged 18 29": {
+                "votes": 824,
+                "rating": 8.5
+            },
+            "females aged 30 44": {
+                "votes": 925,
+                "rating": 8.1
+            },
+            "females aged 45 plus": {
+                "votes": 356,
+                "rating": 8.0
+            },
+            "top 1000 voters": {
+                "votes": 64,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 1484,
+                "rating": 7.9
+            },
+            "non us users": {
+                "votes": 2040,
+                "rating": 7.8
+            }
+        },
+        "number of votes": {
+            "10": 1810,
+            "9": 969,
+            "8": 1419,
+            "7": 852,
+            "6": 259,
+            "5": 136,
+            "4": 54,
+            "3": 43,
+            "2": 32,
+            "1": 126
+        },
+        "arithmetic mean": 8.2,
+        "median": 8
+    }
+}

@@ -1,0 +1,652 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "1 January 2012"
+            },
+            {
+                "country": "Ireland\n",
+                "date": "1 January 2012"
+            },
+            {
+                "country": "Germany\n",
+                "date": "26 September 2012"
+            }
+        ],
+        "release dates": [
+            "UK::1 January 2012",
+            "Ireland::1 January 2012",
+            "Germany::26 September 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "My Phone Genie"
+            },
+            {
+                "countries": "Germany",
+                "title": "Mein genialer Handy-Geist"
+            }
+        ],
+        "akas": [
+            "My Phone Genie (original title)",
+            "Mein genialer Handy-Geist Germany"
+        ],
+        "akas from release info": [
+            "My Phone Genie (original title)",
+            "Mein genialer Handy-Geist Germany"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Side FX",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "8 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Jaz Plastic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "original air date": "15 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Unfriend Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "22 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Upgrades",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "original air date": "29 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Sisters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "original air date": "6 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Saving Face",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "original air date": "13 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Parents' Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "original air date": "20 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Indoor Activities",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "original air date": "27 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "Grounded",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "original air date": "3 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "Technical Hitch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "original air date": "10 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "11": {
+                    "title": "Superheroes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "original air date": "17 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "Dumb and Dummy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "original air date": "24 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "13": {
+                    "title": "Mobbsy's Girlfriend",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "original air date": "1 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "To Serve and Protect",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "1 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    All 11-year-old Jasmine Hart wanted was the free ringtone download advertised in an online advert, but instead she got landed with Gene.    "
+                },
+                "2": {
+                    "title": "Home Movie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "8 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "It's a Jungle in Here",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "15 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Growing Pains",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "22 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Sleepover",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "29 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Talk to the Hair",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "5 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Cheat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "12 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Pene's Perfect Date",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "19 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "Garage Band",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "26 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "The Exciting Life of Jaz",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "4 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "11": {
+                    "title": "Clever",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "11 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "The Party",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "18 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "13": {
+                    "title": "Double Losers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Phone Genie (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "original air date": "25 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 26,
+        "cast": [
+            {
+                "name": "Wadsworth, Adam"
+            },
+            {
+                "name": "Cursons, Bessie"
+            },
+            {
+                "name": "Abe, Haruka"
+            },
+            {
+                "name": "Jackson-Keen, Fox"
+            },
+            {
+                "name": "Nicol, Heather"
+            },
+            {
+                "name": "Gerard, Lothaire"
+            },
+            {
+                "name": "Hammer, Ethan"
+            },
+            {
+                "name": "Mackie, Christine"
+            },
+            {
+                "name": "Wymer, Nick"
+            },
+            {
+                "name": "Martin, Mary"
+            },
+            {
+                "name": "Zamparelli, Lauterio"
+            },
+            {
+                "name": "Gandolfi, Sean"
+            },
+            {
+                "name": "Mullarky, Sophie"
+            },
+            {
+                "name": "O'Conghaile, Tadhg"
+            },
+            {
+                "name": "O'Brien, Fiachna"
+            },
+            {
+                "name": "Kelly, Sean"
+            },
+            {
+                "name": "Gandolfi, Séan"
+            },
+            {
+                "name": "Higgins, Robert"
+            },
+            {
+                "name": "Jones, Charlotte Quita"
+            },
+            {
+                "name": "Calvert, David"
+            },
+            {
+                "name": "Connolly, Cathal"
+            },
+            {
+                "name": "Costello, Zara"
+            },
+            {
+                "name": "McDonagh, Nicola"
+            },
+            {
+                "name": "McGuire, Tallann"
+            },
+            {
+                "name": "McDonagh, Joe"
+            },
+            {
+                "name": "Ó'Heanaí, Maidhc"
+            },
+            {
+                "name": "Nairn, Mark"
+            },
+            {
+                "name": "Fhlatharta, Níamh Ní"
+            },
+            {
+                "name": "Treacy, Maureen"
+            },
+            {
+                "name": "Calvert, David"
+            },
+            {
+                "name": "Hegarty, Aron"
+            },
+            {
+                "name": "Hewitt, Paige"
+            },
+            {
+                "name": "Langham, Bethany"
+            },
+            {
+                "name": "Lathem, Sam"
+            },
+            {
+                "name": "Lees-Jones, Annie"
+            },
+            {
+                "name": "McSporran, Kyle"
+            },
+            {
+                "name": "O'Regan, Mark"
+            },
+            {
+                "name": "O'Toole, Kate"
+            },
+            {
+                "name": "Patterson, Ian"
+            },
+            {
+                "name": "Sadler, Rupert"
+            }
+        ],
+        "locations": [
+            "Studio Solas, Ballinahown, County Galway, Ireland"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "countries": [
+            "Ireland",
+            "Germany",
+            "United Kingdom"
+        ],
+        "country codes": [
+            "ie",
+            "de",
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 2,
+        "rating": 6.6,
+        "votes": 28,
+        "languages": [
+            "English"
+        ],
+        "title": "My Phone Genie",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Johnson, Bryan"
+            },
+            {
+                "name": "Walters, Lee"
+            },
+            {
+                "name": "Berlinka, Dan"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Moonscoop"
+            },
+            {
+                "name": "Talent Television"
+            },
+            {
+                "name": "Telegael"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Children's Independent Television (CiTV)"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 28,
+                "rating": 6.6
+            },
+            "aged 18 29": {
+                "votes": 9,
+                "rating": 6.9
+            },
+            "aged 30 44": {
+                "votes": 11,
+                "rating": 6.4
+            },
+            "aged 45 plus": {
+                "votes": 2,
+                "rating": 10.0
+            },
+            "males": {
+                "votes": 10,
+                "rating": 8.7
+            },
+            "males aged 18 29": {
+                "votes": 6,
+                "rating": 7.0
+            },
+            "males aged 30 44": {
+                "votes": 3,
+                "rating": 10.0
+            },
+            "males aged 45 plus": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females": {
+                "votes": 13,
+                "rating": 5.5
+            },
+            "females aged 18 29": {
+                "votes": 3,
+                "rating": 8.7
+            },
+            "females aged 30 44": {
+                "votes": 8,
+                "rating": 5.2
+            },
+            "females aged 45 plus": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "top 1000 voters": {
+                "votes": 2,
+                "rating": 5.5
+            },
+            "us users": {
+                "votes": 4,
+                "rating": 5.2
+            },
+            "non us users": {
+                "votes": 13,
+                "rating": 6.3
+            }
+        },
+        "number of votes": {
+            "10": 14,
+            "9": 0,
+            "8": 1,
+            "7": 1,
+            "6": 1,
+            "5": 1,
+            "4": 2,
+            "3": 1,
+            "2": 1,
+            "1": 6
+        },
+        "arithmetic mean": 6.6,
+        "median": 9
+    }
+}

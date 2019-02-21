@@ -1,0 +1,53 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "6 January 2014"
+            }
+        ],
+        "release dates": [
+            "USA::6 January 2014"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Seattle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "America Cooks with Chefs (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "6 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Portland",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "America Cooks with Chefs (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "6 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "number of seasons": 1,
+        "title": "America Cooks with Chefs",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-",
+        "seasons": [
+            "1"
+        ],
+        "tech": {}
+    }
+}

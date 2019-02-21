@@ -1,0 +1,426 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Sweden\n",
+                "date": "14 March 2012"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "14 March 2012",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "Finland\n",
+                "date": "2 December 2012"
+            },
+            {
+                "country": "Germany\n",
+                "date": "2 March 2015"
+            }
+        ],
+        "release dates": [
+            "Sweden::14 March 2012",
+            "Sweden::14 March 2012                            (DVD premiere)",
+            "Finland::2 December 2012",
+            "Germany::2 March 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Arne Dahl: Europa blues"
+            },
+            {
+                "countries": "Finland",
+                "title": "Arne Dahl: Eurooppa blues"
+            }
+        ],
+        "akas": [
+            "Arne Dahl: Europa blues (original title)",
+            "Arne Dahl: Eurooppa blues Finland"
+        ],
+        "akas from release info": [
+            "Arne Dahl: Europa blues (original title)",
+            "Arne Dahl: Eurooppa blues Finland"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Arne Dahl: Europa blues (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 22,
+                    "original air date": "14 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    A balmy summer night. The stillness is broken when a Jewish neuroscientist is found strung up by his feet above a grave in Stockholm. Meanwhile, a car is waiting outside a refugee facility in Vresta with the engine running. A few minutes later, a risky escape to a distant destination begins. The following morning a zookeeper makes a macabre discovery in the wolverine enclosure at Skansen, and the leads slowly start to take shape. The summer has started badly for the A-group. The cold winds of change are blowing through the corridors of National CID and somewhere out ...    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Arne Dahl: Europa blues (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 20,
+                    "original air date": "14 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    A balmy summer night. The stillness is broken when a Jewish neuroscientist is found strung up by his feet above a grave in Stockholm. Meanwhile, a car is waiting outside a refugee facility in Vresta with the engine running. A few minutes later, a risky escape to a distant destination begins. The following morning a zookeeper makes a macabre discovery in the wolverine enclosure at Skansen, and the leads slowly start to take shape. The summer has started badly for the A-group. The cold winds of change are blowing through the corridors of National CID and somewhere out ...    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Arvidsson, Malin"
+            },
+            {
+                "name": "Lindh, Irene"
+            },
+            {
+                "name": "Ljungmark, Claes"
+            },
+            {
+                "name": "Roney, Shanti"
+            },
+            {
+                "name": "Samuelsson, Magnus"
+            },
+            {
+                "name": "Varela, Matias"
+            },
+            {
+                "name": "Vitali, Vera"
+            },
+            {
+                "name": "Åkerfelt, Niklas"
+            },
+            {
+                "name": "Bilotta, Bruno"
+            },
+            {
+                "name": "Engvoll, Ida"
+            },
+            {
+                "name": "Hallgren, Frida"
+            },
+            {
+                "name": "Bergquist, Karin"
+            },
+            {
+                "name": "Keller, Robin"
+            },
+            {
+                "name": "Blomgren, Mats"
+            },
+            {
+                "name": "Terfelt, Leonard"
+            },
+            {
+                "name": "Ragimova, Naida"
+            },
+            {
+                "name": "Mybrand, Jan"
+            },
+            {
+                "name": "Bothén, Katharina"
+            },
+            {
+                "name": "Sinisalo, Anu"
+            },
+            {
+                "name": "Andersson, Pascal"
+            },
+            {
+                "name": "Jegoroskina, Tatjana"
+            },
+            {
+                "name": "Patjas, Sannamari"
+            },
+            {
+                "name": "Norberg, Anne-Li"
+            },
+            {
+                "name": "Prager, Peter"
+            },
+            {
+                "name": "Kokki, Amanda"
+            },
+            {
+                "name": "Lönnbro, Harald"
+            },
+            {
+                "name": "Thornqvist, Helena"
+            },
+            {
+                "name": "De Vito, Francesco"
+            },
+            {
+                "name": "Lapitskij, Max"
+            },
+            {
+                "name": "Unger, Bisse"
+            },
+            {
+                "name": "Ribbing, Ebba"
+            },
+            {
+                "name": "Chalupa, Alexandra"
+            },
+            {
+                "name": "Nizic, Helena"
+            },
+            {
+                "name": "Lundström, Henrik"
+            },
+            {
+                "name": "Venantini, Venantino"
+            },
+            {
+                "name": "Lenneman, David"
+            },
+            {
+                "name": "Hedengran, Thomas"
+            },
+            {
+                "name": "Sarachu, César"
+            },
+            {
+                "name": "Sand, Marianne"
+            },
+            {
+                "name": "Ohlsson, Fredrik"
+            },
+            {
+                "name": "Hartelius, Claes"
+            },
+            {
+                "name": "Remes, Emilia"
+            },
+            {
+                "name": "Hall, Wilma"
+            },
+            {
+                "name": "Magnell, Karolina"
+            },
+            {
+                "name": "Arrhenius, Jesper"
+            },
+            {
+                "name": "Granström, Colin"
+            },
+            {
+                "name": "Karmazina, Alina"
+            },
+            {
+                "name": "Andersson, Mats"
+            },
+            {
+                "name": "Brauer, Dmitry"
+            },
+            {
+                "name": "Monn, Lion"
+            }
+        ],
+        "genres": [
+            "Crime"
+        ],
+        "runtimes": [
+            "180"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "country codes": [
+            "se"
+        ],
+        "language codes": [
+            "sv",
+            "de",
+            "en",
+            "ru",
+            "it"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital::(5.1)"
+        ],
+        "certificates": [
+            "Finland:K-16",
+            "Netherlands:16",
+            "Norway:15::(DVD rating)"
+        ],
+        "original air date": "14 Mar 2012 (Sweden)",
+        "number of seasons": 1,
+        "rating": 7.3,
+        "votes": 783,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNWNmMDg0YmQtNmJiMS00NWEzLTg5ZGItYWIyMmZiZTA3ZjdiXkEyXkFqcGdeQXVyMzAyMzEwNTI@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "Swedish",
+            "German",
+            "English",
+            "Russian",
+            "Italian"
+        ],
+        "title": "Arne Dahl: Europa blues",
+        "year": 2012,
+        "kind": "tv mini series",
+        "series years": "2012-2012",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Börjlind, Cilla"
+            },
+            {
+                "name": "Börjlind, Rolf"
+            },
+            {
+                "name": "Dahl, Arne"
+            }
+        ],
+        "director": [
+            {
+                "name": "Ohlson, Niklas"
+            },
+            {
+                "name": "Ohlsson, Mattias"
+            },
+            {
+                "name": "Ohlsson, Matthias"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Filmlance International AB"
+            },
+            {
+                "name": "Mouse Film"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Film1"
+            },
+            {
+                "name": "Filmlance International AB"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "M.A.G. Special Effects"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Mouse Films"
+            }
+        ],
+        "plot": [
+            "A man is found dead, hung from a tree. Another body is found in Skansen's wolverine enclosure. Five girls attempt to flee from Sweden.::Hans Bomers"
+        ],
+        "tech": {
+            "runtime": [
+                "3 hr (180 min) (2 parts)"
+            ],
+            "sound mix": [
+                "Dolby Digital (5.1)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 783,
+                "rating": 7.3
+            },
+            "aged 18 29": {
+                "votes": 57,
+                "rating": 7.2
+            },
+            "aged 30 44": {
+                "votes": 248,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 313,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 485,
+                "rating": 7.1
+            },
+            "males aged 18 29": {
+                "votes": 32,
+                "rating": 7.0
+            },
+            "males aged 30 44": {
+                "votes": 193,
+                "rating": 7.0
+            },
+            "males aged 45 plus": {
+                "votes": 228,
+                "rating": 7.3
+            },
+            "females": {
+                "votes": 175,
+                "rating": 7.7
+            },
+            "females aged 18 29": {
+                "votes": 24,
+                "rating": 7.6
+            },
+            "females aged 30 44": {
+                "votes": 51,
+                "rating": 7.6
+            },
+            "females aged 45 plus": {
+                "votes": 84,
+                "rating": 7.8
+            },
+            "top 1000 voters": {
+                "votes": 37,
+                "rating": 5.8
+            },
+            "us users": {
+                "votes": 31,
+                "rating": 6.4
+            },
+            "non us users": {
+                "votes": 509,
+                "rating": 7.2
+            }
+        },
+        "number of votes": {
+            "10": 66,
+            "9": 96,
+            "8": 220,
+            "7": 217,
+            "6": 108,
+            "5": 38,
+            "4": 7,
+            "3": 5,
+            "2": 6,
+            "1": 20
+        },
+        "arithmetic mean": 7.3,
+        "median": 7
+    }
+}

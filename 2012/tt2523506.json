@@ -1,0 +1,696 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "9 November 2012"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "7 February 2013"
+            },
+            {
+                "country": "USA\n",
+                "date": "12 February 2013"
+            }
+        ],
+        "release dates": [
+            "UK::9 November 2012",
+            "Hungary::7 February 2013",
+            "USA::12 February 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Wild Things with Dominic Monaghan"
+            },
+            {
+                "countries": "Finland",
+                "title": "Viidakon verenhimoiset vaeltajat"
+            },
+            {
+                "countries": "Greece",
+                "title": "Τρομερά έντομα με τον Ντόμινικ Μόναχαν"
+            },
+            {
+                "countries": "Italy",
+                "title": "Il signore degli insetti"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Criaturas Estranhas com Dominic Monaghan"
+            },
+            {
+                "countries": "Spain",
+                "title": "Buscando bichos con Dominic Monaghan"
+            }
+        ],
+        "akas": [
+            "Wild Things with Dominic Monaghan (original title)",
+            "Viidakon verenhimoiset vaeltajat Finland",
+            "Τρομερά έντομα με τον Ντόμινικ Μόναχαν Greece",
+            "Il signore degli insetti Italy",
+            "Criaturas Estranhas com Dominic Monaghan Portugal",
+            "Buscando bichos con Dominic Monaghan Spain"
+        ],
+        "akas from release info": [
+            "Wild Things with Dominic Monaghan (original title)",
+            "Viidakon verenhimoiset vaeltajat Finland",
+            "Τρομερά έντομα με τον Ντόμινικ Μόναχαν Greece",
+            "Il signore degli insetti Italy",
+            "Criaturas Estranhas com Dominic Monaghan Portugal",
+            "Buscando bichos con Dominic Monaghan Spain"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "Belize: Fer-de-Lance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 10,
+                    "original air date": "27 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Dominic Monahagan is in Belize on a mission to find the deadliest snake in Latin America, the venomous pit viper \"Fer-de-Lance\".    "
+                },
+                "2": {
+                    "title": "Florida: Sharks",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 9,
+                    "original air date": "12 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Dominic Monaghan dives into the Florida Keys in search of some of the largest and deadliest sharks. Along the way, he learns the local sport of alligator wrestling and finds a dangerous rattlesnake while driving an airboat.    "
+                },
+                "3": {
+                    "title": "Madagascar: Aye-Aye Lemur",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 13,
+                    "original air date": "19 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    As Dominic Monaghan searches for the most famous and feared lemur of Madagascar, he crosses a harrowing stone forest called the Big Tsingy, runs into the smallest and largest chameleons on earth and gets bitten by a rare snake.    "
+                },
+                "4": {
+                    "title": "Mozambique: Whale Shark",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 11,
+                    "original air date": "26 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Dominic Monaghan is hot on the trail of the largest fish on the planet - the 42-ton whale shark! Along the way, he enters a local boat race and partakes in an annual fishing celebration.    "
+                },
+                "5": {
+                    "title": "South Africa: White Lions of Timbavati",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 11,
+                    "original air date": "2 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Dominic Monaghan is in South Africa searching for the rarest big cat on the planet: the White Lions of Timbavati. Along the way he chases an impala with a pair of cheetah brothers and secures the blessing of a local tribe.    "
+                },
+                "6": {
+                    "title": "Sri Lanka: Indian Cobra",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 10,
+                    "original air date": "9 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Dominic Monaghan is in Sri Lanka pursuing the dangerous Indian cobra. On his journey he visits a tea plantation, tries the challenging and uncomfortable task of stilt fishing and climbs the ancient city of Sigiriya Rock.    "
+                },
+                "7": {
+                    "title": "Philippines: Flying Lizard",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 10,
+                    "original air date": "16 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Dominic Monaghan is on the hunt for the flying lizard in the Philippines. He runs into a psychic who predicts his future, crosses the lush \"chocolate hills\" and explores eerie mangroves where he discovers a slimy, local delicacy.    "
+                },
+                "8": {
+                    "title": "Peru: Electric Eel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 10,
+                    "original air date": "23 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Dom explores the Peruvian Amazon by boat, looking for one of its most dangerous creatures - the electric eel.    "
+                },
+                "9": {
+                    "title": "Peru: Lake Titicaca Water Frog",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 8,
+                    "original air date": "1 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Dominic Monaghan climbs the Peruvian Andes to find the Lake Titicaca frog. As he makes this arduous ascent, Dom encounters a condor with a 10-foot wingspan and discovers a community that lives on a floating island made of straw.    "
+                },
+                "10": {
+                    "title": "Brazil: Giant Ant Eater",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 8,
+                    "original air date": "8 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    This time Dom is trekking in Brazil seeking the bizarre giant anteater.    "
+                },
+                "11": {
+                    "title": "Bolivia: Andean Bear",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 11,
+                    "votes": 12,
+                    "original air date": "15 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Dominic Monaghan pursues the largest land animal in South America - the Andean bear. He encounters a flamingo lake on the edge of a volcano and takes a quick detour where he finds himself in a wrestling match with female fighters.    "
+                },
+                "12": {
+                    "title": "Palau: Coconut Crab",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 12,
+                    "votes": 10,
+                    "original air date": "22 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Dominic Monaghan heads to Palau in search of the giant coconut crab, which can literally crack coconuts. He also dives into a lake teeming with millions of jellyfish and enters a cove where a species older than dinosaurs live.    "
+                },
+                "13": {
+                    "title": "Indonesia Orangutan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 13,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n    Dom travels across Indonesia to the island of Sumatra where he helps a team of researchers rescue a wild orangutan.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Venezuela: Giant Centipede",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 26,
+                    "original air date": "12 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Dominic journeys into the wilds of Venezuela in search of a remote cave rumoured to house the world's largest centipede: scolopendra gigantica is an aggressive, venomous carnivore that is rumoured to snatch bats right out of the air. To get to his prey, Dom first runs the gamut of Caracas traffic and army checkpoints, then finds himself abseiling into a toxic cave and hiking through a snake-infested jungle. Along the way he encounters an array of fascinating animals, including a false chameleon, a sloth, a deadly neotropical rattlesnake and a tarantula.    "
+                },
+                "2": {
+                    "title": "Ecuador: Army Ants",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 16,
+                    "original air date": "26 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Dom travels deep into the heart of the Ecuadorian rainforest to face-off with a four million strong colony of flesh-eating, venom injecting army ants - a terrifying mass of insects that may be the largest ant colony ever discovered in the \"new world.\"    "
+                },
+                "3": {
+                    "title": "Cameroon: White Goliath Beetle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 18,
+                    "original air date": "19 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    In an attempt to locate one of the most rare animals on the planet - the giant white Goliath beetle - Dom must infiltrate the black market insect trade in Cameroon. Travelling around the country, Dom gradually works his way down the network of middlemen and hunters, until he finally discovers the man who will lead him to the beetle.    "
+                },
+                "4": {
+                    "title": "Namibia: Black Hairy Thick Tail Scorpion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 20,
+                    "original air date": "5 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Dom braves the remote wilderness of Namibia while on the hunt for Africa's largest, deadliest scorpion - parabuthus villosus, commonly known as the black hairy thick-tailed scorpion. This beast can not only kill a human but also spray its venom up to a metre. Dom's journey to find the scorpion takes him into spectacular desert scenery.    "
+                },
+                "5": {
+                    "title": "Laos: Giant Huntsman Spider",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 17,
+                    "original air date": "29 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Dom journeys to Laos in search of a remote underground river that is home to a venomous, massive-fanged creature the size of a dinner plate - the Giant Huntsmen Spider - an arachnid so rare that only a few humans have ever interacted with it in the wild.    "
+                },
+                "6": {
+                    "title": "Vietnam: Giant Water Bug",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 19,
+                    "original air date": "22 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Dom travels to Vietnam to track down a toxic terror called the giant water bug. This venomous predatory insect measures only a few centimetres, but it can take down prey 10 times its size. Its mouth is a needle-like straw, which it uses to inject a toxin that liquefies the insides of its victims.    "
+                },
+                "7": {
+                    "title": "Malaysia: Giant Honey Bees",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 15,
+                    "original air date": "5 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Dom faces his greatest fear when he must get up close and personal with hundreds of thousands of giant Malaysian honey bees - a formidable insect that lives in hives hundreds of feet above the jungle floor.    "
+                },
+                "8": {
+                    "title": "Guatemala: Beaded Lizard",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 15,
+                    "original air date": "12 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Dom travels to Guatemala and immerses himself in the rich world of Mayan legend and lore as he seeks out one of the most endangered and venomous reptiles on the planet - the Guatemalan beaded lizard.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Kenya: Giant Spitting Cobra",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 15,
+                    "original air date": "25 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Dominic heads to Kenya - the heart of safari country - to track down the incredible giant spitting cobra. Capable of blasting cornea-melting venom and delivering a bite lethal enough to kill more than 20 people, this might be his most dangerous mission to date. But the cobra isn't his only worry on this adventure. While on his search, Dominic and cameraman Frank have their closest call ever when a six-ton elephant charges and almost tramples them after they stop to help perform life-saving field surgery on the wounded animal.    "
+                },
+                "2": {
+                    "title": "Australia: Ghost Bat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 16,
+                    "original air date": "1 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Dominic endures the scorching heat of the vast Australian Outback to locate one of the rarest bats on the planet - the ghost bat. The creature gets its name from its translucent white wings that make it look ghostly as it flies through the moonlight. To find them, Dominic has to crawl on his belly to fit into incredibly tight and pitch black spaces. One wrong step can mean disaster. The Northern Territory's premiere bat expert, Dr. Damien Milne joins him on this dark search.    "
+                },
+                "3": {
+                    "title": "Costa Rica: Lemur Leaf Frog",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 15,
+                    "original air date": "8 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Dominic touches down in Costa Rica, home to more than a half-million known species of animal, including the extremely endangered, but incredibly beautiful, Lemur Leaf Frog - a thumbnail-sized master of camouflage. Dominic has to trek through the most remote stretches of Costa Rican jungle filled with predators to find the elusive creature. Meanwhile, he engages in a bit of fun playing on the monkey bars with a monkey and surfs the challenging Costa Rican coast.    "
+                },
+                "4": {
+                    "title": "Zambia: Gaboon Viper",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 11,
+                    "original air date": "15 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Dominic is in Zambia on a mission to find one of the most feared snakes on the planet, the enormous and deadly gaboon viper. Armed with an incredibly fast strike, the gaboon viper wields the longest fangs of any poisonous snake - two-inch long swiveling switchblades that deliver more venom in one bite than any other snake on Earth. He and local snake expert Morgan, travel by boat up the mighty Zambezi River, navigating his way through dangerous pods of hippos and Nile crocodiles, and through the Zambian forest - home to a group of very rare white rhinos and villagers ...    "
+                },
+                "5": {
+                    "title": "Brazil: The Titan Beetle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 13,
+                    "original air date": "22 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Dominic sails the mighty Amazon River on a mission to find the largest beetle on the planet - the titan beetle. This massive insect can grow up to seven inches in length and wields mandibles so strong and sharp, it can snap a pencil in half. To find this rare and elusive beetle he has to venture into the remote corners of the Brazilian jungle. Along the way, he wrestles with a mighty green anaconda he encounters on the river. Dominic also visits a remote village in the rainforest, where he befriends a group of small children and gets his face painted with the seeds of...    "
+                },
+                "6": {
+                    "title": "Australia: Box Jellyfish",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 13,
+                    "original air date": "29 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    In his first underwater mission ever, Dominic heads to Australia's legendary Great Barrier Reef to track down perhaps the most venomous creature in the ocean, the deadly box jellyfish. Responsible for more deaths than sharks and crocodiles combined, this creature is armed with potent venom that can stop the human heart in seconds.    "
+                },
+                "7": {
+                    "title": "New Zealand: The Giant Wetapunga",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 24,
+                    "original air date": "6 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Dominic is in New Zealand on a mission to find one of the largest and heaviest insects on earth, the very rare and very cool giant wetapunga - the largest species of Wetas, found only in New Zealand. In a Wild Things twist, Dominic will be accompanied by his best friend and fellow hobbit, Billy Boyd. He and and Billy have not been in New Zealand together since they acted in The Lord of the Rings Trilogies. Together, Dom and Billy meet the incredible creatures endemic to the island and have a bit of fun in Hobbiton.    "
+                },
+                "8": {
+                    "title": "Arizona: The Gila Monster",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 18,
+                    "original air date": "13 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Dominic is in Arizona's Sonoran Desert, the most bio desert in all of North America - it's also one of the hottest. He's come here to explore more than a hundred thousand square miles of wild desert, on a mission to find one of America's most mythic creatures, the Gila Monster. It's the largest of its kind in North America - a gorgeous ground dwelling creature that packs one of only two venomous lizard bites in the whole world! On his trip around the desert, Dominic runs into other fascinating and dangerous creatures including the biggest species of rattlesnake in ...    "
+                },
+                "9": {
+                    "title": "Japan: Giant Salamander",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 22,
+                    "original air date": "20 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Dominic faces one of his most challenging missions ever when he travels to the Land of the Rising Sun in pursuit of the giant Japanese salamander. Measuring over five feet in length and tipping the scales at a whopping 50 pounds, these massive amphibians live and hunt in cold, fast-moving remote mountain streams.    "
+                },
+                "10": {
+                    "title": "Thailand: The Slow Loris",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 16,
+                    "original air date": "27 May 2014",
+                    "year": "2014",
+                    "plot": "\n    In the season finale, Dominic travels deep into the wilds of Thailand, searching for one of the most unique and endangered primates on the planet, the Slow Loris, the world's only venomous primate. It's a nocturnal, tree dwelling creature with enormous eyes that can see in the dark, and has one of the sweetest faces on the planet... but don't let that fool you.    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "Paradise in Palau",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Things with Dominic Monaghan (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "23 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Dominic Monaghan heads to Palau in search of the giant coconut crab, which can literally crack coconuts. He also dives into a lake teeming with millions of jellyfish and enters a cove where a species older than dinosaurs live.    "
+                }
+            }
+        },
+        "number of episodes": 32,
+        "cast": [
+            {
+                "name": "Monaghan, Dominic"
+            },
+            {
+                "name": "Bell, Dan"
+            },
+            {
+                "name": "Boyd, Billy"
+            },
+            {
+                "name": "de Nardo, Dale"
+            },
+            {
+                "name": "Lindsay, Peter"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 3,
+        "rating": 8.5,
+        "votes": 543,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjE5MzA4MTQ5Nl5BMl5BanBnXkFtZTgwNTQzOTAxMzE@._V1_SY150_CR49,0,101,150_.jpg",
+        "plot outline": "An exhilarating travel-adventure series that follows actor and wildlife enthusiast, Dominic Monaghan, as he explores the remote corners of the globe in search of some the most badass animals in the world. In each episode of the eight part series, Dominic takes the viewer along on an intimate journey as he backpacks through the rainforests of Ecuador, the caves of Venezuela, the arid deserts of Namibia and many more exotic locales - to get up close and personal with some of the most dangerous and elusive creatures known to man. Along the way, he'll encounter vibrant locals, quirky experts and a host of creatures that inhabit the strange and wonderfully wild places on our planet.",
+        "languages": [
+            "English"
+        ],
+        "title": "Wild Things with Dominic Monaghan",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "writer": [
+            {
+                "name": "Booi, Matt"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Channel Five"
+            },
+            {
+                "name": "Cream Productions"
+            },
+            {
+                "name": "OLN"
+            },
+            {
+                "name": "Wildfire Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Channel 5 Television"
+            },
+            {
+                "name": "BBC America"
+            }
+        ],
+        "plot": [
+            "An exhilarating travel-adventure series that follows actor and wildlife enthusiast, Dominic Monaghan, as he explores the remote corners of the globe in search of some the most badass animals in the world. In each episode of the eight part series, Dominic takes the viewer along on an intimate journey as he backpacks through the rainforests of Ecuador, the caves of Venezuela, the arid deserts of Namibia and many more exotic locales - to get up close and personal with some of the most dangerous and elusive creatures known to man. Along the way, he'll encounter vibrant locals, quirky experts and a host of creatures that inhabit the strange and wonderfully wild places on our planet.::BBC America"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 543,
+                "rating": 8.5
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "aged 18 29": {
+                "votes": 127,
+                "rating": 8.7
+            },
+            "aged 30 44": {
+                "votes": 206,
+                "rating": 8.3
+            },
+            "aged 45 plus": {
+                "votes": 79,
+                "rating": 8.5
+            },
+            "males": {
+                "votes": 295,
+                "rating": 8.2
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 18 29": {
+                "votes": 91,
+                "rating": 8.6
+            },
+            "males aged 30 44": {
+                "votes": 139,
+                "rating": 8.0
+            },
+            "males aged 45 plus": {
+                "votes": 47,
+                "rating": 8.2
+            },
+            "females": {
+                "votes": 145,
+                "rating": 9.1
+            },
+            "females aged 18 29": {
+                "votes": 36,
+                "rating": 9.2
+            },
+            "females aged 30 44": {
+                "votes": 65,
+                "rating": 9.1
+            },
+            "females aged 45 plus": {
+                "votes": 30,
+                "rating": 9.1
+            },
+            "top 1000 voters": {
+                "votes": 17,
+                "rating": 7.9
+            },
+            "us users": {
+                "votes": 169,
+                "rating": 8.6
+            },
+            "non us users": {
+                "votes": 167,
+                "rating": 8.1
+            }
+        },
+        "number of votes": {
+            "10": 215,
+            "9": 130,
+            "8": 108,
+            "7": 39,
+            "6": 19,
+            "5": 7,
+            "4": 7,
+            "3": 5,
+            "2": 4,
+            "1": 9
+        },
+        "arithmetic mean": 8.6,
+        "median": 9
+    }
+}

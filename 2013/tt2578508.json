@@ -1,0 +1,958 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "30 April 2013"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "7 October 2013"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "15 August 2014"
+            },
+            {
+                "country": "UK\n",
+                "date": "26 January 2015"
+            },
+            {
+                "country": "France\n",
+                "date": "18 December 2015"
+            }
+        ],
+        "release dates": [
+            "USA::30 April 2013",
+            "Sweden::7 October 2013",
+            "Netherlands::15 August 2014",
+            "UK::26 January 2015",
+            "France::18 December 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Inside Amy Schumer"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Amynek áll a világ"
+            },
+            {
+                "countries": "Russia",
+                "title": "Внутри Эми Шумер"
+            }
+        ],
+        "akas": [
+            "Inside Amy Schumer (original title)",
+            "Amynek áll a világ Hungary",
+            "Внутри Эми Шумер Russia"
+        ],
+        "akas from release info": [
+            "Inside Amy Schumer (original title)",
+            "Amynek áll a világ Hungary",
+            "Внутри Эми Шумер Russia"
+        ],
+        "episodes": {
+            "4": {
+                "1": {
+                    "title": "The World's Most Interesting Woman in the World",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "votes": 122,
+                    "original air date": "21 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Amy raps for Lin-Manuel Miranda, avoids sex with her boyfriend and loses an eye.    "
+                },
+                "2": {
+                    "title": "Welcome to the Gun Show",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "votes": 112,
+                    "original air date": "28 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Amy sells guns, appears on \"Game of Thrones\" and tries to convince Liam Neeson to bury her loved one.    "
+                },
+                "3": {
+                    "title": "Brave",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "votes": 114,
+                    "original air date": "5 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Amy wins an Oscar, finds out how to get what she wants and eats pasta from the garbage.    "
+                },
+                "4": {
+                    "title": "Madame President",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 4,
+                    "votes": 103,
+                    "original air date": "12 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Amy plays the saxophone, tries to buy a shirt and gets elected President of the United States.    "
+                },
+                "5": {
+                    "title": "Madonna/Whore",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 5,
+                    "votes": 98,
+                    "original air date": "19 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Amy goes on a bus tour, doesn't get laid and has her arm sewn to her face.    "
+                },
+                "6": {
+                    "title": "Fame",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 6,
+                    "votes": 111,
+                    "original air date": "26 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Amy falls in love with a chef, jumps out of a blimp and has her leg eaten off.    "
+                },
+                "7": {
+                    "title": "Psychopath Test",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 7,
+                    "votes": 90,
+                    "original air date": "2 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Amy appears on a sitcom, shoots a commercial and has a rough birthing process.    "
+                },
+                "8": {
+                    "title": "Everyone for Themselves",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 8,
+                    "votes": 93,
+                    "original air date": "9 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Amy visits her gynecologist, seeks help for her lizard and fears her baby might be an asshole.    "
+                },
+                "9": {
+                    "title": "Rubbing Our Clips",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 9,
+                    "votes": 94,
+                    "original air date": "16 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Andy Cohen guest hosts and presents clips from all four seasons of the program.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Bad Decisions",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 226,
+                    "original air date": "30 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    Amy regrets having a one night stand, getting on a plane, and auditioning for \"2 Girls 1 Cup.\"    "
+                },
+                "2": {
+                    "title": "Real Sext",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 173,
+                    "original air date": "7 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Amy tries to figure out sexting, visits a testicle-themed restaurant, and interviews a stripper.    "
+                },
+                "3": {
+                    "title": "A Porn Star Is Born",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 159,
+                    "original air date": "14 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Amy quits her job as a porn star, refuses to accept a compliment, and finds out her boyfriend has AIDS.    "
+                },
+                "4": {
+                    "title": "The Horror",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 151,
+                    "original air date": "21 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Amy gets a terrible haircut, farts when she gets scared, and makes out with Amber Tamblyn.    "
+                },
+                "5": {
+                    "title": "Gang Bang",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 146,
+                    "original air date": "28 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Amy hosts her own gang bang, gives her friend a vibrator, and uses cancer as an excuse to cancel plans.    "
+                },
+                "6": {
+                    "title": "Meth Lab",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 143,
+                    "original air date": "4 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Amy tries to maintain her makeover, cooks meth, and gets the food slapped out of her dumb mouth.    "
+                },
+                "7": {
+                    "title": "Unpleasant Truths",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 134,
+                    "original air date": "11 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Amy has multiple personalities, loses it on her boyfriend, and gets molested.    "
+                },
+                "8": {
+                    "title": "Clown Panties",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 146,
+                    "original air date": "18 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Amy catches her boyfriend cheating, fights an addiction, and roasts a 12-year-old.    "
+                },
+                "9": {
+                    "title": "Terrible People",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 124,
+                    "original air date": "25 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Amy lies to get out of a charity event, wears a catsuit, and conjures Dave Attell.    "
+                },
+                "10": {
+                    "title": "Sex Tips",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 137,
+                    "original air date": "2 Jul. 2013",
+                    "year": "2013",
+                    "plot": "\n    Amy wakes up in bed with 2 guys, tries to discover the perfect sex tip, and competes on a reality show.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "You Would Bang Her?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 129,
+                    "original air date": "1 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Amy marries a Black guy, loses a tennis match, and gets herpes.    "
+                },
+                "2": {
+                    "title": "I'm So Bad",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 128,
+                    "original air date": "8 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Amy goes to prom, plays a violent video game, and eats a guy's face.    "
+                },
+                "3": {
+                    "title": "A Chick Who Can Hang",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 112,
+                    "original air date": "15 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Amy sails to India, flirts with a co-worker, and goes to the can to make some room.    "
+                },
+                "4": {
+                    "title": "Boner Doctor",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 109,
+                    "original air date": "22 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Amy stays at a luxurious hotel, starts a delusional diet, and gets therapy from supermodel Chrissy Teigen.    "
+                },
+                "5": {
+                    "title": "Allergic to Nuts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 109,
+                    "original air date": "29 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Amy judges strippers, lands a big movie role, and bangs a magician.    "
+                },
+                "6": {
+                    "title": "Down for Whatever",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 105,
+                    "original air date": "6 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Amy objects to a wedding, breaks up with her boyfriend, and screams at a turtle.    "
+                },
+                "7": {
+                    "title": "Slow Your Roll",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 107,
+                    "original air date": "13 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Amy meets a skeleton, a few serial killers, and a vulgar interior designer.    "
+                },
+                "8": {
+                    "title": "Tyler Perry's Episode",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 114,
+                    "original air date": "20 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Amy browses her boyfriend's search history, loses what makes her a woman, and has a meltdown on television.    "
+                },
+                "9": {
+                    "title": "Raise a Glass",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 112,
+                    "original air date": "27 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Amy competes in a drunk cooking competition, holds a press conference to address a disastrous bachelorette party and delivers a obnoxious wedding toast.    "
+                },
+                "10": {
+                    "title": "Slut-Shaming",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 109,
+                    "original air date": "3 Jun. 2014",
+                    "year": "2014",
+                    "plot": "\n    Amy meets the press, gets ready for sex, and watches her boyfriend turn gay.    "
+                }
+            },
+            "3": {
+                "1": {
+                    "title": "Last F... Able Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 278,
+                    "original air date": "21 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Amy meets her heroes; tries to get birth control; explains where her poop comes out.    "
+                },
+                "2": {
+                    "title": "Cool with It",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 181,
+                    "original air date": "28 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Amy takes off her makeup; going out to a strip club; Amy dates a rap star.    "
+                },
+                "3": {
+                    "title": "12 Angry Men Inside Amy Schumer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 687,
+                    "original air date": "5 May 2015",
+                    "year": "2015",
+                    "plot": "\n    An all-male jury argues over Amy's fate.    "
+                },
+                "4": {
+                    "title": "I'm Sorry",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 149,
+                    "original air date": "12 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Amy directs a pizza commercial, interviews a gigolo and apologizes for everything.    "
+                },
+                "5": {
+                    "title": "Babies & Bustiers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 130,
+                    "original air date": "19 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Amy competes in a pageant; breastfeeding a dog; enjoying a pla-dow.    "
+                },
+                "6": {
+                    "title": "80s Ladies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 138,
+                    "original air date": "26 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Amy rides a mechanical bull, steals a credit card and defends Bill Cosby.    "
+                },
+                "7": {
+                    "title": "Fight Like a Girl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 126,
+                    "original air date": "2 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    Amy gets a mail-order husband; the art of female emotional combat; Amy strips for dogs.    "
+                },
+                "8": {
+                    "title": "Foam",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 121,
+                    "original air date": "23 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    Amy falls in love with her barista, confronts her therapist about her mother and gets decapitated.    "
+                },
+                "9": {
+                    "title": "Wingwoman",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 103,
+                    "original air date": "30 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    Amy travels through time, listens to terrible stories and gives an entire town the clap.    "
+                },
+                "10": {
+                    "title": "3 Buttholes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside Amy Schumer (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 112,
+                    "original air date": "7 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    Amy dates a guy with a British accent and has too many buttholes.    "
+                }
+            }
+        },
+        "number of episodes": 39,
+        "cast": [
+            {
+                "name": "Schumer, Amy"
+            },
+            {
+                "name": "Kane, Kevin"
+            },
+            {
+                "name": "Dunnigan, Kyle"
+            },
+            {
+                "name": "Caramele, Kim"
+            },
+            {
+                "name": "Everett, Bridget"
+            },
+            {
+                "name": "Wolf, Meghan"
+            },
+            {
+                "name": "Houston, Mike"
+            },
+            {
+                "name": "Champagne, Margaret Rose"
+            },
+            {
+                "name": "Lee, Greta"
+            },
+            {
+                "name": "Edwards, Grace"
+            },
+            {
+                "name": "Norton, Jim"
+            },
+            {
+                "name": "Metzger, Kurt"
+            },
+            {
+                "name": "Beetem, Chris"
+            },
+            {
+                "name": "Tamblyn, Amber"
+            },
+            {
+                "name": "Chamberlain, Karen"
+            },
+            {
+                "name": "Sherman, Luke Tomalin"
+            },
+            {
+                "name": "Mehta, Nina"
+            },
+            {
+                "name": "Grant, Robert Z."
+            },
+            {
+                "name": "Feinstein, Rachel"
+            },
+            {
+                "name": "O'Brien, Alana"
+            },
+            {
+                "name": "Farrell, Ryan"
+            },
+            {
+                "name": "Normand, Mark"
+            },
+            {
+                "name": "Torpey, Michael"
+            },
+            {
+                "name": "Glaser, Jon"
+            },
+            {
+                "name": "Casey, Neil"
+            },
+            {
+                "name": "Muhammad, Khalil"
+            },
+            {
+                "name": "Poor, Bray"
+            },
+            {
+                "name": "Florentine, Jim"
+            },
+            {
+                "name": "Norwell, Johnny"
+            },
+            {
+                "name": "Beiler, Jeremy"
+            },
+            {
+                "name": "Garrett, Booker"
+            },
+            {
+                "name": "Coots, Joe"
+            },
+            {
+                "name": "Glaser, Nikki"
+            },
+            {
+                "name": "Charles, Josh"
+            },
+            {
+                "name": "Dratch, Rachel"
+            },
+            {
+                "name": "Black, Michael Ian"
+            },
+            {
+                "name": "Kohli, Rock"
+            },
+            {
+                "name": "Powell, Daniel"
+            },
+            {
+                "name": "Rooks, Joel"
+            },
+            {
+                "name": "O'Doherty, Claudia"
+            },
+            {
+                "name": "Pyle, Missi"
+            },
+            {
+                "name": "Eustace, Vince"
+            },
+            {
+                "name": "Bonck, Patrick"
+            },
+            {
+                "name": "Gruen, Swann"
+            },
+            {
+                "name": "Hanson, Dave"
+            },
+            {
+                "name": "O'Gorman, Mike"
+            },
+            {
+                "name": "Snider, Brandon T."
+            },
+            {
+                "name": "Soder, Dan"
+            },
+            {
+                "name": "Klein, Jessi"
+            },
+            {
+                "name": "Yard, Mike"
+            }
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "22"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Australia:MA15+",
+            "Canada:14A::(Manitoba)",
+            "Canada:18A::(Ontario)",
+            "Canada:16+::(Quebec)",
+            "Netherlands:AL",
+            "Netherlands:12",
+            "New Zealand:R18",
+            "United States:TV-14",
+            "United States:TV-MA"
+        ],
+        "number of seasons": 4,
+        "rating": 6.1,
+        "votes": 10769,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjMxOTg3NzczM15BMl5BanBnXkFtZTgwNDk1OTk4NTE@._V1_SY150_CR5,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Inside Amy Schumer",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "writer": [
+            {
+                "name": "Dunnigan, Kyle"
+            },
+            {
+                "name": "Klein, Jessi"
+            },
+            {
+                "name": "Metzger, Kurt"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Irony Point"
+            },
+            {
+                "name": "Jax Media"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Comedy Central"
+            },
+            {
+                "name": "Comedy Central"
+            },
+            {
+                "name": "MTV France"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Great City Post"
+            },
+            {
+                "name": "GreenSlate"
+            },
+            {
+                "name": "HUB International Insurance Services"
+            },
+            {
+                "name": "Helen Uffner Vintage Clothing"
+            },
+            {
+                "name": "Sessions Payroll Management"
+            }
+        ],
+        "plot": [
+            "Amy Schumer switches from sketches, doing stand up, to interviewing people on the street and people of interest usually following a certain theme.::Aidan Carroll"
+        ],
+        "tech": {
+            "runtime": [
+                "22 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 10769,
+                "rating": 6.1
+            },
+            "aged under 18": {
+                "votes": 8,
+                "rating": 4.3
+            },
+            "aged 18 29": {
+                "votes": 2500,
+                "rating": 6.4
+            },
+            "aged 30 44": {
+                "votes": 4012,
+                "rating": 6.4
+            },
+            "aged 45 plus": {
+                "votes": 1367,
+                "rating": 5.8
+            },
+            "males": {
+                "votes": 5938,
+                "rating": 5.9
+            },
+            "males aged under 18": {
+                "votes": 6,
+                "rating": 4.5
+            },
+            "males aged 18 29": {
+                "votes": 1624,
+                "rating": 5.9
+            },
+            "males aged 30 44": {
+                "votes": 2859,
+                "rating": 6.0
+            },
+            "males aged 45 plus": {
+                "votes": 1011,
+                "rating": 5.7
+            },
+            "females": {
+                "votes": 2403,
+                "rating": 7.3
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 2.0
+            },
+            "females aged 18 29": {
+                "votes": 833,
+                "rating": 7.3
+            },
+            "females aged 30 44": {
+                "votes": 1091,
+                "rating": 7.5
+            },
+            "females aged 45 plus": {
+                "votes": 332,
+                "rating": 6.4
+            },
+            "top 1000 voters": {
+                "votes": 158,
+                "rating": 5.7
+            },
+            "us users": {
+                "votes": 3263,
+                "rating": 6.3
+            },
+            "non us users": {
+                "votes": 3162,
+                "rating": 6.3
+            }
+        },
+        "number of votes": {
+            "10": 1559,
+            "9": 1146,
+            "8": 1992,
+            "7": 1560,
+            "6": 698,
+            "5": 346,
+            "4": 233,
+            "3": 214,
+            "2": 318,
+            "1": 2703
+        },
+        "arithmetic mean": 5.9,
+        "median": 7
+    }
+}

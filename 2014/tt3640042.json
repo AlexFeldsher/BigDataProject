@@ -1,0 +1,363 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "31 March 2014"
+            },
+            {
+                "country": "Finland\n",
+                "date": "8 June 2014"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "8 June 2014"
+            }
+        ],
+        "release dates": [
+            "USA::31 March 2014",
+            "Finland::8 June 2014",
+            "Netherlands::8 June 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "House of Food"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Quero Ser Chef"
+            },
+            {
+                "countries": "Italy",
+                "title": "House of Food - Principianti in cucina"
+            }
+        ],
+        "akas": [
+            "House of Food (original title)",
+            "Quero Ser Chef Brazil",
+            "House of Food - Principianti in cucina Italy"
+        ],
+        "akas from release info": [
+            "House of Food (original title)",
+            "Quero Ser Chef Brazil",
+            "House of Food - Principianti in cucina Italy"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Launch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "House of Food (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "31 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Seven untrained culinary students meet their chef/mentors and cook them their personality on a plate. After realizing how much hard work is required to become a chef, Amanda questions whether she has what it takes.    "
+                },
+                "2": {
+                    "title": "Greasy Spoon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "House of Food (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "7 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    The students must start from the bottom up, learning how to survive the fast paced diner environment. A new student arrives which makes the rest of the house wonders if Amanda is gone for good.    "
+                },
+                "3": {
+                    "title": "All About the Heat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "House of Food (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "14 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    The students learn about flavor profiles where they must use the five tastes in a challenge. Things start to get heated when a fight breaks out in the middle of a knife lesson.    "
+                },
+                "4": {
+                    "title": "Sensory Overload",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "House of Food (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "21 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    The students learn about flavor profiles where they must use the five tastes in a challenge. Tension soars when the house is divided, a food fight ensues, and the house turns on Harrison.    "
+                },
+                "5": {
+                    "title": "Big Beef",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "House of Food (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "29 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    The students learn how to cook the perfect medium rare steak. Harrison tries to earn his way back in to the house after his blow up.    "
+                },
+                "6": {
+                    "title": "Scale Back",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "House of Food (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "6 May 2014",
+                    "year": "2014",
+                    "plot": "\n    The students compete in a seafood challenge. What they don't know is they will be paired with some of their least favorite house mates. Suki and Will's friendship starts to fracture when they compete head to head.    "
+                },
+                "7": {
+                    "title": "Sweet Relief",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "House of Food (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "13 May 2014",
+                    "year": "2014",
+                    "plot": "\n    The students compete to make the most decadent dessert which will be featured on Sweet E's Bake Shop Menu. Meanwhile, tension rises between Will and Suki.    "
+                },
+                "8": {
+                    "title": "Cater to the Crowd",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "House of Food (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "19 May 2014",
+                    "year": "2014",
+                    "plot": "\n    The students learn about the catering business where they compete to make 500 appetizers each for the LA Auto Show. Will finally confronts Suki resulting in a fight with Amanda.    "
+                },
+                "9": {
+                    "title": "Wash It Down",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "House of Food (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "3 Aug. 2014",
+                    "year": "2014",
+                    "plot": "\n    The students travel on a party bus to each of the chef's restaurants to learn about food and drink pairing. At the house, Coach Chris tells the students to prepare a brunch for their family and friends, who are arriving shortly for a visit.    "
+                },
+                "10": {
+                    "title": "Truck Amuck",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "House of Food (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "3 Jun. 2014",
+                    "year": "2014",
+                    "plot": "\n    Chef Brooke explains to the students the ins and outs of creating and running a food truck. She then splits the students into two teams: boys vs. girls. to compete to see who can create the best food truck dining experience for the lunchtime crowd.    "
+                },
+                "11": {
+                    "title": "Two Down",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "House of Food (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "16 Jun. 2014",
+                    "year": "2014",
+                    "plot": "\n    The competition heats up as the cast competes in individualized interviews and signature dish preparation.    "
+                },
+                "12": {
+                    "title": "One to Go",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "House of Food (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "16 Jun. 2014",
+                    "year": "2014",
+                    "plot": "\n    The final three contestants compete for the grand prize.    "
+                }
+            }
+        },
+        "number of episodes": 12,
+        "cast": [
+            {
+                "name": "Jean, Amanda"
+            },
+            {
+                "name": "Weber, Jacob"
+            },
+            {
+                "name": "Collins, Brendan"
+            },
+            {
+                "name": "Lane, Casey"
+            },
+            {
+                "name": "Nirschel, Chris"
+            },
+            {
+                "name": "Williamson, Brooke"
+            }
+        ],
+        "genres": [
+            "Reality-TV"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 6.4,
+        "votes": 57,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNDUyNTA4OTc5M15BMl5BanBnXkFtZTgwNDQxNDAxMzE@._V1_SY150_CR49,0,101,150_.jpg",
+        "budget": "$6,000,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "House of Food",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Duffy, Mike"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "T Group Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "MTV Networks"
+            },
+            {
+                "name": "Music Television (MTV)"
+            },
+            {
+                "name": "MTV Netherlands"
+            }
+        ],
+        "plot": [
+            "MTV's '_House of Food_ (qv)' is a drama-infused take on food TV where a group of young aspiring chefs with no formal culinary training are put to the ultimate challenge."
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 57,
+                "rating": 6.4
+            },
+            "aged 18 29": {
+                "votes": 15,
+                "rating": 6.1
+            },
+            "aged 30 44": {
+                "votes": 23,
+                "rating": 5.4
+            },
+            "aged 45 plus": {
+                "votes": 8,
+                "rating": 5.2
+            },
+            "males": {
+                "votes": 30,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 9,
+                "rating": 6.3
+            },
+            "males aged 30 44": {
+                "votes": 13,
+                "rating": 5.5
+            },
+            "males aged 45 plus": {
+                "votes": 4,
+                "rating": 5.8
+            },
+            "females": {
+                "votes": 19,
+                "rating": 5.0
+            },
+            "females aged 18 29": {
+                "votes": 5,
+                "rating": 5.6
+            },
+            "females aged 30 44": {
+                "votes": 10,
+                "rating": 5.4
+            },
+            "females aged 45 plus": {
+                "votes": 4,
+                "rating": 3.2
+            },
+            "top 1000 voters": {
+                "votes": 2,
+                "rating": 2.5
+            },
+            "us users": {
+                "votes": 16,
+                "rating": 4.9
+            },
+            "non us users": {
+                "votes": 21,
+                "rating": 5.9
+            }
+        },
+        "number of votes": {
+            "10": 13,
+            "9": 2,
+            "8": 6,
+            "7": 12,
+            "6": 5,
+            "5": 5,
+            "4": 2,
+            "3": 4,
+            "2": 0,
+            "1": 8
+        },
+        "arithmetic mean": 6.4,
+        "median": 7
+    }
+}

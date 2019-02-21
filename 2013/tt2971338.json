@@ -1,0 +1,110 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "May 2013"
+            },
+            {
+                "country": "USA\n",
+                "date": "August 2014"
+            }
+        ],
+        "release dates": [
+            "USA::May 2013",
+            "USA::August 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Cease Control"
+            },
+            {
+                "title": "The Controller"
+            }
+        ],
+        "akas": [
+            "Cease Control (original title)",
+            "The Controller "
+        ],
+        "akas from release info": [
+            "Cease Control (original title)",
+            "The Controller "
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cease Control (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "Aug. 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Dulay, Izzy"
+            },
+            {
+                "name": "Dulay, Rich"
+            }
+        ],
+        "genres": [
+            "Action",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Cease Control",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Moore, Tyler W."
+            },
+            {
+                "name": "Tranter, Martyn"
+            },
+            {
+                "name": "Dulay, Izzy"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Night Wolf Studio"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

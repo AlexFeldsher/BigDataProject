@@ -1,0 +1,121 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "France\n",
+                "date": "23 December 2012"
+            }
+        ],
+        "release dates": [
+            "France::23 December 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Un chef à emporter"
+            },
+            {
+                "countries": "Germany",
+                "title": "Es ist angerichtet"
+            }
+        ],
+        "akas": [
+            "Un chef à emporter (original title)",
+            "Es ist angerichtet Germany"
+        ],
+        "akas from release info": [
+            "Un chef à emporter (original title)",
+            "Es ist angerichtet Germany"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Sebastian Frank",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Un chef à emporter (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "24 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Frank, Sebastian"
+            },
+            {
+                "name": "Puglisi, Christian F."
+            },
+            {
+                "name": "Renaut, Emmanuel"
+            },
+            {
+                "name": "Shewry, Ben"
+            },
+            {
+                "name": "Veyrat, Marc"
+            },
+            {
+                "name": "Wetzel, Blaine"
+            }
+        ],
+        "genres": [
+            "Documentary",
+            "Biography"
+        ],
+        "runtimes": [
+            "5"
+        ],
+        "countries": [
+            "France"
+        ],
+        "country codes": [
+            "fr"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "languages": [
+            "French"
+        ],
+        "title": "Un chef à emporter",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "writer": [
+            {
+                "name": "Cardo, Colin Solal"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Arte"
+            },
+            {
+                "name": "La Blogothèque"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Arte"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "5 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

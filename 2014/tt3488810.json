@@ -1,0 +1,103 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Mexico\n",
+                "date": "25 November 2014"
+            }
+        ],
+        "release dates": [
+            "Mexico::25 November 2014"
+        ],
+        "episodes": {
+            "1": {
+                "12": {
+                    "title": "Xkopchen Mon Amour",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Los Mayas son Eternos (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "Telón de Viento",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Los Mayas son Eternos (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "locations": [
+            "Campeche, Mexico::(location)",
+            "Yucatán, Mexico::(location)"
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "countries": [
+            "Mexico"
+        ],
+        "country codes": [
+            "mx"
+        ],
+        "language codes": [
+            "es"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo::(RCA Sound Recording)"
+        ],
+        "number of seasons": 1,
+        "budget": "MXN250,000 (estimated)",
+        "languages": [
+            "Spanish"
+        ],
+        "title": "Los Mayas son Eternos",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-",
+        "akas": [
+            "Los Mayas son Eternos (Mexico)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "L-Mento Entertainment"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "L-Mento Entertainment"
+            }
+        ],
+        "tech": {
+            "sound mix": [
+                "Stereo (RCA Sound Recording)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

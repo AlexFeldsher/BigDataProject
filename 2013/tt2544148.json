@@ -1,0 +1,709 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Turkey\n",
+                "date": "1 January 2013"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "22 July 2013",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "23 July 2013",
+                "notes": "                            (part 2)"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "24 July 2013",
+                "notes": "                            (part 3)"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "13 January 2014"
+            }
+        ],
+        "release dates": [
+            "Turkey::1 January 2013",
+            "Hungary::22 July 2013                            (part 1)",
+            "Hungary::23 July 2013                            (part 2)",
+            "Hungary::24 July 2013                            (part 3)",
+            "Sweden::13 January 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "20 Dakika"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Egy ellopott élet"
+            },
+            {
+                "countries": "Iran (Persian title) (alternative title)",
+                "title": "20 Daqiqa"
+            },
+            {
+                "countries": "Romania",
+                "title": "20 de minute"
+            },
+            {
+                "countries": "Russia",
+                "title": "20 минут"
+            },
+            {
+                "countries": "Sweden (alternative title)",
+                "title": "20 Minuter"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "20 Minutes"
+            }
+        ],
+        "akas": [
+            "20 Dakika (original title)",
+            "Egy ellopott élet Hungary",
+            "20 Daqiqa Iran (Persian title) (alternative title)",
+            "20 de minute Romania",
+            "20 минут Russia",
+            "20 Minuter Sweden (alternative title)",
+            "20 Minutes World-wide (English title)"
+        ],
+        "akas from release info": [
+            "20 Dakika (original title)",
+            "Egy ellopott élet Hungary",
+            "20 Daqiqa Iran (Persian title) (alternative title)",
+            "20 de minute Romania",
+            "20 минут Russia",
+            "20 Minuter Sweden (alternative title)",
+            "20 Minutes World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Demirbahce",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 19,
+                    "original air date": "1 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Rumelihan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 16,
+                    "original air date": "8 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Cellat Cesmesi",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 12,
+                    "original air date": "15 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Kanli Kuyu",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 13,
+                    "original air date": "22 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Cihangir Camii",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 13,
+                    "original air date": "29 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Vefa",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 13,
+                    "original air date": "5 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Nika",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 12,
+                    "original air date": "12 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Kagithane",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 13,
+                    "original air date": "19 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "Mihrimah Sultan Camii",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 14,
+                    "original air date": "26 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "Sevda Tepesi",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 11,
+                    "original air date": "5 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "11": {
+                    "title": "Tophane",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 12,
+                    "original air date": "12 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "Kanli Cinar",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 11,
+                    "original air date": "19 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "13": {
+                    "title": "Kiz Kulesi",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 12,
+                    "original air date": "2 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "14": {
+                    "title": "Canfeda",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 12,
+                    "original air date": "9 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "15": {
+                    "title": "Yildiz Sarayi",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 12,
+                    "original air date": "16 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "16": {
+                    "title": "Feriye Sarayi",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 11,
+                    "original air date": "23 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "17": {
+                    "title": "Sahrayicedid",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 10,
+                    "original air date": "30 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "18": {
+                    "title": "Esma Sultan Yalisi",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 9,
+                    "original air date": "7 May 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "19": {
+                    "title": "Vanikoy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 10,
+                    "original air date": "16 May 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "20": {
+                    "title": "Kirmizi Yali",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 10,
+                    "original air date": "23 May 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "21": {
+                    "title": "Agora Meyhanesi",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "votes": 10,
+                    "original air date": "30 May 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "22": {
+                    "title": "Eskihisar",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "votes": 11,
+                    "original air date": "6 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "23": {
+                    "title": "Bursa",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 23,
+                    "votes": 11,
+                    "original air date": "13 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "24": {
+                    "title": "Galata Köprüsü",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 24,
+                    "votes": 10,
+                    "original air date": "20 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "25": {
+                    "title": "Istanbul",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "20 Minutes (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 25,
+                    "votes": 12,
+                    "original air date": "27 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 25,
+        "cast": [
+            {
+                "name": "Büyüküstün, Tuba"
+            },
+            {
+                "name": "Aksum, Ilker"
+            },
+            {
+                "name": "Çelik, Firat"
+            },
+            {
+                "name": "Karacaoglu, Günay"
+            },
+            {
+                "name": "Uzman, Müjde"
+            },
+            {
+                "name": "Esen, Mehmet"
+            },
+            {
+                "name": "Saritas, Tolga"
+            },
+            {
+                "name": "Kayalar, Defne"
+            },
+            {
+                "name": "Bilgin, Ipek"
+            },
+            {
+                "name": "Deniz, Nilay"
+            },
+            {
+                "name": "Nalci, Özgür Ege"
+            },
+            {
+                "name": "Tamer, Cihat"
+            },
+            {
+                "name": "Uncuoglu, Ayten"
+            },
+            {
+                "name": "Yarar, Bülent Emin"
+            },
+            {
+                "name": "Akay, Miray"
+            },
+            {
+                "name": "Prosçiler, Murat"
+            },
+            {
+                "name": "Çekmez, Metin"
+            },
+            {
+                "name": "Türay, Özlem"
+            },
+            {
+                "name": "Akkaya, Esra"
+            },
+            {
+                "name": "Akkaya, Begüm"
+            },
+            {
+                "name": "Aybar, Enis"
+            },
+            {
+                "name": "Merhart, Lorin"
+            },
+            {
+                "name": "Çakir, Ushan"
+            },
+            {
+                "name": "Aytaç, Kimya Gökçe"
+            },
+            {
+                "name": "Catalcam, Eda"
+            },
+            {
+                "name": "Yörük, Burak"
+            }
+        ],
+        "locations": [
+            "Istanbul, Turkey"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "Romance"
+        ],
+        "runtimes": [
+            "90"
+        ],
+        "countries": [
+            "Turkey"
+        ],
+        "country codes": [
+            "tr"
+        ],
+        "language codes": [
+            "tr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "number of seasons": 1,
+        "rating": 7.0,
+        "votes": 1247,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTQxNjY0Mjk4NV5BMl5BanBnXkFtZTcwNDA0OTgxOQ@@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "20 Minutes tells the story of a mild-mannered history teacher.Ali,who is thrown into a World of action and intrigue when his beloved wife Melek is arrested fort he attempted murder of a young man-Kerim. Ali must abandon his boks and find inner strength and courage that he did not know he had in order to free his wife and reclaim his family life. Ali and Melek are a happy couple. She runs a succesful bakery and is a very practical woman who manages their family life. She compensates a little for Ali, who is the opposite: an absent-minded academic who is obsessed with his subject. But they are a loving couple and happy with their children: Duru, their early teens daughter and Yagiz, their youngest son, who is diabetic. On a day when the family is celebrating moving into their new house, there is a knock on the door and the nightmare begins.It's not new neighbours and well-wishers who are at the door, but the police, who quickly arrest Melek for the attempted murder of Kerim solmaz-the son of a powerful and corrupt man: The ex-Mayor Necmettin.He does not love many things, this man, but he loves his son and is determined to destroy Melek's life, because he holds her responsible for what has happened to him. Parallel stories unfold: ali tries to cope with holding together his family. But his children have their own problems and need their mother.He finds it difficult to provide for their practical and emotional needs while he tries to figure out what to do. He can not believe that Melek is guilty. Her conviction is based on physical evidence and coincidence. He tries to have faith that when the young man wakes up, he will tell the truth about who tried to kill him.but Kerim shows no signs of making up. Meanwhile, in jai, Melek is having a very hard time. She is picked out for harsh treatment by the deputy warden Sureyya, who has links with Necmettin and acts on his instructions. She suffers, but finds some people who support her in prison among the other inmates. From them, she starts to learn things that suggest a pattern to her.Her situation and the situation of others in the prison are linked.",
+        "languages": [
+            "Turkish"
+        ],
+        "title": "20 Minutes",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-2013",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Bulut, Pinar"
+            },
+            {
+                "name": "Deren, Kerem"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Ay Yapim"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Express Entertainment"
+            },
+            {
+                "name": "Kana TV"
+            },
+            {
+                "name": "MBC1 Network"
+            },
+            {
+                "name": "Nex1"
+            },
+            {
+                "name": "SVT"
+            },
+            {
+                "name": "Star TV"
+            },
+            {
+                "name": "SuperTV2"
+            },
+            {
+                "name": "TV9"
+            }
+        ],
+        "plot": [
+            "An innocent pastrycook Melek gets accused of injuring an important politician's son. Her loving husband Ali wants to help his wife to escape from prison.",
+            "_20 Minutes_ (qv) tells the story of a mild-mannered history teacher.Ali,who is thrown into a World of action and intrigue when his beloved wife Melek is arrested fort he attempted murder of a young man-Kerim. Ali must abandon his boks and find inner strength and courage that he did not know he had in order to free his wife and reclaim his family life. Ali and Melek are a happy couple. She runs a succesful bakery and is a very practical woman who manages their family life. She compensates a little for Ali, who is the opposite: an absent-minded academic who is obsessed with his subject. But they are a loving couple and happy with their children: Duru, their early teens daughter and Yagiz, their youngest son, who is diabetic. On a day when the family is celebrating moving into their new house, there is a knock on the door and the nightmare begins.It's not new neighbours and well-wishers who are at the door, but the police, who quickly arrest Melek for the attempted murder of Kerim solmaz-the son of a powerful and corrupt man: The ex-Mayor Necmettin.He does not love many things, this man, but he loves his son and is determined to destroy Melek's life, because he holds her responsible for what has happened to him. Parallel stories unfold: ali tries to cope with holding together his family. But his children have their own problems and need their mother.He finds it difficult to provide for their practical and emotional needs while he tries to figure out what to do. He can not believe that Melek is guilty. Her conviction is based on physical evidence and coincidence. He tries to have faith that when the young man wakes up, he will tell the truth about who tried to kill him.but Kerim shows no signs of making up. Meanwhile, in jai, Melek is having a very hard time. She is picked out for harsh treatment by the deputy warden Sureyya, who has links with Necmettin and acts on his instructions. She suffers, but finds some people who support her in prison among the other inmates. From them, she starts to learn things that suggest a pattern to her.Her situation and the situation of others in the prison are linked.::ahmetkozan"
+        ],
+        "synopsis": [
+            "Melek, Tuba Buyukustun, is a beautiful and young woman who has a happy life with her lovely husband and two children. She has a pastry shop and works all day to cook delicious cakes. Her husband Ali, lker Aksum, on the other hand, works at the university as a history teacher. One day, their perfect life turns upside down.\nThe day when they are celebrating buying a house, the door is knocked and the police arrests Melek for attempted murder. Everything develops so fast that neither Ali nor Melek understands what is going on. The police takes Melek to the police station and Ali cant do anything. This day transforms Alis life so radically that he will never be able to go back to the way he used to live and his whole life will change.\nMelek is convicted of murdering a young man and after a trial, she is sentenced to life prison. The police finds Meleks fingerprints on the murder weapon. Ali tries to prove the innocence of his wife and wants his life back. However, he could not find any evidence that can negate the evidence against her.\nAli becomes obsessed with the idea of breaking her wife out of jail. Although he is a decent and upright guy who has never broken any rule before, he decides to save his wife. He finds Kedi (Bulent Emin Yarar) who successfully escaped from prison several times and consults him to learn the way to escape from prison.\nIn this tv series, you will see the story of Melek and Ali who love each other to death and risk their lives for each other. You will explore how their perfect life changes in 20 minutes. Will Ali manage to discover the truth about this crime? Will the marriage of Ali and Melek stand for this devastated event? Will Ali and Melek be able to go back to the way they used to live? - turkishdrama.com"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr 30 min (90 min) (2015) (Turkey)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Arri Alexa"
+            ],
+            "negative format": [
+                "ProRes 4:4:4 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1247,
+                "rating": 7.0
+            },
+            "aged under 18": {
+                "votes": 4,
+                "rating": 8.0
+            },
+            "aged 18 29": {
+                "votes": 501,
+                "rating": 7.4
+            },
+            "aged 30 44": {
+                "votes": 260,
+                "rating": 6.1
+            },
+            "aged 45 plus": {
+                "votes": 69,
+                "rating": 6.3
+            },
+            "males": {
+                "votes": 565,
+                "rating": 6.7
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 319,
+                "rating": 7.3
+            },
+            "males aged 30 44": {
+                "votes": 167,
+                "rating": 6.0
+            },
+            "males aged 45 plus": {
+                "votes": 36,
+                "rating": 6.2
+            },
+            "females": {
+                "votes": 337,
+                "rating": 7.2
+            },
+            "females aged under 18": {
+                "votes": 2,
+                "rating": 8.5
+            },
+            "females aged 18 29": {
+                "votes": 175,
+                "rating": 7.6
+            },
+            "females aged 30 44": {
+                "votes": 93,
+                "rating": 6.5
+            },
+            "females aged 45 plus": {
+                "votes": 32,
+                "rating": 6.5
+            },
+            "top 1000 voters": {
+                "votes": 19,
+                "rating": 7.2
+            },
+            "us users": {
+                "votes": 59,
+                "rating": 6.6
+            },
+            "non us users": {
+                "votes": 471,
+                "rating": 6.9
+            }
+        },
+        "number of votes": {
+            "10": 481,
+            "9": 110,
+            "8": 165,
+            "7": 161,
+            "6": 80,
+            "5": 39,
+            "4": 25,
+            "3": 28,
+            "2": 16,
+            "1": 142
+        },
+        "arithmetic mean": 7.4,
+        "median": 8
+    }
+}

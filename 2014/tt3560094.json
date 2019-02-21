@@ -1,0 +1,736 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "1 October 2014"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "3 November 2014"
+            },
+            {
+                "country": "UK\n",
+                "date": "10 November 2014"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "24 November 2014"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "12 January 2015"
+            },
+            {
+                "country": "France\n",
+                "date": "15 April 2015"
+            },
+            {
+                "country": "Japan\n",
+                "date": "5 October 2015"
+            }
+        ],
+        "release dates": [
+            "USA::1 October 2014",
+            "Netherlands::3 November 2014",
+            "UK::10 November 2014",
+            "Belgium::24 November 2014",
+            "Sweden::12 January 2015",
+            "France::15 April 2015",
+            "Japan::5 October 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Stalker"
+            },
+            {
+                "countries": "Russia",
+                "title": "Сталкер"
+            },
+            {
+                "countries": "Russia",
+                "title": "Преследователь"
+            },
+            {
+                "countries": "Spain",
+                "title": "Stalker"
+            }
+        ],
+        "akas": [
+            "Stalker (original title)",
+            "Сталкер Russia",
+            "Преследователь Russia",
+            "Stalker Spain"
+        ],
+        "akas from release info": [
+            "Stalker (original title)",
+            "Сталкер Russia",
+            "Преследователь Russia",
+            "Stalker Spain"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 620,
+                    "original air date": "1 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Beth and Jack search for a stalker with an affinity for fire; Beth meets with an exasperated college student, who claims his former roommate is aggressively harassing him.    "
+                },
+                "2": {
+                    "title": "Whatever Happened to Baby James?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 450,
+                    "original air date": "8 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    The team investigate a teenage girl, who had a stalker break into her house, and soon realize she's not the one being targeted; Perry pays Beth an unsolicited visit at work.    "
+                },
+                "3": {
+                    "title": "Manhunt",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 396,
+                    "original air date": "15 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    When a bride is shot by a sniper during her wedding ceremony, Jack and Beth are called in to determine if her stalker has come back to haunt her.    "
+                },
+                "4": {
+                    "title": "Phobia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 396,
+                    "original air date": "22 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Beth and Jack investigate an attack by a stalker who preys on his victims' phobias. Meanwhile, Beth learns a friend is seeing someone who, unbeknownst to both women, has ties to her.    "
+                },
+                "5": {
+                    "title": "The Haunting",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 360,
+                    "original air date": "29 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    A few days before Halloween, a girl is attacked at a costume store, with the resulting case revolving around the house the girl and her best friend have moved into, which is allegedly haunted.    "
+                },
+                "6": {
+                    "title": "Love Is a Battlefield",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 356,
+                    "original air date": "5 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Following a series of alarming attacks on a wealthy philanthropist, the TAU investigates her beleaguered ex-husband and his much younger girlfriend. Meanwhile, Amanda threatens to reveal Jack's dark past.    "
+                },
+                "7": {
+                    "title": "Fanatic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 330,
+                    "original air date": "12 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    The TAU investigates the stalking of a young actress after she is apparently terrorized by an obsessive fan. Meanwhile, Beth receives an unsettling personal letter and Perry gains more access into her life.    "
+                },
+                "8": {
+                    "title": "Skin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 319,
+                    "original air date": "19 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    When a man's quiet suburban neighborhood and home are vandalized and his family is terrorized, he is forced to reveal his nefarious past to secure protection from the TAU.    "
+                },
+                "9": {
+                    "title": "Crazy for You",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 350,
+                    "original air date": "26 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    The TAU investigates when a psychiatrist is seemingly being stalked by one of his patients. However, they soon find that there is more to the case than meets the eye, while Beth makes a shocking discovery.    "
+                },
+                "10": {
+                    "title": "A Cry for Help",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 362,
+                    "original air date": "3 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    After a series of harrowing attacks befall two seemingly random victims, the TAU desperately searches for a connection between them before the elusive stalker strikes again.    "
+                },
+                "11": {
+                    "title": "Tell All",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 322,
+                    "original air date": "10 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    The estranged wife of a high-profile athlete is terrorized by a stalker, which may be connected to her tell-all memoir, which is soon to be published. Meanwhile, Janice helps Beth by investigating Perry.    "
+                },
+                "12": {
+                    "title": "Secrets and Lies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 321,
+                    "original air date": "14 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    The Mayor of Los Angeles is attacked and the TAU must determine whether he holds a dark secret or has a real stalker. Meanwhile, Janice and Amanda try to assist Beth with her interdepartmental problem.    "
+                },
+                "13": {
+                    "title": "The News",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 296,
+                    "original air date": "21 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    A violent intrusion takes place at the home of an anchorman who has been stalked in the past, while Perry learns more about Beth's past.    "
+                },
+                "14": {
+                    "title": "My Hero",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 300,
+                    "original air date": "28 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    When a stalker targets a lifeguard and her loved ones, the team races to defuse the threat, while Jack and Amanda clash with Trent.    "
+                },
+                "15": {
+                    "title": "Lost and Found",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 290,
+                    "original air date": "4 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    The team investigates when a popular high school coach claims he was attacked by a student, while Perry and Ray hatch a plan.    "
+                },
+                "16": {
+                    "title": "Salvation",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 308,
+                    "original air date": "11 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    The team deals with a rare case of group stalking when a woman is harassed by a mob of people, while Ray's dark plan for Beth becomes more sinister.    "
+                },
+                "17": {
+                    "title": "Fun and Games",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 480,
+                    "original air date": "18 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Beth's former stalker targets her inner circle in a deadly rampage.    "
+                },
+                "18": {
+                    "title": "The Woods",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 283,
+                    "original air date": "27 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Beth's stalker takes her to a remote cabin in Ojai, forcing her to fight for her life as Jack and Janice search for her.    "
+                },
+                "19": {
+                    "title": "Love Hurts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 221,
+                    "original air date": "11 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Beth faces a tough decision about her future, Vicki Gregg reveals her real reasons for returning to the TAU, and an unrelated incident in a stalking case leads Janice to suspect a serial killer may be on the loose.    "
+                },
+                "20": {
+                    "title": "Love Kills",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stalker (TV Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 223,
+                    "original air date": "18 May 2015",
+                    "year": "2015",
+                    "plot": "\n    In the series finale, Beth, Jack, Vicki and the rest of the TAU team continue their search for a serial killer, and Vicki learns some startling information about her ex-husband.    "
+                }
+            }
+        },
+        "number of episodes": 20,
+        "cast": [
+            {
+                "name": "McDermott, Dylan"
+            },
+            {
+                "name": "Q, Maggie"
+            },
+            {
+                "name": "Rasuk, Victor"
+            },
+            {
+                "name": "Klaveno, Mariana"
+            },
+            {
+                "name": "Röhm, Elisabeth"
+            },
+            {
+                "name": "Stocklin, Erik"
+            },
+            {
+                "name": "Bateman, Gabriel"
+            },
+            {
+                "name": "Summers, Tara"
+            },
+            {
+                "name": "Bailey, Eion"
+            },
+            {
+                "name": "Kole, Warren"
+            },
+            {
+                "name": "Harris, Chelsea"
+            },
+            {
+                "name": "Sorvino, Mira"
+            },
+            {
+                "name": "Kaufman, Adam"
+            },
+            {
+                "name": "Polaha, Kristoffer"
+            },
+            {
+                "name": "Smith, Kathryn Taylor"
+            },
+            {
+                "name": "Landry, David"
+            },
+            {
+                "name": "Hampton, Shanola"
+            },
+            {
+                "name": "Karnes, Jay"
+            },
+            {
+                "name": "Bethune, Patricia"
+            },
+            {
+                "name": "Blucas, Marc"
+            },
+            {
+                "name": "Fortier, Laurie"
+            },
+            {
+                "name": "Irby, Michael"
+            },
+            {
+                "name": "Lange, Eric"
+            },
+            {
+                "name": "Smith, Lyndon"
+            },
+            {
+                "name": "Tuck, Jessica"
+            },
+            {
+                "name": "Arnold, Evan"
+            },
+            {
+                "name": "Bowles, Lauren"
+            },
+            {
+                "name": "Cullen, Brett"
+            },
+            {
+                "name": "Landes, Michael"
+            },
+            {
+                "name": "Page, Sam"
+            },
+            {
+                "name": "Smith, Kerr"
+            },
+            {
+                "name": "Brotherton, John"
+            },
+            {
+                "name": "Carpani, Rachael"
+            },
+            {
+                "name": "Hanratty, Sammi"
+            },
+            {
+                "name": "Herthum, Louis"
+            },
+            {
+                "name": "Ingolfsson, Darri"
+            },
+            {
+                "name": "Kagasoff, Daren"
+            },
+            {
+                "name": "Lotz, Caity"
+            },
+            {
+                "name": "Matarazzo, Heather"
+            },
+            {
+                "name": "Tandy, Meagan"
+            },
+            {
+                "name": "Wiles, Jason"
+            },
+            {
+                "name": "Bernstein, Cole"
+            },
+            {
+                "name": "Daniels, Erin"
+            },
+            {
+                "name": "Marks, Stefan"
+            },
+            {
+                "name": "McShane, Jamie"
+            },
+            {
+                "name": "Paxton, Sara"
+            },
+            {
+                "name": "Rady, Michael"
+            },
+            {
+                "name": "Roth, Andrea"
+            },
+            {
+                "name": "Carter, Alex"
+            },
+            {
+                "name": "Chisum, David"
+            }
+        ],
+        "locations": [
+            "Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA::(studio)"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Canada:14+",
+            "Netherlands:12",
+            "Spain:18",
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 7.6,
+        "votes": 15959,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTQ4OTk3NDI2M15BMl5BanBnXkFtZTgwODcyNzE4MjE@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Stalker",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-2015",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Williamson, Kevin"
+            },
+            {
+                "name": "Jones, Dewayne Darian"
+            },
+            {
+                "name": "Golden, Sanford"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Outerbanks Entertainment"
+            },
+            {
+                "name": "Warner Bros. Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CBS"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "SBS6"
+            },
+            {
+                "name": "Sky Living"
+            },
+            {
+                "name": "Veronica"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Allan Padelford Camera Cars"
+            },
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "LCW Props"
+            },
+            {
+                "name": "Pictorvision"
+            },
+            {
+                "name": "Pro-Cam Rentals"
+            },
+            {
+                "name": "Sync OnSet"
+            }
+        ],
+        "plot": [
+            "A team of detectives investigates stalkers in Los Angeles.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 15959,
+                "rating": 7.6
+            },
+            "aged under 18": {
+                "votes": 9,
+                "rating": 8.5
+            },
+            "aged 18 29": {
+                "votes": 3789,
+                "rating": 7.8
+            },
+            "aged 30 44": {
+                "votes": 5282,
+                "rating": 7.4
+            },
+            "aged 45 plus": {
+                "votes": 2469,
+                "rating": 7.3
+            },
+            "males": {
+                "votes": 6276,
+                "rating": 7.3
+            },
+            "males aged under 18": {
+                "votes": 3,
+                "rating": 8.7
+            },
+            "males aged 18 29": {
+                "votes": 1694,
+                "rating": 7.5
+            },
+            "males aged 30 44": {
+                "votes": 2674,
+                "rating": 7.1
+            },
+            "males aged 45 plus": {
+                "votes": 1373,
+                "rating": 7.1
+            },
+            "females": {
+                "votes": 6124,
+                "rating": 7.8
+            },
+            "females aged under 18": {
+                "votes": 6,
+                "rating": 8.3
+            },
+            "females aged 18 29": {
+                "votes": 2039,
+                "rating": 8.0
+            },
+            "females aged 30 44": {
+                "votes": 2543,
+                "rating": 7.7
+            },
+            "females aged 45 plus": {
+                "votes": 1063,
+                "rating": 7.7
+            },
+            "top 1000 voters": {
+                "votes": 160,
+                "rating": 5.5
+            },
+            "us users": {
+                "votes": 2416,
+                "rating": 7.5
+            },
+            "non us users": {
+                "votes": 5760,
+                "rating": 7.3
+            }
+        },
+        "number of votes": {
+            "10": 3844,
+            "9": 2426,
+            "8": 4161,
+            "7": 2838,
+            "6": 1182,
+            "5": 537,
+            "4": 265,
+            "3": 158,
+            "2": 158,
+            "1": 390
+        },
+        "arithmetic mean": 7.9,
+        "median": 8
+    }
+}

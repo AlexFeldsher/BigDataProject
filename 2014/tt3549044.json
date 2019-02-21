@@ -1,0 +1,588 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "19 August 2014",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "USA\n",
+                "date": "30 September 2014"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "22 May 2015"
+            }
+        ],
+        "release dates": [
+            "USA::19 August 2014                            (internet)",
+            "USA::30 September 2014",
+            "Sweden::22 May 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Selfie"
+            },
+            {
+                "countries": "Romania",
+                "title": "Selfie"
+            },
+            {
+                "countries": "Russia",
+                "title": "Селфи"
+            },
+            {
+                "countries": "Turkey (Turkish title)",
+                "title": "Özçekim"
+            },
+            {
+                "countries": "Ukraine",
+                "title": "Селфi"
+            }
+        ],
+        "akas": [
+            "Selfie (original title)",
+            "Selfie Romania",
+            "Селфи Russia",
+            "Özçekim Turkey (Turkish title)",
+            "Селфi Ukraine"
+        ],
+        "akas from release info": [
+            "Selfie (original title)",
+            "Selfie Romania",
+            "Селфи Russia",
+            "Özçekim Turkey (Turkish title)",
+            "Селфi Ukraine"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Selfie (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 418,
+                    "original air date": "19 Aug. 2014",
+                    "year": "2014",
+                    "plot": "\n    A self-obsessed pharmaceutical sales rep who is megapopular on social media needs help making friends and being liked in real life, and so she turns to a marketing genius for tutelage in the series premiere of this modern take on \"My Fair Lady.\"    "
+                },
+                "2": {
+                    "title": "Un-Tag My Heart",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Selfie (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 306,
+                    "original air date": "7 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Eliza's fling with her co-worker Freddy gets complicated, and Henry explores Facebook for the first time with disastrous results.    "
+                },
+                "3": {
+                    "title": "A Little Yelp from My Friends",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Selfie (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 265,
+                    "original air date": "14 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Henry and Eliza discover that their most valuable office relationship might be their own after Saperstein mandates his employees to work on their interpersonal connectivity.    "
+                },
+                "4": {
+                    "title": "Nugget of Wisdom",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Selfie (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 259,
+                    "original air date": "21 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Eliza accepts Henry's challenge to do something helpful over the weekend and reluctantly offers to babysit Charmonique's young son on a Saturday night. Little does she know that young Kevin has a lot to teach her about having fun.    "
+                },
+                "5": {
+                    "title": "Even Hell Has Two Bars",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Selfie (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 239,
+                    "original air date": "4 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Eliza and Henry spend the weekend at the Saperstein's estate but with zero cell reception and a prospective promotion being dangled in front of them, both Henry and Eliza exhibit some questionable behavior.    "
+                },
+                "6": {
+                    "title": "Never Block Cookies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Selfie (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 231,
+                    "original air date": "4 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Eliza observes Henry's constant bad mood and lack of skills with women and becomes determined to get him some action, whether he wants it or not.    "
+                },
+                "7": {
+                    "title": "Here's This Guy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Selfie (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 211,
+                    "original air date": "11 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    When Eliza discovers that a distracted Henry wants to drastically reduce their mentoring sessions, she resolves to put an end to Henry's biggest distraction - his new lady friend, Julia.    "
+                },
+                "8": {
+                    "title": "Traumatic Party Stress Disorder",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Selfie (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 197,
+                    "original air date": "25 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    For his 40th birthday, Henry requests that Eliza find him a meaningful gift, but when she buys him tickets to see his favorite band, it creates tension between Henry and Julia, the woman he's seeing.    "
+                },
+                "9": {
+                    "title": "Follow Through",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Selfie (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 230,
+                    "original air date": "2 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    Eliza's effort to \"follow through\" on a work idea impacts her relationship with Freddy. Henry rejects an admirer, leading to unexpected consequences.    "
+                },
+                "10": {
+                    "title": "Imperfect Harmony",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Selfie (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 301,
+                    "original air date": "9 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    Eliza decides to confess her love for Henry. She tries to get Henry to confess his feelings for her, but ends up making things awkward for the two of them.    "
+                },
+                "11": {
+                    "title": "Perestroika",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Selfie (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 146,
+                    "original air date": "16 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    Tensions begin to brew in the workplace between the two after Henry cannot reciprocate his feelings towards Eliza. A dire financial situation befalls Eliza due to her reckless spending which forces her to be evicted from her apartment. With no one to turn to, she seeks out Henry's help on her situation which in turn reconciles their friendship between the two.    "
+                },
+                "12": {
+                    "title": "Stick in the Mud",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Selfie (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 173,
+                    "original air date": "23 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    Eliza's long lost sister Bethany arrives for a visit and with her brings a host of unresolved issues that challenge Eliza's progress. Meanwhile, Henry attempts to beat Freddy in the company's Tough Mudder for charity, and their long-simmering feud comes to a head.    "
+                },
+                "13": {
+                    "title": "I Woke Up Like This",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Selfie (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 197,
+                    "original air date": "30 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    Eliza get a confidence boost when she learns that her new female role model/former middle school bully used Eliza's life as inspiration for her success. Henry tries to rid himself of his childhood poser status by learning how to ride a skateboard.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Gillan, Karen"
+            },
+            {
+                "name": "Cho, John"
+            },
+            {
+                "name": "Rachel, Allyn"
+            },
+            {
+                "name": "Randolph, Da'Vine Joy"
+            },
+            {
+                "name": "Harewood, David"
+            },
+            {
+                "name": "Gianniotti, Giacomo"
+            },
+            {
+                "name": "Huskey, Brian"
+            },
+            {
+                "name": "Cardarople, Matty"
+            },
+            {
+                "name": "Hasty, Jennifer"
+            },
+            {
+                "name": "Troisi, Patti"
+            },
+            {
+                "name": "Miller, Allison"
+            },
+            {
+                "name": "Levine, Samm"
+            },
+            {
+                "name": "Pai, Nikhil"
+            },
+            {
+                "name": "Ledgin, Kelsey"
+            },
+            {
+                "name": "Caddell, Cam"
+            },
+            {
+                "name": "Smith, Colleen"
+            },
+            {
+                "name": "Williams, Keith L."
+            },
+            {
+                "name": "Azulay, Sapir"
+            },
+            {
+                "name": "Henstridge, Natasha"
+            },
+            {
+                "name": "Cooper, Amanda Jane"
+            },
+            {
+                "name": "Kopp, Cody"
+            },
+            {
+                "name": "McFarland, Kimberly"
+            },
+            {
+                "name": "Norman, Hayley Marie"
+            },
+            {
+                "name": "Chanadet, Shayla"
+            },
+            {
+                "name": "Joslin, Justice"
+            },
+            {
+                "name": "Peper, Tim"
+            },
+            {
+                "name": "Hood, Blake"
+            },
+            {
+                "name": "Louiso, Todd"
+            },
+            {
+                "name": "Guill, Julianna"
+            },
+            {
+                "name": "Koenig, Stephanie"
+            },
+            {
+                "name": "Vigman, Gillian"
+            },
+            {
+                "name": "Foreman, Amanda"
+            },
+            {
+                "name": "Funches, Ron"
+            },
+            {
+                "name": "Ball, Cade Canon"
+            },
+            {
+                "name": "Mustafa, Isaiah"
+            },
+            {
+                "name": "O'Kelley, Tricia"
+            },
+            {
+                "name": "Byron, Kathy"
+            },
+            {
+                "name": "Emrico, Melissa"
+            },
+            {
+                "name": "McGraw, Madeleine"
+            },
+            {
+                "name": "Poindexter, Larry"
+            },
+            {
+                "name": "Rose, Amber"
+            },
+            {
+                "name": "Brooks, Zylan"
+            },
+            {
+                "name": "Dodani, Nik"
+            },
+            {
+                "name": "Higuchi, Kerri"
+            },
+            {
+                "name": "Proksch, Mark"
+            },
+            {
+                "name": "Swetow, Joel"
+            },
+            {
+                "name": "Drummond, Cindy"
+            },
+            {
+                "name": "Evangelista, Tony"
+            },
+            {
+                "name": "Jennings, Alex"
+            },
+            {
+                "name": "Johnson, Jill"
+            }
+        ],
+        "locations": [
+            "Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA::(studio)"
+        ],
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "runtimes": [
+            "22"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Norway:A::(TV rating)",
+            "Singapore:PG13::(TV rating)",
+            "United Kingdom:12",
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 7.2,
+        "votes": 11042,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTc0MzgwMjc1MV5BMl5BanBnXkFtZTgwNjExMTE5MjE@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Selfie",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-2014",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Kapnek, Emily"
+            },
+            {
+                "name": "Chamberlayne, Brian"
+            },
+            {
+                "name": "Gillette, Amelie"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Piece of Pie Productions"
+            },
+            {
+                "name": "Warner Bros. Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "American Broadcasting Company (ABC)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Air Hollywood"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Keslow Camera"
+            },
+            {
+                "name": "Ohana Camera Expendables"
+            }
+        ],
+        "plot": [
+            "After being the subject of an embarrassing viral video, a self-involved 20-something enlists the help of a marketing expert to revamp her image in the real world.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "22 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 11042,
+                "rating": 7.2
+            },
+            "aged under 18": {
+                "votes": 8,
+                "rating": 6.8
+            },
+            "aged 18 29": {
+                "votes": 3493,
+                "rating": 7.4
+            },
+            "aged 30 44": {
+                "votes": 3571,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 1084,
+                "rating": 6.9
+            },
+            "males": {
+                "votes": 3889,
+                "rating": 6.9
+            },
+            "males aged under 18": {
+                "votes": 4,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 1284,
+                "rating": 7.2
+            },
+            "males aged 30 44": {
+                "votes": 1690,
+                "rating": 6.8
+            },
+            "males aged 45 plus": {
+                "votes": 656,
+                "rating": 6.7
+            },
+            "females": {
+                "votes": 4764,
+                "rating": 7.4
+            },
+            "females aged under 18": {
+                "votes": 4,
+                "rating": 8.8
+            },
+            "females aged 18 29": {
+                "votes": 2165,
+                "rating": 7.5
+            },
+            "females aged 30 44": {
+                "votes": 1827,
+                "rating": 7.4
+            },
+            "females aged 45 plus": {
+                "votes": 413,
+                "rating": 7.2
+            },
+            "top 1000 voters": {
+                "votes": 124,
+                "rating": 5.9
+            },
+            "us users": {
+                "votes": 2218,
+                "rating": 7.0
+            },
+            "non us users": {
+                "votes": 3578,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 2846,
+            "9": 1393,
+            "8": 2384,
+            "7": 2020,
+            "6": 939,
+            "5": 496,
+            "4": 245,
+            "3": 161,
+            "2": 154,
+            "1": 404
+        },
+        "arithmetic mean": 7.7,
+        "median": 8
+    }
+}

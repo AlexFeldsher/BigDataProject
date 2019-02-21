@@ -1,0 +1,425 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "New Zealand\n",
+                "date": "  2013"
+            },
+            {
+                "country": "New Zealand\n",
+                "date": "8 May 2013"
+            }
+        ],
+        "release dates": [
+            "New Zealand::2013",
+            "New Zealand::8 May 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Harry"
+            },
+            {
+                "countries": "Russia",
+                "title": "Гарри"
+            }
+        ],
+        "akas": [
+            "Harry (original title)",
+            "Гарри Russia"
+        ],
+        "akas from release info": [
+            "Harry (original title)",
+            "Гарри Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "This Is Personal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Harry (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 12,
+                    "original air date": "8 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Harry returns from a month's leave, with provisional clearance from the shrink to return to duties.    "
+                },
+                "2": {
+                    "title": "He's Very Important, This Boy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Harry (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 10,
+                    "original air date": "15 May 2013",
+                    "year": "2013",
+                    "plot": "\n    The police start arresting people based on Lua's evidence. Mele skips school.    "
+                },
+                "3": {
+                    "title": "He's the Weak Link",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Harry (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 11,
+                    "original air date": "22 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Harry attempts to face his demons. Spud is given an ultimatum. Chocka steps up his game.    "
+                },
+                "4": {
+                    "title": "Play with Fire",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Harry (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 12,
+                    "original air date": "29 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Colin's wife tells him she was raped, while Chocka talks to his lawyer about getting Colin released on bail. Gray pursues his investigation against Harry. Harry worries about Mele.    "
+                },
+                "5": {
+                    "title": "You Lied To Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Harry (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 10,
+                    "original air date": "5 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Chisholm's body is found in the bush. Kwan and Fahey are under surveillance. Gray at Professional Standards continue their hunt. Mele lies to her father about an overnight stay at a girlfriend's.    "
+                },
+                "6": {
+                    "title": "God Bless Brutus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Harry (TV Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 10,
+                    "original air date": "12 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Everything comes together as the new cook processes the drugs and the police close in. Mele skips school and fails to return home. Gray continues his pursuit of Harry.    "
+                }
+            }
+        },
+        "number of episodes": 6,
+        "cast": [
+            {
+                "name": "Kightley, Oscar"
+            },
+            {
+                "name": "Neill, Sam"
+            },
+            {
+                "name": "Kamuhemu, Hunter"
+            },
+            {
+                "name": "Shand, Erroll"
+            },
+            {
+                "name": "Lovatt, Stephen"
+            },
+            {
+                "name": "Healey, Theresa"
+            },
+            {
+                "name": "Tuigamala, Ana"
+            },
+            {
+                "name": "Brown, Fraser"
+            },
+            {
+                "name": "Koloi, Michael"
+            },
+            {
+                "name": "Luafutu, Matthias"
+            },
+            {
+                "name": "Rawiri, Jarod"
+            },
+            {
+                "name": "Robertt, Andrew"
+            },
+            {
+                "name": "Vandervis, Ria"
+            },
+            {
+                "name": "Beattie, Andrew"
+            },
+            {
+                "name": "Brown, Phil"
+            },
+            {
+                "name": "Pease, Mirabai"
+            },
+            {
+                "name": "Wallace, Will"
+            },
+            {
+                "name": "Young, Gary"
+            },
+            {
+                "name": "Lim, David T."
+            },
+            {
+                "name": "Po-Ching, Aruna"
+            },
+            {
+                "name": "Sunderland, Matthew"
+            },
+            {
+                "name": "Amosa, Fasitua"
+            },
+            {
+                "name": "Blake, Mia"
+            },
+            {
+                "name": "Gittins, Paul"
+            },
+            {
+                "name": "Keresoma, Ruth"
+            },
+            {
+                "name": "Koale, Beulah"
+            },
+            {
+                "name": "Petaia, Ene"
+            },
+            {
+                "name": "Reweti, Stephen"
+            },
+            {
+                "name": "Young, Darren"
+            },
+            {
+                "name": "Burchett, Janine"
+            },
+            {
+                "name": "Clark, John"
+            },
+            {
+                "name": "Elliott, Peter"
+            },
+            {
+                "name": "Jullienne, Anna"
+            },
+            {
+                "name": "Leach, Toby"
+            },
+            {
+                "name": "Lewis, Paul"
+            },
+            {
+                "name": "McFetridge, Linda"
+            },
+            {
+                "name": "Tu'u, Louise"
+            },
+            {
+                "name": "Amosa, Asora"
+            },
+            {
+                "name": "Apera, Sela"
+            },
+            {
+                "name": "Bierwirth, Katie"
+            },
+            {
+                "name": "Brown, Ben"
+            },
+            {
+                "name": "Christie, Atlas"
+            },
+            {
+                "name": "Fale, Fou"
+            },
+            {
+                "name": "Filipo, Semu"
+            },
+            {
+                "name": "Gestro, Aimee"
+            },
+            {
+                "name": "Haughton, Vicky"
+            },
+            {
+                "name": "Henry, Gabriel"
+            },
+            {
+                "name": "Hern, Tom"
+            },
+            {
+                "name": "Innes, Mick"
+            },
+            {
+                "name": "Jackson, Aaron"
+            }
+        ],
+        "locations": [
+            "Auckland, New Zealand"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "New Zealand"
+        ],
+        "country codes": [
+            "nz"
+        ],
+        "language codes": [
+            "en",
+            "sm"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 7.1,
+        "votes": 153,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMGUwNjdmOTEtODJlNy00ZjI4LTkyZGQtNTZkNzRkYzQ3ZGVjXkEyXkFqcGdeQXVyMTA5NzMyOTM@._V1_SY150_CR2,0,101,150_.jpg",
+        "budget": "NZD3,500,000 (estimated)",
+        "plot outline": "HARRY is a single story, six-part crime drama series set in Auckland which follows the intense psychological journey of Detective Harry Anglesea.",
+        "languages": [
+            "English",
+            "Samoan"
+        ],
+        "title": "Harry",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-2013",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Dudman, Christopher"
+            },
+            {
+                "name": "Grimstone, Neil"
+            },
+            {
+                "name": "Kightley, Oscar"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Desert Road Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "TV3"
+            }
+        ],
+        "plot": [
+            "HARRY is a single story, six-part crime drama series set in Auckland which follows the intense psychological journey of Detective _Harry_ (qv) Anglesea.::Desert Road"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (6 x 60 minutes)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 153,
+                "rating": 7.1
+            },
+            "aged 18 29": {
+                "votes": 18,
+                "rating": 7.3
+            },
+            "aged 30 44": {
+                "votes": 39,
+                "rating": 6.5
+            },
+            "aged 45 plus": {
+                "votes": 64,
+                "rating": 7.1
+            },
+            "males": {
+                "votes": 93,
+                "rating": 6.9
+            },
+            "males aged 18 29": {
+                "votes": 14,
+                "rating": 7.0
+            },
+            "males aged 30 44": {
+                "votes": 29,
+                "rating": 6.5
+            },
+            "males aged 45 plus": {
+                "votes": 44,
+                "rating": 7.2
+            },
+            "females": {
+                "votes": 38,
+                "rating": 7.0
+            },
+            "females aged 18 29": {
+                "votes": 4,
+                "rating": 7.8
+            },
+            "females aged 30 44": {
+                "votes": 10,
+                "rating": 6.6
+            },
+            "females aged 45 plus": {
+                "votes": 20,
+                "rating": 6.9
+            },
+            "top 1000 voters": {
+                "votes": 7,
+                "rating": 5.0
+            },
+            "us users": {
+                "votes": 46,
+                "rating": 6.5
+            },
+            "non us users": {
+                "votes": 62,
+                "rating": 7.3
+            }
+        },
+        "number of votes": {
+            "10": 34,
+            "9": 15,
+            "8": 39,
+            "7": 25,
+            "6": 18,
+            "5": 8,
+            "4": 3,
+            "3": 4,
+            "2": 2,
+            "1": 5
+        },
+        "arithmetic mean": 7.5,
+        "median": 8
+    }
+}

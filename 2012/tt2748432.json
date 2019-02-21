@@ -1,0 +1,114 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "6 December 2012"
+            },
+            {
+                "country": "UK\n",
+                "date": "6 December 2012",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "UK::6 December 2012",
+            "UK::6 December 2012                            (internet)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Thomas Gamble",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Student Showcase (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "6 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n    Meet Thomas, an animation student who loves Cartoon Network    "
+                },
+                "2": {
+                    "title": "Ben Addy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Student Showcase (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "1 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Sophia Stocks",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Student Showcase (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "17 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Meet Sophia, a creative writing student that loves to read and works in a library.    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Gamble, Thomas"
+            },
+            {
+                "name": "Addy, Ben"
+            },
+            {
+                "name": "Stocks, Sophia"
+            },
+            {
+                "name": "Jambareeqi"
+            }
+        ],
+        "genres": [
+            "Biography"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Student Showcase",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "akas": [
+            "Student Showcase (United Kingdom)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "plot": [
+            "A web series that documents the lives and studies of university students::Jambareeqi"
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

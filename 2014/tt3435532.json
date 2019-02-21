@@ -1,0 +1,574 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2014"
+            },
+            {
+                "country": "USA\n",
+                "date": "2 October 2014"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "2 April 2015"
+            },
+            {
+                "country": "Germany\n",
+                "date": "26 May 2015"
+            }
+        ],
+        "release dates": [
+            "USA::2014",
+            "USA::2 October 2014",
+            "Belgium::2 April 2015",
+            "Germany::26 May 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Gracepoint"
+            },
+            {
+                "countries": "Russia",
+                "title": "Грейспойнт"
+            },
+            {
+                "countries": "Ukraine",
+                "title": "Грейспойнт"
+            },
+            {
+                "countries": "USA",
+                "title": "Gracepoint"
+            }
+        ],
+        "akas": [
+            "Gracepoint (original title)",
+            "Грейспойнт Russia",
+            "Грейспойнт Ukraine",
+            "Gracepoint USA"
+        ],
+        "akas from release info": [
+            "Gracepoint (original title)",
+            "Грейспойнт Russia",
+            "Грейспойнт Ukraine",
+            "Gracepoint USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gracepoint (TV Mini-Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 365,
+                    "original air date": "2 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    The murder of a young boy in the small town of Gracepoint brings accusations and a nationwide media frenzy, which threatens to tear the community apart.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gracepoint (TV Mini-Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 251,
+                    "original air date": "9 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Solano family continues to grieve in the wake of their son's death. The detectives find disturbing evidence in Chloe's room, while Mark gets caught in a lie of his own. Beth confides in her old friend, Paul Coates, now the town minister.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gracepoint (TV Mini-Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 218,
+                    "original air date": "16 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    With the investigation in full swing, Mark Solano is brought in for questioning after getting caught in a lie. Then, Gemma reveals a secret to the detectives and Carver interviews Ellie's husband, Tom.    "
+                },
+                "4": {
+                    "title": "Episode #1.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gracepoint (TV Mini-Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 214,
+                    "original air date": "23 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    New suspects make the list as the detectives learn that Danny had some secrets of his own. Meanwhile, Detective Carver is also keeping things hidden that could affect his ability to finish the case.    "
+                },
+                "5": {
+                    "title": "Episode #1.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gracepoint (TV Mini-Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 203,
+                    "original air date": "30 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Jack Reinhold's dark past comes to light, and Beth Solano decides to open up to the press.    "
+                },
+                "6": {
+                    "title": "Episode #1.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gracepoint (TV Mini-Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 194,
+                    "original air date": "6 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    The town of Gracepoint continues to turn on Jack, but he isn't the only one hiding something. Beth decides to finally confront Gemma.    "
+                },
+                "7": {
+                    "title": "Episode #1.7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gracepoint (TV Mini-Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 198,
+                    "original air date": "13 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Detective Miller faces a crisis in her own family that may lead to a new suspect, and Detective Carver has an unexpected visitor at the police station.    "
+                },
+                "8": {
+                    "title": "Episode #1.8",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gracepoint (TV Mini-Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 184,
+                    "original air date": "20 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    As the search for Danny's killer continues, the Solano family tries to slowly adjust to life without their son by going back to work and school. Meanwhile, Susan Wright is brought in for questioning when the Gracepoint Journal uncovers some disturbing information about her.    "
+                },
+                "9": {
+                    "title": "Episode #1.9",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gracepoint (TV Mini-Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 186,
+                    "original air date": "4 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    After Detective Carver's heart condition worsens, he has 24 hours before his boss removes him from the case. So he and Miller race against the clock to find out who killed Danny Solano. Meanwhile, Beth Solano seeks out advice from Paul Coates, and Susan Wright shares a deep secret that no one saw coming.    "
+                },
+                "10": {
+                    "title": "Episode #1.10",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gracepoint (TV Mini-Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 223,
+                    "original air date": "11 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Gracepoint murder case comes to a close when Detective Emmett Carver and Detective Ellie Miller finally catch Danny's killer.    "
+                }
+            }
+        },
+        "number of episodes": 10,
+        "cast": [
+            {
+                "name": "Tennant, David"
+            },
+            {
+                "name": "Gunn, Anna"
+            },
+            {
+                "name": "Kull, Virginia"
+            },
+            {
+                "name": "Rankin, Kevin"
+            },
+            {
+                "name": "Hamilton, Josh"
+            },
+            {
+                "name": "Zegers, Kevin"
+            },
+            {
+                "name": "Horcher, Madalyn"
+            },
+            {
+                "name": "Potts, Sarah-Jane"
+            },
+            {
+                "name": "Grush, Stephen Louis"
+            },
+            {
+                "name": "Weaver, Jacki"
+            },
+            {
+                "name": "Mott, Karyn"
+            },
+            {
+                "name": "Peña, Michael"
+            },
+            {
+                "name": "Irvine, Jack"
+            },
+            {
+                "name": "Lucas, Jessica"
+            },
+            {
+                "name": "Sampson, Kendrick"
+            },
+            {
+                "name": "Stewart, William 'Big Sleeps'"
+            },
+            {
+                "name": "Down, Alisen"
+            },
+            {
+                "name": "Reid, Adam Greydon"
+            },
+            {
+                "name": "Laurie, Darcy"
+            },
+            {
+                "name": "Filipovic, Nikolas"
+            },
+            {
+                "name": "Butler, Tom"
+            },
+            {
+                "name": "Darlow, Linda"
+            },
+            {
+                "name": "Nolte, Nick"
+            },
+            {
+                "name": "Gilmore, Patrick"
+            },
+            {
+                "name": "Krowchuk, Chad"
+            },
+            {
+                "name": "Baessato, Giacomo"
+            },
+            {
+                "name": "Matthews, Alison"
+            },
+            {
+                "name": "Fletcher, Brendan"
+            },
+            {
+                "name": "Craven, Aaron"
+            },
+            {
+                "name": "Keating, Fred"
+            },
+            {
+                "name": "Suttar, Andrew"
+            },
+            {
+                "name": "Kidder, Janet"
+            },
+            {
+                "name": "Paleja, Shekhar"
+            },
+            {
+                "name": "Black, Mary"
+            },
+            {
+                "name": "DePape, Connor"
+            },
+            {
+                "name": "MacLean-Angus, Jenn"
+            },
+            {
+                "name": "Babcook, Chloe"
+            },
+            {
+                "name": "Warner, Glen"
+            },
+            {
+                "name": "Perla, Harry Tamacas"
+            },
+            {
+                "name": "Sanford-Blades, Simeon"
+            },
+            {
+                "name": "Harter, Susanna"
+            },
+            {
+                "name": "Kimm, Joanne"
+            },
+            {
+                "name": "MacLean, Jean"
+            },
+            {
+                "name": "Sandback, Christy"
+            },
+            {
+                "name": "Tso, Yee Jee"
+            },
+            {
+                "name": "Camroux-Taylor, Ken"
+            },
+            {
+                "name": "Hodgson, Bryce"
+            },
+            {
+                "name": "Boden, Helena"
+            },
+            {
+                "name": "Christopher, Julian"
+            },
+            {
+                "name": "Dudley-Neuman, Yvette"
+            }
+        ],
+        "locations": [
+            "Sidney, British Columbia, Canada::(street scenes)",
+            "Victoria, British Columbia, Canada::(street scenes)",
+            "Holy Trinity Anglican Church, North Saanich, British Columbia, Canada::(Church)",
+            "Oak Bay, Victoria, British Columbia, Canada::(street scenes & Gracepoint Journal office)",
+            "Brentwood Bay, British Columbia, Canada::(Marina)"
+        ],
+        "genres": [
+            "Crime",
+            "Mystery"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "United States:TV-14"
+        ],
+        "original air date": "2014 (USA)",
+        "number of seasons": 1,
+        "rating": 7.2,
+        "votes": 5189,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMDM2NjlmNzEtYjdiYy00YmVlLTgzYTQtMGJjYzYzMDU1ZTRlXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Gracepoint",
+        "year": 2014,
+        "kind": "tv mini series",
+        "series years": "2014-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Chibnall, Chris"
+            },
+            {
+                "name": "Epstein, Anya"
+            },
+            {
+                "name": "Futterman, Dan"
+            }
+        ],
+        "director": [
+            {
+                "name": "Strong, James"
+            },
+            {
+                "name": "Lyn, Euros"
+            },
+            {
+                "name": "Petrarca, David"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Imaginary Friends"
+            },
+            {
+                "name": "South Slope Pictures"
+            },
+            {
+                "name": "Kudos Film and Television"
+            },
+            {
+                "name": "Shine America"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Fox Television"
+            },
+            {
+                "name": "Sky Atlantic HD"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "CW Sonderoptic"
+            },
+            {
+                "name": "Canada Film Capital"
+            },
+            {
+                "name": "Clairmont Camera Film & Digital"
+            },
+            {
+                "name": "Entertainment Partners Canada"
+            },
+            {
+                "name": "Wild Rabbit Productions"
+            },
+            {
+                "name": "William F. White International"
+            }
+        ],
+        "plot": [
+            "When a young boy is found dead on an idyllic beach, a major police investigation gets underway in the small California seaside town where the tragedy occurred. Soon deemed a homicide, the case sparks a media frenzy, which throws the boy's family into further turmoil and upends the lives of all of the town's residents.::Fox Publicity"
+        ],
+        "synopsis": [
+            "When a young boy is found dead on an idyllic beach by a jutting cliff-face, a major police investigation gets underway in the northern California seaside town where the tragedy occurred. Soon deemed a homicide, the case turns neighbor against neighbor and sparks a media frenzy, which not only throws the boy's family into further turmoil, but also threatens to upend the lives of all of the town's residents.Welcome to GRACEPOINT, a new event series based on Broadchurch, the U.K.'s critically acclaimed and wildly popular crime drama.Leading the murder investigation is Detective EMMETT CARVER (David Tennant, Broadchurch, Dr. Who) a by-the-book cop who has just arrived in Gracepoint to fill a high position in the town's police force. That job previously had been promised to Detective ELLIE MILLER (Anna Gunn, Breaking Bad) who, in light of the tragedy, must put any resentment aside and work the case with her prickly new boss.Danny is survived by his grieving parents, BETH (Virginia Kull, Boardwalk Empire) and MARK SOLANO (Michael Peña, End of Watch), who are devastated by the loss of their young son. Mark, a native of Gracepoint, is a well-liked local plumber and family man. Beth, who married Mark after getting pregnant in high school, is hungry to discover the truth behind Danny's murder. Their daughter, CHLOE (newcomer Madalyn Horcher), is hit hard by her little brother's death. Rebellious and wise beyond her years, Chloe has an older boyfriend, DEAN IVERSON (Kendrick Sampson, The Vampire Diaries), whom she hides from her parents.The entire town of Gracepoint is pulled into the chaos of the investigation, including JACK REINHOLD (Nick Nolte, Luck), a private and stubborn man who runs the kayak rental service on the beach, as well as the local wildlife observation program, for which Danny used to volunteer. SUSAN WRIGHT (Jacki Weaver, Silver Linings Playbook), a glowering, mysterious woman, lives in the RV park near the coast, alone with her dog. She works various cleaning and odd jobs and prefers to remain anonymous. The town's minister, PAUL COATES (Kevin Rankin, Justified), becomes a de facto spokesperson for the community as the media descends on Gracepoint. Well-intentioned but inexperienced, Coates seizes the opportunity to be in the spotlight and finds himself leading the most attentive congregation he's ever had.The investigation is followed closely by the town's local newspaper reporter OWEN BURKE (Kevin Zegers, Gossip Girl), who is Det. Miller's nephew. Eager to help catch Danny's killer, Owen is unaccustomed to covering the murder beat. But when San Francisco Globe reporter RENEE CLEMONS (Jessica Lucas, Cloverfield) sets up camp in Gracepoint, she fuels Owen's ambition. What's more, having followed Detective Carver on a similar murder case that went unsolved, she is determined to hold him accountable for the case's outcome.Danny's death and the subsequent investigation also impacts tourism, Gracepoint's leading source of revenue. The decline in visitors to the town is felt most harshly by hotel owner GEMMA FISHER (Sarah-Jane Potts, Kinky Boots, Felicity), a vivacious Brit with secrets of her own. Also touched by Danny's death is Mark's apprentice at the plumbing company, VINCE NOVIK (Stephen Louis Grush, Lucky 7), whose loyalty to his employer becomes increasingly fierce.Produced by Shine America in association with Kudos and Imaginary Friends, GRACEPOINT began filming in January, for broadcast during the 2014-2015 season. The gripping crime series is executive-produced by Anya Epstein (In Treatment, Homicide), Dan Futterman (Capote, In Treatment), with the original series' creator, Chris Chibnall (Dr. Who, Camelot), Kudos' Jane Featherstone (The Hour, Utopia), John Goldwyn (Dexter), and Shine America's Carolyn Bernstein (The Bridge). Futterman and Epstein serve as showrunners. Chibnall wrote the premiere episode and James Strong (Broadchurch, Downton Abbey) directed. The series will be distributed by Shine International.Information pulled directly from Gracepoint on FOX official website."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Leica Summilux-C Lenses"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 5189,
+                "rating": 7.2
+            },
+            "aged under 18": {
+                "votes": 3,
+                "rating": 8.7
+            },
+            "aged 18 29": {
+                "votes": 891,
+                "rating": 7.2
+            },
+            "aged 30 44": {
+                "votes": 1729,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 1321,
+                "rating": 7.2
+            },
+            "males": {
+                "votes": 2294,
+                "rating": 7.1
+            },
+            "males aged 18 29": {
+                "votes": 525,
+                "rating": 7.2
+            },
+            "males aged 30 44": {
+                "votes": 920,
+                "rating": 7.0
+            },
+            "males aged 45 plus": {
+                "votes": 723,
+                "rating": 7.1
+            },
+            "females": {
+                "votes": 1890,
+                "rating": 7.3
+            },
+            "females aged under 18": {
+                "votes": 3,
+                "rating": 8.7
+            },
+            "females aged 18 29": {
+                "votes": 357,
+                "rating": 7.1
+            },
+            "females aged 30 44": {
+                "votes": 790,
+                "rating": 7.2
+            },
+            "females aged 45 plus": {
+                "votes": 581,
+                "rating": 7.4
+            },
+            "top 1000 voters": {
+                "votes": 103,
+                "rating": 7.0
+            },
+            "us users": {
+                "votes": 1623,
+                "rating": 7.4
+            },
+            "non us users": {
+                "votes": 1495,
+                "rating": 6.8
+            }
+        },
+        "number of votes": {
+            "10": 844,
+            "9": 695,
+            "8": 1286,
+            "7": 1010,
+            "6": 511,
+            "5": 282,
+            "4": 155,
+            "3": 93,
+            "2": 77,
+            "1": 236
+        },
+        "arithmetic mean": 7.3,
+        "median": 8
+    }
+}

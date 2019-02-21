@@ -1,0 +1,438 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Italy\n",
+                "date": "2 December 2013"
+            },
+            {
+                "country": "Italy\n",
+                "date": "3 December 2013"
+            },
+            {
+                "country": "France\n",
+                "date": "1 January 2014"
+            },
+            {
+                "country": "Germany\n",
+                "date": "4 January 2014"
+            },
+            {
+                "country": "Spain\n",
+                "date": "28 January 2014"
+            },
+            {
+                "country": "Spain\n",
+                "date": "29 January 2014"
+            }
+        ],
+        "release dates": [
+            "Italy::2 December 2013",
+            "Italy::3 December 2013",
+            "France::1 January 2014",
+            "Germany::4 January 2014",
+            "Spain::28 January 2014",
+            "Spain::29 January 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Anna Karenina"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Анна Каренина"
+            },
+            {
+                "countries": "Croatia",
+                "title": "Ana Karenjina"
+            },
+            {
+                "countries": "France",
+                "title": "Anna Karenine"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Anna Karenina"
+            },
+            {
+                "countries": "Russia",
+                "title": "Анна Каренина"
+            },
+            {
+                "countries": "USA",
+                "title": "Anna Karenina"
+            },
+            {
+                "title": "Part 1"
+            },
+            {
+                "title": "Part 2"
+            }
+        ],
+        "akas": [
+            "Anna Karenina (original title)",
+            "Анна Каренина Bulgaria (Bulgarian title)",
+            "Ana Karenjina Croatia",
+            "Anna Karenine France",
+            "Anna Karenina Hungary",
+            "Анна Каренина Russia",
+            "Anna Karenina USA",
+            "Part 1 ",
+            "Part 2 "
+        ],
+        "akas from release info": [
+            "Anna Karenina (original title)",
+            "Анна Каренина Bulgaria (Bulgarian title)",
+            "Ana Karenjina Croatia",
+            "Anna Karenine France",
+            "Anna Karenina Hungary",
+            "Анна Каренина Russia",
+            "Anna Karenina USA",
+            "Part 1 ",
+            "Part 2 "
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Anna Karenina (TV Mini-Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 9,
+                    "original air date": "2 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Anna Karenina (TV Mini-Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 10,
+                    "original air date": "3 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Baltakis, Stasys"
+            },
+            {
+                "name": "Bereznickas, Ilja"
+            },
+            {
+                "name": "Birenyte, Diana"
+            },
+            {
+                "name": "Bosco, Léa"
+            },
+            {
+                "name": "Cabrera, Santiago"
+            },
+            {
+                "name": "Castro, María"
+            },
+            {
+                "name": "Cerniauskas, Edgaras"
+            },
+            {
+                "name": "Cinauskas, Paulius"
+            },
+            {
+                "name": "de Laâge, Lou"
+            },
+            {
+                "name": "Ercolessi, Sergio"
+            },
+            {
+                "name": "Jankauskas, Dainius"
+            },
+            {
+                "name": "Macijauskas, Kestutis"
+            },
+            {
+                "name": "Miniotas, Darius"
+            },
+            {
+                "name": "Molina, Ángela"
+            },
+            {
+                "name": "Natoli, Carlotta"
+            },
+            {
+                "name": "Pierce, Dylan"
+            },
+            {
+                "name": "Postacchini, Emanuela"
+            },
+            {
+                "name": "Puccini, Vittoria"
+            },
+            {
+                "name": "Reciugaite, Karolina"
+            },
+            {
+                "name": "Rome, Sydne"
+            },
+            {
+                "name": "Sadler, Benjamin"
+            },
+            {
+                "name": "Sermonti, Pietro"
+            },
+            {
+                "name": "Sidarovaite, Kamile"
+            },
+            {
+                "name": "Simukauskas, Donatas"
+            },
+            {
+                "name": "Smith, Sam Lucas"
+            },
+            {
+                "name": "Storpirstis, Gediminas"
+            },
+            {
+                "name": "Stungyte, Karina"
+            },
+            {
+                "name": "Tratas, James"
+            },
+            {
+                "name": "Uzdavinys, Sakalas"
+            },
+            {
+                "name": "de Mond, Annemarie van"
+            },
+            {
+                "name": "Verseckas, Jonas"
+            },
+            {
+                "name": "Vico, Patricia"
+            },
+            {
+                "name": "von Thun, Max"
+            }
+        ],
+        "locations": [
+            "Lithuania"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "200"
+        ],
+        "countries": [
+            "Italy",
+            "France",
+            "Spain",
+            "Lithuania"
+        ],
+        "country codes": [
+            "it",
+            "fr",
+            "es",
+            "lt"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Germany:6"
+        ],
+        "original air date": "02 Dec 2013 (Italy)",
+        "number of seasons": 1,
+        "rating": 7.1,
+        "votes": 335,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOThlM2M3N2MtN2FjYy00MzUzLTkzNjQtNTlmMmRlM2RlYTM4XkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_SY150_CR4,0,101,150_.jpg",
+        "budget": "EUR3,000,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Anna Karenina",
+        "year": 2013,
+        "kind": "tv mini series",
+        "series years": "2013-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Arlanch, Francesco"
+            },
+            {
+                "name": "Tolstoy, Leo"
+            }
+        ],
+        "director": [
+            {
+                "name": "Duguay, Christian"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Lux Vide"
+            },
+            {
+                "name": "Nordic Productions"
+            },
+            {
+                "name": "Pampa Production"
+            },
+            {
+                "name": "Rai Fiction"
+            },
+            {
+                "name": "Telecinco"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Divisa Home Video"
+            },
+            {
+                "name": "Rai 1"
+            },
+            {
+                "name": "Studio Hamburg Enterprises"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Ghost SFX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Actors Agency"
+            },
+            {
+                "name": "Costumi d'Arte"
+            },
+            {
+                "name": "Stunt Bros"
+            }
+        ],
+        "plot": [
+            "Set in late-19th-century Russia high-society, the aristocrat _Anna Karenina_ (qv) enters into a life-changing affair with the affluent and handsome Count Vronsky. Tolstoy's novel adaptation.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "3 hr 20 min (200 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 335,
+                "rating": 7.1
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "aged 18 29": {
+                "votes": 77,
+                "rating": 7.7
+            },
+            "aged 30 44": {
+                "votes": 111,
+                "rating": 7.0
+            },
+            "aged 45 plus": {
+                "votes": 67,
+                "rating": 6.6
+            },
+            "males": {
+                "votes": 109,
+                "rating": 6.5
+            },
+            "males aged 18 29": {
+                "votes": 16,
+                "rating": 7.5
+            },
+            "males aged 30 44": {
+                "votes": 40,
+                "rating": 6.2
+            },
+            "males aged 45 plus": {
+                "votes": 48,
+                "rating": 6.4
+            },
+            "females": {
+                "votes": 156,
+                "rating": 7.5
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 18 29": {
+                "votes": 60,
+                "rating": 7.7
+            },
+            "females aged 30 44": {
+                "votes": 64,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 19,
+                "rating": 7.5
+            },
+            "top 1000 voters": {
+                "votes": 13,
+                "rating": 5.1
+            },
+            "us users": {
+                "votes": 13,
+                "rating": 6.7
+            },
+            "non us users": {
+                "votes": 187,
+                "rating": 6.9
+            }
+        },
+        "number of votes": {
+            "10": 87,
+            "9": 34,
+            "8": 67,
+            "7": 70,
+            "6": 36,
+            "5": 22,
+            "4": 6,
+            "3": 3,
+            "2": 2,
+            "1": 8
+        },
+        "arithmetic mean": 7.7,
+        "median": 8
+    }
+}

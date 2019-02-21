@@ -1,0 +1,465 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "February 2013"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "23 February 2013"
+            },
+            {
+                "country": "Canada\n",
+                "date": "24 March 2013"
+            },
+            {
+                "country": "USA\n",
+                "date": "April 2013"
+            },
+            {
+                "country": "USA\n",
+                "date": "12 April 2013"
+            },
+            {
+                "country": "France\n",
+                "date": "9 May 2013"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "23 July 2013",
+                "notes": "                            (Blu-ray and DVD premiere)"
+            },
+            {
+                "country": "Italy\n",
+                "date": "26 November 2013"
+            },
+            {
+                "country": "Australia\n",
+                "date": "4 December 2013",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "8 January 2014",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "Finland\n",
+                "date": "15 January 2014",
+                "notes": "                            (Blu-ray & DVD premiere)"
+            }
+        ],
+        "release dates": [
+            "USA::February 2013",
+            "Sweden::23 February 2013",
+            "Canada::24 March 2013",
+            "USA::April 2013",
+            "USA::12 April 2013",
+            "France::9 May 2013",
+            "Netherlands::23 July 2013                            (Blu-ray and DVD premiere)",
+            "Italy::26 November 2013",
+            "Australia::4 December 2013                            (DVD premiere)",
+            "Japan::8 January 2014                            (DVD premiere)",
+            "Finland::15 January 2014                            (Blu-ray & DVD premiere)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Eve of Destruction"
+            },
+            {
+                "countries": "Denmark (DVD title)",
+                "title": "Dark Energy"
+            },
+            {
+                "countries": "Finland (DVD title)",
+                "title": "Dark Energy"
+            },
+            {
+                "countries": "Finland",
+                "title": "Tuhon aatto"
+            },
+            {
+                "countries": "France",
+                "title": "À l'aube de la destruction"
+            },
+            {
+                "countries": "Italy",
+                "title": "Distruzione totale"
+            },
+            {
+                "countries": "Spain",
+                "title": "Antes de la destrucción"
+            }
+        ],
+        "akas": [
+            "Eve of Destruction (original title)",
+            "Dark Energy Denmark (DVD title)",
+            "Dark Energy Finland (DVD title)",
+            "Tuhon aatto Finland",
+            "À l'aube de la destruction France",
+            "Distruzione totale Italy",
+            "Antes de la destrucción Spain"
+        ],
+        "akas from release info": [
+            "Eve of Destruction (original title)",
+            "Dark Energy Denmark (DVD title)",
+            "Dark Energy Finland (DVD title)",
+            "Tuhon aatto Finland",
+            "À l'aube de la destruction France",
+            "Distruzione totale Italy",
+            "Antes de la destrucción Spain"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Night 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Eve of Destruction (TV Mini-Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 25,
+                    "original air date": "12 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    While opposed by eco-activists, and needing to secure funding, Proteus Group proceeds with its DRIL Switch Project to access dark energy, but the pretest of the proton accelerator does not go smoothly.    "
+                },
+                "2": {
+                    "title": "Night 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Eve of Destruction (TV Mini-Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 18,
+                    "original air date": "13 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    When the expedited experiment goes awry, DRIL starts to function outside the vacuum seal and must be contained, notwithstanding the sabotage of the electrical power substations linked to Proteus.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Weber, Steven"
+            },
+            {
+                "name": "Cox, Christina"
+            },
+            {
+                "name": "Williams, Treat"
+            },
+            {
+                "name": "Paunovic, Aleks"
+            },
+            {
+                "name": "Lawrence, Colin"
+            },
+            {
+                "name": "McLeod, Jessica"
+            },
+            {
+                "name": "Gibson, Leah"
+            },
+            {
+                "name": "Goree, Eli"
+            },
+            {
+                "name": "Northey, Michael P."
+            },
+            {
+                "name": "Isabelle, Katharine"
+            },
+            {
+                "name": "Ghanimé, Mark"
+            },
+            {
+                "name": "Kitchen, Jennifer"
+            },
+            {
+                "name": "Marlowe, Johanna"
+            },
+            {
+                "name": "Ewen, Lesley"
+            },
+            {
+                "name": "Juiles, Macie"
+            },
+            {
+                "name": "Poverlo, Yaroslav"
+            },
+            {
+                "name": "Abbott, Wendy"
+            },
+            {
+                "name": "Drever, Spencer"
+            },
+            {
+                "name": "Clements, Kennedi"
+            },
+            {
+                "name": "Medwid, Olena"
+            },
+            {
+                "name": "Juliani, Alessandro"
+            },
+            {
+                "name": "Lui, Sophie"
+            },
+            {
+                "name": "Jastrzembska, Christina"
+            },
+            {
+                "name": "Hayter, Rob"
+            },
+            {
+                "name": "Boileau, Daniel"
+            },
+            {
+                "name": "Welland, Luke"
+            },
+            {
+                "name": "Podowski, Debbie"
+            },
+            {
+                "name": "Buechner, Genevieve"
+            },
+            {
+                "name": "Jones, Shaine"
+            },
+            {
+                "name": "Mitchell, Billy"
+            },
+            {
+                "name": "Kwong, Owen"
+            },
+            {
+                "name": "Dann, Demord"
+            },
+            {
+                "name": "Pratap, Shanel"
+            },
+            {
+                "name": "Bang, Diana"
+            },
+            {
+                "name": "McNeil, Scott"
+            },
+            {
+                "name": "Gabay, Eli"
+            },
+            {
+                "name": "Milchard, David"
+            },
+            {
+                "name": "Jacox, David"
+            },
+            {
+                "name": "Kozak, Kam"
+            }
+        ],
+        "locations": [
+            "Vancouver, British Columbia, Canada"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "runtimes": [
+            "176"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Germany:12",
+            "Netherlands:12",
+            "Singapore:PG"
+        ],
+        "original air date": "Feb 2013 (USA)",
+        "number of seasons": 1,
+        "rating": 4.3,
+        "votes": 623,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjk1YmRiNTctOGI1ZC00ZDcxLWFhYTYtOGUxNzE5NTZkNTE4XkEyXkFqcGdeQXVyNTA0OTU0OTQ@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Eve of Destruction",
+        "year": 2013,
+        "kind": "tv mini series",
+        "series years": "2013-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Beattie, Richard"
+            }
+        ],
+        "director": [
+            {
+                "name": "Lieberman, Robert"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Reunion Pictures"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Sonar Entertainment (II)"
+            },
+            {
+                "name": "Cinedigm Entertainment Group"
+            },
+            {
+                "name": "Cinedigm Entertainment Group"
+            },
+            {
+                "name": "Concorde Home Entertainment"
+            },
+            {
+                "name": "Gaiam Vivendi Entertainment"
+            },
+            {
+                "name": "Gaiam Vivendi Entertainment"
+            },
+            {
+                "name": "Just Bridge Entertainment"
+            },
+            {
+                "name": "Just Bridge Entertainment"
+            },
+            {
+                "name": "Kanal 5"
+            },
+            {
+                "name": "M6"
+            },
+            {
+                "name": "Panorama Distributions"
+            },
+            {
+                "name": "Prime Wave (PW)"
+            },
+            {
+                "name": "RTL Entertainment"
+            },
+            {
+                "name": "ReelzChannel"
+            },
+            {
+                "name": "Sky Cinema"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aion Art Gallery"
+            }
+        ],
+        "plot": [
+            "When two scientists attempt to discover unlimited energy, their experiment is hijacked and sabotaged by eco-terrorists. The result is a dark energy black hole that could destroy the planet.::Sonar Entertainment"
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr 56 min (176 min) (USA)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 623,
+                "rating": 4.3
+            },
+            "aged 18 29": {
+                "votes": 55,
+                "rating": 5.0
+            },
+            "aged 30 44": {
+                "votes": 223,
+                "rating": 4.0
+            },
+            "aged 45 plus": {
+                "votes": 256,
+                "rating": 4.4
+            },
+            "males": {
+                "votes": 449,
+                "rating": 4.3
+            },
+            "males aged 18 29": {
+                "votes": 39,
+                "rating": 5.0
+            },
+            "males aged 30 44": {
+                "votes": 183,
+                "rating": 4.0
+            },
+            "males aged 45 plus": {
+                "votes": 214,
+                "rating": 4.4
+            },
+            "females": {
+                "votes": 95,
+                "rating": 4.4
+            },
+            "females aged 18 29": {
+                "votes": 15,
+                "rating": 4.6
+            },
+            "females aged 30 44": {
+                "votes": 38,
+                "rating": 4.3
+            },
+            "females aged 45 plus": {
+                "votes": 39,
+                "rating": 4.3
+            },
+            "top 1000 voters": {
+                "votes": 44,
+                "rating": 3.8
+            },
+            "us users": {
+                "votes": 127,
+                "rating": 4.4
+            },
+            "non us users": {
+                "votes": 342,
+                "rating": 4.1
+            }
+        },
+        "number of votes": {
+            "10": 28,
+            "9": 11,
+            "8": 22,
+            "7": 45,
+            "6": 88,
+            "5": 106,
+            "4": 114,
+            "3": 100,
+            "2": 43,
+            "1": 66
+        },
+        "arithmetic mean": 4.6,
+        "median": 4
+    }
+}

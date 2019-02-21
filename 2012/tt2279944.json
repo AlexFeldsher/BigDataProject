@@ -1,0 +1,152 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "20 September 2012"
+            },
+            {
+                "country": "USA\n",
+                "date": "20 September 2012",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "USA\n",
+                "date": "20 September 2013",
+                "notes": "                            (DVD premiere)"
+            }
+        ],
+        "release dates": [
+            "USA::20 September 2012",
+            "USA::20 September 2012                            (DVD premiere)",
+            "USA::20 September 2013                            (DVD premiere)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Are We There Yet? (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "20 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "DeMuro, Bobby"
+            }
+        ],
+        "locations": [
+            "Istanbul, Turkey::(interview)",
+            "Konya, Turkey::(street scenes)",
+            "Kayseri, Turkey::(interview)",
+            "Izmir, Turkey",
+            "John F. Kennedy International Airport, Jamaica, Queens, New York City, New York, USA"
+        ],
+        "genres": [
+            "Reality-TV"
+        ],
+        "runtimes": [
+            "46"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color::(HD)"
+        ],
+        "aspect ratio": "1.78 : 1 (high definition)",
+        "sound mix": [
+            "Dolby Digital",
+            "Stereo",
+            "DTS"
+        ],
+        "number of seasons": 1,
+        "budget": "$75,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Are We There Yet?",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "akas": [
+            "Are We There Yet? (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "CLT Blog"
+            },
+            {
+                "name": "Superlative Stimuli"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CLT Blog"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Warehouze"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Mod Media Professional Talent Representation"
+            },
+            {
+                "name": "Superlative Stimuli"
+            },
+            {
+                "name": "Superlative Stimuli"
+            },
+            {
+                "name": "Tensegrity"
+            }
+        ],
+        "plot": [
+            "4 friends travel the world to nations like Turkey, Nigeria, and Malaysia, to explore the people and places rising to power. On the road, they discover the next generation of powers and explore their own happiness on the trip of a lifetime.::Bobby DeMuro"
+        ],
+        "tech": {
+            "runtime": [
+                "46 min"
+            ],
+            "sound mix": [
+                "Dolby Digital",
+                "Stereo",
+                "DTS"
+            ],
+            "color": [
+                "Color (HD)"
+            ],
+            "aspect ratio": [
+                "1.78 : 1 (high definition)",
+                "16:9 HD (high definition)"
+            ],
+            "laboratory": [
+                "Tensegrity (Dallas, TX) (DCP mastering)"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate"
+            ]
+        }
+    }
+}

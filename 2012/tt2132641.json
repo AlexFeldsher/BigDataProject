@@ -1,0 +1,447 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "3 September 2012"
+            },
+            {
+                "country": "Spain\n",
+                "date": "4 September 2012"
+            },
+            {
+                "country": "Germany\n",
+                "date": "2 January 2013"
+            },
+            {
+                "country": "Japan\n",
+                "date": "6 May 2013"
+            }
+        ],
+        "release dates": [
+            "USA::3 September 2012",
+            "Spain::4 September 2012",
+            "Germany::2 January 2013",
+            "Japan::6 May 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Coma"
+            },
+            {
+                "countries": "Germany",
+                "title": "Koma"
+            },
+            {
+                "countries": "Russia",
+                "title": "Кома"
+            },
+            {
+                "countries": "USA",
+                "title": "Coma"
+            }
+        ],
+        "akas": [
+            "Coma (original title)",
+            "Koma Germany",
+            "Кома Russia",
+            "Coma USA"
+        ],
+        "akas from release info": [
+            "Coma (original title)",
+            "Koma Germany",
+            "Кома Russia",
+            "Coma USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Part One",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Coma (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 162,
+                    "original air date": "3 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    Susan Wheeler is a third year med student who starts her surgical rotation at a Memorial Hospital and finds that an acquaintance, Nancy Greenly, is one of the patients and is now in a coma after undergoing a relatively minor procedure. She checks past files and finds that there are an abnormally large number of similar cases where relatively healthy people have gone into a coma after surgery. She thinks there's a connection with the Jefferson Institute, a long-term care facility. The more she looks into the comas the stranger her life gets: the assistant Chief of ...    "
+                },
+                "2": {
+                    "title": "Part Two",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Coma (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 106,
+                    "original air date": "4 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    Despite warnings and threats, third year medical student Susan Wheeler continues her investigation into a series botched surgeries where patient are going into comas from which they will never awaken. She visits the Jefferson Institute and even manages to sneak out photos. She thinks she's found a connection to operating room 8 and may even have discovered how the comas are induced. She also finds common genetic markers in the victims. She discovers the video surveillance camera someone has set up in her apartment and advises the Chief of Staff, Dr. Howard Stark of ...    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Ambrose, Lauren"
+            },
+            {
+                "name": "Pasquale, Steven"
+            },
+            {
+                "name": "Davis, Geena"
+            },
+            {
+                "name": "Woods, James"
+            },
+            {
+                "name": "Morton, Joe"
+            },
+            {
+                "name": "Rebhorn, James"
+            },
+            {
+                "name": "Weston, Michael"
+            },
+            {
+                "name": "Mazzello, Joseph"
+            },
+            {
+                "name": "Smith, Brian J."
+            },
+            {
+                "name": "Knepp, Natalie"
+            },
+            {
+                "name": "Burstyn, Ellen"
+            },
+            {
+                "name": "Dreyfuss, Richard"
+            },
+            {
+                "name": "Pniewski, Mike"
+            },
+            {
+                "name": "Bronson, Claire"
+            },
+            {
+                "name": "Castan, Franco"
+            },
+            {
+                "name": "Fitzgerald, Wilbur"
+            },
+            {
+                "name": "Smith, Ron Clinton"
+            },
+            {
+                "name": "Colwell, Anna"
+            },
+            {
+                "name": "Beute, Erin"
+            },
+            {
+                "name": "Tecosky, Nicholas"
+            },
+            {
+                "name": "Treveiler, Robert C."
+            },
+            {
+                "name": "Kneeland, Kate"
+            },
+            {
+                "name": "Reitz, Ric"
+            },
+            {
+                "name": "Varela, Elena"
+            },
+            {
+                "name": "Jenkins, Burgess"
+            },
+            {
+                "name": "Muse, Ricky"
+            },
+            {
+                "name": "Mays, Eaddy"
+            },
+            {
+                "name": "Hall, Jyn"
+            },
+            {
+                "name": "Corbett, Greg"
+            },
+            {
+                "name": "Comegys, Russell Durham"
+            },
+            {
+                "name": "Coulter, Steve"
+            },
+            {
+                "name": "Hannah, Morgan"
+            },
+            {
+                "name": "Calhoun, David"
+            },
+            {
+                "name": "Mitchell, E. Roger"
+            },
+            {
+                "name": "Lamm, Benjamin"
+            },
+            {
+                "name": "Butler, Dianne"
+            },
+            {
+                "name": "Crow, John"
+            },
+            {
+                "name": "Mendenhall, Eric"
+            },
+            {
+                "name": "Ortiz, Gracie"
+            },
+            {
+                "name": "Ivey, Edith"
+            },
+            {
+                "name": "Jones, Tara"
+            },
+            {
+                "name": "Hernandez, Luis R."
+            },
+            {
+                "name": "Kraski, Clay Edmund"
+            },
+            {
+                "name": "Walker, Jackson"
+            },
+            {
+                "name": "Watness, Olga"
+            },
+            {
+                "name": "Smith, James Warner"
+            },
+            {
+                "name": "Kim-Fazenbaker, J.J."
+            },
+            {
+                "name": "Morgado, Doris"
+            },
+            {
+                "name": "Lavette, Naomi"
+            },
+            {
+                "name": "Nelson, Debra"
+            }
+        ],
+        "locations": [
+            "Atlanta, Georgia, USA"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "runtimes": [
+            "240"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Germany:16",
+            "Singapore:PG13",
+            "United States:TV-14"
+        ],
+        "original air date": "03 Sep 2012 (USA)",
+        "number of seasons": 1,
+        "rating": 5.8,
+        "votes": 1964,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BODg2ODEwNDcxNV5BMl5BanBnXkFtZTcwNTgyMjEzOA@@._V1_SY150_CR5,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Coma",
+        "year": 2012,
+        "kind": "tv mini series",
+        "series years": "2012-2012",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Cook, Robin"
+            },
+            {
+                "name": "McLaughlin, John J."
+            }
+        ],
+        "director": [
+            {
+                "name": "Salomon, Mikael"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Scott Free Productions"
+            },
+            {
+                "name": "Warner Bros. Television"
+            },
+            {
+                "name": "Sony Pictures Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "A&E Television Networks"
+            },
+            {
+                "name": "Calle 13 Universal"
+            },
+            {
+                "name": "Sky Cinema"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "WOWOW Prime"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "East Coast Films"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Alternative Rentals"
+            },
+            {
+                "name": "Hanna Brothers Film & Event Catering"
+            },
+            {
+                "name": "Harris Diversified"
+            },
+            {
+                "name": "Hollywood Trucks"
+            }
+        ],
+        "plot": [
+            "A young medical student discovers that something sinister is going on in her hospital after routine procedures send more than a few seemingly healthy patients into comas on the operating table.::A&E Television Networks"
+        ],
+        "tech": {
+            "runtime": [
+                "4 hr (240 min)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1964,
+                "rating": 5.8
+            },
+            "aged 18 29": {
+                "votes": 301,
+                "rating": 6.4
+            },
+            "aged 30 44": {
+                "votes": 891,
+                "rating": 5.8
+            },
+            "aged 45 plus": {
+                "votes": 508,
+                "rating": 5.6
+            },
+            "males": {
+                "votes": 1250,
+                "rating": 5.7
+            },
+            "males aged 18 29": {
+                "votes": 193,
+                "rating": 6.4
+            },
+            "males aged 30 44": {
+                "votes": 621,
+                "rating": 5.7
+            },
+            "males aged 45 plus": {
+                "votes": 384,
+                "rating": 5.5
+            },
+            "females": {
+                "votes": 498,
+                "rating": 6.0
+            },
+            "females aged 18 29": {
+                "votes": 106,
+                "rating": 6.5
+            },
+            "females aged 30 44": {
+                "votes": 258,
+                "rating": 6.0
+            },
+            "females aged 45 plus": {
+                "votes": 112,
+                "rating": 5.8
+            },
+            "top 1000 voters": {
+                "votes": 81,
+                "rating": 5.2
+            },
+            "us users": {
+                "votes": 504,
+                "rating": 5.7
+            },
+            "non us users": {
+                "votes": 939,
+                "rating": 5.7
+            }
+        },
+        "number of votes": {
+            "10": 168,
+            "9": 69,
+            "8": 184,
+            "7": 363,
+            "6": 471,
+            "5": 352,
+            "4": 154,
+            "3": 80,
+            "2": 46,
+            "1": 77
+        },
+        "arithmetic mean": 6.1,
+        "median": 6
+    }
+}
