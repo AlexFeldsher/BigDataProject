@@ -1,0 +1,2342 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "22 September 2011"
+            },
+            {
+                "country": "USA\n",
+                "date": "22 September 2011"
+            },
+            {
+                "country": "Australia\n",
+                "date": "25 September 2011"
+            },
+            {
+                "country": "Costa Rica\n",
+                "date": "November 2011"
+            },
+            {
+                "country": "Venezuela\n",
+                "date": "November 2011"
+            },
+            {
+                "country": "Spain\n",
+                "date": "17 November 2011"
+            },
+            {
+                "country": "Turkey\n",
+                "date": "17 November 2011"
+            },
+            {
+                "country": "Finland\n",
+                "date": "21 November 2011",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "Philippines\n",
+                "date": "January 2012"
+            },
+            {
+                "country": "New Zealand\n",
+                "date": "16 January 2012"
+            },
+            {
+                "country": "India\n",
+                "date": "6 March 2012"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "8 March 2012"
+            },
+            {
+                "country": "Trinidad and Tobago\n",
+                "date": "8 March 2012"
+            },
+            {
+                "country": "Israel\n",
+                "date": "15 March 2012"
+            },
+            {
+                "country": "Slovenia\n",
+                "date": "20 March 2012"
+            },
+            {
+                "country": "Italy\n",
+                "date": "30 April 2012"
+            },
+            {
+                "country": "Portugal\n",
+                "date": "8 May 2012"
+            },
+            {
+                "country": "South Korea\n",
+                "date": "11 May 2012"
+            },
+            {
+                "country": "Fiji\n",
+                "date": "11 July 2012"
+            },
+            {
+                "country": "Germany\n",
+                "date": "14 August 2012"
+            },
+            {
+                "country": "UK\n",
+                "date": "14 August 2012"
+            },
+            {
+                "country": "Japan\n",
+                "date": "19 August 2012"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "26 August 2012"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "28 August 2012",
+                "notes": "                            (French speaking region)"
+            },
+            {
+                "country": "Cyprus\n",
+                "date": "30 September 2012"
+            },
+            {
+                "country": "Greece\n",
+                "date": "30 September 2012"
+            },
+            {
+                "country": "Finland\n",
+                "date": "20 February 2013"
+            },
+            {
+                "country": "France\n",
+                "date": "6 March 2013"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "21 March 2013"
+            }
+        ],
+        "release dates": [
+            "Canada::22 September 2011",
+            "USA::22 September 2011",
+            "Australia::25 September 2011",
+            "Costa Rica::November 2011",
+            "Venezuela::November 2011",
+            "Spain::17 November 2011",
+            "Turkey::17 November 2011",
+            "Finland::21 November 2011                            (limited)",
+            "Sweden::21 November 2011",
+            "Philippines::January 2012",
+            "New Zealand::16 January 2012",
+            "India::6 March 2012",
+            "Hungary::8 March 2012",
+            "Trinidad and Tobago::8 March 2012",
+            "Israel::15 March 2012",
+            "Slovenia::20 March 2012",
+            "Italy::30 April 2012",
+            "Portugal::8 May 2012",
+            "South Korea::11 May 2012",
+            "Fiji::11 July 2012",
+            "Germany::14 August 2012",
+            "UK::14 August 2012",
+            "Japan::19 August 2012",
+            "Netherlands::26 August 2012",
+            "Belgium::28 August 2012                            (French speaking region)",
+            "Cyprus::30 September 2012",
+            "Greece::30 September 2012",
+            "Finland::20 February 2013",
+            "France::6 March 2013",
+            "Belgium::21 March 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Person of Interest"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Pessoa de Interesse"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Под наблюдение"
+            },
+            {
+                "countries": "Canada (French title)",
+                "title": "Personne d'intérêt"
+            },
+            {
+                "countries": "Croatia",
+                "title": "Stalna meta"
+            },
+            {
+                "countries": "Croatia (alternative title)",
+                "title": "Osumnjiceni"
+            },
+            {
+                "countries": "Czech Republic",
+                "title": "Lovci zlocincu"
+            },
+            {
+                "countries": "Estonia",
+                "title": "Mõrvaennetajad"
+            },
+            {
+                "countries": "Finland",
+                "title": "Kohde"
+            },
+            {
+                "countries": "France",
+                "title": "Person of Interest"
+            },
+            {
+                "countries": "Greece",
+                "title": "Person of Interest"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A célszemély"
+            },
+            {
+                "countries": "Italy",
+                "title": "Person of Interest"
+            },
+            {
+                "countries": "Lithuania",
+                "title": "Judantis objektas"
+            },
+            {
+                "countries": "Mexico",
+                "title": "Vigilados"
+            },
+            {
+                "countries": "Poland (alternative title)",
+                "title": "Wybrani"
+            },
+            {
+                "countries": "Poland",
+                "title": "Impersonalni"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Sob Suspeita"
+            },
+            {
+                "countries": "Russia",
+                "title": "В поле зрения"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Stalna meta"
+            },
+            {
+                "countries": "Slovenia",
+                "title": "Lov na osumljenca"
+            },
+            {
+                "countries": "Spain",
+                "title": "Vigilados: Person of Interest"
+            },
+            {
+                "countries": "Spain",
+                "title": "Person of Interest"
+            },
+            {
+                "countries": "Turkey (Turkish title)",
+                "title": "Supheli Sahis"
+            },
+            {
+                "countries": "USA (short title)",
+                "title": "P.O.I"
+            }
+        ],
+        "akas": [
+            "Person of Interest (original title)",
+            "Pessoa de Interesse Brazil",
+            "Под наблюдение Bulgaria (Bulgarian title)",
+            "Personne d'intérêt Canada (French title)",
+            "Stalna meta Croatia",
+            "Osumnjiceni Croatia (alternative title)",
+            "Lovci zlocincu Czech Republic",
+            "Mõrvaennetajad Estonia",
+            "Kohde Finland",
+            "Person of Interest France",
+            "Person of Interest Greece",
+            "A célszemély Hungary",
+            "Person of Interest Italy",
+            "Judantis objektas Lithuania",
+            "Vigilados Mexico",
+            "Wybrani Poland (alternative title)",
+            "Impersonalni Poland",
+            "Sob Suspeita Portugal",
+            "В поле зрения Russia",
+            "Stalna meta Serbia",
+            "Lov na osumljenca Slovenia",
+            "Vigilados: Person of Interest Spain",
+            "Person of Interest Spain",
+            "Supheli Sahis Turkey (Turkish title)",
+            "P.O.I USA (short title)"
+        ],
+        "akas from release info": [
+            "Person of Interest (original title)",
+            "Pessoa de Interesse Brazil",
+            "Под наблюдение Bulgaria (Bulgarian title)",
+            "Personne d'intérêt Canada (French title)",
+            "Stalna meta Croatia",
+            "Osumnjiceni Croatia (alternative title)",
+            "Lovci zlocincu Czech Republic",
+            "Mõrvaennetajad Estonia",
+            "Kohde Finland",
+            "Person of Interest France",
+            "Person of Interest Greece",
+            "A célszemély Hungary",
+            "Person of Interest Italy",
+            "Judantis objektas Lithuania",
+            "Vigilados Mexico",
+            "Wybrani Poland (alternative title)",
+            "Impersonalni Poland",
+            "Sob Suspeita Portugal",
+            "В поле зрения Russia",
+            "Stalna meta Serbia",
+            "Lov na osumljenca Slovenia",
+            "Vigilados: Person of Interest Spain",
+            "Person of Interest Spain",
+            "Supheli Sahis Turkey (Turkish title)",
+            "P.O.I USA (short title)"
+        ],
+        "episodes": {
+            "5": {
+                "1": {
+                    "title": "B.S.O.D.",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 1,
+                    "votes": 3188,
+                    "original air date": "3 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Lionel is investigated in relation to Dominic's death. Away from Samaritan, Mr. Reese and Harold try to save the Machine. Root is on the run.    "
+                },
+                "2": {
+                    "title": "SNAFU",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 2,
+                    "votes": 2549,
+                    "original air date": "9 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Root and Finch work on bringing Northern Lights back online. They are successful and thus they start receiving numbers from the irrelevant list. However, the Machine is not as productive as before.    "
+                },
+                "3": {
+                    "title": "Truth Be Told",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 3,
+                    "votes": 2319,
+                    "original air date": "10 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Reese's cover could be blown when he realizes the latest POI has ties to his old CIA colleague, Kara Stanton.    "
+                },
+                "4": {
+                    "title": "6,741",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 4,
+                    "votes": 4120,
+                    "original air date": "16 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Shaw escapes her captors, but the team is unsure of her mental state when she begins to act paranoid and reckless.    "
+                },
+                "5": {
+                    "title": "ShotSeeker",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 5,
+                    "votes": 2250,
+                    "original air date": "17 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Reese protects an NYPD analyst whose investigation into a software glitch has drawn the attention of Samaritan. Also, Reese and Fusco are threatened by an ally of Elias's, who is looking to avenge his friend's death.    "
+                },
+                "6": {
+                    "title": "A More Perfect Union",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 6,
+                    "votes": 2125,
+                    "original air date": "23 May 2016",
+                    "year": "2016",
+                    "plot": "\n    The Machine sends Reese and Finch to a wedding to protect a pair of POIs before their nuptials. Also, Fusco becomes angry at being kept in the dark by the team and takes it upon himself to investigate a string of missing person reports.    "
+                },
+                "7": {
+                    "title": "QSO",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 7,
+                    "votes": 2283,
+                    "original air date": "24 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Root goes undercover at a radio station to protect the host of a conspiracy theory show who stumbles upon information that could get him killed. Also, Samaritan's agents try to convince a member of the team that their goals are noble.    "
+                },
+                "8": {
+                    "title": "Reassortment",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 8,
+                    "votes": 2194,
+                    "original air date": "24 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Reese and Finch become trapped in a hospital that becomes ground zero for a deadly viral outbreak. Also, Samaritan's newest recruit has second thoughts and Shaw continues to struggle with reality.    "
+                },
+                "9": {
+                    "title": "Sotto Voce",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 9,
+                    "votes": 2548,
+                    "original air date": "30 May 2016",
+                    "year": "2016",
+                    "plot": "\n    The mysterious criminal mastermind known as \"The Voice\" returns and traps Reese and Fusco in their own precinct with several armed gang members and the latest POI. Also, Root makes a shocking discovery.    "
+                },
+                "10": {
+                    "title": "The Day the World Went Away",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 10,
+                    "votes": 5114,
+                    "original air date": "31 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Finch's number comes up when a fatal error blows his cover identity and sets off a deadly series of escalating encounters with Samaritan's operatives.    "
+                },
+                "11": {
+                    "title": "Synecdoche",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 11,
+                    "votes": 2517,
+                    "original air date": "7 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Harold goes on a road trip with the Machine, while the rest of the team receive a new number; the president of the United States.    "
+                },
+                "12": {
+                    "title": ".exe",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 12,
+                    "votes": 2937,
+                    "original air date": "14 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    As Reese and Shaw race to catch up with Finch, he infiltrates a maximum-security government facility in a desperate mission which could mean the end for not only Samaritan, but for himself and The Machine as well.    "
+                },
+                "13": {
+                    "title": "Return 0",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 13,
+                    "votes": 8356,
+                    "original air date": "21 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Finch, Reese, Fusco and Shaw embark on one last mission to prevent Samaritan from destroying The Machine and cementing its hold over mankind.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 4191,
+                    "original air date": "22 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    When the social security number of a young prosecutor comes up, Reese and Finch work together to figure out if their person of interest is the victim or perpetrator.    "
+                },
+                "2": {
+                    "title": "Ghosts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 3000,
+                    "original air date": "29 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Reese and Finch are given the Social Security number of a teenager killed two years ago, questioning the infallibility of the Machine; Finch flashes back to the Machine's origin, and how it was developed.    "
+                },
+                "3": {
+                    "title": "Mission Creep",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 2784,
+                    "original air date": "6 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    The latest number is an ex-soldier who's now part of a gang that specialize in robberies. Mr. Reese goes undercover, infiltrating the gang. This triggers memories of Jessica.    "
+                },
+                "4": {
+                    "title": "Cura Te Ipsum",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 2705,
+                    "original air date": "13 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    Reese and Finch surveil their latest POI, Dr. Megan Tillman, while she's on call and after hours to unravel the threat surrounding the promising young physician.    "
+                },
+                "5": {
+                    "title": "Judgement",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 2622,
+                    "original air date": "20 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    When the Machine produces the social security number of a judge renowned for his tough sentencing, Reese and Finch have the added challenge of investigating a POI who wants nothing to do with their brand of vigilante justice.    "
+                },
+                "6": {
+                    "title": "The Fix",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 2836,
+                    "original air date": "27 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    Mr. Reese goes as the new driver of fixer Zoe Morgan in order to decide if she's a victim or perpetrator. When Zoe listens to a recording she isn't supposed to, she becomes the target of a pharmaceutical company.    "
+                },
+                "7": {
+                    "title": "Witness",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 2909,
+                    "original air date": "3 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    The Machine identifies a school teacher who witnessed a mob hit as their next POI and Reese and Finch rush to save his life.    "
+                },
+                "8": {
+                    "title": "Foe",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 2538,
+                    "original air date": "17 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    When Reese and Finch discover that their latest POI has connections to Cold War Soviet espionage circles, they quickly learn how covert ops were handled in a world before The Machine.    "
+                },
+                "9": {
+                    "title": "Get Carter",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 2711,
+                    "original air date": "8 Dec. 2011",
+                    "year": "2011",
+                    "plot": "\n    Reese and Finch's game of cat and mouse with Detective Carter becomes infinitely more complicated when The Machine declares that she is their newest POI.    "
+                },
+                "10": {
+                    "title": "Number Crunch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 3044,
+                    "original air date": "15 Dec. 2011",
+                    "year": "2011",
+                    "plot": "\n    As Detective Carter deals with the fallout from her recent encounter with Reese and Finch, The Machine ups the ante for the duo by giving them four Social Security numbers instead of one.    "
+                },
+                "11": {
+                    "title": "Super",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 2660,
+                    "original air date": "12 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reese works the computer while Finch does the legwork with their latest POI, a building super who keeps too close an eye on his tenants. Meanwhile, Detective Carter may finally get her long-awaited glimpse into a case.    "
+                },
+                "12": {
+                    "title": "Legacy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 2359,
+                    "original air date": "19 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    When Carter finally comes face-to-face with Reese, he urges her to join forces to help with their latest POI, a scrappy young woman from the wrong side of the tracks who turned her life around and became a lawyer.    "
+                },
+                "13": {
+                    "title": "Root Cause",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 2734,
+                    "original air date": "2 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Finch and Reese run surveillance on a man who's been unemployed for eight months without his family knowing. Angry that he's been fired, he may pose a threat to society.    "
+                },
+                "14": {
+                    "title": "Wolf and Cub",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 2316,
+                    "original air date": "9 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    The Machine identifies Darren, a teenager whose brother was just murdered, as the next POI. Meanwhile, Finch is growing concerned that the son of his former business partner is dangerously close to finding out about The Machine.    "
+                },
+                "15": {
+                    "title": "Blue Code",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 2443,
+                    "original air date": "16 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reese discovers there's more to the story after he infiltrates a smuggling ring to get close to his latest POI.    "
+                },
+                "16": {
+                    "title": "Risk",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 2292,
+                    "original air date": "23 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    The Machine leads Reese and Finch to Wall Street when a sharp young trader at a major investment bank becomes embroiled in a multi-million dollar financial scam.    "
+                },
+                "17": {
+                    "title": "Baby Blue",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 2471,
+                    "original air date": "8 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    When Moretti gets released from prison, Carter and Mr. Reese team up to protect him from Elias. Meanwhile, Finch's new number is an eight month-old baby girl, whose mother has just been murdered.    "
+                },
+                "18": {
+                    "title": "Identity Crisis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 2311,
+                    "original air date": "29 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Finch and Mr. Reese are going after a person who seems to be leading a double life. However, they soon realize there are 2 people with the same social security number; one of whom is in danger and one who's an impostor.    "
+                },
+                "19": {
+                    "title": "Flesh and Blood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 2598,
+                    "original air date": "5 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Elias is finally ready to eliminate the dons and become the leader of the underground.    "
+                },
+                "20": {
+                    "title": "Matsya Nyaya",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 2464,
+                    "original air date": "26 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    In 2012, Mr. Reese goes undercover as a security guard to prevent a robbery. In 2010, CIA plan to eliminate two of their best agents.    "
+                },
+                "21": {
+                    "title": "Many Happy Returns",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "votes": 2721,
+                    "original air date": "3 May 2012",
+                    "year": "2012",
+                    "plot": "\n    Finch gives Mr. Reese the day off as it's his birthday and chooses to work the new number with Fusco. FBI start looking into the murder of Jessica's husband.    "
+                },
+                "22": {
+                    "title": "No Good Deed",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "votes": 2479,
+                    "original air date": "10 May 2012",
+                    "year": "2012",
+                    "plot": "\n    Finch and Mr. Reese are tailing a spy working for the NSA. As he gets too close to finding out about the Machine, the Government are out to get him.    "
+                },
+                "23": {
+                    "title": "Firewall",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 23,
+                    "votes": 4363,
+                    "original air date": "17 May 2012",
+                    "year": "2012",
+                    "plot": "\n    Reese is trapped next to a person of interest in a part of the city extremely controlled and needs the help of Finch, Fusco and Carter.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "The Contingency",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 2792,
+                    "original air date": "27 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    Mr. Reese breaks Finch's code of communicating with the Machine in order to save the new number, Leon, who stole money from some Aryan outlaws. He then convinces the Machine to help him find Finch.    "
+                },
+                "2": {
+                    "title": "Bad Code",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 2486,
+                    "original air date": "4 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Detective Carter and Mr. Reese go to Texas to look into Root's past. Root shows to Finch that the people who bought his Machine are evil. Mr. Reese finally finds Finch.    "
+                },
+                "3": {
+                    "title": "Masquerade",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 2085,
+                    "original air date": "18 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Mr. Reese becomes the new bodyguard of the daughter of a Brazilian diplomat who parties with the wrong type of people. Finch finds it hard to readjust to society after his kidnapping.    "
+                },
+                "4": {
+                    "title": "Triggerman",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 1990,
+                    "original air date": "25 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Mr. Reese and Finch try to protect a man involved in organized crime that has a bounty on him.    "
+                },
+                "5": {
+                    "title": "Bury the Lede",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 2217,
+                    "original air date": "1 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    The FBI are getting closer to the head of HR. Mr. Reese tries to prevent a young journalist that likes taking risks from being killed. To avoid getting media attention, Mr. Reese starts dating her. Fusco is playing double.    "
+                },
+                "6": {
+                    "title": "The High Road",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 1940,
+                    "original air date": "8 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    John and Zoe go deep undercover as husband and wife to get close to a person who's been using a dead guy's identity for the past 15 years. In a flashback Finch first meets Grace Hendricks.    "
+                },
+                "7": {
+                    "title": "Critical",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 2045,
+                    "original air date": "15 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Leon is trapped for his own protection. A medical doctor faces a difficult decision. Detective Carter encounters agent Snow.    "
+                },
+                "8": {
+                    "title": "Til Death",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 1958,
+                    "original air date": "29 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Mr. Reese and Mr. Finch try to stop a rich married couple from killing each other.    "
+                },
+                "9": {
+                    "title": "C.O.D.",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 1874,
+                    "original air date": "6 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n    Finch and Mr. Reese try to protect a taxi driver that is being chased by the Estonian mafia. HR try to make a deal with Elias.    "
+                },
+                "10": {
+                    "title": "Shadow Box",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 2189,
+                    "original air date": "13 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reese and Finch's latest number is twenty-six year old Abby Monroe, who they expect will be the target based on basic information they have about her. She is a past honor student having received a degree in engineering. She worked the past year for Homes for Our Returning Heroes, a military charity that supports returning veterans financially, that job Reese and Finch surmise in honor of her brother who was killed in Afghanistan. She, however, left that job to work instead for the city planning department. Their belief that she will be the target does not diminish ...    "
+                },
+                "11": {
+                    "title": "2 Pi R",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 2370,
+                    "original air date": "3 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Special Agent Donnelly has Reese, along with three other men, in seventy-two hour custody on Riker's Island. With Finch's help, Carter is in unofficial charge of helping Reese get out of custody without disclosing to Donnelly that Reese is indeed the \"man in the suit\" that Donnelly considers the most dangerous man on the loose. Although Carter has a plan to do so, she may find that tenacious Donnelly may not let Reese and the other three go so easily if he has not yet found out which one is the man in the suit. Meanwhile, Finch, largely with Fusco's help, is handling ...    "
+                },
+                "12": {
+                    "title": "Prisoner's Dilemma",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 2895,
+                    "original air date": "10 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Finch and Carter are trying to get Reese out of Riker's, where he is still being kept prisoner by Donnelly. Meanwhile, Fusco is working alone in the next number.    "
+                },
+                "13": {
+                    "title": "Dead Reckoning",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 2467,
+                    "original air date": "31 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Reese finds being saved by Stanton means having a bomb strapped to his chest while he and Snow infiltrate a DoD lab. A flashback shows how she survived the missile attack and Greer makes his first appearance.    "
+                },
+                "14": {
+                    "title": "One Percent",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "votes": 1931,
+                    "original air date": "7 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    A tech billionaire's erratic behavior threatens to destroy his business empire, which may mean one of his subordinates wants to put an end to him, if one of the many competitors he's crushed doesn't do it first.    "
+                },
+                "15": {
+                    "title": "Booked Solid",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "votes": 1992,
+                    "original air date": "14 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Finch and Reese go undercover in a hotel to protect a cleaning woman who is the apparent target of Serbian killers. Meanwhile, Carter begins the process of joining the FBI and someone from their past unexpectedly returns.    "
+                },
+                "16": {
+                    "title": "Relevance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 16,
+                    "votes": 3329,
+                    "original air date": "21 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Sam Shaw and her associate Michael Cole recieve the relevant numbers from the machine, but Reese and Finch must help them, before is too late.    "
+                },
+                "17": {
+                    "title": "Proteus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 17,
+                    "votes": 1985,
+                    "original air date": "7 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    The Machine suddenly provides six numbers, one of whom has a place on remote Owen Island. Because of a tropical storm Finch and Reese are trapped there with eight others, and one is them is methodically killing the others, one by one.    "
+                },
+                "18": {
+                    "title": "All In",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 18,
+                    "votes": 1803,
+                    "original air date": "14 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    After saving Leon Tao yet again, Reese goes to Atlantic City to watch over a retiree who's losing a fortune in the casino. HR smears Szymanski so that he can't testify at a Russian mob trial and Carter risks her life trying to clear him.    "
+                },
+                "19": {
+                    "title": "Trojan Horse",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 19,
+                    "votes": 2004,
+                    "original air date": "4 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    Finch goes undercover at a tech company to watch a rising VP. The company appears to be riddled with agents who are a front for something more sinister. Shaw reappears and takes an interest in Root. HR decides to rub out an informant.    "
+                },
+                "20": {
+                    "title": "In Extremis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 20,
+                    "votes": 2066,
+                    "original air date": "25 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    A respected doctor is poisoned with Polonium and has just 24 hours to help Reese find his killer. Carter, grieving over the death of Cal Beecher, helps Fusco when HR turns Internal Affairs against him.    "
+                },
+                "21": {
+                    "title": "Zero Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 21,
+                    "votes": 2826,
+                    "original air date": "2 May 2013",
+                    "year": "2013",
+                    "plot": "\n    They wait ten days for a new number due to a system virus, suspecting Root is the problem. It's for Ernest Thornhill, who isn't who, or what, he is supposed to be. At stake is The Machine - will it remain with Finch or end up with Decima?    "
+                },
+                "22": {
+                    "title": "God Mode",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 22,
+                    "votes": 3256,
+                    "original air date": "9 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Reese and Finch team up with surprising allies in a race to save The Machine from Root and the mysterious international organization, Decima, who have both re-emerged with dangerous agendas.    "
+                }
+            },
+            "3": {
+                "1": {
+                    "title": "Liberty",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 2217,
+                    "original air date": "24 Sep. 2013",
+                    "year": "2013",
+                    "plot": "\n    Nobody knows where the Machine has now relocated itself, but it is still in contact with both Finch and, by association, Reese and their new partner Shaw, as well as Root. Still institutionalized, Root may have a short term problem in dealing with her psychiatrist, whom she sees as being stupid, and from whom she has not been provided access to any electronic devices including telephones. Carter, now demoted to patrol following her HR-initiated wrongful shooting incident, has her own new primary agenda. She has also not told Finch or Reese of her association with a ...    "
+                },
+                "2": {
+                    "title": "Nothing to Hide",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 1935,
+                    "original air date": "1 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    The head of an Internet company ostensibly for finding lost loved ones is really a front for selling personal info. Carter has to train a new cop while she looks for Beecher's killer and a new vigilante named Collier makes his appearance.    "
+                },
+                "3": {
+                    "title": "Lady Killer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 2135,
+                    "original air date": "8 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    The team suspects the latest number to be a potential stalker/ killer until he's nearly shot on the street. Root plots her escape from the institution and gives her psychiatrist a big surprise.    "
+                },
+                "4": {
+                    "title": "Reasonable Doubt",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 1940,
+                    "original air date": "15 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    The next number the machine dispenses is for Vanessa Watkins, a hard-nosed prosecuting attorney who, when Finch and Reese first meet her, has just reported her husband, Jeremy Watkins, missing from their yacht. While Vanessa has put away many a criminal over her storied career, Jeremy has let many go as a flashy and high-priced defense attorney. As her number came in after the report of him missing, they know Jeremy's presumed death is not the reason for the number, yet they don't know if Vanessa is the target or the perpetrator. They learn that the lead investigator ...    "
+                },
+                "5": {
+                    "title": "Razgovor",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 2477,
+                    "original air date": "22 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    Shaw is tasked to stay close to a 10-year-old identified by The Machine, who is wanted by the Russians. Meanwhile, Carter's mission to bring HR to justice risks exposure.    "
+                },
+                "6": {
+                    "title": "Mors Praematura",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 2239,
+                    "original air date": "29 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    Root reappears and kidnaps Shaw. Finch helps an estate investigator who looking into the death of his step brother. A new vigilante group (Vigilance) makes it presence known. Carter's young partner has his loyalty to HR tested.    "
+                },
+                "7": {
+                    "title": "The Perfect Mark",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 2052,
+                    "original air date": "5 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    A hypnotherapist, who's really a con man, pumps his patients for personal information while they are hypnotized. One of his patients is an antique dealer who launders money for HR.    "
+                },
+                "8": {
+                    "title": "Endgame",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 3004,
+                    "original air date": "12 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    Finch receives 38 numbers at once from the Machine. He discovers they are connected to an unknown player who is inciting an all-out war between HR and the Russian mob.    "
+                },
+                "9": {
+                    "title": "The Crossing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 4816,
+                    "original air date": "19 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    Danger closes in when the epic battle to bring the criminal organization HR to justice reaches new heights. And when the Machine suddenly gives out Reese's number, the POI team faces their greatest threat yet.    "
+                },
+                "10": {
+                    "title": "The Devil's Share",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 4885,
+                    "original air date": "26 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    The team seeks justice for Carter's murder, but Finch realizes that one person may go too far in the battle against HR. Meanwhile, NYPD officer Patrick Simmons' number comes up.    "
+                },
+                "11": {
+                    "title": "Lethe",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 11,
+                    "votes": 2386,
+                    "original air date": "17 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    Flashbacks to Finch's adolescence provide insight into his creation of The Machine. Also, the team receives the number of an already dying man, and Reese leaves the POI team behind in the aftermath of the war with the crime organization.    "
+                },
+                "12": {
+                    "title": "Aletheia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 12,
+                    "votes": 2336,
+                    "original air date": "7 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Sameen, Harold, and Arthur make their escape. Root is captured and tortured. The others go to recover Arthur's back up hard drives but are caught in the crossfire when Vigilance arrives to claim them for themselves to expose Samaritan.    "
+                },
+                "13": {
+                    "title": "4C",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 13,
+                    "votes": 2301,
+                    "original air date": "14 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Reese, still despondent over Carter's death, boards a flight to Europe and gets a cryptic message on a cellphone about a passenger who is supposed to be just a low level programmer, but is the target of a drug cartel and the Mossad.    "
+                },
+                "14": {
+                    "title": "Provenance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 14,
+                    "votes": 1888,
+                    "original air date": "4 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Reese rejoins Finch in New York, but when the team receives the number of a highly skilled antiquities thief, a surprising turn of events finds them planning a heist which could land them all in jail.    "
+                },
+                "15": {
+                    "title": "Last Call",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 15,
+                    "votes": 1960,
+                    "original air date": "25 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Finch goes undercover in an emergency call center to protect a 911 operator, who's being forced to cooperate with the kidnapper of a young boy. Before long they find out they connected to a murder Fusco is involved in.    "
+                },
+                "16": {
+                    "title": "RAM",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 16,
+                    "votes": 2640,
+                    "original air date": "4 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    A flashback to the early days of Finch's operations reveals secrets and connections with far-reaching implications.    "
+                },
+                "17": {
+                    "title": "Root Path",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 17,
+                    "votes": 2273,
+                    "original air date": "18 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Machine tasks Root to find a janitor who has a mysterious past. However, when her presence endangers him, the Machine sends his number to Finch as well.    "
+                },
+                "18": {
+                    "title": "Allegiance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 18,
+                    "votes": 1765,
+                    "original air date": "25 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    The team gets involved in a case of international politics when a former government contractor stalks a U.N. diplomat. Meanwhile, an adversary tries to take advantage of Root.    "
+                },
+                "19": {
+                    "title": "Most Likely to...",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 19,
+                    "votes": 1956,
+                    "original air date": "1 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Reese and Shaw go to a H.S. reunion to shadow a prosecutor who may have been involved in a killing 20 years ago. Finch and Fusco compete with the FBI to find out why a government employee was killed. And not far behind is Vigilance.    "
+                },
+                "20": {
+                    "title": "Death Benefit",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 20,
+                    "votes": 2261,
+                    "original air date": "15 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    News of Northern Lights has hit the media, meaning that the team's work has become more difficult if only because of the public eye on what is happening. While Shaw heads off with Root on her next assignment, Reese heads to Washington DC to reunite with Finch for their next number, that belonging to Illinois Congressman Roger McCourt. Finch's initial guess is that they are heading into uncharted territory as he believes that McCourt is not only the target or the perpetrator of an individual crime, but also that his number is related to terrorism or national security ...    "
+                },
+                "21": {
+                    "title": "Beta",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 21,
+                    "votes": 2311,
+                    "original air date": "29 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Decima hunts down Reese and Shaw using Samaritan's feeds. Meanwhile, Greer sets a trap for Finch by targeting his former fiancée, Grace.    "
+                },
+                "22": {
+                    "title": "A House Divided",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 22,
+                    "votes": 2262,
+                    "original air date": "6 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Decima has completed its beta test of Samaritan and has now shut it down temporarily as Greer has to get the politicos, namely Garrison, to buy into the need to purchase it in the name of national security. Greer needs this to happen as they require the government feeds for Samaritan to operate properly. With Finch now being held by Greer and Decima, Reese believes that their first priority should be to retrieve him. However, Root, in her continuing contact with the Machine, convinces Reese and Shaw that the Machine is telling her that Finch, for the time being, is ...    "
+                },
+                "23": {
+                    "title": "Deus Ex Machina",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 23,
+                    "votes": 4518,
+                    "original air date": "13 May 2014",
+                    "year": "2014",
+                    "plot": "\n    The team takes desperate action in its race to prevent Samaritan from coming online and making them its first targets. Meanwhile, the months-long battle with the anti-surveillance terrorist group Vigilance comes to a shocking conclusion.    "
+                }
+            },
+            "4": {
+                "1": {
+                    "title": "Panopticon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "votes": 2634,
+                    "original air date": "23 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    Required to assume new identities created by Root, the team tries to adapt to their new lives, but a new number complicates things.    "
+                },
+                "2": {
+                    "title": "Nautilus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "votes": 2349,
+                    "original air date": "30 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    Harold reluctantly agrees to help John protect a young woman who is participating in a dangerous and deadly game, meanwhile Shaw works with a group of thieves as her new cover identity.    "
+                },
+                "3": {
+                    "title": "Wingman",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "votes": 1983,
+                    "original air date": "7 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Finch recruits Fusco to stick close to the latest POI, a professional \"wingman\", but learning how to approach women soon becomes the least of his worries. Meanwhile, Reese must find a way to play by the rules at his new day job as the Machine sends Finch and Root on a mysterious errand.    "
+                },
+                "4": {
+                    "title": "Brotherhood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 4,
+                    "votes": 1950,
+                    "original air date": "14 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    The next numbers the Machine provides are for fourteen-year-old Malcolm Booker, and his eight-year-old sister, Tracie Booker, who are in foster care as their mother is incarcerated on a conviction for illegal firearms possession. Reese, who is tasked with finding them, quickly learns that they are the intended targets, as they stole $500,000 in drug money from the Brotherhood, a gang led by the unknown Dominic. Reese knows of the Brotherhood because he helped put in jail one of the gang's higher ups, Link, who is now out. The DEA is interested in the case, their head ...    "
+                },
+                "5": {
+                    "title": "Prophets",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 5,
+                    "votes": 2401,
+                    "original air date": "21 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    On Election Day Reese shoots a potential jumper and is forced to go into counseling. The new number is for a pollster who suspects the election for Governor of New York was rigged. It was - by Samaritan, and his life is now in danger.    "
+                },
+                "6": {
+                    "title": "Pretenders",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 6,
+                    "votes": 2101,
+                    "original air date": "28 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    John and others try to prevent a fake detective from getting himself killed, while Harold attends a conference in Hong Kong.    "
+                },
+                "7": {
+                    "title": "Honor Among Thieves",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 7,
+                    "votes": 2094,
+                    "original air date": "11 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Shaw joins a team of international thieves in order to keep tabs on the latest POI, but an unexpected turn of events puts her in danger of being detected by Samaritan. Also, Finch and Root undertake a dangerous sabotage mission.    "
+                },
+                "8": {
+                    "title": "Point of Origin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 8,
+                    "votes": 2097,
+                    "original air date": "18 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Reese volunteers as an NYPD police academy instructor in order to keep an eye on a talented young officer whose suspicious actions make him question her motives. Meanwhile, Martine, armed with information from Samaritan, hunts a member of the team.    "
+                },
+                "9": {
+                    "title": "The Devil You Know",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 9,
+                    "votes": 2896,
+                    "original air date": "25 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Reese must save Elias from the Brotherhood. He can't get any help from Root or Shaw since Shaw's cover is blown and Root is escorting her to underground.    "
+                },
+                "10": {
+                    "title": "The Cold War",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 10,
+                    "votes": 2471,
+                    "original air date": "16 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    Samaritan demonstrates its true power by taking control of New York for 48 hours and erasing crime from the city in an attempt to lure The Machine out of hiding.    "
+                },
+                "11": {
+                    "title": "If-Then-Else",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 11,
+                    "votes": 9868,
+                    "original air date": "6 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Samaritan launches a cyber-attack on the stock exchange, leaving the team with no choice but to embark on a possible suicide mission in a desperate attempt to stop a global economic catastrophe.    "
+                },
+                "12": {
+                    "title": "Control-Alt-Delete",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 12,
+                    "votes": 2734,
+                    "original air date": "13 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Control is back and begins to question the methods and intentions of Samaritan. Also, alarming news reports of a pair of vigilantes rampaging through the Northeast begin to surface.    "
+                },
+                "13": {
+                    "title": "M.I.A.",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 13,
+                    "votes": 2163,
+                    "original air date": "3 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    The hunt for Shaw takes Root and Reese to a small town in upstate New York where not everything is as idyllic as it seems; Fusco and a former person of interest team up.    "
+                },
+                "14": {
+                    "title": "Guilty",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 14,
+                    "votes": 1861,
+                    "original air date": "10 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    While on a jury for a murder trial, Finch becomes suspicious of another juror; Reese starts to open up to a therapist.    "
+                },
+                "15": {
+                    "title": "Q & A",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 15,
+                    "votes": 1969,
+                    "original air date": "17 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Reese tries to protect a software programmer with a mysterious second life, but it's unclear which side of her life the threat is coming from. Meanwhile, Claire, a young hacker that Finch protected, reaches out to him for aid.    "
+                },
+                "16": {
+                    "title": "Blunt",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 16,
+                    "votes": 1761,
+                    "original air date": "24 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Reese and Finch must protect a street-smart grifter after her plan to steal cash from a medical marijuana dispensary fails.    "
+                },
+                "17": {
+                    "title": "Karma",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 17,
+                    "votes": 1747,
+                    "original air date": "10 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Reese and Finch try to protect a psychologist whose unorthodox methods for helping his patients find closure could cost him dearly. Meanwhile, flashbacks reveal Finch fragile state in days following bombing that killed his best friend, Nathan Ingram.    "
+                },
+                "18": {
+                    "title": "Skip",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 18,
+                    "votes": 2123,
+                    "original air date": "24 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Reese must protect a bounty hunter who refuses to let the potential threat to her life deter her from the relentless pursuit of her target. Also, Finch tries to set the plan he began in Shanghai in motion.    "
+                },
+                "19": {
+                    "title": "Search and Destroy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 19,
+                    "votes": 2091,
+                    "original air date": "7 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Reese and Finch scramble to protect a software CEO when his behavior becomes erratic following a hacker attack that reveals all his secrets and unravels his life.    "
+                },
+                "20": {
+                    "title": "Terra Incognita",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 20,
+                    "votes": 2751,
+                    "original air date": "14 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Reese tries to honor Carter's memory by solving a cold case she was unable to.    "
+                },
+                "21": {
+                    "title": "Asylum",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 21,
+                    "votes": 3409,
+                    "original air date": "28 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Reese and Fusco get caught in the war between Elias and Dominic while Finch and Root follow a clue to Shaw's whereabouts.    "
+                },
+                "22": {
+                    "title": "YHWH",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Person of Interest (TV Series 2011–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 22,
+                    "votes": 5635,
+                    "original air date": "5 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Finch and Root race to save The Machine, which has been located by the rival AI, Samaritan.    "
+                }
+            }
+        },
+        "number of episodes": 103,
+        "cast": [
+            {
+                "name": "Caviezel, Jim"
+            },
+            {
+                "name": "Chapman, Kevin"
+            },
+            {
+                "name": "Emerson, Michael"
+            },
+            {
+                "name": "Acker, Amy"
+            },
+            {
+                "name": "Henson, Taraji P."
+            },
+            {
+                "name": "Shahi, Sarah"
+            },
+            {
+                "name": "Nolan, John"
+            },
+            {
+                "name": "Colantoni, Enrico"
+            },
+            {
+                "name": "Burke, Robert John"
+            },
+            {
+                "name": "Sapienza, Al"
+            },
+            {
+                "name": "McGiver, Boris"
+            },
+            {
+                "name": "Valcin, David"
+            },
+            {
+                "name": "Cullen, Brett"
+            },
+            {
+                "name": "Peters, Clarke"
+            },
+            {
+                "name": "Doman, John"
+            },
+            {
+                "name": "Turco, Paige"
+            },
+            {
+                "name": "Sanders, Jay O."
+            },
+            {
+                "name": "Brown, Brennan"
+            },
+            {
+                "name": "Manheim, Camryn"
+            },
+            {
+                "name": "Buono, Cara"
+            },
+            {
+                "name": "Preston, Carrie"
+            },
+            {
+                "name": "Jr., Leslie Odom"
+            },
+            {
+                "name": "Parisse, Annie"
+            },
+            {
+                "name": "Kelly, Michael"
+            },
+            {
+                "name": "Ovenden, Julian"
+            },
+            {
+                "name": "Schmidt, Wrenn"
+            },
+            {
+                "name": "Duke, Winston"
+            },
+            {
+                "name": "Marvel, Elizabeth"
+            },
+            {
+                "name": "Brown, Sterling K."
+            },
+            {
+                "name": "Mangano, Anthony"
+            },
+            {
+                "name": "Ilonzeh, Annie"
+            },
+            {
+                "name": "Close, Joshua"
+            },
+            {
+                "name": "McGlone, Michael"
+            },
+            {
+                "name": "Misner, Susan"
+            },
+            {
+                "name": "Spector, Morgan"
+            },
+            {
+                "name": "Wiles, Brian"
+            },
+            {
+                "name": "Jr., Robert Ray Manning"
+            },
+            {
+                "name": "Hector, Jamie"
+            },
+            {
+                "name": "Pimentel, Jessica"
+            },
+            {
+                "name": "Leung, Ken"
+            },
+            {
+                "name": "Damm, Andreas"
+            },
+            {
+                "name": "Fiore, John"
+            },
+            {
+                "name": "Cross, Kwoade"
+            },
+            {
+                "name": "Margolis, Mark"
+            },
+            {
+                "name": "Gros, James Le"
+            },
+            {
+                "name": "Smith, Cotter"
+            },
+            {
+                "name": "Kleintank, Luke"
+            },
+            {
+                "name": "Hutchison, Brian"
+            },
+            {
+                "name": "Mulheren, Michael"
+            },
+            {
+                "name": "Tarabay, Nick E."
+            }
+        ],
+        "locations": [
+            "Silvercup Studios East, Long Island City, Queens, New York City, New York, USA::(studio)",
+            "Silvercup Studios - 4222 22nd Street, Long Island City, Queens, New York City, New York, USA",
+            "New York, USA",
+            "Clinton Diner, Maspeth, Queens, New York City, New York, USA::(Diner)",
+            "101 Park Avenue, Manhattan, New York City, New York, USA::(IFT Plaza)"
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Australia:M",
+            "Brazil:16",
+            "Canada:14A",
+            "Canada:13+::(Québec)",
+            "Denmark:15",
+            "Finland:K-16",
+            "France:Tous publics",
+            "Germany:16",
+            "Ireland:15",
+            "Italy:T",
+            "Mexico:B-15",
+            "Netherlands:12",
+            "New Zealand:M",
+            "Norway:15",
+            "Poland:12",
+            "Russia:16+",
+            "Singapore:NC-16::(season 1)",
+            "Singapore:M18::(season 2)",
+            "Singapore:PG13::(season 3)",
+            "South Africa:13",
+            "South Korea:15",
+            "Spain:12",
+            "Sweden:15",
+            "Thailand:18",
+            "United Kingdom:15",
+            "United States:TV-14"
+        ],
+        "number of seasons": 5,
+        "rating": 8.4,
+        "votes": 151142,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZDU1NzA5YzUtNTdmNy00NTVjLWFhNzEtYWI1NmNkNTA1ZDBhXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SY150_CR1,0,101,150_.jpg",
+        "plot outline": "A billionaire software-genius named Harold Finch creates a Machine for the government that is designed to detect acts of terror before they can happen, by monitoring the entire world through every cell-phone, email and surveillance camera. Finch discovered that the machine sees everything, potential terrorist acts and violent crimes that involve ordinary people. When the government considered violent crimes between normal people \"irrelevant\", Finch built a back door into the system that gives him the social security number of a person involved in a future violent crime so he could act. Partnered with John Reese, an ex-CIA agent, the two work in secret to prevent violent crimes before they can happen. Eventually their activities lead to being hunted by the New York Police Department, CIA Agents in pursuit of Reese who was listed as dead, a computer hacker named Root who wants access to the Machine, and government officials who want to keep all knowledge of the Machine a complete secret.",
+        "languages": [
+            "English"
+        ],
+        "title": "Person of Interest",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-2016",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "writer": [
+            {
+                "name": "Nolan, Jonathan"
+            },
+            {
+                "name": "Hennen, Sean"
+            },
+            {
+                "name": "O'Connor, Lucas"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Kilter Films"
+            },
+            {
+                "name": "Bad Robot"
+            },
+            {
+                "name": "Warner Bros. Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Warner Bros. Television"
+            },
+            {
+                "name": "CBS"
+            },
+            {
+                "name": "Citytv"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "CHASE"
+            },
+            {
+                "name": "CNBC-e"
+            },
+            {
+                "name": "Canal+"
+            },
+            {
+                "name": "Canal+"
+            },
+            {
+                "name": "Channel 5 Television"
+            },
+            {
+                "name": "Channel CGV"
+            },
+            {
+                "name": "DiziMax"
+            },
+            {
+                "name": "ICTV"
+            },
+            {
+                "name": "La Sexta"
+            },
+            {
+                "name": "Mainostelevisio (MTV3)"
+            },
+            {
+                "name": "Net5"
+            },
+            {
+                "name": "Nine Network Australia"
+            },
+            {
+                "name": "Nova Cinema"
+            },
+            {
+                "name": "Nova Cinema"
+            },
+            {
+                "name": "Pop TV"
+            },
+            {
+                "name": "Premium Crime"
+            },
+            {
+                "name": "RTL Crime"
+            },
+            {
+                "name": "Radio Télévision Belge Francophone (RTBF)"
+            },
+            {
+                "name": "Radio Télévision Suisse (RTS)"
+            },
+            {
+                "name": "Radiotelevisão Portuguesa (RTP)"
+            },
+            {
+                "name": "Raidió Teilifís Éireann (RTÉ)"
+            },
+            {
+                "name": "Sony Crime Channel"
+            },
+            {
+                "name": "Star World India Pvt. Ltd."
+            },
+            {
+                "name": "TF1"
+            },
+            {
+                "name": "TV One"
+            },
+            {
+                "name": "Veronica"
+            },
+            {
+                "name": "Viasat3"
+            },
+            {
+                "name": "Warner Channel Latin America"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Yes"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Branit VFX"
+            },
+            {
+                "name": "Chicken Bone Effects"
+            },
+            {
+                "name": "Eden FX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "1 Force"
+            },
+            {
+                "name": "ARRI / Camera Service Center"
+            },
+            {
+                "name": "Atomic Sound Post"
+            },
+            {
+                "name": "Audio Network"
+            },
+            {
+                "name": "Big A Solutions"
+            },
+            {
+                "name": "Framepool"
+            },
+            {
+                "name": "GOPOGO"
+            },
+            {
+                "name": "Imaginary Forces"
+            },
+            {
+                "name": "Lightnin' Production Rentals"
+            },
+            {
+                "name": "Lotus Post"
+            },
+            {
+                "name": "Mod Media Professional Talent Representation"
+            },
+            {
+                "name": "Pacific Studios II"
+            },
+            {
+                "name": "Roundabout Entertainment"
+            },
+            {
+                "name": "Truck Brokers"
+            },
+            {
+                "name": "Varèse Sarabande"
+            }
+        ],
+        "plot": [
+            "An ex-assassin and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes--including the civilians' roles--are left a mystery.::Skip4591",
+            "A billionaire software-genius named Harold Finch creates a Machine for the government that is designed to detect acts of terror before they can happen, by monitoring the entire world through every cell-phone, email and surveillance camera. Finch discovered that the machine sees everything, potential terrorist acts and violent crimes that involve ordinary people. When the government considered violent crimes between normal people \"irrelevant\", Finch built a back door into the system that gives him the social security number of a person involved in a future violent crime so he could act. Partnered with John Reese, an ex-CIA agent, the two work in secret to prevent violent crimes before they can happen. Eventually their activities lead to being hunted by the New York Police Department, CIA Agents in pursuit of Reese who was listed as dead, a computer hacker named Root who wants access to the Machine, and government officials who want to keep all knowledge of the Machine a complete secret.::Jones",
+            "Wealthy genius software engineer, who generally goes by the name Harold Finch, is the mastermind behind the creation of an all-seeing machine. Finch and his front man Nathan Ingram devised the machine to sell to the US government, who are unaware of Finch working behind the scenes. The purpose of the machine is so that the government can spot acts leading to terrorism to prevent those terrorist acts from occurring. But what the government considers irrelevant in its use of the machine are acts leading to murder. As such, Finch, without the government's knowledge that he has a back door to the machine, wants to prevent those murders. The machine only provides the social security number of someone involved, Finch unaware if that person is the target or perpetrator. He enlists the help of an ex-CIA special operative who generally goes by the name John Reese to assist in his mission, Reese who is officially listed as dead. But as Reese in particular often uses non-legal means to achieve Finch's end goal, he is tracked by the authorities, who only know him as the man in the suit. They are also tracked by those who are thwarted by the pair in carrying out this mission, and by the few who know of the machine's existence and who have their own nefarious thoughts of what to do with the machine if they can get their hands on it.::Huggo",
+            "A billionaire software engineer and an ex-CIA agent team up to prevent crimes before they happen by using an Artificial Intelligence known as \"The Machine\". At the same time they must survive being hunted by the Government and protect The Machine at all costs."
+        ],
+        "synopsis": [
+            "After the 9/11 terrorist attacks, a wealth billionaire software engineer & genius, who generally goes by the name Harold Finch (Michael Emerson), created a Machine that is an all-seeing Supercomputer designed to detect acts of terror before they can happen.The Supercomputer simply called \"The Machine\" can monitor the entire world using pattern recognition Software by monitoring every cell-phone communication (using voice print technology), every email (using keyword filters) and surveillance camera (using facial reconciliation). Finch and best friend Nathan Ingram (Brett Cullen) devised the machine to sell to the US government, using Ingrams own company IFT in New York.The 2 friends make a deal that keeps Finch's animosity. Finch is a pseudonym as Harold is a wanted Cyber hacker due to something which happened in his youth in the 1970's. It's later revealed that when he's father was diagnosed with Alzheimer's disease young Harold built a prototype machine to replace his fathers failing memory, but needing to power the machine, he went and hacked into the governments network. Ingram acts as a front man so the government are unaware of Finch working behind the scenes. The purpose of the machine is so that the government can spot acts leading to terrorism and stop them before they can act. To prevent abuse of its capabilities by the government, Finch decided to program the Machine to only provide an identity of a Terrorist predicted to be involved in an imminent attack in the form of a Social Security number, but no other details of the future attack will be shown to the government. But a moral dilemma soon occurs when Finch and Ingram discover the machine not only searches for potential terrorist acts but also violent crimes that involve ordinary people such as murders, attempted murders and kidnappings. As with the Terrorists they only receive the social security numbers of the people involved and they will not know whether the POI (person of interest) is a perpetrator or victim. Knowing the government would considered violent crimes between normal people \"irrelevant\", Finch programmed the Machine to delete the \"Irrelevant\" list every-night at midnight but Ingram becomes guilt ridden and builds a back-door into the system and programs the machine to give him access to the social security numbers of people involved in a future violent crime before the midnight deadline deletes the list .But with only the social security number to go on it gets difficult to tell whose good and bad.Meanwhile whilst the Machine was in its testing phase it encourages Harold to talk to a woman named Grace Hendrix (Carrie Preston), who the Machine picked out as perfect match for Finch and soon they start dating with Finch considering proposing to Grace. But soon Finch finds out about what Nathan has been doing with the irrelevant list and is angry that Nathan is putting the project in jeopardy, so they fight. Nathan reveals he has decided to go public and tell the world about what he and Finch have done by talking to a reporter in a public place. However the government finds out and just before Finch turned of a computer screen, Ingram's picture pops-up but Finch does not see it. Before he can talk to the reporter the government stages a terrorist attack on a New York ferry, which was the meeting place Ingram had chosen. Ingram and the reporter are killed and Finch (whom turned up to see Ingram) ends up partially paralyze and goes into hiding, even from Grace. Finch later finds out the Machine knew about Ingram being a target and so changes his mind about helping the potential victims.Soon Finch hires a Blackwater mercenary called Rick Dillinger (Neil Jackson) whose only motivated by money and has different morals and ethics to Finch, Dillinger ends up getting killed when he betrays Finch and his objective to save lives by handing over a victim in exchange for money. Finch finds the perfect replacement in John Reese (Jim Caviezel) an ex-CIA special operative who was recruited by the CIA who were impressed by his skills he had learned in the army after quickly rising to the rank of U.S. Army Sergeant First Class, having been in the Army Rangers, the Green Berets, and Delta Force all of which he uses the skills acquired in those organizations in his mission with Finch. When Reese joined the CIA he believes he is helping hes country and is told there is no going back to his former life with the love of his life, Jessica Arndt, his neighbor and childhood sweetheart who Reese pushed her away to rein-list in the Army after the 9/11 attacks.Reese starts to have doubts about his work for the CIA and he is to retrieve a laptop that contains key data to the Machine (but Reese does not know this) in China. The CIA consider John and his CIA partner Kara Stanton (Annie Parisse) expendable and fire missiles at the their last known location. Reese survives and is officially listed as dead he returns to America and finds out that Jessica died in a car crash. But soon he finds evidence that she was being abused by her husband Peter Arndt (Jonno Roberts), whom she married after Reese rejected her. Reese meets up with Peter and it's assumed that Reese kills him.Reese then goes on a suicidal path and was on a subway ride to a prefect suicide spot but got into a fight with some Teenage punks. He is arrested for assault and is interviewed by a Detective called Jocelyn \"Joss\" Carter (Taraji P. Henson) who recognizes his fighting skills as being from the Army as she used to be in the Army herself as an Army interrogator. As she is interrogating him she takes his fingerprints and Carter finds that his prints have been at several crime scenes when he was with the CI, however, Finch has a lawyer spring John before she returns and Finch meets with him to offer him a job to help people. At first, Reese is reluctant and doesn't believe Finch's claims that he wants Reese to work him as a protector as Finch isn't forthcoming about the Machine but Finch soon starts to open up to Reese about it. Together the pair attempt to stop violent crimes before they can happen, with Reese taking on the moniker of the man-in-the-suit.The first number they work together is that of Diane Hansen (Natalie Zea), an Assistant District Attorney involved in an organized Drug ring of Corrupt Cops. At first, Reese and Finch assume she will be the victim of the cops but it turns out she is helping them. Reese is captured but manages to escape and takes the gun of one of the Corrupt Cops called Lionel Fusco (Kevin Chapman). Reese uses Fuscos gun to shoot the leader of the corrupt cops, Detective James Stills (James Hanlon), in self-defense after saving the real victim, another Assistant District Attorney, James Wheeler (Brian d'Arcy James), who was investigating Hanson. After taking the gang down and exposing Hansen as corrupt in a packed courtroom. Reese blackmails Fusco (who had escaped unpunished) into helping him track down leads involving the \"Persons of Interests\".Eventually their activities lead to being hunted by the New York Police Department's Homicide Task Force, led by Detective Carter, whom is revealed to be a good cop in a crooked department, after chasing Reese for several episodes he saves her life, when a mob boss puts a target on her, she then has a change of heart and joins them in there crusade. Early on in the series Reese arranges for Fusco and Carter to be partners to keep tabs on Carter when she was hunting them, after she changes her mind about Reese and Finch, Reese decides not to tell either Fusco or Carter that the other is working with him and Finch to protect them as well as keeping them both in the dark as to how they know about the crimes aka \"the Machine\". Whilst being partnered with Carter, Fusco starts to see what it's like to be a good cop and starts to redeem himself of his own free will over the course of the series.Meanwhile, when Carter was chasing Reese she managed to flag him up to the CIA who is now also after Reese. Led by Mark Snow (Michael Kelly) and his partner Tyrell Evans (Darien Sills-Evans), they want to finish the job to kill Reese. Also after Reese is the FBI led by Special Agent Nicholas Donnelly (Brennan Brown), who thinks Reese is still working for the CIA as a government hit-man after Reese got in the way of the FBI arresting a framed \"Person of Interest\". Soon a computer hacker named Root finds out about the Machine and decides she wants access to it to free it from human control.The team also face dangers from the government which is keeping all knowledge of the machine secret from the public. As the series progresses the Team (consisting of Reese, Finch, Fusco and Carter) called by fans of the Show as Team Machine soon gains additional members including a dog called Bear,a Belgian Malinois with military training whom Reese rescues from Aryan Nationalists, who were using him as an attack dog and Sameen Shaw (Sarah Shahi) a former ISA operative, originally an assassin working for \"The Program\", the section of the Government dealing with the \"relevant\" numbers found by The Machine. She begins to have doubts after one of her targets proves to be an engineer working for the government; the assassination is part of the cover-up that conceals the existence of The Machine. As a result, her partner is killed and she becomes a number. Reese and Finch save her life and she subsequently works for them on a regular basis.Team machine saves many lives, including Zoe Morgan (Paige Turco) a \"fixer\" who specializes in crisis management. Finch and Reese first met her as a person of interest who found out that a client of hers, a pharmaceutical company, was covering up the deaths of test patients. She ends up working with them on cases that require her skills. They also save the life of a man called Charlie Burton (Enrico Colantoni), only to discover he is a budding mob boss called Carl Elias. Elias is trying to take over the New York criminal underworld with the help of the crooked cops called HR. Elias was the one who tried to kill Carter and HR is who Fusco's gang was formerly affiliated with. Carter manages to get Elias arrested and with the help of the F.B.I, she manages to get a majority of H.R arrested. The only exceptions are the person in charge of HR, its second in command Patrick Simmons (Robert John Burke) and Fusco who had gone undercover in HR on orders of Reese to find out who was running the group.Its soon revealed that the Mayor's aid Alonzo Quinn (Clarke Peters) is HRs leader and he plans on recruiting more dirty cops. Although a majority of HR are placed in Prison and ties to Elias's crew are cut, Alonzo forges new ties to the Yogorov family who are part of the Russian mob led by Peter Yogorov. Quinn arranges for the charges against the Yogorovs to disappear before their trial by planting evidence against the cop investigating them, Organised crime Detective Bill Szymanski (Michael McGlone) and telling his godson Narcotics Detective Cal Becher (Sterling K. Brown) who mistakenly things the tip-off is legit. Beecher is currently dating Carter but doesn't know about his Godfather's role in HR. Carter finds the proof to get Szymanski cleared but he and an ADA called Melinda Wright who was about to prosecute the Yogorovs get invited to a sit down with Quinn who murders them then gets another cop, Detective Raymond Terney to shoot him in the shoulder to cover up his crime.Beecher decides to investigate the tip but when he gets to close to discovering the truth about Quinn, Quin has him taken out in an ambush during a fake narcotics sting. Carter then gets framed for killing on unarmed man by Terney and is demoted to beat cop."
+        ],
+        "tech": {
+            "runtime": [
+                "43 min (approx)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Arri Alexa, Cooke S4 and Angenieux Optimo Lenses",
+                "Canon EOS 7D (surveillance footage)",
+                "GoPro HD Hero (surveillance footage)",
+                "Sony PMW-EX1 (surveillance footage)"
+            ],
+            "negative format": [
+                "SxS Pro"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (2K) (master format)",
+                "ProRes 4:4:4 (1080p/24) (source format)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 151142,
+                "rating": 8.4
+            },
+            "aged under 18": {
+                "votes": 77,
+                "rating": 8.8
+            },
+            "aged 18 29": {
+                "votes": 36996,
+                "rating": 8.7
+            },
+            "aged 30 44": {
+                "votes": 50881,
+                "rating": 8.2
+            },
+            "aged 45 plus": {
+                "votes": 19273,
+                "rating": 8.3
+            },
+            "males": {
+                "votes": 90761,
+                "rating": 8.4
+            },
+            "males aged under 18": {
+                "votes": 63,
+                "rating": 8.8
+            },
+            "males aged 18 29": {
+                "votes": 29982,
+                "rating": 8.7
+            },
+            "males aged 30 44": {
+                "votes": 39795,
+                "rating": 8.3
+            },
+            "males aged 45 plus": {
+                "votes": 13409,
+                "rating": 8.2
+            },
+            "females": {
+                "votes": 24789,
+                "rating": 8.4
+            },
+            "females aged under 18": {
+                "votes": 13,
+                "rating": 8.1
+            },
+            "females aged 18 29": {
+                "votes": 6595,
+                "rating": 8.5
+            },
+            "females aged 30 44": {
+                "votes": 10402,
+                "rating": 8.2
+            },
+            "females aged 45 plus": {
+                "votes": 5592,
+                "rating": 8.5
+            },
+            "top 1000 voters": {
+                "votes": 387,
+                "rating": 7.6
+            },
+            "us users": {
+                "votes": 18304,
+                "rating": 8.4
+            },
+            "non us users": {
+                "votes": 58393,
+                "rating": 8.3
+            }
+        },
+        "number of votes": {
+            "10": 58976,
+            "9": 39041,
+            "8": 26881,
+            "7": 13292,
+            "6": 5501,
+            "5": 2758,
+            "4": 1308,
+            "3": 782,
+            "2": 560,
+            "1": 2043
+        },
+        "arithmetic mean": 8.6,
+        "median": 9
+    }
+}

@@ -1,0 +1,736 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "25 November 2011"
+            },
+            {
+                "country": "Germany\n",
+                "date": "3 February 2012"
+            }
+        ],
+        "release dates": [
+            "Germany::25 November 2011",
+            "Germany::3 February 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Knallerfrauen"
+            },
+            {
+                "countries": "Germany (working title)",
+                "title": "Frauensache"
+            }
+        ],
+        "akas": [
+            "Knallerfrauen (original title)",
+            "Frauensache Germany (working title)"
+        ],
+        "akas from release info": [
+            "Knallerfrauen (original title)",
+            "Frauensache Germany (working title)"
+        ],
+        "episodes": {
+            "4": {
+                "1": {
+                    "title": "Alles halb so wild",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "votes": 9,
+                    "original air date": "16 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Everything is so wild.    "
+                },
+                "2": {
+                    "title": "Total meschugge",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "votes": 6,
+                    "original air date": "23 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Total meschugge.    "
+                },
+                "3": {
+                    "title": "Erziehungsfragen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "original air date": "30 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Educational issues.    "
+                },
+                "4": {
+                    "title": "Schräger geht nicht",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 4,
+                    "original air date": "6 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Schräger does not work.    "
+                },
+                "5": {
+                    "title": "Außer Kontrolle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 5,
+                    "original air date": "13 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Out of control.    "
+                },
+                "6": {
+                    "title": "Durchgeknallt",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 6,
+                    "original air date": "20 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Girl, Interrupted.    "
+                },
+                "7": {
+                    "title": "Voller Einsatz",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 7,
+                    "original air date": "27 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Full use.    "
+                },
+                "8": {
+                    "title": "Es lebe die Gleichberechtigung!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 8,
+                    "original air date": "27 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Long live the equal rights.    "
+                }
+            },
+            "1": {
+                "0": {
+                    "title": "Preview",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 0,
+                    "votes": 14,
+                    "original air date": "25 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    Preview.    "
+                },
+                "1": {
+                    "title": "Rabiate Mütter",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 19,
+                    "original air date": "3 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Rabiate mothers.    "
+                },
+                "2": {
+                    "title": "Peinliche Freundin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 27,
+                    "original air date": "10 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Embarrassing girlfriend.    "
+                },
+                "3": {
+                    "title": "Frau im Stress",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 17,
+                    "original air date": "17 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Woman in stress.    "
+                },
+                "4": {
+                    "title": "Peinlichkeiten im Bett und Schweinereien im Bad",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 16,
+                    "original air date": "24 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Embarrassments in bed and mess in the bathroom.    "
+                },
+                "5": {
+                    "title": "Frauenklischees",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 16,
+                    "original air date": "9 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Woman clichés.    "
+                },
+                "6": {
+                    "title": "Wunder der Technik",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 14,
+                    "original air date": "16 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Wonders of technology.    "
+                },
+                "7": {
+                    "title": "Gemeine Mütter",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 15,
+                    "original air date": "23 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Common mothers.    "
+                },
+                "8": {
+                    "title": "Best Of",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 25,
+                    "original air date": "30 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Best Of Knallerfrauen.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Frauentausch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 13,
+                    "original air date": "19 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Women exchange.    "
+                },
+                "2": {
+                    "title": "Guter Tag/Papa kommt/Blendschutz/Spontan/Mama?/Foto/Dosenstechen/Etwas schlaff/Natur/Abschied/Fahrstuhl/Motoröl/Abzugshaube/Hast du was?/Vertrauen/Richtig sauer/Beerdigung/Was im Bart/",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 13,
+                    "original air date": "26 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Good day / Dad is coming / Glare / Spontaneous / Mom? / Photo / Can piercing / Somewhat flabby / Nature / Farewell / Elevator / Engine oil / Extractor / Do you have something? / Trust / Really sour / Funeral / What in the beard.    "
+                },
+                "3": {
+                    "title": "Wurzelbehandlung/Meeting/Hintern Baum/Kein Kind von Traurigkeit/Zeugnis/Salat/Regen/Mitfahrgelegenheit/Ehrlichkeit & Vertrauen/Echt?/Strike!/Igelrosette/Bügeleisen/Die Uhr tickt",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 13,
+                    "original air date": "2 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Root treatment / Meeting / Butt tree / No child of sadness / Testimony / Salad / Rain / Carpool / Honesty and Trust / Real? / Strike. / Igelrosette / Iron / The clock is ticking.    "
+                },
+                "4": {
+                    "title": "Völlig ungehemmt",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 8,
+                    "original air date": "9 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Totally uninhibited.    "
+                },
+                "5": {
+                    "title": "Frech, dreist aber hilflos",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 8,
+                    "original air date": "16 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Naughty, bold but helpless.    "
+                },
+                "6": {
+                    "title": "Twisten, T-Papier und tanken",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 8,
+                    "original air date": "23 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Twists, T-paper and refuel.    "
+                },
+                "7": {
+                    "title": "Memory, Sushi und Tennis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 7,
+                    "original air date": "30 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Memory, sushi and tennis.    "
+                },
+                "8": {
+                    "title": "Weibliche Herangehensweise",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 7,
+                    "original air date": "14 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n    Female approach.    "
+                }
+            },
+            "3": {
+                "1": {
+                    "title": "Verrückt aber glücklich",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 13,
+                    "original air date": "21 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Crazy but happy.    "
+                },
+                "2": {
+                    "title": "Heimliche Vorlieben",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 10,
+                    "original air date": "21 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Secret preferences.    "
+                },
+                "3": {
+                    "title": "Not macht erfinderisch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 10,
+                    "original air date": "28 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Necessity is the mother of invention.    "
+                },
+                "4": {
+                    "title": "Verrückte Probleme",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 10,
+                    "original air date": "4 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Crazy problems.    "
+                },
+                "5": {
+                    "title": "Mutterliebe",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 10,
+                    "original air date": "11 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Mother love.    "
+                },
+                "6": {
+                    "title": "Verzwickte Situationen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 10,
+                    "original air date": "18 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Tricky situations.    "
+                },
+                "7": {
+                    "title": "Trick 17",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 9,
+                    "original air date": "25 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Trick 17.    "
+                },
+                "8": {
+                    "title": "Einen Moment bitte!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Knallerfrauen (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 9,
+                    "original air date": "2 May 2014",
+                    "year": "2014",
+                    "plot": "\n    One moment please.    "
+                }
+            }
+        },
+        "number of episodes": 33,
+        "cast": [
+            {
+                "name": "Hill, Martina"
+            },
+            {
+                "name": "Krabbe, Michael"
+            },
+            {
+                "name": "Lukac, Peggy"
+            },
+            {
+                "name": "Puch, Marc Ben"
+            },
+            {
+                "name": "Clausnitzer, Claus Dieter"
+            },
+            {
+                "name": "Deutelmoser, Matthias"
+            },
+            {
+                "name": "Schäfer, Anna"
+            },
+            {
+                "name": "Klose, Henry"
+            },
+            {
+                "name": "Koll, Alexander"
+            },
+            {
+                "name": "Magno, Maurizio"
+            },
+            {
+                "name": "Biallowons, Tjadke"
+            },
+            {
+                "name": "Schmitz, Lara Sophie"
+            },
+            {
+                "name": "Smets, Jasper"
+            },
+            {
+                "name": "Niemeyer, Gundula"
+            },
+            {
+                "name": "Weidlich, Volker"
+            },
+            {
+                "name": "Wandelt, Daniel"
+            },
+            {
+                "name": "Irslinger, Sinje"
+            },
+            {
+                "name": "Mölleken, Patrick"
+            },
+            {
+                "name": "Baker, Yazmeen"
+            },
+            {
+                "name": "Islek, Yasin"
+            },
+            {
+                "name": "Poguntke, Anke"
+            },
+            {
+                "name": "Bornkessel, Pascal"
+            },
+            {
+                "name": "Lehner, Lilia"
+            },
+            {
+                "name": "Schulze, Gabriele"
+            }
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "22"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "country codes": [
+            "de"
+        ],
+        "language codes": [
+            "de"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 4,
+        "rating": 7.6,
+        "votes": 601,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMzRjYzZlMTYtZjJmYi00YzlhLTg1YjgtMzkxMzE5ZmM1NzUxXkEyXkFqcGdeQXVyMjU0OTAwMDc@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "Knallerfrauen is a German sketch comedy series first aired in 2011. The series stars actress Martina Hill in the main role. The sketches are unrelated and frequently depict absurd situations, often without any dialog. The jokes are similar in part to the French sketch comedy series Vous les femmes.",
+        "languages": [
+            "German"
+        ],
+        "title": "Knallerfrauen",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "writer": [
+            {
+                "name": "Côte, Olivia"
+            },
+            {
+                "name": "Flasch, David"
+            },
+            {
+                "name": "Freels, Elmar"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Sat.1"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Mecon Media Concept"
+            },
+            {
+                "name": "Production Concept"
+            }
+        ],
+        "plot": [
+            "_Knallerfrauen_ (qv) is a German sketch comedy series first aired in 2011. The series stars actress Martina Hill in the main role. The sketches are unrelated and frequently depict absurd situations, often without any dialog. The jokes are similar in part to the French sketch comedy series Vous les femmes.::Lefty Y"
+        ],
+        "tech": {
+            "runtime": [
+                "22 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 601,
+                "rating": 7.6
+            },
+            "aged under 18": {
+                "votes": 3,
+                "rating": 8.7
+            },
+            "aged 18 29": {
+                "votes": 196,
+                "rating": 7.6
+            },
+            "aged 30 44": {
+                "votes": 218,
+                "rating": 7.5
+            },
+            "aged 45 plus": {
+                "votes": 43,
+                "rating": 8.0
+            },
+            "males": {
+                "votes": 362,
+                "rating": 7.5
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 9.0
+            },
+            "males aged 18 29": {
+                "votes": 126,
+                "rating": 7.4
+            },
+            "males aged 30 44": {
+                "votes": 176,
+                "rating": 7.5
+            },
+            "males aged 45 plus": {
+                "votes": 38,
+                "rating": 7.9
+            },
+            "females": {
+                "votes": 116,
+                "rating": 8.0
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 66,
+                "rating": 7.9
+            },
+            "females aged 30 44": {
+                "votes": 40,
+                "rating": 8.0
+            },
+            "females aged 45 plus": {
+                "votes": 5,
+                "rating": 8.9
+            },
+            "top 1000 voters": {
+                "votes": 17,
+                "rating": 7.1
+            },
+            "us users": {
+                "votes": 31,
+                "rating": 7.4
+            },
+            "non us users": {
+                "votes": 355,
+                "rating": 7.6
+            }
+        },
+        "number of votes": {
+            "10": 118,
+            "9": 101,
+            "8": 163,
+            "7": 102,
+            "6": 57,
+            "5": 12,
+            "4": 12,
+            "3": 9,
+            "2": 7,
+            "1": 20
+        },
+        "arithmetic mean": 7.7,
+        "median": 8
+    }
+}

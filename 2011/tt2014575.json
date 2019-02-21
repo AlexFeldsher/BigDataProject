@@ -1,0 +1,95 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "15 August 2011"
+            }
+        ],
+        "release dates": [
+            "Germany::15 August 2011"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Der Club der Abenteurer"
+            },
+            {
+                "countries": "France",
+                "title": "Le club des explorateurs"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "The Explorers Club"
+            }
+        ],
+        "akas": [
+            "Der Club der Abenteurer (original title)",
+            "Le club des explorateurs France",
+            "The Explorers Club World-wide (English title)"
+        ],
+        "akas from release info": [
+            "Der Club der Abenteurer (original title)",
+            "Le club des explorateurs France",
+            "The Explorers Club World-wide (English title)"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Episode dated 15 August 2011",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Explorers Club (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "15 Aug. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "45"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "country codes": [
+            "de"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "title": "The Explorers Club",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-",
+        "production companies": [
+            {
+                "name": "Florianfilm GmbH"
+            },
+            {
+                "name": "Fringe Filmworks Inc."
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Arte"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "45 min (5 episodes) (Germany)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

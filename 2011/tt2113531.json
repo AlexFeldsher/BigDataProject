@@ -1,0 +1,98 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "France\n",
+                "date": "20 November 2011"
+            }
+        ],
+        "release dates": [
+            "France::20 November 2011"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Une journée avec ..."
+            },
+            {
+                "countries": "Germany",
+                "title": "Ein Tag mit ..."
+            }
+        ],
+        "akas": [
+            "Une journée avec ... (original title)",
+            "Ein Tag mit ... Germany"
+        ],
+        "akas from release info": [
+            "Une journée avec ... (original title)",
+            "Ein Tag mit ... Germany"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Ngoné",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Une journée avec ... (TV Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "13"
+        ],
+        "countries": [
+            "France"
+        ],
+        "country codes": [
+            "fr"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "languages": [
+            "French"
+        ],
+        "title": "Une journée avec ...",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-",
+        "writer": [
+            {
+                "name": "Diop, Ndèye Soukeynatoun"
+            },
+            {
+                "name": "Ganou, Simplice"
+            },
+            {
+                "name": "Traoré, Awa"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Arte"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "13 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

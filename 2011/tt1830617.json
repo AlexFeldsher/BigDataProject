@@ -1,0 +1,2577 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "28 October 2011"
+            },
+            {
+                "country": "USA\n",
+                "date": "28 October 2011"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "17 November 2011"
+            },
+            {
+                "country": "Argentina\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "Brazil\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "Chile\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "Colombia\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "Costa Rica\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "Dominican Republic\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "Ecuador\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "Guatemala\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "Honduras\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "Mexico\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "Nicaragua\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "Panama\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "Peru\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "El Salvador\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "Uruguay\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "Venezuela\n",
+                "date": "21 November 2011"
+            },
+            {
+                "country": "United Arab Emirates\n",
+                "date": "January 2012"
+            },
+            {
+                "country": "Australia\n",
+                "date": "4 January 2012",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Cyprus\n",
+                "date": "16 January 2012"
+            },
+            {
+                "country": "Denmark\n",
+                "date": "16 January 2012"
+            },
+            {
+                "country": "Greece\n",
+                "date": "16 January 2012"
+            },
+            {
+                "country": "Spain\n",
+                "date": "23 January 2012"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "10 February 2012"
+            },
+            {
+                "country": "UK\n",
+                "date": "13 February 2012"
+            },
+            {
+                "country": "Norway\n",
+                "date": "4 March 2012"
+            },
+            {
+                "country": "Indonesia\n",
+                "date": "27 March 2012"
+            },
+            {
+                "country": "South Korea\n",
+                "date": "6 April 2012"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "15 April 2012"
+            },
+            {
+                "country": "France\n",
+                "date": "24 April 2012"
+            },
+            {
+                "country": "New Zealand\n",
+                "date": "18 June 2012"
+            },
+            {
+                "country": "Italy\n",
+                "date": "2 July 2012"
+            },
+            {
+                "country": "Poland\n",
+                "date": "5 July 2012"
+            },
+            {
+                "country": "Israel\n",
+                "date": "24 July 2012"
+            },
+            {
+                "country": "Bulgaria\n",
+                "date": "5 September 2012"
+            },
+            {
+                "country": "Czech Republic\n",
+                "date": "17 September 2012"
+            },
+            {
+                "country": "Russia\n",
+                "date": "20 September 2012"
+            },
+            {
+                "country": "Australia\n",
+                "date": "20 November 2012"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "3 January 2013"
+            },
+            {
+                "country": "Finland\n",
+                "date": "8 January 2013"
+            },
+            {
+                "country": "Germany\n",
+                "date": "18 February 2013"
+            },
+            {
+                "country": "Japan\n",
+                "date": "28 May 2013"
+            }
+        ],
+        "release dates": [
+            "Canada::28 October 2011",
+            "USA::28 October 2011",
+            "Sweden::17 November 2011",
+            "Argentina::21 November 2011",
+            "Brazil::21 November 2011",
+            "Chile::21 November 2011",
+            "Colombia::21 November 2011",
+            "Costa Rica::21 November 2011",
+            "Dominican Republic::21 November 2011",
+            "Ecuador::21 November 2011",
+            "Guatemala::21 November 2011",
+            "Honduras::21 November 2011",
+            "Mexico::21 November 2011",
+            "Nicaragua::21 November 2011",
+            "Panama::21 November 2011",
+            "Peru::21 November 2011",
+            "El Salvador::21 November 2011",
+            "Uruguay::21 November 2011",
+            "Venezuela::21 November 2011",
+            "United Arab Emirates::January 2012",
+            "Australia::4 January 2012                            (limited)",
+            "Cyprus::16 January 2012",
+            "Denmark::16 January 2012",
+            "Greece::16 January 2012",
+            "Spain::23 January 2012",
+            "Hungary::10 February 2012",
+            "UK::13 February 2012",
+            "Norway::4 March 2012",
+            "Indonesia::27 March 2012",
+            "South Korea::6 April 2012",
+            "Belgium::15 April 2012",
+            "France::24 April 2012",
+            "New Zealand::18 June 2012",
+            "Italy::2 July 2012",
+            "Poland::5 July 2012",
+            "Israel::24 July 2012",
+            "Bulgaria::5 September 2012",
+            "Czech Republic::17 September 2012",
+            "Russia::20 September 2012",
+            "Australia::20 November 2012",
+            "Netherlands::3 January 2013",
+            "Finland::8 January 2013",
+            "Germany::18 February 2013",
+            "Japan::28 May 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Grimm"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Grimm: Contos de Terror"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Досиетата Грим"
+            },
+            {
+                "countries": "France",
+                "title": "Grimm"
+            },
+            {
+                "countries": "Germany",
+                "title": "Grimm"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Grimm"
+            },
+            {
+                "countries": "Republic of Macedonia",
+                "title": "Грим"
+            },
+            {
+                "countries": "Romania",
+                "title": "Grimm"
+            },
+            {
+                "countries": "Russia",
+                "title": "Гримм"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Grim"
+            },
+            {
+                "countries": "Spain",
+                "title": "Grimm"
+            },
+            {
+                "countries": "Ukraine",
+                "title": "Грiмм"
+            },
+            {
+                "countries": "USA",
+                "title": "Grimm"
+            },
+            {
+                "countries": "Vietnam",
+                "title": "Grimm San Lung Quai Vat"
+            }
+        ],
+        "akas": [
+            "Grimm (original title)",
+            "Grimm: Contos de Terror Brazil",
+            "Досиетата Грим Bulgaria (Bulgarian title)",
+            "Grimm France",
+            "Grimm Germany",
+            "Grimm Hungary",
+            "Грим Republic of Macedonia",
+            "Grimm Romania",
+            "Гримм Russia",
+            "Grim Serbia",
+            "Grimm Spain",
+            "Грiмм Ukraine",
+            "Grimm USA",
+            "Grimm San Lung Quai Vat Vietnam"
+        ],
+        "akas from release info": [
+            "Grimm (original title)",
+            "Grimm: Contos de Terror Brazil",
+            "Досиетата Грим Bulgaria (Bulgarian title)",
+            "Grimm France",
+            "Grimm Germany",
+            "Grimm Hungary",
+            "Грим Republic of Macedonia",
+            "Grimm Romania",
+            "Гримм Russia",
+            "Grim Serbia",
+            "Grimm Spain",
+            "Грiмм Ukraine",
+            "Grimm USA",
+            "Grimm San Lung Quai Vat Vietnam"
+        ],
+        "episodes": {
+            "6": {
+                "1": {
+                    "title": "Fugitive",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 1,
+                    "votes": 707,
+                    "original air date": "6 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Captain Renard vows to kill Nick following the massacre in Nick's loft.    "
+                },
+                "2": {
+                    "title": "Trust Me Knot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 2,
+                    "votes": 537,
+                    "original air date": "13 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Hank and Wu find a solution to stop Renard while Nick is still fleeing. Adalind gets a phone call that throws her into the middle of everything. Monroe and Rosalee's babysitting adventure turns interesting as they witness Diana's power.    "
+                },
+                "3": {
+                    "title": "Oh Captain, My Captain",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 3,
+                    "votes": 581,
+                    "original air date": "20 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Nick devises a plan that will take Capt. Renard out of his element; Adalind and Monroe attempt to keep the plan on track; Eve and Rosalee race to get the spell ready in time.    "
+                },
+                "4": {
+                    "title": "El Cuegle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 4,
+                    "votes": 513,
+                    "original air date": "27 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    A menacing new Wesen terrorizes a young family; Capt. Renard is shocked by an unexpected guest; Diana has news for Monroe and Rosalee; Eve looks for answers relating to her strange visions and side effects after being healed by the stick.    "
+                },
+                "5": {
+                    "title": "The Seven Year Itch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 5,
+                    "votes": 514,
+                    "original air date": "3 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Nick (David Giuntoli) and Hank (Russell Hornsby) join Wu (Reggie Lee) to investigate a bizarre murder in a local park. Elsewhere, Capt. Renard (Sasha Roiz) continues to deal with a ghost from his past. Meanwhile, Monroe (Silas Weir Mitchell) and Rosalee (Bree Turner) visit the doctor to see if Diana's (guest star Hannah R. Loyd) premonition is true. Back at the loft, Adalind (Claire Coffee) finds a very weak Eve (Bitsie Tulloch) in the tunnels and mysterious drawings scrawled on the walls.    "
+                },
+                "6": {
+                    "title": "Breakfast in Bed",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 6,
+                    "votes": 508,
+                    "original air date": "10 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    A grisly murder in a hotel leads to a guest who claims to be haunted by a terrifying creature in the night; at the Spice Shop, Monroe, Rosalee and Eve investigate the origins of the symbols on the cloth.    "
+                },
+                "7": {
+                    "title": "Blind Love",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 7,
+                    "votes": 698,
+                    "original air date": "17 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Rosalee surprises Monroe with a birthday getaway and invites the gang to join them; at a hotel, an employee targets Nick to avenge his father; Eve is visited by a familiar dark force; Capt. Renard spends the weekend with Diana.    "
+                },
+                "8": {
+                    "title": "The Son Also Rises",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 8,
+                    "votes": 477,
+                    "original air date": "24 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    A team of scientists is the target of deadly attacks; research continues on the cloth's origins, while Eve still feels the effects of the death grip.    "
+                },
+                "9": {
+                    "title": "Tree People",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 9,
+                    "votes": 480,
+                    "original air date": "3 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Nick, Hank and Wu search the woods for a tree-like Wesen dedicated to protecting Mother Nature, while Capt. Renard seeks insight into Diana's drawings.    "
+                },
+                "10": {
+                    "title": "Blood Magic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 10,
+                    "votes": 500,
+                    "original air date": "10 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    A series of brutal murders lead to an unlikely lead in a nursing home. Eve goes to Adelind to see if there is a Hexenbiest way to travel through mirrors. Renard wants answers about the symbols that Diana has been drawing.    "
+                },
+                "11": {
+                    "title": "Where the Wild Things Were",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 11,
+                    "votes": 544,
+                    "original air date": "17 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Eve embarks on a mission to take on the mysterious force she saw in the mirror.    "
+                },
+                "12": {
+                    "title": "Zerstörer Shrugged",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 12,
+                    "votes": 755,
+                    "original air date": "24 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    A powerful Wesen named Zerstörer arrives in Portland, planning to do something with Diana. Nick returns to the house where he solved his first Wesen case to find a solution. However, Zerstörer is one step ahead of the gang.    "
+                },
+                "13": {
+                    "title": "The End",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 13,
+                    "votes": 1274,
+                    "original air date": "31 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Nick faces off against his greatest foe, yet as it seems no weapon can defeat him. Monroe, Rosalee and Eve search for answers that may help them in the fight. Renard and Adalind try to keep Diana and Kelly safe    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 1593,
+                    "original air date": "28 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    Nick Burkhardt, a promising Portland homicide detective, told nobody he's been seeing visions of people 'transforming' into monsters when he looks at them. While investigating the murder and disappearance of two girls, he realizes it's a Grimm family gift, which passes from his aunt Marie Kessler when she is dying from cancer. She also gives him a mysterious key. Nick becomes her attacker's next target, narrowly escaping. Nick discreetly uses his gift to track down a postman, who turns out to be a descendant of werewolf lineage, and who helps him find the violent ...    "
+                },
+                "2": {
+                    "title": "Bears Will Be Bears",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 1255,
+                    "original air date": "4 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    A case of breaking and entering introduces Nick and Hank to a mysterious family whose cultural background blurs the line of right and wrong. Meanwhile, Nick tasks Monroe with safeguarding Aunt Marie.    "
+                },
+                "3": {
+                    "title": "BeeWare",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 1179,
+                    "original air date": "11 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    During a flash-mob on a bus, a lawyer is killed with a stunning overdose of bee venom, but it fits no geographical origin. Monroe and the Grim records help Nick work out it must be the work of a feral bee queen, the sworn enemy of Hexebiests like Adalind. Trailing a professor-beekeeper and the other twelve attendants of a bee-keeping convention, Nick and his partner Hank find them congregating and get attacked by an unnatural bee swarm.    "
+                },
+                "4": {
+                    "title": "Lonelyhearts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 1076,
+                    "original air date": "18 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    Nick learns that a series of disappearances, rapes-and possibly murders-of beautiful women in the Portland area is connected to a honeymoon hotel where the owner harbors a hypnotic power.    "
+                },
+                "5": {
+                    "title": "Danse Macabre",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 1097,
+                    "original air date": "8 Dec. 2011",
+                    "year": "2011",
+                    "plot": "\n    Nick investigates the death of a music teacher who was eaten alive by rats whille locked in his own car. Nick and Hank are led to a expelled music prodigy who has a strange sort for vengeance against those who wronged him.    "
+                },
+                "6": {
+                    "title": "The Three Bad Wolves",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 1018,
+                    "original air date": "9 Dec. 2011",
+                    "year": "2011",
+                    "plot": "\n    Blutbad Hap Lasser coincidentally survives a cunning arson attack which makes his home explode, two months after his brother died in a similar fire. Monroe reluctantly takes him in, also as a favor to Hap's sister, Monroe's own ex-lover Angelina. She returns to revenge both brothers and hates Grimms but resumes nocturnal hunt fun with Monroe. Lieutenant Peter Orson didn't call either case arson, but lost his own brother in a fire which may be a Blutbad's doing.    "
+                },
+                "7": {
+                    "title": "Let Your Hair Down",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 1026,
+                    "original air date": "16 Dec. 2011",
+                    "year": "2011",
+                    "plot": "\n    When a hiking couple is saved from a drug trafficker from what appears to be a \"Feral Beast\" nick investigation into it leads to the suspicious that it is linked with a 10-year old missing persons case.    "
+                },
+                "8": {
+                    "title": "Game Ogre",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 972,
+                    "original air date": "13 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    Highly respected judge Logan Patterson is murdered, and shortly after several other people who played some part in the conviction and incarceration of an escaped giant of unnatural strength. Nick is badly wounded, out of action. Monroe however shows unusual enthusiasm to help out while Hank follows the paper trail.    "
+                },
+                "9": {
+                    "title": "Of Mouse and Man",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 946,
+                    "original air date": "20 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    A man named Leonard \"Lenny\" Drake is found dead in a garbage truck and Nick and Hank investigate the case. They find blood in the dumpster near his building and a trail of blood to the parking garage. The manager explains that the tenant was a violent man that lived in his apartment with the gorgeous Natalie Havershaw. On the previous night, they had an argument and the tenants Marty Burgess first and the lawyer Mason Snyder then had come to protect her. Marty returned to his apartment while Lenny and Mason continued to argue. Then Mason escorted her to her car and ...    "
+                },
+                "10": {
+                    "title": "Organ Grinder",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 956,
+                    "original air date": "3 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    While investigating the death of a homeless teen, Nick and Hank uncover a ring of Geiers harvesting human organs. Also, the Ferrat threaten Captain Renard to keep the Grimm under control.    "
+                },
+                "11": {
+                    "title": "Tarantella",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 953,
+                    "original air date": "10 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Nick and the police department goes on the hunt for a mysterious wesen woman who first seduces men and then gruesomely murders them in a \"Arachnid\"-related death.    "
+                },
+                "12": {
+                    "title": "Last Grimm Standing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 940,
+                    "original air date": "24 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    When Nick consults him about an erratic murder committed by athletic ex-con Dimitri Skontos, Monroe soon helps him realize that's actually a victim of 'gladiator games' organized by the most bloodthirsty pride of Löwen, a lionesque feral species. Nick spends his anniversary working out the fighters are recruited through a dodgy parole officer and where the arena is hidden. Captain Sean Renard realizes the lucrative fights are becoming too notorious, his royal order to close down the games is ignored, so he turns to a priestly enforcer. Meanwhile first Monroe, then ...    "
+                },
+                "13": {
+                    "title": "Three Coins in a Fuchsbau",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 959,
+                    "original air date": "2 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Jeweler Sam Bertram was murdered by three European killers, of rival feral species, to steal the rarest Ancient gold coins from his safe. Two are dead, the third steals a uniform from a cop he murders. The coins are found on the elusive Farley Kolt, who is arrested and tells Nick enough to work out he was late aunt Marie's true love. The coins, minted on Zakynthos, with swastika's and lions heads, are poisonous and magically attract great power and utter disaster. Captain Sean Renard keeps them and starts an ambitious 'campaign against crime' amidst dreams of absolute...    "
+                },
+                "14": {
+                    "title": "Plumed Serpent",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 957,
+                    "original air date": "9 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    When heavily burned bodies appears, Nick to led to a both the existence of dragons in the world of wesen and a charismatic fire-dancer for try's to spark a flame between her and nick, hiding a deadly true agenda.    "
+                },
+                "15": {
+                    "title": "Island of Dreams",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 886,
+                    "original air date": "30 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Nick investigates the robbery of a spice shop, that is owned by wesen, discovering that the thieves were after a dangerous drug.    "
+                },
+                "16": {
+                    "title": "The Thing with Feathers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 882,
+                    "original air date": "6 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Nick and Juliette go away for a little R & R. They meet a couple who turns out to be not human. Juliette meets the wife and senses she's being abused. Nick learns the man is a being who abuses women.    "
+                },
+                "17": {
+                    "title": "Love Sick",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 877,
+                    "original air date": "13 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Nick is in the trailer trying to find out what the key that he received from his aunt might open. Juliette calls him telling that Hank has invited them to have dinner together with Adalind. Captain Renard is forced by a criminal with a weapon to go with him to meet his cousin, but he reacts and kills them both. When Nick meets Adalind, he recalls that she wanted to kill his aunt and he confronts her near the restrooms. But he is called to investigate the murder of the two men and leaves the restaurant. Meanwhile Renard goes to the house of Catherine and she tells him ...    "
+                },
+                "18": {
+                    "title": "Cat and Mouse",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 868,
+                    "original air date": "20 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Nick investigates the failed attempt to murder feral Ian Harmon, who seeks help from ex-lover Rosalee, who brings in Monroe, who turns to Nick. He finds the feral hit-man Edgar Waltz is a Hundjäger ('canine hunter'), a ruthless breed used by the seven competing royal families, who demands police captain Renard's help. Waltz stops at nothing, threatening with city-wide slaughter and kidnapping Rosalee to get his prey, but Nick, Ian and Monroe still fight back, for once overruling human law.    "
+                },
+                "19": {
+                    "title": "Leave It to Beavers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 920,
+                    "original air date": "27 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Nick searches for the possibly witness to the murder of a bridge construction contractor caused by a troll-like wesen.    "
+                },
+                "20": {
+                    "title": "Happily Ever Aftermath",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 837,
+                    "original air date": "4 May 2012",
+                    "year": "2012",
+                    "plot": "\n    After a man and his wife are scammed out their fortune by a Madoff-like fraudster, the husband approaches his wife's evil stepmother for financial assistance. But she refuses and is soon after murdered by a Murcielago - a bat-like creature that kills with a sonic scream.    "
+                },
+                "21": {
+                    "title": "Big Feet",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "votes": 813,
+                    "original air date": "11 May 2012",
+                    "year": "2012",
+                    "plot": "\n    Episodes of vicious attacks by Bigfoot-like Wesen known as Wildermann are suddenly rampant. Nick and Monroe discover that the errant Wesen are connected to a psychologist performing medical experiments to help the Wesen control their urges.    "
+                },
+                "22": {
+                    "title": "Woman in Black",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "votes": 976,
+                    "original air date": "18 May 2012",
+                    "year": "2012",
+                    "plot": "\n    A Schakal Wesen wreaks havoc while searching for the ancient Zakynthos gold coins, while a mysterious woman in black tracks his movements. Nick informs a dubious Juliette of his heritage just before she collapses and is hospitalized because of a poisonous scratch from Adalind's cat.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Bad Teeth",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 1060,
+                    "original air date": "13 Aug. 2012",
+                    "year": "2012",
+                    "plot": "\n    After their face-off with Kimura, Nick finds himself trying to come to grips with the return of his mother, Kelly Burkhardt. A trail of brutal murders unveils a foreign conspiracy to hunt down Nick, leading to several revelations about his past. Meanwhile, Juliette still lies in her mysteriously-induced coma as Rosalee and Monroe work tirelessly to bring her out of it safely. Elsewhere, Hank struggles with the shocking truths he's recently seen and Captain Renard deals with unexpected family issues when his estranged brother comes back into his life.    "
+                },
+                "2": {
+                    "title": "The Kiss",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 883,
+                    "original air date": "20 Aug. 2012",
+                    "year": "2012",
+                    "plot": "\n    As Nick and his mother continue to battle the Mauvais Dentes, Monroe and Rosalee fight against the clock to save Juliette. More details are revealed about the source of Juliette's illness, resulting in an epic showdown. Back at the precinct, Hank senses that something is amiss when Nick lands in hot water with the FBI. Meanwhile, Captain Renard continues to reveal himself as he deals with his estranged brother.    "
+                },
+                "3": {
+                    "title": "Bad Moon Rising",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 894,
+                    "original air date": "27 Aug. 2012",
+                    "year": "2012",
+                    "plot": "\n    Monroe explains to Nick about the feral Coyotl prison gang-like, even tattooed kind's pack code when they find on old friend of Hank is actually one who fled his pack years ago and now finds his daughter kidnapped. The trail leads to their Texas relatives, the Kempfers, who stop at nothing but ignore the other side has a Grimm. Nick shows angelic patience when Juliette's memory returns about everything except their love.    "
+                },
+                "4": {
+                    "title": "Quill",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 818,
+                    "original air date": "3 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    Park ranger Ryan Gilko is the first of several Wesen, affected by a contagious disease, who suddenly commit violent attacks on people. The team felt relaxed now Hank is being included in the secret, so Monroe takes Rosalee on a picnic. Alas, the plague spreads and even affects her, so it's up to Monroe to make the remedy they researched together while Nick holds her feral state in check. Captain Renard meanwhile learns that another terrifying European fugitive has arrived in Portland.    "
+                },
+                "5": {
+                    "title": "The Good Shepherd",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 820,
+                    "original air date": "28 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    Reverend Calvin, a feral wolf, reports a fortune stolen from church funds and the parishioner who did the accounts, a feral sheep like most of his flock, missing. The man is later found cut-up in the grinder of his employer's factory, but has no motive or suspicious record. Undercover as a 'homeless' seeking church shelter, Monroe discovers reverend Calvin, whose previous Southern parish was similarly robbed presumably by a parishioner, has an affair with his sheep church secretary, who transferred with him, but is up for a rude surprise too.    "
+                },
+                "6": {
+                    "title": "Over My Dead Body",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 863,
+                    "original air date": "5 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Nick is delighted when Juliette, who still can't remember him, invites over for a home cooked dinner to get acquainted all over. But he's called away urgently by Monroe, who has a feral visitor: a ruthless killer, yet also a friend of his, who only pretended to take a contract for Monroe's death to warn him after 'accidentally' killing the initial hit man. Nick, who wants her for at least two earlier murders, grudgingly cooperates, going so far as to allow her to pretend to be his partner. To get to the royal presumed to have hired the killer, Monroe must fake his ...    "
+                },
+                "7": {
+                    "title": "The Bottle Imp",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 788,
+                    "original air date": "12 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    An unsettling murder scene leads Nick and Hank to what looks like a bitter custody battle.    "
+                },
+                "8": {
+                    "title": "The Other Side",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 766,
+                    "original air date": "19 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Even Nick is puzzled by the case of two murdered teenage favorite candidates to the high-school general knowledge quiz qualifying for the state competition. Wesen in the story belong to several species, one extremely rare. Captain Sean Renard wins a community prize and turns to Monroe for a medicinal cure for his sexual obsession with Juliette Silverton. Surviving competitor Pierce Higgins is actually an unwitting Wesen cross breed. In Vienna, Renard's brother, Prince Eric, confides unto his latest conquest.    "
+                },
+                "9": {
+                    "title": "La Llorona",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 838,
+                    "original air date": "26 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    On Halloween, Nick and Hank search for a figure from Mexican folklore who might be abducting children; meanwhile, Monroe tries to deal with some troublesome trick 'r treaters.    "
+                },
+                "10": {
+                    "title": "The Hour of Death",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 771,
+                    "original air date": "2 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Nick is puzzled by several cases where a suspect who escaped the police is violently dealt with by a masked, cloaked avenger. He even leaves Nick messages, suggesting he is a 'real Grimm' who is cleaning up 'weakling' Nick's messes. But he strikes terror even with gentle Wesen, like the beavers, who seek help through Monroe, who fears it's a descendant of a medieval Grimm vigilante order. Nick suspects a police mole.    "
+                },
+                "11": {
+                    "title": "To Protect and Serve Man",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 774,
+                    "original air date": "9 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Hank's knowledge of Nick's world has him second guessing a past case.    "
+                },
+                "12": {
+                    "title": "Season of the Hexenbiest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 869,
+                    "original air date": "16 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Nick is shocked about Juliette's infidelity, which she can't explain, yet sort of accepts it and ends up moving out to his heritage trailer. Monroe realizes from a TV appearance that Juliette's partner, who ordered an obsession cure, is none other than Police Captain Sean Renard and ends up telling Nick. Meanwhile Adalind and a pack of canine Wesen almost hunt down Renard for the key, and he locates Nick's trailer after allowing him to lock up Adalind.    "
+                },
+                "13": {
+                    "title": "Face Off",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 810,
+                    "original air date": "8 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Once Monroe shows him that Renard is Juliette's lover, Nick can barely control the urge for illegal revenge. Assisted by just returned Rosalee, Monroe works out how the passion spell can be broken, and ultimately Renard convinces Nick they must work together. Meanwhile Adalind is released for lack of evidence and returns to Renard's traitor brother in Vienna, without the key, not knowing Renard found and stole it from Nick's desk.    "
+                },
+                "14": {
+                    "title": "Natural Born Wesen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "votes": 734,
+                    "original air date": "15 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Monroe's potion finally relieves Renard and Juliette's passionate obsession, so he and Nick can collaborate again, even closer then ever, with Monroe and Hank aboard, against the royal conspirators. Three youngster Wesen, Cole Pritchard, his girl Krystal Fletcher and his former cell-mate Gus, repeatedly commit robberies using their Wesen appearances as if masks. Monroe witnessed a bank robbery and alerts Nick's police team as well as the 'Wesen Council', as this is a blatant violation of the centuries old Schwaben code, which Amsterdam HQ chief De Groot orders ...    "
+                },
+                "15": {
+                    "title": "Mr. Sandman",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "votes": 753,
+                    "original air date": "22 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Those grieving for a deceased loved one becomes the target of a revolting fly-like Wesen who feeds on tears and leaves behind a deadly parasite.    "
+                },
+                "16": {
+                    "title": "Nameless",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 16,
+                    "votes": 718,
+                    "original air date": "29 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    In Dominick Spinner's successful Portland games design company, several employees engaged in developing and testing a single video-game are, one by one, killed i the game and hours later for real, by similar gruesome devices. At each corpse a literary clue is found, an anonymous caller dares the police to identify him. Nick handles the case, using Wu's bachelor hobbies experience. Monroe helps work out what rare Wesen could be behind it. Renard is preoccupied with royalty parties rivalry.    "
+                },
+                "17": {
+                    "title": "One Angry Fuchsbau",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 17,
+                    "votes": 721,
+                    "original air date": "5 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    After sleeping on it Nick decides it would be best for Monroe to take Juliette to the trailer. However, the trailer triggers more memories of Nick than Juliette may be able to handle leading her to seek the help of Pilar for insights into her current condition. Meanwhile Monroe fears Rosalee, who is serving jury duty, maybe under the influence of a toad dropping Ziegevolk who is jury tampering to win his case. Nick, Hank, Bud, Monroe and Rosalee hatch a plan to stop this Ziefevolk once and for all.    "
+                },
+                "18": {
+                    "title": "Volcanalis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 18,
+                    "votes": 735,
+                    "original air date": "19 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    A young geologist is gruesomely burned after collecting rock samples from a nearby volcano, and it finds Nick and the rest trying to stop a demonic Beast who is literally hot to the touch.    "
+                },
+                "19": {
+                    "title": "Endangered",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 19,
+                    "votes": 698,
+                    "original air date": "30 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    Ranchhand John is killed while accidentally bumping at night into Vincent, a blue-fluorescent feral performing one of the 27 raids on cows that went from Nebraska to Portland, actually harvesting bovine ovaries for his pregnant mate Jocelyn, with whom he keeps moving and hiding. Besides Nick, the case seems to be followed only by an 'ufologist' or alien-hunter, who in fact chases the very feral species. Monroe recognizes the print Nick made from his key as part of a medieval map as Swabia, Renard explains the keys combine into a map to a terrible treasure hidden by ...    "
+                },
+                "20": {
+                    "title": "Kiss of the Muse",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 20,
+                    "votes": 750,
+                    "original air date": "7 May 2013",
+                    "year": "2013",
+                    "plot": "\n    When Nick encounters a muse-like Wesen after the murder of her boyfriend by her jealous ex-lover, things start to get a little complicated.    "
+                },
+                "21": {
+                    "title": "The Waking Dead",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 21,
+                    "votes": 728,
+                    "original air date": "14 May 2013",
+                    "year": "2013",
+                    "plot": "\n    A mysterious drug related force begins to turn residents of Portland into feral zombies, meanwhile, Juliette learns more of the wesen community in the spice shop.    "
+                },
+                "22": {
+                    "title": "Goodnight, Sweet Grimm",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 22,
+                    "votes": 797,
+                    "original air date": "21 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Nick is back on lovers' terms with Juliette, who remains eager to learn about ferals. Nick must however give priority to the violent crime wave caused by zombies. As he feared, they are created by the voodoo 'baron', who sets a trap as instructed. Captain Sean Renard informs Nick about his mistrusting meeting with visiting European royal half-brother Eric and the counterfeit documents Eric had prepared at the castle. Still in Vienna, Adalind, poisoned by Pech to switch appearances, is seen roughly overtaken by the gypsy witch's family Popescu. Rosalee prepares a ...    "
+                }
+            },
+            "3": {
+                "1": {
+                    "title": "The Ungrateful Dead",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 877,
+                    "original air date": "25 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    Nick's destiny is uncertain as zombies continue to overrun Portland.    "
+                },
+                "2": {
+                    "title": "PTZD",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 719,
+                    "original air date": "1 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    Monroe (Silas Weir Mitchell), Hank (Russell Hornsby), Rosalee (Bree Turner) and Juliette (Bitsie Tulloch) track down a manic Nick (David Giuntoli) and do all they can to find him and reverse what's been done to him before he causes any more damage. Meanwhile, Captain Renard (Sasha Roiz) does his best to clean up the zombie fallout on all fronts - domestic and international. Elsewhere, the more time Adalind (Claire Coffee) spends with Stefania (guest star Shohreh Aghdashloo), the more disturbing things seem to get in her quest to regain her Hexenbiest abilities.    "
+                },
+                "3": {
+                    "title": "A Dish Best Served Cold",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 696,
+                    "original air date": "8 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    A series of disturbing crime scenes leads Nick (David Giuntoli) and Hank (Russell Hornsby) to the resurrection of an old feud that's all too familiar for Nick and Monroe (Silas Weir Mitchell). With the news of a royal family member's demise, several key players start to make their move. Meanwhile despite his recent trauma, Nick finds himself healthier than normal and Monroe and Rosalee (Bree Turner) talk about moving their relationship forward.    "
+                },
+                "4": {
+                    "title": "One Night Stand",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 724,
+                    "original air date": "15 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    When Nick (David Giuntoli) and Hank (Russell Hornsby) investigate a drowning death with mysterious marks on the victim's ankles, they happen upon a group of water-bound Wesen. Meanwhile, Rosalee (Bree Turner) starts unpacking her things at Monroe's (Silas Weir Mitchell), and Captain Renard (Sasha Roiz) makes a startling realization about the possible identities of the Royal Baby's parents.    "
+                },
+                "5": {
+                    "title": "El Cucuy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 681,
+                    "original air date": "29 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    When investigating a series of brutal murders committed on criminals, to Nick it appears that the culprit may be a character from a Latino legend.    "
+                },
+                "6": {
+                    "title": "Stories We Tell Our Young",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 679,
+                    "original air date": "6 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    Nick and Hank look into the death of a priest, who was performing an exorcism on a 9-year-old boy. Is the boy a Wesen or possessed by a demon?    "
+                },
+                "7": {
+                    "title": "Cold Blooded",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 660,
+                    "original air date": "13 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    An old urban legend from within Portland sewers comes to light when a murder is committed by an vicious, alligator-like wesen.    "
+                },
+                "8": {
+                    "title": "Twelve Days of Krampus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 715,
+                    "original air date": "13 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    After a string of delinquent teens go missing, an old Wesen tale of an evil Santa who brings more than just a lump of coal may be the prime suspect. The investigation intensifies as Nick and Hank take things a little too far. Meanwhile, Monroe enlists Juliette to surprise Rosalee for their first Christmas together with unintended results. Elsewhere, Captain Renards tour of Europe brings him closer to tracking down Adalind.    "
+                },
+                "9": {
+                    "title": "Red Menace",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 673,
+                    "original air date": "3 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Nick (David Giuntoli) and Hank (Russell Hornsby) investigate a Wesen \"healer\" whose ability holds risks that far outweigh its rewards. Meanwhile, Juliette (Bitsie Tulloch) takes in a friend when domestic issues escalate and Hank makes a move on his physical therapist Zuri (guest star Sharon Leal). Elsewhere, Captain Renard (Sasha Roiz) finally tracks down Adalind (Claire Coffee) and has a stern warning for her.    "
+                },
+                "10": {
+                    "title": "Eyes of the Beholder",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 665,
+                    "original air date": "10 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Nick (David Giuntoli) and Hank (Russell Hornsby) are called to the scene of a gang-related homicide. The case escalates as Zuri (guest star Sharon Leal), Hank's physical therapist, and her brother get caught up in the investigation. Meanwhile, Juliette (Bitsie Tulloch) seeks advice from Rosalee (Bree Turner) in dealing with the news that her friend is Wesen.    "
+                },
+                "11": {
+                    "title": "The Good Soldier",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 11,
+                    "votes": 658,
+                    "original air date": "17 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Nick (David Giuntoli) and Hank (Russell Hornsby) are called to the gruesome murder of a veteran working in home security. During their investigation, they discover this might be one of several revenge killings regarding a horrifying cover-up involving members of the army and military contractors. On the domestic front, Monroe (Silas Weir Mitchell) accompanies Rosalee (Bree Turner) during her long overdue reunion with her mother and sister. In Europe, Adalind (Claire Coffee) sees hints of what she thinks might be her powers returning.    "
+                },
+                "12": {
+                    "title": "The Wild Hunt",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 12,
+                    "votes": 694,
+                    "original air date": "24 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Nick (David Giuntoli) and Hank (Russell Hornsby) investigate a cop killer who scalps his victims. Meanwhile, Juliette (Bitsie Tulloch) begins to communicate with Nick's mom via email and Adalind (Claire Coffee) finds herself much closer to delivering her baby than she previously thought. Elsewhere, Monroe's (Silas Weir Mitchell) parents (guest stars Dee Wallace and Chris Mulkey) decide to surprise him and Rosalee (Bree Turner) with an early arrival to Portland after learning some exciting news.    "
+                },
+                "13": {
+                    "title": "Revelation",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 13,
+                    "votes": 735,
+                    "original air date": "28 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Monroe (Silas Weir Mitchell) fights an impossible battle to convince his parents (guest stars Dee Wallace and Chris Mulkey) to embrace the life choices he's made. Meanwhile, Nick (David Giuntoli) turns to Juliette (Bitsie Tulloch) to help him figure out the Wesen aspect of his cop-killing scalper investigation. On the Royal Baby front, Captain Renard (Sasha Roiz) learns new information that forces him to contact Adalind (Claire Coffee) in the interest of keeping her and the baby safe from Viktor (guest star Alexis Denisof).    "
+                },
+                "14": {
+                    "title": "Mommy Dearest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 14,
+                    "votes": 691,
+                    "original air date": "7 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    A horrible new predator creeps into Portland with its sight set on a young expectant couple who are close friends of Sgt. Wu (Reggie Lee). Nick (David Giuntoli) and Hank (Russell Hornsby) must figure out how to deal with Wu as the investigation escalates. Meanwhile, Adalind (Claire Coffee) prepares for a special delivery while her enemies are hot on her trail.    "
+                },
+                "15": {
+                    "title": "Once We Were Gods",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 15,
+                    "votes": 635,
+                    "original air date": "14 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Nick, Hank and Juliette learn what the Wesen Community already know, the Wesen were GODS in ancient Egypt Meanwhile, Adalind and Meisner again run for their lives after a tortured Sebastien reveals the location where he dropped them off. Sgt. Wu, still fighting for his sanity is visited by Juliette. She tells Wu of her ordeal, which seems to have helped him because Wu is later picked up and taken home by Nick and Hank.    "
+                },
+                "16": {
+                    "title": "The Show Must Go On",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 16,
+                    "votes": 663,
+                    "original air date": "21 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    A double homicide leads Nick (David Giuntoli) and Hank (Russell Hornsby) to a traveling carnival where the performers are not what they seem. To get a better understanding of what's going on behind the scenes Monroe (Silas Weir Mitchell) and Rosalee (Bree Turner) go undercover. On the wedding front, Monroe has a really important question for Nick. In Austria, an invaluable member of the Resistance makes the ultimate sacrifice to help Adalind (Claire Coffee).    "
+                },
+                "17": {
+                    "title": "Synchronicity",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 17,
+                    "votes": 675,
+                    "original air date": "4 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Nick's mother Kelly returns to help Adalind escape Europe with her baby. Meanwhile, Monroe and Rosalee prepare for their wedding.    "
+                },
+                "18": {
+                    "title": "The Law of Sacrifice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 18,
+                    "votes": 718,
+                    "original air date": "11 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Verrat find out that Adelind and her baby have gone to Captain Sean Renard for help. Nick enlists the help of Monroe and Rosalee to keep Adalind safe, as his mother figures how to deal with the Royals.    "
+                },
+                "19": {
+                    "title": "Nobody Knows the Trubel I've Seen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 19,
+                    "votes": 702,
+                    "original air date": "25 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Nick (David Giuntoli) and Hank (Russell Hornsby) investigate a dangerous female suspect (guest star Jacqueline Toboni) leaving a trail of Wesen in her wake. Elsewhere, Adalind (Claire Coffee) takes measures into her own hands, even if that means forging a dangerous alliance.    "
+                },
+                "20": {
+                    "title": "My Fair Wesen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 20,
+                    "votes": 663,
+                    "original air date": "2 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Nick (David Giuntoli) does his best to educate Trubel (guest star Jacqueline Toboni) on how best to handle the world she is learning about for the first time, and decides it best to bring her on a ride along with Hank (Russell Hornsby). They find themselves investigating the homicide of a young woman that strikes a chord for Trubel. Meanwhile, Adalind (Claire Coffee) makes a discovery that she hopes will lead her to regain something she has lost.    "
+                },
+                "21": {
+                    "title": "The Inheritance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 21,
+                    "votes": 675,
+                    "original air date": "9 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Nick and Hank are called to investigate a double homicide, and quickly learn the victims were from a special section of the Verrat tasked with finding rare objects pertaining to the Wesen world. Trubel gets involved with a mysterious father-and-son tandem that crossed the country in a desperate attempt to deliver invaluable cargo to \"the Portland Grimm.\" Meanwhile, Captain Renard begins to grow suspicious of Adalind's recent behavior and quietly decides to put extra eyes on her.    "
+                },
+                "22": {
+                    "title": "Blond Ambition",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 22,
+                    "votes": 915,
+                    "original air date": "16 May 2014",
+                    "year": "2014",
+                    "plot": "\n    It's Monroe (Silas Weir Mitchell) and Rosalee's (Bree Turner) big day and their joy will only be matched by unexpected heartache for those around them. Nick (David Giuntoli) and Juliette (Bitsie Tulloch) make a startling realization that could shake their relationship to its core. Meanwhile, Adalind (Claire Coffee) proceeds with a delicately laid plan that leads to a catastrophic event that will alter the course of Nick's journey.    "
+                }
+            },
+            "4": {
+                "1": {
+                    "title": "Thanks for the Memories",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "votes": 781,
+                    "original air date": "24 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    The team scrambles to find a cure to get Nick's abilities back.    "
+                },
+                "2": {
+                    "title": "Octopus Head",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "votes": 695,
+                    "original air date": "31 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Gedächtnis Esser continues to steal memories and Captain Renard's mother visits him in the hospital to try to save his life. Meanwhile Wu confronts Nick about Trubel and Nick and Adalind share a psychic connection.    "
+                },
+                "3": {
+                    "title": "The Last Fight",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "votes": 679,
+                    "original air date": "7 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Nick's power loss aftermath showed that the changes are far more than anticipated, Elizabeth, Monroe and Rosalee look for the cure. Nick and Hank call on Trubel to help out on a case.    "
+                },
+                "4": {
+                    "title": "Dyin' on a Prayer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 4,
+                    "votes": 670,
+                    "original air date": "14 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    A rabbi raises a golem to protect his nephew, but he can't control it. Elizabeth successfully recreates Adalind's spell, but it still requires a key ingredient.    "
+                },
+                "5": {
+                    "title": "Cry Luison",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 5,
+                    "votes": 674,
+                    "original air date": "21 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    A woman claims a persistent talking wolf drove her to madness; Juliette and Nick weigh the potential costs of getting back his abilities, and the threats against Rosalee and Monroe get worse.    "
+                },
+                "6": {
+                    "title": "Highway of Tears",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 6,
+                    "votes": 697,
+                    "original air date": "28 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    With Monroe and Rosalie are dealing with a growing problem from Wesen purists, Nick and Juliette must decide if a normal life is really what they want.    "
+                },
+                "7": {
+                    "title": "The Grimm Who Stole Christmas",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 7,
+                    "votes": 686,
+                    "original air date": "5 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    Monroe has a Christmas surprise for Rosalee; Trubel has a realization that impacts everyone.    "
+                },
+                "8": {
+                    "title": "Chupacabra",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 8,
+                    "votes": 705,
+                    "original air date": "12 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    An unsuspecting traveler brings a blood-sucking legend with him to Portland, and Nick (David Giuntoli) and Hank (Russell Hornsby) find themselves investigating the gruesome trail of \"El Chupacabra.\" Meanwhile, Monroe (Silas Weir Mitchell) and Rosalee (Bree Turner) prepare to leave for their long-overdue honeymoon as they are met with more threats regarding their marriage. Elsewhere, Viktor (guest star Alexis Denisof) and Adalind (Claire Coffee) decide to take a trip of their own, while Wu (Reggie Lee) decides to confront Nick about what he has been seeing.    "
+                },
+                "9": {
+                    "title": "Wesenrein",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 9,
+                    "votes": 772,
+                    "original air date": "16 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    The Wesenrein act on their many threats against Monroe (Silas Weir Mitchell) and Rosalee's (Bree Turner) marriage. Meanwhile, Nick (David Giuntoli) and Hank (Russell Hornsby) bring Wu (Reggie Lee) to a place where he's sure to find the answers he's looking for. Elsewhere, Juliette (Bitsie Tulloch) tries to come to grips with her new reality.    "
+                },
+                "10": {
+                    "title": "Tribunal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 10,
+                    "votes": 917,
+                    "original air date": "23 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    After Monroe's (Silas Weir Mitchell) abduction by the Wesenrein, Nick (David Giuntoli) gathers the whole team, including Wu (Reggie Lee), to track him down and return him to Rosalee (Bree Turner). As the search intensifies, Juliette (Bitsie Tulloch) learns more about her new reality as a Hexenbiest.    "
+                },
+                "11": {
+                    "title": "Death Do Us Part",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 11,
+                    "votes": 665,
+                    "original air date": "30 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Rosalee and Monroe finally go on their honeymoon; Nick and Hank investigate a shocking homicide at an abandoned - and supposedly haunted - residence; Renard seeks help from a mystical woman.    "
+                },
+                "12": {
+                    "title": "Maréchaussée",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 12,
+                    "votes": 723,
+                    "original air date": "6 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Nick and Hank investigate a series of murders that lead back to the Wesen Council and a mysterious bounty hunter.    "
+                },
+                "13": {
+                    "title": "Trial by Fire",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 13,
+                    "votes": 814,
+                    "original air date": "13 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    While Nick and Hank investigate the deaths of two teenagers in an arson case they realize they need the help of someone that Nick had arrested several years ago.    "
+                },
+                "14": {
+                    "title": "Bad Luck",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 14,
+                    "votes": 654,
+                    "original air date": "20 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Nick (David Giuntoli) and Hank (Russel Hornsby) investigate a murder victim with his foot cut off, and stumble onto a disturbing Wesen take on the \"lucky rabbit's foot.\" In an effort to help, Monroe (Silas Weir Mitchell) and Rosalee (Bree Turner) go undercover. Meanwhile, the fallout from Adalind (Claire Coffee) and Juliette's (Bitsie Tulloch) showdown still has Nick reeling and sends him on a path that leads to Henrietta (guest star Garcelle Beauvais).    "
+                },
+                "15": {
+                    "title": "Double Date",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 15,
+                    "votes": 661,
+                    "original air date": "27 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Nick (David Giuntoli) and Hank (Russell Hornsby) are called to investigate a one night stand turned deadly when a man finds himself in the middle of a very bizarre love triangle. Captain Renard (Sasha Roiz) hopes Monroe (Silas Weir Mitchell) and Rosalee (Bree Turner) can help him deal with recurring episodes of phantom bleeding. Meanwhile, Adalind (Claire Coffee) makes a discovery that might turn the tables in her favor and Juliette (Bitsie Tulloch) makes a big decision that could change the course of her relationship with Nick.    "
+                },
+                "16": {
+                    "title": "Heartbreaker",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 16,
+                    "votes": 616,
+                    "original air date": "3 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    A cyclist's homicide introduces Nick (David Giuntoli) and Hank (Russell Hornsby) to a Wesen with a tragic fatal touch. Captain Renard (Sasha Roiz) and Adalind (Claire Coffee) learn the Royals have stepped up their efforts to find their child, and another member of the Royal family (guest star Nico Evers-Swindell) is introduced. Meanwhile, Juliette (Bitsie Tulloch) ponders the idea of embracing what she's become as opposed to fighting it.    "
+                },
+                "17": {
+                    "title": "Hibernaculum",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 17,
+                    "votes": 637,
+                    "original air date": "10 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Nick and Hank investigate a rare wesen that leaves victims frozen; Juliette seeks revenge.    "
+                },
+                "18": {
+                    "title": "Mishipeshu",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 18,
+                    "votes": 620,
+                    "original air date": "17 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    An investigation leads Nick and Hank to the path of a Native American power quest.    "
+                },
+                "19": {
+                    "title": "Iron Hans",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 19,
+                    "votes": 626,
+                    "original air date": "24 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Nick and Hank investigate a homicide they discover is linked to a wesen rite of passage.    "
+                },
+                "20": {
+                    "title": "You Don't Know Jack",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 20,
+                    "votes": 658,
+                    "original air date": "1 May 2015",
+                    "year": "2015",
+                    "plot": "\n    The press thinks a Jack the Ripper copycat is responsible for a series of recent homicides.    "
+                },
+                "21": {
+                    "title": "Headache",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 21,
+                    "votes": 775,
+                    "original air date": "8 May 2015",
+                    "year": "2015",
+                    "plot": "\n    As Hank and Nick get close to identifying a vicious serial killer, Wu's life is put into jeopardy.    "
+                },
+                "22": {
+                    "title": "Cry Havoc",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 22,
+                    "votes": 1002,
+                    "original air date": "15 May 2015",
+                    "year": "2015",
+                    "plot": "\n    After a horrifying discovery leaves Nick stunned, he is determined to get revenge.    "
+                }
+            },
+            "5": {
+                "1": {
+                    "title": "The Grimm Identity",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 1,
+                    "votes": 746,
+                    "original air date": "30 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Nick must look inside himself and decide who he wants to be while also dealing with fathering a child with Adalind.    "
+                },
+                "2": {
+                    "title": "Clear and Wesen Danger",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 2,
+                    "votes": 634,
+                    "original air date": "6 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Nick deals with his new home life as he tries to keep his child and Adalind safe.    "
+                },
+                "3": {
+                    "title": "Lost Boys",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 3,
+                    "votes": 620,
+                    "original air date": "13 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Rosalee goes missing after a band of orphaned children target her as the mother figure they have always wanted. With a furious Monroe by their side, Nick and Hank race against the clock to find Rosalee.    "
+                },
+                "4": {
+                    "title": "Maiden Quest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 4,
+                    "votes": 605,
+                    "original air date": "20 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    A wealthy mobster sets three young men on a quest to win his daughter Emily's hand in marriage and earn his fortune.    "
+                },
+                "5": {
+                    "title": "Rat King",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 5,
+                    "votes": 634,
+                    "original air date": "4 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    Nick and Hank are called to a local dump after some Wesen have a deadly encounter with the mythical Rat King.    "
+                },
+                "6": {
+                    "title": "Wesen Nacht",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 6,
+                    "votes": 681,
+                    "original air date": "11 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    Monroe is in danger when Wesen business owners are targeted in a string of attacks being investigated by Nick and Hank. Trouble catches Nick and Adalind up on her recent activities. Captain Renard endorses a political candidate.    "
+                },
+                "7": {
+                    "title": "Eve of Destruction",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 7,
+                    "votes": 618,
+                    "original air date": "29 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    After surviving a wesen ambush from a terrorist cell known as the Black Claw, Nick discovers \"Juliette\" is still alive, but learns what Chavez and Meisner were doing to her. The group interrogate Xavier. The group soon learns these attacks go beyond Portland. An attack occurs at the Wesen Council.    "
+                },
+                "8": {
+                    "title": "A Reptile Dysfunction",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 8,
+                    "votes": 568,
+                    "original air date": "5 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    The legend of the Lake Monster comes back to life as Nick and Hank investigate a mysterious sighting linked to a tourist's death at a local lake. Rosalee's past comes back to haunt her. Elsewhere, Capt. Renard continues to support a candidate for mayor. Meanwhile, Nick is shown the scope of the Wesen uprising as the secret government agency takes him into the heart of their Portland operations center.    "
+                },
+                "9": {
+                    "title": "Star-Crossed",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 9,
+                    "votes": 561,
+                    "original air date": "12 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Nick and Hank race against time to prevent the completion of an ancient Wesen ritual that requires seven sacrificial murders. Meisner, Trubel, and Eve track a suspected Black Claw agent's arrival in Portland.    "
+                },
+                "10": {
+                    "title": "Map of the Seven Knights",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 10,
+                    "votes": 739,
+                    "original air date": "19 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Monroe receives a call from a relative in Germany that will bring Nick closer to his ancestors. Complications arise when the nefarious group Black Claw also takes an interest in this discovery.    "
+                },
+                "11": {
+                    "title": "Key Move",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 11,
+                    "votes": 601,
+                    "original air date": "4 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Artifacts take Monroe and Nick closer to the heart of a mystery; a deadly move could send Portland into chaos.    "
+                },
+                "12": {
+                    "title": "Into the Schwarzwald",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 12,
+                    "votes": 643,
+                    "original air date": "11 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Nick and Monroe discover the hidden treasure in the Black Forest. A figure from Rosalee's past comes back to haunt her. The hexenbiest suppression on Adalind begins to wear off. Renard, Hank, and Wu hunt down an assassin.    "
+                },
+                "13": {
+                    "title": "Silence of the Slams",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 13,
+                    "votes": 551,
+                    "original air date": "18 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    A down on his luck Luchador receives a special mask that will make him the star he's always wanted to be. Misuse, however, leads to terrible consequences. Meanwhile, Eve believes something is amiss with Dixon's assassination.    "
+                },
+                "14": {
+                    "title": "Lycanthropia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 14,
+                    "votes": 539,
+                    "original air date": "25 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Nick and Hank investigate an attack which leads them to a wesen disease that makes blutbad rabid every full moon. Eve discovers the Black Claw want to recruit Sean into their cause.    "
+                },
+                "15": {
+                    "title": "Skin Deep",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 15,
+                    "votes": 535,
+                    "original air date": "1 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    A beauty regimen proves deadly for a young woman, who seems to have aged 70 years when Nick and Hank find her lifeless body. As they search for proof of Wesen involvement, they are led to a local doctor, and end up enlisting Rosalee's help in their investigation. Meanwhile, Eve takes a bold step to learn more about Capt. Renard's nefarious dealings.    "
+                },
+                "16": {
+                    "title": "The Believer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 16,
+                    "votes": 523,
+                    "original air date": "8 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Nick investigates a traveling preacher who uses his wesen identity to gain followers after one of his bodyguards winds up dead, while a religious sect is seeking to capture him. Eve uses Renards body to further investigate the Black Claw.    "
+                },
+                "17": {
+                    "title": "Inugami",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 17,
+                    "votes": 512,
+                    "original air date": "15 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Local youths are in danger from a Japanese Wesen looking for revenge; and Adalind crosses paths with Eve.    "
+                },
+                "18": {
+                    "title": "Good to the Bone",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 18,
+                    "votes": 499,
+                    "original air date": "22 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Nick, Hank and Wu searches for a wesen killer who can liquefy human bones; Hank encounters an old flame.    "
+                },
+                "19": {
+                    "title": "The Taming of the Wu",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 19,
+                    "votes": 544,
+                    "original air date": "29 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Wu discovers he is infected with lycanthropia after being attacked by a Skalengeck from Black Claw. Trubel returns and Adalind leaves Nick to join Renard/Black Claw in order to protect not only her children but Nick as well.    "
+                },
+                "20": {
+                    "title": "Bad Night",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 20,
+                    "votes": 532,
+                    "original air date": "13 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Nick leans on Monroe and Rosalee as he worries that he may lose everything as he continues to battle Black Claw. Captain Renard ramps up his campaign as election day nears.    "
+                },
+                "21": {
+                    "title": "Beginning of the End: Part 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 21,
+                    "votes": 783,
+                    "original air date": "20 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Black Claw makes a strategic move against Hank that shocks everyone and sends Nick on a war path. Hadrian's Wall ramps up their investigation    "
+                },
+                "22": {
+                    "title": "Beginning of the End: Part 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Grimm (TV Series 2011–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 22,
+                    "votes": 1106,
+                    "original air date": "20 May 2016",
+                    "year": "2016",
+                    "plot": "\n    The war with Black Claw escalates as Nick and his friends are targeted for elimination.    "
+                }
+            }
+        },
+        "number of episodes": 123,
+        "cast": [
+            {
+                "name": "Giuntoli, David"
+            },
+            {
+                "name": "Hornsby, Russell"
+            },
+            {
+                "name": "Mitchell, Silas Weir"
+            },
+            {
+                "name": "Roiz, Sasha"
+            },
+            {
+                "name": "Lee, Reggie"
+            },
+            {
+                "name": "Tulloch, Elizabeth"
+            },
+            {
+                "name": "Turner, Bree"
+            },
+            {
+                "name": "Coffee, Claire"
+            },
+            {
+                "name": "Blanche, Robert"
+            },
+            {
+                "name": "Puckler, Damien"
+            },
+            {
+                "name": "Toboni, Jacqueline"
+            },
+            {
+                "name": "Bruno, Danny"
+            },
+            {
+                "name": "Lagadec, Christian"
+            },
+            {
+                "name": "Denisof, Alexis"
+            },
+            {
+                "name": "Loyd, Hannah R."
+            },
+            {
+                "name": "Leighton, Anne"
+            },
+            {
+                "name": "Anthony-Rodriguez, Philip"
+            },
+            {
+                "name": "Sachs, Sharon"
+            },
+            {
+                "name": "Newman, M. Ben"
+            },
+            {
+                "name": "Frain, James"
+            },
+            {
+                "name": "Ingraham, P.E."
+            },
+            {
+                "name": "Aghdashloo, Shohreh"
+            },
+            {
+                "name": "Mastrantonio, Mary Elizabeth"
+            },
+            {
+                "name": "Braxton, Brenda"
+            },
+            {
+                "name": "Evers-Swindell, Nico"
+            },
+            {
+                "name": "McDonald-Lewis, Mary"
+            },
+            {
+                "name": "Sheets, Michael"
+            },
+            {
+                "name": "Becker, Tim"
+            },
+            {
+                "name": "Lombard, Louise"
+            },
+            {
+                "name": "Millican, Dana"
+            },
+            {
+                "name": "Cereghino, Cazzey Louis"
+            },
+            {
+                "name": "Conway, Spencer"
+            },
+            {
+                "name": "Sukul, Steven"
+            },
+            {
+                "name": "Tait, Douglas"
+            },
+            {
+                "name": "Cox, Keith"
+            },
+            {
+                "name": "Leal, Sharon"
+            },
+            {
+                "name": "Beauvais, Garcelle"
+            },
+            {
+                "name": "Rodriguez, Elizabeth"
+            },
+            {
+                "name": "Vahan, Kyle"
+            },
+            {
+                "name": "Calvino, Tony"
+            },
+            {
+                "name": "Srednicki, John"
+            },
+            {
+                "name": "Howell, C. Thomas"
+            },
+            {
+                "name": "Crino, Jim"
+            },
+            {
+                "name": "Bebe, Jon"
+            },
+            {
+                "name": "Dunlap, Adam"
+            },
+            {
+                "name": "Ekenezar, Abie"
+            },
+            {
+                "name": "Toub, Shaun"
+            },
+            {
+                "name": "Damas, Bertila"
+            },
+            {
+                "name": "Near-Verbrugghe, Lucas"
+            },
+            {
+                "name": "Terry, Michael Grant"
+            }
+        ],
+        "locations": [
+            "Portland, Oregon, USA"
+        ],
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Mystery"
+        ],
+        "runtimes": [
+            "45"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Brazil:16",
+            "France:Tous publics::(DVD rating)",
+            "France:12::(TV rating)",
+            "Germany:16",
+            "Hungary:16::(some episodes)",
+            "Hungary:18::(some episodes)",
+            "Norway:12::(Netflix self-rating)",
+            "Russia:18+",
+            "Singapore:PG13",
+            "Singapore:NC16::(season 1)",
+            "South Korea:15",
+            "Spain:16",
+            "United Kingdom:15::(dvd)",
+            "United States:TV-14"
+        ],
+        "number of seasons": 6,
+        "rating": 7.8,
+        "votes": 100746,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTkyODg2MzQwMV5BMl5BanBnXkFtZTgwNTA2MjE1MDI@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "Portland detective, Nick Burkhardt, has seen some gruesome crime scenes, but nothing prepares him for the strange visions he begins seeing: seemingly regular people momentarily transforming into hideous monsters. A visit from his only living relative reveals the truth. Nick has inherited the ability to see supernatural creatures, and as a \"Grimm,\" he is tasked with keeping the balance between mankind and the mythological. A reformed \"Big Bad Wolf\" becomes his greatest (and also reluctant) ally and confidant. It's not long before his work as a policeman leads Nick to the criminals he once thought were only found in fairy tales.",
+        "languages": [
+            "English"
+        ],
+        "title": "Grimm",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-2017",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "writer": [
+            {
+                "name": "Carpenter, Stephen"
+            },
+            {
+                "name": "Greenwalt, David"
+            },
+            {
+                "name": "Kouf, Jim"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "GK Productions"
+            },
+            {
+                "name": "Hazy Mills Productions"
+            },
+            {
+                "name": "Universal Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "National Broadcasting Company (NBC)"
+            },
+            {
+                "name": "Canadian Television (CTV)"
+            },
+            {
+                "name": "2BE"
+            },
+            {
+                "name": "Calle 13 Universal"
+            },
+            {
+                "name": "Canal+"
+            },
+            {
+                "name": "Channel CGV"
+            },
+            {
+                "name": "Channel One Russia"
+            },
+            {
+                "name": "Diema"
+            },
+            {
+                "name": "FOUR"
+            },
+            {
+                "name": "FOX8"
+            },
+            {
+                "name": "Hot"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Orbit Showtime Network (OSN)"
+            },
+            {
+                "name": "Prima TV"
+            },
+            {
+                "name": "RTL Entertainment"
+            },
+            {
+                "name": "Seven Network"
+            },
+            {
+                "name": "Steel"
+            },
+            {
+                "name": "Super! Drama TV"
+            },
+            {
+                "name": "Syfy Universal"
+            },
+            {
+                "name": "Syfy Universal"
+            },
+            {
+                "name": "TV2"
+            },
+            {
+                "name": "TV3 Danmark"
+            },
+            {
+                "name": "TV6"
+            },
+            {
+                "name": "Universal Channel"
+            },
+            {
+                "name": "Universal Channel"
+            },
+            {
+                "name": "Universal Channel"
+            },
+            {
+                "name": "Universal Channel"
+            },
+            {
+                "name": "Universal Pictures"
+            },
+            {
+                "name": "Universal Pictures"
+            },
+            {
+                "name": "Universal Pictures"
+            },
+            {
+                "name": "Viasat 4"
+            },
+            {
+                "name": "Viasat 6"
+            },
+            {
+                "name": "Vox"
+            },
+            {
+                "name": "Watch"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Almost Human"
+            },
+            {
+                "name": "HIVE-FX"
+            },
+            {
+                "name": "Inhance Digital"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Liquid Soul Media"
+            },
+            {
+                "name": "Bender ET"
+            },
+            {
+                "name": "Clairmont Camera Film & Digital"
+            },
+            {
+                "name": "Digital One"
+            },
+            {
+                "name": "Interopa Film"
+            },
+            {
+                "name": "Khaos Digital"
+            },
+            {
+                "name": "Koerner Camera"
+            },
+            {
+                "name": "Marshall/Plumb Research Associates"
+            },
+            {
+                "name": "Monster Picture Crane"
+            },
+            {
+                "name": "Neue Vitaskop Film"
+            },
+            {
+                "name": "Open 4 Business Productions"
+            },
+            {
+                "name": "Out Of Frame Production Rentals"
+            },
+            {
+                "name": "PIC Agency"
+            },
+            {
+                "name": "Pro-Cam Rentals"
+            },
+            {
+                "name": "Rex Post"
+            },
+            {
+                "name": "Seattle Stunt Company"
+            },
+            {
+                "name": "Studio Trucks"
+            }
+        ],
+        "plot": [
+            "A homicide detective discovers he is a descendant of hunters who fight supernatural forces.::Anonymous",
+            "Portland detective, Nick Burkhardt, has seen some gruesome crime scenes, but nothing prepares him for the strange visions he begins seeing: seemingly regular people momentarily transforming into hideous monsters. A visit from his only living relative reveals the truth. Nick has inherited the ability to see supernatural creatures, and as a \"_Grimm_ (qv),\" he is tasked with keeping the balance between mankind and the mythological. A reformed \"Big Bad Wolf\" becomes his greatest (and also reluctant) ally and confidant. It's not long before his work as a policeman leads Nick to the criminals he once thought were only found in fairy tales.::L. Hamre",
+            "Portland PD Detective Nick Burkhartd realises he is a _Grimm_ (qv) and can see supernatural creatures as no one can. Together with his police badge and _Grimm_ (qv) archives sent down by his ancestors from around the world at different times he sets out to rid the city of Portland of its most horrific villains. He is assisted by Detective Harmon, Friend Monroe and his GF with occasional help from guests as the story progresses.::ahmetkozan",
+            "Detective Nick of Portland P.D sees the real monsters inside people. He first saw changing face(woge) of a witch(Hexenbiest). He thinks he is imagining things. But when his aunt asks \"Are you watching things you can't explain?\" He gets alarmed. He learns he is some of the last descendants of an ancient lineage called GRIMMS, From the Brothers _Grimm_ (qv). And learns fairytale creatures exist in real life and only GRIMMS can see them when they are emotionally hiked. It follows the storyline of The Royal families controlling Wesens(creatures of the fairytales) by employing first _Grimm_ (qv)s(7 Knights) from ancient times. It is then revealed the Knights Templars of the fourth Crusade hid something so dangerous that they feared of coming it in wrong hands(The Royals , other Wesens etc.). Nick finds the treasure and continued to fight to control and keep balance in the Two worlds.::Ritwik Rakshit"
+        ],
+        "synopsis": [
+            "Set in present-day Portland, Oregon, the series puts a new twist on the stories of the Brothers Grimm in which a homicide detective learns that he is a descendent of a group of hunters known as \"Grimms\", who fight to keep humanity safe from the supernatural creatures of the world. Upon learning of his destiny and that he is the last of his kind, he has to protect every living soul from the sinister storybook characters that have infiltrated the real world."
+        ],
+        "tech": {
+            "runtime": [
+                "45 min"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Arri Alexa, Zeiss Master Prime and Angenieux Optimo Lenses",
+                "Arriflex Cameras"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 100746,
+                "rating": 7.8
+            },
+            "aged under 18": {
+                "votes": 119,
+                "rating": 8.3
+            },
+            "aged 18 29": {
+                "votes": 23360,
+                "rating": 7.9
+            },
+            "aged 30 44": {
+                "votes": 34882,
+                "rating": 7.6
+            },
+            "aged 45 plus": {
+                "votes": 14216,
+                "rating": 7.9
+            },
+            "males": {
+                "votes": 47336,
+                "rating": 7.6
+            },
+            "males aged under 18": {
+                "votes": 77,
+                "rating": 8.4
+            },
+            "males aged 18 29": {
+                "votes": 13782,
+                "rating": 7.9
+            },
+            "males aged 30 44": {
+                "votes": 20919,
+                "rating": 7.5
+            },
+            "males aged 45 plus": {
+                "votes": 8409,
+                "rating": 7.7
+            },
+            "females": {
+                "votes": 31185,
+                "rating": 8.0
+            },
+            "females aged under 18": {
+                "votes": 38,
+                "rating": 8.1
+            },
+            "females aged 18 29": {
+                "votes": 9317,
+                "rating": 8.0
+            },
+            "females aged 30 44": {
+                "votes": 13528,
+                "rating": 7.9
+            },
+            "females aged 45 plus": {
+                "votes": 5618,
+                "rating": 8.4
+            },
+            "top 1000 voters": {
+                "votes": 343,
+                "rating": 6.9
+            },
+            "us users": {
+                "votes": 17068,
+                "rating": 8.0
+            },
+            "non us users": {
+                "votes": 33370,
+                "rating": 7.5
+            }
+        },
+        "number of votes": {
+            "10": 31203,
+            "9": 18114,
+            "8": 23687,
+            "7": 13519,
+            "6": 6122,
+            "5": 3218,
+            "4": 1547,
+            "3": 1046,
+            "2": 701,
+            "1": 1589
+        },
+        "arithmetic mean": 8.2,
+        "median": 8
+    }
+}
