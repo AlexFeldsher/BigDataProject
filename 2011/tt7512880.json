@@ -1,0 +1,194 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "  2011"
+            },
+            {
+                "country": "UK\n",
+                "date": "6 January 2011"
+            }
+        ],
+        "release dates": [
+            "UK::2011",
+            "UK::6 January 2011"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Brain: A Secret History"
+            },
+            {
+                "countries": "Russia",
+                "title": "Мозг. Тайны сознания"
+            }
+        ],
+        "akas": [
+            "The Brain: A Secret History (original title)",
+            "Мозг. Тайны сознания Russia"
+        ],
+        "akas from release info": [
+            "The Brain: A Secret History (original title)",
+            "Мозг. Тайны сознания Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Mind Control",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brain: A Secret History (TV Mini-Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "6 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    Michael Mosley traces the sinister ways science has been used to try to control our minds.    "
+                },
+                "2": {
+                    "title": "Emotions",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brain: A Secret History (TV Mini-Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "13 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    Dr Michael Mosley investigates how scientists have struggled to understand human emotions.    "
+                },
+                "3": {
+                    "title": "Broken Brains",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brain: A Secret History (TV Mini-Series 2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "20 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    A look at how experiments on abnormal brains can reveal the workings of the normal brain.    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Mosley, Michael"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Black and White"
+        ],
+        "original air date": "2011 (UK)",
+        "number of seasons": 1,
+        "rating": 7.2,
+        "votes": 12,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNjE1ZTM1ZGUtYTlkNC00MGE3LTliNzctYjJjNzRiOTk0NmNlXkEyXkFqcGdeQXVyNjMxMDgyNzQ@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Brain: A Secret History",
+        "year": 2011,
+        "kind": "tv mini series",
+        "series years": "2011-2011",
+        "seasons": [
+            "1"
+        ],
+        "plot": [
+            "Michael Mosley embarks on three journeys to understand science's last great frontier - the human mind - as he traces the history of the attempts to understand and manipulate the brain."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "color": [
+                "Black and White",
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 12,
+                "rating": 7.2
+            },
+            "aged 18 29": {
+                "votes": 5,
+                "rating": 7.8
+            },
+            "aged 30 44": {
+                "votes": 5,
+                "rating": 8.2
+            },
+            "aged 45 plus": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "males": {
+                "votes": 9,
+                "rating": 8.1
+            },
+            "males aged 18 29": {
+                "votes": 3,
+                "rating": 8.3
+            },
+            "males aged 30 44": {
+                "votes": 5,
+                "rating": 8.2
+            },
+            "males aged 45 plus": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "females": {
+                "votes": 2,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 2,
+                "rating": 8.0
+            },
+            "us users": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "non us users": {
+                "votes": 7,
+                "rating": 7.3
+            }
+        },
+        "number of votes": {
+            "10": 2,
+            "9": 1,
+            "8": 4,
+            "7": 2,
+            "6": 1,
+            "5": 0,
+            "4": 1,
+            "3": 0,
+            "2": 0,
+            "1": 1
+        },
+        "arithmetic mean": 7.2,
+        "median": 8
+    }
+}

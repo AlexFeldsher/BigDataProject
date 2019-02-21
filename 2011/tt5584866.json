@@ -1,0 +1,91 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Russia\n",
+                "date": "13 March 2011"
+            },
+            {
+                "country": "Russia\n",
+                "date": "1 May 2011"
+            }
+        ],
+        "release dates": [
+            "Russia::13 March 2011",
+            "Russia::1 May 2011"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Para Normal News (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "1 May 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Komolov, Anton"
+            }
+        ],
+        "genres": [
+            "Mystery"
+        ],
+        "countries": [
+            "Russia"
+        ],
+        "country codes": [
+            "ru"
+        ],
+        "language codes": [
+            "ru"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "budget": "$400,000 (estimated)",
+        "languages": [
+            "Russian"
+        ],
+        "title": "Para Normal News",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-2012",
+        "akas": [
+            "Para Normal News (Russia)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Shumov, Pavel"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Studio8"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Amedia"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}
