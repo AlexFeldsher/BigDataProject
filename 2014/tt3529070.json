@@ -1,0 +1,44 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "February 2014"
+            }
+        ],
+        "release dates": [
+            "USA::February 2014"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Roswell Top Secret (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Roswell: Top Secret examines the background on this legendary event and presents newly uncovered information which fuels speculation on the veracity of the original reporting of the incident.    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTk4ODk0ODczNl5BMl5BanBnXkFtZTgwMzU0NDAxMzE@._V1_SY150_CR49,0,101,150_.jpg",
+        "title": "Roswell Top Secret",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-",
+        "seasons": [
+            "1"
+        ],
+        "plot": [
+            "Roswell: Top Secret examines the background on this legendary event and presents newly uncovered information which fuels speculation on the veracity of the original reporting of the incident."
+        ],
+        "tech": {}
+    }
+}

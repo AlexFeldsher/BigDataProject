@@ -1,0 +1,2258 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "8 January 2014"
+            },
+            {
+                "country": "USA\n",
+                "date": "8 January 2014"
+            },
+            {
+                "country": "UK\n",
+                "date": "16 July 2014"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "20 August 2014"
+            },
+            {
+                "country": "Portugal\n",
+                "date": "4 September 2014"
+            },
+            {
+                "country": "Italy\n",
+                "date": "8 October 2014"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "21 October 2014"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "26 November 2014"
+            },
+            {
+                "country": "France\n",
+                "date": "14 January 2015"
+            },
+            {
+                "country": "Finland\n",
+                "date": "28 March 2015"
+            }
+        ],
+        "release dates": [
+            "Canada::8 January 2014",
+            "USA::8 January 2014",
+            "UK::16 July 2014",
+            "Sweden::20 August 2014",
+            "Portugal::4 September 2014",
+            "Italy::8 October 2014",
+            "Hungary::21 October 2014",
+            "Netherlands::26 November 2014",
+            "France::14 January 2015",
+            "Finland::28 March 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Chicago P.D."
+            },
+            {
+                "countries": "Belgium (French title)",
+                "title": "Chicago Police"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Chicago P.D. Distrito 21"
+            },
+            {
+                "countries": "France (dubbed version)",
+                "title": "Chicago Police Department"
+            },
+            {
+                "countries": "Greece",
+                "title": "Αστυνομικό τμήμα Σικάγου"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Bűnös Chicago"
+            },
+            {
+                "countries": "Italy",
+                "title": "Chicago P.D."
+            },
+            {
+                "countries": "Lithuania",
+                "title": "Cikagos policija"
+            },
+            {
+                "countries": "Portugal",
+                "title": "A Lei de Chicago"
+            },
+            {
+                "countries": "Romania",
+                "title": "Chicago P.D."
+            },
+            {
+                "countries": "Russia",
+                "title": "Полиция Чикаго"
+            },
+            {
+                "countries": "Spain",
+                "title": "Chicago P.D."
+            },
+            {
+                "countries": "USA",
+                "title": "Chicago P.D."
+            }
+        ],
+        "akas": [
+            "Chicago P.D. (original title)",
+            "Chicago Police Belgium (French title)",
+            "Chicago P.D. Distrito 21 Brazil",
+            "Chicago Police Department France (dubbed version)",
+            "Αστυνομικό τμήμα Σικάγου Greece",
+            "Bűnös Chicago Hungary",
+            "Chicago P.D. Italy",
+            "Cikagos policija Lithuania",
+            "A Lei de Chicago Portugal",
+            "Chicago P.D. Romania",
+            "Полиция Чикаго Russia",
+            "Chicago P.D. Spain",
+            "Chicago P.D. USA"
+        ],
+        "akas from release info": [
+            "Chicago P.D. (original title)",
+            "Chicago Police Belgium (French title)",
+            "Chicago P.D. Distrito 21 Brazil",
+            "Chicago Police Department France (dubbed version)",
+            "Αστυνομικό τμήμα Σικάγου Greece",
+            "Bűnös Chicago Hungary",
+            "Chicago P.D. Italy",
+            "Cikagos policija Lithuania",
+            "A Lei de Chicago Portugal",
+            "Chicago P.D. Romania",
+            "Полиция Чикаго Russia",
+            "Chicago P.D. Spain",
+            "Chicago P.D. USA"
+        ],
+        "episodes": {
+            "6": {
+                "1": {
+                    "title": "New Normal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 1,
+                    "votes": 173,
+                    "original air date": "26 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    With Voight suspended, Antonio takes charge of Intelligence to deal with overdoses of bad heroin, but Ruzek undermines his authority.    "
+                },
+                "2": {
+                    "title": "Endings",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 2,
+                    "votes": 159,
+                    "original air date": "3 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Intelligence hunts down the man responsible for the high-rise fire and the case gets personal for Halstead.    "
+                },
+                "3": {
+                    "title": "Bad Boys",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 3,
+                    "votes": 138,
+                    "original air date": "10 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    The team tries to rescue a teenage girl kidnapped by robbers; Voight and Platt attempt to clear Olinsky.    "
+                },
+                "4": {
+                    "title": "Ride Along",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 4,
+                    "votes": 142,
+                    "original air date": "17 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Burgess must choose between listening to Voight or potential new ally when a ride along goes sideways.    "
+                },
+                "5": {
+                    "title": "Fathers and Sons",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 5,
+                    "votes": 143,
+                    "original air date": "24 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    While undercover, Ruzek discovers his father is working for a suspected drug dealer and is forced to question if his dad is involved.    "
+                },
+                "6": {
+                    "title": "True or False",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 6,
+                    "votes": 142,
+                    "original air date": "31 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    When an alderman's wife is beaten to death, Brennan pressures Voight to close the case; Upton shares a dark time from her past to get a confession.    "
+                },
+                "7": {
+                    "title": "Trigger",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 7,
+                    "votes": 139,
+                    "original air date": "7 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Voight tells Halstead to remain impartial when the leader of a local mosque becomes a suspect in the bombing of an Army recruitment center.    "
+                },
+                "8": {
+                    "title": "Black and Blue",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 8,
+                    "votes": 133,
+                    "original air date": "14 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    While CPD tries to take down a drug kingpin, Atwater faces a tough choice.    "
+                },
+                "9": {
+                    "title": "Descent",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 9,
+                    "votes": 149,
+                    "original air date": "5 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    Antonio crosses a line that puts the entire team at risk.    "
+                },
+                "10": {
+                    "title": "Brotherhood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 10,
+                    "votes": 110,
+                    "original air date": "9 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    Voight and Ruzek lock horns over how to handle the aftermath of the Antonio situation. Meanwhile, a series of violent carjackings turns deadly, and Ruzek must rely on a C.I. he grew up with to help solve the case.    "
+                },
+                "11": {
+                    "title": "Trust",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 11,
+                    "votes": 117,
+                    "original air date": "16 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    An investigation into the death of a well known district attorney puts the Intelligence Division at odds with a mayoral candidate. Antonio returns to work but doesn't trust his own judgment when an operation goes sideways.    "
+                },
+                "12": {
+                    "title": "Outrage",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 12,
+                    "votes": 97,
+                    "original air date": "23 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    While chasing a heroin supplier, CPD crosses paths with a convicted criminal recently released on a technicality. Halstead's history with the man threatens the team's ability to put him back in prison.    "
+                },
+                "13": {
+                    "title": "Night in Chicago",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 13,
+                    "votes": 107,
+                    "original air date": "6 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    Atwater goes undercover to bring down the longtime head of a criminal enterprise and becomes entangled in a situation that tests his allegiances as well as his conscience.    "
+                },
+                "14": {
+                    "title": "Ties That Bind",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 14,
+                    "votes": 68,
+                    "original air date": "13 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    Upton and Burgess find themselves in a difficult situation when Intelligence tracks a cache of cop killer machine guns to a local gun show in Wisconsin.    "
+                },
+                "15": {
+                    "title": "Good Men",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 15,
+                    "original air date": "20 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    Using information from Cruz, Intelligence chases down the robbery crew that's been using the lockbox key. Voight is under pressure to bring the crew to justice without tarnishing the reputation of a murdered firefighter.    "
+                },
+                "16": {
+                    "title": "The Forgotten",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 16,
+                    "original air date": "27 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    Voight and the Intelligence Unit focus all their effort and resources into investigating the disappearance of an exotic dancer who served as a long-time criminal informant for their team.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Stepping Stone",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 509,
+                    "original air date": "8 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    In the series premiere, after a slew of brutal slayings, District 21 led by Sergeant Hank Voight go after a Colombian drug cartel cleaning house in Chicago. They discover D'Anthony who proves to be an asset in the investigation. At District, complicated histories and unit rivalries surface which could end up costing them one of their own. Meanwhile, Rookie Adam Ruzek is pulled from the police academy by Olinsky to join the team.    "
+                },
+                "2": {
+                    "title": "Wrong Side of the Bars",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 420,
+                    "original air date": "15 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Antonio's son was kidnapped and he has a feeling the Columbian drug gang is to blame. Pulpo, the Columbian gang leader, is being held in jail and suggests his release may trigger the release of Diego. During the investigation, Halstead learns some new information about Lindsay. Voight offers Antonio a new approach to get information on Diego's whereabouts.    "
+                },
+                "3": {
+                    "title": "Chin Check",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 375,
+                    "original air date": "22 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Voight and team head to a house that's been associated with a number of top gangs. Events at the search result in Ruzek, being encouraged to seek some counseling which may have lasting repercussions professionally and personally. Meanwhile Halstead's temper rises when he comes in contact with some unwelcome people from his past.    "
+                },
+                "4": {
+                    "title": "Now Is Always Temporary",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 357,
+                    "original air date": "29 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    More is learned about Halstead's dislike of the Rodiger family and it's family relationships all around as Olinsky shows a paternal side with his daughter Lexi in an attempt to protect her and as Voight's trying to help his son who has recently been released from jail. Meanwhile the Intelligence Unit investigates a counterfeiting operation after discovering some high end cloth-like paper. Sergeant Platt sends Atwater and Burgess to arrest a hoarder where they discover more than just clutter.    "
+                },
+                "5": {
+                    "title": "Thirty Balloons",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 333,
+                    "original air date": "5 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Atwater and Burgess are given a new patrol car, but are challenged with keeping it brand new. A run in with a psychotic woman leads the Intelligence Unit to discover a drug smuggling operation which has put several girl's lives in peril. Voight's overprotective act with Lindsay leads her right where he doesn't want as she also helps to keep Justin out of trouble. Meanwhile on stakeout, things get tense between Olinsky and Ruzek as Olinski tries to teach him the finer points of surveillance.    "
+                },
+                "6": {
+                    "title": "Conventions",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 359,
+                    "original air date": "26 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Voight and Antonio enlist the help of agents at the Special Victims Unit in New York, Fin and Rollins, to help track down the culprit of a series of rape/murders. Burgess has an opportunity to prove herself to Intelligence. Elsewhere Lindsay enlists the help of Halstead to act as her date for her high school reunion to get back at an old rival.    "
+                },
+                "7": {
+                    "title": "The Price We Pay",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 324,
+                    "original air date": "5 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Fitori murder case is brought to the intelligence unit and Voight's son, Justin, may be involved. Gradishar fills Antonio in on the arrangement between Internal Affairs and Voight which increases friction between Voight and Antonio. Back at the precinct Ruzek helps Burgess get back at desk sergeant Platt.    "
+                },
+                "8": {
+                    "title": "Different Mistakes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 315,
+                    "original air date": "12 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Voight's new internal affairs officer is skeptical of his actions. Voight must now work with his ex-partner from the gang unit.    "
+                },
+                "9": {
+                    "title": "A Material Witness",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 313,
+                    "original air date": "19 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    In responding to a call Atwater and Burgess discover a gunshot victim and the only witness is Lexi Olinsky. The shooting is tied to a Latin gang. To protect Olinsky's daughter, Voight takes the case from the Gang Unit. Ruzek pulls up Burgess to help with an undercover mission that he hopes will help solve the case.    "
+                },
+                "10": {
+                    "title": "At Least It's Justice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 316,
+                    "original air date": "2 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Voight pulls Halstead's badge when Lonnie Rodiger is found dead. After a car accident, Kelly Severide and Peter Mills discover the torso of Dr. Elliot, who has been instrumental in putting away high profile criminals. With Intelligence down one, Sumner is given an opportunity to prove herself. Meanwhile, Lindsay and Severide share a moment.    "
+                },
+                "11": {
+                    "title": "Turn the Light Off",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 311,
+                    "original air date": "9 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Voight and the team discover a massacre, eight million in cash stolen and two wounded men in a clearing house. During questioning, one guy, Perko, provides some intel that is key to the case and leads Antonio to realize that two gangs were involved. Burgess steps up to help the unit and prove herself to Voight. Meanwhile, a softer light is cast on Platt when she enlists the help of Ruzek.    "
+                },
+                "12": {
+                    "title": "8:30 PM",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 362,
+                    "original air date": "30 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Intelligence Unit race against the clock to find the bombers.    "
+                },
+                "13": {
+                    "title": "My Way",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 316,
+                    "original air date": "7 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Commander Perry notifies the Intelligence unit that Pulpo has been released to help track down a dangerous cartel leader. This doesn't sit well with our team as he kidnapped one of their own and no love is lost between sides. Meanwhile, Ruzek gets some difficult news as a blast from Lindsay's past comes back, giving us a glimpse at where she came from. Voight reminds her that she's come too far to screw it up. At the same time we learn something about Jin that is bound to be a problem.    "
+                },
+                "14": {
+                    "title": "The Docks",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 294,
+                    "original air date": "14 May 2014",
+                    "year": "2014",
+                    "plot": "\n    As Antonio's life is now in question, Voight and Platt open up about their pasts. Jin is caught while tinkering with Voight's computer and uses the only scapegoat possible to keep him in the clear. At the same time with Charlie back in town Lindsay realizes she's going to have to come clean about a few things. Halstead finally gets answers he's been wanting about Voight's and Olinsky's past.    "
+                },
+                "15": {
+                    "title": "A Beautiful Friendship",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 321,
+                    "original air date": "21 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Atwater is settling into his new gig on intelligence as Antonio is relegated to desk duty while recovering. Lindsay finally realizes she has no way out and confides in Voight for help. Meanwhile Jin is confronted about his secret meetings with Stillwell. It all comes to a head in the season finale.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Call It Macaroni",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 335,
+                    "original air date": "24 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    Sergeant Voight tries to find out who is behind the murder of Jin, and come up with the unbelievable discovery and learned that Sergeant Edwin Stillwell playing a double game with the intention of getting out on the surface of the big fish along with Voight.    "
+                },
+                "2": {
+                    "title": "Get My Cigarettes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 310,
+                    "original air date": "1 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Intelligence begins to look into a string of murders where the victims have a dollar bill pinned to their chests. Thanks to some digging by Ruzek, Voight learns his friend was involved in some shady business dealings. Antonio and Halstead follow-up on some leads that help focus in on the culprit and motives for the murders.    "
+                },
+                "3": {
+                    "title": "The Weigh Station",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 324,
+                    "original air date": "8 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    The bounty on Halstead's head becomes a serious reality as an innocent bartender takes a bullet meant for him. Olinsky tries to reason with Bembenek to call off the hit, to no avail. Voight and the team keep this investigation in-house to find the hired assassin. Meanwhile, after a tense interaction at district Platt and Nadia come to an understanding.    "
+                },
+                "4": {
+                    "title": "Chicken, Dynamite, Chainsaw",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 302,
+                    "original air date": "15 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Two teenage girls have gone missing and the team know the clock is ticking to find them. Halstead, Antonio and Lindsay investigate a tenement which gives them a much needed lead. Voight brings the father of one of the girls to district in order to get some honest answers. Meanwhile, Platt puts Roman and Burgess on gun buy-back duty where they ask questions when they aren't supposed to.    "
+                },
+                "5": {
+                    "title": "An Honest Woman",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 314,
+                    "original air date": "22 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Voight is attacked and abducted while trying to help his son's girlfriend.    "
+                },
+                "6": {
+                    "title": "Prison Ball",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 319,
+                    "original air date": "5 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    The murder of a 10 year old witness sends Atwater and Ruzek undercover as inmates in a federal prison.    "
+                },
+                "7": {
+                    "title": "They'll Have to Go Through Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 378,
+                    "original air date": "12 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Chicago Intelligence Unit continues working with Special Victims Unit to take down a child pornography ring.    "
+                },
+                "8": {
+                    "title": "Assignment of the Year",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 314,
+                    "original air date": "19 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Antonio gets caught off guard in fellow police officer Romine's security company; and word from above is he will lose his job if the case isn't solved in 2 days. The unit comes together to try to solve the case and save their brother-Fellow cop Antonio.    "
+                },
+                "9": {
+                    "title": "Called in Dead",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 332,
+                    "original air date": "10 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    A huge drug bust puts Olinsky's family in danger. Meanwhile, the team digs up a common thread with the drug suspects, and Burgess and Roman are paired with a K-9 officer, who is Roman's former girlfriend.    "
+                },
+                "10": {
+                    "title": "Shouldn't Have Been Alone",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 323,
+                    "original air date": "7 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    With Burgess (Marina Squerciati) in the hospital after suffering gunshot wounds, the intelligence team is determined to find the people responsible. Lindsay (Sophia Bush) delays her start so she can help with this case. Search of the house provides a lead and when a bomb is triggered a key suspect is found. Meanwhile the team takes turns watching over Burgess. Voight (Jason Beghe) informs Burgess of a new opportunity that this affords her.    "
+                },
+                "11": {
+                    "title": "We Don't Work Together Anymore",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 317,
+                    "original air date": "14 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Lindsay calls on Voight and his unit for help with her first case on the federal task force; Burgess is relegated to desk duty.    "
+                },
+                "12": {
+                    "title": "Disco Bob",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 298,
+                    "original air date": "21 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Complicated clues surround the murder of a mother and her daughter. While, Lindsay prepares for an undercover investigation in Bolivia, and it dawns on Burgess and Roman that they need to put the past behind them.    "
+                },
+                "13": {
+                    "title": "A Little Devil Complex",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 337,
+                    "original air date": "4 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Antonio and his sister talk to Adrian Gish about the person they think is responsible for the fire that killed Shay; Lindsay has second thoughts about the task force; Platt's new, sunny demeanor results in curiosity.    "
+                },
+                "14": {
+                    "title": "Erin's Mom",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "votes": 289,
+                    "original air date": "11 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Bunny comes to Lindsay concerned about a suspicious repeat customer at her husband's rental company. This lead brings Intelligence into a case which robbery-homicide has been working for months. Detective Gina Gawronski downloads their intel to the team, she also happens to be Antonio's former co-worker from Vice. Voight doesn't trust Bunny's motives for the tip.    "
+                },
+                "15": {
+                    "title": "What Do You Do",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "votes": 386,
+                    "original air date": "18 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    After they are kidnapped while tackling a dangerous smuggling operation, Roman and Burgess pursue a man without calling for backup. Intelligence are spending the day receiving taser certification.    "
+                },
+                "16": {
+                    "title": "What Puts You on That Ledge",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 16,
+                    "votes": 291,
+                    "original air date": "25 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Antonio heads undercover with a dangerous robbery crew after a narcotics officer goes missing. Commander Fischer updates Voight on a missing officer that Narcotics had deep undercover with a robbery crew. Antonio connected with one of the crew members years ago, so he's asked to reestablish contact to help them find the officer. Meanwhile, Roman and Burgess are dealing with a squatter situation and they enlist Chicago Fire's Mouch to help.    "
+                },
+                "17": {
+                    "title": "Say Her Real Name",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 17,
+                    "votes": 282,
+                    "original air date": "25 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    The death of a protester at a world trade event seems to point to an Argentine official. Halstead's brother arrives in town and is soon stirring up trouble.    "
+                },
+                "18": {
+                    "title": "Get Back to Even",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 18,
+                    "votes": 284,
+                    "original air date": "1 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    The investigation into a drug robbery gone wrong uncovers Voight's link to a missing teen; the real reason for Halstead's brother's visit becomes clear; and Platt cares for a young girl at district.    "
+                },
+                "19": {
+                    "title": "The Three Gs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 19,
+                    "votes": 277,
+                    "original air date": "8 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    A case involving one of Chicago's most wanted fugitives hits close to home with Olinsky; an altercation with another officer lands Sean Roman in hot water; Platt helps Nadia prepare for her polygraph test.    "
+                },
+                "20": {
+                    "title": "The Number of Rats",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 20,
+                    "votes": 366,
+                    "original air date": "29 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Benson is in Chicago helping Intelligence with a rape/murder case similar to a case in New York from a decade ago, so she calls in Fin and Amaro for assistance.    "
+                },
+                "21": {
+                    "title": "There's My Girl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 21,
+                    "votes": 254,
+                    "original air date": "6 May 2015",
+                    "year": "2015",
+                    "plot": "\n    As District 21 is struggling to come to terms with the loss of one of the team they are forced to put their personal feelings aside when a café is bombed. The unit has several suspects and only one good eye-witness, who happens to be a minor. Halstead pulls some strings to convince the mom to let him question Isabella on what she saw. Atwater finds himself in hot water when he makes a crucial mistake. Thanks to the tech savvy Mouse the team is able to gain important intel that could help solve the case. Meanwhile Voight helps Platt when she comes up against several ...    "
+                },
+                "22": {
+                    "title": "Push the Pain Away",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 22,
+                    "votes": 266,
+                    "original air date": "13 May 2015",
+                    "year": "2015",
+                    "plot": "\n    When multiple people are shot inside an athletic club intelligence work to find and take down the shooters before there are any more victims. When they discover that all the targets were from the same law firm its apparent that it is a case of corporate revenge. Now they need to find out what the motive for these killings. Atwater is dealing with his new assignment, while doing so he plays a key role in locating the shooters. Meanwhile Platt and Halstead are trying to approach Lindsay to see how she is coping with a recent death.    "
+                },
+                "23": {
+                    "title": "Born Into Bad News",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 23,
+                    "votes": 273,
+                    "original air date": "20 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Voight comes up against a younger, more violent version of himself while trying to extract Commander Perry's nephew from a unit of corrupt officers.    "
+                }
+            },
+            "3": {
+                "1": {
+                    "title": "Life Is Fluid",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 326,
+                    "original air date": "30 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    Intelligence pursues a heroin kingpin who has a member of the team kidnapped.    "
+                },
+                "2": {
+                    "title": "Natural Born Storyteller",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 274,
+                    "original air date": "7 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Burgess and Roman find the body of an eight-year-old boy while pursuing a gang-banger.    "
+                },
+                "3": {
+                    "title": "Actual Physical Violence",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 316,
+                    "original air date": "14 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    A disgruntled father takes a member of Intelligence hostage in order to force the police to track down his missing daughter.    "
+                },
+                "4": {
+                    "title": "Debts of the Past",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 266,
+                    "original air date": "21 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Voight and Olinsky hunt down a criminal they once put away.    "
+                },
+                "5": {
+                    "title": "Climbing Into Bed",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 293,
+                    "original air date": "28 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    When an undercover job goes south, Ruzek is investigated by a street deputy who will determine his future with the unit.    "
+                },
+                "6": {
+                    "title": "You Never Know Who's Who",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 115,
+                    "original air date": "28 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    \"You Never Know Who's Who\" The discovery of a body leads to a cache of weapons, which then leads Intelligence on a strange investigation into a team of \"operatives\" that are targeting criminals within the city. Roman treats a sick young boy to a day at the 21st district.    "
+                },
+                "7": {
+                    "title": "A Dead Kid, a Notebook, and a Lot of Maybes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 271,
+                    "original air date": "4 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Intelligence tries to find a missing teenage boy they believe could be a threat to the students at his wealthy school when they find disturbing drawings in his notebook.    "
+                },
+                "8": {
+                    "title": "Forget My Name",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 252,
+                    "original air date": "11 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    The team discovers the mutilated body of a government official and learn that he had access to very important devices.    "
+                },
+                "9": {
+                    "title": "Never Forget I Love You",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 267,
+                    "original air date": "18 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    When a woman's decapitated body found in Lake Michigan is connected to Voight's social group, Lindsay worries that his relationship with the group could affect his ability to see the case objectively.    "
+                },
+                "10": {
+                    "title": "Now I'm God",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 294,
+                    "original air date": "6 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    A doctor from Voight's past is under investigation when four of his patients are sent to Chicago Med for an overdose of chemotherapy.    "
+                },
+                "11": {
+                    "title": "Knocked the Family Right Out",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 11,
+                    "votes": 267,
+                    "original air date": "13 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    The team investigates the robbery of a luxury condo and Voight suspects that the family was knocked out by a powerful gas.    "
+                },
+                "12": {
+                    "title": "Looking Out for Stateville",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 12,
+                    "votes": 248,
+                    "original air date": "20 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Voight enlists his former cell mate to help take down a major cocaine supplier, while Burgess makes a move regarding her relationship with Ruzek and Roman comes up with a plan to fund Platt and Mouch's wedding.    "
+                },
+                "13": {
+                    "title": "Hit Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 13,
+                    "votes": 250,
+                    "original air date": "3 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Lindsay goes undercover to find a rogue police officer who targets women at a local casino.    "
+                },
+                "14": {
+                    "title": "The Song of Gregory Williams Yates",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 14,
+                    "votes": 311,
+                    "original air date": "10 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    SVU detectives Olivia Benson and Odafin Tutuola come to Chicago to help find escaped killer Greg Yates.    "
+                },
+                "15": {
+                    "title": "A Night Owl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 15,
+                    "votes": 254,
+                    "original air date": "17 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    A college professor is caught smuggling heroin to Canada.    "
+                },
+                "16": {
+                    "title": "The Cases That Need to Be Solved",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 16,
+                    "votes": 261,
+                    "original air date": "24 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    The police investigate a boy's execution-style murder, which may be connected to another shooting. The incident also leads officers and members of the community to gather for a candlelight vigil.    "
+                },
+                "17": {
+                    "title": "Forty-Caliber Bread Crumb",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 17,
+                    "votes": 257,
+                    "original air date": "2 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Halstead and his co-workers get caught up in a violent shootout with bank robbers while on his off-duty job at the dispensary.    "
+                },
+                "18": {
+                    "title": "Kasual with a K",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 18,
+                    "votes": 235,
+                    "original air date": "23 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    The team investigates a kidnapping at a secret shelter for battered women.    "
+                },
+                "19": {
+                    "title": "If We Were Normal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 19,
+                    "votes": 234,
+                    "original air date": "30 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    The team looks for a suspect who held a woman for months, physically abusing her and psychologically attempting to manipulate her into forgetting her identity.    "
+                },
+                "20": {
+                    "title": "In a Duffel Bag",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 20,
+                    "votes": 232,
+                    "original air date": "4 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Intelligence searches for the culprit who left a newborn baby in a duffel bag.    "
+                },
+                "21": {
+                    "title": "Justice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 21,
+                    "votes": 328,
+                    "original air date": "11 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Burgess goes to court for shooting a 17-year-old honor student she suspects shot Roman.    "
+                },
+                "22": {
+                    "title": "She's Got Us",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 22,
+                    "votes": 229,
+                    "original air date": "18 May 2016",
+                    "year": "2016",
+                    "plot": "\n    The team investigates a pyramid scheme operation that may be linked to a brutal murder at a family residence.    "
+                },
+                "23": {
+                    "title": "Start Digging",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 23,
+                    "votes": 347,
+                    "original air date": "25 May 2016",
+                    "year": "2016",
+                    "plot": "\n    A murder investigation becomes personal for Voight when his son Justin is attacked in the same manner as a widowed, single mother whose body is found in the trunk of her car.    "
+                }
+            },
+            "4": {
+                "1": {
+                    "title": "The Silos",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "votes": 306,
+                    "original air date": "21 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Intelligence investigates a murder-arson case as Voight and Lindsay continue to deal with the aftermath of Justin's death.    "
+                },
+                "2": {
+                    "title": "Made a Wrong Turn",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "votes": 256,
+                    "original air date": "28 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Intelligence searches for the fiance of a man found badly beaten in the most dangerous neighborhood of District 21.    "
+                },
+                "3": {
+                    "title": "All Cylinders Firing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "votes": 257,
+                    "original air date": "5 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    Platt and her father are brutally assaulted.    "
+                },
+                "4": {
+                    "title": "Big Friends, Big Enemies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 4,
+                    "votes": 232,
+                    "original air date": "12 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    Intelligence investigates a shooting outside a concert that leads to a tangled web of gang-related violence.    "
+                },
+                "5": {
+                    "title": "A War Zone",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 5,
+                    "votes": 235,
+                    "original air date": "26 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    Intelligence tracks down the people who have been dealing a drug that's been linked to several overdoses throughout Chicago.    "
+                },
+                "6": {
+                    "title": "Some Friend",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 6,
+                    "votes": 234,
+                    "original air date": "9 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    A teenage girl is found dead in the home of a baseball player who's a friend of Olinsky's.    "
+                },
+                "7": {
+                    "title": "300,000 Likes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 7,
+                    "votes": 250,
+                    "original air date": "16 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    The only witness in the case against a suspected serial rapist is found murdered.    "
+                },
+                "8": {
+                    "title": "A Shot Heard Round the World",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 8,
+                    "votes": 277,
+                    "original air date": "16 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    A highly trained killer declares war on the Chicago police department.    "
+                },
+                "9": {
+                    "title": "Don't Bury This Case",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 9,
+                    "votes": 244,
+                    "original air date": "3 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Kelly Severide of Firehouse 51 is brought to the District for questioning when his car is found to have caused a deadly crash, so the team tracks down a group of carjackers that may prove Severide's innocence.    "
+                },
+                "10": {
+                    "title": "Don't Read the News",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 10,
+                    "votes": 237,
+                    "original air date": "4 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    When the body of a young woman is found, the Chicago police realize there's a serial killer at large after comparing her case with others.    "
+                },
+                "11": {
+                    "title": "You Wish",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 11,
+                    "votes": 231,
+                    "original air date": "11 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    When a mutilated sex offender is found dead, it is unclear if he was the victim of a hate crime, sexual assault or self-mutilation. As Intelligence questions those related to the case, they find themselves up against a private \"special police\" force who may be covering up illegal activities. Meanwhile, Halstead runs Jimmy's DNA to confirm that he is actually Lindsay's father.    "
+                },
+                "12": {
+                    "title": "Sanctuary",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 12,
+                    "votes": 236,
+                    "original air date": "18 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    The investigation of a jogger's murder in the park is blocked by a church offering sanctuary to the prime suspects.    "
+                },
+                "13": {
+                    "title": "I Remember Her Now",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 13,
+                    "votes": 271,
+                    "original air date": "8 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    The body of a 15-year-old girl is found crushed in an abandoned building after she runs away from a treatment center for troubled girls. Voight sends Halstead undercover as a guard to work from the inside at the center, where he believes the girls are trading sexual favors for something in return.    "
+                },
+                "14": {
+                    "title": "Seven Indictments",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 14,
+                    "votes": 224,
+                    "original air date": "15 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    When a burnt body is found in a torched house along with an injured boy, Intelligence works to find the cause.    "
+                },
+                "15": {
+                    "title": "Favor, Affection, Malice or Ill-Will",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 15,
+                    "votes": 229,
+                    "original air date": "22 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Intelligence re-opens a case when a grieving father seeks to avenge his daughter's murder.    "
+                },
+                "16": {
+                    "title": "Emotional Proximity",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 16,
+                    "votes": 282,
+                    "original air date": "1 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Intelligence works to find the arsonist behind a warehouse fire that left Olinsky's daughter fighting for her life.    "
+                },
+                "17": {
+                    "title": "Remember the Devil",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 17,
+                    "votes": 217,
+                    "original air date": "22 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    A hiker leads intelligence to a woman being held hostage in the woods outside Chicago.    "
+                },
+                "18": {
+                    "title": "Little Bit of Light",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 18,
+                    "votes": 219,
+                    "original air date": "29 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Intelligence investigates one of Chicago's wealthiest families when \"Night Crawler\" Bobby Trent is murdered.    "
+                },
+                "19": {
+                    "title": "Last Minute Resistance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 19,
+                    "votes": 244,
+                    "original air date": "5 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Burgess's sister becomes a sexual assault victim after she's encouraged to spend a night out with friends.    "
+                },
+                "20": {
+                    "title": "Grasping for Salvation",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 20,
+                    "votes": 218,
+                    "original air date": "26 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Voight uncovers a connection between the murder of a teenage boy and a 17-year-old case.    "
+                },
+                "21": {
+                    "title": "Fagin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 21,
+                    "votes": 237,
+                    "original air date": "3 May 2017",
+                    "year": "2017",
+                    "plot": "\n    Intelligence uncovers a surprising crew of suspects in a series of bank robberies.    "
+                },
+                "22": {
+                    "title": "Army of One",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 22,
+                    "votes": 212,
+                    "original air date": "10 May 2017",
+                    "year": "2017",
+                    "plot": "\n    Intelligence tracks down a group of vigilantes torturing and killing pedophiles.    "
+                },
+                "23": {
+                    "title": "Fork in the Road",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 23,
+                    "votes": 228,
+                    "original air date": "17 May 2017",
+                    "year": "2017",
+                    "plot": "\n    Lindsay deals with the consequences of her actions when her mother is suspected of murder.    "
+                }
+            },
+            "5": {
+                "1": {
+                    "title": "Reform",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 1,
+                    "votes": 266,
+                    "original air date": "27 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Intelligence attempts to bust a gun deal that results in innocent bystanders getting shot.    "
+                },
+                "2": {
+                    "title": "The Thing About Heroes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 2,
+                    "votes": 234,
+                    "original air date": "4 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Anonymous A Muslim patrol officer is suspected of causing a van to explode during a Chicago street festival when he goes missing and evidence points to his being involved.    "
+                },
+                "3": {
+                    "title": "Promise",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 3,
+                    "votes": 223,
+                    "original air date": "11 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    A young Latina woman is brutally murdered and it's suspected she have been working as a drug mule until a different motive for her death is discovered.    "
+                },
+                "4": {
+                    "title": "Snitch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 4,
+                    "votes": 220,
+                    "original air date": "18 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    While investigating a drug-related homicide, Intelligence is stonewalled by the 'no-snitch' culture of the neighborhood. And Atwater discovers a personal connection to the case. Meanwhile, the police's own code of silence is put to the test when Upton is asked about Ruzek's rough altercation with a suspect.    "
+                },
+                "5": {
+                    "title": "Home",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 5,
+                    "votes": 212,
+                    "original air date": "25 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    When Intelligence busts a meth lab run by gang leader Marshall Carter, they uncover a re-homing scam in which children adopted from foreign countries are abandoned, then sold online. Meanwhile, Atwater struggles with the difficult decision about whether to move his siblings Jordan and Vinessa to a safer environment outside of Chicago.    "
+                },
+                "6": {
+                    "title": "Fallen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 6,
+                    "votes": 215,
+                    "original air date": "8 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    A picture perfect family is shot dead in their home and the team goes in search of a drug dealer with a likely connection. Voight asks for the help of Vice Sergeant Sean McGrady who has an old beef with Upton. When McGrady turns up dead during the investigation, the case takes an unlikely turn.    "
+                },
+                "7": {
+                    "title": "Care Under Fire",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 7,
+                    "votes": 217,
+                    "original air date": "15 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    In the wake of several gang-related child abductions, Intelligence must race against time to find a kidnapped boy. Owing to their swiftness and military precision, the team scours the VA records and tracks the suspects to a former Army Ranger. With his previous experience as a Ranger, Halstead convinces Voight to send him undercover to try and get information from inside.    "
+                },
+                "8": {
+                    "title": "Politics",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 8,
+                    "votes": 207,
+                    "original air date": "29 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    A Congressman who's friends with Voight is found with a dead Ukrainian girl.    "
+                },
+                "9": {
+                    "title": "Monster",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 9,
+                    "votes": 216,
+                    "original air date": "6 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    The death of Judge Tommy Wells' daughter puts Intelligence on the track of a pill mill spreading into the suburbs of Chicago and the doctor enabling it. Meanwhile, Voight discovers who's been leaking information from the 21st.    "
+                },
+                "10": {
+                    "title": "Rabbit Hole",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 10,
+                    "votes": 224,
+                    "original air date": "3 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Halstead's partying with Camila unintentionally puts him in the middle of a drug-related homicide. He's forced to choose between loyalty to his unit and his girl. Meanwhile, Voight finally discovers the mole in his unit.    "
+                },
+                "11": {
+                    "title": "Confidential",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 11,
+                    "votes": 206,
+                    "original air date": "10 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    While trying to find the pimp, Intelligence stumbles on the women's shelter where he's scouting out girls. And Burgess moves the case forward with a series of confidential tips, but risks putting her informant in harm's way.    "
+                },
+                "12": {
+                    "title": "Captive",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 12,
+                    "votes": 219,
+                    "original air date": "17 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Atwater disappears at the house of a convicted felon and Intelligence tries to rescue him.    "
+                },
+                "13": {
+                    "title": "Chasing Monsters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 13,
+                    "votes": 198,
+                    "original air date": "31 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Intelligence works with a visiting detective to take down a gang from El Salvador that has infiltrated Chicago.    "
+                },
+                "14": {
+                    "title": "Anthem",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 14,
+                    "votes": 199,
+                    "original air date": "7 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Intelligence investigates the murder of a basketball player following an anti-police rally and the case gets complicated when Woods' daughter gets involved.    "
+                },
+                "15": {
+                    "title": "Sisterhood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 15,
+                    "votes": 194,
+                    "original air date": "28 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Intelligence tracks down a vigilante killing rapists and Burgess questions whether the men who attacked her sister have really been punished.    "
+                },
+                "16": {
+                    "title": "Profiles",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 16,
+                    "votes": 201,
+                    "original air date": "7 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Intelligence enlists Firehouse 51 to help prevent the latest in a series of bombings targeting the media.    "
+                },
+                "17": {
+                    "title": "Breaking Point",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 17,
+                    "votes": 176,
+                    "original air date": "14 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    A prominent Alderman known for his urban revitalization efforts is murdered; Olinsky receives an ultimatum from Woods.    "
+                },
+                "18": {
+                    "title": "Ghosts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 18,
+                    "votes": 192,
+                    "original air date": "21 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Upton resumes an undercover identity to take down a meth ring run by a former criminal contact; Voight calls in a favor for Olinsky when pressure from Woods mounts.    "
+                },
+                "19": {
+                    "title": "Payback",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 19,
+                    "votes": 168,
+                    "original air date": "11 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    A string of stash house robberies lead back to an unlikely individual; Voight confronts a key witness in the Bingham investigation.    "
+                },
+                "20": {
+                    "title": "Saved",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 20,
+                    "votes": 177,
+                    "original air date": "18 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    When Voight witnesses the kidnapping of a woman who's somehow connected to his past, Intelligence searches for a connection between the kidnapping and bank robberies.    "
+                },
+                "21": {
+                    "title": "Allegiance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 21,
+                    "votes": 201,
+                    "original air date": "2 May 2018",
+                    "year": "2018",
+                    "plot": "\n    Halstead and Atwater go undercover to prevent military-grade weapons from hitting the street. Meanwhile, Voight calls in a favor as a last-ditch effort to clear Olinsky's name for Bingham's murder.    "
+                },
+                "22": {
+                    "title": "Homecoming",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Chicago P.D. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 22,
+                    "votes": 295,
+                    "original air date": "9 May 2018",
+                    "year": "2018",
+                    "plot": "\n    Intelligence seeks justice for Olinsky when he's stabbed in prison; Antonio's loyalty is tested; Woods looks to take down Voight once and for all.    "
+                }
+            }
+        },
+        "number of episodes": 122,
+        "cast": [
+            {
+                "name": "Beghe, Jason"
+            },
+            {
+                "name": "Soffer, Jesse Lee"
+            },
+            {
+                "name": "Flueger, Patrick John"
+            },
+            {
+                "name": "Squerciati, Marina"
+            },
+            {
+                "name": "Hawkins, LaRoyce"
+            },
+            {
+                "name": "Morton, Amy"
+            },
+            {
+                "name": "Seda, Jon"
+            },
+            {
+                "name": "Koteas, Elias"
+            },
+            {
+                "name": "Bush, Sophia"
+            },
+            {
+                "name": "Geraghty, Brian"
+            },
+            {
+                "name": "Spiridakos, Tracy"
+            },
+            {
+                "name": "Hunt, Samuel"
+            },
+            {
+                "name": "Agos, Chris"
+            },
+            {
+                "name": "Maeve, Stella"
+            },
+            {
+                "name": "Post, Markie"
+            },
+            {
+                "name": "Harris, Barbara Eve"
+            },
+            {
+                "name": "Kao, Archie"
+            },
+            {
+                "name": "Gehlfuss, Nick"
+            },
+            {
+                "name": "O'Connor, Kevin J."
+            },
+            {
+                "name": "Williamson, Mykelti"
+            },
+            {
+                "name": "Cooper, Celeste M"
+            },
+            {
+                "name": "Hilton, Alicia"
+            },
+            {
+                "name": "Eigenberg, David"
+            },
+            {
+                "name": "Scambiatterra, Kathy"
+            },
+            {
+                "name": "Gliwa, Kevin"
+            },
+            {
+                "name": "Walker, Eamonn"
+            },
+            {
+                "name": "Segarra, Josh"
+            },
+            {
+                "name": "Raymund, Monica"
+            },
+            {
+                "name": "Tee, Brian"
+            },
+            {
+                "name": "McLaughlin, Madison"
+            },
+            {
+                "name": "Wisdom, Robert"
+            },
+            {
+                "name": "Carlson, Melissa"
+            },
+            {
+                "name": "Platt, Oliver"
+            },
+            {
+                "name": "Martinez, Danny"
+            },
+            {
+                "name": "Wiggins, Roger"
+            },
+            {
+                "name": "Ochoa, Rafaela"
+            },
+            {
+                "name": "Kinney, Taylor"
+            },
+            {
+                "name": "Stolte, Christian"
+            },
+            {
+                "name": "Bohen, Ian"
+            },
+            {
+                "name": "Poitier, Sydney Tamiia"
+            },
+            {
+                "name": "Killmer, Kara"
+            },
+            {
+                "name": "Neff, Caroline"
+            },
+            {
+                "name": "Garcia, Zach"
+            },
+            {
+                "name": "Wechsler, Nick"
+            },
+            {
+                "name": "Heche, Anne"
+            },
+            {
+                "name": "Olivo, America"
+            },
+            {
+                "name": "Morales, Esai"
+            },
+            {
+                "name": "DeVitto, Torrey"
+            },
+            {
+                "name": "Sardarov, Yuri"
+            },
+            {
+                "name": "Minoso, Joe"
+            }
+        ],
+        "locations": [
+            "Chicago, Illinois, USA",
+            "Cinespace Film Studios Chicago, Illinois, USA"
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Australia:MA15+",
+            "Denmark:15::(DVD rating)",
+            "Finland:K-16::(DVD rating)",
+            "France:12",
+            "Italy:BA",
+            "Netherlands:16",
+            "Norway:15::(DVD rating)",
+            "South Korea:15",
+            "Spain:16::(TV rating)",
+            "Sweden:15::(DVD rating)",
+            "United States:TV-14"
+        ],
+        "number of seasons": 6,
+        "rating": 8.1,
+        "votes": 21573,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYjI4NjY0NTktZmMwMy00Yzk1LTk5NTgtYTU5MjAzYmY4NmY4XkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "District 21 of the Chicago Police Department is made up of two distinctly different groups. There are the uniformed cops who patrol the beat and go head-to-head with the city's street crimes. And there's the Intelligence Unit, the team that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
+        "languages": [
+            "English"
+        ],
+        "title": "Chicago P.D.",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "writer": [
+            {
+                "name": "Brandt, Michael"
+            },
+            {
+                "name": "Haas, Derek"
+            },
+            {
+                "name": "Olmstead, Matt"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Wolf Films"
+            },
+            {
+                "name": "Universal Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "National Broadcasting Company (NBC)"
+            },
+            {
+                "name": "Global"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "FOX"
+            },
+            {
+                "name": "Kutonen"
+            },
+            {
+                "name": "National Nine Network"
+            },
+            {
+                "name": "SuperTV2"
+            },
+            {
+                "name": "Universal Pictures"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Cineverse"
+            },
+            {
+                "name": "Embassy Security Group"
+            },
+            {
+                "name": "Filmtools"
+            },
+            {
+                "name": "Soundtrack New York"
+            },
+            {
+                "name": "Studio Vista"
+            },
+            {
+                "name": "Transportation Resources"
+            },
+            {
+                "name": "Truck Brokers"
+            }
+        ],
+        "plot": [
+            "Follows District 21 of the Chicago Police Department, which is made up of two distinctly different groups: the uniformed cops and the Intelligence Unit.::@DylanJames18",
+            "District 21 of the Chicago Police Department is made up of two distinctly different groups. There are the uniformed cops who patrol the beat and go head-to-head with the city's street crimes. And there's the Intelligence Unit, the team that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.::ahmetkozan",
+            "At the center of \"_Chicago P.D._ (qv)\" is Det. Sgt. Hank Voight (Jason Beghe), who is at ground zero against the war on crime in Chicago. He will do anything to bring criminals to justice. From multiple Emmy Award-winning executive producer Dick Wolf and the team behind the hit series \"Chicago Fire,\" \"_Chicago P.D._ (qv)\" is a riveting police drama about the men and women of the Chicago Police Department's elite Intelligence Unit, combating the city's most heinous offenses - organized crime, drug trafficking, high-profile murders and beyond. Hand-picked as the head of the unit is Voight, who has assembled a team of diverse detectives who share his passion, and commitment to keep the city safe. They include Det. Antonio Dawson (Jon Seda), who is more level-headed and \"by the book\" than his counterpart; Jay Halstead (Jesse Lee Soffer), a brash young detective who previously saw active military duty in the Middle East; Halstead's partner Erin Lindsay (Sophia Bush), a former \"bad girl\" who turned her life around with Voight's help; Alvin Olinsky (Elias Koteas), an experienced undercover detective and confidante for Voight; and Adam Ruzek (Patrick John Flueger), a quick-witted cadet plucked from the police academy as Olinsky's partner. The unit also includes two rising young uniform cops - Kevin Atwater (LaRoyce Hawkins), a charismatic patrolman who has an active social life, and Kim Burgess (Marina Squerciati), a patrol officer who strives to one day become a part of the elite Intelligence Unit. Sheldon Jin (Archie Kao) is the tech geek in charge of surveillance and tech ops.::NBC Television"
+        ],
+        "tech": {
+            "runtime": [
+                "43 min"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Arri Alexa"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 21573,
+                "rating": 8.1
+            },
+            "aged under 18": {
+                "votes": 21,
+                "rating": 7.8
+            },
+            "aged 18 29": {
+                "votes": 4224,
+                "rating": 8.3
+            },
+            "aged 30 44": {
+                "votes": 6221,
+                "rating": 7.9
+            },
+            "aged 45 plus": {
+                "votes": 3442,
+                "rating": 7.9
+            },
+            "males": {
+                "votes": 8502,
+                "rating": 7.9
+            },
+            "males aged under 18": {
+                "votes": 8,
+                "rating": 6.8
+            },
+            "males aged 18 29": {
+                "votes": 1963,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 3513,
+                "rating": 7.8
+            },
+            "males aged 45 plus": {
+                "votes": 2083,
+                "rating": 7.7
+            },
+            "females": {
+                "votes": 6978,
+                "rating": 8.4
+            },
+            "females aged under 18": {
+                "votes": 11,
+                "rating": 9.5
+            },
+            "females aged 18 29": {
+                "votes": 2206,
+                "rating": 8.5
+            },
+            "females aged 30 44": {
+                "votes": 2617,
+                "rating": 8.2
+            },
+            "females aged 45 plus": {
+                "votes": 1306,
+                "rating": 8.2
+            },
+            "top 1000 voters": {
+                "votes": 187,
+                "rating": 5.7
+            },
+            "us users": {
+                "votes": 3915,
+                "rating": 8.0
+            },
+            "non us users": {
+                "votes": 6053,
+                "rating": 7.8
+            }
+        },
+        "number of votes": {
+            "10": 7634,
+            "9": 4644,
+            "8": 4876,
+            "7": 2113,
+            "6": 804,
+            "5": 430,
+            "4": 241,
+            "3": 143,
+            "2": 164,
+            "1": 524
+        },
+        "arithmetic mean": 8.4,
+        "median": 9
+    }
+}

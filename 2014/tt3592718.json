@@ -1,0 +1,539 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "20 April 2014"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "26 March 2015"
+            }
+        ],
+        "release dates": [
+            "USA::20 April 2014",
+            "Belgium::26 March 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Signed, Sealed, Delivered"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Elveszett levelek"
+            },
+            {
+                "countries": "Italy",
+                "title": "Il mistero delle lettere perdute"
+            },
+            {
+                "countries": "Romania",
+                "title": "Misterele scrisorilor pierdute"
+            },
+            {
+                "countries": "Russia",
+                "title": "Пропавшие письма"
+            }
+        ],
+        "akas": [
+            "Signed, Sealed, Delivered (original title)",
+            "Elveszett levelek Hungary",
+            "Il mistero delle lettere perdute Italy",
+            "Misterele scrisorilor pierdute Romania",
+            "Пропавшие письма Russia"
+        ],
+        "akas from release info": [
+            "Signed, Sealed, Delivered (original title)",
+            "Elveszett levelek Hungary",
+            "Il mistero delle lettere perdute Italy",
+            "Misterele scrisorilor pierdute Romania",
+            "Пропавшие письма Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Time to Start Livin'",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Signed, Sealed, Delivered (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 110,
+                    "original air date": "20 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    A legendary supervisor makes a grand entrance in time to oversee the postal detectives unravel a mystery behind a letter from a young boy whose life is in danger.    "
+                },
+                "2": {
+                    "title": "To Whom It May Concern",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Signed, Sealed, Delivered (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 115,
+                    "original air date": "27 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    The postal detectives are inspired by their supervisor to take a risk to save the life of an army veteran.    "
+                },
+                "3": {
+                    "title": "Soulmates",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Signed, Sealed, Delivered (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 98,
+                    "original air date": "4 May 2014",
+                    "year": "2014",
+                    "plot": "\n    The postables gain a new Supervisor Cora Brandt who implements stricter policies and procedures as they try to track down clues that leads them to a ranch to deliver a love letter that can potentially change lives. However, as Oliver and Shane (Kristin Booth) grow closer to unfolding their latest mail mystery, things heat up between the two on the dance floor. Meanwhile, Rita is inspired to pursue her love of writing, penning a new novel that Cora becomes captivated by.    "
+                },
+                "4": {
+                    "title": "The Masterpiece",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Signed, Sealed, Delivered (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 90,
+                    "original air date": "11 May 2014",
+                    "year": "2014",
+                    "plot": "\n    The postables hunt for clues to deliver a package that could change a family forever, while their tough-as-nails supervisor turns towards a new life chapter.    "
+                },
+                "5": {
+                    "title": "The Edge of Forever",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Signed, Sealed, Delivered (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 89,
+                    "original air date": "18 May 2014",
+                    "year": "2014",
+                    "plot": "\n    A letter from beyond the grave brings new hope and life to an estranged family.    "
+                },
+                "6": {
+                    "title": "The Future Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Signed, Sealed, Delivered (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 78,
+                    "original air date": "25 May 2014",
+                    "year": "2014",
+                    "plot": "\n    The postal detectives are faced with a challenge when a letter written by a girl to her future self turns up. Rita competes for \"Miss Special Delivery.\"    "
+                },
+                "7": {
+                    "title": "Something Good",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Signed, Sealed, Delivered (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 90,
+                    "original air date": "1 Jun. 2014",
+                    "year": "2014",
+                    "plot": "\n    The postal detectives discover a package of music that can launch a career and restore a life.    "
+                },
+                "8": {
+                    "title": "Dark of Night",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Signed, Sealed, Delivered (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 94,
+                    "original air date": "8 Jun. 2014",
+                    "year": "2014",
+                    "plot": "\n    Justice comes in the form of a letter as the team at the Dead Letter Office solve clues to deliver not only a letter, but an unspeakable truth that has been buried for years.    "
+                },
+                "9": {
+                    "title": "The Treasure Box",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Signed, Sealed, Delivered (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 82,
+                    "original air date": "15 Jun. 2014",
+                    "year": "2014",
+                    "plot": "\n    Lives are at risk when the Postables discover a box of treasure.    "
+                },
+                "10": {
+                    "title": "A Hope and a Future",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Signed, Sealed, Delivered (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 96,
+                    "original air date": "22 Jun. 2014",
+                    "year": "2014",
+                    "plot": "\n    Norman meets a family member who changes his life.    "
+                }
+            }
+        },
+        "number of episodes": 10,
+        "cast": [
+            {
+                "name": "Mabius, Eric"
+            },
+            {
+                "name": "Booth, Kristin"
+            },
+            {
+                "name": "Lowe, Crystal"
+            },
+            {
+                "name": "Gustafson, Geoff"
+            },
+            {
+                "name": "Reese, Della"
+            },
+            {
+                "name": "Bertinelli, Valerie"
+            },
+            {
+                "name": "Harper, Valerie"
+            },
+            {
+                "name": "Santiago, Zak"
+            },
+            {
+                "name": "Ballard, Jeffrey"
+            },
+            {
+                "name": "Cave, Caroline"
+            },
+            {
+                "name": "de Klerk, Richard"
+            },
+            {
+                "name": "DiMarco, Adam"
+            },
+            {
+                "name": "Edwards, Lane"
+            },
+            {
+                "name": "Hogan, Michael"
+            },
+            {
+                "name": "Holt, Greyston"
+            },
+            {
+                "name": "Korson, Adam"
+            },
+            {
+                "name": "Raymond, Jeremy"
+            },
+            {
+                "name": "Willes, Christine"
+            },
+            {
+                "name": "Anderson, Kendra"
+            },
+            {
+                "name": "Berg, Joel"
+            },
+            {
+                "name": "Gibson, Leah"
+            },
+            {
+                "name": "Harmon, Jessica"
+            },
+            {
+                "name": "Leacock, Viv"
+            },
+            {
+                "name": "McGillion, Paul"
+            },
+            {
+                "name": "Morgan, Jessica Kishner"
+            },
+            {
+                "name": "Pearl, Aaron"
+            },
+            {
+                "name": "Ullerup, Emilie"
+            },
+            {
+                "name": "Broderick, Shirley"
+            },
+            {
+                "name": "Crane, Chilton"
+            },
+            {
+                "name": "Fraissinet, Nicole"
+            },
+            {
+                "name": "Gatien, Elise"
+            },
+            {
+                "name": "Joseph, Jarod"
+            },
+            {
+                "name": "Sustad, Kimberley"
+            },
+            {
+                "name": "Tesch, Ingrid"
+            },
+            {
+                "name": "Tracey, Keenan"
+            },
+            {
+                "name": "Albers, Tonya Lee"
+            },
+            {
+                "name": "Burnett, Carol"
+            },
+            {
+                "name": "Corbett, Kate"
+            },
+            {
+                "name": "Gibson, Elan Ross"
+            },
+            {
+                "name": "MacDonald, Harrison"
+            },
+            {
+                "name": "Runte, Kurt Max"
+            },
+            {
+                "name": "Albuquerque, Larissa"
+            },
+            {
+                "name": "Bennett, Stephanie"
+            },
+            {
+                "name": "Cameron, Karis"
+            },
+            {
+                "name": "Drever, Spencer"
+            },
+            {
+                "name": "Gray, Mackenzie"
+            },
+            {
+                "name": "Henner, Marilu"
+            },
+            {
+                "name": "Kahlon, Rami"
+            },
+            {
+                "name": "Kotango, Victoria"
+            },
+            {
+                "name": "Olson, Jordyn Ashley"
+            }
+        ],
+        "locations": [
+            "Vancouver, British Columbia, Canada"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Mystery",
+            "Romance"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "Canada",
+            "United States"
+        ],
+        "country codes": [
+            "ca",
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "number of seasons": 1,
+        "rating": 7.4,
+        "votes": 1532,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTI2ZWU4ZDUtYTM5Zi00ZGUzLWI3NjItYTJlMWNiYTA0N2NhXkEyXkFqcGdeQXVyNjU2NTIzNDE@._V1_SY150_CR6,0,101,150_.jpg",
+        "plot outline": "Tech-savvy Shane joins traditional mail enthusiast Oliver and his small team in the Dead Letters Office, a group of postal detectives whose determination to deliver the seemingly undeliverable takes them out of the post office into an unpredictable world where letters and packages from the past save lives, solve crimes, reunite old loves and change futures by arriving late but always miraculously on time. This motley crew investigates a lost love letter from a sick woman, growing deeply invested in her love story in so doing. When the search leads the team to a falsely imprisoned man, they realize that both love and a man's life are at stake. Taking their investigation outside the boundaries of the postal system, the Dead Letters Office works to clear the name of the wrongfully accused man and reunite him with the love of his life.",
+        "languages": [
+            "English"
+        ],
+        "title": "Signed, Sealed, Delivered",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-2014",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Williamson, Martha"
+            },
+            {
+                "name": "Batali, Dean"
+            },
+            {
+                "name": "Collins, Katherine"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "MoonWater Productions"
+            },
+            {
+                "name": "Muse Entertainment Enterprises"
+            },
+            {
+                "name": "Special Delivery TeleProductions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Moviemax Family"
+            },
+            {
+                "name": "Muse Distribution International"
+            },
+            {
+                "name": "The Hallmark Channel"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aion Art Gallery"
+            },
+            {
+                "name": "Entertainment Partners Canada"
+            },
+            {
+                "name": "William F. White International"
+            }
+        ],
+        "plot": [
+            "A group of postal detectives work to solve the mysteries behind undeliverable letters and packages from the past, delivering them when they are needed most.::Hallmark Channel",
+            "Tech-savvy Shane joins traditional mail enthusiast Oliver and his small team in the Dead Letters Office, a group of postal detectives whose determination to deliver the seemingly undeliverable takes them out of the post office into an unpredictable world where letters and packages from the past save lives, solve crimes, reunite old loves and change futures by arriving late but always miraculously on time. This motley crew investigates a lost love letter from a sick woman, growing deeply invested in her love story in so doing. When the search leads the team to a falsely imprisoned man, they realize that both love and a man's life are at stake. Taking their investigation outside the boundaries of the postal system, the Dead Letters Office works to clear the name of the wrongfully accused man and reunite him with the love of his life.::Hallmark Channel"
+        ],
+        "tech": {
+            "runtime": [
+                "43 min"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Red Epic, Zeiss Ultra Prime and Angenieux Optimo Lenses"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1532,
+                "rating": 7.4
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "aged 18 29": {
+                "votes": 177,
+                "rating": 7.1
+            },
+            "aged 30 44": {
+                "votes": 429,
+                "rating": 7.0
+            },
+            "aged 45 plus": {
+                "votes": 478,
+                "rating": 7.7
+            },
+            "males": {
+                "votes": 394,
+                "rating": 6.7
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 51,
+                "rating": 6.7
+            },
+            "males aged 30 44": {
+                "votes": 138,
+                "rating": 5.7
+            },
+            "males aged 45 plus": {
+                "votes": 193,
+                "rating": 7.3
+            },
+            "females": {
+                "votes": 750,
+                "rating": 7.8
+            },
+            "females aged 18 29": {
+                "votes": 125,
+                "rating": 7.4
+            },
+            "females aged 30 44": {
+                "votes": 285,
+                "rating": 7.8
+            },
+            "females aged 45 plus": {
+                "votes": 281,
+                "rating": 8.1
+            },
+            "top 1000 voters": {
+                "votes": 49,
+                "rating": 6.1
+            },
+            "us users": {
+                "votes": 441,
+                "rating": 8.1
+            },
+            "non us users": {
+                "votes": 395,
+                "rating": 6.5
+            }
+        },
+        "number of votes": {
+            "10": 547,
+            "9": 224,
+            "8": 272,
+            "7": 176,
+            "6": 101,
+            "5": 83,
+            "4": 40,
+            "3": 28,
+            "2": 27,
+            "1": 34
+        },
+        "arithmetic mean": 8.0,
+        "median": 9
+    }
+}

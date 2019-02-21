@@ -1,0 +1,386 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "22 May 2014"
+            },
+            {
+                "country": "Ireland\n",
+                "date": "22 May 2014"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "22 May 2014"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "18 January 2015"
+            },
+            {
+                "country": "Austria\n",
+                "date": "4 June 2015"
+            },
+            {
+                "country": "Germany\n",
+                "date": "4 June 2015"
+            },
+            {
+                "country": "France\n",
+                "date": "4 June 2015"
+            }
+        ],
+        "release dates": [
+            "UK::22 May 2014",
+            "Ireland::22 May 2014",
+            "Netherlands::22 May 2014",
+            "Sweden::18 January 2015",
+            "Austria::4 June 2015",
+            "Germany::4 June 2015",
+            "France::4 June 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "From There to Here"
+            },
+            {
+                "countries": "France",
+                "title": "D'une vie à l'autre"
+            },
+            {
+                "countries": "Germany",
+                "title": "Zwei Familien, ein Leben"
+            }
+        ],
+        "akas": [
+            "From There to Here (original title)",
+            "D'une vie à l'autre France",
+            "Zwei Familien, ein Leben Germany"
+        ],
+        "akas from release info": [
+            "From There to Here (original title)",
+            "D'une vie à l'autre France",
+            "Zwei Familien, ein Leben Germany"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "From There to Here (TV Mini-Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 29,
+                    "original air date": "22 May 2014",
+                    "year": "2014",
+                    "plot": "\n    June 1996: Mancunian Daniel Cotton is married to Clare with two grown up children Louise and Charlie and manages a sweet factory with his gruff, adoptive father Samuel. Samuel is estranged from and dismissive of Daniel's half brother Robbo, who runs a night club but the entire family is obsessed with football so Daniel attempts a reconciliation with all of them watching a televised Euro 96 match at a local pub. A terrorist bomb destroys the pub but all three survive, along with Joanne the pub cleaner, a single mother with two small boys and Daniel takes her home. They...    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "From There to Here (TV Mini-Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 25,
+                    "original air date": "29 May 2014",
+                    "year": "2014",
+                    "plot": "\n    A year has passed. Daniel is having an affair with Joanne, who gives birth to their child though both she and Claire are unaware of his duplicity. He is about to tell them both the truth but backs out, instead confiding in Robbie, whom he helps out when the police are suspicious about the bomb in his club. Joanne's elder son Robbie, however, mistrusts him. Samuel is pleased when the enterprising Charlie goes into property development, accusing Daniel of being jealous of his son whilst Louise is successfully elected as an MP. Ryan and his brother Lee confront Daniel ...    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "From There to Here (TV Mini-Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 20,
+                    "original air date": "5 Jun. 2014",
+                    "year": "2014",
+                    "plot": "\n    Daniel has to face the wrath of both women in his life though Samuel, whilst berating Robbo for keeping the secret, is oddly sympathetic and Daniel moves in with him. Two years later thy bring Scarlett, Daniel's daughter by Joanne, for a family Christmas but it is a strained affair as Charlie tells Louise he knows she is two-timing her husband and Claire announces that she has a new boyfriend. Some months later Daniel learns that Samuel is his actual birth father as well as finding that Joanne's son Ryan's drug-dealing, coupled with a blackmailing employee, threatens ...    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Glenister, Philip"
+            },
+            {
+                "name": "Mackintosh, Steven"
+            },
+            {
+                "name": "Reeves, Saskia"
+            },
+            {
+                "name": "White, Liz"
+            },
+            {
+                "name": "Hill, Bernard"
+            },
+            {
+                "name": "Davies, Ben-Ryan"
+            },
+            {
+                "name": "Rigby, Daniel"
+            },
+            {
+                "name": "Christie, Morven"
+            },
+            {
+                "name": "Harrop, Leon"
+            },
+            {
+                "name": "Batt, Ben"
+            },
+            {
+                "name": "Regan, Vincent"
+            },
+            {
+                "name": "Jordan, Chris"
+            },
+            {
+                "name": "Bhatti, Ace"
+            },
+            {
+                "name": "Sykes, Andrew"
+            },
+            {
+                "name": "Volkova, Valis"
+            },
+            {
+                "name": "Cooper, Claire"
+            },
+            {
+                "name": "Fry, Katie"
+            },
+            {
+                "name": "Tandon, Ash"
+            },
+            {
+                "name": "Graham-Smith, Garry"
+            },
+            {
+                "name": "Clark, Simone"
+            },
+            {
+                "name": "Fitzpatrick, Craig"
+            },
+            {
+                "name": "Ashton, Neil"
+            },
+            {
+                "name": "Wilson, Flo"
+            },
+            {
+                "name": "Kestelman, Sara"
+            },
+            {
+                "name": "Ellis, Siri"
+            },
+            {
+                "name": "Alexander, Jeff"
+            },
+            {
+                "name": "Hussain, Perveen"
+            },
+            {
+                "name": "Lowe, Matthew"
+            },
+            {
+                "name": "Gilbert, Harrison"
+            },
+            {
+                "name": "Gormley, Phillip"
+            },
+            {
+                "name": "Baker, Brooklyn"
+            },
+            {
+                "name": "Calizo, Siegfrid"
+            },
+            {
+                "name": "Edge, Matthew James"
+            },
+            {
+                "name": "Hazell, Marcella"
+            },
+            {
+                "name": "Lambert, Craig Thomas"
+            },
+            {
+                "name": "Millar, Louise"
+            },
+            {
+                "name": "Rudman, Bianca"
+            },
+            {
+                "name": "Sisson, Jonathan"
+            },
+            {
+                "name": "Wells, Nicola-Jayne"
+            }
+        ],
+        "locations": [
+            "Manchester, Greater Manchester, England, UK"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "original air date": "22 May 2014 (UK)",
+        "number of seasons": 1,
+        "rating": 7.2,
+        "votes": 404,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZWFlOGY5OGYtOTVkNC00NTZiLTgxZDAtNTNhZmI3ZDA3OThjXkEyXkFqcGdeQXVyMTUyMDU4Mjk@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "Created by Peter Bowker, From There To Here is set in the aftermath of the 1996 Arndale bombing and follows Daniel Cotton, a Manchester family man who is torn between the life he wants and the life he could have. This is a funny, characterful and moving drama about a man whose life is rocked to the core a family saga which begins in Manchester in the summer of 1996, on the day when an IRA bomb exploded in the city center. The story spans the four years that changed Manchester and the country forever; from Footballs Coming Home in 1996, to New Labour sweeping to power in 1997, and finally to the hangover after the Millennium celebrations of 2000. Against the feel-good backdrop of Euro 96, it maps the emotional shock waves generated by that bomb in the lives of two parallel families from different sides of the tracks.",
+        "languages": [
+            "English"
+        ],
+        "title": "From There to Here",
+        "year": 2014,
+        "kind": "tv mini series",
+        "series years": "2014-2014",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Bowker, Peter"
+            }
+        ],
+        "director": [
+            {
+                "name": "Strong, James"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Kudos Film and Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "BBC One"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Panavision"
+            }
+        ],
+        "plot": [
+            "A family saga which begins in Manchester in the summer of 1996, on the day when an IRA bomb exploded in the city center.",
+            "Created by Peter Bowker, From There To Here is set in the aftermath of the 1996 Arndale bombing and follows Daniel Cotton, a Manchester family man who is torn between the life he wants and the life he could have. This is a funny, characterful and moving drama about a man whose life is rocked to the core a family saga which begins in Manchester in the summer of 1996, on the day when an IRA bomb exploded in the city center. The story spans the four years that changed Manchester and the country forever; from Footballs Coming Home in 1996, to New Labour sweeping to power in 1997, and finally to the hangover after the Millennium celebrations of 2000. Against the feel-good backdrop of Euro 96, it maps the emotional shock waves generated by that bomb in the lives of two parallel families from different sides of the tracks."
+        ],
+        "synopsis": [
+            "Created by Peter Bowker, From There To Here is set in the aftermath of the 1996 Arndale bombing and follows Daniel Cotton, a Manchester family man who is torn between the life he wants and the life he could have. This is a funny, characterful and moving drama about a man whose life is rocked to the core a family saga which begins in Manchester in the summer of 1996, on the day when an IRA bomb exploded in the city centre. The story spans the four years that changed Manchester and the country forever; from Footballs Coming Home in 1996, to New Labour sweeping to power in 1997, and finally to the hangover after the Millennium celebrations of 2000. Against the feel-good backdrop of Euro 96, it maps the emotional shockwaves generated by that bomb in the lives of two parallel families from different sides of the tracks."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 404,
+                "rating": 7.2
+            },
+            "aged 18 29": {
+                "votes": 40,
+                "rating": 7.1
+            },
+            "aged 30 44": {
+                "votes": 121,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 168,
+                "rating": 7.3
+            },
+            "males": {
+                "votes": 245,
+                "rating": 7.1
+            },
+            "males aged 18 29": {
+                "votes": 33,
+                "rating": 7.0
+            },
+            "males aged 30 44": {
+                "votes": 83,
+                "rating": 7.0
+            },
+            "males aged 45 plus": {
+                "votes": 112,
+                "rating": 7.3
+            },
+            "females": {
+                "votes": 97,
+                "rating": 7.5
+            },
+            "females aged 18 29": {
+                "votes": 7,
+                "rating": 7.1
+            },
+            "females aged 30 44": {
+                "votes": 35,
+                "rating": 7.7
+            },
+            "females aged 45 plus": {
+                "votes": 52,
+                "rating": 7.5
+            },
+            "top 1000 voters": {
+                "votes": 22,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 33,
+                "rating": 6.9
+            },
+            "non us users": {
+                "votes": 248,
+                "rating": 7.2
+            }
+        },
+        "number of votes": {
+            "10": 42,
+            "9": 40,
+            "8": 115,
+            "7": 110,
+            "6": 42,
+            "5": 28,
+            "4": 9,
+            "3": 4,
+            "2": 5,
+            "1": 9
+        },
+        "arithmetic mean": 7.2,
+        "median": 7
+    }
+}

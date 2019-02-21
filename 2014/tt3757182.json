@@ -1,0 +1,181 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Australia\n",
+                "date": "13 May 2014"
+            },
+            {
+                "country": "Australia\n",
+                "date": "13 May 2014",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "Australia\n",
+                "date": "20 May 2014",
+                "notes": "                            (part 2)"
+            },
+            {
+                "country": "Australia\n",
+                "date": "27 May 2014",
+                "notes": "                            (part 3)"
+            }
+        ],
+        "release dates": [
+            "Australia::13 May 2014",
+            "Australia::13 May 2014                            (part 1)",
+            "Australia::20 May 2014                            (part 2)",
+            "Australia::27 May 2014                            (part 3)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Beijing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Two Men in China (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "13 May 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Shanghai",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Two Men in China (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "20 May 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Chengdu",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Two Men in China (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "27 May 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Doyle, John"
+            },
+            {
+                "name": "Flannery, Tim"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "country codes": [
+            "au"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 5.6,
+        "votes": 5,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNDQ1NmEwOTgtZTliYS00NTU5LWFlY2UtNjdmY2E4YmRlMDExL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTM4NzAwODE@._V1_SX101_CR0,0,101,150_.jpg",
+        "plot outline": "Tim Flannery and John Doyle's engaging and entertaining journey through China, Australia's largest trading partner. Explores how much Australians know about the powerful dragon to Australia's north. Three part series explores Beijing, Shanghai and Chengdu.",
+        "languages": [
+            "English"
+        ],
+        "title": "Two Men in China",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-2014",
+        "akas": [
+            "Two Men in China (Australia)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Bibb, Steve"
+            },
+            {
+                "name": "Cordell, Michael"
+            },
+            {
+                "name": "McGrath, Vivian"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Cordell Jigsaw Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Australian Broadcasting Corporation (ABC)"
+            }
+        ],
+        "plot": [
+            "Tim Flannery and John Doyle's engaging and entertaining journey through China, Australia's largest trading partner. Explores how much Australians know about the powerful dragon to Australia's north. Three part series explores Beijing, Shanghai and Chengdu.::Steve Bibb"
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 5,
+                "rating": 5.6
+            },
+            "aged 45 plus": {
+                "votes": 5,
+                "rating": 5.6
+            },
+            "males": {
+                "votes": 5,
+                "rating": 5.6
+            },
+            "males aged 45 plus": {
+                "votes": 5,
+                "rating": 5.6
+            },
+            "non us users": {
+                "votes": 4,
+                "rating": 5.8
+            }
+        },
+        "number of votes": {
+            "10": 0,
+            "9": 0,
+            "8": 2,
+            "7": 0,
+            "6": 1,
+            "5": 1,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 1
+        },
+        "arithmetic mean": 5.6,
+        "median": 6
+    }
+}

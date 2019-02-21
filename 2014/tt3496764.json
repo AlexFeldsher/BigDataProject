@@ -1,0 +1,988 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "6 February 2014"
+            },
+            {
+                "country": "USA\n",
+                "date": "21 November 2014"
+            },
+            {
+                "country": "Germany\n",
+                "date": "15 May 2015",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::6 February 2014",
+            "USA::21 November 2014",
+            "Germany::15 May 2015                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Gortimer Gibbon's Life on Normal Street"
+            },
+            {
+                "countries": "Germany",
+                "title": "Gortimer Gibbon: Mein Leben in der Normal Street"
+            },
+            {
+                "countries": "Norway",
+                "title": "Gortimer Gibbon's Life on Normal Street"
+            },
+            {
+                "countries": "Russia",
+                "title": "Жизнь Гортимера Гиббона на Нормальной Улице"
+            },
+            {
+                "countries": "Spain",
+                "title": "La vida de Gortimer Gibbon en Normal Street"
+            }
+        ],
+        "akas": [
+            "Gortimer Gibbon's Life on Normal Street (original title)",
+            "Gortimer Gibbon: Mein Leben in der Normal Street Germany",
+            "Gortimer Gibbon's Life on Normal Street Norway",
+            "Жизнь Гортимера Гиббона на Нормальной Улице Russia",
+            "La vida de Gortimer Gibbon en Normal Street Spain"
+        ],
+        "akas from release info": [
+            "Gortimer Gibbon's Life on Normal Street (original title)",
+            "Gortimer Gibbon: Mein Leben in der Normal Street Germany",
+            "Gortimer Gibbon's Life on Normal Street Norway",
+            "Жизнь Гортимера Гиббона на Нормальной Улице Russia",
+            "La vida de Gortimer Gibbon en Normal Street Spain"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Gortimer and the Blazer of Glory",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 22,
+                    "original air date": "30 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Gortimer gets a blazer that makes everyone see him as an adult. It changes the way he sees himself too and threatens his friends' plans for an epic water balloon battle.    "
+                },
+                "2": {
+                    "title": "Ranger and the Supercharged Championship",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 17,
+                    "original air date": "30 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Ranger gets swept up in the celebrity of being the good luck charm of the basketball team, whose lucky head-rubs cause unnatural levels of static electricity.    "
+                },
+                "3": {
+                    "title": "Gortimer vs. The Terrible Touch-Up",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 19,
+                    "original air date": "30 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Mel and Abigail use a new photo software for the yearbook which accidentally erases Gortimer's smile. As they struggle to restore Gortimer, their budding friendship is tested.    "
+                },
+                "4": {
+                    "title": "Ranger and the Very Real Imaginary Friend",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 19,
+                    "original air date": "30 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Ranger's childhood imaginary friend comes back to visit, much to the chagrin of Gortimer.    "
+                },
+                "5": {
+                    "title": "Gortimer and the Vengeful Violinist",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 17,
+                    "original air date": "30 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Gortimer is haunted by the sound of a mysterious violin, which interferes with his studies and his sleep. Gortimer realizes he can't hide the truth about his slipping grades from his Biologist Dad.    "
+                },
+                "6": {
+                    "title": "Mel vs. The Hidden Herstory of Normal Street",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 18,
+                    "original air date": "30 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Amid the backdrop of Normal Days -- a celebration of the founding of Normal Street -- Mel discovers a shocking secret about the town's founder Captain Normal.    "
+                },
+                "7": {
+                    "title": "Gortimer vs. The Friendship Bro-celet",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 20,
+                    "original air date": "30 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Gortimer and his mom's new boyfriend Adam warm up their chilly relationship with a magical friendship \"Bro-celet.\"    "
+                },
+                "8": {
+                    "title": "Mel and the Mel-Functioning Brain",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 16,
+                    "original air date": "30 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    While studying for an important test, Mel's brain fills to capacity.    "
+                },
+                "9": {
+                    "title": "Stanley and the Tattoo of Tall Tales",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 20,
+                    "original air date": "30 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Stanley gets a magical tattoo, and suddenly everyone takes him seriously -- too seriously.    "
+                },
+                "10": {
+                    "title": "Gortimer vs. Gortimer vs. Gortimer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 21,
+                    "original air date": "30 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Gortimer has to babysit on the same night that he has a \"date\" with Abigail. He finds a solution when he clones himself, but the solution quickly becomes a problem.    "
+                },
+                "11": {
+                    "title": "Ranger and the Fabled Flower of Normal Street",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 19,
+                    "original air date": "30 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Ranger brings Mel and a heartbroken Gortimer on a quest to find a fabled flower of Normal Street for his Grandpa, who has an unexpected health scare.    "
+                },
+                "12": {
+                    "title": "Mel vs. the Future",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 33,
+                    "original air date": "30 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    In the wake of Lora's death, Mel tries to build a time machine to go back in time and save her mom. But Future Mel arrives to dissuade Mel from her mission.    "
+                },
+                "13": {
+                    "title": "Gortimer, Ranger and Mel vs. The Endless Night",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 23,
+                    "original air date": "30 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    The trio goes camping and shares a perfect moment that distracts them from all their recent troubles. Will a wish on a star make the moment continue?    "
+                },
+                "14": {
+                    "title": "Gortimer and the Jacks of All Trades",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "votes": 16,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    As a new year arrives on Normal Street, Gortimer resolves to find a new interest so he can keep up with his multi-talented friends. But when he stumbles on a magic deck of cards that make him an expert in any skill he desires, he begins to question his true self.    "
+                },
+                "15": {
+                    "title": "Ranger vs. the Laser Frog of Fate",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "votes": 16,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    At a pivotal moment for the Bowen family, Ranger learns that his Dad is plagued by an arch nemesis from his youth. Tired of seeing his dad live in Rob's someone's shadow, Ranger takes matters into his own hands.    "
+                },
+                "16": {
+                    "title": "Gortimer, Mel, Ranger, Catherine and the Student Identity Crisis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 16,
+                    "votes": 13,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    When the student ID card machine malfunctions, Gortimer, Mel, Ranger and Catherine swap identities. As they walk a mile each other's shoes, they will they gain a new perspective on the friends they thought they knew so well?    "
+                },
+                "17": {
+                    "title": "Mel vs. the Night Mare of Normal Street",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 17,
+                    "votes": 15,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    When Mel starts seeing a mysterious horse everywhere she goes, Ranger warns it's the legendary,and much feared; Night Mare of Normal Street. In order to rid herself of the nightmares, Mel must overcome her greatest fear.    "
+                },
+                "18": {
+                    "title": "The Mystery of the Marlow Mansion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 18,
+                    "votes": 16,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    The gang takes part in a 1920s-themed mystery party and wind up stuck in their characters' personas. When a valuable antique goes missing, it's up to Gortimer to solve the mystery and bring his friends back to normal.    "
+                },
+                "19": {
+                    "title": "Ranger and the Weight of the World",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 19,
+                    "votes": 13,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    When family issues weigh on Ranger, his pals encourage him to talk it out at the peer counseling center. But once there, Ranger instead opts to be a peer counselor himself. And as more and more students confide in him, Ranger finds he weight of the world upon his shoulders.    "
+                },
+                "20": {
+                    "title": "Gortimer vs. the World's Best Mom",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 20,
+                    "votes": 11,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    When work and family duties begin to overwhelm Claire, Gortimer reassures her with a special surprise gift: a \"World's Best Mom\" mug. But after just a few sips from it, Claire is transformed into a \"super mom,\" but at what cost?    "
+                },
+                "21": {
+                    "title": "Mel vs. the Missing Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 21,
+                    "votes": 12,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    After Mel falls sick from stretching herself too thin, she returns to school only to find that her friends and teachers don't seem to remember her.    "
+                },
+                "22": {
+                    "title": "Gortimer vs. White Hat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 22,
+                    "votes": 11,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    After receiving some bombshell news, Gortimer escapes to the comfort of his favorite TV show, the campy '60s superhero series, \"Adventures of White Hat.\" But once an inter-dimensional transporter gets involved, Gortimer takes his escapism to a new level.    "
+                },
+                "23": {
+                    "title": "Gortimer and the Lost Legends of Normal Street",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 23,
+                    "votes": 14,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    As the gang prepares a surprise birthday party for Gortimer, they take turns making video recordings of the weird, wild and wonderful stories of their adventures with Gortimer.    "
+                },
+                "24": {
+                    "title": "Gortimer vs. the Abnormal Formal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 24,
+                    "votes": 14,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    As the Normal Formal approaches, Gortimer decides it's finally time to ask Abigail to the dance. But when Stanley happens upon a mysterious love potion and starts trying to playing Cupid, Gortimer's plans unravel.    "
+                },
+                "25": {
+                    "title": "Gortimer vs. the Fault in Our Street",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 25,
+                    "votes": 15,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    After Gortimer receives some devastating news that could separate him from the people he loves the most, Normal Street is beset by a puzzling series of earthquakes. The kids rush to find the source of the tremors before Normal Street literally gets torn apart.    "
+                },
+                "26": {
+                    "title": "Gortimer vs. the End",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 26,
+                    "votes": 28,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    The trio decides to gather all the special items from their old adventures and place them safely in a time capsule. But as they accumulate mementos of their past, doubts set in about their future.    "
+                }
+            },
+            "1": {
+                "0": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 0,
+                    "votes": 38,
+                    "original air date": "6 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    An Amazon Original Pilot: Life is anything but normal for Gortimer and his two best friends, Ranger and Mel, as they navigate Normal Street - an ordinary suburb that has a hint of something magical just beneath the surface. We'd love to know what you thought of this show. Tell us at AmazonOriginals.com.    "
+                },
+                "1": {
+                    "title": "Gortimer vs. The Frog of Ultimate Doom",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 41,
+                    "original air date": "21 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    On the hottest day of summer, Gortimer and his two best friends, Mel and Ranger, discover a way to end the heat by solving a mystery involving an intimidating neighbor and an even more intimidating frog.    "
+                },
+                "2": {
+                    "title": "Gortimer vs. The Mobile of Misfortune",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 35,
+                    "original air date": "21 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    While trying to help the unluckiest kid on Normal Street, Gortimer accidentally jinxes himself with bad luck. Now Gortimer, Mel and Ranger must find a way to set things straight before a wave of misfortune threatens Normal Street's annual Road Rocket Race.    "
+                },
+                "3": {
+                    "title": "Mel vs. the Mel-o-dramatic Robot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 29,
+                    "original air date": "21 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    When Mel worries that her rival is the frontrunner for this year's school science fair, she scrambles to build a project that will blow everyone away.    "
+                },
+                "4": {
+                    "title": "Gortimer and the Mystical Mind Eraser",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 29,
+                    "original air date": "21 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    When Gortimer learns a piece of information he would rather forget, he seeks help from an incredibly chipper but incredibly memory-impaired resident of Normal Street.    "
+                },
+                "5": {
+                    "title": "Gortimer Gets Shushed",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 27,
+                    "original air date": "21 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    The gang races to restore Gortimer's voice, stolen by a mysterious figure driving a ghostly bookmobile that appears on Normal Street for only one day each year.    "
+                },
+                "6": {
+                    "title": "Ranger and the Legend of Pendragon's Gavel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 29,
+                    "original air date": "21 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Shortly after the students elect Mel the president of the student council, she is dethroned after the unlikely Ranger proves himself to be the stuff of legend and becomes The Once and Future Student Council President.    "
+                },
+                "7": {
+                    "title": "Gortimer and the Leaky Dreamcatcher",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 23,
+                    "original air date": "2 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Gortimer keeps having the same strange dream about a frightening underwater encounter -- and his mounting fears are getting in the way of his junior lifeguard training.    "
+                },
+                "8": {
+                    "title": "The Mystery of the Blood Moon Eclipse",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 21,
+                    "original air date": "2 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    To celebrate a rare astronomical event, Mel invites all her friends to a spooky sleepover, complete with ghost stories galore. But when it seems like an actual spirit has crashed the party, they all must hurry to solve the mystery before they become ghost stories themselves.    "
+                },
+                "9": {
+                    "title": "Ranger and the Mysterious Metamorphosis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 20,
+                    "original air date": "2 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    After Ranger accidentally causes havoc at his family's bakery, he flees the scene to avoid getting into trouble, but his growing sense of guilt has an unusual effect.    "
+                },
+                "10": {
+                    "title": "Mel vs. The Fickle Fortune Teller of Fate",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 19,
+                    "original air date": "2 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    When Mel starts consulting a children's fortune teller game for advice on the future, she finds herself attempting to outsmart fate.    "
+                },
+                "11": {
+                    "title": "Gortimer and the Surprise Signature",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 22,
+                    "original air date": "2 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Gortimer's curiosity is piqued when he discovers a mysterious signature. Is it the autograph of a new student at Normal Middle school... or has it been here all along?    "
+                },
+                "12": {
+                    "title": "Gortimer and the Lost Treasure of Normal Street",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 22,
+                    "original air date": "2 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    On his 13th birthday, Ranger and Mel lead Gortimer follow a trail of clues through town to find the fabled lost treasure of Normal Street.    "
+                },
+                "13": {
+                    "title": "Gortimer vs. The Relentless Rainbow of Joy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gortimer Gibbon's Life on Normal Street (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 24,
+                    "original air date": "2 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    With his Dad in town for a short visit, Gortimer goes out of his way to ensure his happiness doesn't fade by creating a rainbow over Normal Street. But once all of the residents start acting unusually happy, Mel and Ranger wonder if he's gone a step too far.    "
+                }
+            }
+        },
+        "number of episodes": 40,
+        "cast": [
+            {
+                "name": "Siegel, Sloane Morgan"
+            },
+            {
+                "name": "Boettcher, Ashley"
+            },
+            {
+                "name": "Justice, Drew"
+            },
+            {
+                "name": "Lively, Robyn"
+            },
+            {
+                "name": "Bloom, David"
+            },
+            {
+                "name": "Kinney, Chandler"
+            },
+            {
+                "name": "Grayson, Coco"
+            },
+            {
+                "name": "Cohen, Ryder"
+            },
+            {
+                "name": "Rhodes, Kim"
+            },
+            {
+                "name": "Marshall, Paula"
+            },
+            {
+                "name": "Matheny, Luke"
+            },
+            {
+                "name": "Sharma, Shaan"
+            },
+            {
+                "name": "Johnson, Bart"
+            },
+            {
+                "name": "Urrea, Noah"
+            },
+            {
+                "name": "Rodriguez, Alyssa Gabrielle"
+            },
+            {
+                "name": "Koldyke, Benjamin"
+            },
+            {
+                "name": "Ruivivar, Anthony"
+            },
+            {
+                "name": "Flanagan, Fionnula"
+            },
+            {
+                "name": "Carboni, Pete"
+            },
+            {
+                "name": "Ridwan, Kenny"
+            },
+            {
+                "name": "Rigoglioso, Julianna"
+            },
+            {
+                "name": "Tigerman, Gabriel"
+            },
+            {
+                "name": "Tran, Kelly Marie"
+            },
+            {
+                "name": "Curda, Glory"
+            },
+            {
+                "name": "Boyce, Rolando"
+            },
+            {
+                "name": "Kirkland, Kelli"
+            },
+            {
+                "name": "Alexander, Isabella"
+            },
+            {
+                "name": "Gunton, Bob"
+            },
+            {
+                "name": "Urbaniak, James"
+            },
+            {
+                "name": "Alexander, Jill E."
+            },
+            {
+                "name": "Avila, Christopher"
+            },
+            {
+                "name": "Wright, Karl T."
+            },
+            {
+                "name": "Brooks, Zylan"
+            },
+            {
+                "name": "Crawford, Layla"
+            },
+            {
+                "name": "Cooper, Brett"
+            },
+            {
+                "name": "Shroyer, Logan"
+            },
+            {
+                "name": "Mulholland, Tracy"
+            },
+            {
+                "name": "Cohen, Cate"
+            },
+            {
+                "name": "Fonteiro, Drew"
+            },
+            {
+                "name": "Ferguson, Keena"
+            },
+            {
+                "name": "Lawson, Anzu"
+            },
+            {
+                "name": "LaCount, Amanda"
+            },
+            {
+                "name": "Pettey, Sedona"
+            },
+            {
+                "name": "Koehler, Frederick"
+            },
+            {
+                "name": "Brotherton, John"
+            },
+            {
+                "name": "Hofmann, Isabella"
+            },
+            {
+                "name": "McKnight, Lauren"
+            },
+            {
+                "name": "Hall, Beth"
+            },
+            {
+                "name": "Walton, David"
+            },
+            {
+                "name": "Barer, Ariela"
+            }
+        ],
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "runtimes": [
+            "23"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color::(ACES)"
+        ],
+        "certificates": [
+            "Singapore:PG",
+            "United States:TV-Y7"
+        ],
+        "number of seasons": 2,
+        "rating": 8.4,
+        "votes": 954,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTYyNTYyNDE3Ml5BMl5BanBnXkFtZTgwODcyNzUxNzE@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Gortimer Gibbon's Life on Normal Street",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Anaxagoras, David"
+            },
+            {
+                "name": "Frawley, Garrett"
+            },
+            {
+                "name": "Turner, Brian"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Picrow"
+            },
+            {
+                "name": "Amazon Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Amazon Instant Video"
+            },
+            {
+                "name": "Amazon Prime Video"
+            },
+            {
+                "name": "Amazon Prime Video"
+            },
+            {
+                "name": "Amazon Prime Video"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "BT Industrial Supply"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Clairmont Camera Film & Digital"
+            },
+            {
+                "name": "Good Dog Animals"
+            },
+            {
+                "name": "LCW Props"
+            },
+            {
+                "name": "Roundabout Entertainment"
+            },
+            {
+                "name": "Varèse Sarabande"
+            }
+        ],
+        "plot": [
+            "Life is anything but normal for Gortimer and his two best friends, Ranger and Mel, as they navigate Normal Street - an ordinary suburb that has a hint of something magical just beneath the surface.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "23 min"
+            ],
+            "color": [
+                "Color (ACES)"
+            ],
+            "camera": [
+                "Sony CineAlta PMW-F55, Cooke S4 Lenses"
+            ],
+            "laboratory": [
+                "Bunte Farben, Los Angeles (CA), USA"
+            ],
+            "negative format": [
+                "AXSM"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (4K) (master format)",
+                "F55 RAW (4K) (source format)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 954,
+                "rating": 8.4
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 9.0
+            },
+            "aged 18 29": {
+                "votes": 114,
+                "rating": 8.2
+            },
+            "aged 30 44": {
+                "votes": 248,
+                "rating": 8.1
+            },
+            "aged 45 plus": {
+                "votes": 182,
+                "rating": 8.1
+            },
+            "males": {
+                "votes": 424,
+                "rating": 8.1
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 9.0
+            },
+            "males aged 18 29": {
+                "votes": 79,
+                "rating": 8.2
+            },
+            "males aged 30 44": {
+                "votes": 177,
+                "rating": 8.0
+            },
+            "males aged 45 plus": {
+                "votes": 122,
+                "rating": 7.9
+            },
+            "females": {
+                "votes": 187,
+                "rating": 8.7
+            },
+            "females aged 18 29": {
+                "votes": 32,
+                "rating": 8.6
+            },
+            "females aged 30 44": {
+                "votes": 71,
+                "rating": 8.3
+            },
+            "females aged 45 plus": {
+                "votes": 57,
+                "rating": 8.7
+            },
+            "top 1000 voters": {
+                "votes": 27,
+                "rating": 6.5
+            },
+            "us users": {
+                "votes": 259,
+                "rating": 8.6
+            },
+            "non us users": {
+                "votes": 182,
+                "rating": 7.6
+            }
+        },
+        "number of votes": {
+            "10": 481,
+            "9": 196,
+            "8": 146,
+            "7": 50,
+            "6": 15,
+            "5": 19,
+            "4": 8,
+            "3": 8,
+            "2": 12,
+            "1": 19
+        },
+        "arithmetic mean": 8.8,
+        "median": 1
+    }
+}
