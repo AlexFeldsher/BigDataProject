@@ -1,0 +1,95 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Finland\n",
+                "date": "14 March 2015"
+            },
+            {
+                "country": "Finland\n",
+                "date": "14 March 2015",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "Finland::14 March 2015",
+            "Finland::14 March 2015                            (internet)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bad Heroes (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "14 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Kulmala, Veikka"
+            },
+            {
+                "name": "Maunu, Niilo"
+            },
+            {
+                "name": "Salmela, Artturi"
+            }
+        ],
+        "locations": [
+            "Tampere, Finland"
+        ],
+        "genres": [
+            "Crime"
+        ],
+        "countries": [
+            "Finland"
+        ],
+        "country codes": [
+            "fi"
+        ],
+        "language codes": [
+            "fi"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "budget": "EUR200 (estimated)",
+        "languages": [
+            "Finnish"
+        ],
+        "title": "Bad Heroes",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "akas": [
+            "Bad Heroes (Finland)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Studio Maunu"
+            }
+        ],
+        "tech": {
+            "sound mix": [
+                "Stereo"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

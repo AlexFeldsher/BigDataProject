@@ -1,0 +1,781 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "18 September 2015"
+            },
+            {
+                "country": "Germany\n",
+                "date": "18 October 2015"
+            },
+            {
+                "country": "France\n",
+                "date": "7 November 2015"
+            }
+        ],
+        "release dates": [
+            "USA::18 September 2015",
+            "Germany::18 October 2015",
+            "France::7 November 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Descendants: Wicked World"
+            },
+            {
+                "countries": "France",
+                "title": "Descendants: Génération méchants"
+            },
+            {
+                "countries": "Germany",
+                "title": "Descendants - Verhexte Welt"
+            },
+            {
+                "countries": "Greece",
+                "title": "Η Επόμενη Γενιά: Κακός Κόσμος"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Utódok: Komisz világ"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Os Descendentes: Wicked World"
+            },
+            {
+                "countries": "Russia",
+                "title": "Наследники: Злодейский мир"
+            },
+            {
+                "countries": "Spain",
+                "title": "Los descendientes: Wicked World"
+            }
+        ],
+        "akas": [
+            "Descendants: Wicked World (original title)",
+            "Descendants: Génération méchants France",
+            "Descendants - Verhexte Welt Germany",
+            "Η Επόμενη Γενιά: Κακός Κόσμος Greece",
+            "Utódok: Komisz világ Hungary",
+            "Os Descendentes: Wicked World Portugal",
+            "Наследники: Злодейский мир Russia",
+            "Los descendientes: Wicked World Spain"
+        ],
+        "akas from release info": [
+            "Descendants: Wicked World (original title)",
+            "Descendants: Génération méchants France",
+            "Descendants - Verhexte Welt Germany",
+            "Η Επόμενη Γενιά: Κακός Κόσμος Greece",
+            "Utódok: Komisz világ Hungary",
+            "Os Descendentes: Wicked World Portugal",
+            "Наследники: Злодейский мир Russia",
+            "Los descendientes: Wicked World Spain"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Slumber Party",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 11,
+                    "original air date": "21 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Odd Mal Out",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 11,
+                    "original air date": "28 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Pair of Sneakers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 12,
+                    "original air date": "4 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Wild Rehearsal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 11,
+                    "original air date": "11 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Chemical Reaction",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 10,
+                    "original air date": "18 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Talking Heads",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 11,
+                    "original air date": "2 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Steal Away",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 10,
+                    "original air date": "9 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Evil Among Us",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 7,
+                    "original air date": "6 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "Options Are Shrinking",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 6,
+                    "original air date": "13 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "Party Crasher",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 7,
+                    "original air date": "20 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "11": {
+                    "title": "Mal-lone",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 8,
+                    "original air date": "27 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "Trapped",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 7,
+                    "original air date": "3 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "13": {
+                    "title": "Face to Face",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 8,
+                    "original air date": "10 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "14": {
+                    "title": "United We Stand",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "original air date": "17 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "15": {
+                    "title": "Jewel-bilee",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "votes": 7,
+                    "original air date": "24 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    The AKs and VKs prepare for Auradon's \"Jewel-bilee\" ceremony!    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Evie's Explosion of Taste",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 22,
+                    "original air date": "18 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    Evie inquires Mal to help her fix the cupcakes she baked for the Heroes and Heroines Festival at Auradon Prep, but their sweet intentions end up going wrong, leading to an explosion of taste.    "
+                },
+                "2": {
+                    "title": "Mal's Digi-Image Problem",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 19,
+                    "original air date": "25 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    Mal gets a bit too carried away whilst painting a portrait of Audrey and Ben tells her that she might have a Digi-image problem, where the photos turn out differently in the photo that had been taken.    "
+                },
+                "3": {
+                    "title": "Audrey's New Do? New Don't!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 18,
+                    "original air date": "2 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Audrey wishes to have an edgy makeover, so she convinces Jane to transform her hair into \"something really out there\" with the use of magic, just like what Mal was able to do to her previously.    "
+                },
+                "4": {
+                    "title": "Careful What You Wish For",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 18,
+                    "original air date": "9 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Everyone seems to be in need of Mal's help. When Jay gives Mal a Golden Lamp which releases Genie's Daughter Jordan, Mal, fed up with everyone's nagging, makes a wish that is more than she bargained for.    "
+                },
+                "5": {
+                    "title": "Voodoo? You Do",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 19,
+                    "original air date": "16 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    After Mal, Evie, Ben and Audrey are transported back to the Isle of the Lost, she tries to get her Auradon friends out of sight before something bad happens to them.    "
+                },
+                "6": {
+                    "title": "Lamp Sweet Lamp",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 20,
+                    "original air date": "23 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Ben and Audrey are unable fit in on the Isle of the Lost compared to Auradon, whilst Mal and Evie bond over their rotten ways with their friend Freddie.    "
+                },
+                "7": {
+                    "title": "Genie Chic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 19,
+                    "original air date": "6 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Jordan forces Mal, Evie, Ben, Audrey and Charlie to follow her \"genie chic\" dress code when they pop into her lamp for a Surprise Visit.    "
+                },
+                "8": {
+                    "title": "Puffed Deliciousness",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 20,
+                    "original air date": "13 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    New at Auradon, Freddie must try to adapt to the place, as well as Mal and Evie's un-rotten ways, but has no trouble getting used to eating the delicious food they have to offer.    "
+                },
+                "9": {
+                    "title": "Good Is the New Bad",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 22,
+                    "original air date": "20 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Auradon's annual singing competition has arrived, and the competition is fierce. When each team tries to outshine the other, they eventually realize that they harmonize better when singing together.    "
+                },
+                "10": {
+                    "title": "Spirit Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 15,
+                    "original air date": "4 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    Spirit Day has arrived at Auradon Prep, but when Mal accidentally ends up chanting a spell instead of a cheer, things don't go as planned.    "
+                },
+                "11": {
+                    "title": "I'm Your Girl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 20,
+                    "original air date": "11 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    Evie proves herself to be quite the chemist fashionista when she helps Lonnie glow during her performance in Jordan's Fashion Show.    "
+                },
+                "12": {
+                    "title": "Mash It Up",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 13,
+                    "original air date": "13 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    The girls are back in Jordan's magic lamp as they plan the theme for the upcoming dance at Auradon Prep.    "
+                },
+                "13": {
+                    "title": "All Hail the New Q.N.L.B.",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 12,
+                    "original air date": "5 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Evie won't shut up about being selected the new Queen of the Neon Lights Ball.    "
+                },
+                "14": {
+                    "title": "Mad for Tea",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 12,
+                    "original air date": "6 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Despite solving multiple dress fiascos, Mal and Evie's good intentions backfire when their help further arises suspicion from the AKs.    "
+                },
+                "15": {
+                    "title": "Carpet Jacked",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 13,
+                    "original air date": "7 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Jay and Carlos fail to show up to pick up the girls, so Jane creates a ride instead.    "
+                },
+                "16": {
+                    "title": "The Night Is Young",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 12,
+                    "original air date": "14 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    When someone cuts the cord to the DJ equipment, Freddie decides to rescue the Neon Lights Ball with her own music.    "
+                },
+                "17": {
+                    "title": "Neon Lights Out",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 12,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    After Jay and Carlos finally arrive to the Neon Lights Ball, C.J., the daughter of Captain Hook, reveals herself as the thief who's been stealing everyone's possessions.    "
+                },
+                "18": {
+                    "title": "Hooked on Ben",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 14,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    C.J. attempts to ruin the Neon Lights Ball and recruit Freddie as a partner in crime.    "
+                },
+                "19": {
+                    "title": "Wish Granted",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 11,
+                    "original air date": "13 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    The girls all pop by into Jordan's Lamp, to plan for the Upcoming Dance at Auradon Prep.    "
+                },
+                "20": {
+                    "title": "Neon Lights Ball",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Descendants: Wicked World (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 12,
+                    "original air date": "15 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    It's almost time for the Neon Lights Ball at Auradon. But when a Mysterious Fire tries to ruin the Evening, it's up for the Villain Kids to find out the Culprit.    "
+                }
+            }
+        },
+        "number of episodes": 35,
+        "cast": [
+            {
+                "name": "Cameron, Dove"
+            },
+            {
+                "name": "Carson, Sofia"
+            },
+            {
+                "name": "Jeffery, Sarah"
+            },
+            {
+                "name": "D'Amico, Brenna"
+            },
+            {
+                "name": "Taherian, Ursula"
+            },
+            {
+                "name": "Veal, Jennifer"
+            },
+            {
+                "name": "McClain, China Anne"
+            },
+            {
+                "name": "Hope, Mitchell"
+            },
+            {
+                "name": "Boyce, Cameron"
+            },
+            {
+                "name": "Stewart, Booboo"
+            },
+            {
+                "name": "Doan, Dianne"
+            },
+            {
+                "name": "Gosavi, Rupesh"
+            },
+            {
+                "name": "McClain, Lauryn Alisa"
+            },
+            {
+                "name": "Perry, Bradley Steven"
+            },
+            {
+                "name": "Velasco, Myrna"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Fantasy"
+        ],
+        "runtimes": [
+            "2"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 2,
+        "rating": 7.2,
+        "votes": 607,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNjk1NTY3Mzk1N15BMl5BanBnXkFtZTgwNjM1MDQ5NjE@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Descendants: Wicked World",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Joseph, Ben"
+            },
+            {
+                "name": "Miranda, Julia"
+            },
+            {
+                "name": "Peterson, Scott"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Bad Angels Productions"
+            },
+            {
+                "name": "Disney Television Animation"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney-ABC Domestic Television"
+            }
+        ],
+        "plot": [
+            "After the coronation, the villain kids, Mal (Dove Cameron), Evie (Sofia Carson), Jay (Booboo Stewart), and Carlos (Cameron Boyce) use their one shot at being good while the dreadful and villainous parents roam the Isle Of The Lost."
+        ],
+        "tech": {
+            "runtime": [
+                "2 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 607,
+                "rating": 7.2
+            },
+            "aged under 18": {
+                "votes": 6,
+                "rating": 6.1
+            },
+            "aged 18 29": {
+                "votes": 176,
+                "rating": 7.3
+            },
+            "aged 30 44": {
+                "votes": 105,
+                "rating": 6.6
+            },
+            "aged 45 plus": {
+                "votes": 33,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 166,
+                "rating": 6.8
+            },
+            "males aged under 18": {
+                "votes": 5,
+                "rating": 5.9
+            },
+            "males aged 18 29": {
+                "votes": 75,
+                "rating": 7.0
+            },
+            "males aged 30 44": {
+                "votes": 49,
+                "rating": 6.0
+            },
+            "males aged 45 plus": {
+                "votes": 20,
+                "rating": 7.4
+            },
+            "females": {
+                "votes": 185,
+                "rating": 7.5
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 18 29": {
+                "votes": 98,
+                "rating": 7.5
+            },
+            "females aged 30 44": {
+                "votes": 55,
+                "rating": 7.2
+            },
+            "females aged 45 plus": {
+                "votes": 11,
+                "rating": 8.0
+            },
+            "top 1000 voters": {
+                "votes": 23,
+                "rating": 6.5
+            },
+            "us users": {
+                "votes": 108,
+                "rating": 7.0
+            },
+            "non us users": {
+                "votes": 104,
+                "rating": 6.8
+            }
+        },
+        "number of votes": {
+            "10": 211,
+            "9": 54,
+            "8": 76,
+            "7": 93,
+            "6": 40,
+            "5": 29,
+            "4": 26,
+            "3": 12,
+            "2": 18,
+            "1": 48
+        },
+        "arithmetic mean": 7.4,
+        "median": 8
+    }
+}

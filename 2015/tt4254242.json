@@ -1,0 +1,1388 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "16 December 2015"
+            },
+            {
+                "country": "Spain\n",
+                "date": "25 January 2016",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Australia\n",
+                "date": "13 May 2016"
+            },
+            {
+                "country": "Germany\n",
+                "date": "30 September 2016"
+            },
+            {
+                "country": "France\n",
+                "date": "4 October 2016"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "7 February 2017"
+            }
+        ],
+        "release dates": [
+            "USA::16 December 2015",
+            "Spain::25 January 2016                            (internet)",
+            "Australia::13 May 2016",
+            "Germany::30 September 2016",
+            "France::4 October 2016",
+            "Netherlands::7 February 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Australia",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Belgium (French title)",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Escola de Magia"
+            },
+            {
+                "countries": "Canada (French title)",
+                "title": "Les Magiciens"
+            },
+            {
+                "countries": "Canada (English title)",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Colombia",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "France",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Germany",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Greece",
+                "title": "Οι μάγοι"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A varázslók"
+            },
+            {
+                "countries": "Indonesia (English title)",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Italy",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Lithuania",
+                "title": "Magai"
+            },
+            {
+                "countries": "Malaysia (English title)",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Netherlands",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Pakistan (English title)",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Philippines (English title)",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Poland",
+                "title": "Czarodzieje"
+            },
+            {
+                "countries": "Poland (alternative title)",
+                "title": "Magicy"
+            },
+            {
+                "countries": "Portugal",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Russia",
+                "title": "Волшебники"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Mađioničari"
+            },
+            {
+                "countries": "Spain",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Sweden",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Switzerland (French title)",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Thailand (English title)",
+                "title": "The Magicians"
+            },
+            {
+                "countries": "Ukraine",
+                "title": "Чарiвники"
+            },
+            {
+                "countries": "USA",
+                "title": "The Magicians"
+            }
+        ],
+        "akas": [
+            "The Magicians (original title)",
+            "The Magicians Australia",
+            "The Magicians Belgium (French title)",
+            "Escola de Magia Brazil",
+            "Les Magiciens Canada (French title)",
+            "The Magicians Canada (English title)",
+            "The Magicians Colombia",
+            "The Magicians France",
+            "The Magicians Germany",
+            "Οι μάγοι Greece",
+            "A varázslók Hungary",
+            "The Magicians Indonesia (English title)",
+            "The Magicians Italy",
+            "Magai Lithuania",
+            "The Magicians Malaysia (English title)",
+            "The Magicians Netherlands",
+            "The Magicians Pakistan (English title)",
+            "The Magicians Philippines (English title)",
+            "Czarodzieje Poland",
+            "Magicy Poland (alternative title)",
+            "The Magicians Portugal",
+            "Волшебники Russia",
+            "Mađioničari Serbia",
+            "The Magicians Spain",
+            "The Magicians Sweden",
+            "The Magicians Switzerland (French title)",
+            "The Magicians Thailand (English title)",
+            "Чарiвники Ukraine",
+            "The Magicians USA"
+        ],
+        "akas from release info": [
+            "The Magicians (original title)",
+            "The Magicians Australia",
+            "The Magicians Belgium (French title)",
+            "Escola de Magia Brazil",
+            "Les Magiciens Canada (French title)",
+            "The Magicians Canada (English title)",
+            "The Magicians Colombia",
+            "The Magicians France",
+            "The Magicians Germany",
+            "Οι μάγοι Greece",
+            "A varázslók Hungary",
+            "The Magicians Indonesia (English title)",
+            "The Magicians Italy",
+            "Magai Lithuania",
+            "The Magicians Malaysia (English title)",
+            "The Magicians Netherlands",
+            "The Magicians Pakistan (English title)",
+            "The Magicians Philippines (English title)",
+            "Czarodzieje Poland",
+            "Magicy Poland (alternative title)",
+            "The Magicians Portugal",
+            "Волшебники Russia",
+            "Mađioničari Serbia",
+            "The Magicians Spain",
+            "The Magicians Sweden",
+            "The Magicians Switzerland (French title)",
+            "The Magicians Thailand (English title)",
+            "Чарiвники Ukraine",
+            "The Magicians USA"
+        ],
+        "episodes": {
+            "4": {
+                "1": {
+                    "title": "A Flock of Lost Birds",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "votes": 239,
+                    "original air date": "23 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    Magic is back in the world, but the library controls it all. Our magicians' memories have been wiped, and they think they are all ordinary people. Eliot, though, is not quite himself, and then an old friend is back with a task for Margo.    "
+                },
+                "2": {
+                    "title": "Lost, Found, Fucked",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "votes": 155,
+                    "original air date": "30 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    Dean Fogg gets a new suit.    "
+                },
+                "3": {
+                    "title": "The Bad News Bear",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "votes": 127,
+                    "original air date": "6 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    Kady gets a puppy; Quentin meets a snake.    "
+                },
+                "4": {
+                    "title": "Marry... Kill",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 4,
+                    "votes": 97,
+                    "original air date": "13 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    Josh gives Margo a muffin; Julia drinks schnapps.    "
+                },
+                "5": {
+                    "title": "Escape from the Happy Place",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 5,
+                    "votes": 35,
+                    "original air date": "20 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "A Timeline and Place",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 6,
+                    "original air date": "27 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "The Side Effect",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 7,
+                    "original air date": "6 Mar. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Home Improvement",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 8,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "The Serpent",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 9,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "All That Hard, Glossy Armor",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 10,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "11": {
+                    "title": "The 4-1-1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 11,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "The Secret Sea",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 12,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "13": {
+                    "title": "Episode #4.13",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 13,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Unauthorized Magic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 1276,
+                    "original air date": "16 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    A smart, geeky and socially awkward young man is amazed to realize that the Magic he's so passionate about is actually real, when he's unexpectedly invited to attend a college of magic in New York.    "
+                },
+                "2": {
+                    "title": "The Source of Magic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 917,
+                    "original air date": "25 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Quentin is distraught as he faces expulsion for his involvement in an otherworldly attack on Brakebills, while Julia delves deeper into underground magic and takes a test to prove herself to the Hedge Witches.    "
+                },
+                "3": {
+                    "title": "Consequences of Advanced Spellcasting",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 793,
+                    "original air date": "1 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Quentin and Julia have an unexpected - and volatile - reunion. Penny is overwhelmed by the power of his own psychic abilities and Alice is determined to find out what happened to her missing brother - at any cost.    "
+                },
+                "4": {
+                    "title": "The World in the Walls",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 845,
+                    "original air date": "8 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Quentin wakes up in a mental hospital and must set his panic aside to seek the help of the one person he least trusts. Julia is hurt after her fallout with Quentin and commits to learning more powerful spells with the Hedge Witches.    "
+                },
+                "5": {
+                    "title": "Mendings, Major and Minor",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 681,
+                    "original air date": "15 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Although everyone should be training for the upcoming Welter's Tournament, the students are each dealing with a personal distraction that keeps them from staying focused.    "
+                },
+                "6": {
+                    "title": "Impractical Applications",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 705,
+                    "original air date": "22 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    The First Years are thrust into the old Brakebills tradition of The Trials, a midterm-slash-hazing ritual in which failing means flunking out for good. Meanwhile, in Brooklyn, Julia meets a fellow blacklisted Hedge Witch.    "
+                },
+                "7": {
+                    "title": "The Mayakovsky Circumstance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 699,
+                    "original air date": "29 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    The students are taught by an overbearing teacher while back at Brakebills Elliott and Margon prepare for a debaucherous vacation.    "
+                },
+                "8": {
+                    "title": "The Strangled Heart",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 608,
+                    "original air date": "7 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Brakebills is thrown into chaos when Penny is violently attacked by someone they thought was a friend while Quentin tries to find a connection to The Beast. After entering a rehab facility, Julia considers giving up magic for good.    "
+                },
+                "9": {
+                    "title": "The Writing Room",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 679,
+                    "original air date": "14 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Quentin, Alice, Eliot and Penny travel to England to Plover's estate in search of a missing magic button, but what they find is a hauntingly terrifying vision of the author's true self. Julia, now out of rehab, searches for real meaning in her magic, but it comes at a very high cost.    "
+                },
+                "10": {
+                    "title": "Homecoming",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 599,
+                    "original air date": "21 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    As Quentin and Alice try to save him, Penny learns that the Neitherlands is not as friendly as he thought. Julia attempts to join the Free Traders, an eclectic group of Magicians.    "
+                },
+                "11": {
+                    "title": "Remedial Battle Magic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 566,
+                    "original air date": "28 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Prior to a showdown in Fillory, Quentin and crew get a crash course in Battle magic. During preparations, frustrations flare leading to some getting closer and others being pulled apart. Julia and Kady, while on a mission with the Free Traders, finds their limits put to the test.    "
+                },
+                "12": {
+                    "title": "Thirty-Nine Graves",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 579,
+                    "original air date": "4 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    The students wake up with foggy memories and regret after a night of drinking; Penny reminds everyone that their lives depend on getting to The Neitherlands.    "
+                },
+                "13": {
+                    "title": "Have You Brought Me Little Cakes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 729,
+                    "original air date": "11 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Quentin and Julia are using time magic to get to Fillory, where they try to catch up with the students who are 70 years ahead of them searching for the Beast.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Knight of Crowns",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 525,
+                    "original air date": "25 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    In the aftermath of their clash with The Beast, Quentin and his friends scramble for a new plan, while Julia and The Beast strike a dangerous deal.    "
+                },
+                "2": {
+                    "title": "Hotel Spa Potions",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 446,
+                    "original air date": "1 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Quentin, Alice, Penny and Margo seek a new weapon. Eliot struggles with being king. Julia and The Beast find an unexpected ally.    "
+                },
+                "3": {
+                    "title": "Divine Elimination",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 586,
+                    "original air date": "8 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Quentin and friends prepare to face The Beast again, while Julia conspires with The Beast and their new ally to lure and trap Reynard.    "
+                },
+                "4": {
+                    "title": "The Flying Forest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 422,
+                    "original air date": "15 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Quentin and Penny embark upon a quest. Margo works on a way to help Eliot. Julia seeks out an old friend's help.    "
+                },
+                "5": {
+                    "title": "Cheat Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 399,
+                    "original air date": "22 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Life without magic proves difficult for Quentin. Julia deals with upsetting news. Eliot and Margo are faced with a new threat in Fillory. Penny returns to old stomping grounds.    "
+                },
+                "6": {
+                    "title": "The Cock Barrens",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 367,
+                    "original air date": "1 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Quentin teams up with Alice's dad. Margo uses her powers of diplomacy while Penny tries to save a kidnapped Fillory. Banishing Renard comes with some surprises.    "
+                },
+                "7": {
+                    "title": "Plan B",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 387,
+                    "original air date": "8 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Julia and Kady enlist Quentin, Margo, Eliot and Penny for a magical heist.    "
+                },
+                "8": {
+                    "title": "Word as Bond",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 349,
+                    "original air date": "15 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Julia, Kady, Penny and Quentin set out to find another spawn of Reynard as Kady struggles to reveal to Julia the consequences of her recent procedure. Quentin reluctantly enlists the help of Alice's Niffin to save the Brakebills gang by creating a word as bond spell with her...but quickly regrets it once realizing its true motives. With a war waging between Fillory and Loria and an unconscious High King Eliot, Julia takes matters into her own hands which puts Fillory, and Margo, in a difficult situation.    "
+                },
+                "9": {
+                    "title": "Lesser Evils",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 371,
+                    "original air date": "22 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Dean Fogg and Professor Lipson attempt to rid Quentin of Alice's Niffin but he refuses to let Alice go. Meanwhile, with magic fading in Fillory, Eliot agrees to a risky duel with King Idri of Loria, in lieu of a war, in the hopes that it will gain the respect of the Fillorians in the process. Julia, Penny and Kady locate Reynard's son in an effort to lure Reynard to them. In the process, Julia uses Quentin in a way that shocks everyone involved, including herself.    "
+                },
+                "10": {
+                    "title": "The Girl Who Told Time",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 356,
+                    "original air date": "29 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    The Royal Court of Fillory prepares for Eliot's nuptials as he endeavors to win over the Fillorians with the extravagant event. Penny begins his contractual obligations to the Neitherlands Library as Kady searches for any information about god killing. Quentin experiences a mind-bending vision while on a drug-laced trip that sends him and Julia on a mysterious quest.    "
+                },
+                "11": {
+                    "title": "The Rattening",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 351,
+                    "original air date": "5 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Quentin and Julia travel to the Underworld. Margo must deal with the fallout of her past decisions. Senator Gaines learns of his gift. Penny is determined to enter the Poison Room.    "
+                },
+                "12": {
+                    "title": "Ramifications",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 367,
+                    "original air date": "12 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Alice and her shade are reassembled. Julia and Kady are determined to draw out Reynard. Elliot and Quentin are determined to return back to Fillory. Penny searches for a book.    "
+                },
+                "13": {
+                    "title": "We Have Brought You Little Cakes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 381,
+                    "original air date": "19 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    A crisis comes to a head when the true power behind the troubles comes to party. Battles are won and wars are lost, as Q and the others must protect their kingdom. Alice makes a startling revelation and things may never be the same.    "
+                }
+            },
+            "3": {
+                "1": {
+                    "title": "The Tales of the Seven Keys",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 447,
+                    "original air date": "10 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    After the magic shutdown after the events on last season, the characters must go on a quest in order to restore magic.    "
+                },
+                "2": {
+                    "title": "Heroes and Morons",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 397,
+                    "original air date": "17 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Eliot embarks on a quest. Quentin, Kady, and Josh continue their search for magic.    "
+                },
+                "3": {
+                    "title": "The Losses of Magic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 383,
+                    "original air date": "24 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Quentin, Alice and her parents must deal with a Lamprey. Kady and Julia summon a demon to save Penny. A band of pirates capture Eliot's boat.    "
+                },
+                "4": {
+                    "title": "Be the Penny",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 530,
+                    "original air date": "31 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Penny is stuck in the astral plane, and helplessly observes as Eliot and his family are being hunted by cannibals in the Neitherlands and his friends at Brakebills dealing with his passing.    "
+                },
+                "5": {
+                    "title": "A Life in the Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 777,
+                    "original air date": "7 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Julia helps Alice navigate a personal crisis as Quentin and Eliot go on an adventure.    "
+                },
+                "6": {
+                    "title": "Do You Like Teeth?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 348,
+                    "original air date": "14 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Quentin faces his most formidable foe yet as Julia helps Alice with a dangerous endeavor.    "
+                },
+                "7": {
+                    "title": "Poached Eggs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 336,
+                    "original air date": "21 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Margo makes a bold stand against the Fairy Queen. Quentin and Penny try to retrieve a lost item.    "
+                },
+                "8": {
+                    "title": "Six Short Stories About Magic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 427,
+                    "original air date": "28 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Julia and Fen investigate a dangerous group of Magicians as Eliot and Margo's reign is challenged.    "
+                },
+                "9": {
+                    "title": "All That Josh",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 616,
+                    "original air date": "7 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Quentin, Kady and Alice try to convince an old friend to return home.    "
+                },
+                "10": {
+                    "title": "The Art of the Deal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 330,
+                    "original air date": "14 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Quentin and Alice search the castle for an important object while Julia and Fen work with an enemy.    "
+                },
+                "11": {
+                    "title": "Twenty-Three",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 11,
+                    "votes": 376,
+                    "original air date": "21 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    The group strategizes as Josh and Julia travel to a familiar place and are given a chance to help.    "
+                },
+                "12": {
+                    "title": "The Fillorian Candidate",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 12,
+                    "votes": 384,
+                    "original air date": "28 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    The political situation in Fillory comes to a head. Julia makes amends and Alice makes a confession.    "
+                },
+                "13": {
+                    "title": "Will You Play with Me?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Magicians (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 13,
+                    "votes": 463,
+                    "original air date": "4 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    The group finds what they're looking for and attempt once and for all to get magic back.    "
+                }
+            }
+        },
+        "number of episodes": 52,
+        "cast": [
+            {
+                "name": "Ralph, Jason"
+            },
+            {
+                "name": "Maeve, Stella"
+            },
+            {
+                "name": "Appleman, Hale"
+            },
+            {
+                "name": "Gupta, Arjun"
+            },
+            {
+                "name": "Bishil, Summer"
+            },
+            {
+                "name": "Dudley, Olivia Taylor"
+            },
+            {
+                "name": "Tailor, Jade"
+            },
+            {
+                "name": "Worthy, Rick"
+            },
+            {
+                "name": "Curran, Brittany"
+            },
+            {
+                "name": "Manji, Rizwan"
+            },
+            {
+                "name": "Einhorn, Trevor"
+            },
+            {
+                "name": "Astin, Mackenzie"
+            },
+            {
+                "name": "Rohl, Kacey"
+            },
+            {
+                "name": "Tovah, Mageina"
+            },
+            {
+                "name": "Tracy, Keegan Connor"
+            },
+            {
+                "name": "Osuna, Sergio"
+            },
+            {
+                "name": "Cayne, Candis"
+            },
+            {
+                "name": "DiMarco, Adam"
+            },
+            {
+                "name": "Edwards, Miranda"
+            },
+            {
+                "name": "Paroo, Zahf"
+            },
+            {
+                "name": "Mesure, Charles"
+            },
+            {
+                "name": "Liston, Rose"
+            },
+            {
+                "name": "Guillen, Harvey"
+            },
+            {
+                "name": "Levien, Hannah"
+            },
+            {
+                "name": "Matlin, Marlee"
+            },
+            {
+                "name": "Newman, Jaime Ray"
+            },
+            {
+                "name": "Dudek, Anne"
+            },
+            {
+                "name": "Bianco, Esmé"
+            },
+            {
+                "name": "Beauvais, Garcelle"
+            },
+            {
+                "name": "Escarpeta, Arlen"
+            },
+            {
+                "name": "Arthur, Madeleine"
+            },
+            {
+                "name": "Nemes, Daniel"
+            },
+            {
+                "name": "Charlton, Bobbi"
+            },
+            {
+                "name": "Hogan, Fiona"
+            },
+            {
+                "name": "Call, David"
+            },
+            {
+                "name": "Cassidy, Michael"
+            },
+            {
+                "name": "Roberts, Leonard"
+            },
+            {
+                "name": "Burgess, Dominic"
+            },
+            {
+                "name": "Curtis, Roan"
+            },
+            {
+                "name": "Shea, Everrett"
+            },
+            {
+                "name": "Witschl, Nikolai"
+            },
+            {
+                "name": "Reid, Jesse"
+            },
+            {
+                "name": "Shaughnessy, Charles"
+            },
+            {
+                "name": "Hoag, Judith"
+            },
+            {
+                "name": "Meyer, Dina"
+            },
+            {
+                "name": "Amandes, Tom"
+            },
+            {
+                "name": "Miller, Abby"
+            },
+            {
+                "name": "Garrett, Spencer"
+            },
+            {
+                "name": "Wright, Tom"
+            },
+            {
+                "name": "Savcic, Anja"
+            }
+        ],
+        "locations": [
+            "Vancouver, British Columbia, Canada",
+            "British Columbia, Canada",
+            "New Orleans, Louisiana, USA::(Pilot)",
+            "8275 Manitoba Street, Vancouver, British Columbia, Canada::(studio)"
+        ],
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Australia:MA15+",
+            "Canada:14A::(Manitoba)",
+            "Canada:13+::(Quebec)",
+            "France:10",
+            "Germany:16",
+            "Netherlands:9",
+            "Singapore:M18",
+            "South Africa:16",
+            "Spain:16",
+            "United Kingdom:15::(some episodes)",
+            "United Kingdom:18::(some episodes)",
+            "United States:TV-14",
+            "United States:TV-MA"
+        ],
+        "number of seasons": 4,
+        "rating": 7.6,
+        "votes": 33238,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMDhjY2JjNjYtYzU0OS00NGViLWE1YWEtNjcxYWM5ZWYxODZlXkEyXkFqcGdeQXVyNDE5ODIyNDk@._V1_SX101_CR0,0,101,150_.jpg",
+        "plot outline": "After being recruited to a secretive academy, a group of students discover that the magic they read about as children is very real and more dangerous than they ever imagined. But will getting hooked on the thrill of magic distract them from honing their powers when they need them most?",
+        "languages": [
+            "English"
+        ],
+        "title": "The Magicians",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "writer": [
+            {
+                "name": "Fong, Leah"
+            },
+            {
+                "name": "Gamble, Sera"
+            },
+            {
+                "name": "Gard, Jay"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Groundswell Productions"
+            },
+            {
+                "name": "NBC Universal Television"
+            },
+            {
+                "name": "Universal Cable Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Syfy"
+            },
+            {
+                "name": "Amazon Prime Video"
+            },
+            {
+                "name": "Sixx"
+            },
+            {
+                "name": "Spike"
+            },
+            {
+                "name": "Syfy"
+            },
+            {
+                "name": "Syfy"
+            },
+            {
+                "name": "Universal Pictures Home Entertainment (UPHE)"
+            },
+            {
+                "name": "Universal Pictures Home Entertainment (UPHE)"
+            },
+            {
+                "name": "Universal Pictures"
+            },
+            {
+                "name": "Universal Pictures"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "CVD VFX"
+            },
+            {
+                "name": "MFX"
+            },
+            {
+                "name": "Pixel Light Effects"
+            },
+            {
+                "name": "Rodeo FX"
+            },
+            {
+                "name": "Rodeo FX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aion Art Gallery"
+            },
+            {
+                "name": "Artifex Studios"
+            },
+            {
+                "name": "Canada Film Capital"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Fall On Your Sword"
+            },
+            {
+                "name": "Finale Post Production"
+            },
+            {
+                "name": "Greenhaus GFX"
+            },
+            {
+                "name": "MTI Film"
+            },
+            {
+                "name": "Marshall/Plumb Research Associates"
+            },
+            {
+                "name": "Soundtrack New York"
+            }
+        ],
+        "plot": [
+            "After being recruited to a secretive academy, a group of students discover that the magic they read about as children is very real-and more dangerous than they ever imagined.",
+            "After being recruited to a secretive academy, a group of students discover that the magic they read about as children is very real and more dangerous than they ever imagined. But will getting hooked on the thrill of magic distract them from honing their powers when they need them most?"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Leica Summicron-C Lenses"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 33238,
+                "rating": 7.6
+            },
+            "aged under 18": {
+                "votes": 62,
+                "rating": 8.1
+            },
+            "aged 18 29": {
+                "votes": 8337,
+                "rating": 7.7
+            },
+            "aged 30 44": {
+                "votes": 9250,
+                "rating": 7.4
+            },
+            "aged 45 plus": {
+                "votes": 3381,
+                "rating": 7.3
+            },
+            "males": {
+                "votes": 15230,
+                "rating": 7.5
+            },
+            "males aged under 18": {
+                "votes": 42,
+                "rating": 7.6
+            },
+            "males aged 18 29": {
+                "votes": 5218,
+                "rating": 7.7
+            },
+            "males aged 30 44": {
+                "votes": 5865,
+                "rating": 7.3
+            },
+            "males aged 45 plus": {
+                "votes": 2234,
+                "rating": 7.2
+            },
+            "females": {
+                "votes": 8378,
+                "rating": 7.6
+            },
+            "females aged under 18": {
+                "votes": 17,
+                "rating": 8.6
+            },
+            "females aged 18 29": {
+                "votes": 2985,
+                "rating": 7.6
+            },
+            "females aged 30 44": {
+                "votes": 3236,
+                "rating": 7.6
+            },
+            "females aged 45 plus": {
+                "votes": 1092,
+                "rating": 7.6
+            },
+            "top 1000 voters": {
+                "votes": 156,
+                "rating": 6.1
+            },
+            "us users": {
+                "votes": 5306,
+                "rating": 7.8
+            },
+            "non us users": {
+                "votes": 9543,
+                "rating": 7.2
+            }
+        },
+        "number of votes": {
+            "10": 8555,
+            "9": 5354,
+            "8": 7901,
+            "7": 5057,
+            "6": 2505,
+            "5": 1421,
+            "4": 720,
+            "3": 498,
+            "2": 397,
+            "1": 830
+        },
+        "arithmetic mean": 7.8,
+        "median": 8
+    }
+}

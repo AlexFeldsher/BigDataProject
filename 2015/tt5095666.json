@@ -1,0 +1,107 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "10 October 2015"
+            },
+            {
+                "country": "USA\n",
+                "date": "12 October 2015",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::10 October 2015",
+            "USA::12 October 2015                            (internet)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Part 1: Birth of a Bender",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tim the Terrible (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "10 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Tim faces a venomous foe.    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Olson, McCrae"
+            },
+            {
+                "name": "Degnan, Daniel"
+            },
+            {
+                "name": "Stifter, Josh"
+            },
+            {
+                "name": "Hallenbeck, Mike"
+            }
+        ],
+        "genres": [
+            "Animation"
+        ],
+        "runtimes": [
+            "4"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTcyOTI0ODA0Nl5BMl5BanBnXkFtZTgwNzk1ODIwNzE@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Tim the Terrible",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "akas": [
+            "Tim the Terrible (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Degnan, Daniel"
+            },
+            {
+                "name": "Stifter, Josh"
+            }
+        ],
+        "plot": [
+            "A drunken barbarian stumbles his way through a land of Demigods, monsters, and other crazy creatures.::Flush Studios"
+        ],
+        "tech": {
+            "runtime": [
+                "4 min"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

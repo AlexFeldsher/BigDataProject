@@ -1,0 +1,332 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "21 January 2015"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "22 July 2016"
+            }
+        ],
+        "release dates": [
+            "USA::21 January 2015",
+            "Sweden::22 July 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Best New Restaurant"
+            },
+            {
+                "countries": "Finland",
+                "title": "Amerikan paras ravintola"
+            },
+            {
+                "countries": "Sweden",
+                "title": "America's best new restaurant"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "America's Best Restaurant"
+            }
+        ],
+        "akas": [
+            "Best New Restaurant (original title)",
+            "Amerikan paras ravintola Finland",
+            "America's best new restaurant Sweden",
+            "America's Best Restaurant USA (working title)"
+        ],
+        "akas from release info": [
+            "Best New Restaurant (original title)",
+            "Amerikan paras ravintola Finland",
+            "America's best new restaurant Sweden",
+            "America's Best Restaurant USA (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Italian Cuisine",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Best New Restaurant (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "21 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Two delectable new restaurants serving Italian cuisine face off in three daunting challenges. Doma in Beverly Hills features Italian food with a global twist while the team at Dolce Italian in South Beach is dedicated to serving authentic Italian dishes. Service is the key to success in this episode where Doma's veteran waiter Igor puts on a show at every meal and Dolce's general manager Dean has hospitality in his genes.    "
+                },
+                "2": {
+                    "title": "Shared Plates",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Best New Restaurant (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "28 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Two innovative restaurants making waves with their shared plates concepts face off. Miami's The Federal is run by a powerhouse couple who put their life savings into the restaurant. In Austin, Swift's Attic is the creative brainchild of an experienced culinary dream team.    "
+                },
+                "3": {
+                    "title": "New Service Concepts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Best New Restaurant (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "4 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Two restaurants specializing in unique service models face off. The Church Key in Los Angeles entertains diners with its dim sum and drink carts, while Restaurant Jezebel in Austin promises customized menus for its diners. Will the restaurants live up to their creative concepts?    "
+                },
+                "4": {
+                    "title": "Operated by Couples",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Best New Restaurant (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "11 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    R House in Miami features globally inspired cuisine. Barlata Tapas Bar specializes in authentic Spanish cuisine to Austin.    "
+                },
+                "5": {
+                    "title": "Battle of the Burger",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Best New Restaurant (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "18 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Two restaurants nationally known for their amazing burgers face off. Porter Ale House in Austin has curated one of the best beer menus in the state.Tongue & Cheek in Miami has become famous for its delicious dishes and craft cocktails.    "
+                },
+                "6": {
+                    "title": "European Inspired",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Best New Restaurant (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "25 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Two restaurants serving European fare tangle in a food fight. Included: a married couple's French-inspired bistro in California.    "
+                },
+                "7": {
+                    "title": "Fast Casual Dining",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Best New Restaurant (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "4 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Two restaurants specializing in high-end cuisine in a casual atmosphere battle it out. Morgan's BBQ was created by two longtime friends and serves up authentic Texas barbecue in the heart of Brooklyn. Miami trendsetter Buns & Buns is winning fans over with globally-inspired, high-quality ingredients, dishes and specialty breads. Seasoning proves to be a challenge at both restaurants as they push out fancy yet fast food.    "
+                },
+                "8": {
+                    "title": "Seasonal Menus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Best New Restaurant (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "11 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Two restaurants with intimate dining rooms, seasonal menus and a passion for nose-to-tail cooking face off. The Pines from Brooklyn, New York is run by a young crew with serious chops. Across the country in Pasadena, California, a veteran chef is drawing diners with his seasonal Italian menu.    "
+                },
+                "9": {
+                    "title": "Semifinal Round 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Best New Restaurant (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "18 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Four winning restaurants return to compete in the semifinals, but they are in for a twist when they find out the semifinal round in reality started weeks ago when secret diners were sent to investigate all of the restaurants. It is sudden death as two restaurants are eliminated from the competition on the spot while the remaining two are tasked to create pop-up restaurants representing the next evolution of their concepts in 24 hours.    "
+                },
+                "10": {
+                    "title": "Semifinal Round 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Best New Restaurant (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "25 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    In the second semifinal round, the remaining four winning restaurants arrive to discover the competition has already commenced as a new group of secret diners visited all of the restaurants. In a second round of immediate elimination, two restaurants are sent home from the competition on the spot while the remaining two are given 24 hours to create pop-up restaurants representing the next evolution of their concepts.    "
+                },
+                "11": {
+                    "title": "Finale",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Best New Restaurant (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "1 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    The competition to find the Best New Restaurant comes to a head as the last two restaurants standing face off. Each visits their competition to experience a dinner service and see what tricks the other is bringing to the table. Back in New York, both establishments do battle at Tom Colicchio's restaurant River Park and serve their best 4 course meals to a room packed full of VIP diners. In the end, one restaurant will win $100,000, an editorial feature in Bon Appétit, a featured spot at America's number one global food festival, Vegas Uncork'd by Bon Appétit 2015, and...    "
+                }
+            }
+        },
+        "number of episodes": 11,
+        "cast": [
+            {
+                "name": "Colicchio, Tom"
+            },
+            {
+                "name": "Nemser, Maggie"
+            },
+            {
+                "name": "Lanzillotta, Aldo"
+            },
+            {
+                "name": "Couture, Ashley"
+            }
+        ],
+        "genres": [
+            "Game-Show",
+            "Reality-TV"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 5.7,
+        "votes": 39,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTQ1ODY5ODU4M15BMl5BanBnXkFtZTgwNjgyNjkyNTE@._V1_SY150_CR49,0,101,150_.jpg",
+        "plot outline": "A food competition series that travels across the country and tackles the food world from a wholly different direction: the restaurants. Sixteen of the nation's best restaurants, representing all variety of cuisines, will compete against each other on their own turf to find out who truly provides the best all-around, top-to-bottom restaurant experience and deserves to be crowned as the Best New Restaurant.",
+        "title": "Best New Restaurant",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "One Potato Two Potato"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Bravo!"
+            },
+            {
+                "name": "Bravo!"
+            }
+        ],
+        "plot": [
+            "A food competition series that travels across the country and tackles the food world from a wholly different direction: the restaurants. Sixteen of the nation's best restaurants, representing all variety of cuisines, will compete against each other on their own turf to find out who truly provides the best all-around, top-to-bottom restaurant experience and deserves to be crowned as the _Best New Restaurant_ (qv).::Bravo!"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 39,
+                "rating": 5.7
+            },
+            "aged 18 29": {
+                "votes": 7,
+                "rating": 6.1
+            },
+            "aged 30 44": {
+                "votes": 12,
+                "rating": 4.2
+            },
+            "aged 45 plus": {
+                "votes": 14,
+                "rating": 4.6
+            },
+            "males": {
+                "votes": 18,
+                "rating": 4.0
+            },
+            "males aged 18 29": {
+                "votes": 2,
+                "rating": 4.0
+            },
+            "males aged 30 44": {
+                "votes": 8,
+                "rating": 3.2
+            },
+            "males aged 45 plus": {
+                "votes": 8,
+                "rating": 4.9
+            },
+            "females": {
+                "votes": 14,
+                "rating": 6.5
+            },
+            "females aged 18 29": {
+                "votes": 5,
+                "rating": 7.2
+            },
+            "females aged 30 44": {
+                "votes": 4,
+                "rating": 6.8
+            },
+            "females aged 45 plus": {
+                "votes": 5,
+                "rating": 5.3
+            },
+            "top 1000 voters": {
+                "votes": 5,
+                "rating": 4.8
+            },
+            "us users": {
+                "votes": 13,
+                "rating": 5.1
+            },
+            "non us users": {
+                "votes": 16,
+                "rating": 3.9
+            }
+        },
+        "number of votes": {
+            "10": 7,
+            "9": 2,
+            "8": 0,
+            "7": 8,
+            "6": 5,
+            "5": 3,
+            "4": 6,
+            "3": 0,
+            "2": 2,
+            "1": 6
+        },
+        "arithmetic mean": 5.7,
+        "median": 6
+    }
+}

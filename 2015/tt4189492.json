@@ -1,0 +1,863 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "14 January 2015"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "17 August 2015"
+            },
+            {
+                "country": "Germany\n",
+                "date": "3 August 2016"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "21 September 2016"
+            }
+        ],
+        "release dates": [
+            "USA::14 January 2015",
+            "Sweden::17 August 2015",
+            "Germany::3 August 2016",
+            "Netherlands::21 September 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Man Seeking Woman"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Úr keres hölgyet"
+            },
+            {
+                "countries": "Russia",
+                "title": "Мужчина ищет женщину"
+            },
+            {
+                "countries": "USA",
+                "title": "Man Seeking Woman"
+            }
+        ],
+        "akas": [
+            "Man Seeking Woman (original title)",
+            "Úr keres hölgyet Hungary",
+            "Мужчина ищет женщину Russia",
+            "Man Seeking Woman USA"
+        ],
+        "akas from release info": [
+            "Man Seeking Woman (original title)",
+            "Úr keres hölgyet Hungary",
+            "Мужчина ищет женщину Russia",
+            "Man Seeking Woman USA"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "Futon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 139,
+                    "original air date": "4 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Josh and Lucy fall in love but struggle with their living situation.    "
+                },
+                "2": {
+                    "title": "Ranch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 88,
+                    "original air date": "11 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Patti's infatuation with Josh and Lucy gets a little too intense.    "
+                },
+                "3": {
+                    "title": "Horse",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 93,
+                    "original air date": "18 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Lucy attempts to forge a relationship with Josh's best friend Mike.    "
+                },
+                "4": {
+                    "title": "Popcorn",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 98,
+                    "original air date": "25 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Lucy is horrified when Josh befriends her parents.    "
+                },
+                "5": {
+                    "title": "Shrimp",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 92,
+                    "original air date": "1 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    When Lucy's career takes off, Josh fears being left behind. Written by Jason Belleville; directed by Andy DeYoung.    "
+                },
+                "6": {
+                    "title": "Pad Thai",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 85,
+                    "original air date": "8 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    An exciting flirtation causes Lucy to question her relationship with Josh.    "
+                },
+                "7": {
+                    "title": "Bagel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 87,
+                    "original air date": "15 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Josh tries to pull off the perfect proposal.    "
+                },
+                "8": {
+                    "title": "Dolphin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 76,
+                    "original air date": "22 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Liz make partner in her firm but her parent just excited for Josh's wedding.    "
+                },
+                "9": {
+                    "title": "Cake",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 67,
+                    "original air date": "1 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Josh lets Mike throw him a bachelor party and soon comes to regret it.    "
+                },
+                "10": {
+                    "title": "Blood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 78,
+                    "original air date": "8 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Josh and Lucy get married.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Lizard",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 484,
+                    "original air date": "14 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    A naive romantic goes on a desperate quest for love when his longtime girlfriend dumps him.    "
+                },
+                "2": {
+                    "title": "Traib",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 282,
+                    "original air date": "21 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Josh agonizes over how to ask Laura out to dinner in a text message. She later agrees to dinner, however their first date does not go well.    "
+                },
+                "3": {
+                    "title": "Pitbull",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 230,
+                    "original air date": "28 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Josh and Mike have a wild night out.    "
+                },
+                "4": {
+                    "title": "Dram",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 230,
+                    "original air date": "4 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Josh goes to extreme lengths to avoid Maude.    "
+                },
+                "5": {
+                    "title": "Sizzurp",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 249,
+                    "original air date": "11 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    A beautiful woman expresses interest in Josh. It could be a miracle or something else entirely.    "
+                },
+                "6": {
+                    "title": "Gavel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 202,
+                    "original air date": "18 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Josh quickly determines that his new girlfriend is great for him.    "
+                },
+                "7": {
+                    "title": "Stain",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 189,
+                    "original air date": "25 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Mike and Josh are invited to a destination wedding.    "
+                },
+                "8": {
+                    "title": "Branzino",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 170,
+                    "original air date": "4 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Josh is convinced that he has found his one true love; he's not moving too quickly at all.    "
+                },
+                "9": {
+                    "title": "Teacup",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 188,
+                    "original air date": "11 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Liz struggles to move on after being dumped.    "
+                },
+                "10": {
+                    "title": "Scepter",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 182,
+                    "original air date": "18 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Josh tries to get Maggie back.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Wings",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 192,
+                    "original air date": "6 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Josh has been spending all of his time with his new girlfriend and Mike resents him.    "
+                },
+                "2": {
+                    "title": "Feather",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 161,
+                    "original air date": "13 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Josh's girlfriend \"can't get no satisfaction\" even though he tries and he tries (and he tries).    "
+                },
+                "3": {
+                    "title": "Scythe",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 144,
+                    "original air date": "20 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Josh becomes desperate and decides to settle.    "
+                },
+                "4": {
+                    "title": "Tinsel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 160,
+                    "original air date": "27 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Liz finds herself drawn to a man that is currently unavailable.    "
+                },
+                "5": {
+                    "title": "Card",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 122,
+                    "original air date": "3 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Josh struggles with a difficult career choice.    "
+                },
+                "6": {
+                    "title": "Honey",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 128,
+                    "original air date": "10 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Josh tries to prove to Rosa that he's a better option than her current boyfriend.    "
+                },
+                "7": {
+                    "title": "Cactus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 106,
+                    "original air date": "17 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Josh finally makes a move on Rosa.    "
+                },
+                "8": {
+                    "title": "Fuse",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 99,
+                    "original air date": "24 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Josh struggles to be cool with Mike and Rosa's newfound romance.    "
+                },
+                "9": {
+                    "title": "Eel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 110,
+                    "original air date": "2 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Rosa feels Mike is becoming too clingy.    "
+                },
+                "10": {
+                    "title": "Balloon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man Seeking Woman (TV Series 2015–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 115,
+                    "original air date": "9 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Josh gets his chance to be with Rosa.    "
+                }
+            }
+        },
+        "number of episodes": 30,
+        "cast": [
+            {
+                "name": "Baruchel, Jay"
+            },
+            {
+                "name": "André, Eric"
+            },
+            {
+                "name": "Lower, Britt"
+            },
+            {
+                "name": "Duke, Robin"
+            },
+            {
+                "name": "McKinney, Mark"
+            },
+            {
+                "name": "Erskine, Maya"
+            },
+            {
+                "name": "Findlay, Katie"
+            },
+            {
+                "name": "Pangman, Jeff"
+            },
+            {
+                "name": "Salazar, Rosa"
+            },
+            {
+                "name": "Esmer, Ennis"
+            },
+            {
+                "name": "Lowe, Jessica"
+            },
+            {
+                "name": "Escola, Cole"
+            },
+            {
+                "name": "White, Julie"
+            },
+            {
+                "name": "Moses, Mark"
+            },
+            {
+                "name": "Young, Ramona"
+            },
+            {
+                "name": "Duran, Dan"
+            },
+            {
+                "name": "Bailey, Jon"
+            },
+            {
+                "name": "Moran, Alice"
+            },
+            {
+                "name": "Neayem, Jacob"
+            },
+            {
+                "name": "Rose, Jessica"
+            },
+            {
+                "name": "Mustafa, Ron"
+            },
+            {
+                "name": "Niebergall, Adam"
+            },
+            {
+                "name": "Hassan, Ali"
+            },
+            {
+                "name": "Caputo, Anthony"
+            },
+            {
+                "name": "Bayer, Vanessa"
+            },
+            {
+                "name": "Fisher, Miles"
+            },
+            {
+                "name": "Armisen, Fred"
+            },
+            {
+                "name": "Mader, Justin"
+            },
+            {
+                "name": "Berhe, Getenesh"
+            },
+            {
+                "name": "Lamport, Michael"
+            },
+            {
+                "name": "Stewart, Caitlin"
+            },
+            {
+                "name": "Ampudia, Alejandro"
+            },
+            {
+                "name": "McGuire, Paul"
+            },
+            {
+                "name": "Jones, Paul"
+            },
+            {
+                "name": "Finn, Kevin John"
+            },
+            {
+                "name": "Robertson, Gord"
+            },
+            {
+                "name": "Anderson, Scott"
+            },
+            {
+                "name": "Rebucas, Adrian"
+            },
+            {
+                "name": "Dubsky, Jonathan"
+            },
+            {
+                "name": "Molina, Jorge"
+            },
+            {
+                "name": "Ross, Ashley"
+            },
+            {
+                "name": "Robbins, Jordan Claire"
+            },
+            {
+                "name": "Guitard, Raeanna"
+            },
+            {
+                "name": "Balaban, Liane"
+            },
+            {
+                "name": "Gadon, Sarah"
+            },
+            {
+                "name": "Giles, Peter"
+            },
+            {
+                "name": "Heidecker, Tim"
+            },
+            {
+                "name": "Kelly, Minka"
+            },
+            {
+                "name": "Konkle, Anna"
+            },
+            {
+                "name": "Lucas, Matt"
+            }
+        ],
+        "locations": [
+            "Toronto, Ontario, Canada",
+            "Revival 629, 629 Eastern Avenue, Toronto, Ontario, Canada::(Stage)"
+        ],
+        "genres": [
+            "Comedy",
+            "Fantasy",
+            "Romance"
+        ],
+        "runtimes": [
+            "21"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Netherlands:9",
+            "United States:TV-MA"
+        ],
+        "number of seasons": 3,
+        "rating": 7.7,
+        "votes": 8510,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjA0MzQxODM2Ml5BMl5BanBnXkFtZTgwODExNDI2NzE@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Man Seeking Woman",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-2017",
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "writer": [
+            {
+                "name": "Rich, Simon"
+            },
+            {
+                "name": "Mirk, Dan"
+            },
+            {
+                "name": "Alvarez, Sofia"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Broadway Video"
+            },
+            {
+                "name": "Allagash Industries"
+            },
+            {
+                "name": "FX Productions"
+            },
+            {
+                "name": "Canada Film Capital"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "FXX Network"
+            },
+            {
+                "name": "Comedy Central"
+            },
+            {
+                "name": "TNT Comedy"
+            },
+            {
+                "name": "TV6"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Mavericks VFX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "CW Sonderoptic"
+            },
+            {
+                "name": "Canada Film Capital"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Digital Kitchen"
+            },
+            {
+                "name": "Entertainment Partners Canada"
+            },
+            {
+                "name": "LRX Lighting"
+            },
+            {
+                "name": "The Rights Company"
+            }
+        ],
+        "plot": [
+            "A naive romantic goes on a desperate quest for love when his longtime girlfriend dumps him."
+        ],
+        "tech": {
+            "runtime": [
+                "21 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Arri Alexa",
+                "Leica Summilux-C lenses"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 8510,
+                "rating": 7.7
+            },
+            "aged under 18": {
+                "votes": 7,
+                "rating": 8.4
+            },
+            "aged 18 29": {
+                "votes": 2487,
+                "rating": 8.0
+            },
+            "aged 30 44": {
+                "votes": 3257,
+                "rating": 7.6
+            },
+            "aged 45 plus": {
+                "votes": 618,
+                "rating": 6.7
+            },
+            "males": {
+                "votes": 5344,
+                "rating": 7.8
+            },
+            "males aged under 18": {
+                "votes": 5,
+                "rating": 8.3
+            },
+            "males aged 18 29": {
+                "votes": 1914,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 2600,
+                "rating": 7.7
+            },
+            "males aged 45 plus": {
+                "votes": 479,
+                "rating": 6.7
+            },
+            "females": {
+                "votes": 1351,
+                "rating": 7.2
+            },
+            "females aged under 18": {
+                "votes": 2,
+                "rating": 8.5
+            },
+            "females aged 18 29": {
+                "votes": 535,
+                "rating": 7.6
+            },
+            "females aged 30 44": {
+                "votes": 611,
+                "rating": 7.0
+            },
+            "females aged 45 plus": {
+                "votes": 128,
+                "rating": 6.6
+            },
+            "top 1000 voters": {
+                "votes": 95,
+                "rating": 5.7
+            },
+            "us users": {
+                "votes": 1911,
+                "rating": 7.8
+            },
+            "non us users": {
+                "votes": 3103,
+                "rating": 7.5
+            }
+        },
+        "number of votes": {
+            "10": 1980,
+            "9": 1683,
+            "8": 2267,
+            "7": 1121,
+            "6": 401,
+            "5": 254,
+            "4": 147,
+            "3": 114,
+            "2": 139,
+            "1": 404
+        },
+        "arithmetic mean": 7.8,
+        "median": 8
+    }
+}

@@ -1,0 +1,563 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Chile\n",
+                "date": "  2015"
+            },
+            {
+                "country": "Colombia\n",
+                "date": "7 December 2015",
+                "notes": "                            (release date)"
+            },
+            {
+                "country": "Chile\n",
+                "date": "23 April 2016",
+                "notes": "                            (release date)"
+            },
+            {
+                "country": "Brazil\n",
+                "date": "26 September 2016",
+                "notes": "                            (release date)"
+            },
+            {
+                "country": "Argentina\n",
+                "date": "1 November 2016",
+                "notes": "                            (release date)"
+            }
+        ],
+        "release dates": [
+            "Chile::2015",
+            "Colombia::7 December 2015                            (release date)",
+            "Chile::23 April 2016                            (release date)",
+            "Brazil::26 September 2016                            (release date)",
+            "Argentina::1 November 2016                            (release date)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Puerto Papel"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Porto Papel"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "Paper Port"
+            }
+        ],
+        "akas": [
+            "Puerto Papel (original title)",
+            "Porto Papel Brazil",
+            "Paper Port World-wide (English title)"
+        ],
+        "akas from release info": [
+            "Puerto Papel (original title)",
+            "Porto Papel Brazil",
+            "Paper Port World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Matilde Todos Los Días",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Alergia Climática",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Flatulencias del Tiempo",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Exprimido de Sentimientos",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Risas, Mentiras y Video",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "A La Vuelta del Sombrero",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Teletransportilde",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Día Nacional del Queso",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "La Palabrota",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "Corre Matilde, Corre",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "11": {
+                    "title": "Amor de Papel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "La Vida Secreta de los Árboles",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "13": {
+                    "title": "Todo o Nada",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "14": {
+                    "title": "El Caso",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "15": {
+                    "title": "El Títere",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "16": {
+                    "title": "Insomnia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n    Charlie plays a joke on Matilda, replacing her chocolate-flavored milk for instant coffee. Matilda spends the night awake, and due to her power, dawn never comes. In the face of this strange event, Curlybeard, Bob, and Felicia think it's a zombie apocalypse, and seek refuge in a makeshift bunker in the yard. Meanwhile, Charlie and Matilda have fun in the town \"by night\", doing all the things they've always wanted to do but haven't been able to do until now, because children like them can't go out alone at night. The fun comes to an end when they get to the forest. ...    "
+                },
+                "17": {
+                    "title": "Una Historia de Patatas",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "18": {
+                    "title": "Patente Pendiente",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "19": {
+                    "title": "El Misterio",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "20": {
+                    "title": "La Vida en Patineta",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "21": {
+                    "title": "Crece, Matilde",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "22": {
+                    "title": "El Regreso de Norman el Oloroso II: 2da Parte, La Venganza",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "23": {
+                    "title": "Cambio de Papel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 23,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "24": {
+                    "title": "Había una Vez",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 24,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "25": {
+                    "title": "El Final del Verano Parte I",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 25,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "26": {
+                    "title": "El Final del Verano Parte II",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paper Port (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 26,
+                    "original air date": "2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 26,
+        "cast": [
+            {
+                "name": "Valenzuela, Cristina"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "runtimes": [
+            "11"
+        ],
+        "countries": [
+            "Chile",
+            "Brazil",
+            "Colombia",
+            "Argentina"
+        ],
+        "country codes": [
+            "cl",
+            "br",
+            "co",
+            "ar"
+        ],
+        "language codes": [
+            "pt",
+            "en",
+            "es"
+        ],
+        "color info": [
+            "Color::(Full HD)"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "rating": 7.7,
+        "votes": 11,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNjUxYmRhMWMtMTkwMy00MDRkLWExMzQtNmFlZTU2OGM4YjY3XkEyXkFqcGdeQXVyNTM5NDMzMQ@@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "Mathilda is a 12-year-old who has a unique characteristic: when she wakes up every morning, she has a singular power which disappears the next morning, when she wakes up with a new power. Only Charlie, her best friend, knows her secret. Together they will live through amazing and humorous misunderstandings in the coastal town of Paper Port.",
+        "languages": [
+            "Portuguese",
+            "English",
+            "Spanish"
+        ],
+        "title": "Paper Port",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Bleycher, Carlos"
+            },
+            {
+                "name": "Ceppi, Alvaro"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Gloob"
+            },
+            {
+                "name": "Paka-Paka"
+            },
+            {
+                "name": "Señal Colombia"
+            },
+            {
+                "name": "TVN"
+            },
+            {
+                "name": "Zumbastico Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Millimages"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "KRFT"
+            }
+        ],
+        "plot": [
+            "Mathilda is a 12-year-old who has a unique characteristic: when she wakes up every morning, she has a singular power which disappears the next morning, when she wakes up with a new power. Only Charlie, her best friend, knows her secret. Together they will live through amazing and humorous misunderstandings in the coastal town of _Paper Port_ (qv)."
+        ],
+        "tech": {
+            "runtime": [
+                "11 min (Episode)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color (Full HD)"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 11,
+                "rating": 7.7
+            },
+            "aged 18 29": {
+                "votes": 4,
+                "rating": 6.0
+            },
+            "aged 45 plus": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "males": {
+                "votes": 6,
+                "rating": 5.2
+            },
+            "males aged 18 29": {
+                "votes": 4,
+                "rating": 6.0
+            },
+            "males aged 45 plus": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "females": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "us users": {
+                "votes": 1,
+                "rating": 3.0
+            },
+            "non us users": {
+                "votes": 3,
+                "rating": 7.0
+            }
+        },
+        "number of votes": {
+            "10": 5,
+            "9": 1,
+            "8": 0,
+            "7": 0,
+            "6": 3,
+            "5": 1,
+            "4": 0,
+            "3": 1,
+            "2": 0,
+            "1": 0
+        },
+        "arithmetic mean": 7.7,
+        "median": 9
+    }
+}

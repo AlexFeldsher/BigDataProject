@@ -1,0 +1,116 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "9 February 2015"
+            },
+            {
+                "country": "Canada\n",
+                "date": "9 February 2015",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Canada\n",
+                "date": "8 May 2015",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "Canada::9 February 2015",
+            "Canada::9 February 2015                            (internet)",
+            "Canada::8 May 2015                            (internet)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "103 Little Things (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "9 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "103 Little Things (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "8 May 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Dial, Braye"
+            },
+            {
+                "name": "Ellyce, Melanie"
+            },
+            {
+                "name": "Forrest, Tatyana"
+            },
+            {
+                "name": "Mazak, Kasey Ryne"
+            },
+            {
+                "name": "Rossi, Marc"
+            },
+            {
+                "name": "Manansala, Roy"
+            },
+            {
+                "name": "Williams, Gerald"
+            }
+        ],
+        "genres": [
+            "Short"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "country codes": [
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "103 Little Things",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-2015",
+        "akas": [
+            "103 Little Things (Canada)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Wiedmaier, Amy"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Vancouver Film School"
+            }
+        ],
+        "tech": {}
+    }
+}

@@ -1,0 +1,246 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "27 December 2015"
+            },
+            {
+                "country": "France\n",
+                "date": "27 December 2015"
+            },
+            {
+                "country": "Finland\n",
+                "date": "12 January 2016"
+            },
+            {
+                "country": "UK\n",
+                "date": "10 December 2016"
+            }
+        ],
+        "release dates": [
+            "Germany::27 December 2015",
+            "France::27 December 2015",
+            "Finland::12 January 2016",
+            "UK::10 December 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Walt Disney"
+            },
+            {
+                "countries": "Germany",
+                "title": "Walt Disney - Der Zauberer"
+            }
+        ],
+        "akas": [
+            "Walt Disney (original title)",
+            "Walt Disney - Der Zauberer Germany"
+        ],
+        "akas from release info": [
+            "Walt Disney (original title)",
+            "Walt Disney - Der Zauberer Germany"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Walt Disney (TV Mini-Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 14,
+                    "original air date": "10 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    In this first part, the early career of Walt Disney is discussed including the creation of Mickey Mouse and the making of Snow White and the Seven Dwarfs (1937) - the first feature-length animated film.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Walt Disney (TV Mini-Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 13,
+                    "original air date": "17 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    The second part of this documentary series deals with the later career of Walt Disney. The making of films combining live action with animation and the realisation of Disney's dream project - Disneyland.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Gethings, Rebecca"
+            },
+            {
+                "name": "Disney, Walt"
+            },
+            {
+                "name": "Winkler, Margaret"
+            }
+        ],
+        "genres": [
+            "Documentary",
+            "Biography"
+        ],
+        "runtimes": [
+            "120"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "sound mix": [
+            "Mono::(archive footage)",
+            "Silent::(archive footage)",
+            "Stereo"
+        ],
+        "original air date": "27 Dec 2015 (Germany)",
+        "number of seasons": 1,
+        "rating": 7.6,
+        "votes": 94,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZGExYmNlMjAtYTMzZC00OTU2LWEyZTEtMzlmYTQ0NGJjMWQ5XkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SY150_CR1,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Walt Disney",
+        "year": 2015,
+        "kind": "tv mini series",
+        "series years": "2015-2016",
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "British Broadcasting Corporation"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "ARTE"
+            },
+            {
+                "name": "Arte France"
+            },
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            }
+        ],
+        "plot": [
+            "Two-part biographical documentary on the life, career and legacy of _Walt Disney_ (qv). Making use of recently released archive footage, interviews and classic scenes from his films.::Mark_a_Wood <markawood@hotmail.co.uk>"
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr (120 min) (2 parts)"
+            ],
+            "sound mix": [
+                "Mono (archive footage)",
+                "Silent (archive footage)",
+                "Stereo"
+            ],
+            "color": [
+                "Color",
+                "Black and White (archive footage)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 94,
+                "rating": 7.6
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "aged 18 29": {
+                "votes": 20,
+                "rating": 8.1
+            },
+            "aged 30 44": {
+                "votes": 38,
+                "rating": 7.4
+            },
+            "aged 45 plus": {
+                "votes": 13,
+                "rating": 7.8
+            },
+            "males": {
+                "votes": 60,
+                "rating": 7.8
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 18 29": {
+                "votes": 14,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 32,
+                "rating": 7.4
+            },
+            "males aged 45 plus": {
+                "votes": 10,
+                "rating": 7.9
+            },
+            "females": {
+                "votes": 16,
+                "rating": 7.4
+            },
+            "females aged 18 29": {
+                "votes": 5,
+                "rating": 8.2
+            },
+            "females aged 30 44": {
+                "votes": 6,
+                "rating": 6.8
+            },
+            "females aged 45 plus": {
+                "votes": 3,
+                "rating": 6.3
+            },
+            "top 1000 voters": {
+                "votes": 7,
+                "rating": 6.3
+            },
+            "us users": {
+                "votes": 9,
+                "rating": 8.3
+            },
+            "non us users": {
+                "votes": 53,
+                "rating": 7.5
+            }
+        },
+        "number of votes": {
+            "10": 12,
+            "9": 13,
+            "8": 31,
+            "7": 27,
+            "6": 3,
+            "5": 2,
+            "4": 2,
+            "3": 1,
+            "2": 1,
+            "1": 2
+        },
+        "arithmetic mean": 7.6,
+        "median": 8
+    }
+}

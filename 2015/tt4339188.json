@@ -1,0 +1,175 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "January 2015"
+            },
+            {
+                "country": "UK\n",
+                "date": "8 January 2015"
+            }
+        ],
+        "release dates": [
+            "UK::January 2015",
+            "UK::8 January 2015"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Foundations",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Inca: Masters of the Clouds (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "8 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Clash of Empires",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Inca: Masters of the Clouds (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 8,
+                    "original air date": "15 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Jago Cooper reveals how the strengths of the empire became factors in its rapid demise.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Cooper, Jago"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "number of seasons": 1,
+        "rating": 7.6,
+        "votes": 34,
+        "title": "The Inca: Masters of the Clouds",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Cooper, Jago"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "British Broadcasting Corporation"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Line 21 Media Services"
+            }
+        ],
+        "plot": [
+            "Dr Jago Cooper travels through Peru and Ecuador to reassess the origins, accomplishments and nature of one of the greatest empires the world has ever seen."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 34,
+                "rating": 7.6
+            },
+            "aged 18 29": {
+                "votes": 6,
+                "rating": 6.7
+            },
+            "aged 30 44": {
+                "votes": 15,
+                "rating": 7.5
+            },
+            "aged 45 plus": {
+                "votes": 9,
+                "rating": 8.1
+            },
+            "males": {
+                "votes": 21,
+                "rating": 7.7
+            },
+            "males aged 18 29": {
+                "votes": 3,
+                "rating": 6.7
+            },
+            "males aged 30 44": {
+                "votes": 11,
+                "rating": 7.4
+            },
+            "males aged 45 plus": {
+                "votes": 7,
+                "rating": 8.4
+            },
+            "females": {
+                "votes": 10,
+                "rating": 7.5
+            },
+            "females aged 18 29": {
+                "votes": 3,
+                "rating": 6.3
+            },
+            "females aged 30 44": {
+                "votes": 4,
+                "rating": 7.8
+            },
+            "females aged 45 plus": {
+                "votes": 2,
+                "rating": 7.5
+            },
+            "top 1000 voters": {
+                "votes": 6,
+                "rating": 6.8
+            },
+            "us users": {
+                "votes": 2,
+                "rating": 6.0
+            },
+            "non us users": {
+                "votes": 23,
+                "rating": 7.7
+            }
+        },
+        "number of votes": {
+            "10": 2,
+            "9": 5,
+            "8": 11,
+            "7": 10,
+            "6": 4,
+            "5": 2,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+        },
+        "arithmetic mean": 7.6,
+        "median": 8
+    }
+}

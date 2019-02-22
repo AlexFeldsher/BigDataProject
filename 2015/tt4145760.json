@@ -1,0 +1,514 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2015"
+            },
+            {
+                "country": "USA\n",
+                "date": "5 April 2015"
+            }
+        ],
+        "release dates": [
+            "USA::2015",
+            "USA::5 April 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Lizzie Borden Chronicles"
+            },
+            {
+                "countries": "Russia",
+                "title": "Хроники Лиззи Борден"
+            },
+            {
+                "countries": "USA",
+                "title": "The Lizzie Borden Chronicles"
+            },
+            {
+                "countries": " (working title)",
+                "title": "Lizzie Borden: The Fall River Chronicles"
+            }
+        ],
+        "akas": [
+            "The Lizzie Borden Chronicles (original title)",
+            "Хроники Лиззи Борден Russia",
+            "The Lizzie Borden Chronicles USA",
+            "Lizzie Borden: The Fall River Chronicles (working title)"
+        ],
+        "akas from release info": [
+            "The Lizzie Borden Chronicles (original title)",
+            "Хроники Лиззи Борден Russia",
+            "The Lizzie Borden Chronicles USA",
+            "Lizzie Borden: The Fall River Chronicles (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Acts of Borden",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Lizzie Borden Chronicles (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 196,
+                    "original air date": "5 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    After being acquitted for the murders of her parents, Lizzie plans to restart her life.    "
+                },
+                "2": {
+                    "title": "Patron of the Arts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Lizzie Borden Chronicles (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 139,
+                    "original air date": "12 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Lizzie and Emma visit New York City, where Lizzie saves a street prostitute from a violent beating. But her good deed is met with wrath from a local gangster. Meanwhile, a playwright tries to get Lizzie to finance his latest work.    "
+                },
+                "3": {
+                    "title": "Flowers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Lizzie Borden Chronicles (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 125,
+                    "original air date": "19 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Lizzie throws a party to welcome her and her sister, Emma, to the neighborhood. Miss O'Keefe becomes gutsy as she finds out information from Charles Siringo. Lizzie makes a deal with Mr. Flowers.    "
+                },
+                "4": {
+                    "title": "Welcome to Maplecroft",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Lizzie Borden Chronicles (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 112,
+                    "original air date": "26 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Lizzie expands the Borden Estate and gets a visit from an unexpected visitor with a secret. Emma gets a pleasant surprise then decides not to persue it. Charles Siringo and Miss O'Keefe discuss Lizzie. Lizzie invites Miss O'Keefe for dinner in which Miss O'Keefe decides to do some digging of her own and then discovers something big. Charles Siringo takes care of some business of his own. The secret about the baby in the barn comes out. Miss O'Keefe confronts Lizzie in her home, ending in a physical conflict, surprising arrest and a \"shocking\" ending.    "
+                },
+                "5": {
+                    "title": "Cold Storage",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Lizzie Borden Chronicles (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 109,
+                    "original air date": "3 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Charles Siringo connects clues that could mean the end of Lizzie; a woman tempts Siringo.    "
+                },
+                "6": {
+                    "title": "Fugitive Kind",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Lizzie Borden Chronicles (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 101,
+                    "original air date": "10 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Lizzie devises a strategy that stops Siringo cold; Lizzie's maneuvers challenge Emma's trust in her.    "
+                },
+                "7": {
+                    "title": "The Sister's Grimke",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Lizzie Borden Chronicles (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 110,
+                    "original air date": "17 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Lizzie reinvents herself as a school teacher in a small town far from Fall River.    "
+                },
+                "8": {
+                    "title": "Capsize",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Lizzie Borden Chronicles (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 111,
+                    "original air date": "24 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Lizzie races to Boston, where Emma has taken refuge in the home of Adele Trotwood.    "
+                }
+            }
+        },
+        "number of episodes": 8,
+        "cast": [
+            {
+                "name": "Ricci, Christina"
+            },
+            {
+                "name": "DuVall, Clea"
+            },
+            {
+                "name": "Hauser, Cole"
+            },
+            {
+                "name": "Taylor, Dylan"
+            },
+            {
+                "name": "Ralston, John"
+            },
+            {
+                "name": "Stryker, Bradley"
+            },
+            {
+                "name": "Llewellyn, Olivia"
+            },
+            {
+                "name": "Wincott, Jeff"
+            },
+            {
+                "name": "Schram, Jessy"
+            },
+            {
+                "name": "Trudel, Gabrielle"
+            },
+            {
+                "name": "Irving, Martha"
+            },
+            {
+                "name": "Coiro, Rhys"
+            },
+            {
+                "name": "Chiesurin, Frank"
+            },
+            {
+                "name": "Murray, Kimberly-Sue"
+            },
+            {
+                "name": "Banks, Jonathan"
+            },
+            {
+                "name": "Luther, Krystle"
+            },
+            {
+                "name": "Liddel, Gavin"
+            },
+            {
+                "name": "Sarty, Danielle"
+            },
+            {
+                "name": "Bauer, Chris"
+            },
+            {
+                "name": "Heard, John"
+            },
+            {
+                "name": "Nevez, Matthew Le"
+            },
+            {
+                "name": "Howard, Andrew"
+            },
+            {
+                "name": "Welsh, Kenneth"
+            },
+            {
+                "name": "Griffiths, Adrian G."
+            },
+            {
+                "name": "Royal, Allan"
+            },
+            {
+                "name": "Arnott, Stewart"
+            },
+            {
+                "name": "Gilbert, James"
+            },
+            {
+                "name": "McCormack, Kathryn"
+            },
+            {
+                "name": "Lett, Dan"
+            },
+            {
+                "name": "Norwood, Andrea Lee"
+            },
+            {
+                "name": "Dunn, Tim"
+            },
+            {
+                "name": "Maclaren, John"
+            },
+            {
+                "name": "Rossetti, David"
+            },
+            {
+                "name": "Henderson, Ira"
+            },
+            {
+                "name": "McHattie, Stephen"
+            },
+            {
+                "name": "Tovey, Zach"
+            },
+            {
+                "name": "Dillman, Jody"
+            },
+            {
+                "name": "Delano, Rob"
+            },
+            {
+                "name": "Rothhaar, Will"
+            },
+            {
+                "name": "Fairley, Michelle"
+            },
+            {
+                "name": "Vibert, Ronan"
+            },
+            {
+                "name": "Thompson, Cody Ray"
+            },
+            {
+                "name": "Blakely, Ryan"
+            },
+            {
+                "name": "Forsyth, Amy"
+            },
+            {
+                "name": "Ironside, Michael"
+            },
+            {
+                "name": "Munroe, Gage"
+            },
+            {
+                "name": "Snow, Lisa Rose"
+            },
+            {
+                "name": "McCarthy, Steven"
+            },
+            {
+                "name": "Venuta, Gianpaolo"
+            },
+            {
+                "name": "Gray, Rothaford"
+            }
+        ],
+        "locations": [
+            "Halifax, Nova Scotia, Canada"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Horror"
+        ],
+        "runtimes": [
+            "337"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Singapore:NC16",
+            "South Korea:18"
+        ],
+        "original air date": "2015 (USA)",
+        "number of seasons": 1,
+        "rating": 7.0,
+        "votes": 3345,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjE1NDgxMzQ4M15BMl5BanBnXkFtZTgwODI3NzkwNTE@._V1_SY150_CR6,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Lizzie Borden Chronicles",
+        "year": 2015,
+        "kind": "tv mini series",
+        "series years": "2015-2015",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Blaney, Richard"
+            },
+            {
+                "name": "Grote, Jason"
+            },
+            {
+                "name": "Nance, Barbara"
+            }
+        ],
+        "director": [
+            {
+                "name": "Deutch, Howard"
+            },
+            {
+                "name": "Kay, Stephen"
+            },
+            {
+                "name": "Makris, Constantine"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Magic Rock Productions"
+            },
+            {
+                "name": "Sony Pictures Television"
+            },
+            {
+                "name": "Stan & Deliver Films"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Lifetime Television"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Clairmont Camera Film & Digital"
+            },
+            {
+                "name": "Entertainment Partners Canada"
+            }
+        ],
+        "plot": [
+            "Fictionalized account of actual events and people surrounding Lizzie Borden after her controversial acquittal of the double murder of her father and stepmother in 1892.::Lifetime"
+        ],
+        "tech": {
+            "runtime": [
+                "5 hr 37 min (337 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3345,
+                "rating": 7.0
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 10.0
+            },
+            "aged 18 29": {
+                "votes": 463,
+                "rating": 7.0
+            },
+            "aged 30 44": {
+                "votes": 1157,
+                "rating": 6.9
+            },
+            "aged 45 plus": {
+                "votes": 734,
+                "rating": 7.1
+            },
+            "males": {
+                "votes": 1177,
+                "rating": 6.9
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 18 29": {
+                "votes": 150,
+                "rating": 6.6
+            },
+            "males aged 30 44": {
+                "votes": 497,
+                "rating": 6.8
+            },
+            "males aged 45 plus": {
+                "votes": 441,
+                "rating": 7.0
+            },
+            "females": {
+                "votes": 1344,
+                "rating": 7.1
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 18 29": {
+                "votes": 301,
+                "rating": 7.2
+            },
+            "females aged 30 44": {
+                "votes": 643,
+                "rating": 7.0
+            },
+            "females aged 45 plus": {
+                "votes": 275,
+                "rating": 7.1
+            },
+            "top 1000 voters": {
+                "votes": 85,
+                "rating": 5.4
+            },
+            "us users": {
+                "votes": 738,
+                "rating": 6.9
+            },
+            "non us users": {
+                "votes": 1031,
+                "rating": 6.8
+            }
+        },
+        "number of votes": {
+            "10": 684,
+            "9": 382,
+            "8": 680,
+            "7": 680,
+            "6": 382,
+            "5": 210,
+            "4": 105,
+            "3": 64,
+            "2": 48,
+            "1": 110
+        },
+        "arithmetic mean": 7.4,
+        "median": 8
+    }
+}

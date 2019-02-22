@@ -1,0 +1,367 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Sweden\n",
+                "date": "1 March 2015"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "1 March 2015",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "Finland\n",
+                "date": "24 March 2015"
+            }
+        ],
+        "release dates": [
+            "Sweden::1 March 2015",
+            "Sweden::1 March 2015                            (part 1)",
+            "Finland::24 March 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Arne Dahl: Dödsmässa"
+            },
+            {
+                "countries": "Finland",
+                "title": "Arne Dahl: Kuolinmessu"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Arne Dahl: Dödsmässa"
+            },
+            {
+                "countries": "Germany",
+                "title": "Arne Dahl: Totenmesse"
+            },
+            {
+                "countries": "Norway",
+                "title": "Arne Dahl: Dødsmesse"
+            },
+            {
+                "countries": "UK (informal English title)",
+                "title": "Arne Dahl: Requiem"
+            }
+        ],
+        "akas": [
+            "Arne Dahl: Dödsmässa (original title)",
+            "Arne Dahl: Kuolinmessu Finland",
+            "Arne Dahl: Dödsmässa Finland (Swedish title)",
+            "Arne Dahl: Totenmesse Germany",
+            "Arne Dahl: Dødsmesse Norway",
+            "Arne Dahl: Requiem UK (informal English title)"
+        ],
+        "akas from release info": [
+            "Arne Dahl: Dödsmässa (original title)",
+            "Arne Dahl: Kuolinmessu Finland",
+            "Arne Dahl: Dödsmässa Finland (Swedish title)",
+            "Arne Dahl: Totenmesse Germany",
+            "Arne Dahl: Dødsmesse Norway",
+            "Arne Dahl: Requiem UK (informal English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Del 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Arne Dahl: Dödsmässa (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 31,
+                    "original air date": "1 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Kerstin is caught up in a murderous bank robbery by two Russians, but a third man's participation proves puzzling, and the A Unit investigation suggests a Cold War connection.    "
+                },
+                "2": {
+                    "title": "Del 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Arne Dahl: Dödsmässa (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 31,
+                    "original air date": "8 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Past secrets worth killing for are revealed as team members pursue the elusive men behind the crime.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Arvidsson, Malin"
+            },
+            {
+                "name": "Rydén, Sovi"
+            },
+            {
+                "name": "Minnevik, Natalie"
+            },
+            {
+                "name": "Roney, Shanti"
+            },
+            {
+                "name": "Salzberger, Alexander"
+            },
+            {
+                "name": "Samuelsson, Magnus"
+            },
+            {
+                "name": "Vitali, Vera"
+            },
+            {
+                "name": "Åkerfelt, Niklas"
+            },
+            {
+                "name": "Karim, Alexander"
+            },
+            {
+                "name": "Milldoff, Kenneth"
+            },
+            {
+                "name": "Rosenberg, Vanna"
+            },
+            {
+                "name": "Axnäs, Pelle"
+            },
+            {
+                "name": "Becker, Sasha"
+            },
+            {
+                "name": "Bergström, Jonas"
+            },
+            {
+                "name": "Bramberg, Kicki"
+            },
+            {
+                "name": "Dubra, Manuel"
+            },
+            {
+                "name": "Engman, Göran"
+            },
+            {
+                "name": "der Esch, Ulric von"
+            },
+            {
+                "name": "Grip, Maria"
+            },
+            {
+                "name": "Jernberg, Olle"
+            },
+            {
+                "name": "Khansari, Omid"
+            },
+            {
+                "name": "Kundler, Andreas"
+            },
+            {
+                "name": "Lindell, Johan"
+            },
+            {
+                "name": "Lyckman, Bo"
+            },
+            {
+                "name": "Manvelov, Alexej"
+            },
+            {
+                "name": "Persson, Lars Göran"
+            },
+            {
+                "name": "Pålsson, Adam"
+            },
+            {
+                "name": "Vauramo, Samuel"
+            },
+            {
+                "name": "Sjökvist, Jimmy"
+            },
+            {
+                "name": "Wirström, Joakim"
+            }
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "120"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "country codes": [
+            "se"
+        ],
+        "language codes": [
+            "sv",
+            "en",
+            "ru"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital::(5.1)"
+        ],
+        "certificates": [
+            "Denmark:15::(DVD rating)",
+            "Finland:K-12",
+            "Norway:15::(DVD rating)",
+            "Sweden:15::(DVD rating)"
+        ],
+        "original air date": "01 Mar 2015 (Sweden)",
+        "number of seasons": 1,
+        "rating": 6.5,
+        "votes": 419,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOGZiZDQ3ZDgtZWNlMS00OGMwLThhZTYtMTg4NzJiYzgzMjdmXkEyXkFqcGdeQXVyMzAyMzEwNTI@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "Early one morning, a bank office in the middle of Stockholm is hit with a violent robbery. When the police storm the premises, the robbers have vanished without a trace. The event mystifies the A Unit who, under the supervision of US Intelligence, takes the case. When they find a strange hiding place inside one of the bank's walls, with traces of secrets from the days of the Cold War, it soon becomes clear that the bank robbers are just pawns in a larger game. A game that will soon claim more victims.",
+        "languages": [
+            "Swedish",
+            "English",
+            "Russian"
+        ],
+        "title": "Arne Dahl: Dödsmässa",
+        "year": 2015,
+        "kind": "tv mini series",
+        "series years": "2015-2015",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Ahrnbom, Erik"
+            },
+            {
+                "name": "Dahl, Arne"
+            },
+            {
+                "name": "Gottfridsson, Linn"
+            }
+        ],
+        "director": [
+            {
+                "name": "Farzaneh, Lisa"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Filmlance International AB"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Film1"
+            },
+            {
+                "name": "Sveriges Television (SVT)"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "plot": [
+            "Early one morning, a bank office in the middle of Stockholm is hit with a violent robbery. When the police storm the premises, the robbers have vanished without a trace. The event mystifies the A Unit who, under the supervision of US Intelligence, takes the case. When they find a strange hiding place inside one of the bank's walls, with traces of secrets from the days of the Cold War, it soon becomes clear that the bank robbers are just pawns in a larger game. A game that will soon claim more victims."
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr (120 min) (2 parts)"
+            ],
+            "sound mix": [
+                "Dolby Digital (5.1)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 419,
+                "rating": 6.5
+            },
+            "aged 18 29": {
+                "votes": 32,
+                "rating": 6.6
+            },
+            "aged 30 44": {
+                "votes": 128,
+                "rating": 6.1
+            },
+            "aged 45 plus": {
+                "votes": 166,
+                "rating": 6.6
+            },
+            "males": {
+                "votes": 264,
+                "rating": 6.2
+            },
+            "males aged 18 29": {
+                "votes": 17,
+                "rating": 6.2
+            },
+            "males aged 30 44": {
+                "votes": 109,
+                "rating": 6.0
+            },
+            "males aged 45 plus": {
+                "votes": 122,
+                "rating": 6.4
+            },
+            "females": {
+                "votes": 84,
+                "rating": 7.1
+            },
+            "females aged 18 29": {
+                "votes": 15,
+                "rating": 7.0
+            },
+            "females aged 30 44": {
+                "votes": 19,
+                "rating": 6.6
+            },
+            "females aged 45 plus": {
+                "votes": 43,
+                "rating": 7.2
+            },
+            "top 1000 voters": {
+                "votes": 23,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 15,
+                "rating": 7.2
+            },
+            "non us users": {
+                "votes": 261,
+                "rating": 6.2
+            }
+        },
+        "number of votes": {
+            "10": 30,
+            "9": 17,
+            "8": 66,
+            "7": 112,
+            "6": 109,
+            "5": 47,
+            "4": 19,
+            "3": 5,
+            "2": 8,
+            "1": 6
+        },
+        "arithmetic mean": 6.6,
+        "median": 7
+    }
+}

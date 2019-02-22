@@ -1,0 +1,122 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "12 January 2015"
+            },
+            {
+                "country": "USA\n",
+                "date": "13 January 2015"
+            }
+        ],
+        "release dates": [
+            "USA::12 January 2015",
+            "USA::13 January 2015"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Episode dated 9 August 2016",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Allman Report (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "9 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Premiere",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Allman Report (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "13 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Allman, Jamie"
+            },
+            {
+                "name": "Roorda, Jeff"
+            },
+            {
+                "name": "Church, Steven"
+            },
+            {
+                "name": "Bruntrager, Neil"
+            }
+        ],
+        "genres": [
+            "Talk-Show"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "budget": "$1,000,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "The Allman Report",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "akas": [
+            "The Allman Report (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Allman, Jamie"
+            },
+            {
+                "name": "Church, Steven"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "First Rule Film and Broadcast"
+            },
+            {
+                "name": "Sinclair Broadcast Group"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "30 min (including commercials)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

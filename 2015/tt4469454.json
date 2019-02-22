@@ -1,0 +1,117 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2015"
+            }
+        ],
+        "release dates": [
+            "USA::2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Untitled Talk Show Project"
+            },
+            {
+                "countries": " (working title)",
+                "title": "The After Show"
+            }
+        ],
+        "akas": [
+            "Untitled Talk Show Project (original title)",
+            "The After Show (working title)"
+        ],
+        "akas from release info": [
+            "Untitled Talk Show Project (original title)",
+            "The After Show (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Untitled Talk Show Project (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Ramos, Erick"
+            }
+        ],
+        "locations": [
+            "Culver City, California, USA"
+        ],
+        "genres": [
+            "Talk-Show"
+        ],
+        "runtimes": [
+            "22"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Untitled Talk Show Project",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Ramos, Erick"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Stark Element Films"
+            }
+        ],
+        "plot": [
+            "A mix of guest interviews, live audience participation games, on-set mixologist, Dj/musical performances and segments highlighting real people with talents and amazing life stories."
+        ],
+        "tech": {
+            "runtime": [
+                "22 min (approx)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

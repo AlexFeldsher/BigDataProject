@@ -1,0 +1,775 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "30 March 2015"
+            },
+            {
+                "country": "UK\n",
+                "date": "April 2015"
+            }
+        ],
+        "release dates": [
+            "UK::30 March 2015",
+            "UK::April 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Travel Man: 48 Hours in..."
+            },
+            {
+                "countries": "Russia",
+                "title": "Путешественник: 48 часов в..."
+            }
+        ],
+        "akas": [
+            "Travel Man: 48 Hours in... (original title)",
+            "Путешественник: 48 часов в... Russia"
+        ],
+        "akas from release info": [
+            "Travel Man: 48 Hours in... (original title)",
+            "Путешественник: 48 часов в... Russia"
+        ],
+        "episodes": {
+            "8": {
+                "1": {
+                    "title": "Zurich",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 1,
+                    "votes": 28,
+                    "original air date": "10 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Richard takes comedian Frank Skinner to the Swiss city of Zurich. At first they bicker over football, but then find common ground in their love for dadaism, and eventually end up in their own homoerotic version of Indecent Proposal (1993).    "
+                },
+                "2": {
+                    "title": "Ibiza",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 2,
+                    "votes": 35,
+                    "original air date": "17 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Richard takes comedienne Jessicca Knappett to Ibiza, where they experience the food, culture and scenery of the famed party island, all while constantly bickering.    "
+                },
+                "3": {
+                    "title": "Slovenia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 3,
+                    "votes": 22,
+                    "original air date": "24 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Richard and cross-dressing comedian Eddie Izzard visit the lovely Ljubljana, Slovenia to see its Dragon Bridge, natural fountains, Postojna Cave, the olm, the stunningly beautiful Lake Bled, and try tapas, orange wine and cremeschnitte.    "
+                },
+                "4": {
+                    "title": "Milan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 4,
+                    "votes": 20,
+                    "original air date": "1 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Richard and comedienne Morgana Robinson arrive in Milan, Italy during a heatwave to see da Vinci's Last Supper, play bocce, eat pastry, go to Milan's famous shopping mall, visit the smallest bar in the world, and take a culinary course.    "
+                },
+                "5": {
+                    "title": "96 Hours in... Jordan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 5,
+                    "votes": 14,
+                    "original air date": "27 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    In this Christmas special, Richard takes comedian and children's author, David Baddiel, on a four-day trip to Jordan. They visit Jordan's capital, Amman, reenact a train raid in Hollywood's favorite desert, feast with the Bedouins, fly a gyrocopter, stay at the smallest hotel in the world, visit the ancient city of Petra, learn how to cook the local Christmas specialty, and buy the three things gifted to baby Jesus by the three Wise Man.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Barcelona",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 45,
+                    "original air date": "30 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Richard is joined by actress Kathy Burke for 48 hours in Barna.    "
+                },
+                "2": {
+                    "title": "Istanbul",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 43,
+                    "original air date": "6 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Richard and comedian Adam Hills embark on a whirlwind tour of Istanbul in just 48 hours.    "
+                },
+                "3": {
+                    "title": "Iceland",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 45,
+                    "original air date": "13 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Richard takes actress Jessica Hynes on a whirlwind tour of Iceland in just 48 hours.    "
+                },
+                "4": {
+                    "title": "Marrakech",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 37,
+                    "original air date": "20 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Richard and actor Stephen Mangan embark on a whirlwind tour of Marrakech in just 48 hours.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Vienna",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 63,
+                    "original air date": "5 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Richard and his The IT Crowd (2006) co-star, comedian Chris O'Dowd, arrive in Vienna, Austria where they take the official The Third Man (1949) Film Location Tour, visit Sigmund Freud's home, eat cake and make a mess in the snow globe museum.    "
+                },
+                "2": {
+                    "title": "Paris",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 46,
+                    "original air date": "12 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Richard Ayoade spends 48 hours in Paris, the city of love, with guest 'Bake Off' star Mel Giedroyc.    "
+                },
+                "3": {
+                    "title": "Copenhagen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 58,
+                    "original air date": "19 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Richard Ayoade and his The IT Crowd (2006) co-star, comedian Noel Fielding, take a weekend break in the 'happiest place on earth' - Copenhagen.    "
+                },
+                "4": {
+                    "title": "Moscow",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 44,
+                    "original air date": "26 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Richard Ayoade takes another 48 hour break, this time to Moscow with Greg Davis.    "
+                }
+            },
+            "3": {
+                "1": {
+                    "title": "Seville",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 36,
+                    "original air date": "25 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Richard takes actor Rob Delaney on a whirlwind tour of Sevilla in just 48 hours.    "
+                },
+                "2": {
+                    "title": "Venice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 33,
+                    "original air date": "1 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Richard takes comedienne Jo Brand on a whirlwind tour of Venice in just 48 hours.    "
+                },
+                "3": {
+                    "title": "Dubai",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 35,
+                    "original air date": "8 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Richard takes comedian Johnny Vegas on a whirlwind tour of Dubai in just 48 hours.    "
+                },
+                "4": {
+                    "title": "Berlin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 33,
+                    "original air date": "15 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Richard takes comedienne Roisin Conaty on a whirlwind tour of Berlin in just 48 hours.    "
+                }
+            },
+            "4": {
+                "1": {
+                    "title": "New York",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "votes": 36,
+                    "original air date": "23 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Travel Man Richard Ayoade lands in the Big Apple with comedian Katherine Ryan.    "
+                },
+                "2": {
+                    "title": "Helsinki",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "votes": 47,
+                    "original air date": "30 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Richard Ayoade convinces actor Paul Rudd to join him for 48 hours in Helsinki for sightseeing and sauna.    "
+                },
+                "3": {
+                    "title": "Lisbon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "votes": 35,
+                    "original air date": "7 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    Richard Ayoade is joined in Portugal's capital city by comedian Adam Buxton.    "
+                },
+                "4": {
+                    "title": "Naples",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 4,
+                    "votes": 32,
+                    "original air date": "14 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    Travel Man Richard Ayoade and guest Jack Dee take a maxi mini-break in Naples.    "
+                },
+                "5": {
+                    "title": "Florence",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 5,
+                    "votes": 29,
+                    "original air date": "25 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    Richard Ayoade takes Rebel Wilson on a Yuletide trip to Florence, Italy.    "
+                }
+            },
+            "5": {
+                "1": {
+                    "title": "St. Petersburg",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 1,
+                    "votes": 38,
+                    "original air date": "6 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Richard takes comedian Rob Beckett on a whirlwind tour of Saint Petersburg in just 48 hours.    "
+                },
+                "2": {
+                    "title": "Budapest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 2,
+                    "votes": 38,
+                    "original air date": "20 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Richard takes comedienne Aisling Bea on a whirlwind tour of Budapest in just 48 hours.    "
+                },
+                "3": {
+                    "title": "Tenerife",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 3,
+                    "votes": 29,
+                    "original air date": "27 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Richard takes actress Lena Dunham on a whirlwind tour of the Spanish island of Tenerife in just 48 hours.    "
+                },
+                "4": {
+                    "title": "Miami",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 4,
+                    "votes": 28,
+                    "original air date": "3 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Richard takes comedian Rhod Gilbert on a whirlwind tour of Miami in just 48 hours.    "
+                }
+            },
+            "6": {
+                "1": {
+                    "title": "Rome",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 1,
+                    "votes": 32,
+                    "original air date": "20 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Richard takes comedian Matt Lucas on a whirlwind tour of Rome and Vatican City.    "
+                },
+                "2": {
+                    "title": "Valencia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 2,
+                    "votes": 25,
+                    "original air date": "27 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Richard takes comedienne Sara Pascoe on a whirlwind tour of Valencia.    "
+                },
+                "3": {
+                    "title": "Amsterdam",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 3,
+                    "votes": 31,
+                    "original air date": "3 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Richard takes comedian Joe Lycett on a whirlwind tour of Amsterdam.    "
+                },
+                "4": {
+                    "title": "Stockholm",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 4,
+                    "votes": 25,
+                    "original air date": "10 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Richard takes comedienne Sally Phillips on a whirlwind tour of Stockholm.    "
+                },
+                "5": {
+                    "title": "Hong Kong",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 5,
+                    "votes": 43,
+                    "original air date": "26 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    In this Christmas Special, Richard takes American Actor Jon Hamm on a whirlwind tour around Hong Kong.    "
+                }
+            },
+            "7": {
+                "1": {
+                    "title": "Brussels",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 1,
+                    "votes": 34,
+                    "original air date": "2 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Richard takes comedian Lee Mack on a whirlwind tour of Brussels.    "
+                },
+                "2": {
+                    "title": "Oslo",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 2,
+                    "votes": 25,
+                    "original air date": "9 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Richard takes actress Fay Ripley on a whirlwind tour of Oslo.    "
+                },
+                "3": {
+                    "title": "Madeira",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 3,
+                    "votes": 34,
+                    "original air date": "16 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Richard takes comedian Robert Webb on a whirlwind tour of Madeira.    "
+                },
+                "4": {
+                    "title": "Côte d'Azur.",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Travel Man: 48 Hours in... (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 4,
+                    "votes": 24,
+                    "original air date": "23 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Richard takes comedienne Shazia Mirza on a whirlwind tour of Côte D'Azur.    "
+                }
+            }
+        },
+        "number of episodes": 35,
+        "cast": [
+            {
+                "name": "Ayoade, Richard"
+            },
+            {
+                "name": "Davies, Greg"
+            },
+            {
+                "name": "Fielding, Noel"
+            },
+            {
+                "name": "Giedroyc, Mel"
+            },
+            {
+                "name": "O'Dowd, Chris"
+            },
+            {
+                "name": "Rudd, Paul"
+            },
+            {
+                "name": "Ryan, Katherine"
+            },
+            {
+                "name": "Baddiel, David"
+            },
+            {
+                "name": "Izzard, Eddie"
+            },
+            {
+                "name": "Robinson, Morgana"
+            },
+            {
+                "name": "Burke, Kathy"
+            },
+            {
+                "name": "Hills, Adam"
+            },
+            {
+                "name": "Hynes, Jessica"
+            },
+            {
+                "name": "Mangan, Stephen"
+            },
+            {
+                "name": "Brand, Jo"
+            },
+            {
+                "name": "Buxton, Adam"
+            },
+            {
+                "name": "Conaty, Roisin"
+            },
+            {
+                "name": "Dee, Jack"
+            },
+            {
+                "name": "Delaney, Rob"
+            },
+            {
+                "name": "Vegas, Johnny"
+            },
+            {
+                "name": "Wilson, Rebel"
+            },
+            {
+                "name": "Bea, Aisling"
+            },
+            {
+                "name": "Beckett, Rob"
+            },
+            {
+                "name": "Dunham, Lena"
+            },
+            {
+                "name": "Gilbert, Rhod"
+            },
+            {
+                "name": "Hamm, Jon"
+            },
+            {
+                "name": "Lucas, Matt"
+            },
+            {
+                "name": "Lycett, Joe"
+            },
+            {
+                "name": "Pascoe, Sara"
+            },
+            {
+                "name": "Phillips, Sally"
+            },
+            {
+                "name": "Knappett, Jessica"
+            },
+            {
+                "name": "Mack, Lee"
+            },
+            {
+                "name": "Mirza, Shazia"
+            },
+            {
+                "name": "Ripley, Fay"
+            },
+            {
+                "name": "Skinner, Frank"
+            },
+            {
+                "name": "Webb, Robert"
+            }
+        ],
+        "genres": [
+            "Documentary",
+            "Comedy"
+        ],
+        "runtimes": [
+            "24"
+        ],
+        "certificates": [
+            "United States:Not Rated"
+        ],
+        "number of seasons": 8,
+        "rating": 8.3,
+        "votes": 1051,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZDk2N2JlNGEtYjZmNy00ODE4LTg1NzItODU4MjZjNTg2ZWYxXkEyXkFqcGdeQXVyMDE4MzA0NQ@@._V1_SX101_CR0,0,101,150_.jpg",
+        "title": "Travel Man: 48 Hours in...",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "plot": [
+            "Richard Ayoade and a celebrity guest spend 48 hours in a popular city to discover the must see tourist attractions."
+        ],
+        "tech": {
+            "runtime": [
+                "24 min"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1051,
+                "rating": 8.3
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 8.5
+            },
+            "aged 18 29": {
+                "votes": 245,
+                "rating": 8.5
+            },
+            "aged 30 44": {
+                "votes": 369,
+                "rating": 8.3
+            },
+            "aged 45 plus": {
+                "votes": 111,
+                "rating": 7.6
+            },
+            "males": {
+                "votes": 517,
+                "rating": 8.1
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 8.5
+            },
+            "males aged 18 29": {
+                "votes": 147,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 241,
+                "rating": 8.2
+            },
+            "males aged 45 plus": {
+                "votes": 82,
+                "rating": 7.6
+            },
+            "females": {
+                "votes": 264,
+                "rating": 8.5
+            },
+            "females aged 18 29": {
+                "votes": 97,
+                "rating": 8.9
+            },
+            "females aged 30 44": {
+                "votes": 119,
+                "rating": 8.4
+            },
+            "females aged 45 plus": {
+                "votes": 28,
+                "rating": 7.5
+            },
+            "top 1000 voters": {
+                "votes": 28,
+                "rating": 7.4
+            },
+            "us users": {
+                "votes": 148,
+                "rating": 8.6
+            },
+            "non us users": {
+                "votes": 477,
+                "rating": 8.2
+            }
+        },
+        "number of votes": {
+            "10": 280,
+            "9": 275,
+            "8": 289,
+            "7": 127,
+            "6": 28,
+            "5": 16,
+            "4": 8,
+            "3": 6,
+            "2": 9,
+            "1": 13
+        },
+        "arithmetic mean": 8.4,
+        "median": 9
+    }
+}

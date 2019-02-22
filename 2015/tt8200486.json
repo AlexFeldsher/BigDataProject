@@ -1,0 +1,86 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "7 May 2015",
+                "notes": "                            (PBS member stations)"
+            },
+            {
+                "country": "USA\n",
+                "date": "8 May 2015"
+            }
+        ],
+        "release dates": [
+            "USA::7 May 2015                            (PBS member stations)",
+            "USA::8 May 2015"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Embrace Yourself",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Project: Reveal (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "8 May 2015",
+                    "year": "2015",
+                    "plot": "\n    The first episode of Project Reveal deals with women's feelings about their skin. Some of the women talk about their journey to accepting their body and loving every dimple and mole. Others talk about being \"too black\" or not \"black enough.\" There's a segment where a group of women took off their makeup on camera and talked about their vulnerability, fears and acceptance of their \"naked\" face along with other features.    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "24"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color::(HD)"
+        ],
+        "aspect ratio": "16:9 HD (high definition)",
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Project: Reveal",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "akas": [
+            "Project: Reveal (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Fourth Wall Media"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "24 min (TV)"
+            ],
+            "color": [
+                "Color (HD)"
+            ],
+            "aspect ratio": [
+                "16:9 HD (high definition)"
+            ]
+        }
+    }
+}

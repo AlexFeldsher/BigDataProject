@@ -1,0 +1,354 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Sweden\n",
+                "date": "12 April 2015"
+            },
+            {
+                "country": "Finland\n",
+                "date": "5 May 2015"
+            },
+            {
+                "country": "Germany\n",
+                "date": "5 November 2017"
+            }
+        ],
+        "release dates": [
+            "Sweden::12 April 2015",
+            "Finland::5 May 2015",
+            "Germany::5 November 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Arne Dahl: Himmelsöga"
+            },
+            {
+                "countries": "Denmark",
+                "title": "Arne Dahls A-gruppen: Himmeløje"
+            },
+            {
+                "countries": "Finland",
+                "title": "Arne Dahl: Valvova silmä"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Arne Dahl: Himmelsöga"
+            },
+            {
+                "countries": "Germany",
+                "title": "Arne Dahl: Bußestunde"
+            },
+            {
+                "countries": "Norway",
+                "title": "Arne Dahl: Himmeløyet"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "Arne Dahl: Eye in the Sky"
+            }
+        ],
+        "akas": [
+            "Arne Dahl: Himmelsöga (original title)",
+            "Arne Dahls A-gruppen: Himmeløje Denmark",
+            "Arne Dahl: Valvova silmä Finland",
+            "Arne Dahl: Himmelsöga Finland (Swedish title)",
+            "Arne Dahl: Bußestunde Germany",
+            "Arne Dahl: Himmeløyet Norway",
+            "Arne Dahl: Eye in the Sky World-wide (English title)"
+        ],
+        "akas from release info": [
+            "Arne Dahl: Himmelsöga (original title)",
+            "Arne Dahls A-gruppen: Himmeløje Denmark",
+            "Arne Dahl: Valvova silmä Finland",
+            "Arne Dahl: Himmelsöga Finland (Swedish title)",
+            "Arne Dahl: Bußestunde Germany",
+            "Arne Dahl: Himmeløyet Norway",
+            "Arne Dahl: Eye in the Sky World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Del 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Arne Dahl: Eye in the Sky (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 25,
+                    "original air date": "12 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    A woman is found collapsed in the street, having escaped from an unknown basement. She has no idea why she was kidnapped and, with nothing else to go on, 'A' Unit follow a lead found in the basement to a drugs ring run by two brothers.    "
+                },
+                "2": {
+                    "title": "Del 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Arne Dahl: Eye in the Sky (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 20,
+                    "original air date": "19 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Investigating a series of murders and kidnaps, 'A' Unit begin to suspect they are linked to a shared high school experience - but this still isn't getting them any closer to catching the killer. Paul is investigating the sudden and mysterious death of his new-found friend from the security service.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Arvidsson, Malin"
+            },
+            {
+                "name": "Minnevik, Natalie"
+            },
+            {
+                "name": "Roney, Shanti"
+            },
+            {
+                "name": "Salzberger, Alexander"
+            },
+            {
+                "name": "Samuelsson, Magnus"
+            },
+            {
+                "name": "Vitali, Vera"
+            },
+            {
+                "name": "Åkerfelt, Niklas"
+            },
+            {
+                "name": "Andersson, Pascal"
+            },
+            {
+                "name": "Boman, Iwa"
+            },
+            {
+                "name": "Milldoff, Kenneth"
+            },
+            {
+                "name": "Rosenberg, Vanna"
+            },
+            {
+                "name": "Persson, Lars Göran"
+            },
+            {
+                "name": "El Hayek, Maria Grudemo"
+            },
+            {
+                "name": "Lindal, Andreas Forner"
+            },
+            {
+                "name": "Jonsson, Charlotta"
+            },
+            {
+                "name": "de Betou, Magdalena in"
+            },
+            {
+                "name": "Järn, Peter"
+            },
+            {
+                "name": "Kanninen, Mariah"
+            },
+            {
+                "name": "Lithman, Karin"
+            },
+            {
+                "name": "Rad, Zardasht"
+            },
+            {
+                "name": "Rad, Peshang"
+            },
+            {
+                "name": "Spreitz, Micke"
+            },
+            {
+                "name": "Söderman, Carina"
+            },
+            {
+                "name": "Töringe, Oscar"
+            },
+            {
+                "name": "Wallander, Anna"
+            },
+            {
+                "name": "Östrand, Disa"
+            },
+            {
+                "name": "Beckius, Emelie"
+            },
+            {
+                "name": "Bergh, Milla"
+            }
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "runtimes": [
+            "120"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "country codes": [
+            "se"
+        ],
+        "language codes": [
+            "sv"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital::(5.1)"
+        ],
+        "certificates": [
+            "Denmark:15::(DVD rating)",
+            "Finland:K-16::(DVD rating)",
+            "Norway:15::(DVD rating)",
+            "Sweden:15::(DVD rating)"
+        ],
+        "original air date": "12 Apr 2015 (Sweden)",
+        "number of seasons": 1,
+        "rating": 6.8,
+        "votes": 376,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTdhZGUzNDAtZjA5Yi00MmI3LWI0ODItNWRjZTUwZjY2ZWEwXkEyXkFqcGdeQXVyMzAyMzEwNTI@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "Swedish"
+        ],
+        "title": "Arne Dahl: Eye in the Sky",
+        "year": 2015,
+        "kind": "tv mini series",
+        "series years": "2015-2015",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Agetoft, Fredrik"
+            },
+            {
+                "name": "Dahl, Arne"
+            }
+        ],
+        "director": [
+            {
+                "name": "Farzaneh, Lisa"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Filmlance International AB"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Yleisradio (YLE)"
+            },
+            {
+                "name": "ZDF Enterprises"
+            }
+        ],
+        "plot": [
+            "A brutal attack leads 'A-Unit' to a stash of steroids linked to an organisation Interpol have been investigating. A series of related kidnaps and murders show apparent links to a shared high school experience."
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr (120 min) (2 parts)"
+            ],
+            "sound mix": [
+                "Dolby Digital (5.1)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 376,
+                "rating": 6.8
+            },
+            "aged 18 29": {
+                "votes": 25,
+                "rating": 7.0
+            },
+            "aged 30 44": {
+                "votes": 117,
+                "rating": 6.5
+            },
+            "aged 45 plus": {
+                "votes": 158,
+                "rating": 6.8
+            },
+            "males": {
+                "votes": 244,
+                "rating": 6.5
+            },
+            "males aged 18 29": {
+                "votes": 14,
+                "rating": 6.4
+            },
+            "males aged 30 44": {
+                "votes": 98,
+                "rating": 6.4
+            },
+            "males aged 45 plus": {
+                "votes": 119,
+                "rating": 6.7
+            },
+            "females": {
+                "votes": 73,
+                "rating": 7.5
+            },
+            "females aged 18 29": {
+                "votes": 11,
+                "rating": 7.7
+            },
+            "females aged 30 44": {
+                "votes": 19,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 39,
+                "rating": 7.4
+            },
+            "top 1000 voters": {
+                "votes": 27,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 16,
+                "rating": 7.3
+            },
+            "non us users": {
+                "votes": 233,
+                "rating": 6.5
+            }
+        },
+        "number of votes": {
+            "10": 21,
+            "9": 22,
+            "8": 66,
+            "7": 128,
+            "6": 80,
+            "5": 37,
+            "4": 10,
+            "3": 3,
+            "2": 3,
+            "1": 6
+        },
+        "arithmetic mean": 6.8,
+        "median": 7
+    }
+}

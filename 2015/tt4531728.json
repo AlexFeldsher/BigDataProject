@@ -1,0 +1,711 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "26 December 2015"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "5 January 2016",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Australia\n",
+                "date": "7 February 2016"
+            },
+            {
+                "country": "Finland\n",
+                "date": "2 December 2016"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "9 December 2017"
+            }
+        ],
+        "release dates": [
+            "UK::26 December 2015",
+            "Netherlands::5 January 2016                            (limited)",
+            "Australia::7 February 2016",
+            "Finland::2 December 2016",
+            "Sweden::9 December 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Dickensian"
+            },
+            {
+                "countries": "Finland",
+                "title": "Charles Dickensin ihmemaa"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Charles Dickens magiska värld"
+            },
+            {
+                "countries": "Norway",
+                "title": "Dickens' jul"
+            },
+            {
+                "countries": "Portugal",
+                "title": "O Mundo de Dickens"
+            },
+            {
+                "countries": "Russia",
+                "title": "Диккенсовщина"
+            },
+            {
+                "countries": "Sweden",
+                "title": "I Dickens magiska värld"
+            }
+        ],
+        "akas": [
+            "Dickensian (original title)",
+            "Charles Dickensin ihmemaa Finland",
+            "Charles Dickens magiska värld Finland (Swedish title)",
+            "Dickens' jul Norway",
+            "O Mundo de Dickens Portugal",
+            "Диккенсовщина Russia",
+            "I Dickens magiska värld Sweden"
+        ],
+        "akas from release info": [
+            "Dickensian (original title)",
+            "Charles Dickensin ihmemaa Finland",
+            "Charles Dickens magiska värld Finland (Swedish title)",
+            "Dickens' jul Norway",
+            "O Mundo de Dickens Portugal",
+            "Диккенсовщина Russia",
+            "I Dickens magiska värld Sweden"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 131,
+                    "original air date": "26 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    In the first of these re-imagined, inter-connected Charles Dickens tales ruthless debt collector Jacob Marley (Peter Firth) makes himself an enemy.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 105,
+                    "original air date": "26 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    Christmas Day arrives and Inspector Bucket commences his murder investigation. At Satis House, Amelia Havisham's mysterious rescuer appears again.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 91,
+                    "original air date": "27 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    Bucket visits his old enemy Fagin, convinced he is connected to the murder. This meeting sets the Inspector on the trail of Fagin's old partner Bill Sikes.    "
+                },
+                "4": {
+                    "title": "Episode #1.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 87,
+                    "original air date": "27 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    Amelia is troubled by the arrival of an unexpected guest at the Havisham's New Year's party. Frances rekindles an old friendship that she hopes may lead to something more.    "
+                },
+                "5": {
+                    "title": "Episode #1.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 80,
+                    "original air date": "1 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Meriwether goes to extreme lengths to get Miss Havisham to notice him. Meanwhile, Martha Cratchit's wedding plans are thrown into turmoil.    "
+                },
+                "6": {
+                    "title": "Episode #1.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 71,
+                    "original air date": "6 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Bob Cratchit fights to clear his name so that he will be at home in time for his daughter's wedding. Amelia is left feeling both confused and intrigued by Compeyson's behaviour.    "
+                },
+                "7": {
+                    "title": "Episode #1.7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 74,
+                    "original air date": "7 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Compeyson is given cause for concern by a potential rival at Satis House. When a drunken prank goes seriously wrong, Arthur discovers the lengths to which Compeyson will go to get what he wants.    "
+                },
+                "8": {
+                    "title": "Episode #1.8",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 67,
+                    "original air date": "13 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Arthur must find the courage to confide in Matthew Pocket before Compeyson's plans to get rid of him come to fruition. Meanwhile, Edward Barbary comes into the sights of Inspector Bucket.    "
+                },
+                "9": {
+                    "title": "Episode #1.9",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 66,
+                    "original air date": "14 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Edward Barbary is facing financial ruin and Scrooge adds to his predicament by demanding to have his loan repaid. Amelia is devastated by the loss of Jip, but then Compeyson surprises her with a present and a declaration.    "
+                },
+                "10": {
+                    "title": "Episode #1.10",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 70,
+                    "original air date": "21 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Honoria and Hawdon try to secure Edward's freedom, while Bucket gets a new lead. Compeyson courts Miss Havisham and, in order to seem a more credible suitor, demands money from Arthur.    "
+                },
+                "11": {
+                    "title": "Episode #1.11",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 61,
+                    "original air date": "22 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Bucket's patience is rewarded when new evidence leads to a surprise discovery. Compeyson tries to win over Amelia, hoping to influence her business decisions. Honoria faces up to her father's plight, agreeing to meet Sir Leicester.    "
+                },
+                "12": {
+                    "title": "Episode #1.12",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 65,
+                    "original air date": "27 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Bucket may have finally found the evidence he needs to link Fagin to Jacob Marley. Compeyson comes closer to getting his hands on Amelia's inheritance, but is prevented from attending an important meeting.    "
+                },
+                "13": {
+                    "title": "Episode #1.13",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 62,
+                    "original air date": "28 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Arthur and Jaggers warn Amelia not to rush into an engagement with Compeyson, Honoria comes to terms with letting Captain Hawdon go, and Bucket is desperate to keep Fagin under lock and key.    "
+                },
+                "14": {
+                    "title": "Episode #1.14",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 64,
+                    "original air date": "4 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Bucket needs to get to Dodger before Fagin's cronies, so he uses Nancy to get him to the Three Cripples, but it looks like Dodger would rather face the noose than betray Fagin. Compeyson makes Arthur an offer he can't refuse.    "
+                },
+                "15": {
+                    "title": "Episode #1.15",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 66,
+                    "original air date": "5 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Bucket's detective skills are questioned when another body is discovered and another Inspector arrives. Hawdon puts in for a promotion but discovers something about Frances which leaves Honoria shocked.    "
+                },
+                "16": {
+                    "title": "Episode #1.16",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 70,
+                    "original air date": "11 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Honoria goes into labour with only her sister, who knows nothing about childbirth, there to help her. With her life in peril only Captain Hawdon can help Honoria, but will his feud with Frances allow him to do so?    "
+                },
+                "17": {
+                    "title": "Episode #1.17",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 62,
+                    "original air date": "12 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Miss Havisham never wants to see Compeyson again, but can he persuade her to give him a second chance? Determined to have one last shot at solving Marley's murder, Bucket and Mr Venus make a startling discovery.    "
+                },
+                "18": {
+                    "title": "Episode #1.18",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 66,
+                    "original air date": "18 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Bucket has identified Jacob Marley's killer but faces a moral dilemma. Arthur Havisham is devastated, not only has he set his sister up with Compeyson, but he can't see a way of ever being reconciled with her.    "
+                },
+                "19": {
+                    "title": "Episode #1.19",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 62,
+                    "original air date": "19 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    As the final preparations are made for the Havisham wedding, Arthur and Matthew put into place their plan to stop the ceremony. Meanwhile, at the Bumbles' workhouse it is the day of the inspection.    "
+                },
+                "20": {
+                    "title": "Episode #1.20",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dickensian (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 70,
+                    "original air date": "21 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    As Amelia Havisham prepares for the wedding of the year, Arthur realises that he is the only one who can save her. But will Arthur act or will he take the coward's way out?    "
+                }
+            }
+        },
+        "number of episodes": 20,
+        "cast": [
+            {
+                "name": "Middleton, Tuppence"
+            },
+            {
+                "name": "Rundle, Sophie"
+            },
+            {
+                "name": "Moen, Alexandra"
+            },
+            {
+                "name": "Quinn, Joseph"
+            },
+            {
+                "name": "Weston-Jones, Tom"
+            },
+            {
+                "name": "Rea, Stephen"
+            },
+            {
+                "name": "Wilfort, Robert"
+            },
+            {
+                "name": "Collins, Pauline"
+            },
+            {
+                "name": "Hennessy, Jennifer"
+            },
+            {
+                "name": "Quentin, Caroline"
+            },
+            {
+                "name": "Ridings, Richard"
+            },
+            {
+                "name": "Lesser, Anton"
+            },
+            {
+                "name": "Fairbank, Christopher"
+            },
+            {
+                "name": "Jordan, Laurel"
+            },
+            {
+                "name": "Rawlins, Adrian"
+            },
+            {
+                "name": "Stanley, Mark"
+            },
+            {
+                "name": "Dennehy, Ned"
+            },
+            {
+                "name": "Heffernan, John"
+            },
+            {
+                "name": "Starr, Ben"
+            },
+            {
+                "name": "O'Connor, Brenock"
+            },
+            {
+                "name": "Muir, Bethany"
+            },
+            {
+                "name": "Dynevor, Phoebe"
+            },
+            {
+                "name": "Conway, Zaak"
+            },
+            {
+                "name": "Faires, Imogen"
+            },
+            {
+                "name": "Djalili, Omid"
+            },
+            {
+                "name": "Dunn, Amy"
+            },
+            {
+                "name": "Haddington, Ellie"
+            },
+            {
+                "name": "Cordery, Richard"
+            },
+            {
+                "name": "Campbell, Benjamin"
+            },
+            {
+                "name": "Coopersmith, Oliver"
+            },
+            {
+                "name": "Howard, Philip"
+            },
+            {
+                "name": "Hoare, Sam"
+            },
+            {
+                "name": "Radjou-Pujalte, Wilson"
+            },
+            {
+                "name": "Firth, Peter"
+            },
+            {
+                "name": "Shalloo, Jack"
+            },
+            {
+                "name": "Durden, Richard"
+            },
+            {
+                "name": "Dickens, Leonardo"
+            },
+            {
+                "name": "Johnson, Karl"
+            },
+            {
+                "name": "Bernath, Antonia"
+            },
+            {
+                "name": "Jones, Eliza"
+            },
+            {
+                "name": "Lancaster, Paul"
+            },
+            {
+                "name": "Walters, Stephen"
+            },
+            {
+                "name": "Burnside, Mike"
+            },
+            {
+                "name": "Cunningham, Richard"
+            },
+            {
+                "name": "Munroe, Steve"
+            },
+            {
+                "name": "Landi, Peter"
+            },
+            {
+                "name": "Street, John"
+            },
+            {
+                "name": "Speirs, Steve"
+            },
+            {
+                "name": "Simnett, Sophie"
+            },
+            {
+                "name": "Halse, Jody"
+            }
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Finland:K-12",
+            "South Korea:12",
+            "United States:TV-PG"
+        ],
+        "number of seasons": 1,
+        "rating": 7.6,
+        "votes": 2343,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYTZkZGJiYmYtNmIwNi00ZmE5LWJlYTgtNWMyZDg4YjY0NDk5XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SX101_CR0,0,101,150_.jpg",
+        "budget": "GBP20,000,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Dickensian",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-2016",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Dickens, Charles"
+            },
+            {
+                "name": "Jordan, Tony"
+            },
+            {
+                "name": "Moss, Chloe"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Red Planet Pictures"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "BBC First"
+            },
+            {
+                "name": "BBC First"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Hackenbacker Audio Post Production"
+            },
+            {
+                "name": "HireWorks"
+            },
+            {
+                "name": "Momoco"
+            },
+            {
+                "name": "Momoco"
+            },
+            {
+                "name": "Onomatopoeia Post"
+            },
+            {
+                "name": "Panavision"
+            },
+            {
+                "name": "Production Copier Company"
+            },
+            {
+                "name": "Rose TV and film catering"
+            }
+        ],
+        "plot": [
+            "Drama set within the fictional realms of Charles Dickens critically acclaimed novels, bringing together some of his most iconic characters as their lives intertwine in 19th century London.::Naser Altameemi"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)",
+                "9 hr 53 min (593 min) (total run time) (Finland)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2343,
+                "rating": 7.6
+            },
+            "aged 18 29": {
+                "votes": 282,
+                "rating": 7.5
+            },
+            "aged 30 44": {
+                "votes": 669,
+                "rating": 7.3
+            },
+            "aged 45 plus": {
+                "votes": 686,
+                "rating": 7.7
+            },
+            "males": {
+                "votes": 938,
+                "rating": 7.4
+            },
+            "males aged 18 29": {
+                "votes": 129,
+                "rating": 7.4
+            },
+            "males aged 30 44": {
+                "votes": 335,
+                "rating": 7.2
+            },
+            "males aged 45 plus": {
+                "votes": 402,
+                "rating": 7.5
+            },
+            "females": {
+                "votes": 809,
+                "rating": 7.7
+            },
+            "females aged 18 29": {
+                "votes": 145,
+                "rating": 7.7
+            },
+            "females aged 30 44": {
+                "votes": 323,
+                "rating": 7.4
+            },
+            "females aged 45 plus": {
+                "votes": 276,
+                "rating": 8.0
+            },
+            "top 1000 voters": {
+                "votes": 54,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 254,
+                "rating": 7.4
+            },
+            "non us users": {
+                "votes": 1049,
+                "rating": 7.5
+            }
+        },
+        "number of votes": {
+            "10": 500,
+            "9": 379,
+            "8": 671,
+            "7": 389,
+            "6": 177,
+            "5": 91,
+            "4": 32,
+            "3": 26,
+            "2": 23,
+            "1": 55
+        },
+        "arithmetic mean": 7.8,
+        "median": 8
+    }
+}

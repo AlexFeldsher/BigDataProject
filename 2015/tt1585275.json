@@ -1,0 +1,429 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "12 July 2015"
+            },
+            {
+                "country": "Finland\n",
+                "date": "2 July 2016"
+            }
+        ],
+        "release dates": [
+            "UK::12 July 2015",
+            "Finland::2 July 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Outcast"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Прокуден"
+            },
+            {
+                "countries": "Finland",
+                "title": "Kotiinpaluu"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Den utstötte"
+            },
+            {
+                "countries": "USA",
+                "title": "The Outcast"
+            }
+        ],
+        "akas": [
+            "The Outcast (original title)",
+            "Прокуден Bulgaria (Bulgarian title)",
+            "Kotiinpaluu Finland",
+            "Den utstötte Finland (Swedish title)",
+            "The Outcast USA"
+        ],
+        "akas from release info": [
+            "The Outcast (original title)",
+            "Прокуден Bulgaria (Bulgarian title)",
+            "Kotiinpaluu Finland",
+            "Den utstötte Finland (Swedish title)",
+            "The Outcast USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Outcast (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 32,
+                    "original air date": "12 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    Having spent the Second World War with his adored mother Lizzie in their country village, ten-year-old Lewis Aldridge is thrilled to welcome Gilbert, the father he barely knows, from the fighting. Unlike free-spirited, gin-loving Lizzie, Gilbert is reserved but Lewis is not an unhappy child, making a special friend of Kit, rebellious daughter of Gilbert's partner Dicky Carmichael. Then disaster strikes. Lizzie drowns in a swimming accident, for which Lewis feels largely responsible, and, within the year, Gilbert has married the younger Alice, who tries to befriend ...    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Outcast (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 29,
+                    "original air date": "19 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    Lewis returns to the village from prison and Gilbert gets him a job with Dicky Carmichael but, outside of the family, Kit and her older sister Tamsin are Lewis's only true friends. They have their own problems as Carmichael is physically violent to them though after Tamsin has told Lewis that many people blame him for his mother's death her father tries to blame Lewis for her facial injuries, resulting in the boy attempting suicide again. Unable to cope Gilbert moves out and Alice, herself feeling an outcast in the village community, gets drunk and has rough sex with ...    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Elliot, Finn"
+            },
+            {
+                "name": "Morahan, Hattie"
+            },
+            {
+                "name": "Wise, Greg"
+            },
+            {
+                "name": "Parker, Nathaniel"
+            },
+            {
+                "name": "Bradbury, Helen"
+            },
+            {
+                "name": "Findlay, Jessica Brown"
+            },
+            {
+                "name": "MacKay, George"
+            },
+            {
+                "name": "Cruttenden, Abigail"
+            },
+            {
+                "name": "Bevan, Daisy"
+            },
+            {
+                "name": "Knight, Tom"
+            },
+            {
+                "name": "Wadham, Julian"
+            },
+            {
+                "name": "Barden, Jessica"
+            },
+            {
+                "name": "Burton, Hubert"
+            },
+            {
+                "name": "Gilbert, Oliver"
+            },
+            {
+                "name": "Cowan, Theo"
+            },
+            {
+                "name": "Maw, Katy"
+            },
+            {
+                "name": "Best, Leanne"
+            },
+            {
+                "name": "Johnson, Jerome M."
+            },
+            {
+                "name": "Jeater, Frances"
+            },
+            {
+                "name": "Macnab, Jocelyn"
+            },
+            {
+                "name": "Whitehead, Edie"
+            },
+            {
+                "name": "Bevan, Aran"
+            },
+            {
+                "name": "Rawle, Jeff"
+            },
+            {
+                "name": "Wright, Adam Thomas"
+            },
+            {
+                "name": "Sanderson, Sophie"
+            },
+            {
+                "name": "Lane, Cameron"
+            },
+            {
+                "name": "Hadley, Michael"
+            },
+            {
+                "name": "Churcher, Teresa"
+            },
+            {
+                "name": "Price, Claire"
+            },
+            {
+                "name": "McFarlane, Zara"
+            },
+            {
+                "name": "Murchie, Nicholas"
+            },
+            {
+                "name": "Whitchurch, Matt"
+            },
+            {
+                "name": "Jones, Isabelle"
+            },
+            {
+                "name": "Wimbush, Martin"
+            },
+            {
+                "name": "Groundsell, Chris"
+            },
+            {
+                "name": "Taylor, Vince"
+            },
+            {
+                "name": "Breaban, Ancuta"
+            },
+            {
+                "name": "Angiama, Oroh"
+            },
+            {
+                "name": "Phelps, Jay"
+            },
+            {
+                "name": "Pocher, Dan"
+            },
+            {
+                "name": "Richards, Charlie"
+            },
+            {
+                "name": "Richardson, Leo"
+            },
+            {
+                "name": "Steele, Karol"
+            },
+            {
+                "name": "Wilson, Chris"
+            },
+            {
+                "name": "Wragg, Lisa-Marie"
+            },
+            {
+                "name": "Chimes, Natalie"
+            },
+            {
+                "name": "Crick, Joseph"
+            },
+            {
+                "name": "Mason-Apps, Charlotte"
+            },
+            {
+                "name": "Packham, Tim"
+            }
+        ],
+        "locations": [
+            "The Phoenix Jazz Club, London, England, UK::(location)",
+            "Horsted Keynes station, Bluebell Railway, West Sussex, England, UK",
+            "Archer Street, London, England, UK::(street scenes)",
+            "Tilbury Town station, Tilbury, Essex, England, UK",
+            "Buckinghamshire, England, UK"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "179"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Finland:K-12",
+            "United Kingdom:15"
+        ],
+        "original air date": "12 Jul 2015 (UK)",
+        "number of seasons": 1,
+        "rating": 7.7,
+        "votes": 888,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BODNkZTQ4MzEtYmMzYy00NmI5LTg5ODQtN2RkZThmZGFlNDljXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "Set in post-war Britain, Lewis Aldridge is grief-stricken as he finds it hard to deal with the death of his beloved mother. He is put in the care of his emotionally distant father Gilbert, whom he barely knows and who quickly remarries forcing Lewis to bury his feelings. Lewis becomes dependent on his friendship with the neighboring Carmichael girls, Tamsin and Kit who are controlled by their domineering father Dicky.",
+        "languages": [
+            "English"
+        ],
+        "title": "The Outcast",
+        "year": 2015,
+        "kind": "tv mini series",
+        "series years": "2015-2015",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Jones, Sadie"
+            }
+        ],
+        "director": [
+            {
+                "name": "Softley, Iain"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "BBC Films"
+            },
+            {
+                "name": "Blueprint Pictures"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "BBC One"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aimimage / Ice Film"
+            },
+            {
+                "name": "BBC Films"
+            },
+            {
+                "name": "Digital Orchard"
+            },
+            {
+                "name": "Mad Dog 2020"
+            },
+            {
+                "name": "Molinare Studio"
+            },
+            {
+                "name": "TLO Film Services"
+            },
+            {
+                "name": "UK Film Council"
+            }
+        ],
+        "plot": [
+            "A young boy struggles to fit into the life of a post-war English village after witnessing the death of his mother.::Lintilla1962",
+            "Set in post-war Britain, Lewis Aldridge is grief-stricken as he finds it hard to deal with the death of his beloved mother. He is put in the care of his emotionally distant father Gilbert, whom he barely knows and who quickly remarries forcing Lewis to bury his feelings. Lewis becomes dependent on his friendship with the neighboring Carmichael girls, Tamsin and Kit who are controlled by their domineering father Dicky."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr 29 min (89 min) (2 episodes)",
+                "2 hr 59 min (179 min) (total run time) (Finland)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 888,
+                "rating": 7.7
+            },
+            "aged 18 29": {
+                "votes": 154,
+                "rating": 8.1
+            },
+            "aged 30 44": {
+                "votes": 239,
+                "rating": 7.7
+            },
+            "aged 45 plus": {
+                "votes": 270,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 367,
+                "rating": 7.5
+            },
+            "males aged 18 29": {
+                "votes": 52,
+                "rating": 8.0
+            },
+            "males aged 30 44": {
+                "votes": 113,
+                "rating": 7.5
+            },
+            "males aged 45 plus": {
+                "votes": 174,
+                "rating": 7.3
+            },
+            "females": {
+                "votes": 331,
+                "rating": 7.9
+            },
+            "females aged 18 29": {
+                "votes": 98,
+                "rating": 8.1
+            },
+            "females aged 30 44": {
+                "votes": 121,
+                "rating": 7.8
+            },
+            "females aged 45 plus": {
+                "votes": 93,
+                "rating": 7.7
+            },
+            "top 1000 voters": {
+                "votes": 25,
+                "rating": 6.1
+            },
+            "us users": {
+                "votes": 64,
+                "rating": 7.2
+            },
+            "non us users": {
+                "votes": 460,
+                "rating": 7.6
+            }
+        },
+        "number of votes": {
+            "10": 157,
+            "9": 171,
+            "8": 262,
+            "7": 150,
+            "6": 72,
+            "5": 30,
+            "4": 12,
+            "3": 12,
+            "2": 4,
+            "1": 18
+        },
+        "arithmetic mean": 7.8,
+        "median": 8
+    }
+}

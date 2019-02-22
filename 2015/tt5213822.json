@@ -1,0 +1,83 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "  2015"
+            },
+            {
+                "country": "Canada\n",
+                "date": "  2015",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "Canada::2015",
+            "Canada::2015                            (internet)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Ambitions Project (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Sandra Chevrier",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Ambitions Project (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Chevrier, Sandra"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "country codes": [
+            "ca"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "title": "The Ambitions Project",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "akas": [
+            "The Ambitions Project (Canada)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

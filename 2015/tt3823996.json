@@ -1,0 +1,923 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Belgium\n",
+                "date": "13 September 2015"
+            },
+            {
+                "country": "Spain\n",
+                "date": "6 November 2017"
+            },
+            {
+                "country": "Italy\n",
+                "date": "10 November 2018"
+            }
+        ],
+        "release dates": [
+            "Belgium::13 September 2015",
+            "Spain::6 November 2017",
+            "Italy::10 November 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Professor T."
+            },
+            {
+                "countries": "Belgium (English title)",
+                "title": "T."
+            },
+            {
+                "countries": "Denmark",
+                "title": "En sag for professor T"
+            },
+            {
+                "countries": "Italy",
+                "title": "Professor T."
+            },
+            {
+                "countries": "Romania",
+                "title": "Profesorul T"
+            },
+            {
+                "countries": "Russia",
+                "title": "Профессор Т."
+            },
+            {
+                "countries": "Spain",
+                "title": "Profesor T."
+            },
+            {
+                "countries": " (working title)",
+                "title": "T."
+            }
+        ],
+        "akas": [
+            "Professor T. (original title)",
+            "T. Belgium (English title)",
+            "En sag for professor T Denmark",
+            "Professor T. Italy",
+            "Profesorul T Romania",
+            "Профессор Т. Russia",
+            "Profesor T. Spain",
+            "T. (working title)"
+        ],
+        "akas from release info": [
+            "Professor T. (original title)",
+            "T. Belgium (English title)",
+            "En sag for professor T Denmark",
+            "Professor T. Italy",
+            "Profesorul T Romania",
+            "Профессор Т. Russia",
+            "Profesor T. Spain",
+            "T. (working title)"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "De troonopvolger, deel 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 16,
+                    "original air date": "9 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    After having shot a police inspector in cold blood, Professor T. is sent to prison.    "
+                },
+                "2": {
+                    "title": "De troonopvolger, deel 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 16,
+                    "original air date": "16 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Still in jail, things are going from bad to worse for Professor T. But then he receives help from an unlikely source.    "
+                },
+                "3": {
+                    "title": "Het verloren schaap",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 17,
+                    "original air date": "23 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    When a dangerous criminal escapes prison, the police once again needs to rely on professor T's extraordinary skills to solve the case.    "
+                },
+                "4": {
+                    "title": "Het perfecte plaatje",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 16,
+                    "original air date": "30 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    A hearing is scheduled to decide whether Professor T. will be released from custody pending his murder trial.    "
+                },
+                "5": {
+                    "title": "Sugarbaby",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 17,
+                    "original air date": "7 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    With his trial date approaching, Professor T. is assigned a young inexperienced pro bono lawyer.    "
+                },
+                "6": {
+                    "title": "Elk huisje...",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 19,
+                    "original air date": "21 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    A man is found dead at the side of the road. At first sight, it looks like a hit and run, but the police inspectors have their doubts. Meanwhile, Professor T has been found mentally sane so he risks the maximum penalty.    "
+                },
+                "7": {
+                    "title": "Het geluk van anderen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 21,
+                    "original air date": "28 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    A prison guard is found dead in the showers. Because the man had a bad reputation, there are a lot of suspects.    "
+                },
+                "8": {
+                    "title": "Moord op voorschrift",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 14,
+                    "original air date": "4 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    A successful mystery novelist has committed suicide. However, the police have their doubts, especially because the author has described his own death in one of his books.    "
+                },
+                "9": {
+                    "title": "Het vluchtmisbedrijf",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 13,
+                    "original air date": "11 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Consternation at the faculty when professor Van der Weyden, who temporarily replaces professor T, is run over on his bike in a hit-and-run. Rumor has it that professor T is involved.    "
+                },
+                "10": {
+                    "title": "Residentie Zilverspar",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 15,
+                    "original air date": "18 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    A visitor is killed in a pensioners home by a resident suffering from dementia. It looks like an unfortunate accident, or does it? Meanwhile, Professor T. continues his investigation into his father's suicide.    "
+                },
+                "11": {
+                    "title": "Dakloos",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 11,
+                    "votes": 15,
+                    "original air date": "25 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Saskia is an eye witness to an accident involving a homeless person. Just before he dies, the man confesses to a murder. Professor T. has discovered his mother's journals, which contain some surprising revelations.    "
+                },
+                "12": {
+                    "title": "Queen Olivia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 12,
+                    "votes": 19,
+                    "original air date": "2 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    A pleasure cruise on a luxury yacht ends dramatically when a young woman is killed and thrown overboard. Professor T, with the help of Christina Flamant, has been able to obtain the police file of his father's death.    "
+                },
+                "13": {
+                    "title": "De ontknoping",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 13,
+                    "votes": 19,
+                    "original air date": "9 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    New evidence causes the cold case of Professor T's father's suicide to be reopened. Professor T, with the help of psychiatrist Helena Gijselbrecht, explores his subconscious to finally get to the truth.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Campus Drie Eiken",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 38,
+                    "original air date": "13 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    At the campus Diana Thyssen is raped in the toilets. They get stuck with the investigations and Inspector Donckers thinks her old Professor in Criminology might help. She has a friend, Saskia Devriese, who was raped on a campus ten years ago. She thinks both cases have the same perpetrator. But can she persuade Professor Teerlinck to help her, because he's not especially social, says what he thinks and defends opinions which go against public opinions?    "
+                },
+                "2": {
+                    "title": "Een fatale vergissing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 35,
+                    "original air date": "20 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    The head librarian of the university is poisoned at a reception. The wrong person might have been killed. The police start to think that the real target is a civil servant who forged an environmental report who also was present at the reception. Due to the forged report, the daughter of a young family is very sick in hospital. The father might have something to do with the death of the librarian.    "
+                },
+                "3": {
+                    "title": "De doorlichting",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 33,
+                    "original air date": "4 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Yolande De Letter, the inspector of a school-evaluation team, is murdered at home. At first it looks like a robbery gone wrong, but Annelies Donckers thinks there is more to it. Jasper and she discover that director Herman Symens of the school Sint Lutgardis who was inspected might have a motive. The school was on the brink of getting a bad report. But also her husband Marc is a possible perpetrator. They were heading for a divorce and financially he would have suffered a lot.    "
+                },
+                "4": {
+                    "title": "Dubbelleven",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 30,
+                    "original air date": "11 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Davy Desmedt, a first year law student, has disappeared without a trace. It could be an act of despair, but they soon find out there is more to it. He is from simple origin, but he has a lot of money in the bank.    "
+                },
+                "5": {
+                    "title": "De hotelmoord",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 29,
+                    "original air date": "18 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Hendrik Marsboom, an acknowledged plastic surgeon, is found murdered in a hotel room. De woman who shared his room has disappeared. When they finally find her, the police think her jealous husband might know more about the whole thing.    "
+                },
+                "6": {
+                    "title": "Tamara",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 34,
+                    "original air date": "25 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    A call-girl is found dead in her apartment. It looks like she hanged herself, but the police soon discover the suicide is staged. Jasper is very touched when the call-girl appears to be Tamara.    "
+                },
+                "7": {
+                    "title": "De maskermoorden",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 27,
+                    "original air date": "1 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    The gruesome murder on Peter Catrysse and his wife appears to be an exact copy of a murder ten years ago. Dany Van Genechten, the perpetrator of that murder is still behind bars.    "
+                },
+                "8": {
+                    "title": "Katvanger",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 28,
+                    "original air date": "8 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Antwerp is startled by a brutal double murder. During the evening rush hour a known coke dealer and his lover are shot down by a masked perpetrator. The police think it's a pay-off.    "
+                },
+                "9": {
+                    "title": "Moederliefde",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 24,
+                    "original air date": "15 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Au pair Silke Banier comes home after an evening off. She finds her employer, Max Tersago, unconscious in the living room. Six year old son Koben has vanished. The investigation leads the police to Max's business partner Willem Denys.    "
+                },
+                "10": {
+                    "title": "De zaak Seynaeve",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 22,
+                    "original air date": "22 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Dirk Seynaeve is accused of having killed his employer after being caught at the scene, holding the murder weapon. He denies being guilty, but the case goes to trial anyway. Professor T. however is convinced the man is innocent.    "
+                },
+                "11": {
+                    "title": "De nalatenschap",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 21,
+                    "original air date": "29 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    There is a hit on prominent businessman Johan Verhulst during an official happening. The shooter fails. A few days later a lot of blood is discovered in his upside down turned living-room, but there is no body. Verhulst has disappeared. Jasper deducts everything is staged by Verhulst himself, but then he is found dead after all.    "
+                },
+                "12": {
+                    "title": "De jaartalmoorden, deel 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 25,
+                    "original air date": "6 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    A man is found strangled with a scorched face. The number 1991 is cut into his chest. When 24 hours later a second victim is found, also with a year cut into his body, the investigators realize they're dealing with a serial killer.    "
+                },
+                "13": {
+                    "title": "De jaartalmoorden, deel 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 27,
+                    "original air date": "13 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    Daan is in hospital fighting for his life after the killer shot at him. In the mean time the police try to find connections between the victims, because they have no idea about the killer.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Cuberdon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 24,
+                    "original air date": "4 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Psychiatrist Gijselbrecht doesn't think Professor T. is ready yet, but he leaves the institution after six months anyway. Gijselbrecht insists he will keep doing regular sessions with her. Inspector Daan De Winter starts working again after his recuperation. He soon experiences doing police work from a wheelchair, isn't easy. The fact Annelis Donckers feeling guilty for what happened to him, doesn't help. On top of that, they have to investigate a number of strange deaths, which on first sight don't seem to have a link between them.    "
+                },
+                "2": {
+                    "title": "In vuur en vlam",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 21,
+                    "original air date": "11 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    A student flat is set fire to. Student Ines is burned and it's life threatening. Professor T. is asked to help with the investigations. In the mean time he struggles with an assignment from doctor Gijselbrecht. He has to take public transport on his own. The relation between Annelies and Daan is under pressure. Also Rabet has his problems. His son in law Jurgen, who came back from India, demands custody on Rabets granddaughter.    "
+                },
+                "3": {
+                    "title": "De familie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 22,
+                    "original air date": "18 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Since professor T. has been suspended, his lectures are given by professor Vanderweyden. He will also assist Jasper in solving a tragic family drama, where an eminent oncologist has been killed. Annelies discovers that her father, when he was still clear of mind, wrote an euthanasia application. Rabet tries to change the mind of his son of law. Daan takes a decision which has big consequences.    "
+                },
+                "4": {
+                    "title": "Onvoltooid verleden",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 20,
+                    "original air date": "25 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    By hits on SUV's, pamphlets are spread. They're done after a model of an anarchistic student group from the 80's. To everybody's surprise, Jasper was a member of that group. Doctor Gijselbrecht tells Jasper to invite Christina Flamant for diner. He rehearses this with Ingrid Sneyers to be fully prepared. Inspector John Van Humbeeck is Annelies her new partner. To Annelies it's far too early to forget Daan and everyone will know that.    "
+                },
+                "5": {
+                    "title": "Hartstocht",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 23,
+                    "original air date": "2 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    Two doctors are murdered in quite a similar way. The police fear there will be more victims. It's a race against time to find a connection between the two cases. Jasper is relieved his suspension is finally made undone. Annelies still misses Daan and it's getting harder to take care of her father. Paul loses custody on his granddaughter and loses control.    "
+                },
+                "6": {
+                    "title": "Diamant",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 23,
+                    "original air date": "9 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    A jeweler is run down in the street when he crosses in a hurry. In his bag he had a collection of very valuable diamonds. The police suspect there is more to it and visit his family. After a painful accident in a public swimming pool, another task of doctor Gijselbrecht, Jasper ends up in hospital. Annelies can't see another way and admits her father to a clinic. After Rabet is suspended, Flamant takes over his duties.    "
+                },
+                "7": {
+                    "title": "Jitske",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 25,
+                    "original air date": "16 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    Jasper gets a very particular challenge. Jitske, a girl with Down Syndrom, claims she knows who killed her mother. Jasper is only allowed to ask her the one question upon which she will answer truthfully. Annelies is not very subtle around Jitske. John thinks it's necessary for her to meet his daughter. Christine finds the role of team-leader is rather different than being a commissioner. Besides that, she also has personal problems to deal with.    "
+                },
+                "8": {
+                    "title": "Angstig gehecht",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 22,
+                    "original air date": "23 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    The team investigate a strange traffic accident. The victim is found dead more than 100 meter from her car. Jasper has to split his attention between the case and a very strange question from his psychiatrist. He has to make a list of qualities about his mother. John sees Annelies is not all right. The quality of her father's life rapidly goes backwards. She has a lot of problems with that.    "
+                },
+                "9": {
+                    "title": "Het congres",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 23,
+                    "original air date": "30 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    The Universtiy of Antwerp organizes the yearly congress of criminologists. To Jasper's bewilderment he's only the second speaker and he won't open the congress. When the first speaker gets killed, all eyes are fixed on the professor. Christina finds new joy in her life after her fatal marriage crisis. She introduces her new boyfriend, a colleague of the section drugs. Annelies confesses to John she burnt her father's will.    "
+                },
+                "10": {
+                    "title": "Het dna van een moordenaar",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 22,
+                    "original air date": "6 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    During a lecture at the university, Jasper discusses a case he helped with. The witness of a murder twelve years ago, is now murdered himself. The son of the convicted murderer is prime suspect. In the mean time Jasper is worried about Christine and her new boyfriend Serge. Jasper doesn't trust him. Helena thinks this is very significant. Annelies has to make the most difficult decision of her life.    "
+                },
+                "11": {
+                    "title": "Dode meisjes zingen niet",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 21,
+                    "original air date": "20 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    A student of a strict catholic school is found dead in her room. It looks like a case of strangling sex gone wrong. Jasper however, discovers Helena's husband, a teacher at the school, is somehow involved in the case. Annelies and her colleagues attend to her father's funeral. Paul is back after his suspension. The early and young relationship between Christina and Serge goes very well.    "
+                },
+                "12": {
+                    "title": "Zwanenzang, deel 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 19,
+                    "original air date": "27 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    An undercover-agent, who infiltrated in the drugs-scene, is found dead in the boot of his car. The target of the investigation is off course drug lord Mark Desmedt. Jasper is acting even stranger than normal. They all know the reason. It's his birthday and he hates birthdays. It's a special day for Annelies too. She told Christina she quits her job. She wants to do something different with her life.    "
+                },
+                "13": {
+                    "title": "Zwanenzang, deel 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Professor T. (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 23,
+                    "original air date": "4 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    The team is closing in on drug lord Mark Desmedt, John discovers that chief inspector Rabet and Desmedt are working together. Professor T. has asked Annelies to assist him with his research in determining the exact profile of a murderer. He want to find out whether Flamant will be capable of murder when she finds out that her new boyfriend is not what he appears to be.    "
+                }
+            }
+        },
+        "number of episodes": 39,
+        "cast": [
+            {
+                "name": "De Bouw, Koen"
+            },
+            {
+                "name": "Oostvogels, Tanja"
+            },
+            {
+                "name": "Derick, Goele"
+            },
+            {
+                "name": "Goossens, Carry"
+            },
+            {
+                "name": "Ilegems, Herwig"
+            },
+            {
+                "name": "Leyers, Ella"
+            },
+            {
+                "name": "Geerts, Steve"
+            },
+            {
+                "name": "de Muynck, Viviane"
+            },
+            {
+                "name": "Sarafian, Barbara"
+            },
+            {
+                "name": "Hollanders, Bart"
+            },
+            {
+                "name": "Bervoets, Gene"
+            },
+            {
+                "name": "Roels, Leen"
+            },
+            {
+                "name": "Delecluse, Fabrice"
+            },
+            {
+                "name": "Den Wijngaert, Gregory Van"
+            },
+            {
+                "name": "Vergauwen, Michael"
+            },
+            {
+                "name": "Baert, Norman"
+            },
+            {
+                "name": "Hessels, Joris"
+            },
+            {
+                "name": "Vervueren, Patrick"
+            },
+            {
+                "name": "Van Bauwel, Tom"
+            },
+            {
+                "name": "Coenen, Kristof"
+            },
+            {
+                "name": "Hertogs, Kim"
+            },
+            {
+                "name": "Schram, Carlos"
+            },
+            {
+                "name": "Bongaerts, Charlotte Anne"
+            },
+            {
+                "name": "Christiaens, Annick"
+            },
+            {
+                "name": "Knuts, Johan"
+            },
+            {
+                "name": "Vereycken, Eddy"
+            },
+            {
+                "name": "Van Welden, Xandra"
+            },
+            {
+                "name": "Binon, Eva"
+            },
+            {
+                "name": "der Sanden, Tania Van"
+            },
+            {
+                "name": "Lohmann, Katrin"
+            },
+            {
+                "name": "Godon, Eric"
+            },
+            {
+                "name": "Cleiren, Robbie"
+            },
+            {
+                "name": "Selezjova, Irina"
+            },
+            {
+                "name": "De Schutter, Marjan"
+            },
+            {
+                "name": "Florus, Vicky"
+            },
+            {
+                "name": "Nuyens, Luc"
+            },
+            {
+                "name": "De Graef, Peter"
+            },
+            {
+                "name": "Bertier, Lio"
+            },
+            {
+                "name": "Hellemans, Filip"
+            },
+            {
+                "name": "De Bruyne, Charlotte"
+            },
+            {
+                "name": "Sys, Matthieu"
+            },
+            {
+                "name": "Audenaert, Tom"
+            },
+            {
+                "name": "Perceval, Stefan"
+            },
+            {
+                "name": "Kools, Catherine"
+            },
+            {
+                "name": "Wils, Hilde"
+            },
+            {
+                "name": "De Wyngaert, Pieter-Jan"
+            },
+            {
+                "name": "Bogaerts, Sam"
+            },
+            {
+                "name": "Tuytschaever, Karel"
+            },
+            {
+                "name": "Mallat, Nabil"
+            },
+            {
+                "name": "Dakka, Issam"
+            }
+        ],
+        "locations": [
+            "Antwerp, Flanders, Belgium"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "Belgium"
+        ],
+        "country codes": [
+            "be"
+        ],
+        "language codes": [
+            "qbn"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Spain:18",
+            "United States:Not Rated"
+        ],
+        "number of seasons": 3,
+        "rating": 7.8,
+        "votes": 696,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZjRjN2JiNmEtMDQxZi00ZTExLThiMTEtYzgwNzA1ZDA3N2Y0XkEyXkFqcGdeQXVyNTY2MzkxMjc@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "Flemish"
+        ],
+        "title": "Professor T.",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "writer": [
+            {
+                "name": "Baete, Piet"
+            },
+            {
+                "name": "Soffers, Karel"
+            },
+            {
+                "name": "Piedfort, Paul"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Skyline Entertainment"
+            }
+        ],
+        "plot": [
+            "The eccentric professor Jasper Teerlinck is advisor to the police. A successful cooperation, although he drives his fellow man crazy."
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 696,
+                "rating": 7.8
+            },
+            "aged 18 29": {
+                "votes": 121,
+                "rating": 8.0
+            },
+            "aged 30 44": {
+                "votes": 164,
+                "rating": 7.5
+            },
+            "aged 45 plus": {
+                "votes": 210,
+                "rating": 7.8
+            },
+            "males": {
+                "votes": 358,
+                "rating": 7.7
+            },
+            "males aged 18 29": {
+                "votes": 80,
+                "rating": 8.0
+            },
+            "males aged 30 44": {
+                "votes": 108,
+                "rating": 7.1
+            },
+            "males aged 45 plus": {
+                "votes": 144,
+                "rating": 7.7
+            },
+            "females": {
+                "votes": 167,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 39,
+                "rating": 7.9
+            },
+            "females aged 30 44": {
+                "votes": 53,
+                "rating": 8.1
+            },
+            "females aged 45 plus": {
+                "votes": 61,
+                "rating": 8.0
+            },
+            "top 1000 voters": {
+                "votes": 15,
+                "rating": 6.8
+            },
+            "us users": {
+                "votes": 30,
+                "rating": 8.0
+            },
+            "non us users": {
+                "votes": 351,
+                "rating": 7.6
+            }
+        },
+        "number of votes": {
+            "10": 154,
+            "9": 159,
+            "8": 196,
+            "7": 105,
+            "6": 34,
+            "5": 14,
+            "4": 13,
+            "3": 6,
+            "2": 3,
+            "1": 12
+        },
+        "arithmetic mean": 8.1,
+        "median": 8
+    }
+}

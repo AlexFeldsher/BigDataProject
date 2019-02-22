@@ -1,0 +1,381 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Sweden\n",
+                "date": "15 February 2015"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "15 February 2015",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "Finland\n",
+                "date": "10 March 2015"
+            }
+        ],
+        "release dates": [
+            "Sweden::15 February 2015",
+            "Sweden::15 February 2015                            (part 1)",
+            "Finland::10 March 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Arne Dahl: En midsommarnattsdröm"
+            },
+            {
+                "countries": "Finland",
+                "title": "Arne Dahl: Juhannusyön uni"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Arne Dahl: En midsommarnattsdröm"
+            },
+            {
+                "countries": "Norway",
+                "title": "Arne Dahl: En midtsommernattsdrøm"
+            },
+            {
+                "countries": "UK (informal English title)",
+                "title": "Arne Dahl: A Midsummer Night Dream"
+            }
+        ],
+        "akas": [
+            "Arne Dahl: En midsommarnattsdröm (original title)",
+            "Arne Dahl: Juhannusyön uni Finland",
+            "Arne Dahl: En midsommarnattsdröm Finland (Swedish title)",
+            "Arne Dahl: En midtsommernattsdrøm Norway",
+            "Arne Dahl: A Midsummer Night Dream UK (informal English title)"
+        ],
+        "akas from release info": [
+            "Arne Dahl: En midsommarnattsdröm (original title)",
+            "Arne Dahl: Juhannusyön uni Finland",
+            "Arne Dahl: En midsommarnattsdröm Finland (Swedish title)",
+            "Arne Dahl: En midtsommernattsdrøm Norway",
+            "Arne Dahl: A Midsummer Night Dream UK (informal English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Del 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Arne Dahl: En midsommarnattsdröm (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 34,
+                    "original air date": "15 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    The A Unit is rapidly reunited to trace an assassin targeting Polish women in hiding in Sweden, but new recruit Ida struggles to fit in, while former member Paul Hjelm's personal dilemmas cloud his work at Internal Affairs.    "
+                },
+                "2": {
+                    "title": "Del 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Arne Dahl: En midsommarnattsdröm (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 31,
+                    "original air date": "22 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Recriminations threaten to split the A Unit apart, while the killer strikes again.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Arvidsson, Malin"
+            },
+            {
+                "name": "Minnevik, Natalie"
+            },
+            {
+                "name": "Roney, Shanti"
+            },
+            {
+                "name": "Salzberger, Alexander"
+            },
+            {
+                "name": "Samuelsson, Magnus"
+            },
+            {
+                "name": "Vitali, Vera"
+            },
+            {
+                "name": "Åkerfelt, Niklas"
+            },
+            {
+                "name": "Andersson, Pascal"
+            },
+            {
+                "name": "Boman, Iwa"
+            },
+            {
+                "name": "Hartelius, Claes"
+            },
+            {
+                "name": "Karim, Alexander"
+            },
+            {
+                "name": "Milldoff, Kenneth"
+            },
+            {
+                "name": "Rosenberg, Vanna"
+            },
+            {
+                "name": "Chorabik, Ania"
+            },
+            {
+                "name": "Chyra, Andrzej"
+            },
+            {
+                "name": "Finer, Sarah Dawn"
+            },
+            {
+                "name": "Green, Duncan"
+            },
+            {
+                "name": "Jarneheim, Niklas"
+            },
+            {
+                "name": "Karlsdotter, Sara"
+            },
+            {
+                "name": "Karlsson, Sebastian"
+            },
+            {
+                "name": "Langhammer, Ia"
+            },
+            {
+                "name": "Lindquist, Alex"
+            },
+            {
+                "name": "Linnertorp, Lisa"
+            },
+            {
+                "name": "Nordenrot, Christoffer"
+            },
+            {
+                "name": "Pars, Bahar"
+            },
+            {
+                "name": "Pajak, Patrycja"
+            },
+            {
+                "name": "Persson, Malin"
+            },
+            {
+                "name": "Pettersson, Rafael"
+            },
+            {
+                "name": "Pieczynska, Malgorzata"
+            },
+            {
+                "name": "Pontén, Gunvor"
+            },
+            {
+                "name": "Rudawski, Nina"
+            },
+            {
+                "name": "Thorsson, Jörgen"
+            },
+            {
+                "name": "Wahlström, Ola"
+            },
+            {
+                "name": "Nilsson, Brigitta"
+            },
+            {
+                "name": "Pajak, Patrycja"
+            },
+            {
+                "name": "Törnquist, Elmer"
+            }
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "runtimes": [
+            "115"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "country codes": [
+            "se"
+        ],
+        "language codes": [
+            "sv",
+            "en",
+            "pl"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital::(5.1)"
+        ],
+        "certificates": [
+            "Denmark:15::(DVD rating)",
+            "Finland:K-12",
+            "Norway:15::(DVD rating)",
+            "Sweden:15::(DVD rating)"
+        ],
+        "original air date": "15 Feb 2015 (Sweden)",
+        "number of seasons": 1,
+        "rating": 6.2,
+        "votes": 454,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMWIxODYxMjgtYjcwOS00YTgzLWE5NDItMzhjMGNiNDZhNzgxXkEyXkFqcGdeQXVyMzAyMzEwNTI@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "A series of brutal murders of Polish women hiding out in Sweden is the new A Unit's first assignment. The victims turn out to be key witnesses in a big case against the Polish mafia. Three of them are found murdered within a couple of days, and two are missing. The hope is that the missing women are still alive. Chief Inspector Kerstin Holm gets the case, and the hunt for a ruthless murderer and his shady victims begins.",
+        "languages": [
+            "Swedish",
+            "English",
+            "Polish"
+        ],
+        "title": "Arne Dahl: En midsommarnattsdröm",
+        "year": 2015,
+        "kind": "tv mini series",
+        "series years": "2015-2015",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Ahrnbom, Erik"
+            },
+            {
+                "name": "Dahl, Arne"
+            },
+            {
+                "name": "Falck, Peter Emanuel"
+            }
+        ],
+        "director": [
+            {
+                "name": "Diesen, Trygve Allister"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Filmlance International AB"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Film1"
+            },
+            {
+                "name": "Sveriges Television (SVT)"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            },
+            {
+                "name": "Zweites Deutsches Fernsehen (ZDF)"
+            }
+        ],
+        "plot": [
+            "A series of brutal murders of Polish women hiding out in Sweden is the new A Unit's first assignment. The victims turn out to be key witnesses in a big case against the Polish mafia. Three of them are found murdered within a couple of days, and two are missing. The hope is that the missing women are still alive. Chief Inspector Kerstin Holm gets the case, and the hunt for a ruthless murderer and his shady victims begins."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr 55 min (115 min) (2 parts)"
+            ],
+            "sound mix": [
+                "Dolby Digital (5.1)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 454,
+                "rating": 6.2
+            },
+            "aged 18 29": {
+                "votes": 40,
+                "rating": 6.3
+            },
+            "aged 30 44": {
+                "votes": 138,
+                "rating": 5.8
+            },
+            "aged 45 plus": {
+                "votes": 176,
+                "rating": 6.3
+            },
+            "males": {
+                "votes": 295,
+                "rating": 5.9
+            },
+            "males aged 18 29": {
+                "votes": 24,
+                "rating": 5.9
+            },
+            "males aged 30 44": {
+                "votes": 117,
+                "rating": 5.7
+            },
+            "males aged 45 plus": {
+                "votes": 137,
+                "rating": 6.2
+            },
+            "females": {
+                "votes": 83,
+                "rating": 6.8
+            },
+            "females aged 18 29": {
+                "votes": 16,
+                "rating": 6.9
+            },
+            "females aged 30 44": {
+                "votes": 21,
+                "rating": 6.5
+            },
+            "females aged 45 plus": {
+                "votes": 39,
+                "rating": 6.8
+            },
+            "top 1000 voters": {
+                "votes": 24,
+                "rating": 5.8
+            },
+            "us users": {
+                "votes": 16,
+                "rating": 7.5
+            },
+            "non us users": {
+                "votes": 285,
+                "rating": 5.9
+            }
+        },
+        "number of votes": {
+            "10": 28,
+            "9": 15,
+            "8": 55,
+            "7": 106,
+            "6": 117,
+            "5": 66,
+            "4": 39,
+            "3": 14,
+            "2": 8,
+            "1": 6
+        },
+        "arithmetic mean": 6.3,
+        "median": 6
+    }
+}

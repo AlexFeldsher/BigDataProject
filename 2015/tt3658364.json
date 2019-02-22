@@ -1,0 +1,562 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "4 January 2015"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "8 May 2015"
+            },
+            {
+                "country": "Poland\n",
+                "date": "4 May 2016"
+            },
+            {
+                "country": "Italy\n",
+                "date": "25 August 2017"
+            },
+            {
+                "country": "Finland\n",
+                "date": "22 November 2017",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "Finland\n",
+                "date": "6 June 2018"
+            }
+        ],
+        "release dates": [
+            "Germany::4 January 2015",
+            "Sweden::8 May 2015",
+            "Poland::4 May 2016",
+            "Italy::25 August 2017",
+            "Finland::22 November 2017                            (DVD premiere)",
+            "Finland::6 June 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Tannbach"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Линия на разделението"
+            },
+            {
+                "countries": "Denmark",
+                "title": "Tannbach: Den delte by"
+            },
+            {
+                "countries": "Finland",
+                "title": "Tannbach, vartioitu kylä"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Tannbach - ett krigsöde"
+            },
+            {
+                "countries": "Finland (DVD title)",
+                "title": "Tannbach"
+            },
+            {
+                "countries": "Germany (complete title)",
+                "title": "Tannbach - Schicksal eines Dorfes"
+            },
+            {
+                "countries": "Germany (alternative spelling)",
+                "title": "Tannbach 2"
+            },
+            {
+                "countries": "Italy",
+                "title": "Linea di separazione"
+            },
+            {
+                "countries": "Poland",
+                "title": "Tannbach: Podzielona wioska"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "Line of Separation"
+            },
+            {
+                "title": "Tannbach II"
+            }
+        ],
+        "akas": [
+            "Tannbach (original title)",
+            "Линия на разделението Bulgaria (Bulgarian title)",
+            "Tannbach: Den delte by Denmark",
+            "Tannbach, vartioitu kylä Finland",
+            "Tannbach - ett krigsöde Finland (Swedish title)",
+            "Tannbach Finland (DVD title)",
+            "Tannbach - Schicksal eines Dorfes Germany (complete title)",
+            "Tannbach 2 Germany (alternative spelling)",
+            "Linea di separazione Italy",
+            "Tannbach: Podzielona wioska Poland",
+            "Line of Separation World-wide (English title)",
+            "Tannbach II "
+        ],
+        "akas from release info": [
+            "Tannbach (original title)",
+            "Линия на разделението Bulgaria (Bulgarian title)",
+            "Tannbach: Den delte by Denmark",
+            "Tannbach, vartioitu kylä Finland",
+            "Tannbach - ett krigsöde Finland (Swedish title)",
+            "Tannbach Finland (DVD title)",
+            "Tannbach - Schicksal eines Dorfes Germany (complete title)",
+            "Tannbach 2 Germany (alternative spelling)",
+            "Linea di separazione Italy",
+            "Tannbach: Podzielona wioska Poland",
+            "Line of Separation World-wide (English title)",
+            "Tannbach II "
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Schatten des Krieges",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Line of Separation (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 30,
+                    "original air date": "8 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Shadow of war.    "
+                },
+                "2": {
+                    "title": "Frieden aus Stein",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Line of Separation (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 27,
+                    "original air date": "10 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Peace of stone.    "
+                },
+                "3": {
+                    "title": "Traum von Frühling",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Line of Separation (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 24,
+                    "original air date": "11 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Dream of spring.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Der Morgen nach dem Krieg",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Line of Separation (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 58,
+                    "original air date": "4 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Towards the end of WW2 American troops are taking the village, but the Russian (Soviet) troops are not far off.    "
+                },
+                "2": {
+                    "title": "Die Enteignung",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Line of Separation (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 52,
+                    "original air date": "5 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    After the end of WW2, the owners of large estates in Germany see their land taken off them and are banned from visiting their former estates. The village Tannbach initially falls into the Russian controlled sector of Germany.    "
+                },
+                "3": {
+                    "title": "Mein Land, dein Land",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Line of Separation (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 49,
+                    "original air date": "7 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    In the aftermath of WW2, Germany is divided into a Russian, American, British and French sectors. The border between the Russian and the American sector runs along the river, straight down the middle of the village of Tannbach.    "
+                }
+            }
+        },
+        "number of episodes": 6,
+        "cast": [
+            {
+                "name": "Bittenbinder, Johanna"
+            },
+            {
+                "name": "Berlin, Jonathan"
+            },
+            {
+                "name": "Confurius, Henriette"
+            },
+            {
+                "name": "Lauterbach, Heiner"
+            },
+            {
+                "name": "Gedeck, Martina"
+            },
+            {
+                "name": "Held, Alexander"
+            },
+            {
+                "name": "Brückner, Florian"
+            },
+            {
+                "name": "Busch, Inga"
+            },
+            {
+                "name": "Habdank, Wowo"
+            },
+            {
+                "name": "Auth, Senta"
+            },
+            {
+                "name": "Hopp, Max"
+            },
+            {
+                "name": "Brückner, Maximilian"
+            },
+            {
+                "name": "Schneider, Peter"
+            },
+            {
+                "name": "Nay, Jonas"
+            },
+            {
+                "name": "Müller, Mercedes"
+            },
+            {
+                "name": "Nemrow, Clayton"
+            },
+            {
+                "name": "Uhl, Nadja"
+            },
+            {
+                "name": "Stadlober, Robert"
+            },
+            {
+                "name": "Trepte, Ludwig"
+            },
+            {
+                "name": "Schick, Clemens"
+            },
+            {
+                "name": "Dragus, Maria"
+            },
+            {
+                "name": "Wasserscheid, Elisabeth"
+            },
+            {
+                "name": "Bock, Rainer"
+            },
+            {
+                "name": "Schmidt, Max"
+            },
+            {
+                "name": "Mock, Christian"
+            },
+            {
+                "name": "Dobrý, Karel"
+            },
+            {
+                "name": "Frejková, Hana"
+            },
+            {
+                "name": "Vahalová, Lenka"
+            },
+            {
+                "name": "Zehrfeld, Ronald"
+            },
+            {
+                "name": "Wörner, Natalia"
+            },
+            {
+                "name": "Kunze-Libnow, Ramona"
+            },
+            {
+                "name": "Loos, Anna"
+            },
+            {
+                "name": "Sengewald, Christian"
+            },
+            {
+                "name": "Tarrach, Jürgen"
+            },
+            {
+                "name": "Zart, Christine"
+            },
+            {
+                "name": "Mladeck, Kyra"
+            },
+            {
+                "name": "Morillon, Charles"
+            },
+            {
+                "name": "Polisenský, Karel"
+            },
+            {
+                "name": "Derzsi, Réka"
+            },
+            {
+                "name": "Beseda, Karel"
+            },
+            {
+                "name": "Witte, Jörg"
+            },
+            {
+                "name": "Brause, Kasimir"
+            },
+            {
+                "name": "Gummich, Anne-Kathrin"
+            },
+            {
+                "name": "Kowalski, Rudolf"
+            },
+            {
+                "name": "Höner, Stefanie"
+            },
+            {
+                "name": "Zimmerschied, David"
+            },
+            {
+                "name": "Manchen, Klaus"
+            },
+            {
+                "name": "Lennartz, Monika"
+            },
+            {
+                "name": "Brem, Rudolf Waldemar"
+            },
+            {
+                "name": "Schmidbauer, Sarah-Lavinia"
+            }
+        ],
+        "locations": [
+            "Dietelhof, Oberfränkisches Bauernhofmuseum Kleinlosnitz, Germany",
+            "Prague, Czech Republic",
+            "Thuringia, Germany",
+            "Bavaria, Germany",
+            "Czech Republic",
+            "Germany"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "countries": [
+            "Germany",
+            "Czech Republic"
+        ],
+        "country codes": [
+            "de",
+            "cz"
+        ],
+        "language codes": [
+            "de"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Finland:K-16",
+            "Germany:12"
+        ],
+        "number of seasons": 2,
+        "rating": 7.4,
+        "votes": 560,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNTlmODhlNjAtNjE0Yy00N2ZiLTkwODUtYWUwODQ4MzBmOWFjXkEyXkFqcGdeQXVyNjE3NzgzMDM@._V1_SY150_CR63,0,101,150_.jpg",
+        "plot outline": "A little German town located on the Bavarian and Thuringian border gets caught in the current of world history at the end of the Second World War. Family, friends and lovers are separated from each other, first by a wooden fence, later by a border with shoot-to-kill order. \"Tannbach\" is a German-German story under the burning glass, exemplified by the fate of a small village community.",
+        "languages": [
+            "German"
+        ],
+        "title": "Line of Separation",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Thayenthal, Robert"
+            },
+            {
+                "name": "Pristl, Martin"
+            },
+            {
+                "name": "Sperl, Gabriela"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Gabriela Sperl Produktion"
+            },
+            {
+                "name": "Wiedemann & Berg Television"
+            },
+            {
+                "name": "Wiedemann & Berg Television"
+            },
+            {
+                "name": "Wilma Film"
+            },
+            {
+                "name": "Zweites Deutsches Fernsehen (ZDF)"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Atlantic Film"
+            },
+            {
+                "name": "EuroVideo"
+            },
+            {
+                "name": "EuroVideo"
+            },
+            {
+                "name": "EuroVideo"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            },
+            {
+                "name": "Zweites Deutsches Fernsehen (ZDF)"
+            },
+            {
+                "name": "Zweites Deutsches Fernsehen (ZDF)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "FilmFernsehFonds Bayern"
+            },
+            {
+                "name": "Mitteldeutsche Medienförderung (MDM)"
+            },
+            {
+                "name": "Státní fond kinematografie"
+            }
+        ],
+        "plot": [
+            "A story of one village in Germany at the end of WW2.",
+            "A little German town located on the Bavarian and Thuringian border gets caught in the current of world history at the end of the Second World War. Family, friends and lovers are separated from each other, first by a wooden fence, later by a border with shoot-to-kill order. \"Tannbach\" is a German-German story under the burning glass, exemplified by the fate of a small village community.::Wiedemann & Berg Television"
+        ],
+        "tech": {
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 560,
+                "rating": 7.4
+            },
+            "aged 18 29": {
+                "votes": 57,
+                "rating": 7.4
+            },
+            "aged 30 44": {
+                "votes": 151,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 209,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 358,
+                "rating": 7.2
+            },
+            "males aged 18 29": {
+                "votes": 40,
+                "rating": 7.3
+            },
+            "males aged 30 44": {
+                "votes": 128,
+                "rating": 6.9
+            },
+            "males aged 45 plus": {
+                "votes": 168,
+                "rating": 7.4
+            },
+            "females": {
+                "votes": 83,
+                "rating": 7.7
+            },
+            "females aged 18 29": {
+                "votes": 17,
+                "rating": 7.9
+            },
+            "females aged 30 44": {
+                "votes": 21,
+                "rating": 7.9
+            },
+            "females aged 45 plus": {
+                "votes": 35,
+                "rating": 7.4
+            },
+            "top 1000 voters": {
+                "votes": 17,
+                "rating": 5.9
+            },
+            "us users": {
+                "votes": 18,
+                "rating": 7.1
+            },
+            "non us users": {
+                "votes": 341,
+                "rating": 7.3
+            }
+        },
+        "number of votes": {
+            "10": 66,
+            "9": 78,
+            "8": 171,
+            "7": 141,
+            "6": 45,
+            "5": 32,
+            "4": 7,
+            "3": 4,
+            "2": 3,
+            "1": 13
+        },
+        "arithmetic mean": 7.5,
+        "median": 8
+    }
+}
