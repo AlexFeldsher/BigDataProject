@@ -1,0 +1,421 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Ireland\n",
+                "date": "24 September 2017"
+            },
+            {
+                "country": "Spain\n",
+                "date": "13 December 2017"
+            }
+        ],
+        "release dates": [
+            "Ireland::24 September 2017",
+            "Spain::13 December 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Acceptable Risk"
+            },
+            {
+                "countries": "Denmark",
+                "title": "Hun giver ikke op"
+            },
+            {
+                "countries": "USA",
+                "title": "Acceptable Risk"
+            }
+        ],
+        "akas": [
+            "Acceptable Risk (original title)",
+            "Hun giver ikke op Denmark",
+            "Acceptable Risk USA"
+        ],
+        "akas from release info": [
+            "Acceptable Risk (original title)",
+            "Hun giver ikke op Denmark",
+            "Acceptable Risk USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Acceptable Risk (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 40,
+                    "original air date": "24 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    The wife of a man traveling on business for a large drug company learns that her husband has died while on a business trip.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Acceptable Risk (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 32,
+                    "original air date": "1 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    An international conspiracy seems to be behind the death of Sarah's husband.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Acceptable Risk (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 30,
+                    "original air date": "1 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Sarah learns that the deaths of both her husbands may be connected.    "
+                },
+                "4": {
+                    "title": "Episode #1.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Acceptable Risk (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 31,
+                    "original air date": "1 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    The conspirators behind the blackmail and deaths begin to panic as links to the murders come into focus.    "
+                },
+                "5": {
+                    "title": "Episode #1.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Acceptable Risk (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 27,
+                    "original air date": "1 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Sarah buries her husband and attends the funeral of the drug company's security head, where she confronts Dr. Hoffman, whom she believes is behind the string of deaths.    "
+                },
+                "6": {
+                    "title": "Episode #1.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Acceptable Risk (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 26,
+                    "original air date": "1 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    As the investigation into the international conspiracy is shut down, Sarah and DS Byrne continue to dig into the cause of the many deaths connected to the drug company, which seem to be connected to a plot of land owned by the company.    "
+                }
+            }
+        },
+        "number of episodes": 6,
+        "cast": [
+            {
+                "name": "Cassidy, Elaine"
+            },
+            {
+                "name": "Suurballe, Morten"
+            },
+            {
+                "name": "Ball, Angeline"
+            },
+            {
+                "name": "Hogg, Lisa Dwyer"
+            },
+            {
+                "name": "Johnson, Geordie"
+            },
+            {
+                "name": "Popowich, Paul"
+            },
+            {
+                "name": "Cooper, Risteard"
+            },
+            {
+                "name": "Moran, Kate"
+            },
+            {
+                "name": "Nolan, Rory"
+            },
+            {
+                "name": "Curtis, Gloria Cramer"
+            },
+            {
+                "name": "O'Sullivan, Elijah"
+            },
+            {
+                "name": "Molloy, Dearbhla"
+            },
+            {
+                "name": "Walker, Catherine"
+            },
+            {
+                "name": "Ardiff, Karen"
+            },
+            {
+                "name": "Jackson, Eddie"
+            },
+            {
+                "name": "Kelly, Charlie"
+            },
+            {
+                "name": "Andoh, Adjoa"
+            },
+            {
+                "name": "Cranitch, Lorcan"
+            },
+            {
+                "name": "Tecce, Maria"
+            },
+            {
+                "name": "Knight, Madeleine"
+            },
+            {
+                "name": "White, Ali"
+            },
+            {
+                "name": "Loughlin, Catriona"
+            },
+            {
+                "name": "Brass, Lorne"
+            },
+            {
+                "name": "Súilleabháin, Tomás Ó"
+            },
+            {
+                "name": "Meade, Paul"
+            },
+            {
+                "name": "Robinson, Garry"
+            },
+            {
+                "name": "Mhurchú, Caitríona Ní"
+            },
+            {
+                "name": "Crowley, Carrie"
+            },
+            {
+                "name": "Kwan, Albert"
+            },
+            {
+                "name": "Rybarczyk, Ignacy"
+            },
+            {
+                "name": "Bell, Fiona"
+            },
+            {
+                "name": "Lovett, Conor"
+            },
+            {
+                "name": "Kelly, Phil"
+            },
+            {
+                "name": "Curry, Dave"
+            },
+            {
+                "name": "Quinn, John"
+            },
+            {
+                "name": "Ivanovici, Alex"
+            },
+            {
+                "name": "Murphy, Michael Glenn"
+            },
+            {
+                "name": "Guinnane, Rebecca"
+            },
+            {
+                "name": "Foley, Maura"
+            },
+            {
+                "name": "Henry, Sarah Beth"
+            }
+        ],
+        "locations": [
+            "Montreal, Canada::(on location)",
+            "Dublin, Ireland::(on location)",
+            "Wicklow, Ireland::(on location)"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "Ireland"
+        ],
+        "country codes": [
+            "ie"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Spain:16",
+            "United States:Not Rated"
+        ],
+        "original air date": "24 Sep 2017 (Ireland)",
+        "number of seasons": 1,
+        "rating": 6.7,
+        "votes": 513,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYzRmMGIzZTItNjY5MS00N2JiLTgwMmItZjk2Y2QwMmNiOTk4XkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "When her husband, Lee, is murdered, Sarah Manning comes to realize that she knows nothing about his past. Sarah begins to question who Lee actually was and what he did in his work for a powerful global organization. And why did Lee, a salesman, need to carry a gun?",
+        "languages": [
+            "English"
+        ],
+        "title": "Acceptable Risk",
+        "year": 2017,
+        "kind": "tv mini series",
+        "series years": "2017-2017",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Hutchinson, Ron"
+            }
+        ],
+        "director": [
+            {
+                "name": "Glenaan, Kenneth"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Acorn Media Enterprises"
+            },
+            {
+                "name": "Facet4 Media"
+            },
+            {
+                "name": "Raidió Teilifís Éireann"
+            },
+            {
+                "name": "Saffron Moon"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Alchemy 24"
+            }
+        ],
+        "plot": [
+            "When her husband, Lee, is murdered, Sarah Manning comes to realize that she knows nothing about his past. Sarah begins to question who Lee actually was and what he did in his work for a powerful global organization. And why did Lee, a salesman, need to carry a gun?"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 513,
+                "rating": 6.7
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 1.0
+            },
+            "aged 18 29": {
+                "votes": 17,
+                "rating": 6.0
+            },
+            "aged 30 44": {
+                "votes": 75,
+                "rating": 5.5
+            },
+            "aged 45 plus": {
+                "votes": 233,
+                "rating": 7.1
+            },
+            "males": {
+                "votes": 200,
+                "rating": 6.6
+            },
+            "males aged 18 29": {
+                "votes": 8,
+                "rating": 5.9
+            },
+            "males aged 30 44": {
+                "votes": 26,
+                "rating": 4.9
+            },
+            "males aged 45 plus": {
+                "votes": 139,
+                "rating": 7.0
+            },
+            "females": {
+                "votes": 169,
+                "rating": 6.9
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 1.0
+            },
+            "females aged 18 29": {
+                "votes": 9,
+                "rating": 6.3
+            },
+            "females aged 30 44": {
+                "votes": 47,
+                "rating": 6.2
+            },
+            "females aged 45 plus": {
+                "votes": 91,
+                "rating": 7.2
+            },
+            "top 1000 voters": {
+                "votes": 18,
+                "rating": 5.6
+            },
+            "us users": {
+                "votes": 121,
+                "rating": 7.2
+            },
+            "non us users": {
+                "votes": 165,
+                "rating": 6.2
+            }
+        },
+        "number of votes": {
+            "10": 58,
+            "9": 53,
+            "8": 121,
+            "7": 104,
+            "6": 68,
+            "5": 39,
+            "4": 24,
+            "3": 15,
+            "2": 10,
+            "1": 21
+        },
+        "arithmetic mean": 6.9,
+        "median": 7
+    }
+}

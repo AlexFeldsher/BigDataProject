@@ -1,0 +1,77 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "5 May 2017"
+            },
+            {
+                "country": "USA\n",
+                "date": "17 June 2017"
+            }
+        ],
+        "release dates": [
+            "USA::5 May 2017",
+            "USA::17 June 2017"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Trailer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dance High (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "5 May 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Dance High",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-2017",
+        "akas": [
+            "Dance High (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Clemmons, Charles"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "C2 Entertainment"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

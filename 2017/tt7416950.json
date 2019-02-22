@@ -1,0 +1,344 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Finland\n",
+                "date": "23 September 2017",
+                "notes": "                            (Helsinki International Film Festival)"
+            },
+            {
+                "country": "Finland\n",
+                "date": "23 September 2017",
+                "notes": "                            (YLE Areena)"
+            },
+            {
+                "country": "Finland\n",
+                "date": "23 September 2017",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Finland\n",
+                "date": "29 October 2017"
+            }
+        ],
+        "release dates": [
+            "Finland::23 September 2017                            (Helsinki International Film Festival)",
+            "Finland::23 September 2017                            (YLE Areena)",
+            "Finland::23 September 2017                            (internet)",
+            "Finland::29 October 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Myrskyn jälkeen"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Efter stormen"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "Love and Order"
+            }
+        ],
+        "akas": [
+            "Myrskyn jälkeen (original title)",
+            "Efter stormen Finland (Swedish title)",
+            "Love and Order World-wide (English title)"
+        ],
+        "akas from release info": [
+            "Myrskyn jälkeen (original title)",
+            "Efter stormen Finland (Swedish title)",
+            "Love and Order World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Suomi on elämänsä kunnossa",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love and Order (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 6,
+                    "original air date": "23 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Life will never be the same after a gigantic storm wipes out Finland's infrastructure. The whole country is on edge and in Helsinki, Police Commissioner Rauni Kolehmainen does her best to calm frayed nerves.    "
+                },
+                "2": {
+                    "title": "Duel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love and Order (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "23 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Tensions between Finnish broadcaster YLE and the Police run high after an officer has a nervous breakdown live on air. Meanwhile, Rauni makes a mistake that could complicate things.    "
+                },
+                "3": {
+                    "title": "Eteenpäin!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love and Order (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "2017",
+                    "year": "2017",
+                    "plot": "\n    Rauni awakens to find herself at the home of an old friend, but unable to remember the previous night. Larsson discovers the reason behind everyone's strange behavior.    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Hazard, Kaarina"
+            },
+            {
+                "name": "Hanikka, Henry"
+            },
+            {
+                "name": "Roiha, Mikko"
+            },
+            {
+                "name": "Räsänen, Aimo"
+            },
+            {
+                "name": "Rämä, Laura"
+            },
+            {
+                "name": "Holma, Antti"
+            },
+            {
+                "name": "Heikkinen, Pekka"
+            },
+            {
+                "name": "Kettunen, Susanna"
+            },
+            {
+                "name": "Pesä, Preeti"
+            },
+            {
+                "name": "Halkola, Kristiina"
+            },
+            {
+                "name": "Melasniemi, Eero"
+            },
+            {
+                "name": "Lyytikäinen, Anna-Elina"
+            },
+            {
+                "name": "Onnismaa, Matti"
+            },
+            {
+                "name": "Tuomenvirta, Linus"
+            },
+            {
+                "name": "Tuppurainen, Allan"
+            },
+            {
+                "name": "Viitasalo, Sari"
+            },
+            {
+                "name": "Korpela, Tommi"
+            },
+            {
+                "name": "Knihtilä, Elina"
+            },
+            {
+                "name": "Harjunpää, Juho"
+            },
+            {
+                "name": "Rämä, Vihtori"
+            },
+            {
+                "name": "Hosiasluoma, Niina"
+            },
+            {
+                "name": "Haarla, Seidi"
+            },
+            {
+                "name": "Aalto-Setälä, Pauli"
+            },
+            {
+                "name": "Astala, Erkki"
+            },
+            {
+                "name": "Hyvärinen, Susanna"
+            },
+            {
+                "name": "Mustanoja, Juha"
+            },
+            {
+                "name": "Nousiainen, Eija"
+            },
+            {
+                "name": "Sivonen, Joonas"
+            },
+            {
+                "name": "Peltonen, Rami"
+            },
+            {
+                "name": "Untamo, Lauri"
+            }
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "166"
+        ],
+        "countries": [
+            "Finland"
+        ],
+        "country codes": [
+            "fi"
+        ],
+        "language codes": [
+            "fi"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Finland:K-12"
+        ],
+        "original air date": "23 Sep 2017 (Finland)",
+        "number of seasons": 1,
+        "rating": 5.7,
+        "votes": 53,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYTI0NTJhMzMtZWMyZS00Y2EyLTlkMDgtMTZlYjIyZWE2ZWQ1XkEyXkFqcGdeQXVyNTQ0Mzk3MDg@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "Finnish"
+        ],
+        "title": "Love and Order",
+        "year": 2017,
+        "kind": "tv mini series",
+        "series years": "2017-2017",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Hazard, Kaarina"
+            },
+            {
+                "name": "Klemola, Leea"
+            }
+        ],
+        "director": [
+            {
+                "name": "Klemola, Leea"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Elokuvayhtiö Oy Aamu"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "plot": [
+            "A massive storm has devastated the infrastructure of Finland. Police Commissioner Rauni Kolehmainen tries her best to keep order at home and in her community.::Nick Runyeard"
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr 46 min (166 min) (total run time)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 53,
+                "rating": 5.7
+            },
+            "aged 18 29": {
+                "votes": 3,
+                "rating": 7.3
+            },
+            "aged 30 44": {
+                "votes": 29,
+                "rating": 6.0
+            },
+            "aged 45 plus": {
+                "votes": 13,
+                "rating": 5.2
+            },
+            "males": {
+                "votes": 42,
+                "rating": 5.7
+            },
+            "males aged 18 29": {
+                "votes": 2,
+                "rating": 8.5
+            },
+            "males aged 30 44": {
+                "votes": 26,
+                "rating": 5.9
+            },
+            "males aged 45 plus": {
+                "votes": 13,
+                "rating": 5.2
+            },
+            "females": {
+                "votes": 4,
+                "rating": 6.8
+            },
+            "females aged 18 29": {
+                "votes": 1,
+                "rating": 5.0
+            },
+            "females aged 30 44": {
+                "votes": 3,
+                "rating": 7.3
+            },
+            "top 1000 voters": {
+                "votes": 3,
+                "rating": 4.0
+            },
+            "us users": {
+                "votes": 2,
+                "rating": 3.0
+            },
+            "non us users": {
+                "votes": 39,
+                "rating": 6.0
+            }
+        },
+        "number of votes": {
+            "10": 2,
+            "9": 3,
+            "8": 5,
+            "7": 13,
+            "6": 9,
+            "5": 8,
+            "4": 2,
+            "3": 4,
+            "2": 1,
+            "1": 6
+        },
+        "arithmetic mean": 5.7,
+        "median": 6
+    }
+}

@@ -1,0 +1,325 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "11 July 2017"
+            },
+            {
+                "country": "USA\n",
+                "date": "11 July 2017",
+                "notes": "                            (SVOD premiere)"
+            },
+            {
+                "country": "Australia\n",
+                "date": "19 July 2017",
+                "notes": "                            (TV broadcast)"
+            }
+        ],
+        "release dates": [
+            "USA::11 July 2017",
+            "USA::11 July 2017                            (SVOD premiere)",
+            "Australia::19 July 2017                            (TV broadcast)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "My Pacific Quest"
+            },
+            {
+                "countries": "Brazil (alternative title)",
+                "title": "Desafio em Alto Mar"
+            },
+            {
+                "countries": "Denmark (alternative title)",
+                "title": "Min stillehavssejlads"
+            },
+            {
+                "countries": "Germany (alternative title)",
+                "title": "Über dem Horizont"
+            },
+            {
+                "countries": "Germany",
+                "title": "Mein Pazifikabenteuer"
+            },
+            {
+                "countries": "Poland (alternative title)",
+                "title": "Pacyfik I ja"
+            },
+            {
+                "countries": "Romania (alternative title)",
+                "title": "Aventuri în Pacific"
+            },
+            {
+                "countries": "USA (alternative title)",
+                "title": "Over the Horizon"
+            }
+        ],
+        "akas": [
+            "My Pacific Quest (original title)",
+            "Desafio em Alto Mar Brazil (alternative title)",
+            "Min stillehavssejlads Denmark (alternative title)",
+            "Über dem Horizont Germany (alternative title)",
+            "Mein Pazifikabenteuer Germany",
+            "Pacyfik I ja Poland (alternative title)",
+            "Aventuri în Pacific Romania (alternative title)",
+            "Over the Horizon USA (alternative title)"
+        ],
+        "akas from release info": [
+            "My Pacific Quest (original title)",
+            "Desafio em Alto Mar Brazil (alternative title)",
+            "Min stillehavssejlads Denmark (alternative title)",
+            "Über dem Horizont Germany (alternative title)",
+            "Mein Pazifikabenteuer Germany",
+            "Pacyfik I ja Poland (alternative title)",
+            "Aventuri în Pacific Romania (alternative title)",
+            "Over the Horizon USA (alternative title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "New Zealand & the Kermedec Islands",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Pacific Quest (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "11 Jul. 2017",
+                    "year": "2017",
+                    "plot": "\n    Having conquered mountains and rivers in his homeland of New Zealand, his sights are now set on exploring the remote islands of the Pacific you can only get to by boat.    "
+                },
+                "2": {
+                    "title": "Tonga & Lofi's Island",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Pacific Quest (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "18 Jul. 2017",
+                    "year": "2017",
+                    "plot": "\n    Ellis befriends a local named Lofi, and the two set sail for the isolated island of Tofua. Along the way they explore a newly formed volcanic island, navigate treacherous coral reefs, and must hunt for their dinner.    "
+                },
+                "3": {
+                    "title": "Fiji & the Lau Group",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Pacific Quest (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "25 Jul. 2017",
+                    "year": "2017",
+                    "plot": "\n    Explorer Ellis Emmett sets sail for the islands of Fiji, where he comes face to face with bull sharks, partakes in ancient Fijian fire walking rituals, and anchors in the remote Lau Islands, a beautiful place with a violent past.    "
+                },
+                "4": {
+                    "title": "Wallis & Futuna",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Pacific Quest (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "1 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    Host Ellis Emmett has his first brush with royalty on the island kingdoms of Wallis and Futuna. But it is the life of a lone man, living simply on a remote island, which truly captures Ellis' imagination. Ever the adventurer, Ellis dives into a lake that, according to local legend, is full of mysteries and monsters.    "
+                },
+                "5": {
+                    "title": "The Marshall Islands",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Pacific Quest (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    The Marshall Islands have a long human history, but it is the more recent saga that was thrust upon them during World War II and its aftermath that draws host Ellis Emmett to its shores. Following the Allied victory, the United States moved the local inhabitants from their quiet paradise in order to conduct atomic bomb testing at the famous Bikini Atoll. Ellis explores how, almost 65 years later, both the people and environment continue to be affected.    "
+                },
+                "6": {
+                    "title": "Kiribati",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Pacific Quest (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "15 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    For thousands of years, the island peoples of the Pacific were masters of the ocean, braving angry seas in handmade canoes and navigating by the stars. But, these traditional ways are being lost to modernity. Adventurer Ellis Emmett helps get a traditional canoe back on the water, and sees first-hand how rising seas are changing life in the island chains of Kiribati.    "
+                }
+            }
+        },
+        "number of episodes": 6,
+        "cast": [
+            {
+                "name": "Emmett, Ellis"
+            }
+        ],
+        "locations": [
+            "New Zealand::(on location)",
+            "New Zealand",
+            "Tonga",
+            "Fiji",
+            "Marshall Islands",
+            "Kiribati"
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "Canada",
+            "New Zealand"
+        ],
+        "country codes": [
+            "ca",
+            "nz"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "number of seasons": 1,
+        "rating": 9.1,
+        "votes": 17,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNjkwNTFhNWQtZTYzYy00ZGE4LTgwZGYtZjlkZDliY2I0ODdjXkEyXkFqcGdeQXVyNzkzNjQwNTY@._V1_SY150_CR3,0,101,150_.jpg",
+        "plot outline": "Kiwi adventurer Ellis Emmett embarks on an incredible journey across the waves of the South Pacific. He must harness the power of the wind to explore some of the most remote islands and atolls on the planet; places only accessible by sailboat. Greeted by the isolated people who call these shores home, Ellis immerses himself in the fascinating, yet threatened cultures of Tonga, Fiji, Wallis and Futuna, the Marshall Islands, and Kiribati.",
+        "languages": [
+            "English"
+        ],
+        "title": "My Pacific Quest",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-",
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Over the Horizon Pictures"
+            },
+            {
+                "name": "Go Wild Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "National Geographic Channel Network"
+            },
+            {
+                "name": "Outside Television Inc."
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Periscope Film"
+            }
+        ],
+        "plot": [
+            "Kiwi adventurer Ellis Emmett embarks on an incredible journey across the waves of the South Pacific. He must harness the power of the wind to explore some of the most remote islands and atolls on the planet; places only accessible by sailboat. Greeted by the isolated people who call these shores home, Ellis immerses himself in the fascinating, yet threatened cultures of Tonga, Fiji, Wallis and Futuna, the Marshall Islands, and Kiribati."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Red Dragon"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 17,
+                "rating": 9.1
+            },
+            "aged 18 29": {
+                "votes": 2,
+                "rating": 10.0
+            },
+            "aged 30 44": {
+                "votes": 6,
+                "rating": 7.0
+            },
+            "aged 45 plus": {
+                "votes": 2,
+                "rating": 8.5
+            },
+            "males": {
+                "votes": 10,
+                "rating": 7.7
+            },
+            "males aged 18 29": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 30 44": {
+                "votes": 5,
+                "rating": 6.8
+            },
+            "males aged 45 plus": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "females": {
+                "votes": 3,
+                "rating": 9.7
+            },
+            "females aged 18 29": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 30 44": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 45 plus": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "top 1000 voters": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "us users": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "non us users": {
+                "votes": 7,
+                "rating": 7.6
+            }
+        },
+        "number of votes": {
+            "10": 10,
+            "9": 3,
+            "8": 1,
+            "7": 2,
+            "6": 0,
+            "5": 1,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+        },
+        "arithmetic mean": 9.1,
+        "median": 1
+    }
+}

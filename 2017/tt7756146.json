@@ -1,0 +1,113 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "19 May 2017"
+            },
+            {
+                "country": "USA\n",
+                "date": "19 May 2017",
+                "notes": "                            (video premiere)"
+            }
+        ],
+        "release dates": [
+            "USA::19 May 2017",
+            "USA::19 May 2017                            (video premiere)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Barry Mickey the Ultimate Human (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "19 May 2017",
+                    "year": "2017",
+                    "plot": "\n    Barry Mickey sneaks into a high school party to steal alcohol, but finds himself befriending the people he's stealing from.    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Hodge, Peter"
+            },
+            {
+                "name": "Walker, Joshua"
+            },
+            {
+                "name": "Domenic, Justus"
+            },
+            {
+                "name": "Josten, Timothy"
+            },
+            {
+                "name": "Phillips, Lauren"
+            },
+            {
+                "name": "Russell, Ben"
+            },
+            {
+                "name": "Wong, Savannah"
+            }
+        ],
+        "locations": [
+            "Stevenson Ranch, California, USA::(Michael's House)"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "original air date": "19 May 2017 (USA)",
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMWEwNTViMjEtZTUxMC00NjU1LTk2YWQtMmFkNTA4MWY3N2JjXkEyXkFqcGdeQXVyMTk4MjI1MDg@._V1_SY150_CR5,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Barry Mickey the Ultimate Human",
+        "year": 2017,
+        "kind": "tv mini series",
+        "series years": "2017-2017",
+        "akas": [
+            "Barry Mickey the Ultimate Human (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Josten, Matthew"
+            }
+        ],
+        "director": [
+            {
+                "name": "Josten, Matthew"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

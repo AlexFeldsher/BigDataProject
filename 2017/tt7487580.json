@@ -1,0 +1,511 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Denmark\n",
+                "date": "10 October 2017"
+            },
+            {
+                "country": "Finland\n",
+                "date": "1 June 2018"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "9 July 2018"
+            }
+        ],
+        "release dates": [
+            "Denmark::10 October 2017",
+            "Finland::1 June 2018",
+            "Sweden::9 July 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Perfekte steder"
+            },
+            {
+                "countries": "Finland",
+                "title": "Levottomat sydämet"
+            },
+            {
+                "countries": "Sweden",
+                "title": "Någon som du"
+            }
+        ],
+        "akas": [
+            "Perfekte steder (original title)",
+            "Levottomat sydämet Finland",
+            "Någon som du Sweden"
+        ],
+        "akas from release info": [
+            "Perfekte steder (original title)",
+            "Levottomat sydämet Finland",
+            "Någon som du Sweden"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Resten af livet?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Perfekte steder (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "23 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Vi connectede ikke",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Perfekte steder (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "original air date": "30 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Sådan en aften",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Perfekte steder (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "7 May 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Varmt",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Perfekte steder (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "original air date": "14 May 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Jeppe eller hvad fuck de hedder",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Perfekte steder (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "original air date": "21 May 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Kommer du?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Perfekte steder (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "original air date": "28 May 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Jeg skal ikke have en kæreste",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Perfekte steder (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 12,
+                    "original air date": "10 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Hvad sker der her?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Perfekte steder (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 9,
+                    "original air date": "17 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "I er så cute",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Perfekte steder (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 7,
+                    "original air date": "24 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Vi skal på safari",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Perfekte steder (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 8,
+                    "original air date": "31 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Så er der ikke noget at gøre",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Perfekte steder (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 7,
+                    "original air date": "7 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Du skal ikke tvivle på os!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Perfekte steder (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 8,
+                    "original air date": "15 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Jeg har gjort noget dumt",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Perfekte steder (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "21 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Hvad venter du på?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Perfekte steder (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 6,
+                    "original air date": "28 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 14,
+        "cast": [
+            {
+                "name": "Giese, Gustav Dyekjær"
+            },
+            {
+                "name": "Ditlevsen, Sara Hjort"
+            },
+            {
+                "name": "Lewerissa, Olivia Joof"
+            },
+            {
+                "name": "Jeppesen, Sophie-Marie"
+            },
+            {
+                "name": "Munk, Elias"
+            },
+            {
+                "name": "Wilkins, Sus"
+            },
+            {
+                "name": "Plum, Søren Birch"
+            },
+            {
+                "name": "Bang, Aske"
+            },
+            {
+                "name": "Skov, Luise"
+            },
+            {
+                "name": "Åkerlind, Jakob"
+            },
+            {
+                "name": "Jensen, Andrea Vagn"
+            },
+            {
+                "name": "Alexander, Ari"
+            },
+            {
+                "name": "Reuther, Mads"
+            },
+            {
+                "name": "Andersen, Julie Brochorst"
+            },
+            {
+                "name": "Hvidtfeldt, Youssef Wayne"
+            },
+            {
+                "name": "Nielsen, Claus Schrøder"
+            },
+            {
+                "name": "Orry, Jacobe"
+            },
+            {
+                "name": "Clement, Alexander"
+            },
+            {
+                "name": "Johansen, Christine Sofie"
+            },
+            {
+                "name": "Kølpin, Niclas Vessel"
+            },
+            {
+                "name": "Sivandi, Ali"
+            },
+            {
+                "name": "Bilist"
+            },
+            {
+                "name": "Stokholm, Maria"
+            },
+            {
+                "name": "Colding-Hansen, Heidi"
+            },
+            {
+                "name": "Sprogøe, Henning"
+            },
+            {
+                "name": "Krarup, Jacob"
+            },
+            {
+                "name": "Blegvad, Ida Leschly"
+            },
+            {
+                "name": "Boysen, Kathrine Elvira"
+            },
+            {
+                "name": "Fjord, Kristian"
+            },
+            {
+                "name": "Hjardemaal, Coco"
+            },
+            {
+                "name": "Jakobsen, Henning Valin"
+            },
+            {
+                "name": "Jensen, Stine Schrøder"
+            },
+            {
+                "name": "Kakooza, Melvin"
+            },
+            {
+                "name": "Kjeldsen, Line Norholt"
+            },
+            {
+                "name": "Marckmann, Mette"
+            },
+            {
+                "name": "Perrier, Gaspard Nicolas"
+            },
+            {
+                "name": "Auchenberg, Christine"
+            },
+            {
+                "name": "Blom, Martin Banghøj"
+            },
+            {
+                "name": "Grünewald, Peter"
+            },
+            {
+                "name": "Mosbæk, Rosemarie"
+            },
+            {
+                "name": "Primdahl, Stine"
+            },
+            {
+                "name": "Rørsig, Clara"
+            }
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "countries": [
+            "Denmark"
+        ],
+        "country codes": [
+            "dk"
+        ],
+        "language codes": [
+            "da"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Norway:12::(recommended rating)"
+        ],
+        "number of seasons": 2,
+        "rating": 6.4,
+        "votes": 213,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOWM0MWFhY2MtMzc4NC00ZWZkLWJiOGItYmY4NzI4OTVlNTg0XkEyXkFqcGdeQXVyNDUyNTY4MjY@._V1_SX101_CR0,0,101,150_.jpg",
+        "plot outline": "The two main characters, Tobias (Gustav Giese) and Rose (Sara Hjort Ditlevsen), who in no way would swipe right in a Tinder app, if they saw each other's profiles, happen randomly on a summer day in Copenhagen. Two strange young people in the middle of each their lives with lots of plans and ideas about the future. The only thing they have in common is that they are both in the same place at the same time. And in a magic moment, a connection will arise between the two that we are allowed to follow for a few months. A crush that changes them both - on good and evil.",
+        "languages": [
+            "Danish"
+        ],
+        "title": "Perfekte steder",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Wulff, Mikael"
+            },
+            {
+                "name": "Mendes, Clara"
+            },
+            {
+                "name": "Tüxen, Marie Louise"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "New Creations"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "TV2 Zulu"
+            }
+        ],
+        "plot": [
+            "The two main characters, Tobias (Gustav Giese) and Rose (Sara Hjort Ditlevsen), who in no way would swipe right in a Tinder app, if they saw each other's profiles, happen randomly on a summer day in Copenhagen. Two strange young people in the middle of each their lives with lots of plans and ideas about the future. The only thing they have in common is that they are both in the same place at the same time. And in a magic moment, a connection will arise between the two that we are allowed to follow for a few months. A crush that changes them both - on good and evil."
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 213,
+                "rating": 6.4
+            },
+            "aged 18 29": {
+                "votes": 59,
+                "rating": 5.8
+            },
+            "aged 30 44": {
+                "votes": 79,
+                "rating": 6.6
+            },
+            "aged 45 plus": {
+                "votes": 27,
+                "rating": 6.8
+            },
+            "males": {
+                "votes": 102,
+                "rating": 6.1
+            },
+            "males aged 18 29": {
+                "votes": 31,
+                "rating": 5.1
+            },
+            "males aged 30 44": {
+                "votes": 48,
+                "rating": 6.2
+            },
+            "males aged 45 plus": {
+                "votes": 19,
+                "rating": 6.8
+            },
+            "females": {
+                "votes": 72,
+                "rating": 7.0
+            },
+            "females aged 18 29": {
+                "votes": 26,
+                "rating": 7.0
+            },
+            "females aged 30 44": {
+                "votes": 30,
+                "rating": 7.1
+            },
+            "females aged 45 plus": {
+                "votes": 8,
+                "rating": 6.8
+            },
+            "top 1000 voters": {
+                "votes": 4,
+                "rating": 2.8
+            },
+            "us users": {
+                "votes": 6,
+                "rating": 7.3
+            },
+            "non us users": {
+                "votes": 125,
+                "rating": 6.4
+            }
+        },
+        "number of votes": {
+            "10": 33,
+            "9": 21,
+            "8": 44,
+            "7": 40,
+            "6": 30,
+            "5": 10,
+            "4": 5,
+            "3": 3,
+            "2": 14,
+            "1": 13
+        },
+        "arithmetic mean": 6.8,
+        "median": 7
+    }
+}

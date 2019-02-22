@@ -1,0 +1,747 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2017"
+            },
+            {
+                "country": "USA\n",
+                "date": "16 March 2017",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "23 May 2017"
+            },
+            {
+                "country": "Italy\n",
+                "date": "11 October 2017",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "UK\n",
+                "date": "31 October 2017"
+            },
+            {
+                "country": "Spain\n",
+                "date": "21 May 2018",
+                "notes": "                            (cable TV)"
+            },
+            {
+                "country": "Spain\n",
+                "date": "23 May 2018"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "31 May 2018",
+                "notes": "                            (limited)"
+            }
+        ],
+        "release dates": [
+            "USA::2017",
+            "USA::16 March 2017                            (internet)",
+            "Germany::23 May 2017",
+            "Italy::11 October 2017                            (internet)",
+            "UK::31 October 2017",
+            "Spain::21 May 2018                            (cable TV)",
+            "Spain::23 May 2018",
+            "Netherlands::31 May 2018                            (limited)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Snatch"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Blöff"
+            },
+            {
+                "countries": "Poland",
+                "title": "Przekret"
+            },
+            {
+                "countries": "Romania",
+                "title": "Unde dai şi unde crapă"
+            },
+            {
+                "countries": "Russia",
+                "title": "Большой куш"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Sneč"
+            }
+        ],
+        "akas": [
+            "Snatch (original title)",
+            "Blöff Hungary",
+            "Przekret Poland",
+            "Unde dai şi unde crapă Romania",
+            "Большой куш Russia",
+            "Sneč Serbia"
+        ],
+        "akas from release info": [
+            "Snatch (original title)",
+            "Blöff Hungary",
+            "Przekret Poland",
+            "Unde dai şi unde crapă Romania",
+            "Большой куш Russia",
+            "Sneč Serbia"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Ole",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 24,
+                    "original air date": "13 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    The gang is enjoying their hard-earned fortune while hiding on a cosy vacation island when the local crime and corrupt law enforcement representatives knock on their door, shattering their plans to take over and run the place themselves.    "
+                },
+                "2": {
+                    "title": "The Catalan and the Mute",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 17,
+                    "original air date": "13 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Larga Vida al Rey",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 15,
+                    "original air date": "13 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Haymaker",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 16,
+                    "original air date": "13 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Good Work for Good Money",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 16,
+                    "original air date": "13 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Bomba",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 14,
+                    "original air date": "13 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Heavy Wears the Crown",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 16,
+                    "original air date": "13 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Diamonds Ain't Forever",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 16,
+                    "original air date": "13 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "Close Quarters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 17,
+                    "original air date": "13 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "Job Done",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 19,
+                    "original air date": "13 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    The gang comes up with a plan to solve all their problems with both the criminals and the law, but it's a risky one.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "All That Glitters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 153,
+                    "original air date": "16 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    After being double crossed by a club owner with mob connections, a group of friends plans a heist; an unexpected discovery changes everything.    "
+                },
+                "2": {
+                    "title": "Badda Bling",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 96,
+                    "original air date": "16 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    As Albert, Charlie and Billy process their windfall, footage of the heist goes viral, reaching the eyes of Bob Fink, a dirty cop with old ties to the Hill family. Meanwhile, in a new scheme set up by Vic, the trio goes in on a diamond job for Saul Gold, a \"businessman\" who doesn't forgive mistakes.    "
+                },
+                "3": {
+                    "title": "Going in Heavy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 81,
+                    "original air date": "16 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    To retrieve the stolen diamonds, Albert formulates a plan and seeks the help of his father's old accomplice. Lily finds the gold biscuit that Charlie dropped in the bathroom.    "
+                },
+                "4": {
+                    "title": "Across the Pond",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 76,
+                    "original air date": "16 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Desperate to pay back Saul before time runs out, Albert, Charlie and their new ally, Chloe Koen, fly to New York to fence the gold. But a careless mistake leaves them racing all over the city to salvage the deal. Meanwhile, Billy and Lotti plot to free the safecracker Norman from Sonny's lair.    "
+                },
+                "5": {
+                    "title": "The Smelt Down",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 71,
+                    "original air date": "16 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    After patching things up with Saul, the boys get a lead on liquidating the gold bars, thanks to Chloe. But the buyer, a wealthy sheik, proves finicky. The gang must think on their feet, while at the same time eluding Fink, who is moving ever closer to their treasure.    "
+                },
+                "6": {
+                    "title": "Fly Away You Nutters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 66,
+                    "original air date": "16 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    As the gang cools their heels at a country manor, a budding love triangle brings tensions to a boil. But the pressure to sell the gold tub forces the friends to work together. Meanwhile, Vic plots a prison escape with pal Hate 'Em, only to find a chilly homecoming awaiting him on the outside.    "
+                },
+                "7": {
+                    "title": "Coming Home to Roost",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 63,
+                    "original air date": "16 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Lotti and Billy have the gold re-smelted while Chloe lines up a buyer. An on-the-lam Vic tries to sniff out his treasure while Albert and Lily try to keep him from getting recaptured. Drunken Charlie falls into the hands of Bob Fink, who is determined to extract the location of the gold.    "
+                },
+                "8": {
+                    "title": "Pear Shaped",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 68,
+                    "original air date": "16 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Vic and Hate 'Em use brutish tactics to track down the location of the gold. Fink torments Charlie for information, but discovers the hard way he's not the only one with gold lust. As opposing forces converge on the gypsy camp, a misunderstanding escalates into a gunfight.    "
+                },
+                "9": {
+                    "title": "Creepers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 69,
+                    "original air date": "16 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    As the Hill family and gang regroup, Charlie returns with news of Jones and Dwyer's plans to sell the gold. Lily wants nothing to do with it, but Albert hits on a better idea: forget the gold and grab the cash. But first, the gang will have to do some recon inside Jones's heavily guarded lodge.    "
+                },
+                "10": {
+                    "title": "A Family Affair",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Snatch (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 75,
+                    "original air date": "16 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    With Vic in the back of Jone's van with the gold and with Albert and Hat'em and tailing the van, it all leads down to an enthralling and action filled season finale.    "
+                }
+            }
+        },
+        "number of episodes": 20,
+        "cast": [
+            {
+                "name": "Grint, Rupert"
+            },
+            {
+                "name": "Pasqualino, Luke"
+            },
+            {
+                "name": "Laviscount, Lucien"
+            },
+            {
+                "name": "Dynevor, Phoebe"
+            },
+            {
+                "name": "Aubrey, Juliet"
+            },
+            {
+                "name": "Hassan, Tamer"
+            },
+            {
+                "name": "Scott, Dougray"
+            },
+            {
+                "name": "Warren, Marc"
+            },
+            {
+                "name": "Leonidas, Stephanie"
+            },
+            {
+                "name": "Poch, Pau"
+            },
+            {
+                "name": "Ulloa, Tristán"
+            },
+            {
+                "name": "Gelder, Ian"
+            },
+            {
+                "name": "Fathers, Daniel"
+            },
+            {
+                "name": "Corberó, Úrsula"
+            },
+            {
+                "name": "Rodrigo, Christian"
+            },
+            {
+                "name": "Lifschitz, David"
+            },
+            {
+                "name": "Cooper, Claire"
+            },
+            {
+                "name": "Vilches, Jordi"
+            },
+            {
+                "name": "Regan, Vincent"
+            },
+            {
+                "name": "Abadal, Ismael"
+            },
+            {
+                "name": "Myers, Johann"
+            },
+            {
+                "name": "Reddy, Naomi"
+            },
+            {
+                "name": "Westwick, Ed"
+            },
+            {
+                "name": "David, McKell"
+            },
+            {
+                "name": "Fontcuberta, Enzo"
+            },
+            {
+                "name": "Watkinson, Duncan"
+            },
+            {
+                "name": "Andreu, Simón"
+            },
+            {
+                "name": "Bamber, David"
+            },
+            {
+                "name": "Pearse, Nick"
+            },
+            {
+                "name": "Marsillach, Blanca"
+            },
+            {
+                "name": "McCardie, Brian"
+            },
+            {
+                "name": "Regis, Patrick"
+            },
+            {
+                "name": "Smith, Luke J I"
+            },
+            {
+                "name": "Brady, Jack"
+            },
+            {
+                "name": "Annor, Leon"
+            },
+            {
+                "name": "Hamer, Phil"
+            },
+            {
+                "name": "Keuchkerian, Hovik"
+            },
+            {
+                "name": "Ochandiano, Rubén"
+            },
+            {
+                "name": "Goodman, Henry"
+            },
+            {
+                "name": "Arsene, Mihai"
+            },
+            {
+                "name": "Michael, Alastair"
+            },
+            {
+                "name": "Bain, Russ"
+            },
+            {
+                "name": "Serrano, Jonathan"
+            },
+            {
+                "name": "Mason, Shaun"
+            },
+            {
+                "name": "Rosal, Ángela"
+            },
+            {
+                "name": "Carpenter, Adam J."
+            },
+            {
+                "name": "Modu, Chuku"
+            },
+            {
+                "name": "Bodur, Oliver"
+            },
+            {
+                "name": "Ashforde, Matthew"
+            },
+            {
+                "name": "Bannerman, Marc"
+            }
+        ],
+        "locations": [
+            "Manchester, Greater Manchester, England, UK",
+            "Málaga, Spain"
+        ],
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ],
+        "country codes": [
+            "gb",
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "South Korea:18",
+            "United States:Not Rated"
+        ],
+        "number of seasons": 2,
+        "rating": 6.9,
+        "votes": 3053,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMzEyMTc4NzEyMl5BMl5BanBnXkFtZTgwMzA2OTYzNjM@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Snatch",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "De Rakoff, Alex"
+            },
+            {
+                "name": "Spurrier, Simon"
+            },
+            {
+                "name": "Kline, David Harris"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Little Island Productions"
+            },
+            {
+                "name": "Sony Pictures Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Crackle"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "BBC First"
+            },
+            {
+                "name": "Dazzler Media"
+            },
+            {
+                "name": "Orange Series"
+            },
+            {
+                "name": "TIMvision"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Incessant Rain Studios"
+            },
+            {
+                "name": "Outpost VFX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "34 Talent Group"
+            },
+            {
+                "name": "Elamedia Estudios"
+            },
+            {
+                "name": "Moneypenny Post Accounting and Payroll"
+            },
+            {
+                "name": "Panavision"
+            }
+        ],
+        "plot": [
+            "A group of up-and-coming hustlers who stumble upon a truck-load of stolen gold bullion are suddenly thrust into the high-stakes world of organized crime.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3053,
+                "rating": 6.9
+            },
+            "aged under 18": {
+                "votes": 10,
+                "rating": 5.4
+            },
+            "aged 18 29": {
+                "votes": 724,
+                "rating": 7.2
+            },
+            "aged 30 44": {
+                "votes": 903,
+                "rating": 6.6
+            },
+            "aged 45 plus": {
+                "votes": 343,
+                "rating": 6.5
+            },
+            "males": {
+                "votes": 1652,
+                "rating": 6.6
+            },
+            "males aged under 18": {
+                "votes": 3,
+                "rating": 8.3
+            },
+            "males aged 18 29": {
+                "votes": 471,
+                "rating": 7.1
+            },
+            "males aged 30 44": {
+                "votes": 704,
+                "rating": 6.4
+            },
+            "males aged 45 plus": {
+                "votes": 277,
+                "rating": 6.4
+            },
+            "females": {
+                "votes": 560,
+                "rating": 7.4
+            },
+            "females aged under 18": {
+                "votes": 7,
+                "rating": 4.7
+            },
+            "females aged 18 29": {
+                "votes": 242,
+                "rating": 7.5
+            },
+            "females aged 30 44": {
+                "votes": 184,
+                "rating": 7.5
+            },
+            "females aged 45 plus": {
+                "votes": 61,
+                "rating": 6.9
+            },
+            "top 1000 voters": {
+                "votes": 53,
+                "rating": 5.2
+            },
+            "us users": {
+                "votes": 290,
+                "rating": 6.9
+            },
+            "non us users": {
+                "votes": 1180,
+                "rating": 6.6
+            }
+        },
+        "number of votes": {
+            "10": 697,
+            "9": 349,
+            "8": 619,
+            "7": 588,
+            "6": 292,
+            "5": 168,
+            "4": 80,
+            "3": 62,
+            "2": 61,
+            "1": 137
+        },
+        "arithmetic mean": 7.4,
+        "median": 8
+    }
+}

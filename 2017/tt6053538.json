@@ -1,0 +1,648 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "1 October 2017"
+            },
+            {
+                "country": "UK\n",
+                "date": "30 October 2017"
+            },
+            {
+                "country": "Spain\n",
+                "date": "20 January 2018"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "1 April 2019",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::1 October 2017",
+            "UK::30 October 2017",
+            "Spain::20 January 2018",
+            "Sweden::1 April 2019                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Ghosted"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Ghosted: Parás páros"
+            },
+            {
+                "countries": "Poland",
+                "title": "Agenci paranormalni"
+            },
+            {
+                "countries": "Russia",
+                "title": "Призраки"
+            }
+        ],
+        "akas": [
+            "Ghosted (original title)",
+            "Ghosted: Parás páros Hungary",
+            "Agenci paranormalni Poland",
+            "Призраки Russia"
+        ],
+        "akas from release info": [
+            "Ghosted (original title)",
+            "Ghosted: Parás páros Hungary",
+            "Agenci paranormalni Poland",
+            "Призраки Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 435,
+                    "original air date": "1 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Former detective Leroy and true believer Max are recruited by the Bureau Underground, a top secret government agency, to find an agent gone missing.    "
+                },
+                "2": {
+                    "title": "Bee-Mo",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 295,
+                    "original air date": "8 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    On Halloween night, Jermaine gets infected with a zombie-esque virus by a demon cat when Leroy and Max take him trick-or-treating.    "
+                },
+                "3": {
+                    "title": "Whispers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 249,
+                    "original air date": "15 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Max encourages Leroy to ask out a female cop, while Captain Lafrey suspects her daughter of sneaking around with a boy.    "
+                },
+                "4": {
+                    "title": "Lockdown",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 242,
+                    "original air date": "22 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    The Bureau Underground is placed on lockdown when an amphibious creature escapes.    "
+                },
+                "5": {
+                    "title": "The Machine",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 205,
+                    "original air date": "5 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Max and Leroy go undercover at an elite country club where a bizarre incident occurred.    "
+                },
+                "6": {
+                    "title": "Sam",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 206,
+                    "original air date": "12 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Annie installs an artificial intelligence into the Bureau Underground that turns out to be an evil force.    "
+                },
+                "7": {
+                    "title": "Ghost Studz",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 200,
+                    "original air date": "19 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    A pair of smug actors from a ghost-hunting show encounter real paranormal activity, so Leroy and Max must go undercover on set at an abandoned mental hospital to rescue them.    "
+                },
+                "8": {
+                    "title": "Haunted Hayride",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 177,
+                    "original air date": "3 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    Max and Leroy go undercover at a haunted hayride where a girl has disappeared.    "
+                },
+                "9": {
+                    "title": "Snatcher",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 173,
+                    "original air date": "7 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Max, Leroy and Annie get lost in the woods searching for a killer creature.    "
+                },
+                "10": {
+                    "title": "The Wire",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 152,
+                    "original air date": "10 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    Max and Leroy discover a wire in the Bureau they think might be a secret surveillance system.    "
+                },
+                "11": {
+                    "title": "The Demotion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 143,
+                    "original air date": "10 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    The Bureau Underground gets a new captain who tries to stop Max and Leroy's investigation of the suspicious wire.    "
+                },
+                "12": {
+                    "title": "The Premonition",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 132,
+                    "original air date": "17 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    Leroy brings in a psychic to help figure out who bugged the Bureau, but Max is unwilling to believe all the superstition.    "
+                },
+                "13": {
+                    "title": "The Article",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 123,
+                    "original air date": "24 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    An article exposes the Bureau Underground to the public.    "
+                },
+                "14": {
+                    "title": "Unbelievable",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 123,
+                    "original air date": "8 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n    Leroy drops a bomb on Max while they spot a UFO; Merv is forced to confront some drama in the office.    "
+                },
+                "15": {
+                    "title": "The Airplane",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 114,
+                    "original air date": "15 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n    The Bureau Underground is forced to share a case with the FBI and the FAA.    "
+                },
+                "16": {
+                    "title": "Hello Boys",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ghosted (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 115,
+                    "original air date": "22 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n    Leroy and Max get a lead on the whereabouts of Agent Checker while trying to prove themselves.    "
+                }
+            }
+        },
+        "number of episodes": 16,
+        "cast": [
+            {
+                "name": "Scott, Adam"
+            },
+            {
+                "name": "Robinson, Craig"
+            },
+            {
+                "name": "Walker, Ally"
+            },
+            {
+                "name": "Akhtar, Adeel"
+            },
+            {
+                "name": "West, Amber Stevens"
+            },
+            {
+                "name": "Berlant, Kate"
+            },
+            {
+                "name": "Blitz, Andy"
+            },
+            {
+                "name": "Wilson, Greg Romero"
+            },
+            {
+                "name": "Yim, Yimmy"
+            },
+            {
+                "name": "Lampert, Harrison"
+            },
+            {
+                "name": "Dunn, Kevin"
+            },
+            {
+                "name": "Lower, Britt"
+            },
+            {
+                "name": "Hand, Linc"
+            },
+            {
+                "name": "French, Tisha"
+            },
+            {
+                "name": "Shaughnessy, Charles"
+            },
+            {
+                "name": "Davis, Ethan Drake"
+            },
+            {
+                "name": "Ross, Ervin"
+            },
+            {
+                "name": "Garcia, Roberto"
+            },
+            {
+                "name": "Jones, Sterling"
+            },
+            {
+                "name": "Rothschiller, Lisa"
+            },
+            {
+                "name": "Anderson, Blake"
+            },
+            {
+                "name": "Baker, Sarah"
+            },
+            {
+                "name": "Bennett, Beck"
+            },
+            {
+                "name": "Echikunwoke, Megalyn"
+            },
+            {
+                "name": "Henry, Eli"
+            },
+            {
+                "name": "McMurray, Sam"
+            },
+            {
+                "name": "Shepard, Dax"
+            },
+            {
+                "name": "Kerr, Edward"
+            },
+            {
+                "name": "Groener, Harry"
+            },
+            {
+                "name": "Holm, Anders"
+            },
+            {
+                "name": "McPartlin, Ryan"
+            },
+            {
+                "name": "Tripp, Elizabeth"
+            },
+            {
+                "name": "Adams, Casey"
+            },
+            {
+                "name": "Richardson, Sam"
+            },
+            {
+                "name": "Collins, Mo"
+            },
+            {
+                "name": "Cood, Stephanie"
+            },
+            {
+                "name": "Getz, John"
+            },
+            {
+                "name": "Morris, Seth"
+            },
+            {
+                "name": "Parham, Lennon"
+            },
+            {
+                "name": "Vilaysack, Kulap"
+            },
+            {
+                "name": "Wicks, Drew"
+            },
+            {
+                "name": "Chan, Howard"
+            },
+            {
+                "name": "Elliott, Lauren"
+            },
+            {
+                "name": "Huskey, Brian"
+            },
+            {
+                "name": "Marino, Ken"
+            },
+            {
+                "name": "Thomas, Whitmer"
+            },
+            {
+                "name": "Wasilewski, Audrey"
+            },
+            {
+                "name": "Ahdoot, Dan"
+            },
+            {
+                "name": "Beyer, Tom"
+            },
+            {
+                "name": "Donzis, Lauren Lindsey"
+            }
+        ],
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Horror",
+            "Mystery",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Spain:7",
+            "United States:TV-PG"
+        ],
+        "number of seasons": 1,
+        "rating": 6.3,
+        "votes": 4771,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BODMxMDkxMDg2MF5BMl5BanBnXkFtZTgwNjc5MjU5MjI@._V1_SX101_CR0,0,101,150_.jpg",
+        "plot outline": "Described as a sort of comedic X-Files, Ghosted centers on Leroy Wright, a cynical, hilarious skeptic, and Max Jennifer, a genius \"true believer\" in the paranormal, who are hired by the Underground Investigative Service to look into the rampant \"unexplained\" activity in Los Angeles - all while uncovering a larger mystery that could threaten the existence of the human race.",
+        "languages": [
+            "English"
+        ],
+        "title": "Ghosted",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-2017",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Gormican, Tom"
+            },
+            {
+                "name": "Tart, Carl"
+            },
+            {
+                "name": "McCormick, Blake"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Crowley Etten Productions"
+            },
+            {
+                "name": "Additional Dialogue"
+            },
+            {
+                "name": "Typo"
+            },
+            {
+                "name": "Gettin' Rad Productions"
+            },
+            {
+                "name": "3 Arts Entertainment"
+            },
+            {
+                "name": "20th Century Fox Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Citytv"
+            },
+            {
+                "name": "Fox Network"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Marshall/Plumb Research Associates"
+            },
+            {
+                "name": "Reel Security"
+            }
+        ],
+        "plot": [
+            "A skeptical tough ex-cop is forced to team up with a nerdy scientist and firm believer of the paranormal. They must help a secret L.A.-based government agency deal with unexplained and paranormal occurrences.::Anonymous",
+            "Described as a sort of comedic X-Files, _Ghosted_ (qv) centers on Leroy Wright, a cynical, hilarious skeptic, and Max Jennifer, a genius \"true believer\" in the paranormal, who are hired by the Underground Investigative Service to look into the rampant \"unexplained\" activity in Los Angeles - all while uncovering a larger mystery that could threaten the existence of the human race.::ahmetkozan"
+        ],
+        "tech": {
+            "runtime": [
+                "30 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 4771,
+                "rating": 6.3
+            },
+            "aged under 18": {
+                "votes": 9,
+                "rating": 5.0
+            },
+            "aged 18 29": {
+                "votes": 727,
+                "rating": 6.5
+            },
+            "aged 30 44": {
+                "votes": 1699,
+                "rating": 6.2
+            },
+            "aged 45 plus": {
+                "votes": 788,
+                "rating": 6.1
+            },
+            "males": {
+                "votes": 2511,
+                "rating": 6.2
+            },
+            "males aged under 18": {
+                "votes": 6,
+                "rating": 4.5
+            },
+            "males aged 18 29": {
+                "votes": 498,
+                "rating": 6.5
+            },
+            "males aged 30 44": {
+                "votes": 1221,
+                "rating": 6.1
+            },
+            "males aged 45 plus": {
+                "votes": 544,
+                "rating": 5.9
+            },
+            "females": {
+                "votes": 1012,
+                "rating": 6.8
+            },
+            "females aged under 18": {
+                "votes": 3,
+                "rating": 8.3
+            },
+            "females aged 18 29": {
+                "votes": 218,
+                "rating": 6.8
+            },
+            "females aged 30 44": {
+                "votes": 454,
+                "rating": 6.6
+            },
+            "females aged 45 plus": {
+                "votes": 234,
+                "rating": 6.7
+            },
+            "top 1000 voters": {
+                "votes": 118,
+                "rating": 5.8
+            },
+            "us users": {
+                "votes": 1341,
+                "rating": 6.6
+            },
+            "non us users": {
+                "votes": 1213,
+                "rating": 5.9
+            }
+        },
+        "number of votes": {
+            "10": 695,
+            "9": 306,
+            "8": 711,
+            "7": 1095,
+            "6": 764,
+            "5": 445,
+            "4": 237,
+            "3": 176,
+            "2": 116,
+            "1": 226
+        },
+        "arithmetic mean": 6.7,
+        "median": 7
+    }
+}

@@ -1,0 +1,426 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Switzerland\n",
+                "date": "16 November 2017"
+            },
+            {
+                "country": "Switzerland\n",
+                "date": "16 November 2017",
+                "notes": "                            (French speaking region)"
+            },
+            {
+                "country": "Denmark\n",
+                "date": "12 September 2018"
+            }
+        ],
+        "release dates": [
+            "Switzerland::16 November 2017",
+            "Switzerland::16 November 2017                            (French speaking region)",
+            "Denmark::12 September 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Quartier des Banques"
+            },
+            {
+                "countries": "Denmark",
+                "title": "Lugten af penge"
+            },
+            {
+                "countries": "Poland",
+                "title": "Dzielnica bankowa"
+            }
+        ],
+        "akas": [
+            "Quartier des Banques (original title)",
+            "Lugten af penge Denmark",
+            "Dzielnica bankowa Poland"
+        ],
+        "akas from release info": [
+            "Quartier des Banques (original title)",
+            "Lugten af penge Denmark",
+            "Dzielnica bankowa Poland"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Quartier des Banques (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 9,
+                    "original air date": "16 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Quartier des Banques (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 7,
+                    "original air date": "16 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Quartier des Banques (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 7,
+                    "original air date": "2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Episode #1.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Quartier des Banques (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 7,
+                    "original air date": "2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Episode #1.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Quartier des Banques (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 8,
+                    "original air date": "2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Episode #1.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Quartier des Banques (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 8,
+                    "original air date": "2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 6,
+        "cast": [
+            {
+                "name": "Metzger, Stéphane"
+            },
+            {
+                "name": "Binard, Arnaud"
+            },
+            {
+                "name": "Sepul, Laura"
+            },
+            {
+                "name": "Fernandes, Raul"
+            },
+            {
+                "name": "Cunado, David"
+            },
+            {
+                "name": "Lannuzel, Nathalie"
+            },
+            {
+                "name": "Castro, Felipe"
+            },
+            {
+                "name": "Cazacu, Valentin"
+            },
+            {
+                "name": "Danilov, Dimitry"
+            },
+            {
+                "name": "Eyben, Oleg"
+            },
+            {
+                "name": "Sylla, Mariama"
+            },
+            {
+                "name": "Tanner, Nastassja"
+            },
+            {
+                "name": "Vachoux, Raphael"
+            },
+            {
+                "name": "Atkine, Féodor"
+            },
+            {
+                "name": "Brossard, Julie"
+            },
+            {
+                "name": "Figuereo, Camille"
+            },
+            {
+                "name": "Gallo, Claudia"
+            },
+            {
+                "name": "Levy, Raphael Roger"
+            },
+            {
+                "name": "Martinet, Anne"
+            },
+            {
+                "name": "Tiedemann, Alexandra"
+            },
+            {
+                "name": "Tobola, Barbara"
+            },
+            {
+                "name": "Vouillamoz, Daniel"
+            },
+            {
+                "name": "Aliberti, Viviana"
+            },
+            {
+                "name": "Azabal, Lubna"
+            },
+            {
+                "name": "Barberis, Sara"
+            },
+            {
+                "name": "Barras, Karim"
+            },
+            {
+                "name": "Broustal, Sophie"
+            },
+            {
+                "name": "Fitzi, Maria"
+            },
+            {
+                "name": "Florey, François"
+            },
+            {
+                "name": "Fossey, Brigitte"
+            },
+            {
+                "name": "Gilliéron, Lauriane"
+            },
+            {
+                "name": "Gordy, Rachel"
+            },
+            {
+                "name": "Gos, Jean-Pierre"
+            },
+            {
+                "name": "Hauri, Maxence"
+            },
+            {
+                "name": "Korotyayeva, Olga"
+            },
+            {
+                "name": "Kucholl, Vincent"
+            },
+            {
+                "name": "Marchetto, David"
+            },
+            {
+                "name": "May, David"
+            },
+            {
+                "name": "Nadin, François"
+            },
+            {
+                "name": "Ospelt, Ingo"
+            },
+            {
+                "name": "Schurr, Céline"
+            },
+            {
+                "name": "Tlokinski, Philippe"
+            },
+            {
+                "name": "Voïta, Michel"
+            }
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "52"
+        ],
+        "countries": [
+            "Switzerland",
+            "Belgium"
+        ],
+        "country codes": [
+            "ch",
+            "be"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "rating": 7.2,
+        "votes": 96,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYjgxN2ViMDktYzFlNy00OWZiLTg3NTUtZWE4ZDg0MDgzYzBmXkEyXkFqcGdeQXVyMzI2ODkyNDg@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "French"
+        ],
+        "title": "Quartier des Banques",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Bernasconi, Fulvio"
+            },
+            {
+                "name": "de Warnaffe, Axel du Bus"
+            },
+            {
+                "name": "Froehle, Jean-Marc"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Panache Productions"
+            },
+            {
+                "name": "Point Prod"
+            },
+            {
+                "name": "Point Prod"
+            },
+            {
+                "name": "Radio Télévision Suisse (RTS)"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "About Premium Content"
+            }
+        ],
+        "plot": [
+            "A private banker goes into a coma. His sister becomes the director and finds out his coma might not be accidental as she finds obscure transactions her brother was involved in."
+        ],
+        "tech": {
+            "runtime": [
+                "52 min (Episode)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 96,
+                "rating": 7.2
+            },
+            "aged 18 29": {
+                "votes": 2,
+                "rating": 5.5
+            },
+            "aged 30 44": {
+                "votes": 24,
+                "rating": 6.6
+            },
+            "aged 45 plus": {
+                "votes": 37,
+                "rating": 7.3
+            },
+            "males": {
+                "votes": 51,
+                "rating": 6.8
+            },
+            "males aged 18 29": {
+                "votes": 2,
+                "rating": 5.5
+            },
+            "males aged 30 44": {
+                "votes": 18,
+                "rating": 6.4
+            },
+            "males aged 45 plus": {
+                "votes": 29,
+                "rating": 7.4
+            },
+            "females": {
+                "votes": 15,
+                "rating": 7.3
+            },
+            "females aged 30 44": {
+                "votes": 6,
+                "rating": 7.4
+            },
+            "females aged 45 plus": {
+                "votes": 6,
+                "rating": 7.1
+            },
+            "top 1000 voters": {
+                "votes": 4,
+                "rating": 5.2
+            },
+            "us users": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "non us users": {
+                "votes": 53,
+                "rating": 6.9
+            }
+        },
+        "number of votes": {
+            "10": 6,
+            "9": 8,
+            "8": 27,
+            "7": 31,
+            "6": 12,
+            "5": 11,
+            "4": 0,
+            "3": 0,
+            "2": 1,
+            "1": 0
+        },
+        "arithmetic mean": 7.2,
+        "median": 7
+    }
+}

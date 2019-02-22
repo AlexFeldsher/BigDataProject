@@ -1,0 +1,347 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "11 November 2017",
+                "notes": "                            (DocNYC Festival)"
+            },
+            {
+                "country": "USA\n",
+                "date": "18 November 2017"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "19 July 2018"
+            }
+        ],
+        "release dates": [
+            "USA::11 November 2017                            (DocNYC Festival)",
+            "USA::18 November 2017",
+            "Sweden::19 July 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Cold Blooded: The Clutter Family Murders"
+            },
+            {
+                "countries": "Sweden",
+                "title": "Med kallt blod: Familjemordet"
+            },
+            {
+                "countries": "USA",
+                "title": "Cold Blooded: The Clutter Family Murders"
+            }
+        ],
+        "akas": [
+            "Cold Blooded: The Clutter Family Murders (original title)",
+            "Med kallt blod: Familjemordet Sweden",
+            "Cold Blooded: The Clutter Family Murders USA"
+        ],
+        "akas from release info": [
+            "Cold Blooded: The Clutter Family Murders (original title)",
+            "Med kallt blod: Familjemordet Sweden",
+            "Cold Blooded: The Clutter Family Murders USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Farm Family Slain",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cold Blooded: The Clutter Family Murders (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 13,
+                    "original air date": "18 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    On November 15, 1959, the Clutter family was brutally murdered. New interviews with the people who knew the Clutters and the police who worked the case shines a new light on an event that would change the world.    "
+                },
+                "2": {
+                    "title": "Killers on the Run",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cold Blooded: The Clutter Family Murders (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 9,
+                    "original air date": "18 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    After the Clutter family murders, Dick Hickock and Perry Smith are on the run. New interviews give insight into the people they were before the murders. Truman Capote becomes interested in the case.    "
+                },
+                "3": {
+                    "title": "The Intruders on Trial",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cold Blooded: The Clutter Family Murders (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 6,
+                    "original air date": "19 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Dick Hickock and Perry Smith are caught in Las Vegas and the time is uneasy as the are returned to Garden City. Interviews explorer their return and subsequent trial.    "
+                },
+                "4": {
+                    "title": "The Gallows and the Novel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cold Blooded: The Clutter Family Murders (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 7,
+                    "original air date": "19 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Truman Capote's book languishes because he wants to end it with the executions but the executions are on hold during the appeals process. New interviews talk about the executions.    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Tedrow, Beth"
+            },
+            {
+                "name": "Welch, Larry"
+            },
+            {
+                "name": "Bascue, Kevin"
+            },
+            {
+                "name": "Frack, Gwyneth"
+            },
+            {
+                "name": "Dewey, Paul"
+            },
+            {
+                "name": "Daigle, Luke"
+            },
+            {
+                "name": "Shields, Charles"
+            },
+            {
+                "name": "Troutner, Charlie"
+            },
+            {
+                "name": "Cullivan, Don"
+            },
+            {
+                "name": "LeBert-Corbello, Linda"
+            },
+            {
+                "name": "Penick, Connie"
+            },
+            {
+                "name": "Clarke, Gerald"
+            },
+            {
+                "name": "Edwards, Diana"
+            },
+            {
+                "name": "Thomas, Larry"
+            },
+            {
+                "name": "Rupp, Bob"
+            },
+            {
+                "name": "Crable, Corbin"
+            },
+            {
+                "name": "Quakenbush, Steve"
+            },
+            {
+                "name": "Jones, Mitchell"
+            },
+            {
+                "name": "James, Jewell"
+            },
+            {
+                "name": "Collins, Jerry"
+            },
+            {
+                "name": "Hammon, Carolyn"
+            },
+            {
+                "name": "Jones, Anne"
+            },
+            {
+                "name": "Jones, Bob"
+            },
+            {
+                "name": "Russell, Mike"
+            },
+            {
+                "name": "Cullivan, Lorraine"
+            },
+            {
+                "name": "Craig, Jon"
+            },
+            {
+                "name": "Wilson, Scott"
+            },
+            {
+                "name": "Jones, Quincy"
+            },
+            {
+                "name": "Calihan, Lillian"
+            },
+            {
+                "name": "Currin, Brenda"
+            },
+            {
+                "name": "Kirby, Gene"
+            },
+            {
+                "name": "Byers, Ralph"
+            },
+            {
+                "name": "Conroy, Jim"
+            },
+            {
+                "name": "Dolan, Andrew"
+            },
+            {
+                "name": "Genutis, Henrikas"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "original air date": "18 Nov 2017 (USA)",
+        "number of seasons": 1,
+        "rating": 7.1,
+        "votes": 158,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNDBhN2RhMTItODQxMi00ZDY1LWJiNWMtODk4Yjg2ZmYwYjk5XkEyXkFqcGdeQXVyNTYxMTM4MDk@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "COLD BLOODED: THE CLUTTER FAMILY MURDERS is a docuseries that focuses on the crime that shocked the nation - the 1959 brutal murder of four members of the Clutter family. The crime, seemingly without motive, would later be chronicled in Truman Capote's seminal book, In Cold Blood.",
+        "languages": [
+            "English"
+        ],
+        "title": "Cold Blooded: The Clutter Family Murders",
+        "year": 2017,
+        "kind": "tv mini series",
+        "series years": "2017-2017",
+        "seasons": [
+            "1"
+        ],
+        "director": [
+            {
+                "name": "Berlinger, Joe"
+            },
+            {
+                "name": "Berg, Allison"
+            },
+            {
+                "name": "Cooperman, Kahane"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "RadicalMedia"
+            }
+        ],
+        "plot": [
+            "COLD BLOODED: THE CLUTTER FAMILY MURDERS is a docuseries that focuses on the crime that shocked the nation - the 1959 brutal murder of four members of the Clutter family. The crime, seemingly without motive, would later be chronicled in Truman Capote's seminal book, In Cold Blood."
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 158,
+                "rating": 7.1
+            },
+            "aged 18 29": {
+                "votes": 9,
+                "rating": 7.3
+            },
+            "aged 30 44": {
+                "votes": 51,
+                "rating": 6.4
+            },
+            "aged 45 plus": {
+                "votes": 63,
+                "rating": 7.5
+            },
+            "males": {
+                "votes": 78,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 4,
+                "rating": 7.5
+            },
+            "males aged 30 44": {
+                "votes": 35,
+                "rating": 6.6
+            },
+            "males aged 45 plus": {
+                "votes": 38,
+                "rating": 7.3
+            },
+            "females": {
+                "votes": 44,
+                "rating": 7.0
+            },
+            "females aged 18 29": {
+                "votes": 4,
+                "rating": 7.5
+            },
+            "females aged 30 44": {
+                "votes": 16,
+                "rating": 6.0
+            },
+            "females aged 45 plus": {
+                "votes": 23,
+                "rating": 7.7
+            },
+            "top 1000 voters": {
+                "votes": 9,
+                "rating": 4.9
+            },
+            "us users": {
+                "votes": 50,
+                "rating": 7.5
+            },
+            "non us users": {
+                "votes": 61,
+                "rating": 6.6
+            }
+        },
+        "number of votes": {
+            "10": 12,
+            "9": 23,
+            "8": 35,
+            "7": 49,
+            "6": 21,
+            "5": 7,
+            "4": 3,
+            "3": 2,
+            "2": 2,
+            "1": 4
+        },
+        "arithmetic mean": 7.2,
+        "median": 7
+    }
+}
