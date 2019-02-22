@@ -1,0 +1,136 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "22 June 2016"
+            },
+            {
+                "country": "Canada\n",
+                "date": "22 June 2016",
+                "notes": "                            (Vancity Theatre)"
+            }
+        ],
+        "release dates": [
+            "Canada::22 June 2016",
+            "Canada::22 June 2016                            (Vancity Theatre)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "All Washed Up (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "22 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "All Washed Up (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "22 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Perro, Marcel"
+            },
+            {
+                "name": "Shore, Emi"
+            },
+            {
+                "name": "Beigel, Gavi"
+            },
+            {
+                "name": "Calleja, Megs"
+            },
+            {
+                "name": "Fox, Amy"
+            },
+            {
+                "name": "Huang, Stanley Shan"
+            },
+            {
+                "name": "McIntosh, Patrick"
+            }
+        ],
+        "locations": [
+            "Vancouver, British Columbia, Canada"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "country codes": [
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "2.35 : 1",
+        "original air date": "22 Jun 2016 (Canada)",
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "All Washed Up",
+        "year": 2016,
+        "kind": "tv mini series",
+        "series years": "2016-2016",
+        "akas": [
+            "All Washed Up (Canada)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Juliette, Emilee"
+            },
+            {
+                "name": "Loretti, Marina"
+            }
+        ],
+        "director": [
+            {
+                "name": "Jansen, Sebastian"
+            },
+            {
+                "name": "Wang, Zhe"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Vancouver Film School"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "2.35 : 1"
+            ]
+        }
+    }
+}

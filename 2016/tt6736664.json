@@ -1,0 +1,183 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "15 June 2016"
+            },
+            {
+                "country": "Germany\n",
+                "date": "15 June 2016",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "USA\n",
+                "date": "15 June 2016",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "Germany::15 June 2016",
+            "Germany::15 June 2016                            (internet)",
+            "USA::15 June 2016                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Story Behind"
+            },
+            {
+                "countries": "Germany (alternative title)",
+                "title": "The Story Behind..."
+            },
+            {
+                "countries": "USA (short title)",
+                "title": "TBS"
+            }
+        ],
+        "akas": [
+            "The Story Behind (original title)",
+            "The Story Behind... Germany (alternative title)",
+            "TBS USA (short title)"
+        ],
+        "akas from release info": [
+            "The Story Behind (original title)",
+            "The Story Behind... Germany (alternative title)",
+            "TBS USA (short title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Does Windows Phone Have a Future?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Story Behind (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "15 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Is the Windows phone dead?    "
+                },
+                "8": {
+                    "title": "Why Apps Won't Matter in the Future",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Story Behind (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "12 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "26": {
+                    "title": "Why Doesn't Apple Use Social Media?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Story Behind (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 26,
+                    "original air date": "30 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Barcza, Marton"
+            }
+        ],
+        "locations": [
+            "Germany::(studio)"
+        ],
+        "genres": [
+            "Documentary",
+            "History",
+            "Reality-TV"
+        ],
+        "runtimes": [
+            "10"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "country codes": [
+            "de"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZTdjMWI1MjMtMDgyMy00N2FmLThlOGYtNzk2ZTU1MzA2MGFiXkEyXkFqcGdeQXVyMDY3OTcyOQ@@._V1_SY150_CR83,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Story Behind",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Barcza, Marton"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "TechAltar"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "TechAltar"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Majestic Casual"
+            }
+        ],
+        "plot": [
+            "Stories behind unexpected and unexplored trends of technology industry.::Nikolay Yeriomin"
+        ],
+        "tech": {
+            "runtime": [
+                "10 min"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Sony RX100 III"
+            ],
+            "negative format": [
+                "Digital"
+            ],
+            "printed film format": [
+                "Digital"
+            ]
+        }
+    }
+}

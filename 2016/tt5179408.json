@@ -1,0 +1,990 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "22 March 2016"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "18 January 2017",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Argentina\n",
+                "date": "11 February 2017",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "11 February 2017",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::22 March 2016",
+            "Sweden::18 January 2017                            (internet)",
+            "Argentina::11 February 2017                            (internet)",
+            "Germany::11 February 2017                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "You Me Her"
+            },
+            {
+                "countries": "Argentina",
+                "title": "Tú, yo y ella"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Eu Tu e Ela"
+            },
+            {
+                "countries": "France (dubbed version)",
+                "title": "Toi Moi et Elle"
+            },
+            {
+                "countries": "Greece",
+                "title": "Και Τώρα οι Τρεις μας"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Eu, Tu e Ela"
+            },
+            {
+                "countries": "Russia",
+                "title": "Ты, Я, Она"
+            },
+            {
+                "countries": "Spain",
+                "title": "Tú, yo y ella"
+            }
+        ],
+        "akas": [
+            "You Me Her (original title)",
+            "Tú, yo y ella Argentina",
+            "Eu Tu e Ela Brazil",
+            "Toi Moi et Elle France (dubbed version)",
+            "Και Τώρα οι Τρεις μας Greece",
+            "Eu, Tu e Ela Portugal",
+            "Ты, Я, Она Russia",
+            "Tú, yo y ella Spain"
+        ],
+        "akas from release info": [
+            "You Me Her (original title)",
+            "Tú, yo y ella Argentina",
+            "Eu Tu e Ela Brazil",
+            "Toi Moi et Elle France (dubbed version)",
+            "Και Τώρα οι Τρεις μας Greece",
+            "Eu, Tu e Ela Portugal",
+            "Ты, Я, Она Russia",
+            "Tú, yo y ella Spain"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "Dickless in Seattle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 86,
+                    "original air date": "20 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Months after Emma moves to Seattle for a new job, new friends, new lover. Jack keeps stalling on signing the papers, so Izzy tries to force his hand. They've moved into a new place together, decorated by Izzy.    "
+                },
+                "2": {
+                    "title": "I Said Make Up",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 76,
+                    "original air date": "27 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Jack and Emma spend the day before they sign the divorce papers splitting up their stuff, while someone from Izzy's past reappears in her life.    "
+                },
+                "3": {
+                    "title": "Tourist Lesbians and Millennial Twats",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 75,
+                    "original air date": "3 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    After signing the divorce papers, Emma returns to her new love in Seattle, but brings something from her old love Jack with her.    "
+                },
+                "4": {
+                    "title": "Inconceivable!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 68,
+                    "original air date": "10 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Emma remains torn between her new life and love in Seattle and her old live and love(s) back in Portland, but going back to talk to Jack about her situation causes sparks to fly.    "
+                },
+                "5": {
+                    "title": "Welcome to the Tiger Cage",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 67,
+                    "original air date": "17 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Emma decides to try to make the you-me-her relationship work again, but Izzy is having none of it. Meanwhile, Izzy and Jack share an awkward dinner with Izzy's father.    "
+                },
+                "6": {
+                    "title": "Fool Me Once? Shame on You. Fool Me Twice? Blow Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 67,
+                    "original air date": "24 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Jack, Izzy and Emma continue to try to navigate a reconciliation while Dave and Carm try to reach an agreement about how to balance family and career.    "
+                },
+                "7": {
+                    "title": "Hold Onto Your Ovaries",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 70,
+                    "original air date": "1 May 2018",
+                    "year": "2018",
+                    "plot": "\n    Jack, Izzy and Emma start to try to plan for the future. Shaun and Nina get serious. Dave and Carm find reason to celebrate.    "
+                },
+                "8": {
+                    "title": "The Insidious Lure of Pumpkin Spice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 64,
+                    "original air date": "8 May 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "Asshole, Other Asshole, and the Depressive Muppet",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 59,
+                    "original air date": "15 May 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "You Be You And I'll Be Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 69,
+                    "original air date": "22 May 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Cigarettes and Funions and Crap",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 229,
+                    "original air date": "22 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Suburban Portland couple Emma and Jack Trakarsky are totally in love but seriously lacking spice. They end up tangled up with an escort (grad student Izzy) to get the mojo back, setting into motion a life-changing series of events for the trio.    "
+                },
+                "2": {
+                    "title": "Can You Be Cool?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 180,
+                    "original air date": "29 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    As Jack, Emma, and Izzy try to put the mother of all weird days behind them, Emma reveals a secret, Izzy finds committing to safe-bet Andy tougher than she thought, and Jack can't shake the feeling that he's gotten them all in over their heads.    "
+                },
+                "3": {
+                    "title": "No Penetration",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 174,
+                    "original air date": "5 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Jack, Izzy, and Emma, all together for the first time, agree to keep their relationship a business arrangement. Emma has her first date with Izzy while Jack grows ever more jealous and concerned about how this might affect his possible promotion.    "
+                },
+                "4": {
+                    "title": "Check a Box",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 143,
+                    "original air date": "13 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Jack and Emma start to wonder if they're on the same page. Izzy tries to find stability in Andy.After a startling development, Jack and Emma separately try to end things with Izzy, leading to a surprising epiphany.    "
+                },
+                "5": {
+                    "title": "Niece Jackie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 141,
+                    "original air date": "20 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Izzy, Emma and Jack cope with the consequences of their alternative relationship; and Andy begins to figure out what Izzy's been up to.    "
+                },
+                "6": {
+                    "title": "The T Word",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 147,
+                    "original air date": "27 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Everything that could go wrong does go wrong when Izzy, Emma and Jack finally take the poly-amorous plunge    "
+                },
+                "7": {
+                    "title": "The Morning After",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 135,
+                    "original air date": "5 May 2016",
+                    "year": "2016",
+                    "plot": "\n    The awkward morning after dredges up old fears for Jack and Emma and wounded feelings for Izzy. With their three-way fling feeling like more trouble than it's worth, Jack and Emma wish they'd shut it down before the whole blackmail thing started.    "
+                },
+                "8": {
+                    "title": "The Relationship More Populated",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 130,
+                    "original air date": "10 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Emma and Jack want to dial down the relationship with Izzy, but Izzy has another idea for how they should proceed.    "
+                },
+                "9": {
+                    "title": "Sweet Home Colorado",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 121,
+                    "original air date": "17 May 2016",
+                    "year": "2016",
+                    "plot": "\n    After their wild home date turns into a tearful breakup, Izzy decides she needs to move back home to Colorado to deal with her issues. Unaware, Jack and Emma continue to deal with the fallout of what's beginning to feel like a blur of bad choices.    "
+                },
+                "10": {
+                    "title": "Trope Isn't a Four Letter Word",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 140,
+                    "original air date": "24 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Coming together turned their lives upside down, but as much as Jack, Emma, and Izzy try to hide it, splitting up may be doing the real damage. Are all three brave enough to throw caution to the wind and pull off a dramatic last second save?    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Sex Fairy and the Eternal Flames",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 102,
+                    "original air date": "14 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    The now official throuple commit to cohabitation, face the disapproval of friends and family, and stand their ground in a bold, painful, and permanent way.    "
+                },
+                "2": {
+                    "title": "Like Riding a Vagina Bike",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 96,
+                    "original air date": "21 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    The throuple come out at a neighborhood party, spinning the gathering out of control and cracking open a fresh can of troubles. Carmen and Dave try to make amends for their prudishness by inviting Jack, Emma, and Izzy on an unusual double date.    "
+                },
+                "3": {
+                    "title": "Remember, Ruby, Remember",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 90,
+                    "original air date": "28 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Jack confronts Emma about inviting Izzy to move in without discussing it with him first. Leaving her to wallow in that epiphany, he goes on his interview at Griffin College and finds himself on \"the road not taken.    "
+                },
+                "4": {
+                    "title": "Cat in the Box",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 85,
+                    "original air date": "7 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    It's \"Dudes and Chicks Night\" in Hawthorne Heights. While the women introduce Molly to their wine hang, bar-hoppers Dave, Gabe and Jack run into Jack's \"one who got away.\"    "
+                },
+                "5": {
+                    "title": "Stoner Sensai's Secrets of Love",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 86,
+                    "original air date": "14 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Jack's still caved out at big bro's house, Izzy's trying to coax the married couple back together, and after things go bad at work, Emma's not at all sure about what she really-really wants.    "
+                },
+                "6": {
+                    "title": "What the F Is Wrong with You Trakarskys?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 86,
+                    "original air date": "21 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Good news, Izzy's not pregnant, so why's she housecleaning away her feelings again? Jack inches closer to the point of no return with Ruby. All the while, the clock's ticking on the daunting arrival of Emma's hyper-conservative parents.    "
+                },
+                "7": {
+                    "title": "Weird Janis and the White Trash Baby Vessel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 83,
+                    "original air date": "28 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    With the happy throuple reunited, how can they explain Izzy's presence to Emma's old school parents? Nina gets disturbing news about Andy's romantic past. And the Amaris quest for cool leads them into a bizarre social situation.    "
+                },
+                "8": {
+                    "title": "Freaky Little Love Poodles",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 83,
+                    "original air date": "4 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Jack and Emma convince her parents that Izzy's their surrogate, but then the throuple's rouse unearths very real questions about babies and the long-term future of their relationship. Nina seeks out Andy's exes to set the record straight.    "
+                },
+                "9": {
+                    "title": "Silver Linings and Vodka",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 79,
+                    "original air date": "11 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Izzy and Emma are stunned by Jack's proposal: What if the three of them really did have a baby together? But before they have time to delve deeper, they'll have to talk their way out of a tight spot with Emma's parents.    "
+                },
+                "10": {
+                    "title": "Baby, Baby Where Did Our Love Go?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 83,
+                    "original air date": "18 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Jack wants a baby, Izzy wants a baby, everybody wants a baby - right? With the dazzling offer from Pinnacle pressing ever harder and an IVF consultation set, Emma must choose between a larger professional canvas and two true loves.    "
+                }
+            },
+            "4": {
+                "1": {
+                    "title": "Episode #4.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "original air date": "9 Apr. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Episode #4.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Episode #4.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Episode #4.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 4,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Episode #4.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 5,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Episode #4.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 6,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Episode #4.7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 7,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Episode #4.8",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 8,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "Episode #4.9",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 9,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "Episode #4.10",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You Me Her (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 10,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 40,
+        "cast": [
+            {
+                "name": "Poehler, Greg"
+            },
+            {
+                "name": "Blanchard, Rachel"
+            },
+            {
+                "name": "Faia, Priscilla"
+            },
+            {
+                "name": "Papalia, Melanie"
+            },
+            {
+                "name": "Spence, Jennifer"
+            },
+            {
+                "name": "Gilmore, Patrick"
+            },
+            {
+                "name": "Esmer, Ennis"
+            },
+            {
+                "name": "Joseph, Jarod"
+            },
+            {
+                "name": "Horsdal, Chelah"
+            },
+            {
+                "name": "MacNeil, Laine"
+            },
+            {
+                "name": "McLeod, Jessica"
+            },
+            {
+                "name": "Moloney, Robert"
+            },
+            {
+                "name": "Collette, Dave"
+            },
+            {
+                "name": "Milbury, Nevaeh"
+            },
+            {
+                "name": "Majdoub, Lee"
+            },
+            {
+                "name": "Adams, Enid-Raye"
+            },
+            {
+                "name": "Amit, Carmel"
+            },
+            {
+                "name": "Gilchrist, Lara"
+            },
+            {
+                "name": "Beauchesne, Adam"
+            },
+            {
+                "name": "Wasserman, Jerry"
+            },
+            {
+                "name": "Darshi, Agam"
+            },
+            {
+                "name": "Lubczyk, Patrick"
+            },
+            {
+                "name": "Grauer, Ona"
+            },
+            {
+                "name": "Marsh, Gage"
+            },
+            {
+                "name": "O'Grady, Kevin"
+            },
+            {
+                "name": "Sahel, Sachin"
+            },
+            {
+                "name": "Haskett, Roger"
+            },
+            {
+                "name": "De Souza, Cedric"
+            },
+            {
+                "name": "Navas, Amelia Kristina"
+            },
+            {
+                "name": "Navas, Victoria Evangeline"
+            },
+            {
+                "name": "Skovbye, Ali"
+            },
+            {
+                "name": "Willes, Christine"
+            },
+            {
+                "name": "Tanner, Drew Ray"
+            },
+            {
+                "name": "Hogan, Michael"
+            },
+            {
+                "name": "Benedicto, Donna"
+            },
+            {
+                "name": "Zhang, Tim"
+            },
+            {
+                "name": "Wheeler, Colleen"
+            },
+            {
+                "name": "Zaradic, Sylvia"
+            },
+            {
+                "name": "Bartlett, Jaren Brandt"
+            },
+            {
+                "name": "Moore, Angela"
+            },
+            {
+                "name": "Lanko, Vivian"
+            },
+            {
+                "name": "Guest, Lucie"
+            },
+            {
+                "name": "Sesay, Fanta"
+            },
+            {
+                "name": "Akeson, Corina"
+            },
+            {
+                "name": "Anthony, Nicole"
+            },
+            {
+                "name": "Kimmel, Warren"
+            },
+            {
+                "name": "Lu, Yvette"
+            },
+            {
+                "name": "Rosner, Marcus"
+            },
+            {
+                "name": "Toussaint, Naika"
+            },
+            {
+                "name": "Berengel, Jana"
+            }
+        ],
+        "locations": [
+            "Vancouver, British Columbia, Canada",
+            "British Columbia, Canada"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "runtimes": [
+            "28"
+        ],
+        "countries": [
+            "United States",
+            "Canada"
+        ],
+        "country codes": [
+            "us",
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Argentina:16",
+            "Australia:MA15+",
+            "Netherlands:6::(season 3)",
+            "Netherlands:12::(seasons 1 and 2)",
+            "Norway:12::(Netflix self-rating)",
+            "Singapore:M18",
+            "South Korea:18",
+            "Spain:13",
+            "United Kingdom:15",
+            "United States:TV-MA"
+        ],
+        "number of seasons": 4,
+        "rating": 7.0,
+        "votes": 6393,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTc2MjUwOTMyNF5BMl5BanBnXkFtZTgwNTEwNTQ0MTI@._V1_SY150_CR4,0,101,150_.jpg",
+        "plot outline": "What begins as an impulsive \"date\" between suburban husband Jack and neophyte escort Izzy, spins into a whirlwind three-way sexual affair including Jack's wife Emma, who has been keeping secrets of her own. Over a span of just 10 days, their \"arrangement\" breaks free of its financial bonds to become something else entirely: A real romance, with real stakes, involving three real people, confronting viewers with the compelling question: What if your best, truest, happiest life looked nothing like you thought it would? Would you be brave enough to live it?",
+        "languages": [
+            "English"
+        ],
+        "title": "You Me Her",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "writer": [
+            {
+                "name": "Richardson, John H."
+            },
+            {
+                "name": "Shepherd, John Scott"
+            },
+            {
+                "name": "Shepherd, Natalie Renée"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "JSS Entertainment"
+            },
+            {
+                "name": "Alta Loma Entertainment"
+            },
+            {
+                "name": "Entertainment One Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "eOne Television"
+            },
+            {
+                "name": "DirecTV"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aion Art Gallery"
+            },
+            {
+                "name": "Entertainment Partners Canada"
+            },
+            {
+                "name": "Marc Graue Recording Studios: Voiceover and Post"
+            },
+            {
+                "name": "William F. White International"
+            }
+        ],
+        "plot": [
+            "Centers around a three-way romantic relationship involving a suburban married couple.::Variety",
+            "What begins as an impulsive \"date\" between suburban husband Jack and neophyte escort Izzy, spins into a whirlwind three-way sexual affair including Jack's wife Emma, who has been keeping secrets of her own. Over a span of just 10 days, their \"arrangement\" breaks free of its financial bonds to become something else entirely: A real romance, with real stakes, involving three real people, confronting viewers with the compelling question: What if your best, truest, happiest life looked nothing like you thought it would? Would you be brave enough to live it?",
+            "An unusual, real-world romance involving relatable people, with one catch - there are three of them. _You Me Her_ (qv) infuses the sensibilities of a smart, grounded indie rom-com with a distinctive twist: one of the two parties just happens to be a suburban married couple. Watch and laugh along as you go behind the scenes of this 10-day whirlwind affair.::ahmetkozan"
+        ],
+        "tech": {
+            "runtime": [
+                "28 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 6393,
+                "rating": 7.0
+            },
+            "aged under 18": {
+                "votes": 4,
+                "rating": 5.8
+            },
+            "aged 18 29": {
+                "votes": 1657,
+                "rating": 7.2
+            },
+            "aged 30 44": {
+                "votes": 2023,
+                "rating": 6.8
+            },
+            "aged 45 plus": {
+                "votes": 582,
+                "rating": 7.0
+            },
+            "males": {
+                "votes": 2586,
+                "rating": 7.2
+            },
+            "males aged under 18": {
+                "votes": 3,
+                "rating": 5.0
+            },
+            "males aged 18 29": {
+                "votes": 748,
+                "rating": 7.4
+            },
+            "males aged 30 44": {
+                "votes": 1125,
+                "rating": 7.0
+            },
+            "males aged 45 plus": {
+                "votes": 432,
+                "rating": 6.9
+            },
+            "females": {
+                "votes": 2140,
+                "rating": 6.9
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 871,
+                "rating": 7.1
+            },
+            "females aged 30 44": {
+                "votes": 854,
+                "rating": 6.6
+            },
+            "females aged 45 plus": {
+                "votes": 142,
+                "rating": 7.0
+            },
+            "top 1000 voters": {
+                "votes": 58,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 447,
+                "rating": 6.9
+            },
+            "non us users": {
+                "votes": 2771,
+                "rating": 6.9
+            }
+        },
+        "number of votes": {
+            "10": 1255,
+            "9": 800,
+            "8": 1338,
+            "7": 1412,
+            "6": 655,
+            "5": 332,
+            "4": 121,
+            "3": 80,
+            "2": 71,
+            "1": 329
+        },
+        "arithmetic mean": 7.4,
+        "median": 8
+    }
+}

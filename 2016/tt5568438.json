@@ -1,0 +1,460 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "29 November 2016"
+            },
+            {
+                "country": "Australia\n",
+                "date": "8 February 2017"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "1 June 2017",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Spain\n",
+                "date": "20 March 2018"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "4 June 2018"
+            }
+        ],
+        "release dates": [
+            "UK::29 November 2016",
+            "Australia::8 February 2017",
+            "Netherlands::1 June 2017                            (limited)",
+            "Spain::20 March 2018",
+            "Sweden::4 June 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Rillington Place"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Рилингтън плейс"
+            },
+            {
+                "countries": "Russia",
+                "title": "Риллингтон-плейс"
+            },
+            {
+                "countries": "Spain",
+                "title": "El estrangulador de Rillington Place"
+            },
+            {
+                "countries": "USA",
+                "title": "Rillington Place"
+            }
+        ],
+        "akas": [
+            "Rillington Place (original title)",
+            "Рилингтън плейс Bulgaria (Bulgarian title)",
+            "Риллингтон-плейс Russia",
+            "El estrangulador de Rillington Place Spain",
+            "Rillington Place USA"
+        ],
+        "akas from release info": [
+            "Rillington Place (original title)",
+            "Рилингтън плейс Bulgaria (Bulgarian title)",
+            "Риллингтон-плейс Russia",
+            "El estrangulador de Rillington Place Spain",
+            "Rillington Place USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Ethel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rillington Place (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 117,
+                    "original air date": "29 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    After 9 years apart, John Reginald Christie and his estranged wife Ethel reunite and move into 10 Rillington Place. As war breaks out, the fractures in their relationship reappear beneath the thin veneer of married respectability.    "
+                },
+                "2": {
+                    "title": "Tim",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rillington Place (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 104,
+                    "original air date": "6 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    Newlyweds Tim and Beryl Evans arrive at 10 Rillington Place. As time passes and the young couple's relationship hits difficulties, Christie's interest and influence over them takes a much more sinister turn.    "
+                },
+                "3": {
+                    "title": "Reg",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rillington Place (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 92,
+                    "original air date": "13 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    Following the strain of Evans's trial, Christie finds it increasingly difficult to maintain the charade. As his marriage breaks down, he embarks upon a course of action that will finally reveal his true nature to the world.    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "Tim",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rillington Place (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "6 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Roth, Tim"
+            },
+            {
+                "name": "Mirallegro, Nico"
+            },
+            {
+                "name": "Morton, Samantha"
+            },
+            {
+                "name": "Comer, Jodie"
+            },
+            {
+                "name": "Gilchrist, Gilly"
+            },
+            {
+                "name": "Thomas, Eiry"
+            },
+            {
+                "name": "Hatherall, Christopher"
+            },
+            {
+                "name": "Bentinck, Tim"
+            },
+            {
+                "name": "Cassidy, Sonya"
+            },
+            {
+                "name": "Hurley, John-Paul"
+            },
+            {
+                "name": "Parry, Bryan"
+            },
+            {
+                "name": "Mathurin, Kevin"
+            },
+            {
+                "name": "McAlpine, Helen"
+            },
+            {
+                "name": "Rainsbury, Bobby"
+            },
+            {
+                "name": "Grimstead, Glyn"
+            },
+            {
+                "name": "Welch, Sandy"
+            },
+            {
+                "name": "Wise, Sophie"
+            },
+            {
+                "name": "Rowe, Leanne"
+            },
+            {
+                "name": "Salinger, Justin"
+            },
+            {
+                "name": "Appleby, Pearl"
+            },
+            {
+                "name": "Elder, Steven"
+            },
+            {
+                "name": "Hoyland, William"
+            },
+            {
+                "name": "Kelly, Cara"
+            },
+            {
+                "name": "Roberts, Nia"
+            },
+            {
+                "name": "Raglan, Alun"
+            },
+            {
+                "name": "William, Rhys Ap"
+            },
+            {
+                "name": "Reilly, Chris"
+            },
+            {
+                "name": "Ellis, Lisa"
+            },
+            {
+                "name": "Quintrell, Sarah"
+            },
+            {
+                "name": "Arya, Sagar"
+            },
+            {
+                "name": "Armstrong, Erin"
+            },
+            {
+                "name": "Wharton, Toby"
+            },
+            {
+                "name": "Mallon, Helen"
+            },
+            {
+                "name": "McCarry, Conor"
+            },
+            {
+                "name": "Hodgkinson, John"
+            },
+            {
+                "name": "Whitelock, Robert"
+            },
+            {
+                "name": "Campion, Sean"
+            },
+            {
+                "name": "Addison, Richard"
+            },
+            {
+                "name": "McGowan, Lewis"
+            },
+            {
+                "name": "Bradley, Ben"
+            },
+            {
+                "name": "Hartley-Miller, Emma"
+            },
+            {
+                "name": "Lovett, Kitty"
+            },
+            {
+                "name": "Monaghan, Ryan John"
+            }
+        ],
+        "locations": [
+            "Glasgow, Scotland, UK",
+            "Paisley, Renfrewshire, Scotland, UK",
+            "Boness, Scotland, UK",
+            "London, England, UK"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "58"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Germany:16",
+            "Ireland:15",
+            "South Korea:15",
+            "Spain:16",
+            "United Kingdom:15",
+            "United States:TV-MA"
+        ],
+        "original air date": "29 Nov 2016 (UK)",
+        "number of seasons": 1,
+        "rating": 7.1,
+        "votes": 2184,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMmQzOThmYzMtNGQwZi00MDcwLWFhOWMtNmQ4ZjgzNzg4OWMwXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Rillington Place",
+        "year": 2016,
+        "kind": "tv mini series",
+        "series years": "2016-2016",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Malone, Tracey"
+            },
+            {
+                "name": "Whitmore, Ed"
+            }
+        ],
+        "director": [
+            {
+                "name": "Viveiros, Craig"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Bandit Television"
+            },
+            {
+                "name": "BBC Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "BBC First"
+            },
+            {
+                "name": "BBC First"
+            },
+            {
+                "name": "Polyband"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Artem"
+            },
+            {
+                "name": "Lexhag VFX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Molinare Studio"
+            },
+            {
+                "name": "Universal Extras"
+            }
+        ],
+        "plot": [
+            "A three-part drama about serial killer John Christie and the murders at 10 _Rillington Place_ (qv) in the 1940s and early 1950s.::BritishFilms 1"
+        ],
+        "tech": {
+            "runtime": [
+                "58 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2184,
+                "rating": 7.1
+            },
+            "aged 18 29": {
+                "votes": 216,
+                "rating": 7.0
+            },
+            "aged 30 44": {
+                "votes": 707,
+                "rating": 7.0
+            },
+            "aged 45 plus": {
+                "votes": 623,
+                "rating": 7.2
+            },
+            "males": {
+                "votes": 1035,
+                "rating": 7.1
+            },
+            "males aged 18 29": {
+                "votes": 105,
+                "rating": 6.9
+            },
+            "males aged 30 44": {
+                "votes": 431,
+                "rating": 7.0
+            },
+            "males aged 45 plus": {
+                "votes": 430,
+                "rating": 7.2
+            },
+            "females": {
+                "votes": 620,
+                "rating": 7.2
+            },
+            "females aged 18 29": {
+                "votes": 111,
+                "rating": 7.1
+            },
+            "females aged 30 44": {
+                "votes": 270,
+                "rating": 7.1
+            },
+            "females aged 45 plus": {
+                "votes": 186,
+                "rating": 7.3
+            },
+            "top 1000 voters": {
+                "votes": 79,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 102,
+                "rating": 7.2
+            },
+            "non us users": {
+                "votes": 1207,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 165,
+            "9": 241,
+            "8": 604,
+            "7": 637,
+            "6": 283,
+            "5": 119,
+            "4": 59,
+            "3": 25,
+            "2": 17,
+            "1": 34
+        },
+        "arithmetic mean": 7.2,
+        "median": 7
+    }
+}

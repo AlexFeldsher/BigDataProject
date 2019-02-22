@@ -1,0 +1,109 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Argentina\n",
+                "date": "12 December 2016"
+            },
+            {
+                "country": "Argentina\n",
+                "date": "8 December 2017",
+                "notes": "                            (Canal Encuentro)"
+            }
+        ],
+        "release dates": [
+            "Argentina::12 December 2016",
+            "Argentina::8 December 2017                            (Canal Encuentro)"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Los poemas de Sidney West",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Nacidos por escrito (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "13 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Emma Zunz",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Nacidos por escrito (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "12 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "locations": [
+            "Buenos Aires, Federal District, Argentina::(studio)"
+        ],
+        "genres": [
+            "Talk-Show"
+        ],
+        "countries": [
+            "Argentina"
+        ],
+        "country codes": [
+            "ar"
+        ],
+        "language codes": [
+            "es"
+        ],
+        "color info": [
+            "Color::(HD)"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "Spanish"
+        ],
+        "title": "Nacidos por escrito",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "akas": [
+            "Nacidos por escrito (Argentina)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Rosebud Film & Post"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Canal Encuentro"
+            }
+        ],
+        "tech": {
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color (HD)"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

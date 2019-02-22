@@ -1,0 +1,71 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "2 March 2016"
+            }
+        ],
+        "release dates": [
+            "UK::2 March 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Untitled Animate Series by TBF"
+            },
+            {
+                "countries": " (working title)",
+                "title": "Aesop Breadbin"
+            }
+        ],
+        "akas": [
+            "Untitled Animate Series by TBF (original title)",
+            "Aesop Breadbin (working title)"
+        ],
+        "akas from release info": [
+            "Untitled Animate Series by TBF (original title)",
+            "Aesop Breadbin (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Untitled Animate Series by TBF (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Untitled Second Episode",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Untitled Animate Series by TBF (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "genres": [
+            "Animation"
+        ],
+        "number of seasons": 1,
+        "budget": "GBP12 (estimated)",
+        "title": "Untitled Animate Series by TBF",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1"
+        ],
+        "tech": {}
+    }
+}

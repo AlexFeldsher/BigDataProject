@@ -1,0 +1,35 @@
+{
+    "imdb": {
+        "episodes": {
+            "5": {
+                "1": {
+                    "title": "Meet The LadyBugs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Broken Tiaras (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 1,
+                    "original air date": "Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    The LadyBugs rescue girls from the TV show 'Toddlers and Tiaras'    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "number of seasons": 5,
+        "title": "Broken Tiaras",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "tech": {}
+    }
+}

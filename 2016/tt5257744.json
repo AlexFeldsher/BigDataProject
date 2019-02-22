@@ -1,0 +1,601 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "22 June 2016"
+            },
+            {
+                "country": "USA\n",
+                "date": "22 June 2016"
+            },
+            {
+                "country": "Japan\n",
+                "date": "19 March 2017"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "25 July 2018"
+            }
+        ],
+        "release dates": [
+            "Canada::22 June 2016",
+            "USA::22 June 2016",
+            "Japan::19 March 2017",
+            "Belgium::25 July 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "American Gothic"
+            },
+            {
+                "countries": "Russia",
+                "title": "Американская готика"
+            }
+        ],
+        "akas": [
+            "American Gothic (original title)",
+            "Американская готика Russia"
+        ],
+        "akas from release info": [
+            "American Gothic (original title)",
+            "Американская готика Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Arrangement in Grey and Black",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "American Gothic (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 310,
+                    "original air date": "22 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Alison is running for mayor and is helped by Naomi. A tunnel collapses on the expressway, revealing new evidence about the serial killer of Boston. Tessa and Cam make a surprising discovery.    "
+                },
+                "2": {
+                    "title": "Jack-in-the-Pulpit",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "American Gothic (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 235,
+                    "original air date": "29 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Madeline tells her children a story about her husband. The family get ready for the funeral. The police begin investigating Mitchel in relation to the murders.    "
+                },
+                "3": {
+                    "title": "Nighthawks",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "American Gothic (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 201,
+                    "original air date": "6 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Brady divulges to Tessa, who in turn tells the family, that new evidence in the Silver Bells Murder case is that he has a photograph of Cam as a teenager wearing the distinctive belt like the one that was discovered as evidence in the collapsed tunnel. Brady believes the easiest course of action to clear Cam if the photograph does come to light to his superiors is to get a sample of Cam's DNA, a request which Cam is advised by the family not to oblige. Brady has to decide if he will take measures against Tessa's wishes in getting that DNA sample. Alison and Naomi ...    "
+                },
+                "4": {
+                    "title": "Christina's World",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "American Gothic (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 189,
+                    "original air date": "13 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    With Gunther dead, Dts. Ross and Cutter pursue new leads in the Silver Bells Killer case. Meanwhile, Garrett is getting closer to Christina; daughter of one of SBK's victims.    "
+                },
+                "5": {
+                    "title": "The Artist in His Museum",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "American Gothic (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 173,
+                    "original air date": "20 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    With the police trying to track down Cam, the Hawthorne siblings struggle to also help him detox from the heroin. Except things become more troubling, as Cam starts to uncover repressed memories from long ago.    "
+                },
+                "6": {
+                    "title": "The Chess Players",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "American Gothic (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 177,
+                    "original air date": "27 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    News that Cam's DNA has been collected and that he is not the SBK but that there is a familial match (meaning that a blood relation of Cam's is the SBK) quickly hits the media which in turn derails what was a successful debate Alison was having against Mayor Conley. The police issue warrants to collect DNA from all the Hawthorne family members, which they are able to do except from Garrett who has disappeared without anyone in the family knowing where he is. With the vultures as Jack calls them i.e. the media circling the mansion, the family members feel trapped ...    "
+                },
+                "7": {
+                    "title": "The Gross Clinic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "American Gothic (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 142,
+                    "original air date": "3 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    New information about the Silver Bells murders creates havoc in the Hawthorne family; Christina can no longer trust Garrett; Alison's mayoral campaign falters; Jack displays disturbing new behavior.    "
+                },
+                "8": {
+                    "title": "Kindred Spirits",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "American Gothic (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 147,
+                    "original air date": "10 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    With Cam away at rehab, Jack is easily charmed by a new friend who takes on an alarming adventure; Garrett and Allison struggle to keep a reporter quiet; Brady comes across some strange info that helps move along the investigation.    "
+                },
+                "9": {
+                    "title": "The Oxbow",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "American Gothic (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 150,
+                    "original air date": "17 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Brady has arrested Garrett on the discovery of the knife with the chipped handle in his cabin. During his incarceration, Garrett is able to reflect on the fourteen years he lived out in the woods including how he came about the cabin which he lived in for most of that time, how he learned to trap for food, the unexpected companionship he received leading to a specific act near the end of that time period, and how he learned that Mitchell was in the hospital. Madeline and Darcy Campano, the lawyer that Madeline hires to represent Garrett, tell him not to say anything ...    "
+                },
+                "10": {
+                    "title": "The Veteran in a New Field",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "American Gothic (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 131,
+                    "original air date": "24 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    The city is in an uproar as the SBK strikes again; Alison relies on Brady to clear her name as she sets out to find the culprit who is at fault; Tessa has doubt's about Madeline; Cam decides on the custody of Jack and Sophie's involvement.    "
+                },
+                "11": {
+                    "title": "Freedom from Fear",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "American Gothic (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 143,
+                    "original air date": "31 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Garrett and Madeline are finally revealing all the old secrets and the mysterious events that took place in their house    "
+                },
+                "12": {
+                    "title": "Madame X",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "American Gothic (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 134,
+                    "original air date": "7 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Because of Madeline and Garrett coming clean about the events of the night of David Morales' murder as they know it (or purport to know it), Brady has no other option but to charge them for their various crimes. They assisting and cooperating in the on-going investigation as to SBK's identity and his accomplice could help their cause in the long run. The one favor Garrett asks in return is to be able to contact Christina in whatever form so that she can hear the story directly from him rather than through a third party. In general, the family and the police believe ...    "
+                },
+                "13": {
+                    "title": "Whistler's Mother",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "American Gothic (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 157,
+                    "original air date": "7 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    It's election day. Most of the family is at Alison's campaign headquarters, both as a measure of support to Alison and as it is perhaps the safest place from an attack by SBK's accomplice being so public. There are two conspicuously absent family members: Madeline, who may no longer be welcome based on the confrontation she and Alison had; and Alison herself, she who has missed some key engagements on this important day, and who is not picking up her cell phone. Alison's absence worries the family, as she being possibly abducted by the accomplice. As Tessa passes this...    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "Episode dated 22 June 2016",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "American Gothic (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "22 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 14,
+        "cast": [
+            {
+                "name": "Rylance, Juliet"
+            },
+            {
+                "name": "Starr, Antony"
+            },
+            {
+                "name": "Chatwin, Justin"
+            },
+            {
+                "name": "Ketch, Megan"
+            },
+            {
+                "name": "Knight, Elliot"
+            },
+            {
+                "name": "Leonidas, Stephanie"
+            },
+            {
+                "name": "Bateman, Gabriel"
+            },
+            {
+                "name": "Madsen, Virginia"
+            },
+            {
+                "name": "Lovejoy, Deirdre"
+            },
+            {
+                "name": "Sebastian, Maureen"
+            },
+            {
+                "name": "Bruce, Dylan"
+            },
+            {
+                "name": "Moreno, Catalina Sandino"
+            },
+            {
+                "name": "Pavlinek, Teresa"
+            },
+            {
+                "name": "Power, Sarah"
+            },
+            {
+                "name": "Prinzen-Klages, Natalie"
+            },
+            {
+                "name": "Prinzen-Klages, Nora"
+            },
+            {
+                "name": "Wilson, Lorna"
+            },
+            {
+                "name": "Colantoni, Enrico"
+            },
+            {
+                "name": "Fitzpatrick, Richard"
+            },
+            {
+                "name": "Lenz, Bethany Joy"
+            },
+            {
+                "name": "Devine, Aidan"
+            },
+            {
+                "name": "Sheridan, Jamey"
+            },
+            {
+                "name": "Macpherson, Spencer"
+            },
+            {
+                "name": "Doonan, Micheal"
+            },
+            {
+                "name": "Braganza, Glenda"
+            },
+            {
+                "name": "Begley, Zoe"
+            },
+            {
+                "name": "Walton, Clive"
+            },
+            {
+                "name": "James, Lamont"
+            },
+            {
+                "name": "Walker, Tim"
+            },
+            {
+                "name": "Deutschman, Erica"
+            },
+            {
+                "name": "Wilson, Rod"
+            },
+            {
+                "name": "Messina, Katie"
+            },
+            {
+                "name": "Ross, Kate"
+            },
+            {
+                "name": "Zeppieri, Richard"
+            },
+            {
+                "name": "Joshi, Suneel"
+            },
+            {
+                "name": "Elliott, Nneka"
+            },
+            {
+                "name": "O'Shea, Rory"
+            },
+            {
+                "name": "Arias, Yancey"
+            },
+            {
+                "name": "Gainey, M.C."
+            },
+            {
+                "name": "Chorostecki, Lara Jean"
+            },
+            {
+                "name": "Keeley, David"
+            },
+            {
+                "name": "Heffern, Meghan"
+            },
+            {
+                "name": "Fu, Rong"
+            },
+            {
+                "name": "Shaye, Lin"
+            },
+            {
+                "name": "Taylor, Mark"
+            },
+            {
+                "name": "Tompa, David"
+            },
+            {
+                "name": "Cohen, Aviv"
+            },
+            {
+                "name": "Coulter, Clare"
+            },
+            {
+                "name": "El Khafif, Nabeel"
+            },
+            {
+                "name": "Manley, Jake"
+            }
+        ],
+        "locations": [
+            "Toronto, Ontario, Canada",
+            "Cinespace Studios, Toronto, Ontario, Canada",
+            "Thorold, Ontario, Canada::(Thorold Tunnel)",
+            "Rattlesnake Point Conservation Area, Ontario, Canada"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "40"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "rating": 6.8,
+        "votes": 3825,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjI2Mzc5Mzg2MV5BMl5BanBnXkFtZTgwNTYyNDkyOTE@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "AMERICAN GOTHIC centers on a prominent Boston family reeling in the wake of the chilling discovery that someone in their midst is linked to an infamous string of murders. As shocking secrets from the past and present are revealed, their mounting suspicion and paranoia that one of them is a killer threatens to tear the family apart.",
+        "languages": [
+            "English"
+        ],
+        "title": "American Gothic",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-2016",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Brinkerhoff, Corinne"
+            },
+            {
+                "name": "Goodman, Lauren"
+            },
+            {
+                "name": "Shaw, Deirdre"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Full Fathom Five"
+            },
+            {
+                "name": "Hyla Regilla Productions"
+            },
+            {
+                "name": "Amblin Television"
+            },
+            {
+                "name": "CBS Television Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CBS"
+            },
+            {
+                "name": "FOXlife"
+            },
+            {
+                "name": "Global"
+            },
+            {
+                "name": "WOWOW Prime"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "MTI Film"
+            },
+            {
+                "name": "Soundtrack New York"
+            },
+            {
+                "name": "William F. White International"
+            }
+        ],
+        "plot": [
+            "The members of a prominent Boston family suspect that one of their own is working with an infamous serial killer.::Noah Orent",
+            "AMERICAN GOTHIC centers on a prominent Boston family reeling in the wake of the chilling discovery that someone in their midst is linked to an infamous string of murders. As shocking secrets from the past and present are revealed, their mounting suspicion and paranoia that one of them is a killer threatens to tear the family apart.",
+            "What do a narsissistic mother, a bisexual politician, a misfit, a drug addict, and a cops wife all have in common? They all seem to be connected to a serial killer known as the silver bells killer. The mystery unfolds as we discover this wealthy disfunctional family's secrets.",
+            "They seem like the perfect family: wealthy Boston blue-bloods, a mansion, they are all attractive and full of grace ... Only one problem. One of them is a serial killer knows as \"silver bells killer\". In the wake of thier fathers death, all fingers are pointing in different directions. Who done it? The sociopathic mother? The misfit loner? The drug addict? The bisexual politician? Or the wife of the detective trying to crack the case. With a family this disfunctional, it's really hard to tell who is innocent .",
+            "The Hawthornes are a nouveau riche and well respected family in Boston, their money largely from patriarch Mitchell Hawthorne's concrete business. That respect now extends to the next generation, Mitchell and Madeline Hawthorne's eldest daughter, Alison Hawthorne-Price, a city councilor who has decided to take a run for mayor in the next election with the support of her parents and her businessman husband, Tom Price, they the poster children for good looking marriage perfection. But there is a still hidden skeleton in Alison and Tom's closet, and some other skeletons related to her family: her older brother, Garrett Hawthorne, abandoned the family twenty years ago under mysterious circumstances, never to be seen or heard from again; and her younger brother and his estranged wife, Cam and Sophie Hawthorne, are known drug addicts. Just as the election campaign begins, another problem emerges for the entire Hawthorne family: the concrete business is implicated in a twenty year cold case, that of a serial murderer coined the Silver Bells Killer (SBK), with Mitchell, Madeline, Garrett and Cam most specifically of the Hawthorne family members suspected as possibly being SBK. Brady Ross, a homicide detective with the Boston PD, is among those investigating this new lead, he who is trying to make a name for himself with this case. What complicates the situation even more is that Brady is married to Tessa Ross, Garrett, Alison and Cam's youngest sister.::Huggo"
+        ],
+        "tech": {
+            "runtime": [
+                "40 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3825,
+                "rating": 6.8
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "aged 18 29": {
+                "votes": 463,
+                "rating": 7.1
+            },
+            "aged 30 44": {
+                "votes": 1251,
+                "rating": 6.5
+            },
+            "aged 45 plus": {
+                "votes": 858,
+                "rating": 6.6
+            },
+            "males": {
+                "votes": 1395,
+                "rating": 6.3
+            },
+            "males aged 18 29": {
+                "votes": 209,
+                "rating": 6.9
+            },
+            "males aged 30 44": {
+                "votes": 618,
+                "rating": 6.1
+            },
+            "males aged 45 plus": {
+                "votes": 445,
+                "rating": 6.2
+            },
+            "females": {
+                "votes": 1420,
+                "rating": 7.1
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 18 29": {
+                "votes": 250,
+                "rating": 7.2
+            },
+            "females aged 30 44": {
+                "votes": 611,
+                "rating": 6.9
+            },
+            "females aged 45 plus": {
+                "votes": 400,
+                "rating": 7.1
+            },
+            "top 1000 voters": {
+                "votes": 111,
+                "rating": 5.7
+            },
+            "us users": {
+                "votes": 761,
+                "rating": 6.8
+            },
+            "non us users": {
+                "votes": 1209,
+                "rating": 6.3
+            }
+        },
+        "number of votes": {
+            "10": 655,
+            "9": 361,
+            "8": 762,
+            "7": 822,
+            "6": 481,
+            "5": 259,
+            "4": 143,
+            "3": 99,
+            "2": 70,
+            "1": 173
+        },
+        "arithmetic mean": 7.1,
+        "median": 7
+    }
+}

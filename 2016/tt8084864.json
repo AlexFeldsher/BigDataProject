@@ -1,0 +1,77 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Canada\n",
+                "date": "29 April 2016"
+            }
+        ],
+        "release dates": [
+            "USA::2016",
+            "Canada::29 April 2016"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Channing Tatum",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Speechless with Carly Fleischmann (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "29 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Fleischmann, Carly"
+            },
+            {
+                "name": "Tatum, Channing"
+            }
+        ],
+        "genres": [
+            "Talk-Show"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "country codes": [
+            "ca"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "title": "Speechless with Carly Fleischmann",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "akas": [
+            "Speechless with Carly Fleischmann (Canada)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "distributors": [
+            {
+                "name": "YouTube"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

@@ -1,0 +1,466 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "23 August 2016"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "3 December 2016",
+                "notes": "                            (limited)"
+            }
+        ],
+        "release dates": [
+            "UK::23 August 2016",
+            "Netherlands::3 December 2016                            (limited)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "One of Us"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Retribution"
+            },
+            {
+                "countries": "Russia",
+                "title": "Один из нас"
+            },
+            {
+                "countries": "Singapore (English title) (alternative title)",
+                "title": "Retribution"
+            },
+            {
+                "countries": "Spain",
+                "title": "Represalias"
+            },
+            {
+                "countries": "USA",
+                "title": "Retribution"
+            }
+        ],
+        "akas": [
+            "One of Us (original title)",
+            "Retribution Brazil",
+            "Один из нас Russia",
+            "Retribution Singapore (English title) (alternative title)",
+            "Represalias Spain",
+            "Retribution USA"
+        ],
+        "akas from release info": [
+            "One of Us (original title)",
+            "Retribution Brazil",
+            "Один из нас Russia",
+            "Retribution Singapore (English title) (alternative title)",
+            "Represalias Spain",
+            "Retribution USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Storm",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Retribution (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 219,
+                    "original air date": "23 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Childhood sweethearts Adam and Grace are brutally murdered on their return from honeymoon. Then their devastated families discover the identity of the badly injured stranger who turns up on their doorstep.    "
+                },
+                "2": {
+                    "title": "Beneath the Surface",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Retribution (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 178,
+                    "original air date": "30 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    The Douglas and Elliot families are faced with another dilemma when the police arrive to commence their investigation into the murder of Adam and Grace. Juliet's actions have unexpectedly tragic consequences.    "
+                },
+                "3": {
+                    "title": "Glenarvon Loch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Retribution (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 165,
+                    "original air date": "6 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    A tangled web of secrets and lies begins to unravel as Jamie makes a fateful decision and Rob must choose who to protect. The police are closing in on the two families, with Juliet's own crimes coming home to roost.    "
+                },
+                "4": {
+                    "title": "Adam and Grace",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Retribution (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 159,
+                    "original air date": "13 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Claire confronts Bill over his argument with Adam on the wedding video and is told that her brother was unfaithful, which she disbelieves. She is however intrigued to find that Adam made five phone calls to Bill on his honeymoon and uncovers a terrible secret leading to the identity of the family member who paid Walsh to commit murder and then killed Walsh . Meanwhile Alistair's wife Sal gets revenge for his affair with Moira, devastating the terminally ill Bill and Juliet plays dirty when her partner in crime threatens to expose her, depending on colleague Andrew to ...    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Whitelaw, Owen"
+            },
+            {
+                "name": "Edmondson, Adrian"
+            },
+            {
+                "name": "Bracken, Kate"
+            },
+            {
+                "name": "Campbell, Georgina"
+            },
+            {
+                "name": "Dempsie, Joe"
+            },
+            {
+                "name": "Dickie, Kate"
+            },
+            {
+                "name": "Evets, Steve"
+            },
+            {
+                "name": "Fraser, Laura"
+            },
+            {
+                "name": "Fulton, Chris"
+            },
+            {
+                "name": "Graham, Julie"
+            },
+            {
+                "name": "Hainsworth, Isis"
+            },
+            {
+                "name": "Kidd, Anne"
+            },
+            {
+                "name": "Lewis, Gary"
+            },
+            {
+                "name": "Lynch, John"
+            },
+            {
+                "name": "Jones, Jeremy Neumark"
+            },
+            {
+                "name": "Stevenson, Juliet"
+            },
+            {
+                "name": "Vanderham, Joanna"
+            },
+            {
+                "name": "Alexander, Kae"
+            },
+            {
+                "name": "Ortega, Christian"
+            },
+            {
+                "name": "Wood, Harry"
+            },
+            {
+                "name": "Allan, Kim"
+            },
+            {
+                "name": "Connor, Sean"
+            },
+            {
+                "name": "Gilchrist, Gilly"
+            },
+            {
+                "name": "Healey, Elizabeth"
+            },
+            {
+                "name": "Marshall, Beth"
+            },
+            {
+                "name": "McAnerney, James"
+            },
+            {
+                "name": "Tait, Kanesly"
+            },
+            {
+                "name": "Zajac, Matthew"
+            },
+            {
+                "name": "Burns, Jack"
+            },
+            {
+                "name": "Campbell, Daniel"
+            },
+            {
+                "name": "Coote, Anna"
+            },
+            {
+                "name": "Dunese, Amy"
+            },
+            {
+                "name": "Harkness, James"
+            },
+            {
+                "name": "Laing, Robin"
+            },
+            {
+                "name": "Leith, David"
+            },
+            {
+                "name": "McArdle, Sarah"
+            },
+            {
+                "name": "McCardie, Sarah"
+            },
+            {
+                "name": "O'Raw, Louie"
+            },
+            {
+                "name": "O'Raw, Maisie"
+            },
+            {
+                "name": "Paterson, Ryan"
+            },
+            {
+                "name": "Saffire, Debbie Stephens"
+            },
+            {
+                "name": "Stephens, Craig"
+            },
+            {
+                "name": "Strain, Kirsty"
+            },
+            {
+                "name": "Watters, Dom"
+            },
+            {
+                "name": "Ellard, Paul"
+            },
+            {
+                "name": "Manclark, Jim"
+            },
+            {
+                "name": "Yates, Robert"
+            },
+            {
+                "name": "Cullen, James"
+            },
+            {
+                "name": "Rooney, Peter"
+            },
+            {
+                "name": "Ryde, Gordon"
+            }
+        ],
+        "locations": [
+            "Peebles, Scottish Borders, Scotland, UK",
+            "Edinburgh, Scotland, UK"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Australia:M",
+            "Ireland:15",
+            "Netherlands:12",
+            "Norway:16::(Netflix self-rating)",
+            "Singapore:M18",
+            "United Kingdom:15",
+            "United States:TV-MA"
+        ],
+        "original air date": "23 Aug 2016 (UK)",
+        "number of seasons": 1,
+        "rating": 7.0,
+        "votes": 4273,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZGI0MDBkZGEtMmJiNC00Nzc4LWEyMzMtYmM2YjUyZGQ5YTJmXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "A horrific double murder rocks the lives of two families living side-by-side in isolated rural Scotland. But instead of focusing on the investigation, One Of Us explores the fallout for the grieving relatives, and the dark consequences that threaten to shatter their lives.",
+        "languages": [
+            "English"
+        ],
+        "title": "Retribution",
+        "year": 2016,
+        "kind": "tv mini series",
+        "series years": "2016-2016",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Williams, Harry"
+            },
+            {
+                "name": "Williams, Jack"
+            }
+        ],
+        "director": [
+            {
+                "name": "McGregor, William"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "BBC Scotland"
+            },
+            {
+                "name": "Netflix Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "BBC First"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Polyband"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Universal Extras"
+            }
+        ],
+        "plot": [
+            "A horrific murder rocks the lives of two families living side-by-side in isolated rural Scotland.",
+            "A horrific double murder rocks the lives of two families living side-by-side in isolated rural Scotland. But instead of focusing on the investigation, One Of Us explores the fallout for the grieving relatives, and the dark consequences that threaten to shatter their lives."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (4 parts)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "camera": [
+                "Arri Alexa",
+                "RED DRAGON"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 4273,
+                "rating": 7.0
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 6.0
+            },
+            "aged 18 29": {
+                "votes": 572,
+                "rating": 7.1
+            },
+            "aged 30 44": {
+                "votes": 1269,
+                "rating": 6.8
+            },
+            "aged 45 plus": {
+                "votes": 1054,
+                "rating": 7.0
+            },
+            "males": {
+                "votes": 1895,
+                "rating": 6.9
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 310,
+                "rating": 7.2
+            },
+            "males aged 30 44": {
+                "votes": 735,
+                "rating": 6.7
+            },
+            "males aged 45 plus": {
+                "votes": 680,
+                "rating": 7.0
+            },
+            "females": {
+                "votes": 1240,
+                "rating": 7.1
+            },
+            "females aged 18 29": {
+                "votes": 256,
+                "rating": 7.1
+            },
+            "females aged 30 44": {
+                "votes": 509,
+                "rating": 6.9
+            },
+            "females aged 45 plus": {
+                "votes": 358,
+                "rating": 7.2
+            },
+            "top 1000 voters": {
+                "votes": 85,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 472,
+                "rating": 7.1
+            },
+            "non us users": {
+                "votes": 1898,
+                "rating": 6.9
+            }
+        },
+        "number of votes": {
+            "10": 321,
+            "9": 380,
+            "8": 1029,
+            "7": 1345,
+            "6": 631,
+            "5": 264,
+            "4": 116,
+            "3": 61,
+            "2": 36,
+            "1": 90
+        },
+        "arithmetic mean": 7.1,
+        "median": 7
+    }
+}

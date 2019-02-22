@@ -1,0 +1,443 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "November 2016"
+            },
+            {
+                "country": "USA\n",
+                "date": "1 November 2016"
+            },
+            {
+                "country": "Argentina\n",
+                "date": "11 November 2016",
+                "notes": "                            (Netflix)"
+            },
+            {
+                "country": "Argentina\n",
+                "date": "6 November 2018"
+            }
+        ],
+        "release dates": [
+            "USA::November 2016",
+            "USA::1 November 2016",
+            "Argentina::11 November 2016                            (Netflix)",
+            "Argentina::6 November 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Estocolmo"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Estocolmo"
+            }
+        ],
+        "akas": [
+            "Estocolmo (original title)",
+            "Estocolmo Portugal"
+        ],
+        "akas from release info": [
+            "Estocolmo (original title)",
+            "Estocolmo Portugal"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "La Chica Perdida",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Estocolmo (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 18,
+                    "original air date": "1 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Journalist Rosario Santa Cruz investigates the one-year disappearance of Larissa Torres and receives an enticing offer from a prosecutor on the case.    "
+                },
+                "2": {
+                    "title": "¿Quién es Roque Carbone?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Estocolmo (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 13,
+                    "original air date": "7 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Agent H gives Rosario proof that Larissa Torres is still alive, but Rosario's interest in the case begins to put her own life in danger.    "
+                },
+                "3": {
+                    "title": "Rosario en Peligro",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Estocolmo (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 11,
+                    "original air date": "8 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Rosario's mom takes over as news anchor and pleads with the public to help find her kidnapped daughter. Meanwhile, another woman is kidnapped.    "
+                },
+                "4": {
+                    "title": "Las Reglas están Cambiando",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Estocolmo (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 11,
+                    "original air date": "13 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Isabel invites a group of mothers with disappeared children to her show as a rescue operation is conducted to try and save Rosario.    "
+                },
+                "5": {
+                    "title": "La Masacre de Jeremías",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Estocolmo (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 11,
+                    "original air date": "14 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Gonzalo opens up about his and Franco's family history. Political blackmail engulfs Rosario's parents, and Franco puts pressure on Larissa.    "
+                },
+                "6": {
+                    "title": "Fuego en la Sangre",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Estocolmo (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 10,
+                    "original air date": "15 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Franco and Gonzalo finally confront each other at their mother's house. Meanwhile, Isabel faces backlash for her attempts at blackmail.    "
+                },
+                "7": {
+                    "title": "Sin Retorno",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Estocolmo (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 9,
+                    "original air date": "20 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Larissa goes on-air to talk about her experiences while she was kidnapped. Rosario learns disconcerting news about her parents.    "
+                },
+                "8": {
+                    "title": "Tiempo de Revancha",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Estocolmo (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 9,
+                    "original air date": "11 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Rosario's parents try to keep her from interacting with Agent H. Isabel deals with a change in her political party.    "
+                },
+                "9": {
+                    "title": "Raíces",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Estocolmo (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 8,
+                    "original air date": "22 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Larissa shares details about her devastating experiences with Gonzalo. Isabel speaks about the new law she's supporting against human trafficking.    "
+                },
+                "10": {
+                    "title": "Prófugos",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Estocolmo (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 8,
+                    "original air date": "11 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Alfredo searches for Larissa. Rosario and Franco get closer. Gonzalo makes headlines after going on a violent rampage through Argentina.    "
+                },
+                "11": {
+                    "title": "Purgatorio",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Estocolmo (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 9,
+                    "original air date": "11 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Gonzalo finds himself handcuffed in a basement. He soon learns that he is bait, meant to lure two specific people to the house where he's being held.    "
+                },
+                "12": {
+                    "title": "Todo Perdido",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Estocolmo (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 8,
+                    "original air date": "11 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Rosario learns more about her past as she meets with someone who cared for her as a baby. Garmendia and Alfredo reunite.    "
+                },
+                "13": {
+                    "title": "Todo Vuelve",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Estocolmo (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 11,
+                    "original air date": "11 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Rosario sits down with Teresa to seek answers. Franco must make an important decision about Gonzalo's life. A serial killer claims another victim.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Cáceres, Luciano"
+            },
+            {
+                "name": "Viale, Juana"
+            },
+            {
+                "name": "Marrale, Jorge"
+            },
+            {
+                "name": "Galeano, Pia"
+            },
+            {
+                "name": "Lamothe, Esteban"
+            },
+            {
+                "name": "Benedetto, Leonor"
+            },
+            {
+                "name": "Solari, Liz"
+            },
+            {
+                "name": "Disi, Emilio"
+            },
+            {
+                "name": "Marmorato, Matías"
+            },
+            {
+                "name": "Barraza, Adriana"
+            },
+            {
+                "name": "Contreras, Patricio"
+            },
+            {
+                "name": "Lanata, Maite"
+            },
+            {
+                "name": "Mistral, Fernanda"
+            },
+            {
+                "name": "Onetto, María"
+            },
+            {
+                "name": "Torre, Mariano"
+            }
+        ],
+        "locations": [
+            "Buenos Aires, Argentina::(studio) (interiors, La Corte Studios)",
+            "Buenos Aires, Federal District, Argentina"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "Argentina"
+        ],
+        "country codes": [
+            "ar"
+        ],
+        "language codes": [
+            "es"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 5.9,
+        "votes": 281,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOGEzODQ1ZWYtZTg0ZS00NDFhLWIxODQtZTM0MzdjNWFiZTUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDMxODg1Mzg@._V1_SY150_CR3,0,101,150_.jpg",
+        "budget": "$1 (estimated)",
+        "languages": [
+            "Spanish"
+        ],
+        "title": "Estocolmo",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Camaño, Marcelo"
+            },
+            {
+                "name": "Larrosa, Federico"
+            },
+            {
+                "name": "Molteni, Lucas"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Storylab"
+            },
+            {
+                "name": "Kapow"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "TV Pública"
+            }
+        ],
+        "plot": [
+            "An undercover agent, a prosecutor, and a journalist try to bring down a human trafficking ring, but nothing is as straightforward as it seems."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (including commercials)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 281,
+                "rating": 5.9
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "aged 18 29": {
+                "votes": 31,
+                "rating": 5.8
+            },
+            "aged 30 44": {
+                "votes": 95,
+                "rating": 5.7
+            },
+            "aged 45 plus": {
+                "votes": 62,
+                "rating": 5.8
+            },
+            "males": {
+                "votes": 148,
+                "rating": 5.8
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 16,
+                "rating": 6.9
+            },
+            "males aged 30 44": {
+                "votes": 72,
+                "rating": 5.7
+            },
+            "males aged 45 plus": {
+                "votes": 39,
+                "rating": 5.9
+            },
+            "females": {
+                "votes": 65,
+                "rating": 5.8
+            },
+            "females aged 18 29": {
+                "votes": 15,
+                "rating": 5.0
+            },
+            "females aged 30 44": {
+                "votes": 19,
+                "rating": 6.2
+            },
+            "females aged 45 plus": {
+                "votes": 23,
+                "rating": 5.6
+            },
+            "top 1000 voters": {
+                "votes": 10,
+                "rating": 5.9
+            },
+            "us users": {
+                "votes": 37,
+                "rating": 6.2
+            },
+            "non us users": {
+                "votes": 110,
+                "rating": 5.7
+            }
+        },
+        "number of votes": {
+            "10": 51,
+            "9": 18,
+            "8": 44,
+            "7": 35,
+            "6": 40,
+            "5": 26,
+            "4": 20,
+            "3": 12,
+            "2": 9,
+            "1": 26
+        },
+        "arithmetic mean": 6.4,
+        "median": 7
+    }
+}

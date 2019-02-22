@@ -1,0 +1,87 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "31 October 2016"
+            },
+            {
+                "country": "USA\n",
+                "date": "31 October 2016"
+            }
+        ],
+        "release dates": [
+            "UK::31 October 2016",
+            "USA::31 October 2016"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Larry, the Vampire (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "31 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Lake, Michael"
+            },
+            {
+                "name": "Bragg, Nathan"
+            },
+            {
+                "name": "Harrison, Owen"
+            },
+            {
+                "name": "Knox, Brandon"
+            },
+            {
+                "name": "Millar, Miranda"
+            }
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZDBiODg1MTgtYTkzZS00MWIxLWFmMjAtOTdjZmM4ZTczOWZlL2ltYWdlXkEyXkFqcGdeQXVyNTg5ODA2MTk@._V1_SY150_CR63,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Larry, the Vampire",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Isaac, Mesel"
+            }
+        ],
+        "plot": [
+            "Larry is a young man who gets a day job. He also happens to be a vampire."
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "imdb": {
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Episode 5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "What the VAAC!? (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "30 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Emma, Faolain, and Michael are washing Lt. Dan's Hummer and clothes, when they get frustrated with the situation and start fighting.    "
+                }
+            },
+            "1": {
+                "4": {
+                    "title": "Episode 4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "What the VAAC!? (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "26 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Jamie, Michael, and Faolain are working on menial tasks that Lt. Dan forced them to do. All of a sudden, Lt. Dan's computer starts making noise, and they decide to check it out.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Friedman, Emma"
+            },
+            {
+                "name": "Goodman, Michael"
+            },
+            {
+                "name": "Morell, Faolain"
+            },
+            {
+                "name": "Orta, Jaime"
+            },
+            {
+                "name": "Siegelstein, Dan"
+            }
+        ],
+        "number of seasons": 1,
+        "title": "What the VAAC!?",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Orta, Jaime"
+            },
+            {
+                "name": "Siegelstein, Dan"
+            }
+        ],
+        "tech": {}
+    }
+}
