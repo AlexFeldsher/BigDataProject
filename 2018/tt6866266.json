@@ -1,0 +1,541 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "France\n",
+                "date": "15 October 2018",
+                "notes": "                            (MIPCOM, Cannes)"
+            },
+            {
+                "country": "Spain\n",
+                "date": "18 November 2018"
+            },
+            {
+                "country": "Spain\n",
+                "date": "18 November 2018",
+                "notes": "                            (cable TV)"
+            },
+            {
+                "country": "USA\n",
+                "date": "18 November 2018"
+            },
+            {
+                "country": "Italy\n",
+                "date": "4 December 2018"
+            }
+        ],
+        "release dates": [
+            "France::15 October 2018                            (MIPCOM, Cannes)",
+            "Spain::18 November 2018",
+            "Spain::18 November 2018                            (cable TV)",
+            "USA::18 November 2018",
+            "Italy::4 December 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Escape at Dannemora"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Szökés Dannemorából"
+            },
+            {
+                "countries": "Poland",
+                "title": "Ucieczka z Dannemory"
+            },
+            {
+                "countries": "Russia",
+                "title": "Побег из тюрьмы Даннемора"
+            },
+            {
+                "countries": "Spain",
+                "title": "Fuga en Dannemora"
+            },
+            {
+                "countries": "Ukraine",
+                "title": "Втеча з в'язницi Даннемора"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "Escape at Clinton Correctional"
+            }
+        ],
+        "akas": [
+            "Escape at Dannemora (original title)",
+            "Szökés Dannemorából Hungary",
+            "Ucieczka z Dannemory Poland",
+            "Побег из тюрьмы Даннемора Russia",
+            "Fuga en Dannemora Spain",
+            "Втеча з в'язницi Даннемора Ukraine",
+            "Escape at Clinton Correctional USA (working title)"
+        ],
+        "akas from release info": [
+            "Escape at Dannemora (original title)",
+            "Szökés Dannemorából Hungary",
+            "Ucieczka z Dannemory Poland",
+            "Побег из тюрьмы Даннемора Russia",
+            "Fuga en Dannemora Spain",
+            "Втеча з в'язницi Даннемора Ukraine",
+            "Escape at Clinton Correctional USA (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Part 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Escape at Dannemora (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 606,
+                    "original air date": "18 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    2 prison inmates vie for the attention of Joyce \"Tilly\" Mitchell.    "
+                },
+                "2": {
+                    "title": "Part 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Escape at Dannemora (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 499,
+                    "original air date": "25 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Matt has an idea to get out of Dannemora.    "
+                },
+                "3": {
+                    "title": "Part 3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Escape at Dannemora (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 450,
+                    "original air date": "2 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    Tilly begins to feel guilty about her mounting indiscretions.    "
+                },
+                "4": {
+                    "title": "Part 4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Escape at Dannemora (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 427,
+                    "original air date": "9 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    Sweat makes progress on the escape route.    "
+                },
+                "5": {
+                    "title": "Part 5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Escape at Dannemora (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 495,
+                    "original air date": "16 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    On the day of the escape, Matt and Sweat try to avoid mistakes.    "
+                },
+                "6": {
+                    "title": "Part 6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Escape at Dannemora (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 483,
+                    "original air date": "23 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    We see what Matt and Sweat are capable of outside the prison walls.    "
+                },
+                "7": {
+                    "title": "Part 7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Escape at Dannemora (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 389,
+                    "original air date": "30 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    As the law closes in, all are confronted with hard truths.    "
+                }
+            }
+        },
+        "number of episodes": 7,
+        "cast": [
+            {
+                "name": "Del Toro, Benicio"
+            },
+            {
+                "name": "Arquette, Patricia"
+            },
+            {
+                "name": "Dano, Paul"
+            },
+            {
+                "name": "Hunt, Bonnie"
+            },
+            {
+                "name": "Lange, Eric"
+            },
+            {
+                "name": "Morse, David"
+            },
+            {
+                "name": "Bobb, Jeremy"
+            },
+            {
+                "name": "Beasley, Michael"
+            },
+            {
+                "name": "Dutton, Calvin"
+            },
+            {
+                "name": "Colón, Dominic"
+            },
+            {
+                "name": "Dann, Gregory"
+            },
+            {
+                "name": "Speirs, Mike"
+            },
+            {
+                "name": "Rivera, Joshua"
+            },
+            {
+                "name": "Corone, Antoni"
+            },
+            {
+                "name": "Day, Johanna"
+            },
+            {
+                "name": "Poland, Stephen C."
+            },
+            {
+                "name": "Sudduth, Skipp"
+            },
+            {
+                "name": "Chappelle, Andrew"
+            },
+            {
+                "name": "Mignini, Carolyn"
+            },
+            {
+                "name": "Schecter, Jeffrey"
+            },
+            {
+                "name": "O'Reilly, Harry"
+            },
+            {
+                "name": "Stock, Micah"
+            },
+            {
+                "name": "Mele, Christopher"
+            },
+            {
+                "name": "Milligan, Bonnie"
+            },
+            {
+                "name": "Gray, Amber"
+            },
+            {
+                "name": "Stiller, Amy"
+            },
+            {
+                "name": "Jensen, Erik J."
+            },
+            {
+                "name": "Lanuto, Michael"
+            },
+            {
+                "name": "Jr., Harry Sutton"
+            },
+            {
+                "name": "Sudduth, Joy"
+            },
+            {
+                "name": "Martin, Scott"
+            },
+            {
+                "name": "Imperioli, Michael"
+            },
+            {
+                "name": "Parrack, Jim"
+            },
+            {
+                "name": "Allan, Richie"
+            },
+            {
+                "name": "Guess, Charles"
+            },
+            {
+                "name": "Hofheimer, Charlie"
+            },
+            {
+                "name": "Mangano, Anthony"
+            },
+            {
+                "name": "Stiller, Ella Olivia"
+            },
+            {
+                "name": "Carnevale, Edward"
+            },
+            {
+                "name": "Green, Reggie Alvin"
+            },
+            {
+                "name": "Loving, Ben"
+            },
+            {
+                "name": "Durango, Diana"
+            },
+            {
+                "name": "Seal, Alexandra"
+            },
+            {
+                "name": "Gardner, Guerrin"
+            },
+            {
+                "name": "Levin, David Neal"
+            },
+            {
+                "name": "Alvord, Cody"
+            },
+            {
+                "name": "Deal, Frank"
+            },
+            {
+                "name": "Gioco, Joe"
+            },
+            {
+                "name": "O'Brien, Alana"
+            },
+            {
+                "name": "Austell, Sarah Jes"
+            }
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Singapore:NC16",
+            "United States:TV-MA"
+        ],
+        "original air date": "18 Nov 2018 (USA)",
+        "number of seasons": 1,
+        "rating": 8.1,
+        "votes": 9465,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTgxOTA3ODc1OF5BMl5BanBnXkFtZTgwMjI5OTQ1NjM@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Escape at Dannemora",
+        "year": 2018,
+        "kind": "tv mini series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Johnson, Brett"
+            },
+            {
+                "name": "Tolkin, Michael"
+            },
+            {
+                "name": "Stahl, Jerry"
+            }
+        ],
+        "director": [
+            {
+                "name": "Stiller, Ben"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Phosphene"
+            },
+            {
+                "name": "Red Hour Films"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Canal+"
+            },
+            {
+                "name": "Movistar+"
+            },
+            {
+                "name": "Showtime Networks"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Proof"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aerobo"
+            },
+            {
+                "name": "Big A Solutions"
+            },
+            {
+                "name": "Company 3"
+            },
+            {
+                "name": "Digital Post Services"
+            },
+            {
+                "name": "Panavision NY"
+            },
+            {
+                "name": "Technological Cinevideo Services (TCS)"
+            }
+        ],
+        "plot": [
+            "An employee at a prison in upstate New York becomes romantically involved with a pair of inmates and helps them escape.::Anonymous"
+        ],
+        "tech": {
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "laboratory": [
+                "Company 3 (digital intermediate)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 9465,
+                "rating": 8.1
+            },
+            "aged under 18": {
+                "votes": 13,
+                "rating": 7.6
+            },
+            "aged 18 29": {
+                "votes": 1249,
+                "rating": 8.1
+            },
+            "aged 30 44": {
+                "votes": 3527,
+                "rating": 8.1
+            },
+            "aged 45 plus": {
+                "votes": 1696,
+                "rating": 8.0
+            },
+            "males": {
+                "votes": 5472,
+                "rating": 8.1
+            },
+            "males aged under 18": {
+                "votes": 9,
+                "rating": 8.4
+            },
+            "males aged 18 29": {
+                "votes": 979,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 2784,
+                "rating": 8.1
+            },
+            "males aged 45 plus": {
+                "votes": 1206,
+                "rating": 8.0
+            },
+            "females": {
+                "votes": 1507,
+                "rating": 8.1
+            },
+            "females aged under 18": {
+                "votes": 3,
+                "rating": 7.0
+            },
+            "females aged 18 29": {
+                "votes": 242,
+                "rating": 8.0
+            },
+            "females aged 30 44": {
+                "votes": 660,
+                "rating": 8.1
+            },
+            "females aged 45 plus": {
+                "votes": 454,
+                "rating": 8.3
+            },
+            "top 1000 voters": {
+                "votes": 76,
+                "rating": 7.4
+            },
+            "us users": {
+                "votes": 1380,
+                "rating": 8.3
+            },
+            "non us users": {
+                "votes": 3869,
+                "rating": 8.0
+            }
+        },
+        "number of votes": {
+            "10": 1622,
+            "9": 2422,
+            "8": 3279,
+            "7": 1380,
+            "6": 397,
+            "5": 137,
+            "4": 57,
+            "3": 38,
+            "2": 42,
+            "1": 91
+        },
+        "arithmetic mean": 8.2,
+        "median": 8
+    }
+}

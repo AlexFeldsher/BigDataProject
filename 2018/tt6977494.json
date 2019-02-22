@@ -1,0 +1,110 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "1 January 2018"
+            },
+            {
+                "country": "USA\n",
+                "date": "1 January 2018"
+            },
+            {
+                "country": "USA\n",
+                "date": "April 2018"
+            }
+        ],
+        "release dates": [
+            "UK::1 January 2018",
+            "USA::1 January 2018",
+            "USA::April 2018"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Team Korea",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Far from Home (TV Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "1 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Abbasi, Forough"
+            },
+            {
+                "name": "Yee, Julian"
+            }
+        ],
+        "locations": [
+            "Iran::(on location)",
+            "Malaysia::(on location)",
+            "Germany::(on location)"
+        ],
+        "genres": [
+            "Documentary",
+            "Sport"
+        ],
+        "countries": [
+            "United Kingdom",
+            "Spain"
+        ],
+        "country codes": [
+            "gb",
+            "es"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Far from Home",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-2018",
+        "akas": [
+            "Far from Home (United Kingdom)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Boardwalk Pictures"
+            },
+            {
+                "name": "Brazil Production Services"
+            },
+            {
+                "name": "Madica Productions"
+            },
+            {
+                "name": "WZRD Media"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Olympic Channel"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

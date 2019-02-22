@@ -1,0 +1,446 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "5 June 2018"
+            },
+            {
+                "country": "USA\n",
+                "date": "11 June 2018"
+            }
+        ],
+        "release dates": [
+            "USA::5 June 2018",
+            "USA::11 June 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "CypherCon 3.0"
+            },
+            {
+                "countries": "USA",
+                "title": "Hackers of CypherCon"
+            }
+        ],
+        "akas": [
+            "CypherCon 3.0 (original title)",
+            "Hackers of CypherCon USA"
+        ],
+        "akas from release info": [
+            "CypherCon 3.0 (original title)",
+            "Hackers of CypherCon USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Hacking, Phreaking & Juvenile Delinquency",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "11 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    In a time when tinkering with technology was a guarantee for ridicule and torment, a small group of curious explorers were connecting to computer systems, traversing the telephone network, and occasionally causing mischief. Speaking at CypherCon 3.0, Joe Grand talks about previously unheard stories of his early days as a hacker, phone phreak, and troublemaker, following a rebellious path towards the eventual redirection of his passion to serve the greater good.    "
+                },
+                "2": {
+                    "title": "Hacking a Better Tomorrow",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "28 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    With more than 20 million YouTube views and fans spanning the globe, Ben is a proponent of computer science education, the DIY movement and equipping his viewers with the tools and knowledge to overcome any obstacle - design-related or otherwise.    "
+                },
+                "3": {
+                    "title": "Forensics When You're Broke",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "7 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n    Exploring the forensic methodology and tasks using free open source software. We won't be focusing on what tools are available, the focus of the presentation is explaining the methodology and where these tools fit in to the process to get the job done.    "
+                },
+                "4": {
+                    "title": "Hack in the Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "3 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    This talk will be about hacking/phreaking in the late 1980's, early 1990's, and what the scene was like back then as compared to present times. Tips and tricks that were considered cutting edge back then, and some tricks that still work today. The general attitude around hacking, and hacking 'groups' has matured and evolved over the years, and this talk will give a snapshot into some of the origins of how we got to where we are at today. This will be a talk that touches not only on technical aspects, but also on social aspects of historical hacking.    "
+                },
+                "5": {
+                    "title": "Developer Friendly Cryptography",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "17 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    Software developers often make mistakes when using cryptography in applications, which tends to result in code with dangerous and subtle weaknesses. Some of this can be addressed through training, but should we expect all developers to be cryptography experts? Many developers only know to avoid writing their own ciphers, and rely on one of the many incomplete or incorrect code examples that exist on the internet. To make things worse, most cryptographic libraries in use today are designed to be used by experts and often result in misunderstandings by the average ...    "
+                },
+                "6": {
+                    "title": "Hacking Academia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "31 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    Disciplines such as genetics and chemistry have a long history of discoveries that were initially overlooked and not appreciated for their transformative implications until decades later. These findings were often made by researchers working on the fringes of the mainstream scientific community who published in obscure journals, if at all. Through sheer luck their work formed the basis for larger discoveries. The cybersecurity community has many parallels. If you look at the titles of talks at serious academic conferences, there's a surprising overlap of topics and ...    "
+                },
+                "7": {
+                    "title": "Attacking Wireless Devices with SDR",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "14 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    In this talk, we'll be exploring how wireless communication works. We'll capture digital data live (with Software-Defined Radio [SDR]), and see how the actual bits are transmitted. From here, we'll see how to view, listen to, manipulate, and replay wireless signals. We'll also look at interrupting wireless communication, and finally, we'll even generate new radio waves from scratch (which can be useful for fuzzing and brute force attacks). I'll also be demoing some brand new tools I've written to help in the interception, manipulation, and generation of digital ...    "
+                },
+                "8": {
+                    "title": "SOAR: Operating at Attacker Speed",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "28 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    We face a shortage of qualified information security professionals, a high volume of security alerts, and a dynamic threat landscape rapidly evolving toward automated attacks. Security Orchestration, Automation and Response (SOAR) enables defenders to operate at attacker speed by codifying detection and response expertise into automation playbooks. This talk will examine the core components of SOAR, the skills required to design and implement it in your organization, common use cases in detection and response, and potential opportunities for security control testing ...    "
+                },
+                "9": {
+                    "title": "When Developers Fail to Secure",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "12 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    In the last year, David Bryan has found some pretty stupid security mistakes. Blatantly overlooked controls, or flat out lazy system admins. David will show real-world examples of misuse and abuse, and improper data handling of passwords inside application code. When talking about the security of a system as a whole, we must remember a breech in one system, can lead to a breach on another system because of the implicit trust relationships we build to get the job done. David will cover how he pulled down 1.2M hashes and cracked them and what controls were missed, and ...    "
+                },
+                "10": {
+                    "title": "What the Fungi? How to Grow Your Own Nootropics",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "26 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Big time farmers are getting rich off fungi. Ripping off consumers and controlling the supply. Don't be cheated by all the claims that science would deny. Learn how mushrooms are medicinal from what the clinical trials imply. From Star Trek to Starbucks, mushrooms seem to be popping up everywhere lately, doing amazing things like fighting cancer, boosting immunity, improving cognition, making Mario SUPER BIG, and sending starships across the galaxy at faster than warp speeds! As our science catches up with our science fiction, marketers are getting away with murder ...    "
+                },
+                "11": {
+                    "title": "Text Mining: Reading Between the Lines",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "9 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Ever hear the phrase, \"Read between the lines?\" This usually refers to one's ability to infer hidden meaning from text. This ability has always been reserved for humans (or those who appear human). That is, until now. This session will look at the tools and efforts needed for \"Text Mining\" or using Data Mining techniques to infer meaning, biases, misconceptions, and/or hidden agendas from common documents. Viewers will leave with a general understanding of the text mining process along with a list of free/inexpensive tools and services they can use to start text ...    "
+                },
+                "12": {
+                    "title": "SAEDY: Subversion & Espionage Directed Against You",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "23 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    \"Frequently, people who go along a treasonous path do not know they are on a treasonous path until it is too late\", as per testimony from former CIA Director John Brennan, May 2017. The definition of social engineering (SE) is: \"any act that influences a person to take an action that may or may not be in their best interest\". Using an old US Army acronym called SAEDA, Subversion and Espionage Directed Against the Army, will discuss how today's use of SE is essentially trade craft of espionage, commonly known as spying. \"There is no patch for an untrained user or even ...    "
+                },
+                "13": {
+                    "title": "Spy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "original air date": "7 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    Military veteran Ken Grigas talks about his time in service during the \"Cold War\" between the Unites States and the U.S.S.R.    "
+                },
+                "14": {
+                    "title": "Alice in ICSLand",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "original air date": "21 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    From Crash Override to TRISIS, the past decade has made it clear that the threat of cyber attacks on Industrial Control Systems (ICS) is real, and poses a fundamental risk to our way of life. The demand of ICS security professionals far exceeds the supply. But how does a information security professional learn to function in such a different environment? Mark Stacey and Lesley Carhart of Dragos Inc. (who both transitioned from traditional DFIR) will provide an overview of some great ways to learn about the operational and technical aspects of ICS networks and grow ...    "
+                },
+                "15": {
+                    "title": "How to \"Theoretically\" Kill a Continent",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "original air date": "1 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    SARS, H1N1, MRSA, Zika, Ebola. The human body is terrifyingly vulnerable. With the rise of novel gene-editing techniques and our increasing knowledge of genomics, we are forced to confront the idea of a microscopic enemy. This talk will explore the not-so-theoretical aftermath of an unchecked pandemic of unknown origin, the monsters we created in our own medical hubris, and the ever-present threat of bio-terrorism. The unpredictability of such weapons, and our inability to create safety brakes for the ones we do create will also be discussed.    "
+                },
+                "16": {
+                    "title": "Embedding Security",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "original air date": "18 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    Sequestered, Cordoned Off, Separated, even Out of Touch. These words have been used by plenty of non-infosec folks. From Dev teams to Admins, Sales people and more, we get looked at as these mystical people who say NO. The people who are stopping others from doing their job. Maybe it is time for our team to take a different approach.    "
+                },
+                "17": {
+                    "title": "Handshakes & Hashes, Plucking Passwords from Thin Air",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "original air date": "1 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    New developments in Hashcat have brought some new WiFi attack techniques to light. We've taken concepts from classic WiFi attacks, added a little special sauce, and created a whole new attack vector for WiFi devices everywhere. All it takes is a friendly introduction and a little cracking time to gain access to protected networks. Also, Cynosure Prime will be releasing source for a new password cracking technique. Come get some code and that uneasy feeling of being vulnerable.    "
+                },
+                "18": {
+                    "title": "Hidden in Plain Sight, Steganography & Digital Watermarking",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "original air date": "15 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    Steganography is the practice of hiding a message \"in plain sight\" inside an image, video, sound, text, or file. The practice goes back centuries, and in recent years has seen a rise in use for digital watermarking. Unlike cryptography, steganography seeks to hide even the presence of a message. Steganography can be used for communication, leak prevention, or copyright protection. We'll look at steganographic techniques, analysis, and detection through the lens of digital watermarking.    "
+                },
+                "19": {
+                    "title": "An Interdisciplinary View of Risk, Applications for Security",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "original air date": "1 Mar. 2019",
+                    "year": "2019",
+                    "plot": "\n    Risk is important to cybersecurity professionals to justify security controls, to engineers during the requirements phase of an engineering project and to management in project planning. In its Internet Security Threat Report, Symantec reports that in 2016, 791,820,040 data records were breached in the United States, which averages two breaches per American. France, Canada and Taiwan also encountered breaches above or near their population levels - or double it. This begs the question: are we doing and spending enough for security? Risk management states that an ...    "
+                },
+                "20": {
+                    "title": "Hack Dumberly Not Smarterer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "original air date": "15 Mar. 2019",
+                    "year": "2019",
+                    "plot": "\n    Tim Medin discuss the dumbest red team tricks and hacks encountered over the years. We are going to take the A out of APT, because so few attackers really need to use advanced techniques. We'll also discuss the simple defenses that make an attacker's life much more difficult.    "
+                },
+                "21": {
+                    "title": "Crypt-Oh No",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hackers of CypherCon (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "original air date": "29 Mar. 2019",
+                    "year": "2019",
+                    "plot": "\n    The security community hasn't done a great job at making it easy for developers to choose the right algorithms and ciphers for their applications. Even when the right crypto primitives are chosen, subtle programming mistakes can lead to issues with the efficacy of the encryption. This presentation is aimed at helping developers avoid common cryptography pitfalls when encrypting sensitive data by giving guidance on what algorithms to choose and identifying common implementation issues observed in real-world applications.    "
+                }
+            }
+        },
+        "number of episodes": 21,
+        "cast": [
+            {
+                "name": "Bryan, David"
+            },
+            {
+                "name": "Carhart, Lesley"
+            },
+            {
+                "name": "Cochran, Phil"
+            },
+            {
+                "name": "Genz, Brian"
+            },
+            {
+                "name": "Grand, Joe"
+            },
+            {
+                "name": "Grigas, Ken"
+            },
+            {
+                "name": "Heck, Ben"
+            },
+            {
+                "name": "Madrigal, Caleb"
+            },
+            {
+                "name": "Meas, Michelle"
+            },
+            {
+                "name": "Nikolich, Anita"
+            },
+            {
+                "name": "Platais, John"
+            },
+            {
+                "name": "Stacey, Mark"
+            },
+            {
+                "name": "Swanson, Brad"
+            },
+            {
+                "name": "Towers, Judy"
+            },
+            {
+                "name": "Williams, Brice"
+            },
+            {
+                "name": "Zimmerman, Ben"
+            },
+            {
+                "name": "Zimmermann, Eric"
+            },
+            {
+                "name": "Fox, Ryan"
+            },
+            {
+                "name": "Fritz, Shannon"
+            },
+            {
+                "name": "Grace, Zach"
+            },
+            {
+                "name": "Kavka, Mike"
+            },
+            {
+                "name": "Lincke, Susan"
+            },
+            {
+                "name": "Medin, Tim"
+            },
+            {
+                "name": "Reif, Robert"
+            }
+        ],
+        "locations": [
+            "400 W Wisconsin Ave, Milwaukee, Wisconsin, USA::(Conference Center)"
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYTE0NWYxYmYtNGRiMy00ODM4LTlkMGQtNTA1OTliODU1ZGQ2XkEyXkFqcGdeQXVyNjUyOTI4NTE@._V1_SY150_CR0,0,101,150_.jpg",
+        "budget": "$40,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Hackers of CypherCon",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Gares, Jason"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Video Workbench Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Video Workbench Productions"
+            }
+        ],
+        "plot": [
+            "CypherCon is an annual hacker conference that provides hackers with an outlet to openly demonstrate and experience creativity and ingenuity.::Jason Gares"
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

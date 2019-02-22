@@ -1,0 +1,570 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "25 March 2018"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "25 March 2018"
+            },
+            {
+                "country": "USA\n",
+                "date": "26 March 2018"
+            },
+            {
+                "country": "UK\n",
+                "date": "27 March 2018"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "28 March 2018"
+            }
+        ],
+        "release dates": [
+            "Germany::25 March 2018",
+            "Sweden::25 March 2018",
+            "USA::26 March 2018",
+            "UK::27 March 2018",
+            "Netherlands::28 March 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "One Strange Rock"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Непознатата планета"
+            },
+            {
+                "countries": "Portugal",
+                "title": "One Strange Rock"
+            },
+            {
+                "countries": "Romania",
+                "title": "O planeta stranie"
+            },
+            {
+                "countries": "Russia (Russian title)",
+                "title": "Неизвестная планета Земля"
+            },
+            {
+                "countries": "Spain",
+                "title": "Nuestro planeta"
+            },
+            {
+                "countries": "Sweden",
+                "title": "Vår underliga planet"
+            },
+            {
+                "countries": "USA",
+                "title": "One Strange Rock"
+            }
+        ],
+        "akas": [
+            "One Strange Rock (original title)",
+            "Непознатата планета Bulgaria (Bulgarian title)",
+            "One Strange Rock Portugal",
+            "O planeta stranie Romania",
+            "Неизвестная планета Земля Russia (Russian title)",
+            "Nuestro planeta Spain",
+            "Vår underliga planet Sweden",
+            "One Strange Rock USA"
+        ],
+        "akas from release info": [
+            "One Strange Rock (original title)",
+            "Непознатата планета Bulgaria (Bulgarian title)",
+            "One Strange Rock Portugal",
+            "O planeta stranie Romania",
+            "Неизвестная планета Земля Russia (Russian title)",
+            "Nuestro planeta Spain",
+            "Vår underliga planet Sweden",
+            "One Strange Rock USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Gasp",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "One Strange Rock (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 212,
+                    "original air date": "26 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    An astronaut's view of the incredible Earth systems that allow life to breathe.    "
+                },
+                "2": {
+                    "title": "Storm",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "One Strange Rock (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 144,
+                    "original air date": "2 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    A portrayal of how Earth was born in a cosmic storm and shaped by violence.    "
+                },
+                "3": {
+                    "title": "Shield",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "One Strange Rock (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 121,
+                    "original air date": "9 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    The epic story of Earth's battle with the sun and how life thrives here against the odds.    "
+                },
+                "4": {
+                    "title": "Genesis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "One Strange Rock (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 94,
+                    "original air date": "16 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    The story of how and why life began on Earth, and what makes our planet different from the others.    "
+                },
+                "5": {
+                    "title": "Survival",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "One Strange Rock (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 84,
+                    "original air date": "23 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    The story of how life on Earth has evolved, becoming lethal for life to thrive.    "
+                },
+                "6": {
+                    "title": "Escape",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "One Strange Rock (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 77,
+                    "original air date": "30 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Astronaut Chris Hadfield believes the only chance for human survival is to escape from Earth and build a space colony, but there are real barriers.    "
+                },
+                "7": {
+                    "title": "Terraform",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "One Strange Rock (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 71,
+                    "original air date": "7 May 2018",
+                    "year": "2018",
+                    "plot": "\n    The story of how for nearly 4 billion years, life has emerged and sculpted the planet's surface and atmosphere, crafting everything that makes Earth so special.    "
+                },
+                "8": {
+                    "title": "Alien",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "One Strange Rock (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 69,
+                    "original air date": "14 May 2018",
+                    "year": "2018",
+                    "plot": "\n    The story of how life on Earth starts as single-cell bacteria, before a miraculous event transforms the planet into a complex interconnected web based on a competition for food.    "
+                },
+                "9": {
+                    "title": "Awakening",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "One Strange Rock (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 60,
+                    "original air date": "21 May 2018",
+                    "year": "2018",
+                    "plot": "\n    An investigation into the mystery of the human brain and the chain of events that produced the anomaly of human intelligence.    "
+                },
+                "10": {
+                    "title": "Home",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "One Strange Rock (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 60,
+                    "original air date": "27 May 2018",
+                    "year": "2018",
+                    "plot": "\n    After 665 weightless days in space, astronaut Peggy Whitson smashes through the atmosphere on her last journey home to Planet Earth.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Episode #2.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "One Strange Rock (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 11,
+        "cast": [
+            {
+                "name": "Smith, Will"
+            },
+            {
+                "name": "Hadfield, Chris"
+            },
+            {
+                "name": "Linenger, Jerry"
+            },
+            {
+                "name": "Jemison, Mae C."
+            },
+            {
+                "name": "Stott, Nicole"
+            },
+            {
+                "name": "Melvin, Leland"
+            },
+            {
+                "name": "Massimino, Mike"
+            },
+            {
+                "name": "Hoffman, Jeff"
+            },
+            {
+                "name": "Whitson, Peggy"
+            },
+            {
+                "name": "Samdup"
+            },
+            {
+                "name": "Whitson, Beth"
+            },
+            {
+                "name": "Barton, Hazel"
+            },
+            {
+                "name": "Bowen, Ty"
+            },
+            {
+                "name": "Gómez, Felipe Gómez"
+            },
+            {
+                "name": "Nichols, Nichelle"
+            },
+            {
+                "name": "Ramírez, Omar Mednia"
+            },
+            {
+                "name": "Smith, Roger"
+            },
+            {
+                "name": "Whitson, Keith"
+            },
+            {
+                "name": "Belay, Kidane"
+            },
+            {
+                "name": "Doull, Logan"
+            },
+            {
+                "name": "Kerr, Ian"
+            },
+            {
+                "name": "Sims, Ken"
+            },
+            {
+                "name": "Triumf, Isak Mathis"
+            },
+            {
+                "name": "Bekbolat, Esentai"
+            },
+            {
+                "name": "Kane, Aldo"
+            },
+            {
+                "name": "MacLeod, Ian D."
+            },
+            {
+                "name": "Paredes, Jonathan"
+            },
+            {
+                "name": "Colmenero, Karla"
+            },
+            {
+                "name": "Néry, Guillaume"
+            },
+            {
+                "name": "Perry, Chris"
+            },
+            {
+                "name": "Sailau, Esen"
+            },
+            {
+                "name": "Aaronson, Adam"
+            },
+            {
+                "name": "Mousseau, Tim"
+            },
+            {
+                "name": "Pisani, Federico"
+            },
+            {
+                "name": "Theurm, Ra Bun"
+            },
+            {
+                "name": "Winter, Tyler"
+            },
+            {
+                "name": "Senf, Thomas"
+            },
+            {
+                "name": "Sevestre, Heïdi"
+            },
+            {
+                "name": "Spelman, Lucas"
+            },
+            {
+                "name": "Yau, Lee Koon"
+            },
+            {
+                "name": "Ciavaldini, Caroline"
+            },
+            {
+                "name": "Sandercock, Morgan"
+            },
+            {
+                "name": "El Ghanny, Moahamed"
+            },
+            {
+                "name": "Gadea, Nelson"
+            },
+            {
+                "name": "Nesterov, Petr"
+            },
+            {
+                "name": "Ngatik, Romo"
+            },
+            {
+                "name": "Tjiposa, Uvaserua"
+            },
+            {
+                "name": "Van Vuuren, Marlice"
+            },
+            {
+                "name": "Barattini, Franco"
+            },
+            {
+                "name": "Fandi"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "47"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 2,
+        "rating": 8.9,
+        "votes": 2001,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMzBlYjhmYTMtNzY1ZS00ZGU2LWFmMzktYTg5ZGU1N2JlMGRmXkEyXkFqcGdeQXVyMTg3MDg4NzM@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "One Strange Rock",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "production companies": [
+            {
+                "name": "Protozoa Pictures"
+            },
+            {
+                "name": "Overbrook Entertainment"
+            },
+            {
+                "name": "Nutopia"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "National Geographic Channel"
+            },
+            {
+                "name": "National Geographic Channel (NGC)"
+            },
+            {
+                "name": "National Geographic Channel"
+            },
+            {
+                "name": "National Geographic"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Lola Post Production"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Lakeshore Records"
+            }
+        ],
+        "plot": [
+            "The extraordinary story of Earth and why it is special and uniquely brimming with life among a largely unknown but harsh cosmic arena; astronauts tell the story of Earth through unique perspective."
+        ],
+        "tech": {
+            "runtime": [
+                "47 min"
+            ],
+            "color": [
+                "Color",
+                "Black and White"
+            ],
+            "camera": [
+                "Red Dragon"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (4K) (master format)",
+                "Redcode RAW (5.5K) (source format)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2001,
+                "rating": 8.9
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 10.0
+            },
+            "aged 18 29": {
+                "votes": 416,
+                "rating": 9.1
+            },
+            "aged 30 44": {
+                "votes": 672,
+                "rating": 8.8
+            },
+            "aged 45 plus": {
+                "votes": 266,
+                "rating": 8.3
+            },
+            "males": {
+                "votes": 1183,
+                "rating": 8.8
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 10.0
+            },
+            "males aged 18 29": {
+                "votes": 313,
+                "rating": 9.1
+            },
+            "males aged 30 44": {
+                "votes": 545,
+                "rating": 8.7
+            },
+            "males aged 45 plus": {
+                "votes": 200,
+                "rating": 8.2
+            },
+            "females": {
+                "votes": 310,
+                "rating": 9.1
+            },
+            "females aged 18 29": {
+                "votes": 92,
+                "rating": 9.2
+            },
+            "females aged 30 44": {
+                "votes": 117,
+                "rating": 9.0
+            },
+            "females aged 45 plus": {
+                "votes": 64,
+                "rating": 8.6
+            },
+            "top 1000 voters": {
+                "votes": 30,
+                "rating": 7.4
+            },
+            "us users": {
+                "votes": 288,
+                "rating": 8.6
+            },
+            "non us users": {
+                "votes": 754,
+                "rating": 8.8
+            }
+        },
+        "number of votes": {
+            "10": 997,
+            "9": 540,
+            "8": 237,
+            "7": 86,
+            "6": 42,
+            "5": 24,
+            "4": 19,
+            "3": 12,
+            "2": 11,
+            "1": 33
+        },
+        "arithmetic mean": 8.9,
+        "median": 9
+    }
+}

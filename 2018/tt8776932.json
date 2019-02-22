@@ -1,0 +1,111 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "20 September 2018"
+            },
+            {
+                "country": "USA\n",
+                "date": "12 December 2018"
+            }
+        ],
+        "release dates": [
+            "USA::20 September 2018",
+            "USA::12 December 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Malfunction"
+            },
+            {
+                "countries": " (working title)",
+                "title": "Untitled BDL Project"
+            }
+        ],
+        "akas": [
+            "Malfunction (original title)",
+            "Untitled BDL Project (working title)"
+        ],
+        "akas from release info": [
+            "Malfunction (original title)",
+            "Untitled BDL Project (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Return",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Malfunction (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "20 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Dean, Carson"
+            },
+            {
+                "name": "Kaitz, Tammy"
+            }
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "budget": "$200,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Malfunction",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Dean, Carson"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Black Dot Pictures"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Black Dot Pictures"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

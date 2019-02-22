@@ -1,0 +1,583 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "4 May 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Spain\n",
+                "date": "4 May 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "France\n",
+                "date": "4 May 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Italy\n",
+                "date": "4 May 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "4 May 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "USA\n",
+                "date": "4 May 2018"
+            }
+        ],
+        "release dates": [
+            "Germany::4 May 2018                            (internet)",
+            "Spain::4 May 2018                            (internet)",
+            "France::4 May 2018                            (internet)",
+            "Italy::4 May 2018                            (internet)",
+            "Sweden::4 May 2018                            (internet)",
+            "USA::4 May 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Rain"
+            },
+            {
+                "countries": "France",
+                "title": "The Rain"
+            },
+            {
+                "countries": "Germany",
+                "title": "The Rain"
+            },
+            {
+                "countries": "Greece",
+                "title": "Η Βροχή"
+            },
+            {
+                "countries": "Italy",
+                "title": "The Rain"
+            },
+            {
+                "countries": "Portugal",
+                "title": "The Rain"
+            },
+            {
+                "countries": "Russia",
+                "title": "Дождь"
+            },
+            {
+                "countries": "Spain",
+                "title": "The Rain"
+            },
+            {
+                "countries": "Turkey (Turkish title) (alternative title)",
+                "title": "Yagmur"
+            },
+            {
+                "countries": "USA",
+                "title": "The Rain"
+            }
+        ],
+        "akas": [
+            "The Rain (original title)",
+            "The Rain France",
+            "The Rain Germany",
+            "Η Βροχή Greece",
+            "The Rain Italy",
+            "The Rain Portugal",
+            "Дождь Russia",
+            "The Rain Spain",
+            "Yagmur Turkey (Turkish title) (alternative title)",
+            "The Rain USA"
+        ],
+        "akas from release info": [
+            "The Rain (original title)",
+            "The Rain France",
+            "The Rain Germany",
+            "Η Βροχή Greece",
+            "The Rain Italy",
+            "The Rain Portugal",
+            "Дождь Russia",
+            "The Rain Spain",
+            "Yagmur Turkey (Turkish title) (alternative title)",
+            "The Rain USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Stay Inside",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Rain (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 836,
+                    "original air date": "4 May 2018",
+                    "year": "2018",
+                    "plot": "\n    A deadly virus spread by rainfall forces siblings Simone and Rasmus to seek refuge in an underground bunker, parting ways with their scientist father.    "
+                },
+                "2": {
+                    "title": "Stay Together",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Rain (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 570,
+                    "original air date": "4 May 2018",
+                    "year": "2018",
+                    "plot": "\n    After six years of isolation, Simone and Rasmus encounter other survivors. To stay alive, Simone must prove herself useful to the group.    "
+                },
+                "3": {
+                    "title": "Avoid the City",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Rain (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 518,
+                    "original air date": "4 May 2018",
+                    "year": "2018",
+                    "plot": "\n    Simone and the others set out for Apollon headquarters in Sweden, but their trek through Copenhagen is fraught with peril.    "
+                },
+                "4": {
+                    "title": "Trust No One",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Rain (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 493,
+                    "original air date": "4 May 2018",
+                    "year": "2018",
+                    "plot": "\n    Jealousy flares in Martin and Beatrice. Simone and Rasmus meet a doctor with a connection to their father. A memory haunts Jean.    "
+                },
+                "5": {
+                    "title": "Have Faith",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Rain (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 510,
+                    "original air date": "4 May 2018",
+                    "year": "2018",
+                    "plot": "\n    Lost in the woods, the group stumbles upon a mansion. The residents invite them to stay the night, and Lea bonds with one of the women.    "
+                },
+                "6": {
+                    "title": "Keep Your Friends Close",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Rain (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 459,
+                    "original air date": "4 May 2018",
+                    "year": "2018",
+                    "plot": "\n    Rasmus and Beatrice grow closer as they spend time alone together. The others discover a new bunker -- and a disturbing secret that lies within.    "
+                },
+                "7": {
+                    "title": "Don't Talk to Strangers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Rain (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 418,
+                    "original air date": "4 May 2018",
+                    "year": "2018",
+                    "plot": "\n    A band of armed strangers tries to extract information from Patrick. Rasmus begins to unravel in the wake of a grim discovery.    "
+                },
+                "8": {
+                    "title": "Trust Your Instincts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Rain (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 444,
+                    "original air date": "4 May 2018",
+                    "year": "2018",
+                    "plot": "\n    The group arrives at Apollon headquarters, where Simone learns startling truths about the virus, her father and Rasmus.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Episode #2.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Rain (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 9,
+        "cast": [
+            {
+                "name": "August, Alba"
+            },
+            {
+                "name": "Tønnesen, Lucas Lynggaard"
+            },
+            {
+                "name": "Følsgaard, Mikkel Boe"
+            },
+            {
+                "name": "Løkken, Lukas"
+            },
+            {
+                "name": "Dinnage, Jessica"
+            },
+            {
+                "name": "Bundalovic, Angela"
+            },
+            {
+                "name": "Kuhnke, Johannes"
+            },
+            {
+                "name": "Lindberg, Sonny"
+            },
+            {
+                "name": "Melnikov, Viktor"
+            },
+            {
+                "name": "Aitouganov, Rashid"
+            },
+            {
+                "name": "Simonsen, Lars"
+            },
+            {
+                "name": "Gorgos, Bogdan"
+            },
+            {
+                "name": "Lohmann, Jacob"
+            },
+            {
+                "name": "Hjejle, Iben"
+            },
+            {
+                "name": "De Lorenzi, Bertil"
+            },
+            {
+                "name": "Huseini, Ramadan"
+            },
+            {
+                "name": "Heinrichsen, Anders"
+            },
+            {
+                "name": "Fjord, Kristian"
+            },
+            {
+                "name": "Aagaard-Williams, Sebastian"
+            },
+            {
+                "name": "Henningsen, Anne Gry"
+            },
+            {
+                "name": "Loholt, Kaya Toft"
+            },
+            {
+                "name": "Mossling, Anders"
+            },
+            {
+                "name": "Smith, Bertil"
+            },
+            {
+                "name": "Alvang, Mette"
+            },
+            {
+                "name": "Bjelkerud, Anna"
+            },
+            {
+                "name": "Egholm, Igor"
+            },
+            {
+                "name": "Hamilton, Nicolai Dahl"
+            },
+            {
+                "name": "Jesenkovic, Edhem"
+            },
+            {
+                "name": "Madsen, Emma"
+            },
+            {
+                "name": "Stensbirk, Kasper Løfvall"
+            },
+            {
+                "name": "Glindorf, Thea"
+            },
+            {
+                "name": "Kainz, Asta"
+            },
+            {
+                "name": "Mathiesen, Maj-Britt"
+            },
+            {
+                "name": "Olesen, Henrik Noël"
+            },
+            {
+                "name": "Pedersen, Christian 'Krølle'"
+            },
+            {
+                "name": "Ramovic, Elvir"
+            },
+            {
+                "name": "Arndt, Mikkel"
+            },
+            {
+                "name": "Bjerre, Bolette Engstrøm"
+            },
+            {
+                "name": "Højgaard, Olaf"
+            },
+            {
+                "name": "Jakobsen, Henning Valin"
+            },
+            {
+                "name": "Krøgholt, Frieda"
+            },
+            {
+                "name": "Philip, Josephine"
+            },
+            {
+                "name": "Riisom, Mads"
+            },
+            {
+                "name": "Agger, Petrine"
+            },
+            {
+                "name": "Buratowski, Adam Habib"
+            },
+            {
+                "name": "Kainz, Kenneth"
+            },
+            {
+                "name": "Leisner, Kasper"
+            },
+            {
+                "name": "Lindsten, Martin Bo"
+            },
+            {
+                "name": "Voss, Nanna Skaarup"
+            },
+            {
+                "name": "Barla, Dimitra"
+            }
+        ],
+        "locations": [
+            "Denmark"
+        ],
+        "genres": [
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "runtimes": [
+            "45"
+        ],
+        "countries": [
+            "Denmark",
+            "United States"
+        ],
+        "country codes": [
+            "dk",
+            "us"
+        ],
+        "language codes": [
+            "da"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "2.00 : 1",
+        "certificates": [
+            "France:13",
+            "Germany:12",
+            "Italy:VM14",
+            "Norway:12::(Netflix self-rating)",
+            "Singapore:M18",
+            "South Korea:18",
+            "Spain:13",
+            "United States:TV-MA"
+        ],
+        "number of seasons": 2,
+        "rating": 6.3,
+        "votes": 17644,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZWMyOWYxODEtZjVjNy00OWZjLWJlZTktYzE2NjdmOGU2OWQzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "The world as we know it has ended. Six years after a brutal virus carried by the rain wiped out almost all humans in Scandinavia, two Danish siblings emerge from the safety of their bunker to find all remnants of civilization gone. Soon they join a group of young survivors and together set out on a danger-filled quest through abandoned Scandinavia, searching for any sign of life. Set free from their collective past and societal rules the group has the freedom to be who they want to be. In their struggle for survival, they discover that even in a post-apocalyptic world there's still love, jealousy, coming of age, and many of the problems they thought they'd left behind with the disappearance of the world they once knew.",
+        "languages": [
+            "Danish"
+        ],
+        "title": "The Rain",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Mosholt, Jannik Tai"
+            },
+            {
+                "name": "Potalivo, Christian"
+            },
+            {
+                "name": "Jacobsen, Esben Toft"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Miso Film"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "The Clearance Lab"
+            }
+        ],
+        "plot": [
+            "After a brutal virus wipes out most of the population, two young siblings embark on a perilous search for safety.",
+            "The world as we know it has ended. Six years after a brutal virus carried by the rain wiped out almost all humans in Scandinavia, two Danish siblings emerge from the safety of their bunker to find all remnants of civilization gone. Soon they join a group of young survivors and together set out on a danger-filled quest through abandoned Scandinavia, searching for any sign of life. Set free from their collective past and societal rules the group has the freedom to be who they want to be. In their struggle for survival, they discover that even in a post-apocalyptic world there's still love, jealousy, coming of age, and many of the problems they thought they'd left behind with the disappearance of the world they once knew.::Miso Film"
+        ],
+        "tech": {
+            "runtime": [
+                "45 min (Denmark)",
+                "5 hr 21 min (321 min) (Entire season 1)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "2.00 : 1"
+            ],
+            "camera": [
+                "Red Epic Dragon, Cooke S4 Lenses"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 17644,
+                "rating": 6.3
+            },
+            "aged under 18": {
+                "votes": 114,
+                "rating": 7.0
+            },
+            "aged 18 29": {
+                "votes": 3816,
+                "rating": 6.6
+            },
+            "aged 30 44": {
+                "votes": 5539,
+                "rating": 6.2
+            },
+            "aged 45 plus": {
+                "votes": 1975,
+                "rating": 6.0
+            },
+            "males": {
+                "votes": 9121,
+                "rating": 6.1
+            },
+            "males aged under 18": {
+                "votes": 73,
+                "rating": 6.6
+            },
+            "males aged 18 29": {
+                "votes": 2422,
+                "rating": 6.4
+            },
+            "males aged 30 44": {
+                "votes": 3989,
+                "rating": 6.1
+            },
+            "males aged 45 plus": {
+                "votes": 1500,
+                "rating": 6.0
+            },
+            "females": {
+                "votes": 3663,
+                "rating": 6.8
+            },
+            "females aged under 18": {
+                "votes": 29,
+                "rating": 8.2
+            },
+            "females aged 18 29": {
+                "votes": 1301,
+                "rating": 7.0
+            },
+            "females aged 30 44": {
+                "votes": 1458,
+                "rating": 6.7
+            },
+            "females aged 45 plus": {
+                "votes": 433,
+                "rating": 6.5
+            },
+            "top 1000 voters": {
+                "votes": 105,
+                "rating": 5.7
+            },
+            "us users": {
+                "votes": 1591,
+                "rating": 6.5
+            },
+            "non us users": {
+                "votes": 7241,
+                "rating": 6.2
+            }
+        },
+        "number of votes": {
+            "10": 1980,
+            "9": 1142,
+            "8": 2925,
+            "7": 4077,
+            "6": 2866,
+            "5": 1591,
+            "4": 912,
+            "3": 618,
+            "2": 496,
+            "1": 1037
+        },
+        "arithmetic mean": 6.5,
+        "median": 7
+    }
+}

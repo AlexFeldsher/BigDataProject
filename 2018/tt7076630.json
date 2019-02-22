@@ -1,0 +1,579 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "2 September 2018"
+            },
+            {
+                "country": "Spain\n",
+                "date": "14 September 2018"
+            },
+            {
+                "country": "Finland\n",
+                "date": "16 October 2018"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "20 October 2018"
+            },
+            {
+                "country": "Italy\n",
+                "date": "26 October 2018"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "27 October 2018"
+            },
+            {
+                "country": "USA\n",
+                "date": "21 December 2018"
+            }
+        ],
+        "release dates": [
+            "UK::2 September 2018",
+            "Spain::14 September 2018",
+            "Finland::16 October 2018",
+            "Sweden::20 October 2018",
+            "Italy::26 October 2018",
+            "Netherlands::27 October 2018",
+            "USA::21 December 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Vanity Fair"
+            },
+            {
+                "countries": "Finland",
+                "title": "Turhuuden turuilla"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Fåfängans marknad"
+            },
+            {
+                "countries": "Poland",
+                "title": "Targowisko próżności"
+            },
+            {
+                "countries": "Romania",
+                "title": "Bâlciul deşertăciunilor"
+            },
+            {
+                "countries": "Russia",
+                "title": "Ярмарка тщеславия"
+            },
+            {
+                "countries": "Spain",
+                "title": "Vanity Fair"
+            },
+            {
+                "countries": "USA",
+                "title": "Vanity Fair"
+            }
+        ],
+        "akas": [
+            "Vanity Fair (original title)",
+            "Turhuuden turuilla Finland",
+            "Fåfängans marknad Finland (Swedish title)",
+            "Targowisko próżności Poland",
+            "Bâlciul deşertăciunilor Romania",
+            "Ярмарка тщеславия Russia",
+            "Vanity Fair Spain",
+            "Vanity Fair USA"
+        ],
+        "akas from release info": [
+            "Vanity Fair (original title)",
+            "Turhuuden turuilla Finland",
+            "Fåfängans marknad Finland (Swedish title)",
+            "Targowisko próżności Poland",
+            "Bâlciul deşertăciunilor Romania",
+            "Ярмарка тщеславия Russia",
+            "Vanity Fair Spain",
+            "Vanity Fair USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Miss Sharp in the Presence of the Enemy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Vanity Fair (TV Mini-Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 236,
+                    "original air date": "21 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    After losing her teaching job, orphan Becky Sharp convinces kindly school-friend Amelia to take her in - and promptly sets about ensnaring Amelia's wealthy but oafish brother.    "
+                },
+                "2": {
+                    "title": "Miss Sharp Begins to Make Friends",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Vanity Fair (TV Mini-Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 210,
+                    "original air date": "21 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    Becky is in Hampshire as governess to Sir Pitt Crawley's neglected daughters. Determined to get into his good books she quickly lands a promotion to secretary. The arrival of Crawley's sister prompts a new plan.    "
+                },
+                "3": {
+                    "title": "A Quarrel About an Heiress",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Vanity Fair (TV Mini-Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 170,
+                    "original air date": "21 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    Becky has moved in with Matilda Crawley and seems to have a bright future ahead of her. However, war is brewing which threatens the fortunes of the scheming social climber and everyone she knows.    "
+                },
+                "4": {
+                    "title": "In Which Becky Joins Her Regiment",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Vanity Fair (TV Mini-Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 151,
+                    "original air date": "21 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    George refuses to apologise for his marriage to Amelia and his father cuts him off from the family and his inheritance. All the friends set sail for Belgium, where Becky makes use of every opportunity to advance in society.    "
+                },
+                "5": {
+                    "title": "In Which Battles Are Won and Lost",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Vanity Fair (TV Mini-Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 144,
+                    "original air date": "21 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    The Battle of Waterloo gets underway with George in the thick of it. Becky spies an opportunity to profit from the war by selling Rawdon's horses to the cowardly Jos.    "
+                },
+                "6": {
+                    "title": "In Which a Painter's Daughter Meets a King",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Vanity Fair (TV Mini-Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 127,
+                    "original air date": "21 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    Becky's time to finally shine arrives as she is introduced to the King, it comes at great cost though. How will her marriage hold up to the new arrangement she has made?    "
+                },
+                "7": {
+                    "title": "Endings and Beginnings",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Vanity Fair (TV Mini-Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 103,
+                    "original air date": "21 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    Becky is alone and living in greatly reduced circumstances. Dobbin discovers that Amelia plans to remarry, prompting him to finally confess his feelings for her. The Sedley's have an unexpected encounter on holiday.    "
+                }
+            }
+        },
+        "number of episodes": 7,
+        "cast": [
+            {
+                "name": "Palin, Michael"
+            },
+            {
+                "name": "Cooke, Olivia"
+            },
+            {
+                "name": "Bateman, Tom"
+            },
+            {
+                "name": "Flynn, Johnny"
+            },
+            {
+                "name": "Jessie, Claudia"
+            },
+            {
+                "name": "Pugh, Robert"
+            },
+            {
+                "name": "Beale, Simon Russell"
+            },
+            {
+                "name": "Kendrick, Ellie"
+            },
+            {
+                "name": "Rowe, Charlie"
+            },
+            {
+                "name": "Clunes, Martin"
+            },
+            {
+                "name": "Clifford, Sian"
+            },
+            {
+                "name": "Fynn, David"
+            },
+            {
+                "name": "Williams, Toby"
+            },
+            {
+                "name": "Montagu, Felicity"
+            },
+            {
+                "name": "Wight, Peter"
+            },
+            {
+                "name": "Baynton, Mathew"
+            },
+            {
+                "name": "FitzSymons, Patrick"
+            },
+            {
+                "name": "Dolan, Monica"
+            },
+            {
+                "name": "Skinner, Claire"
+            },
+            {
+                "name": "Grady, Mike"
+            },
+            {
+                "name": "Loxton, Jack"
+            },
+            {
+                "name": "la Tour, Frances de"
+            },
+            {
+                "name": "Campbell, Richie"
+            },
+            {
+                "name": "Railton, Rafferty"
+            },
+            {
+                "name": "Maydew, Provence"
+            },
+            {
+                "name": "Labey, Philip"
+            },
+            {
+                "name": "Head, Anthony"
+            },
+            {
+                "name": "Berrington, Elizabeth"
+            },
+            {
+                "name": "Barton, Will"
+            },
+            {
+                "name": "Daniels, Maggie"
+            },
+            {
+                "name": "Durkin, Niamh"
+            },
+            {
+                "name": "Crace, Lauren"
+            },
+            {
+                "name": "Goldstein, Orli"
+            },
+            {
+                "name": "Hyland, Madeleine"
+            },
+            {
+                "name": "Jones, Suranne"
+            },
+            {
+                "name": "Desmeules, Philip"
+            },
+            {
+                "name": "Dixon, Richard"
+            },
+            {
+                "name": "Kelly, Siena"
+            },
+            {
+                "name": "Phillips, Sally"
+            },
+            {
+                "name": "Pargeter, Alison"
+            },
+            {
+                "name": "Lansley, Oliver"
+            },
+            {
+                "name": "Sibley, David"
+            },
+            {
+                "name": "Bateman, Arthur"
+            },
+            {
+                "name": "Lesser, Lily"
+            },
+            {
+                "name": "Kinch, Johnny"
+            },
+            {
+                "name": "Williams, Sarah"
+            },
+            {
+                "name": "Kerrigan, Alice"
+            },
+            {
+                "name": "Gilbert, Kerry"
+            },
+            {
+                "name": "Kingsnorth, Alfie"
+            },
+            {
+                "name": "Schneider, Grace"
+            }
+        ],
+        "locations": [
+            "Budapest, Hungary",
+            "Marble Hill House, Richmond Road, Twickenham, Middlesex, England, UK",
+            "Fitzroy Square, London W1, England, UK"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ],
+        "country codes": [
+            "gb",
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Finland:K-12",
+            "Netherlands:12",
+            "Norway:12::(TV rating)",
+            "Spain:7",
+            "United Kingdom:12::(DVD)",
+            "United States:TV-14"
+        ],
+        "original air date": "21 Dec 2018 (USA)",
+        "number of seasons": 1,
+        "rating": 7.3,
+        "votes": 2143,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZDlhZWQxZGUtMmZjMi00OTE0LWE4MjYtMmIzMWI1YzMyM2VhXkEyXkFqcGdeQXVyODEyMzI2OTE@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "Gwyneth Hughes' adaptation of Thackeray's literary classic is set against the backdrop of the Napoleonic Wars, and follows Becky Sharp as she attempts to claw her way out of poverty and scale the heights of English Society. Her story of \"villainy, crime, merriment, lovemaking, jilting, laughing, cheating, fighting and dancing\", takes her all the way to the court of King George IV, via the Battle of Waterloo, breaking hearts and losing fortunes as she goes.",
+        "languages": [
+            "English"
+        ],
+        "title": "Vanity Fair",
+        "year": 2018,
+        "kind": "tv mini series",
+        "series years": "2018-2018",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Hughes, Gwyneth"
+            },
+            {
+                "name": "Thackeray, William Makepeace"
+            }
+        ],
+        "director": [
+            {
+                "name": "Strong, James"
+            },
+            {
+                "name": "Entwistle, Jonathan"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Mammoth Screen"
+            },
+            {
+                "name": "Independent Television (ITV)"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Independent Television (ITV)"
+            },
+            {
+                "name": "Amazon Studios"
+            },
+            {
+                "name": "ITV Hub"
+            },
+            {
+                "name": "KRO-NCRV"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Technicolor VFX"
+            },
+            {
+                "name": "The Flying Colour Co."
+            }
+        ],
+        "other companies": [
+            {
+                "name": "1st Option Safety Group"
+            },
+            {
+                "name": "Audiolink Radio Communications"
+            },
+            {
+                "name": "Digital Orchard"
+            },
+            {
+                "name": "Funn"
+            },
+            {
+                "name": "HireWorks"
+            },
+            {
+                "name": "Panalux"
+            },
+            {
+                "name": "Panavision"
+            },
+            {
+                "name": "Pioneer Pictures"
+            }
+        ],
+        "plot": [
+            "An adaptation of the 1848 novel by William Makepeace Thackeray.",
+            "Gwyneth Hughes' adaptation of Thackeray's literary classic is set against the backdrop of the Napoleonic Wars, and follows Becky Sharp as she attempts to claw her way out of poverty and scale the heights of English Society. Her story of \"villainy, crime, merriment, lovemaking, jilting, laughing, cheating, fighting and dancing\", takes her all the way to the court of King George IV, via the Battle of Waterloo, breaking hearts and losing fortunes as she goes.::ahmetkozan"
+        ],
+        "tech": {
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "camera": [
+                "RED DRAGON"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2143,
+                "rating": 7.3
+            },
+            "aged under 18": {
+                "votes": 6,
+                "rating": 6.8
+            },
+            "aged 18 29": {
+                "votes": 264,
+                "rating": 7.3
+            },
+            "aged 30 44": {
+                "votes": 536,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 568,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 597,
+                "rating": 6.9
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 2.0
+            },
+            "males aged 18 29": {
+                "votes": 62,
+                "rating": 7.0
+            },
+            "males aged 30 44": {
+                "votes": 185,
+                "rating": 6.7
+            },
+            "males aged 45 plus": {
+                "votes": 298,
+                "rating": 7.1
+            },
+            "females": {
+                "votes": 895,
+                "rating": 7.5
+            },
+            "females aged under 18": {
+                "votes": 3,
+                "rating": 8.7
+            },
+            "females aged 18 29": {
+                "votes": 195,
+                "rating": 7.3
+            },
+            "females aged 30 44": {
+                "votes": 343,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 259,
+                "rating": 7.7
+            },
+            "top 1000 voters": {
+                "votes": 44,
+                "rating": 5.5
+            },
+            "us users": {
+                "votes": 298,
+                "rating": 7.3
+            },
+            "non us users": {
+                "votes": 830,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 382,
+            "9": 284,
+            "8": 526,
+            "7": 509,
+            "6": 203,
+            "5": 96,
+            "4": 51,
+            "3": 28,
+            "2": 23,
+            "1": 41
+        },
+        "arithmetic mean": 7.6,
+        "median": 8
+    }
+}

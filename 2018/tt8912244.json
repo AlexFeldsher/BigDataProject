@@ -1,0 +1,388 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Brazil\n",
+                "date": "November 2018"
+            },
+            {
+                "country": "Brazil\n",
+                "date": "9 November 2018"
+            },
+            {
+                "country": "Germany\n",
+                "date": "9 November 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Spain\n",
+                "date": "9 November 2018"
+            }
+        ],
+        "release dates": [
+            "Brazil::November 2018",
+            "Brazil::9 November 2018",
+            "Germany::9 November 2018                            (internet)",
+            "Spain::9 November 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Super Drags"
+            },
+            {
+                "countries": "Germany",
+                "title": "Super Drags"
+            },
+            {
+                "countries": "Russia",
+                "title": "Супергерои на шпильках"
+            },
+            {
+                "countries": "Spain",
+                "title": "Super Drags"
+            },
+            {
+                "countries": "USA",
+                "title": "Super Drags"
+            }
+        ],
+        "akas": [
+            "Super Drags (original title)",
+            "Super Drags Germany",
+            "Супергерои на шпильках Russia",
+            "Super Drags Spain",
+            "Super Drags USA"
+        ],
+        "akas from release info": [
+            "Super Drags (original title)",
+            "Super Drags Germany",
+            "Супергерои на шпильках Russia",
+            "Super Drags Spain",
+            "Super Drags USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Hora do Lipsync",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Super Drags (TV Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 81,
+                    "original air date": "9 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    To restore her beauty, Lady Elza steals all the \"highlight\" energy from LGBTQ concertgoers at a Goldiva show, spurring the Super Drags to save the day.    "
+                },
+                "2": {
+                    "title": "Imagem é Tudo",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Super Drags (TV Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 65,
+                    "original air date": "9 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Disqualified from a mission to stop Lady Elza's new robot monster, which seems to target victims based on their looks, Patrick gives himself a makeover.    "
+                },
+                "3": {
+                    "title": "A Cura Gay",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Super Drags (TV Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 56,
+                    "original air date": "9 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Rejected by his father after coming out to him, Ralph attends Sandoval's \"gay cure\" boot camp, where Donizete and Patrick are sent to work undercover.    "
+                },
+                "4": {
+                    "title": "Seja Quem Você É",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Super Drags (TV Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 56,
+                    "original air date": "9 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    When Goldiva is kidnapped ahead of her next concert and the Super Drags are summoned to save her, Scarlet learns about the pop diva's past.    "
+                },
+                "5": {
+                    "title": "Numa Só Voz",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Super Drags (TV Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 58,
+                    "original air date": "9 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    At Goldiva's concert, Lady Elza takes the stage and amps herself up by draining the audience's highlight, putting the Super Drags in serious danger.    "
+                }
+            }
+        },
+        "number of episodes": 5,
+        "cast": [
+            {
+                "name": "Belli, Willam"
+            },
+            {
+                "name": "Brasil, Suzy"
+            },
+            {
+                "name": "Briggs, Guilherme"
+            },
+            {
+                "name": "Cantú, Sérgio"
+            },
+            {
+                "name": "David, Dany"
+            },
+            {
+                "name": "Eads, Joshua Allan"
+            },
+            {
+                "name": "Firkus, Brian"
+            },
+            {
+                "name": "Follare, Wagner"
+            },
+            {
+                "name": "Gorden, Gregory Guy"
+            },
+            {
+                "name": "Johnson, Donna Simone"
+            },
+            {
+                "name": "Keller, Rod"
+            },
+            {
+                "name": "Lee, Kenzo"
+            },
+            {
+                "name": "Lordygan, Kerr"
+            },
+            {
+                "name": "Manabat, Jeff"
+            },
+            {
+                "name": "Mendonça, Fernando"
+            },
+            {
+                "name": "Montilla, Silvetty"
+            },
+            {
+                "name": "Pierce, D.J. 'Shangela'"
+            },
+            {
+                "name": "Salustti, Sylvia"
+            },
+            {
+                "name": "Stromberg, Anna"
+            },
+            {
+                "name": "Ta'le, Jaquita"
+            },
+            {
+                "name": "Vittar, Pabllo"
+            },
+            {
+                "name": "Vélez, Rapha"
+            },
+            {
+                "name": "Zeitlin, Meredith"
+            },
+            {
+                "name": "Khurmi, Nardeep"
+            },
+            {
+                "name": "Dittman, Henry"
+            },
+            {
+                "name": "Richards, Marz"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Fantasy"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "Brazil"
+        ],
+        "country codes": [
+            "br"
+        ],
+        "language codes": [
+            "pt"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Brazil:16",
+            "Germany:16::(self applied)",
+            "Singapore:R21",
+            "South Korea:18",
+            "United Kingdom:15",
+            "United States:TV-MA"
+        ],
+        "number of seasons": 1,
+        "rating": 5.8,
+        "votes": 1017,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjQ1Nzg1NDI0MF5BMl5BanBnXkFtZTgwMzQ4Nzk1NjM@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "Portuguese"
+        ],
+        "title": "Super Drags",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-2018",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Miller, Amanda Layne"
+            },
+            {
+                "name": "Strickland, Brian"
+            },
+            {
+                "name": "Lescaut, Paulo"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Combo Estúdio"
+            },
+            {
+                "name": "Netflix"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            }
+        ],
+        "plot": [
+            "Three gay co-workers at a department store lead double lives as superhero drag queens, fighting crime and other forces like an evil queen and a conservative politician."
+        ],
+        "tech": {
+            "runtime": [
+                "30 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1017,
+                "rating": 5.8
+            },
+            "aged under 18": {
+                "votes": 5,
+                "rating": 1.0
+            },
+            "aged 18 29": {
+                "votes": 325,
+                "rating": 6.2
+            },
+            "aged 30 44": {
+                "votes": 279,
+                "rating": 5.6
+            },
+            "aged 45 plus": {
+                "votes": 49,
+                "rating": 6.0
+            },
+            "males": {
+                "votes": 587,
+                "rating": 5.7
+            },
+            "males aged under 18": {
+                "votes": 4,
+                "rating": 1.0
+            },
+            "males aged 18 29": {
+                "votes": 245,
+                "rating": 6.2
+            },
+            "males aged 30 44": {
+                "votes": 215,
+                "rating": 5.3
+            },
+            "males aged 45 plus": {
+                "votes": 38,
+                "rating": 5.7
+            },
+            "females": {
+                "votes": 164,
+                "rating": 6.8
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 1.0
+            },
+            "females aged 18 29": {
+                "votes": 69,
+                "rating": 6.4
+            },
+            "females aged 30 44": {
+                "votes": 58,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 11,
+                "rating": 7.2
+            },
+            "top 1000 voters": {
+                "votes": 13,
+                "rating": 4.9
+            },
+            "us users": {
+                "votes": 92,
+                "rating": 5.0
+            },
+            "non us users": {
+                "votes": 379,
+                "rating": 5.9
+            }
+        },
+        "number of votes": {
+            "10": 323,
+            "9": 62,
+            "8": 89,
+            "7": 106,
+            "6": 78,
+            "5": 49,
+            "4": 37,
+            "3": 22,
+            "2": 38,
+            "1": 213
+        },
+        "arithmetic mean": 6.4,
+        "median": 7
+    }
+}

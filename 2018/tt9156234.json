@@ -1,0 +1,95 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Australia\n",
+                "date": "20 October 2018"
+            },
+            {
+                "country": "Australia\n",
+                "date": "20 October 2018",
+                "notes": "                            (cable TV premiere)"
+            }
+        ],
+        "release dates": [
+            "Australia::20 October 2018",
+            "Australia::20 October 2018                            (cable TV premiere)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Gilda",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Saturday Night at the Movies - Hosted by Graeme Blundell (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "20 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Graeme Blundell hosts the 1946 movie \"Gilda\".    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Blundell, Graeme"
+            }
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Musical",
+            "Talk-Show"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "country codes": [
+            "au"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Black and White"
+        ],
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYzE4M2YxODMtMDc4ZC00NmNmLThhZDYtNjVkN2ZhOTJiNTUyXkEyXkFqcGdeQXVyMzI2MDEwNA@@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Saturday Night at the Movies - Hosted by Graeme Blundell",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "akas": [
+            "Saturday Night at the Movies - Hosted by Graeme Blundell (Australia)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "FOXTEL"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "FOXTEL"
+            }
+        ],
+        "plot": [
+            "Graeme Blundell presents classic movies including musics, dramas, action and adventure on Fox Classics.::Paul Gerard Kennedy"
+        ],
+        "tech": {
+            "color": [
+                "Black and White",
+                "Color"
+            ]
+        }
+    }
+}

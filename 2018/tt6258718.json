@@ -1,0 +1,543 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "21 February 2018",
+                "notes": "                            (Berlin International Film Festival)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "22 February 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "France\n",
+                "date": "22 February 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Luxembourg\n",
+                "date": "28 February 2018",
+                "notes": "                            (Luxembourg City Film Festival)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "1 March 2018"
+            },
+            {
+                "country": "France\n",
+                "date": "1 March 2018"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "14 March 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "24 July 2018"
+            }
+        ],
+        "release dates": [
+            "Germany::21 February 2018                            (Berlin International Film Festival)",
+            "Germany::22 February 2018                            (internet)",
+            "France::22 February 2018                            (internet)",
+            "Luxembourg::28 February 2018                            (Luxembourg City Film Festival)",
+            "Germany::1 March 2018",
+            "France::1 March 2018",
+            "Sweden::14 March 2018                            (internet)",
+            "Netherlands::24 July 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Bad Banks"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A pénz hálójában"
+            },
+            {
+                "countries": "Poland",
+                "title": "Bankowa gra"
+            },
+            {
+                "countries": "Russia",
+                "title": "Плохие банки"
+            },
+            {
+                "countries": "USA",
+                "title": "Bad Banks"
+            },
+            {
+                "countries": " (working title)",
+                "title": "Credo"
+            }
+        ],
+        "akas": [
+            "Bad Banks (original title)",
+            "A pénz hálójában Hungary",
+            "Bankowa gra Poland",
+            "Плохие банки Russia",
+            "Bad Banks USA",
+            "Credo (working title)"
+        ],
+        "akas from release info": [
+            "Bad Banks (original title)",
+            "A pénz hálójában Hungary",
+            "Bankowa gra Poland",
+            "Плохие банки Russia",
+            "Bad Banks USA",
+            "Credo (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Die Kündigung",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bad Banks (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 119,
+                    "original air date": "22 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Successful junior banker Jana's world collapses: She is dismissed without notice. But she gets one last chance.    "
+                },
+                "2": {
+                    "title": "Folge dem Schrott",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bad Banks (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 102,
+                    "original air date": "22 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Jana receives insider information from Christelle Leblanc: The multi-billion dollar city development project \"Leipzig 2025\" will be expedited.    "
+                },
+                "3": {
+                    "title": "Der Mann aus London",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bad Banks (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 98,
+                    "original air date": "22 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    A protracted flu and work around the clock take a hard hit on Jana. Again Christelle Leblanc stands by Jana's side. But what does she really want?    "
+                },
+                "4": {
+                    "title": "Alte Schulden",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bad Banks (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 96,
+                    "original air date": "22 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    here are growing signs that Jana's former employer and Deutsche Global Invest want to merge. But what is happening behind closed doors?    "
+                },
+                "5": {
+                    "title": "Die härteste Währung",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bad Banks (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 92,
+                    "original air date": "22 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Against all odds Jana does everything necessary in order to make mega-project \"Leipzig 2025\" a reality. But the pressure on her increases. Fenger cannot and will not protect her any longer.    "
+                },
+                "6": {
+                    "title": "Die Höhle des Löwen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Bad Banks (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 93,
+                    "original air date": "22 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Events come thick and fast. Deutsche Global Invest is about to fold and Germany faces another financial crisis. Did Jana trigger it?    "
+                }
+            }
+        },
+        "number of episodes": 6,
+        "cast": [
+            {
+                "name": "Beer, Paula"
+            },
+            {
+                "name": "Atsma, Barry"
+            },
+            {
+                "name": "Nosbusch, Désirée"
+            },
+            {
+                "name": "Schuch, Albrecht"
+            },
+            {
+                "name": "Kieu, Mai Duong"
+            },
+            {
+                "name": "Limpach, Marc"
+            },
+            {
+                "name": "Wagner, Germain"
+            },
+            {
+                "name": "Wilbusch, Jeff"
+            },
+            {
+                "name": "Moretti, Tobias"
+            },
+            {
+                "name": "Schüttauf, Jörg"
+            },
+            {
+                "name": "Barr, Jean-Marc"
+            },
+            {
+                "name": "Dewayne, Patrick"
+            },
+            {
+                "name": "Agrawal, Utsav"
+            },
+            {
+                "name": "Khanjanpour, Hadi"
+            },
+            {
+                "name": "Schechinger, Christoph"
+            },
+            {
+                "name": "Triebel, Jördis"
+            },
+            {
+                "name": "Antonowicz, Anja"
+            },
+            {
+                "name": "Hoppe, Oscar"
+            },
+            {
+                "name": "McGruther, Angus"
+            },
+            {
+                "name": "Anselin, Eugenie"
+            },
+            {
+                "name": "Faber, Larisa"
+            },
+            {
+                "name": "Irrmann, Mathilde"
+            },
+            {
+                "name": "Langhoff, Tobias"
+            },
+            {
+                "name": "Beidler, Kim"
+            },
+            {
+                "name": "Furch, Rainer"
+            },
+            {
+                "name": "Samadi, Canan"
+            },
+            {
+                "name": "Serrao, Marc Felix"
+            },
+            {
+                "name": "Drewes, Daniel"
+            },
+            {
+                "name": "Zahner, Tom"
+            },
+            {
+                "name": "van Severen, Meik"
+            },
+            {
+                "name": "Angeveld, Romain"
+            },
+            {
+                "name": "Becker, Peter"
+            },
+            {
+                "name": "Bonert, Marc"
+            },
+            {
+                "name": "Bronchart, Christian"
+            },
+            {
+                "name": "Cipariu, Anca"
+            },
+            {
+                "name": "Comps, Cedric"
+            },
+            {
+                "name": "Culliford, John"
+            },
+            {
+                "name": "Doubal, Yazan"
+            },
+            {
+                "name": "Gay, Megan"
+            },
+            {
+                "name": "Gigout, Éric"
+            },
+            {
+                "name": "Harter, Aymeric"
+            },
+            {
+                "name": "Honic, Sandy"
+            },
+            {
+                "name": "Lopes, Hana Sofia"
+            },
+            {
+                "name": "Olbrich, Annika"
+            },
+            {
+                "name": "Rossbach, Sabine"
+            },
+            {
+                "name": "Baral, Michael"
+            },
+            {
+                "name": "Matthes, Livia"
+            },
+            {
+                "name": "Yassin, Alexander"
+            },
+            {
+                "name": "Polley, Johanna"
+            },
+            {
+                "name": "Humbert, Jean-Louis"
+            }
+        ],
+        "locations": [
+            "Luxembourg",
+            "Frankfurt am Main, Hesse, Germany",
+            "Berlin, Germany",
+            "London, England, UK"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "52"
+        ],
+        "countries": [
+            "Germany",
+            "Luxembourg"
+        ],
+        "country codes": [
+            "de",
+            "lu"
+        ],
+        "language codes": [
+            "de",
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Netherlands:12"
+        ],
+        "original air date": "22 Feb 2018 (Germany)",
+        "number of seasons": 1,
+        "rating": 8.0,
+        "votes": 2268,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZDM4ODc2OGMtMDFjZC00YTk3LWExMDAtYWY1YmY2OTNiZjJkXkEyXkFqcGdeQXVyNTM4OTY2MDU@._V1_SY150_CR6,0,101,150_.jpg",
+        "plot outline": "After being wrongly fired from Crédit International, a prestigious investment bank in Luxembourg, Jana Liekam, a talented young investment banker, is offered a dream-job in Frankfurt under the supervision of prominent Gabriel Fenger, Head of Investment Banking at Deutsche Invest. Suddenly, Jana not only had to give up her job, but also leave her boyfriend and his 5-year-old daughter behind. While Jana quickly manages to impress Fenger and his team with her passion and ambition, she realizes only too late that Christelle Leblanc, her former boss at Crédit International, has secretly been pulling the strings and manipulating Jana to her own advantage. Soon, Jana finds herself torn between her new obligations and Leblanc's relentless blackmail...will she and her career survive this merciless power play?",
+        "languages": [
+            "German",
+            "English"
+        ],
+        "title": "Bad Banks",
+        "year": 2018,
+        "kind": "tv mini series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Blumenberg, Lisa"
+            },
+            {
+                "name": "Burbach, Jana"
+            },
+            {
+                "name": "Galli, Jan"
+            }
+        ],
+        "director": [
+            {
+                "name": "Schwochow, Christian"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Letterbox Filmproduktion"
+            },
+            {
+                "name": "Iris Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Federation Entertainment"
+            },
+            {
+                "name": "ARTE Mediathek"
+            },
+            {
+                "name": "ZDF Mediathek"
+            },
+            {
+                "name": "ARTE"
+            },
+            {
+                "name": "ARTE"
+            },
+            {
+                "name": "AV Visionen Filmverleih"
+            },
+            {
+                "name": "AVROTROS"
+            },
+            {
+                "name": "Eye See Movies"
+            },
+            {
+                "name": "Zweites Deutsches Fernsehen (ZDF)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Adag Film Services"
+            },
+            {
+                "name": "Film Fund Luxembourg"
+            },
+            {
+                "name": "German Motion Picture Fund"
+            },
+            {
+                "name": "HessenFilm und Medien"
+            },
+            {
+                "name": "Rotor Film Babelsberg"
+            }
+        ],
+        "plot": [
+            "Ambitious Jana is confronted with the unscrupulous machinations of the world of finance. Her working life is determined by egotism, the pressure to succeed and machismo. She soon has to decide how far she is prepared to go for her career.::Happy_Evil_Dude",
+            "After being wrongly fired from Crédit International, a prestigious investment bank in Luxembourg, Jana Liekam, a talented young investment banker, is offered a dream-job in Frankfurt under the supervision of prominent Gabriel Fenger, Head of Investment Banking at Deutsche Invest. Suddenly, Jana not only had to give up her job, but also leave her boyfriend and his 5-year-old daughter behind. While Jana quickly manages to impress Fenger and his team with her passion and ambition, she realizes only too late that Christelle Leblanc, her former boss at Crédit International, has secretly been pulling the strings and manipulating Jana to her own advantage. Soon, Jana finds herself torn between her new obligations and Leblanc's relentless blackmail...will she and her career survive this merciless power play?::Happy_Evil_Dude"
+        ],
+        "tech": {
+            "runtime": [
+                "52 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2268,
+                "rating": 8.0
+            },
+            "aged 18 29": {
+                "votes": 322,
+                "rating": 8.1
+            },
+            "aged 30 44": {
+                "votes": 812,
+                "rating": 8.0
+            },
+            "aged 45 plus": {
+                "votes": 411,
+                "rating": 7.7
+            },
+            "males": {
+                "votes": 1416,
+                "rating": 7.9
+            },
+            "males aged 18 29": {
+                "votes": 262,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 693,
+                "rating": 8.0
+            },
+            "males aged 45 plus": {
+                "votes": 332,
+                "rating": 7.7
+            },
+            "females": {
+                "votes": 248,
+                "rating": 8.1
+            },
+            "females aged 18 29": {
+                "votes": 53,
+                "rating": 8.4
+            },
+            "females aged 30 44": {
+                "votes": 100,
+                "rating": 8.1
+            },
+            "females aged 45 plus": {
+                "votes": 72,
+                "rating": 7.8
+            },
+            "top 1000 voters": {
+                "votes": 48,
+                "rating": 5.7
+            },
+            "us users": {
+                "votes": 57,
+                "rating": 7.2
+            },
+            "non us users": {
+                "votes": 1238,
+                "rating": 7.9
+            }
+        },
+        "number of votes": {
+            "10": 354,
+            "9": 680,
+            "8": 734,
+            "7": 298,
+            "6": 88,
+            "5": 51,
+            "4": 19,
+            "3": 16,
+            "2": 9,
+            "1": 19
+        },
+        "arithmetic mean": 8.2,
+        "median": 8
+    }
+}

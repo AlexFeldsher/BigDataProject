@@ -1,0 +1,626 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "11 February 2018"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "6 March 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Spain\n",
+                "date": "4 July 2018",
+                "notes": "                            (cable TV)"
+            }
+        ],
+        "release dates": [
+            "USA::11 February 2018",
+            "Sweden::6 March 2018                            (internet)",
+            "Spain::4 July 2018                            (cable TV)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Our Cartoon President"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Mesés elnökünk"
+            },
+            {
+                "countries": "Poland",
+                "title": "Prezydent z kreskówki"
+            },
+            {
+                "countries": "Russia",
+                "title": "Наш мультяшный президент"
+            },
+            {
+                "countries": "Spain",
+                "title": "Animado presidente"
+            },
+            {
+                "countries": " (working title)",
+                "title": "Cartoon President"
+            }
+        ],
+        "akas": [
+            "Our Cartoon President (original title)",
+            "Mesés elnökünk Hungary",
+            "Prezydent z kreskówki Poland",
+            "Наш мультяшный президент Russia",
+            "Animado presidente Spain",
+            "Cartoon President (working title)"
+        ],
+        "akas from release info": [
+            "Our Cartoon President (original title)",
+            "Mesés elnökünk Hungary",
+            "Prezydent z kreskówki Poland",
+            "Наш мультяшный президент Russia",
+            "Animado presidente Spain",
+            "Cartoon President (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "State of the Union",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 163,
+                    "original air date": "11 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    The President tries to revive his low approval ratings by delivering the greatest State of the Union speech in history and to strengthen his relationship with First Lady Melania by naming her the national bird. Series premiere.    "
+                },
+                "2": {
+                    "title": "Disaster Response",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 126,
+                    "original air date": "11 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    In an effort to avoid dealing with disaster victims and in turn spend more time with his family, the President sends Seal Team 6 to round up the countries best Trump impersonators to send them on public relation missions.    "
+                },
+                "3": {
+                    "title": "Rolling Back Obama",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 97,
+                    "original air date": "18 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    The President sets out to reverse every last one of President Obama's accomplishments, while a dapper Jared Kushner and intense Stephen Miller spark an unlikely friendship.    "
+                },
+                "4": {
+                    "title": "Family Leave",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 87,
+                    "original air date": "25 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    The President tries to win back Ivanka Trump by supporting her progressive Paid Family Leave initiative, a move that sends his most loyal morning show co-host into an existential crisis.    "
+                },
+                "5": {
+                    "title": "State Dinner",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 88,
+                    "original air date": "4 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    The President tries to outdo handsome Canadian Prime Minister Justin Trudeau at the White House's first State Dinner while Don Jr. sees an opportunity to make a new best friend.    "
+                },
+                "6": {
+                    "title": "Media Strategy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 65,
+                    "original air date": "11 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    The President battles with the news media after an embarrassing video surfaces of First Lady Melania rolling her eyes, leading her to seek face coaching from Press Secretary Sarah Huckabee Sanders.    "
+                },
+                "7": {
+                    "title": "Wealth Gap",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 60,
+                    "original air date": "18 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    The President tries to boost public perception of his questionable net worth, while Vice President Mike Pence grapples with Second Lady Karen Pence's newfound interest in material goods.    "
+                },
+                "8": {
+                    "title": "Government Shutdown",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 60,
+                    "original air date": "25 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    The President lets loose while General Kelly is out of town, throwing a party in the wake of a government shutdown and inspiring congressional leaders to have a wild night in a hot tub.    "
+                },
+                "9": {
+                    "title": "Church and State",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 60,
+                    "original air date": "1 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    The President tries to shore up his Evangelical base by embracing Christianity, while son-in-law Jared Kushner embraces Don Jr. and Eric's religion of Trumpianity.    "
+                },
+                "10": {
+                    "title": "First Pitch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 56,
+                    "original air date": "8 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    The President tries to prove he's a man's man by throwing out the first pitch at a Washington Nationals game, while Ivanka attempts to become a feminist icon by opening a school for girls. Mid-season finale.    "
+                },
+                "11": {
+                    "title": "Russia Investigation",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 42,
+                    "original air date": "15 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n    Our Cartoon President tries to survive the Russia investigation with Steve Mnuchin's help while Nancy Pelosi and Chuck Schumer fire up Democrats with a new message.    "
+                },
+                "12": {
+                    "title": "First Family",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 35,
+                    "original air date": "22 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n    Our Cartoon President patches up his marriage to Melania while Don Jr. and Eric stay on their best behavior ahead of the 2018 midterm elections.    "
+                },
+                "13": {
+                    "title": "Mueller Probe",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 38,
+                    "original air date": "29 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n    Our Cartoon President struggles to keep his disloyal staff from cooperating with Robert Mueller while Karen Pence worries that her husband's Mar-a-Lago trip changed him forever.    "
+                },
+                "14": {
+                    "title": "The Senior Vote",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 32,
+                    "original air date": "5 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    Our Cartoon President energizes elderly voters ahead of the midterm elections while Don Jr. leaves behind his hard partying ways and acts his age with the help of Paul Ryan and Mike Pence.    "
+                },
+                "15": {
+                    "title": "The Wall",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 28,
+                    "original air date": "12 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    Our Cartoon President nefariously drums up funding for the Wall while Sarah Huckabee Sanders and Stephen Miller go to the southern border to pull off the most Trumpian groundbreaking in history.    "
+                },
+                "16": {
+                    "title": "Civil War",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 30,
+                    "original air date": "19 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    Our Cartoon President learns to campaign like a traditional non-racist president with help from Mike Pence while Karen Pence plots her husband's ascent to the presidency.    "
+                },
+                "17": {
+                    "title": "Militarization",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 29,
+                    "original air date": "26 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    Our Cartoon President militarizes the government and launches a military parade with National Security Advisor John Bolton's help while Sean Hannity reshapes his cable news network in his aggressive image. Season finale.    "
+                },
+                "18": {
+                    "title": "Election Special 2018",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Our Cartoon President (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 20,
+                    "original air date": "4 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Fearing a Democratic blue wave and the threat of impeachment, Our Cartoon President teams with his son Don Jr. to help Republicans win the midterm elections and save America from the grips of democracy. Joining the fight are Cartoons Mike Pence, Sarah Huckabee Sanders, Chuck Schumer, Nancy Pelosi, and Vladimir Putin. 1-hour special.    "
+                }
+            }
+        },
+        "number of episodes": 18,
+        "cast": [
+            {
+                "name": "Bergman, Jeff"
+            },
+            {
+                "name": "Adomian, James"
+            },
+            {
+                "name": "Gundacker, Gabriel"
+            },
+            {
+                "name": "Lynne, Emily"
+            },
+            {
+                "name": "Viener, John"
+            },
+            {
+                "name": "Sadler, William"
+            },
+            {
+                "name": "Lindquist, Cody"
+            },
+            {
+                "name": "Smilovitz, Zach"
+            },
+            {
+                "name": "Fried, R.J."
+            },
+            {
+                "name": "Colbert, Stephen"
+            },
+            {
+                "name": "Cherry, Zach"
+            },
+            {
+                "name": "Davis, Brett"
+            },
+            {
+                "name": "Berkley, Thomas"
+            },
+            {
+                "name": "Allison, Kathryn"
+            },
+            {
+                "name": "Philipson, Amanda"
+            },
+            {
+                "name": "Santangeli, Jim"
+            },
+            {
+                "name": "Iglehart, James Monroe"
+            },
+            {
+                "name": "Newman, Griffin"
+            },
+            {
+                "name": "Rich, Katie"
+            },
+            {
+                "name": "Eilinsfeld, Anna"
+            },
+            {
+                "name": "Gordon, Molly"
+            },
+            {
+                "name": "Christie, Paul"
+            },
+            {
+                "name": "Jackson, Jennifer"
+            },
+            {
+                "name": "Leech, Mike"
+            },
+            {
+                "name": "Piazzi, Matthew"
+            },
+            {
+                "name": "Kwartler, Eliana"
+            },
+            {
+                "name": "Whittington, Thomas"
+            },
+            {
+                "name": "Godfrey"
+            },
+            {
+                "name": "Spyra, Jen"
+            },
+            {
+                "name": "Delaney, Carla"
+            },
+            {
+                "name": "Freed, Sam"
+            },
+            {
+                "name": "Gunderman, Ralph"
+            },
+            {
+                "name": "MacRae, Mike"
+            },
+            {
+                "name": "Edwards, Grace"
+            },
+            {
+                "name": "Shannon, Michael"
+            },
+            {
+                "name": "Lai, Arthur"
+            },
+            {
+                "name": "Landon, Aaron"
+            },
+            {
+                "name": "Krieger, Sara"
+            },
+            {
+                "name": "Morales, Alise"
+            },
+            {
+                "name": "Slavin, David"
+            },
+            {
+                "name": "Webb, Robb"
+            },
+            {
+                "name": "Siemon, Benjamin"
+            },
+            {
+                "name": "Spackman, Tom"
+            },
+            {
+                "name": "Kravits, Jason"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Spain:16",
+            "United Kingdom:12::(Some Episodes)",
+            "United Kingdom:15::(most episodes)",
+            "United Kingdom:PG::(one episode)",
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 5.2,
+        "votes": 2221,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNTc4YTdiZmUtOTA0OC00ZDY1LTgzM2EtODFkODM5MTUwZmYzXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX101_CR0,0,101,150_.jpg",
+        "plot outline": "This fresh, cutting-edge comedy presents the truish adventures of Trump's confidants and bon vivants - family, top associates, heads of government, golf pros and anyone else straying into his orbit - intrepidly exploring their histories and their psyches, revealing insights into what makes them so definitively Trumpian. It's a workplace comedy where the office happens to be oval; it's a character study in search of character, as seen through the eyes of an imaginary documentary crew.",
+        "languages": [
+            "English"
+        ],
+        "title": "Our Cartoon President",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Colbert, Stephen"
+            },
+            {
+                "name": "Fried, R.J."
+            },
+            {
+                "name": "Gundacker, Gabriel"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "CBS Television Studios"
+            },
+            {
+                "name": "Spartina Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Showtime Networks"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "APM Music"
+            },
+            {
+                "name": "Brauer & Co."
+            }
+        ],
+        "plot": [
+            "This fresh, cutting-edge comedy presents the truish adventures of Trump's confidants and bon vivants - family, top associates, heads of government, golf pros and anyone else straying into his orbit - intrepidly exploring their histories and their psyches, revealing insights into what makes them so definitively Trumpian. It's a workplace comedy where the office happens to be oval; it's a character study in search of character, as seen through the eyes of an imaginary documentary crew.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "30 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2221,
+                "rating": 5.2
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 2.5
+            },
+            "aged 18 29": {
+                "votes": 292,
+                "rating": 4.9
+            },
+            "aged 30 44": {
+                "votes": 663,
+                "rating": 5.1
+            },
+            "aged 45 plus": {
+                "votes": 476,
+                "rating": 5.4
+            },
+            "males": {
+                "votes": 1320,
+                "rating": 5.0
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 3.0
+            },
+            "males aged 18 29": {
+                "votes": 240,
+                "rating": 4.7
+            },
+            "males aged 30 44": {
+                "votes": 540,
+                "rating": 4.9
+            },
+            "males aged 45 plus": {
+                "votes": 355,
+                "rating": 5.2
+            },
+            "females": {
+                "votes": 324,
+                "rating": 6.0
+            },
+            "females aged 18 29": {
+                "votes": 51,
+                "rating": 5.8
+            },
+            "females aged 30 44": {
+                "votes": 113,
+                "rating": 5.7
+            },
+            "females aged 45 plus": {
+                "votes": 114,
+                "rating": 6.0
+            },
+            "top 1000 voters": {
+                "votes": 50,
+                "rating": 4.3
+            },
+            "us users": {
+                "votes": 669,
+                "rating": 5.2
+            },
+            "non us users": {
+                "votes": 515,
+                "rating": 4.8
+            }
+        },
+        "number of votes": {
+            "10": 617,
+            "9": 151,
+            "8": 195,
+            "7": 174,
+            "6": 119,
+            "5": 97,
+            "4": 62,
+            "3": 59,
+            "2": 69,
+            "1": 678
+        },
+        "arithmetic mean": 5.7,
+        "median": 7
+    }
+}

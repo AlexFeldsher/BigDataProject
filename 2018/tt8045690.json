@@ -1,0 +1,581 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2018"
+            },
+            {
+                "country": "Argentina\n",
+                "date": "22 April 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Mexico\n",
+                "date": "22 April 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "USA\n",
+                "date": "22 April 2018"
+            },
+            {
+                "country": "Spain\n",
+                "date": "23 April 2018",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::2018",
+            "Argentina::22 April 2018                            (internet)",
+            "Mexico::22 April 2018                            (internet)",
+            "USA::22 April 2018",
+            "Spain::23 April 2018                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Luis Miguel: La Serie"
+            },
+            {
+                "countries": "Russia",
+                "title": "Луис Мигель: Сериал"
+            },
+            {
+                "countries": "Spain",
+                "title": "Luis Miguel: La serie"
+            }
+        ],
+        "akas": [
+            "Luis Miguel: La Serie (original title)",
+            "Луис Мигель: Сериал Russia",
+            "Luis Miguel: La serie Spain"
+        ],
+        "akas from release info": [
+            "Luis Miguel: La Serie (original title)",
+            "Луис Мигель: Сериал Russia",
+            "Luis Miguel: La serie Spain"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Cuando Calienta El Sol",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Luis Miguel: La Serie (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 155,
+                    "original air date": "22 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Luis Rey, the father of Luis Miguel discovers the enormous talent of his son at 10 years old and is responsible for managing his career and personal life. While, Micky meets his first love, Mariana Yazbek.    "
+                },
+                "2": {
+                    "title": "La Malagueña",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Luis Miguel: La Serie (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 120,
+                    "original air date": "29 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Yo Que No Vivo Sin Tí",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Luis Miguel: La Serie (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 119,
+                    "original air date": "6 May 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Culpable o No",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Luis Miguel: La Serie (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 133,
+                    "original air date": "13 May 2018",
+                    "year": "2018",
+                    "plot": "\n    Jealously threatens to destroy Luis Miguel and Mariana's relationship. Alex feels betrayed by his brother after finding a postcard from their mother.    "
+                },
+                "5": {
+                    "title": "La Chica del Bikini Azul",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Luis Miguel: La Serie (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 99,
+                    "original air date": "20 May 2018",
+                    "year": "2018",
+                    "plot": "\n    Luis Miguel's hard-partying ways end up putting an infatuated fan in serious danger. Financial issues call into question his dad's business practices.    "
+                },
+                "6": {
+                    "title": "Mamá, Mamá",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Luis Miguel: La Serie (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 92,
+                    "original air date": "27 May 2018",
+                    "year": "2018",
+                    "plot": "\n    The singer endures basic training at a military college in order to film there, and learns about responsibility. Alex searches for their mom in Italy.    "
+                },
+                "7": {
+                    "title": "La Incondicional",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Luis Miguel: La Serie (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 105,
+                    "original air date": "3 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    In the midst of financial troubles because of his father, Luis Miguel travels to Italy to help Alex search for their mother and discovers several lies.    "
+                },
+                "8": {
+                    "title": "Alguien Como Tu",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Luis Miguel: La Serie (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 82,
+                    "original air date": "10 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "Todo El Amor del Mundo",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Luis Miguel: La Serie (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 96,
+                    "original air date": "17 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "Decídete",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Luis Miguel: La Serie (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 86,
+                    "original air date": "24 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "11": {
+                    "title": "Marcela",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Luis Miguel: La Serie (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 75,
+                    "original air date": "1 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "No Me Platiques Más",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Luis Miguel: La Serie (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 65,
+                    "original air date": "8 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "13": {
+                    "title": "No Me Puedes Dejar Así",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Luis Miguel: La Serie (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 74,
+                    "original air date": "15 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Boneta, Diego"
+            },
+            {
+                "name": "Jaenada, Óscar"
+            },
+            {
+                "name": "Bello, Martín"
+            },
+            {
+                "name": "Favella, Anna"
+            },
+            {
+                "name": "Bordón, César"
+            },
+            {
+                "name": "Bauche, Vanessa"
+            },
+            {
+                "name": "Nuncio, Gabriel"
+            },
+            {
+                "name": "Zurita, Juan Pablo"
+            },
+            {
+                "name": "Almeida, Andrés"
+            },
+            {
+                "name": "Holt, Kevin"
+            },
+            {
+                "name": "Santana, Cesar"
+            },
+            {
+                "name": "Ortega, Alexis"
+            },
+            {
+                "name": "Tamayo, Vicente"
+            },
+            {
+                "name": "Llunas, Izan"
+            },
+            {
+                "name": "Arias, Rodolfo"
+            },
+            {
+                "name": "La Rosa, Luis de"
+            },
+            {
+                "name": "Sodi, Camila"
+            },
+            {
+                "name": "Palma, Laura"
+            },
+            {
+                "name": "Placera, Ariel"
+            },
+            {
+                "name": "Gómez, Javier"
+            },
+            {
+                "name": "Hernández, Mercedes"
+            },
+            {
+                "name": "Madrazo, Axel"
+            },
+            {
+                "name": "Remolina, Juan Carlos"
+            },
+            {
+                "name": "Sebastiani, Paola"
+            },
+            {
+                "name": "Dávila, Paulina"
+            },
+            {
+                "name": "Lanza, Sergio"
+            },
+            {
+                "name": "Caneva, Alberto"
+            },
+            {
+                "name": "Peraza, León"
+            },
+            {
+                "name": "Zulueta, Guillermo"
+            },
+            {
+                "name": "Álvarez, Ernesto"
+            },
+            {
+                "name": "Alexandre, Ángel"
+            },
+            {
+                "name": "Amescua, Israel"
+            },
+            {
+                "name": "Borbolla, Alfonso"
+            },
+            {
+                "name": "Cárdenas, Luis"
+            },
+            {
+                "name": "Marcus, Sacha"
+            },
+            {
+                "name": "Negrete, Luisa"
+            },
+            {
+                "name": "José, Lidia San"
+            },
+            {
+                "name": "Barba, Arturo"
+            },
+            {
+                "name": "Barreiro, Francisco"
+            },
+            {
+                "name": "Casamayor, Lola"
+            },
+            {
+                "name": "Cebrian, David"
+            },
+            {
+                "name": "Cid, Ramiro"
+            },
+            {
+                "name": "Codemo, Gianni"
+            },
+            {
+                "name": "Corrales, Yolanda"
+            },
+            {
+                "name": "Cubillo, Daniel"
+            },
+            {
+                "name": "David, Pierre"
+            },
+            {
+                "name": "Diaz, Milán"
+            },
+            {
+                "name": "Escobar, Javier"
+            },
+            {
+                "name": "Forcada, Ainhoa García"
+            },
+            {
+                "name": "Garza, Ana Silvia"
+            }
+        ],
+        "genres": [
+            "Biography",
+            "Drama",
+            "Music"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "es"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Argentina:16",
+            "Spain:13"
+        ],
+        "number of seasons": 1,
+        "rating": 8.2,
+        "votes": 2050,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjE3MjcyMzcwOF5BMl5BanBnXkFtZTgwMjk3NDUyNTM@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "Who is he? What's his story? His real story. He is El Sol de Mexico (The Sun of Mexico). Luis Miguel is one of the most important and famous singers in Mexico and Latin America and this is the real story of his way to the top. Talent, family, love and hate were part of it all. His songs are known by everyone and he is loved by everyone.",
+        "languages": [
+            "Spanish"
+        ],
+        "title": "Luis Miguel: La Serie",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Arias, José Luis Gutiérrez"
+            },
+            {
+                "name": "Atencio, Flavia"
+            },
+            {
+                "name": "Casares, Susana"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Gato Grande Productions"
+            },
+            {
+                "name": "Canana Films"
+            },
+            {
+                "name": "Gato Grande Productions"
+            },
+            {
+                "name": "ZA sound design"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Telemundo"
+            },
+            {
+                "name": "Telemundo"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chemistry"
+            },
+            {
+                "name": "Flipbook Studio"
+            }
+        ],
+        "plot": [
+            "The series dramatizes the life story of Mexican superstar singer Luis Miguel, who has captivated audiences in Latin America and beyond for decades.::Anais Del Rio",
+            "Who is he? What's his story? His real story. He is El Sol de Mexico (The Sun of Mexico). Luis Miguel is one of the most important and famous singers in Mexico and Latin America and this is the real story of his way to the top. Talent, family, love and hate were part of it all. His songs are known by everyone and he is loved by everyone."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2050,
+                "rating": 8.2
+            },
+            "aged under 18": {
+                "votes": 7,
+                "rating": 8.5
+            },
+            "aged 18 29": {
+                "votes": 375,
+                "rating": 8.3
+            },
+            "aged 30 44": {
+                "votes": 745,
+                "rating": 8.2
+            },
+            "aged 45 plus": {
+                "votes": 177,
+                "rating": 7.9
+            },
+            "males": {
+                "votes": 1007,
+                "rating": 8.1
+            },
+            "males aged under 18": {
+                "votes": 4,
+                "rating": 6.5
+            },
+            "males aged 18 29": {
+                "votes": 233,
+                "rating": 8.2
+            },
+            "males aged 30 44": {
+                "votes": 510,
+                "rating": 8.1
+            },
+            "males aged 45 plus": {
+                "votes": 119,
+                "rating": 7.7
+            },
+            "females": {
+                "votes": 466,
+                "rating": 8.5
+            },
+            "females aged 18 29": {
+                "votes": 131,
+                "rating": 8.4
+            },
+            "females aged 30 44": {
+                "votes": 211,
+                "rating": 8.5
+            },
+            "females aged 45 plus": {
+                "votes": 55,
+                "rating": 8.3
+            },
+            "top 1000 voters": {
+                "votes": 12,
+                "rating": 5.8
+            },
+            "us users": {
+                "votes": 116,
+                "rating": 8.1
+            },
+            "non us users": {
+                "votes": 820,
+                "rating": 8.2
+            }
+        },
+        "number of votes": {
+            "10": 559,
+            "9": 543,
+            "8": 577,
+            "7": 199,
+            "6": 68,
+            "5": 25,
+            "4": 13,
+            "3": 6,
+            "2": 7,
+            "1": 53
+        },
+        "arithmetic mean": 8.4,
+        "median": 9
+    }
+}

@@ -1,0 +1,714 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "22 March 2018"
+            },
+            {
+                "country": "Spain\n",
+                "date": "5 April 2018"
+            },
+            {
+                "country": "UK\n",
+                "date": "18 April 2018"
+            },
+            {
+                "country": "Germany\n",
+                "date": "1 August 2018"
+            }
+        ],
+        "release dates": [
+            "USA::22 March 2018",
+            "Spain::5 April 2018",
+            "UK::18 April 2018",
+            "Germany::1 August 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Station 19"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Станция 19"
+            },
+            {
+                "countries": "Germany",
+                "title": "Seattle Firefighters - Die jungen Helden"
+            },
+            {
+                "countries": "Russia",
+                "title": "Пожарная часть 19"
+            },
+            {
+                "countries": "Spain",
+                "title": "Estación 19"
+            },
+            {
+                "countries": "USA",
+                "title": "Station 19"
+            }
+        ],
+        "akas": [
+            "Station 19 (original title)",
+            "Станция 19 Bulgaria (Bulgarian title)",
+            "Seattle Firefighters - Die jungen Helden Germany",
+            "Пожарная часть 19 Russia",
+            "Estación 19 Spain",
+            "Station 19 USA"
+        ],
+        "akas from release info": [
+            "Station 19 (original title)",
+            "Станция 19 Bulgaria (Bulgarian title)",
+            "Seattle Firefighters - Die jungen Helden Germany",
+            "Пожарная часть 19 Russia",
+            "Estación 19 Spain",
+            "Station 19 USA"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "No Recovery",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 116,
+                    "original air date": "4 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Lives hang in the balance as the members of Station 19 continue to fight a raging inferno inside a skyscraper. Meanwhile, Pruitt's health is in grave danger at Grey Sloan; and a seasoned firefighter with a mysterious past arrives at Station 19, leaving everyone to wonder what the future holds.    "
+                },
+                "2": {
+                    "title": "Under the Surface",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 104,
+                    "original air date": "11 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    It's a life-and-death situation when a young boy falls into water pipes beneath the city of Seattle. With the clock ticking, the firefighters of Station 19 jump into action to save his life.    "
+                },
+                "3": {
+                    "title": "Home to Hold Onto",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 82,
+                    "original air date": "18 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    The fire fighters are called to rescue an old hoarder from the collapsing apartment.    "
+                },
+                "4": {
+                    "title": "Lost and Found",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 81,
+                    "original air date": "25 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Sullivan gives each team member a skill to master. Ryan has to deal with his past while Sullivan, Andy and Maya are called to take care of a fire in an abandoned building.    "
+                },
+                "5": {
+                    "title": "Do a Little Harm...",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 79,
+                    "original air date": "1 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Captain Sullivan deals with difficult memories during life saving training. Miranda asks Ben to take a break on their marriage. Dean doesn't like celebrating his birthday and tells Jack why.    "
+                },
+                "6": {
+                    "title": "Last Day on Earth",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 75,
+                    "original air date": "8 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    When Ryan is finally ready to straighten things out with his father, Greg comes for a visit in the station and leaves him shocked. Captain Sullivan continues with his efforts to connect with his team and gets help from an unexpected source.    "
+                },
+                "7": {
+                    "title": "Weather the Storm",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 83,
+                    "original air date": "15 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    A violent storm is blowing in Seattle while the crew is having a party. When the storm gets momentum the crew has to abandon the party to take care of emergencies that risk their lives.    "
+                },
+                "8": {
+                    "title": "Crash and Burn",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "original air date": "7 Mar. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "I Fought the Law",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Stuck",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 293,
+                    "original air date": "22 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Andy Herrera must step up when the Station 19 crew responds to an apartment fire and Captain Pruitt takes a hit.    "
+                },
+                "2": {
+                    "title": "Invisible to Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 291,
+                    "original air date": "22 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    A car accident puts the lives of the victims and the crew at risk.    "
+                },
+                "3": {
+                    "title": "Contain the Flame",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 249,
+                    "original air date": "29 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Jack continues to butt heads with Andy when he begins his first shift as co-captain.    "
+                },
+                "4": {
+                    "title": "Reignited",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 238,
+                    "original air date": "5 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Andy and Jack disagree over spending decisions at the station.    "
+                },
+                "5": {
+                    "title": "Shock to the System",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 236,
+                    "original air date": "12 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Miranda Bailey visits Ben and meets his new co-workers; most of the team responds to a motor accident involving an electrical danger; Andy and Maya go on their first stakeout.    "
+                },
+                "6": {
+                    "title": "Stronger Together",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 220,
+                    "original air date": "19 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Andy and Jack take the captaincy drill test along with 18 other candidates for the spot of captain at Station 19; Travis serves as acting captain; Ben confronts Victoria regarding her fears.    "
+                },
+                "7": {
+                    "title": "Let It Burn",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 211,
+                    "original air date": "26 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Ryan gets competitive with Jack when he tags along to a disaster drill training; Andy stays by her father's side when his health worsens.    "
+                },
+                "8": {
+                    "title": "Every Second Counts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 151,
+                    "original air date": "3 May 2018",
+                    "year": "2018",
+                    "plot": "\n    Ripley interviews each member of the Station 19 crew to determine whether Andy or Jack should be given the role of captain. Meanwhile, a mom's day out on a party bus takes a turn for the worst, and Captain Pruitt continues his treatment.    "
+                },
+                "9": {
+                    "title": "Hot Box",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 143,
+                    "original air date": "10 May 2018",
+                    "year": "2018",
+                    "plot": "\n    A simple call becomes life threatening, when part of the team is trapped in a garage.    "
+                },
+                "10": {
+                    "title": "Not Your Hero",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Station 19 (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 184,
+                    "original air date": "17 May 2018",
+                    "year": "2018",
+                    "plot": "\n    The heat is on in this roller coaster of emotions episode. A fire breaks out in a skyscraper, and our fire fighters are on standby, despite desperately wanting to be part of the action.    "
+                }
+            }
+        },
+        "number of episodes": 19,
+        "cast": [
+            {
+                "name": "Ortiz, Jaina Lee"
+            },
+            {
+                "name": "George, Jason"
+            },
+            {
+                "name": "Damon, Grey"
+            },
+            {
+                "name": "Doss, Barrett"
+            },
+            {
+                "name": "Frezza, Alberto"
+            },
+            {
+                "name": "Hayden, Jay"
+            },
+            {
+                "name": "Onaodowan, Okieriete"
+            },
+            {
+                "name": "Savre, Danielle"
+            },
+            {
+                "name": "Sandoval, Miguel"
+            },
+            {
+                "name": "Tucker, Brett"
+            },
+            {
+                "name": "Kodjoe, Boris"
+            },
+            {
+                "name": "Sulieman, Sterling"
+            },
+            {
+                "name": "Wilson, Chandra"
+            },
+            {
+                "name": "Song, Brenda"
+            },
+            {
+                "name": "Hope, Leslie"
+            },
+            {
+                "name": "Gibbs, Marla"
+            },
+            {
+                "name": "Mulroney, Dermot"
+            },
+            {
+                "name": "Cardona, Samantha"
+            },
+            {
+                "name": "Gianniotti, Giacomo"
+            },
+            {
+                "name": "Marano, Vanessa"
+            },
+            {
+                "name": "Behpoornia, Kimia"
+            },
+            {
+                "name": "Cowperthwaite, Cameron"
+            },
+            {
+                "name": "Han, Jee Young"
+            },
+            {
+                "name": "Smith, Caleb Alexander"
+            },
+            {
+                "name": "Piccuirro, Joseph"
+            },
+            {
+                "name": "Rissa, Gabriel"
+            },
+            {
+                "name": "Logan, James"
+            },
+            {
+                "name": "Field, Rebecca"
+            },
+            {
+                "name": "Gilpin, Peri"
+            },
+            {
+                "name": "Locatell, Carol"
+            },
+            {
+                "name": "McCreary, Kelly"
+            },
+            {
+                "name": "Pompeo, Ellen"
+            },
+            {
+                "name": "Benson, Iman"
+            },
+            {
+                "name": "Cassidy, Michael"
+            },
+            {
+                "name": "De Ocampo, Ramon"
+            },
+            {
+                "name": "Gallagher, Megan"
+            },
+            {
+                "name": "Jackson, Talia"
+            },
+            {
+                "name": "Ricketts, Chelsea"
+            },
+            {
+                "name": "Winbush, Troy"
+            },
+            {
+                "name": "Acres, Isabella"
+            },
+            {
+                "name": "Blue, Sarayu"
+            },
+            {
+                "name": "Boylan, Matthew"
+            },
+            {
+                "name": "Fisher, Joely"
+            },
+            {
+                "name": "Loewen, Emma"
+            },
+            {
+                "name": "Miller, Abby"
+            },
+            {
+                "name": "Neidhardt, Phoebe"
+            },
+            {
+                "name": "Nelson, Elimu"
+            },
+            {
+                "name": "Piccininni, Erica"
+            },
+            {
+                "name": "Alexander, Flex"
+            },
+            {
+                "name": "Costello, Tom"
+            }
+        ],
+        "locations": [
+            "Seattle, Washington, USA",
+            "Los Angeles, California, USA"
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "Romance",
+            "Thriller"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Italy:BA",
+            "Norway:9::(TV rating)",
+            "Spain:12",
+            "United States:TV-14"
+        ],
+        "number of seasons": 2,
+        "rating": 6.1,
+        "votes": 3854,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTA4ODEwMjIzMjBeQTJeQWpwZ15BbWU4MDI5NTk2MzYz._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Station 19",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "McKee, Stacy"
+            },
+            {
+                "name": "Rhimes, Shonda"
+            },
+            {
+                "name": "Napolitano, Tia"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Shondaland"
+            },
+            {
+                "name": "ABC Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "American Broadcasting Company (ABC)"
+            },
+            {
+                "name": "Canadian Television (CTV)"
+            },
+            {
+                "name": "Disney-ABC Domestic Television"
+            },
+            {
+                "name": "DiziMax"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aerobo"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Designer Wardrobe Trailers"
+            },
+            {
+                "name": "Good Dog Animals"
+            },
+            {
+                "name": "Otto Nemenz International"
+            },
+            {
+                "name": "Reel Security"
+            }
+        ],
+        "plot": [
+            "Follows the men and women of a Seattle firehouse.::ahmetkozan"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Arri Alexa"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3854,
+                "rating": 6.1
+            },
+            "aged under 18": {
+                "votes": 11,
+                "rating": 8.5
+            },
+            "aged 18 29": {
+                "votes": 706,
+                "rating": 7.0
+            },
+            "aged 30 44": {
+                "votes": 989,
+                "rating": 5.9
+            },
+            "aged 45 plus": {
+                "votes": 684,
+                "rating": 5.4
+            },
+            "males": {
+                "votes": 1121,
+                "rating": 5.2
+            },
+            "males aged under 18": {
+                "votes": 4,
+                "rating": 8.8
+            },
+            "males aged 18 29": {
+                "votes": 224,
+                "rating": 6.5
+            },
+            "males aged 30 44": {
+                "votes": 392,
+                "rating": 5.0
+            },
+            "males aged 45 plus": {
+                "votes": 360,
+                "rating": 4.7
+            },
+            "females": {
+                "votes": 1575,
+                "rating": 6.8
+            },
+            "females aged under 18": {
+                "votes": 7,
+                "rating": 8.4
+            },
+            "females aged 18 29": {
+                "votes": 462,
+                "rating": 7.2
+            },
+            "females aged 30 44": {
+                "votes": 576,
+                "rating": 6.7
+            },
+            "females aged 45 plus": {
+                "votes": 312,
+                "rating": 6.4
+            },
+            "top 1000 voters": {
+                "votes": 83,
+                "rating": 4.9
+            },
+            "us users": {
+                "votes": 799,
+                "rating": 6.1
+            },
+            "non us users": {
+                "votes": 1003,
+                "rating": 5.8
+            }
+        },
+        "number of votes": {
+            "10": 841,
+            "9": 300,
+            "8": 547,
+            "7": 617,
+            "6": 384,
+            "5": 246,
+            "4": 184,
+            "3": 141,
+            "2": 130,
+            "1": 464
+        },
+        "arithmetic mean": 6.5,
+        "median": 7
+    }
+}

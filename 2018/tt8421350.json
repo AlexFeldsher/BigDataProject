@@ -1,0 +1,661 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "24 September 2018"
+            },
+            {
+                "country": "Spain\n",
+                "date": "25 September 2018"
+            },
+            {
+                "country": "Spain\n",
+                "date": "25 September 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "25 September 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Italy\n",
+                "date": "1 October 2018"
+            }
+        ],
+        "release dates": [
+            "USA::24 September 2018",
+            "Spain::25 September 2018",
+            "Spain::25 September 2018                            (internet)",
+            "Sweden::25 September 2018                            (internet)",
+            "Italy::1 October 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Manifest"
+            },
+            {
+                "countries": "Italy",
+                "title": "Manifest"
+            },
+            {
+                "countries": "Romania",
+                "title": "Destinatia"
+            },
+            {
+                "countries": "Russia",
+                "title": "Манифест"
+            },
+            {
+                "countries": "Spain",
+                "title": "Manifest"
+            },
+            {
+                "countries": "USA",
+                "title": "Manifest"
+            }
+        ],
+        "akas": [
+            "Manifest (original title)",
+            "Manifest Italy",
+            "Destinatia Romania",
+            "Манифест Russia",
+            "Manifest Spain",
+            "Manifest USA"
+        ],
+        "akas from release info": [
+            "Manifest (original title)",
+            "Manifest Italy",
+            "Destinatia Romania",
+            "Манифест Russia",
+            "Manifest Spain",
+            "Manifest USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 1420,
+                    "original air date": "24 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Passengers onboard a flight that returns five years after vanishing must piece together their old lives, and deal with voices in their heads.    "
+                },
+                "2": {
+                    "title": "Reentry",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 916,
+                    "original air date": "1 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Michaela is forced to confront the fact that Jared is married; Ben helps a fellow passenger; Olive urges Grace to tell Ben her secret.    "
+                },
+                "3": {
+                    "title": "Turbulence",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 757,
+                    "original air date": "8 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Ben and Michaela investigate a shocking murder in fear that it's connected to Flight 828.    "
+                },
+                "4": {
+                    "title": "Unclaimed Baggage",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 665,
+                    "original air date": "15 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Saanvi enlists Ben's help in uncovering a secret about the plane; Michaela begins to question the nature of the callings when one goes horribly awry.    "
+                },
+                "5": {
+                    "title": "Connecting Flights",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 605,
+                    "original air date": "22 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Stories unfold for those left behind in the aftermath of Flight 828's disappearance; Cal takes Ben on a mysterious adventure.    "
+                },
+                "6": {
+                    "title": "Off Radar",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 507,
+                    "original air date": "5 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Cal wakes with a life-threatening fever; Ben and Michaela look for a missing Flight 828 passenger and discover more than they bargained for.    "
+                },
+                "7": {
+                    "title": "S.N.A.F.U.",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 464,
+                    "original air date": "12 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Michaela tries to make sense of her newest calling; Ben goes to risky lengths to investigate the whereabouts of 11 missing Flight 828 passengers.    "
+                },
+                "8": {
+                    "title": "Point of No Return",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 431,
+                    "original air date": "19 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Ben and Vance team up to find the missing passengers; Michaela helps a suicidal passenger.    "
+                },
+                "9": {
+                    "title": "Dead Reckoning",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 482,
+                    "original air date": "26 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    When Ben and Michaela put everything on the line to save the other missing passengers, the mission goes horribly awry.    "
+                },
+                "10": {
+                    "title": "Crosswinds",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 345,
+                    "original air date": "7 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    Michaela's next-level callings are accompanied by hallucinations. Ben exploring Michaela's calling leads him to a new alliance and a powerful new adversary.    "
+                },
+                "11": {
+                    "title": "Contrails",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 311,
+                    "original air date": "14 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    A conspiracy that stems back to the day the plane disappeared comes to light; Michaela assists Autumn in her own journey of redemption.    "
+                },
+                "12": {
+                    "title": "Vanishing Point",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 330,
+                    "original air date": "21 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    Grace and Ben's search for Cal leads to a game-changing discovery; Michaela confronts Autumn; The Major makes an appearance.    "
+                },
+                "13": {
+                    "title": "Cleared for Approach",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 269,
+                    "original air date": "28 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    Michaela uses her detective skills to find out more about Zeke; Ben's family is impacted as public disdain for the passengers rises.    "
+                },
+                "14": {
+                    "title": "Upgrade",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 246,
+                    "original air date": "4 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    Ben suspects a fanatical group has taken Saanvi; Michaela must face the consequences of her reunion with Jared; Zeke has an ominous calling.    "
+                },
+                "15": {
+                    "title": "Hard Landing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 202,
+                    "original air date": "11 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    When Michaela meets the mysterious James Griffin, the passengers learn what happens when the callings fall in the wrong hands.    "
+                },
+                "16": {
+                    "title": "Estimated Time of Departure",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Manifest (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 197,
+                    "original air date": "18 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    Griffin schemes to take the callings public; Tensions between Jared and Zeke reach a boiling point; Ben, Grace, and Olive make a devastating discovery.    "
+                }
+            }
+        },
+        "number of episodes": 16,
+        "cast": [
+            {
+                "name": "Roxburgh, Melissa"
+            },
+            {
+                "name": "Dallas, Josh"
+            },
+            {
+                "name": "Karkanis, Athena"
+            },
+            {
+                "name": "Ramirez, J.R."
+            },
+            {
+                "name": "Blaise, Luna"
+            },
+            {
+                "name": "Messina, Jack"
+            },
+            {
+                "name": "Kaur, Parveen"
+            },
+            {
+                "name": "Edwards, Daryl"
+            },
+            {
+                "name": "Narciso, Alfredo"
+            },
+            {
+                "name": "Moriarty, Tim"
+            },
+            {
+                "name": "Cartagena, Victoria"
+            },
+            {
+                "name": "Faridany, Francesca"
+            },
+            {
+                "name": "Long, Matt"
+            },
+            {
+                "name": "Deal, Frank"
+            },
+            {
+                "name": "Mugga"
+            },
+            {
+                "name": "Cleary, Malachy"
+            },
+            {
+                "name": "Schraml, Brandon"
+            },
+            {
+                "name": "Tsankov, Nikolai"
+            },
+            {
+                "name": "Sunjata, Daniel"
+            },
+            {
+                "name": "Rumierk, Shirley"
+            },
+            {
+                "name": "Kim, Julienne Hanzelka"
+            },
+            {
+                "name": "Kurmemaj, Jenna"
+            },
+            {
+                "name": "Barakchian, Mehdi"
+            },
+            {
+                "name": "Torres, Omar"
+            },
+            {
+                "name": "Marvel, Elizabeth"
+            },
+            {
+                "name": "Menchaca, Marc"
+            },
+            {
+                "name": "Topol, Richard"
+            },
+            {
+                "name": "Wiles, Brian"
+            },
+            {
+                "name": "Leer, Geraldine"
+            },
+            {
+                "name": "Torres, Jacqueline"
+            },
+            {
+                "name": "Chin-Lyn, Edward"
+            },
+            {
+                "name": "Cook, Curtiss"
+            },
+            {
+                "name": "Best, Sheldon"
+            },
+            {
+                "name": "Murney, Patrick"
+            },
+            {
+                "name": "Urla, Joe"
+            },
+            {
+                "name": "Drayer, Michael"
+            },
+            {
+                "name": "Lucas, Rey"
+            },
+            {
+                "name": "Lenox, Adriane"
+            },
+            {
+                "name": "Rex, Grace"
+            },
+            {
+                "name": "Kaufman, Sean"
+            },
+            {
+                "name": "Sensenig, Andrew"
+            },
+            {
+                "name": "Grimes, Jared"
+            },
+            {
+                "name": "Robinson, Leajato Amara"
+            },
+            {
+                "name": "Kaminsky, Eva"
+            },
+            {
+                "name": "Farrar, Thursday"
+            },
+            {
+                "name": "Brando, Jenna"
+            },
+            {
+                "name": "Maharaj, Kenneth"
+            },
+            {
+                "name": "Henley-Cohn, Juri"
+            },
+            {
+                "name": "Blackstock, Hope"
+            },
+            {
+                "name": "la Fuente, Joel de"
+            }
+        ],
+        "locations": [
+            "Silvercup Studios - 42-22 22nd St, Long Island City, Queens, New York City, New York, USA::(filmed at)",
+            "New York, USA",
+            "Silvercup Studios - 4222 22nd Street, Long Island City, Queens, New York City, New York, USA::(filmed at)",
+            "Silvercup Studios, New York City, New York, USA::(filmed at)",
+            "Jet Flite International- 1100 New Highway, Republic Airport, East Farmingdale, New York, USA::(Airport hanger)"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.33 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Italy:T",
+            "Spain:12",
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 7.4,
+        "votes": 11267,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMmY4NjRmZDMtYmZjOS00OWI2LTlmMjktYjg3N2FiNzg4OTA1XkEyXkFqcGdeQXVyNjMxNzcwOTI@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "When Montego Air Flight 828 landed safely after a turbulent but routine flight, the crew and passengers were relieved. But in the span of those few hours, the world had aged five years - and their friends, families and colleagues, after mourning their loss, had given up hope and moved on. Now, faced with the impossible, they're all given a second chance. But as their new realities become clear, a deeper mystery unfolds and some of the returned passengers soon realize they may be meant for something greater than they ever thought possible.",
+        "languages": [
+            "English"
+        ],
+        "title": "Manifest",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Rake, Jeff"
+            },
+            {
+                "name": "Esfarjani, Bobak"
+            },
+            {
+                "name": "Wilson, MW Cartozian"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Compari Entertainment"
+            },
+            {
+                "name": "Jeff Rake Productions"
+            },
+            {
+                "name": "Universal Television"
+            },
+            {
+                "name": "Warner Bros. Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CITY-TV"
+            },
+            {
+                "name": "Citytv"
+            },
+            {
+                "name": "DiziMax"
+            },
+            {
+                "name": "National Broadcasting Company (NBC)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Big A Solutions"
+            },
+            {
+                "name": "Hula Post"
+            }
+        ],
+        "plot": [
+            "After a turbulent, but routine flight, those onboard discover the world has aged five years, and soon a deeper mystery unfolds.",
+            "When Montego Air Flight 828 landed safely after a turbulent but routine flight, the crew and passengers were relieved. But in the span of those few hours, the world had aged five years - and their friends, families and colleagues, after mourning their loss, had given up hope and moved on. Now, faced with the impossible, they're all given a second chance. But as their new realities become clear, a deeper mystery unfolds and some of the returned passengers soon realize they may be meant for something greater than they ever thought possible.::ahmetkozan"
+        ],
+        "tech": {
+            "runtime": [
+                "43 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.33 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 11267,
+                "rating": 7.4
+            },
+            "aged under 18": {
+                "votes": 46,
+                "rating": 7.8
+            },
+            "aged 18 29": {
+                "votes": 1835,
+                "rating": 7.8
+            },
+            "aged 30 44": {
+                "votes": 2963,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 2081,
+                "rating": 7.2
+            },
+            "males": {
+                "votes": 4519,
+                "rating": 7.1
+            },
+            "males aged under 18": {
+                "votes": 29,
+                "rating": 7.3
+            },
+            "males aged 18 29": {
+                "votes": 970,
+                "rating": 7.6
+            },
+            "males aged 30 44": {
+                "votes": 1651,
+                "rating": 6.8
+            },
+            "males aged 45 plus": {
+                "votes": 1242,
+                "rating": 7.0
+            },
+            "females": {
+                "votes": 3229,
+                "rating": 7.7
+            },
+            "females aged under 18": {
+                "votes": 10,
+                "rating": 8.9
+            },
+            "females aged 18 29": {
+                "votes": 764,
+                "rating": 7.9
+            },
+            "females aged 30 44": {
+                "votes": 1211,
+                "rating": 7.5
+            },
+            "females aged 45 plus": {
+                "votes": 782,
+                "rating": 7.7
+            },
+            "top 1000 voters": {
+                "votes": 73,
+                "rating": 6.9
+            },
+            "us users": {
+                "votes": 2269,
+                "rating": 7.5
+            },
+            "non us users": {
+                "votes": 2779,
+                "rating": 6.9
+            }
+        },
+        "number of votes": {
+            "10": 2744,
+            "9": 1556,
+            "8": 2627,
+            "7": 1903,
+            "6": 910,
+            "5": 517,
+            "4": 326,
+            "3": 207,
+            "2": 157,
+            "1": 320
+        },
+        "arithmetic mean": 7.7,
+        "median": 8
+    }
+}

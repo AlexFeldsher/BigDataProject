@@ -1,0 +1,473 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "30 September 2018"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "27 October 2018"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "15 November 2018",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Australia\n",
+                "date": "3 February 2019"
+            }
+        ],
+        "release dates": [
+            "UK::30 September 2018",
+            "Sweden::27 October 2018",
+            "Netherlands::15 November 2018                            (limited)",
+            "Australia::3 February 2019"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Cry"
+            },
+            {
+                "countries": "Russia",
+                "title": "Плач"
+            },
+            {
+                "countries": "USA",
+                "title": "The Cry"
+            }
+        ],
+        "akas": [
+            "The Cry (original title)",
+            "Плач Russia",
+            "The Cry USA"
+        ],
+        "akas from release info": [
+            "The Cry (original title)",
+            "Плач Russia",
+            "The Cry USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Cry (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 167,
+                    "original air date": "30 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Joanna, Alistair and their baby Noah travel to Australia to gain custody of Alistair's daughter Chloe. Then the unthinkable happens.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Cry (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 144,
+                    "original air date": "7 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    The search for baby Noah leads to an arrest, but it soon becomes clear that not everything is as it seems.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Cry (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 120,
+                    "original air date": "14 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    A distressed Joanna and Alistair watch as the police search Elizabeth's house. Rattled by the investigation and Joanna's behaviour, Alistair tries to uncover what the police know.    "
+                },
+                "4": {
+                    "title": "Episode #1.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Cry (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 112,
+                    "original air date": "21 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Joanna and Alastair grow further and further apart as they attempt to rebuild their lives back in Scotland. But, an unexpected delivery triggers a long-forgotten memory for Joanna and throws things into question, changing everything.    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Coleman, Jenna"
+            },
+            {
+                "name": "Leslie, Ewen"
+            },
+            {
+                "name": "Keddie, Asher"
+            },
+            {
+                "name": "Dimitriades, Alex"
+            },
+            {
+                "name": "Clark, Sophie Kennedy"
+            },
+            {
+                "name": "Kavenagh, Markella"
+            },
+            {
+                "name": "Clanton, Shareena"
+            },
+            {
+                "name": "Gonet, Stella"
+            },
+            {
+                "name": "Akandé, Moyo"
+            },
+            {
+                "name": "Dickie, Kate"
+            },
+            {
+                "name": "Macdonald, Shauna"
+            },
+            {
+                "name": "Elliot, David"
+            },
+            {
+                "name": "Poole, Ollie Ivin"
+            },
+            {
+                "name": "Farrell, Nicholas"
+            },
+            {
+                "name": "Jones, Sue"
+            },
+            {
+                "name": "Kisielwesk, Kayla"
+            },
+            {
+                "name": "Rose, Anneika"
+            },
+            {
+                "name": "Walker, Amanda"
+            },
+            {
+                "name": "Adis, Kim"
+            },
+            {
+                "name": "Ahmed, Farah"
+            },
+            {
+                "name": "Currie, Fox"
+            },
+            {
+                "name": "Baroo, Eddie"
+            },
+            {
+                "name": "Cachia, Billie Rose"
+            },
+            {
+                "name": "Bowers, Candy"
+            },
+            {
+                "name": "Curry, Fox"
+            },
+            {
+                "name": "Koo, Angela"
+            },
+            {
+                "name": "Licata, Tim"
+            },
+            {
+                "name": "Morrison, Donald"
+            },
+            {
+                "name": "Harvey, Patrick"
+            },
+            {
+                "name": "Woods, David"
+            },
+            {
+                "name": "Joab, Sachin"
+            },
+            {
+                "name": "King, Emma"
+            },
+            {
+                "name": "Rennie, Noah"
+            },
+            {
+                "name": "LaBonte, Amanda"
+            },
+            {
+                "name": "Rennie, Oliver"
+            },
+            {
+                "name": "Morley, Michael"
+            },
+            {
+                "name": "Magrath, Cassandra"
+            },
+            {
+                "name": "O'Shea, Moya"
+            },
+            {
+                "name": "Shakespeare-Allen, Carolyn"
+            },
+            {
+                "name": "McPhillips, Christopher"
+            },
+            {
+                "name": "Bradley, Ben"
+            },
+            {
+                "name": "Heslop, Natalie"
+            },
+            {
+                "name": "Kahlon, Gurnita Kaur"
+            },
+            {
+                "name": "Maitland, Joe"
+            },
+            {
+                "name": "Young, John"
+            }
+        ],
+        "locations": [
+            "Hesse Street, Queenscliff, Victoria, Australia",
+            "Melbourne, Victoria, Australia",
+            "Point Lonsdale, Victoria, Australia",
+            "IGA Queenscliff, 73 Hesse Street, Queenscliff, Victoria, Australia::(Supermarket visited by Alistair and Joanna before Noah disappears.)",
+            "Marriner's Lookout, 155 Marriner's Lookout Road, Apollo Bay, Victoria, Australia::(Aerial view of Wilde Bay, Victoria)",
+            "155 Ocean Drive, St Andrews Beach, Victoria, Australia::(Holiday cottage where Alistair and Joanna stay in Wilde Bay)",
+            "Williamstown, Melbourne, Victoria, Australia",
+            "The SSE Hydro, Exhibition Way, Glasgow, Scotland, UK::(Melbourne Airport, Australia)",
+            "Ocean Drive, St Andrews Beach, Victoria, Australia"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "57"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "certificates": [
+            "Norway:12::(TV rating)",
+            "United Kingdom:15::(DVD rating)",
+            "United States:Not Rated"
+        ],
+        "original air date": "30 Sep 2018 (UK)",
+        "number of seasons": 1,
+        "rating": 7.2,
+        "votes": 1783,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZmE0NDIzOTUtMzliMC00MDc3LTgzM2MtZDgyYjY5YjA5MWM1XkEyXkFqcGdeQXVyNTY2MzkxMjc@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "The disappearance of a baby from a small coastal town in Australia is the catalyst for a journey into the disintegrating psychology of a young couple as they deal with an unthinkable tragedy under both the white light of public scrutiny and behind closed doors.",
+        "languages": [
+            "English"
+        ],
+        "title": "The Cry",
+        "year": 2018,
+        "kind": "tv mini series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Fitzgerald, Helen"
+            },
+            {
+                "name": "Perske, Jacquelin"
+            }
+        ],
+        "director": [
+            {
+                "name": "Ivin, Glendyn"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Synchronicity Films"
+            },
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "Government of Victoria"
+            },
+            {
+                "name": "Film Victoria"
+            },
+            {
+                "name": "The National Lottery through Creative Scotland"
+            },
+            {
+                "name": "Australian Broadcasting Corporation (ABC)"
+            },
+            {
+                "name": "Creative Scotland"
+            },
+            {
+                "name": "December Media"
+            },
+            {
+                "name": "Film Victoria"
+            },
+            {
+                "name": "Sunbird Media"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "Australian Broadcasting Corporation (ABC)"
+            },
+            {
+                "name": "BBC First"
+            },
+            {
+                "name": "DRG"
+            },
+            {
+                "name": "SundanceNOW.com"
+            },
+            {
+                "name": "SundanceTV"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Lakeshore Records"
+            },
+            {
+                "name": "Panalux"
+            },
+            {
+                "name": "Panavision"
+            }
+        ],
+        "plot": [
+            "The disappearance of a baby from a small coastal town in Australia is the catalyst for a journey into the disintegrating psychology of a young couple as they deal with an unthinkable tragedy under both the white light of public scrutiny and behind closed doors.",
+            "_The Cry_ (qv) chronicles the collapse of a marriage in the aftermath of a tragedy, and explores the myths and truths of motherhood. The abduction of a baby from a small coastal town in Australia is the catalyst for a journey into the disintegrating psychology of a young woman - Joanna - as she and her husband, Alistair, deal with an unthinkable tragedy under both the white light of public scrutiny and in their private lives.::ahmetkozan"
+        ],
+        "tech": {
+            "runtime": [
+                "57 min"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1783,
+                "rating": 7.2
+            },
+            "aged under 18": {
+                "votes": 5,
+                "rating": 6.5
+            },
+            "aged 18 29": {
+                "votes": 265,
+                "rating": 7.5
+            },
+            "aged 30 44": {
+                "votes": 490,
+                "rating": 7.0
+            },
+            "aged 45 plus": {
+                "votes": 428,
+                "rating": 7.0
+            },
+            "males": {
+                "votes": 695,
+                "rating": 6.9
+            },
+            "males aged under 18": {
+                "votes": 4,
+                "rating": 7.2
+            },
+            "males aged 18 29": {
+                "votes": 116,
+                "rating": 7.2
+            },
+            "males aged 30 44": {
+                "votes": 246,
+                "rating": 6.7
+            },
+            "males aged 45 plus": {
+                "votes": 275,
+                "rating": 6.9
+            },
+            "females": {
+                "votes": 582,
+                "rating": 7.4
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 144,
+                "rating": 7.6
+            },
+            "females aged 30 44": {
+                "votes": 232,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 146,
+                "rating": 7.3
+            },
+            "top 1000 voters": {
+                "votes": 53,
+                "rating": 5.2
+            },
+            "us users": {
+                "votes": 117,
+                "rating": 7.0
+            },
+            "non us users": {
+                "votes": 847,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 199,
+            "9": 212,
+            "8": 479,
+            "7": 489,
+            "6": 197,
+            "5": 79,
+            "4": 39,
+            "3": 25,
+            "2": 13,
+            "1": 51
+        },
+        "arithmetic mean": 7.3,
+        "median": 7
+    }
+}

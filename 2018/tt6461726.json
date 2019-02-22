@@ -1,0 +1,762 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "1 February 2018"
+            },
+            {
+                "country": "USA\n",
+                "date": "1 February 2018"
+            },
+            {
+                "country": "Spain\n",
+                "date": "2 February 2018"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "2 February 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "9 October 2018"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "16 November 2018"
+            }
+        ],
+        "release dates": [
+            "Canada::1 February 2018",
+            "USA::1 February 2018",
+            "Spain::2 February 2018",
+            "Sweden::2 February 2018                            (internet)",
+            "Germany::9 October 2018",
+            "Belgium::16 November 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "A.P. Bio"
+            },
+            {
+                "countries": "Germany",
+                "title": "Mr. Griffin - Kein Bock auf Schule"
+            },
+            {
+                "countries": "Poland",
+                "title": "Nauki niezbyt ścisłe"
+            },
+            {
+                "countries": "Russia",
+                "title": "Курс биологии"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "Untitled Mike O'Brien Project"
+            }
+        ],
+        "akas": [
+            "A.P. Bio (original title)",
+            "Mr. Griffin - Kein Bock auf Schule Germany",
+            "Nauki niezbyt ścisłe Poland",
+            "Курс биологии Russia",
+            "Untitled Mike O'Brien Project USA (working title)"
+        ],
+        "akas from release info": [
+            "A.P. Bio (original title)",
+            "Mr. Griffin - Kein Bock auf Schule Germany",
+            "Nauki niezbyt ścisłe Poland",
+            "Курс биологии Russia",
+            "Untitled Mike O'Brien Project USA (working title)"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Happiness",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "7 Mar. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Episode #2.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Episode #2.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Episode #2.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Episode #2.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Episode #2.7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Episode #2.8",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "Episode #2.9",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "Episode #2.10",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "11": {
+                    "title": "Episode #2.11",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "Ride the Ram",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "13": {
+                    "title": "Episode #2.13",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Pilot: Catfish",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 754,
+                    "original air date": "1 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Jack Griffin loses out on his dream job and becomes a high school teacher of Advanced Placement biology in his hometown of Toledo, Ohio.    "
+                },
+                "2": {
+                    "title": "Teacher Jail",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 243,
+                    "original air date": "25 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Jack is put in \"teacher jail\" when he leaves his class unattended and one of his students gets injured.    "
+                },
+                "3": {
+                    "title": "Burning Miles",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 209,
+                    "original air date": "1 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    While Principal Durbin struggles with budget cuts, Jack discovers his students pity him, so he rallies, making a splash at the school.    "
+                },
+                "4": {
+                    "title": "Overachieving Virgins",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 185,
+                    "original air date": "1 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    When his favorite potato chips are removed from the snack machine, Jack starts a hangry snack war with the Student Council; Mary and Michelle try saying no to Stef's relentless side hustle - with mixed results.    "
+                },
+                "5": {
+                    "title": "Dating Toledoans",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 202,
+                    "original air date": "8 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Jack reluctantly agrees to go out on the town with Mary, Stef and Michelle. However, his superiority complex proves difficult for the women of Toledo to overcome. Principal Durbin feels threatened when Helen fills in for him on the school's video morning announcements.    "
+                },
+                "6": {
+                    "title": "Freakin' Enamored",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 181,
+                    "original air date": "15 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    When Jack is attracted to a student's mother at a parent-teacher conference, he feigns interest in her son, Colin. A group of parents complain to Principal Durbin when they notice a piece of controversial student art from Mary's class.    "
+                },
+                "7": {
+                    "title": "Selling Out",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 160,
+                    "original air date": "22 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Jack receives an offer from Miles' publisher to write a book of feel-good philosophy that could be his ticket out of Toledo. Durbin accidentally sets off an emotional firestorm when he reveals that while Stef chose Mary as her emergency contact, Mary chose Michelle.    "
+                },
+                "8": {
+                    "title": "We Don't Party",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 161,
+                    "original air date": "29 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    When Victor's parents go out of town, Jack uses their house to host his ex-girlfriend's fund-raising gala.    "
+                },
+                "9": {
+                    "title": "Rosemary's Boyfriend",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 164,
+                    "original air date": "5 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    When Jack learns that his dead mother had a lover named Brandon, Jack becomes furious and sets out to destroy the old man.    "
+                },
+                "10": {
+                    "title": "Durbin Crashes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 140,
+                    "original air date": "12 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Jack takes in Principal Durbin after giving him marriage advice that backfires and gets him kicked out of the house; Jack's students try to help him get revenge against Miles.    "
+                },
+                "11": {
+                    "title": "Eight Pigs and a Rat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 160,
+                    "original air date": "19 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    When one of Jack's students anonymously reports him for canceling their much anticipated fetal pig dissection, he sets out to find the snitch. Durbin's chances at Principal of the Year are in jeopardy when the superintendent visits.    "
+                },
+                "12": {
+                    "title": "Walleye",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 127,
+                    "original air date": "26 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Jack convinces Miles that Devin is his illegitimate son; Durbin, Mary, Stef and Michelle disagree on the theme for the Sadie Hawkins dance.    "
+                },
+                "13": {
+                    "title": "Drenching Dallas",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 132,
+                    "original air date": "3 May 2018",
+                    "year": "2018",
+                    "plot": "\n    Jack takes interest in a mission of revenge on behalf of the A.P. Bio kids; Mary, Stef and Michelle think there's an otherworldly presence at Whitlock.    "
+                }
+            },
+            "3": {
+                "6": {
+                    "title": "Episode #3.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A.P. Bio (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 26,
+        "cast": [
+            {
+                "name": "Brielle, Aparna"
+            },
+            {
+                "name": "Houston, Jacob"
+            },
+            {
+                "name": "Arm, Allisyn Ashley"
+            },
+            {
+                "name": "Howerton, Glenn"
+            },
+            {
+                "name": "Oswalt, Patton"
+            },
+            {
+                "name": "Peine, Nick"
+            },
+            {
+                "name": "Lewis, Lyric"
+            },
+            {
+                "name": "Arambulo, Sari"
+            },
+            {
+                "name": "Sohn, Mary"
+            },
+            {
+                "name": "Villepique, Jean"
+            },
+            {
+                "name": "Leavy, Eddie"
+            },
+            {
+                "name": "II, Spence Moore"
+            },
+            {
+                "name": "McCarthy, Jacob"
+            },
+            {
+                "name": "Albrizzi, Tucker"
+            },
+            {
+                "name": "Pell, Paula"
+            },
+            {
+                "name": "Baram, Marisa"
+            },
+            {
+                "name": "McCrackin, Charlie"
+            },
+            {
+                "name": "Bennett, Tom"
+            },
+            {
+                "name": "Jacobs, Dean"
+            },
+            {
+                "name": "Alan, Lori"
+            },
+            {
+                "name": "Wolfe, Collette"
+            },
+            {
+                "name": "Alderfer, Elizabeth"
+            },
+            {
+                "name": "O'Kelley, Tricia"
+            },
+            {
+                "name": "Pirela, Argenis"
+            },
+            {
+                "name": "Freedom"
+            },
+            {
+                "name": "Nash, Niecy"
+            },
+            {
+                "name": "Daniel, Louheed"
+            },
+            {
+                "name": "Hayes, Erinn"
+            },
+            {
+                "name": "Killam, Taran"
+            },
+            {
+                "name": "Loeb, Lisa"
+            },
+            {
+                "name": "Bhimani, Anjali"
+            },
+            {
+                "name": "Proksch, Mark"
+            },
+            {
+                "name": "Ekulona, Saidah Arrika"
+            },
+            {
+                "name": "Sohn, Rebecca"
+            },
+            {
+                "name": "Holsen, Hans"
+            },
+            {
+                "name": "Morton, Dominique"
+            },
+            {
+                "name": "Belcher, Patricia"
+            },
+            {
+                "name": "Cortinas, Steven"
+            },
+            {
+                "name": "Culp, Clint"
+            },
+            {
+                "name": "Dyck, George"
+            },
+            {
+                "name": "English, Clayton"
+            },
+            {
+                "name": "Evans, Xander"
+            },
+            {
+                "name": "Flav, Flavor"
+            },
+            {
+                "name": "Follows, Samantha"
+            },
+            {
+                "name": "Funches, Ron"
+            },
+            {
+                "name": "Garza, Jessica"
+            },
+            {
+                "name": "Greenberg, Will"
+            },
+            {
+                "name": "Gross, Michael"
+            },
+            {
+                "name": "Hancock, Kelli Dawn"
+            },
+            {
+                "name": "Hansen, Andrew"
+            }
+        ],
+        "locations": [
+            "CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA::(studio)"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "21"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Spain:16",
+            "United States:TV-13::(TV rating)"
+        ],
+        "number of seasons": 3,
+        "rating": 6.9,
+        "votes": 5451,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNjJhZWY2ZWUtZWFkOC00YmUyLWE4OWMtMjUwYzY0MzE4ODk3XkEyXkFqcGdeQXVyNjMxNzcwOTI@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "A.P. Bio",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "writer": [
+            {
+                "name": "O'Brien, Michael Patrick"
+            },
+            {
+                "name": "Matt, Britt"
+            },
+            {
+                "name": "Sun, Nicole"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Broadway Video"
+            },
+            {
+                "name": "Sethmaker Shoemeyers Productions"
+            },
+            {
+                "name": "Universal Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "National Broadcasting Company (NBC)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Designer Wardrobe Trailers"
+            },
+            {
+                "name": "Marshall/Plumb Research Associates"
+            }
+        ],
+        "plot": [
+            "A former philosophy professor who takes a job teaching AP biology, uses his students to get back at the people in his life who have wronged him.::vhavnal"
+        ],
+        "tech": {
+            "runtime": [
+                "21 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 5451,
+                "rating": 6.9
+            },
+            "aged under 18": {
+                "votes": 14,
+                "rating": 5.4
+            },
+            "aged 18 29": {
+                "votes": 1045,
+                "rating": 7.3
+            },
+            "aged 30 44": {
+                "votes": 1655,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 659,
+                "rating": 6.4
+            },
+            "males": {
+                "votes": 2765,
+                "rating": 7.1
+            },
+            "males aged under 18": {
+                "votes": 8,
+                "rating": 5.2
+            },
+            "males aged 18 29": {
+                "votes": 749,
+                "rating": 7.3
+            },
+            "males aged 30 44": {
+                "votes": 1223,
+                "rating": 7.1
+            },
+            "males aged 45 plus": {
+                "votes": 458,
+                "rating": 6.3
+            },
+            "females": {
+                "votes": 1004,
+                "rating": 7.1
+            },
+            "females aged under 18": {
+                "votes": 6,
+                "rating": 5.7
+            },
+            "females aged 18 29": {
+                "votes": 279,
+                "rating": 7.1
+            },
+            "females aged 30 44": {
+                "votes": 401,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 190,
+                "rating": 6.7
+            },
+            "top 1000 voters": {
+                "votes": 72,
+                "rating": 5.2
+            },
+            "us users": {
+                "votes": 1626,
+                "rating": 7.2
+            },
+            "non us users": {
+                "votes": 1036,
+                "rating": 6.6
+            }
+        },
+        "number of votes": {
+            "10": 1338,
+            "9": 653,
+            "8": 1114,
+            "7": 976,
+            "6": 414,
+            "5": 229,
+            "4": 122,
+            "3": 99,
+            "2": 72,
+            "1": 434
+        },
+        "arithmetic mean": 7.3,
+        "median": 8
+    }
+}

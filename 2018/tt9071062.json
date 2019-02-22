@@ -1,0 +1,76 @@
+{
+    "imdb": {
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Hopeless Hunting: Episode One",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hopeless Hunting (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "plot": "\n    Phoebe is fresh out of high school, and looking for a summer job. Babysitting is a popular one, right?    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "Episode Two",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hopeless Hunting (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "plot": "\n    Phoebe is fresh out of high school, and looking for a summer job. Craigslist has some good job postings, as many people are looking for rap producers.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Afshary, Zoufa"
+            },
+            {
+                "name": "Heifetz, Joy"
+            },
+            {
+                "name": "Boyle, Joey"
+            },
+            {
+                "name": "Jain, Arjun"
+            },
+            {
+                "name": "Kazdan, Ethan"
+            },
+            {
+                "name": "Kazdan, Ethan"
+            },
+            {
+                "name": "Manankil, Peter"
+            }
+        ],
+        "number of seasons": 1,
+        "title": "Hopeless Hunting",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Jain, Anchit"
+            },
+            {
+                "name": "Jain, Anchit"
+            },
+            {
+                "name": "Jain, Arjun"
+            }
+        ],
+        "tech": {}
+    }
+}
