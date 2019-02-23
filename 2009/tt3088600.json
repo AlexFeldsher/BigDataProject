@@ -1,0 +1,839 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "10 July 2009"
+            },
+            {
+                "country": "France\n",
+                "date": "10 July 2009"
+            }
+        ],
+        "release dates": [
+            "Germany::10 July 2009",
+            "France::10 July 2009"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Mystères d'archives"
+            },
+            {
+                "countries": "Finland",
+                "title": "Arkistojen salat"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Ur arkiven"
+            },
+            {
+                "countries": "Germany",
+                "title": "Verschollene Filmschätze"
+            }
+        ],
+        "akas": [
+            "Mystères d'archives (original title)",
+            "Arkistojen salat Finland",
+            "Ur arkiven Finland (Swedish title)",
+            "Verschollene Filmschätze Germany"
+        ],
+        "akas from release info": [
+            "Mystères d'archives (original title)",
+            "Arkistojen salat Finland",
+            "Ur arkiven Finland (Swedish title)",
+            "Verschollene Filmschätze Germany"
+        ],
+        "episodes": {
+            "5": {
+                "1": {
+                    "title": "1903: Ellis Island",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 1,
+                    "original air date": "14 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "1998: La victoire des bleus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 2,
+                    "original air date": "14 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "1965: Les temples d'Abou Simbel sauvés des eaux",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 3,
+                    "original air date": "21 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "1963: La marche sur Washington",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 4,
+                    "original air date": "21 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "1997: Honk Kong revient à la Chine",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 5,
+                    "original air date": "28 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "1970: Le grand rassemblement de l'île de Wight",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 6,
+                    "original air date": "28 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "1927: Lindbergh traverse l'Atlantique",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "10 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "1944: De Gaulle dans Paris libéré",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "17 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "1969: en direct de la lune",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "20 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "1934: assassinat du roi de Yougoslavie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "24 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "1910: Buffalo Bill",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "31 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "1963: funérailles de John Fitzgerald Kennedy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "7 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "1937: crash du Hindenburg",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "12 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "1946: essais atomiques à Bikini",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "14 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "1954: Marilyn Monroe en Corée",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "21 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "1955: tragédie sur le circuit du Mans",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "28 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "John F. Kennedy à Berlin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "28 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "1956: mariage de Grace Kelly avec Rainier de Monaco",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "original air date": "23 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "1967: De Gaulle au Québec",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "17 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "1953: le couronnement d'Elisabeth II",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "original air date": "25 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "1936: L'affaire Lindbergh",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "original air date": "2 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "1978: Les images retrouvées des Khmers rouges",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "original air date": "9 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "1959: Le Tour de France",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "original air date": "16 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "1989: Les Manifestations De La Place Tian Anmen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "original air date": "23 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "Les fastes du Shah d'Iran à Persépolis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "original air date": "20 Aug. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "1975: La chute de Saïgon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "original air date": "27 Aug. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "3": {
+                "1": {
+                    "title": "2001: l'enterrement du commandant Massoud",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "original air date": "15 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "1897: Le président Félix Faure en voyage",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "original air date": "22 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "1945: la capitulation du Japon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "original air date": "29 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "1961: Gagarine, premier homme dans l'espace",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "original air date": "6 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "1981: Les otages américains libérés d'Iran",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "original air date": "13 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "1918: Les fêtes de l'armistice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "original air date": "10 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "1977: Le couronnement de l'empereur Bokassa Ie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "original air date": "8 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "1945: L'ouverture des camps en Allemagne",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "original air date": "26 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "1945: Réunions secrètes à Yalta",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "original air date": "23 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "1936: Les Jeux de Berlin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "original air date": "2 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "4": {
+                "1": {
+                    "title": "1944: Dans le maquis du Vercors",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "original air date": "2 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "1940: Charlie Chaplin tourne Le Dictateur",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "votes": 7,
+                    "original air date": "3 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "1916: Pancho Villa mort ou vif!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "original air date": "4 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "1972: Richard Nixon en Chine",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 4,
+                    "votes": 6,
+                    "original air date": "5 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "1939: Dernières images du bagne de Guyane",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 5,
+                    "original air date": "6 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "1948: Les funérailles de Gandhi",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 6,
+                    "votes": 6,
+                    "original air date": "9 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "1940: Eva Braun filme Hitler",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 7,
+                    "votes": 6,
+                    "original air date": "10 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "1960: Fidel Castro aux Nations Unies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 8,
+                    "original air date": "12 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "1941: L'attaque de Pearl Harbor",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 9,
+                    "original air date": "13 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "1967: La catastrophe du Torrey Canyon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystères d'archives (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 10,
+                    "original air date": "16 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 46,
+        "cast": [
+            {
+                "name": "Armstrong, Neil"
+            },
+            {
+                "name": "de Gaulle, Charles"
+            },
+            {
+                "name": "Monroe, Marilyn"
+            }
+        ],
+        "genres": [
+            "Documentary",
+            "Short",
+            "History"
+        ],
+        "runtimes": [
+            "26"
+        ],
+        "countries": [
+            "France",
+            "Finland"
+        ],
+        "country codes": [
+            "fr",
+            "fi"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "color info": [
+            "Black and White::(some sequences)"
+        ],
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "number of seasons": 5,
+        "rating": 8.0,
+        "votes": 23,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMmIyZjMwYWMtN2Q2Mi00ZDVjLTlhYzQtNTM1NGQ4NmY3MWJjXkEyXkFqcGdeQXVyNzk3Nzk3MDM@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "A series of documentary shorts, focusing on various important historical events captured on film. Each episode, the film's and pictures of one event are carefully analyzed. As to why, how and by whom they were shot. Accompanied by historical, technical and social background information.",
+        "languages": [
+            "French"
+        ],
+        "title": "Mystères d'archives",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "writer": [
+            {
+                "name": "Auque, Alexandre"
+            },
+            {
+                "name": "Gaurichon, Julien"
+            },
+            {
+                "name": "Viallet, Serge"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Arte France"
+            },
+            {
+                "name": "INA-France"
+            },
+            {
+                "name": "RSI-Radiotelevisione Svizzera"
+            },
+            {
+                "name": "Yleisradio"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Institut National de l'Audiovisuel (INA)"
+            }
+        ],
+        "plot": [
+            "A series of documentary shorts, focusing on various important historical events captured on film. Each episode, the film's and pictures of one event are carefully analyzed. As to why, how and by whom they were shot. Accompanied by historical, technical and social background information.::Lain"
+        ],
+        "tech": {
+            "runtime": [
+                "26 min"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Black and White (some sequences)",
+                "Color (some sequences)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 23,
+                "rating": 8.0
+            },
+            "aged 18 29": {
+                "votes": 3,
+                "rating": 7.7
+            },
+            "aged 30 44": {
+                "votes": 11,
+                "rating": 8.1
+            },
+            "aged 45 plus": {
+                "votes": 5,
+                "rating": 8.0
+            },
+            "males": {
+                "votes": 15,
+                "rating": 7.7
+            },
+            "males aged 18 29": {
+                "votes": 2,
+                "rating": 7.0
+            },
+            "males aged 30 44": {
+                "votes": 9,
+                "rating": 7.7
+            },
+            "males aged 45 plus": {
+                "votes": 4,
+                "rating": 8.5
+            },
+            "females": {
+                "votes": 4,
+                "rating": 9.0
+            },
+            "females aged 18 29": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "females aged 30 44": {
+                "votes": 2,
+                "rating": 9.5
+            },
+            "females aged 45 plus": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "top 1000 voters": {
+                "votes": 5,
+                "rating": 6.8
+            },
+            "us users": {
+                "votes": 4,
+                "rating": 7.8
+            },
+            "non us users": {
+                "votes": 14,
+                "rating": 8.0
+            }
+        },
+        "number of votes": {
+            "10": 5,
+            "9": 2,
+            "8": 8,
+            "7": 5,
+            "6": 2,
+            "5": 1,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+        },
+        "arithmetic mean": 8.0,
+        "median": 8
+    }
+}

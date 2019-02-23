@@ -1,0 +1,631 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "26 May 2009"
+            },
+            {
+                "country": "USA\n",
+                "date": "26 May 2009"
+            },
+            {
+                "country": "Japan\n",
+                "date": "1 June 2009",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Italy\n",
+                "date": "4 June 2009"
+            },
+            {
+                "country": "Japan\n",
+                "date": "21 July 2009"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "10 June 2010"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "28 February 2012"
+            },
+            {
+                "country": "Finland\n",
+                "date": "18 May 2012"
+            }
+        ],
+        "release dates": [
+            "Canada::26 May 2009",
+            "USA::26 May 2009",
+            "Japan::1 June 2009                            (limited)",
+            "Italy::4 June 2009",
+            "Japan::21 July 2009",
+            "Sweden::10 June 2010",
+            "Hungary::28 February 2012",
+            "Finland::18 May 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Mental"
+            },
+            {
+                "countries": "Croatia",
+                "title": "Mentalno"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Észvesztő"
+            },
+            {
+                "countries": "Russia",
+                "title": "Сознание"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Mentalno"
+            },
+            {
+                "countries": "Spain",
+                "title": "Mental"
+            }
+        ],
+        "akas": [
+            "Mental (original title)",
+            "Mentalno Croatia",
+            "Észvesztő Hungary",
+            "Сознание Russia",
+            "Mentalno Serbia",
+            "Mental Spain"
+        ],
+        "akas from release info": [
+            "Mental (original title)",
+            "Mentalno Croatia",
+            "Észvesztő Hungary",
+            "Сознание Russia",
+            "Mentalno Serbia",
+            "Mental Spain"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mental (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 90,
+                    "original air date": "26 May 2009",
+                    "year": "2009",
+                    "plot": "\n    There's trouble in the psych ward when Dr. Jack Gallagher takes the reins.    "
+                },
+                "2": {
+                    "title": "A Beautiful Delusion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mental (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 45,
+                    "original air date": "2 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    Dr. Jack Gallagher treats a delusional husband and wife.    "
+                },
+                "3": {
+                    "title": "Book of Judges",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mental (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 49,
+                    "original air date": "9 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    The famous writer Gideon Graham was struck by a lightning, and since then he is catatonic. Gallagher tries new methods to bring the patient to reality again. Meanwhile, Suarez have to pay for past decisions.    "
+                },
+                "4": {
+                    "title": "Manic at the Disco",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mental (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 50,
+                    "original air date": "16 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jack treats a young boy who is consumed with a video game that exists only in his head.    "
+                },
+                "5": {
+                    "title": "Roles of Engagement",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mental (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 38,
+                    "original air date": "23 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    The team encounters a movie star who suffered a psychotic breakdown on national television.    "
+                },
+                "6": {
+                    "title": "Rainy Days",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mental (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 30,
+                    "original air date": "3 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jack testifies in court on behalf of a patient.    "
+                },
+                "7": {
+                    "title": "Obsessively Yours",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mental (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 27,
+                    "original air date": "10 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jack and Veronica try to dissuade a patient from having a risky brain surgery.    "
+                },
+                "8": {
+                    "title": "House of Mirrors",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mental (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 29,
+                    "original air date": "17 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Dr. Gallagher treats a teen with a dark secret.    "
+                },
+                "9": {
+                    "title": "Coda",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mental (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 25,
+                    "original air date": "24 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    An autistic girl is the only witness to her father's murder.    "
+                },
+                "10": {
+                    "title": "Do Over",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mental (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 25,
+                    "original air date": "31 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jack must connect the past to the present to help a patient find peace of mind.    "
+                },
+                "11": {
+                    "title": "Lines in the Sand",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mental (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 21,
+                    "original air date": "7 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jack's troubled sister returns and the team treats a traumatized war veteran.    "
+                },
+                "12": {
+                    "title": "Life and Limb",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mental (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 22,
+                    "original air date": "14 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    Things are in limb-o and Jack and the team are taken hostage.    "
+                },
+                "13": {
+                    "title": "Bad Moon Rising",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mental (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 20,
+                    "original air date": "14 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    A patient who thinks he is a werewolf takes the doctors hostage.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Vance, Chris"
+            },
+            {
+                "name": "McKenzie, Jacqueline"
+            },
+            {
+                "name": "Ramirez, Marisa"
+            },
+            {
+                "name": "Webster, Derek"
+            },
+            {
+                "name": "Gonzalez, Nicholas"
+            },
+            {
+                "name": "Sciorra, Annabella"
+            },
+            {
+                "name": "Hodge, Edwin"
+            },
+            {
+                "name": "Kole, Warren"
+            },
+            {
+                "name": "Douge, Amanda"
+            },
+            {
+                "name": "Newman, Jaime Ray"
+            },
+            {
+                "name": "Medlin, Lex"
+            },
+            {
+                "name": "Mason, Madison"
+            },
+            {
+                "name": "Eaton, Brando"
+            },
+            {
+                "name": "Eggar, Samantha"
+            },
+            {
+                "name": "Arvigo, Elena"
+            },
+            {
+                "name": "Angel, Javier"
+            },
+            {
+                "name": "Boltin, Rob"
+            },
+            {
+                "name": "Fusco, Simona"
+            },
+            {
+                "name": "Coleman, Holliston"
+            },
+            {
+                "name": "Escarpeta, Arlen"
+            },
+            {
+                "name": "Scagliotti, Allison"
+            },
+            {
+                "name": "Dopud, Mike"
+            },
+            {
+                "name": "Mitchell, Silas Weir"
+            },
+            {
+                "name": "Reitman, Joseph D."
+            },
+            {
+                "name": "Esprit, Patrick St."
+            },
+            {
+                "name": "Campo, Bobby"
+            },
+            {
+                "name": "Duncan, Christopher B."
+            },
+            {
+                "name": "Kamhi, Katherine"
+            },
+            {
+                "name": "Morgan, Trevor"
+            },
+            {
+                "name": "Morshower, Glenn"
+            },
+            {
+                "name": "Avari, Erick"
+            },
+            {
+                "name": "Harris, Barbara Eve"
+            },
+            {
+                "name": "Johnson, Laura"
+            },
+            {
+                "name": "Rickaby, Brett"
+            },
+            {
+                "name": "Rooney, Ted"
+            },
+            {
+                "name": "Thompson, Tessa"
+            },
+            {
+                "name": "Weed, Alex"
+            },
+            {
+                "name": "Mayo, Billy"
+            },
+            {
+                "name": "Todhunter, Chad"
+            },
+            {
+                "name": "Arango, Alberto"
+            },
+            {
+                "name": "Bauer, Steven"
+            },
+            {
+                "name": "Callan, K"
+            },
+            {
+                "name": "Crawford, Ellen"
+            },
+            {
+                "name": "Glick, Maxwell"
+            },
+            {
+                "name": "Taylor, Stephen Monroe"
+            },
+            {
+                "name": "Thorne, Remy"
+            },
+            {
+                "name": "Durrell, Michael"
+            },
+            {
+                "name": "Grove, Christopher"
+            },
+            {
+                "name": "Thorne, Bella"
+            },
+            {
+                "name": "Howe, Brian"
+            }
+        ],
+        "locations": [
+            "Bogotá, Colombia",
+            "Los Angeles, California, USA"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "45"
+        ],
+        "countries": [
+            "United States",
+            "Colombia",
+            "Canada"
+        ],
+        "country codes": [
+            "us",
+            "co",
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "number of seasons": 1,
+        "rating": 7.1,
+        "votes": 2256,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTc4MjQzMjIzM15BMl5BanBnXkFtZTcwMTAyOTg1Mg@@._V1_SY150_CR148,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Mental",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-2009",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Levine, Dan"
+            },
+            {
+                "name": "LeVine, Deborah Joy"
+            },
+            {
+                "name": "Feltes, Alyson"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Fox Television Studios"
+            },
+            {
+                "name": "FoxTelecolombia"
+            },
+            {
+                "name": "Infinity Features Entertainment"
+            },
+            {
+                "name": "Kedzie Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Cool TV"
+            },
+            {
+                "name": "FOX Life"
+            },
+            {
+                "name": "Fox Network"
+            },
+            {
+                "name": "Fox"
+            },
+            {
+                "name": "FoxTelecolombia"
+            },
+            {
+                "name": "MTV3"
+            },
+            {
+                "name": "RTL Klub Televízió"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Alternative Rentals"
+            },
+            {
+                "name": "Filmtools"
+            },
+            {
+                "name": "Post Modern Sound"
+            },
+            {
+                "name": "Showfilm"
+            },
+            {
+                "name": "William F. White International"
+            }
+        ],
+        "plot": [
+            "The psychiatrist seeking to save his sister as well his patients while using any means necessary."
+        ],
+        "tech": {
+            "runtime": [
+                "45 min (13 episodes)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Phantom HD Camera",
+                "Sony CineAlta F23, Zeiss DigiPrime Lenses",
+                "Sony HDW-F900R, Zeiss DigiPrime Lenses"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2256,
+                "rating": 7.1
+            },
+            "aged 18 29": {
+                "votes": 458,
+                "rating": 7.4
+            },
+            "aged 30 44": {
+                "votes": 1133,
+                "rating": 7.0
+            },
+            "aged 45 plus": {
+                "votes": 395,
+                "rating": 7.1
+            },
+            "males": {
+                "votes": 1151,
+                "rating": 6.7
+            },
+            "males aged 18 29": {
+                "votes": 220,
+                "rating": 7.1
+            },
+            "males aged 30 44": {
+                "votes": 692,
+                "rating": 6.7
+            },
+            "males aged 45 plus": {
+                "votes": 216,
+                "rating": 6.7
+            },
+            "females": {
+                "votes": 859,
+                "rating": 7.8
+            },
+            "females aged 18 29": {
+                "votes": 235,
+                "rating": 7.8
+            },
+            "females aged 30 44": {
+                "votes": 438,
+                "rating": 7.8
+            },
+            "females aged 45 plus": {
+                "votes": 176,
+                "rating": 7.7
+            },
+            "top 1000 voters": {
+                "votes": 33,
+                "rating": 5.3
+            },
+            "us users": {
+                "votes": 574,
+                "rating": 7.1
+            },
+            "non us users": {
+                "votes": 1234,
+                "rating": 7.0
+            }
+        },
+        "number of votes": {
+            "10": 580,
+            "9": 260,
+            "8": 437,
+            "7": 380,
+            "6": 196,
+            "5": 101,
+            "4": 70,
+            "3": 59,
+            "2": 63,
+            "1": 110
+        },
+        "arithmetic mean": 7.4,
+        "median": 8
+    }
+}

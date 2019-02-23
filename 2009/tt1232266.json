@@ -1,0 +1,488 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2009"
+            },
+            {
+                "country": "USA\n",
+                "date": "19 April 2009"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "7 August 2010"
+            }
+        ],
+        "release dates": [
+            "USA::2009",
+            "USA::19 April 2009",
+            "Sweden::7 August 2010"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Sit Down Shut Up"
+            },
+            {
+                "countries": "Greece",
+                "title": "Sit Down Shut Up"
+            },
+            {
+                "countries": "Romania",
+                "title": "Stai jos si taci din gura!"
+            },
+            {
+                "countries": "Russia",
+                "title": "Садись, двойка!"
+            },
+            {
+                "countries": "Spain",
+                "title": "Siéntate, cállate"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "Class Dismissed"
+            },
+            {
+                "countries": "USA (alternative spelling)",
+                "title": "Sit Down, Shut Up"
+            }
+        ],
+        "akas": [
+            "Sit Down Shut Up (original title)",
+            "Sit Down Shut Up Greece",
+            "Stai jos si taci din gura! Romania",
+            "Садись, двойка! Russia",
+            "Siéntate, cállate Spain",
+            "Class Dismissed USA (working title)",
+            "Sit Down, Shut Up USA (alternative spelling)"
+        ],
+        "akas from release info": [
+            "Sit Down Shut Up (original title)",
+            "Sit Down Shut Up Greece",
+            "Stai jos si taci din gura! Romania",
+            "Садись, двойка! Russia",
+            "Siéntate, cállate Spain",
+            "Class Dismissed USA (working title)",
+            "Sit Down, Shut Up USA (alternative spelling)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sit Down Shut Up (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 95,
+                    "original air date": "19 Apr. 2009",
+                    "year": "2009",
+                    "plot": "\n    Meet the faculty and staff of Knob Haven High on the series premiere.    "
+                },
+                "2": {
+                    "title": "Miracle's Are Real",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sit Down Shut Up (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 48,
+                    "original air date": "26 Apr. 2009",
+                    "year": "2009",
+                    "plot": "\n    It's going to take a miracle.    "
+                },
+                "3": {
+                    "title": "World's Greatest Teacher",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sit Down Shut Up (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 40,
+                    "original air date": "3 May 2009",
+                    "year": "2009",
+                    "plot": "\n    School rule #3: The Driver's Ed vehicle is not to be used for personal errands or picking up your mother from appointments!    "
+                },
+                "4": {
+                    "title": "Back in Time",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sit Down Shut Up (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 30,
+                    "original air date": "10 May 2009",
+                    "year": "2009",
+                    "plot": "\n    Go back in time.    "
+                },
+                "5": {
+                    "title": "High School Confidential",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sit Down Shut Up (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 18,
+                    "original air date": "12 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    High school scandals are uncovered.    "
+                },
+                "6": {
+                    "title": "Taming of the Dude",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sit Down Shut Up (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 19,
+                    "original air date": "19 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    The teachers get schooled in lessons of love.    "
+                },
+                "7": {
+                    "title": "Hurricane Willard",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sit Down Shut Up (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 20,
+                    "original air date": "26 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    It's Willard to the rescue.    "
+                },
+                "8": {
+                    "title": "Mr. Hofftard Goes to Washington",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sit Down Shut Up (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 17,
+                    "original air date": "3 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    It's Washington, D.C. or bust!    "
+                },
+                "9": {
+                    "title": "Tackin'",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sit Down Shut Up (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 18,
+                    "original air date": "10 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    Heart attacks are all the rage.    "
+                },
+                "10": {
+                    "title": "Helen and Sue's High School Reunion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sit Down Shut Up (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 19,
+                    "original air date": "24 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    Never get in the middle of a girl fight.    "
+                },
+                "11": {
+                    "title": "Math Lab",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sit Down Shut Up (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 22,
+                    "original air date": "7 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    Knob Haven High School just says \"no\".    "
+                },
+                "12": {
+                    "title": "SpEd",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sit Down Shut Up (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 16,
+                    "original air date": "14 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    Knob Haven High provides a unique brand of special education.    "
+                },
+                "13": {
+                    "title": "High School Musical Musical",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sit Down Shut Up (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 19,
+                    "original air date": "21 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    Andrew's musical brings down the house!    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Arnett, Will"
+            },
+            {
+                "name": "Bateman, Jason"
+            },
+            {
+                "name": "Chenoweth, Kristin"
+            },
+            {
+                "name": "Forte, Will"
+            },
+            {
+                "name": "Kenny, Tom"
+            },
+            {
+                "name": "Kroll, Nick"
+            },
+            {
+                "name": "Oteri, Cheri"
+            },
+            {
+                "name": "Thompson, Kenan"
+            },
+            {
+                "name": "Winkler, Henry"
+            },
+            {
+                "name": "Bamford, Maria"
+            },
+            {
+                "name": "Morissette, Alanis"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.33 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "rating": 6.0,
+        "votes": 1712,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZWNhYThjZWItNjVmZC00YTFiLWFkOTEtNTJiZjIyYjEzMTMwXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SY150_CR5,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Sit Down Shut Up",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-2009",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Aboud, John"
+            },
+            {
+                "name": "Colton, Michael"
+            },
+            {
+                "name": "Day, Richard"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Adelaide Productions"
+            },
+            {
+                "name": "The Hurwitz Company"
+            },
+            {
+                "name": "Josh Weinstein Productions"
+            },
+            {
+                "name": "The Tannenbaum Company"
+            },
+            {
+                "name": "20th Century Fox Television"
+            },
+            {
+                "name": "Granada International"
+            },
+            {
+                "name": "Sony Pictures Television"
+            },
+            {
+                "name": "Tantamount"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Fox Network"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Rough Draft Studios"
+            },
+            {
+                "name": "Rough Draft Korea"
+            },
+            {
+                "name": "Paws for Effect"
+            }
+        ],
+        "plot": [
+            "The teachers of a slightly poor and non-distinguished school and their random, day-to-day problems."
+        ],
+        "tech": {
+            "runtime": [
+                "30 min (USA)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.33 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1712,
+                "rating": 6.0
+            },
+            "aged under 18": {
+                "votes": 3,
+                "rating": 4.7
+            },
+            "aged 18 29": {
+                "votes": 378,
+                "rating": 6.3
+            },
+            "aged 30 44": {
+                "votes": 953,
+                "rating": 6.0
+            },
+            "aged 45 plus": {
+                "votes": 177,
+                "rating": 5.1
+            },
+            "males": {
+                "votes": 1257,
+                "rating": 5.9
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 303,
+                "rating": 6.3
+            },
+            "males aged 30 44": {
+                "votes": 793,
+                "rating": 5.9
+            },
+            "males aged 45 plus": {
+                "votes": 143,
+                "rating": 5.1
+            },
+            "females": {
+                "votes": 269,
+                "rating": 6.6
+            },
+            "females aged under 18": {
+                "votes": 2,
+                "rating": 3.5
+            },
+            "females aged 18 29": {
+                "votes": 73,
+                "rating": 6.8
+            },
+            "females aged 30 44": {
+                "votes": 156,
+                "rating": 6.9
+            },
+            "females aged 45 plus": {
+                "votes": 32,
+                "rating": 5.2
+            },
+            "top 1000 voters": {
+                "votes": 38,
+                "rating": 4.8
+            },
+            "us users": {
+                "votes": 958,
+                "rating": 5.6
+            },
+            "non us users": {
+                "votes": 500,
+                "rating": 6.5
+            }
+        },
+        "number of votes": {
+            "10": 282,
+            "9": 136,
+            "8": 263,
+            "7": 234,
+            "6": 174,
+            "5": 120,
+            "4": 77,
+            "3": 81,
+            "2": 94,
+            "1": 251
+        },
+        "arithmetic mean": 6.1,
+        "median": 7
+    }
+}

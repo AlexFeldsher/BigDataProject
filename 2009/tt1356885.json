@@ -1,0 +1,569 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "France\n",
+                "date": "5 January 2009"
+            },
+            {
+                "country": "Germany\n",
+                "date": "1 September 2013"
+            }
+        ],
+        "release dates": [
+            "France::5 January 2009",
+            "Germany::1 September 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Il était une fois... notre terre"
+            },
+            {
+                "countries": "Finland",
+                "title": "Olipa kerran planeetta Maa"
+            },
+            {
+                "countries": "Germany",
+                "title": "Es war einmal... unsere Erde"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Egyszer volt, hol nem volt... a Föld"
+            },
+            {
+                "countries": "Italy",
+                "title": "La nostra terra"
+            },
+            {
+                "countries": "Poland",
+                "title": "Byla sobie Ziemia"
+            }
+        ],
+        "akas": [
+            "Il était une fois... notre terre (original title)",
+            "Olipa kerran planeetta Maa Finland",
+            "Es war einmal... unsere Erde Germany",
+            "Egyszer volt, hol nem volt... a Föld Hungary",
+            "La nostra terra Italy",
+            "Byla sobie Ziemia Poland"
+        ],
+        "akas from release info": [
+            "Il était une fois... notre terre (original title)",
+            "Olipa kerran planeetta Maa Finland",
+            "Es war einmal... unsere Erde Germany",
+            "Egyszer volt, hol nem volt... a Föld Hungary",
+            "La nostra terra Italy",
+            "Byla sobie Ziemia Poland"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Les héritiers de la planète",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "5 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Nos héros décident de fonder un club puissant pour s'opposer à tous ceux qui agressent la planète. Après tout, ne sont-ils pas les « Héritiers de la Terre » ? N'ont-ils pas droit à ce qu'elle leur revienne en bon état ?    "
+                },
+                "2": {
+                    "title": "Climat: le Grand Nord",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "6 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Qu'est-ce que l'effet de serre et que peut-on faire pour y remédier ? Maestro, Pierrot, Psi et Grumo partent dans le Grand Nord, chez les Inuits, premières victimes du réchauffement de la planète.    "
+                },
+                "3": {
+                    "title": "L'eau précieuse en Inde",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "8 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Nous traversons l'Inde en compagnie d'un guide, membre du club des héritiers, et découvrirons les problèmes liés à la pollution et au manque d'eau.    "
+                },
+                "4": {
+                    "title": "L'eau précieuse au Sahel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "9 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Au Sahel, face à la désertification, une importante tribu et ses bêtes domestiques migrent vers le sud à la recherche d'eau, pour établir leur village.    "
+                },
+                "5": {
+                    "title": "La forêt amazonienne",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "12 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Dans la plus grande forêt du monde, un milieu exceptionnel de diversité. Aujourd'hui, la forêt amazonienne, sa faune, sa flore et les populations qui y vivent, sont menacées par la déforestation.    "
+                },
+                "6": {
+                    "title": "Nos énergies s'épuisent",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 6,
+                    "original air date": "13 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    D'où viennent les énergies fossiles et pourquoi sont-elles en voie d'épuisement ? L'énergie nucléaire est-elle sans risque ?    "
+                },
+                "7": {
+                    "title": "Le commerce équitable",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "15 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Le commerce équitable est une opportunité pour les petits artisans ou producteurs, de percevoir une plus juste rémunération pour leur travail. Nous allons en Bolivie à la rencontre de Diego, un petit planteur de café.    "
+                },
+                "8": {
+                    "title": "La mer poubelle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "16 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Mers et océans sont menacés par la pollution. Pour comprendre à quels dangers est exposé ce précieux écosystème, nous remontons dans le temps pour revivre l'histoire passionnante de la création de notre planète. Tous réfléchissent à des solutions.    "
+                },
+                "9": {
+                    "title": "Les écosystèmes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "19 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    La nature repose sur un subtil équilibre, difficile à créer artificiellement. Or, sur notre planète, des déséquilibres se précisent. L'exemple de l'île de Pâques nous le rappelle, il ne faut jamais utiliser plus que ce que la terre ne peut produire.    "
+                },
+                "10": {
+                    "title": "L'eau précieuse dans le monde",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "20 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Mexico en manque d'eau, la mer d'Aral asséchée, et enfin la Chine, qui compte s'affranchir de ses besoins en eau avec la construction du barrage des Trois Gorges. Dans quelques petites décennies, deux à trois milliards de gens vont manquer d'eau.    "
+                },
+                "11": {
+                    "title": "La pauvreté dans le monde",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "22 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Aujourd'hui, 20 % des habitants de la planète consomment 80 % de ses produits. Nous allons au Mexique, puis en Afrique pour constater qu'il faut absolument que les hommes soient solidaires, que les pays riches aident les plus pauvres, plutôt que de se barricader en vain.    "
+                },
+                "12": {
+                    "title": "Forêts du monde",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "23 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Une partie de notre petite troupe se rend en Indonésie, à Bornéo, dans un village Dayak au coeur d'une épaisse forêt. Les autres sont dans la forêt du Congo, dans un village de pygmées Bakas. On coupe, on massacre sans mesure.    "
+                },
+                "13": {
+                    "title": "La pêche abusive",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "original air date": "26 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Les baleines étaient au nombre de 300 000 voici un petit siècle, et se comptent aujourd'hui par unités. Mais il n'y a pas que les baleines : 130 millions de tonnes de poissons sont pêchées chaque année. Ne serait-il pas élémentaire de limiter la pêche à ce que peut produire la mer ?    "
+                },
+                "14": {
+                    "title": "Climat: origines",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "original air date": "27 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Le climat dépend des courants marins autour des continents qui bougent, des mouvements de la Terre autour du Soleil - Ces éléments sont naturels. Le changement climatique d'aujourd'hui est créé par l'activité humaine, élément artificiel sur lequel nous pouvons agir.    "
+                },
+                "15": {
+                    "title": "L'agriculture",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "original air date": "29 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    De par le monde, l'agriculture consomme 70 % de l'eau potable . Pourtant, l'image satellite nous permet de mieux maîtriser l'irrigation, de réduire les atteintes à la terre. Mieux encore, l'agriculture naturelle et durable, voilà le genre d'agriculture dont tout le monde a besoin.    "
+                },
+                "16": {
+                    "title": "La biodiversité",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "original air date": "30 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "17": {
+                    "title": "Climat, les solutions",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "original air date": "2 Feb. 2009",
+                    "year": "2009",
+                    "plot": "\n    Avec le réchauffement du climat, le passage vers le Pacifique à travers les labyrinthes glacés du Nord est maintenant libre . Les cinq pays riverains s'en disputent la propriété, alors que nous devons nous concentrer sur l'essentiel : réduire de moitié la consommation d'énergie d'origine fossile.    "
+                },
+                "18": {
+                    "title": "Le recyclage",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "original air date": "3 Feb. 2009",
+                    "year": "2009",
+                    "plot": "\n    Aux Philippines et en Inde, les montagnes de déchets sont une source de revenus pour d'innombrables pauvres gens, qui manient souvent des matières toxiques. Pour enrayer l'augmentation des déchets dans le monde, les fabricants doivent les réduire à la source, et les consommateurs apprendre à recycler.    "
+                },
+                "19": {
+                    "title": "Les femmes dans le monde",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "original air date": "5 Feb. 2009",
+                    "year": "2009",
+                    "plot": "\n    Les femmes produisent l'essentiel des aliments des pays en développement, mais n'ont que peu de revenus et encore moins de droits. Nous irons au Burkina en Afrique, en Inde et en Chine.    "
+                },
+                "20": {
+                    "title": "Enfants au travail, enfants soldats",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "original air date": "6 Feb. 2009",
+                    "year": "2009",
+                    "plot": "\n    En Asie, Afrique, Amérique latine, bien des enfants sont forcés à travailler, parfois depuis l'âge de 4-5 ans. Mais l'exploitation des enfants c'est aussi les enfants soldats, près de 300 000 dans le monde . Nous allons enquêter au Congo.    "
+                },
+                "21": {
+                    "title": "Energies: des solutions",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "original air date": "2009",
+                    "year": "2009",
+                    "plot": "\n    L'énergie fossile va venir à manquer. Comment la remplacer : biomasse, recyclage et incinérations des déchets, géothermie, biocarburants - L'énergie du vent, de l'eau, du soleil. Et l'hydrogène, carburant de l'avenir, dit-on, même si bien des problèmes restent à résoudre.    "
+                },
+                "22": {
+                    "title": "La maison et la ville",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "original air date": "2009",
+                    "year": "2009",
+                    "plot": "\n    Imaginer la meilleure ville pour l'avenir n'est pas chose facile. Nous allons à Curitiba au Brésil, et à Bedzeg, non loin de Londres et évoquons la cité modèle chinoise de Dongtan.    "
+                },
+                "23": {
+                    "title": "Climat: les effets",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 23,
+                    "original air date": "2009",
+                    "year": "2009",
+                    "plot": "\n    Nous produisons deux fois plus de CO2 que notre planète ne peut en absorber. Comment lutter contre le réchauffement climatique ? Refroidir la Terre, enfouir le CO2 sous terre, mais aussi réduire la consommation dans l'habitat, l'industrie et les transports.    "
+                },
+                "24": {
+                    "title": "Santé, éducation",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 24,
+                    "original air date": "2009",
+                    "year": "2009",
+                    "plot": "\n    Nous sommes en Casamance, dans un centre d'accueil. Nos jeunes héros aident Sira, une petite fille de 12 ans, à se rendre à Dakar pour une opération cardiaque. De retour au village de Sira, ils proposent, non sans mal, de reconstruire et réhabiliter l'école.    "
+                },
+                "25": {
+                    "title": "Technologies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 25,
+                    "original air date": "2009",
+                    "year": "2009",
+                    "plot": "\n    Depuis l'aube de l'humanité, les progrès techniques n'ont jamais cessé. Aujourd'hui, le but premier de la technologie doit être de préserver notre belle planète bleue, sa vie, sa diversité. Pour nos enfants - et les enfants de nos enfants.    "
+                },
+                "26": {
+                    "title": "Et demain?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Il était une fois... notre terre (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 26,
+                    "original air date": "2009",
+                    "year": "2009",
+                    "plot": "\n    Maestro emmène nos héros voyager dans le futur : modules photovoltaïques et hôtels de l'espace, Station Spatiale Internationale, puis la Lune et Mars. Sur Terre, réserves naturelles, rivières propres, utilisation de l'hydrogène-carburant.    "
+                }
+            }
+        },
+        "number of episodes": 26,
+        "cast": [
+            {
+                "name": "Carel, Roger"
+            },
+            {
+                "name": "Levesque, Hélène"
+            },
+            {
+                "name": "Beneston, Marie-Laure"
+            },
+            {
+                "name": "Lecordier, Brigitte"
+            },
+            {
+                "name": "Destrez, Olivier"
+            },
+            {
+                "name": "Fagnon, Xavier"
+            },
+            {
+                "name": "Kazazian, Thierry"
+            },
+            {
+                "name": "Marot, Tony"
+            },
+            {
+                "name": "Roche, Philippa"
+            },
+            {
+                "name": "Seclin, Marc"
+            }
+        ],
+        "genres": [
+            "Animation"
+        ],
+        "runtimes": [
+            "26"
+        ],
+        "countries": [
+            "France"
+        ],
+        "country codes": [
+            "fr"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Germany:0"
+        ],
+        "number of seasons": 1,
+        "rating": 7.1,
+        "votes": 88,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTYzNzk5MjY0M15BMl5BanBnXkFtZTcwNjg1OTIxMw@@._V1_SY150_CR24,0,101,150_.jpg",
+        "languages": [
+            "French"
+        ],
+        "title": "Il était une fois... notre terre",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Barillé, Albert"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Procidis"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Gulli"
+            },
+            {
+                "name": "Studio Hamburg Enterprises"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "26 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 88,
+                "rating": 7.1
+            },
+            "aged 18 29": {
+                "votes": 23,
+                "rating": 6.9
+            },
+            "aged 30 44": {
+                "votes": 51,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 6,
+                "rating": 5.8
+            },
+            "males": {
+                "votes": 66,
+                "rating": 6.9
+            },
+            "males aged 18 29": {
+                "votes": 16,
+                "rating": 7.0
+            },
+            "males aged 30 44": {
+                "votes": 41,
+                "rating": 6.9
+            },
+            "males aged 45 plus": {
+                "votes": 6,
+                "rating": 5.8
+            },
+            "females": {
+                "votes": 16,
+                "rating": 7.2
+            },
+            "females aged 18 29": {
+                "votes": 7,
+                "rating": 7.0
+            },
+            "females aged 30 44": {
+                "votes": 9,
+                "rating": 7.4
+            },
+            "top 1000 voters": {
+                "votes": 9,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 3,
+                "rating": 5.0
+            },
+            "non us users": {
+                "votes": 71,
+                "rating": 7.0
+            }
+        },
+        "number of votes": {
+            "10": 13,
+            "9": 6,
+            "8": 19,
+            "7": 22,
+            "6": 9,
+            "5": 9,
+            "4": 7,
+            "3": 2,
+            "2": 0,
+            "1": 1
+        },
+        "arithmetic mean": 7.1,
+        "median": 7
+    }
+}

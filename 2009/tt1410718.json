@@ -1,0 +1,391 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "25 June 2009"
+            },
+            {
+                "country": "USA\n",
+                "date": "26 July 2009"
+            }
+        ],
+        "release dates": [
+            "USA::25 June 2009",
+            "USA::26 July 2009"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Lock 'N Load with R. Lee Ermey"
+            },
+            {
+                "countries": "Australia (DVD title)",
+                "title": "Lock N' Load with R. Lee Ermey"
+            },
+            {
+                "countries": "Germany",
+                "title": "Waffentechnik"
+            }
+        ],
+        "akas": [
+            "Lock 'N Load with R. Lee Ermey (original title)",
+            "Lock N' Load with R. Lee Ermey Australia (DVD title)",
+            "Waffentechnik Germany"
+        ],
+        "akas from release info": [
+            "Lock 'N Load with R. Lee Ermey (original title)",
+            "Lock N' Load with R. Lee Ermey Australia (DVD title)",
+            "Waffentechnik Germany"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Artillery",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lock 'N Load with R. Lee Ermey (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 21,
+                    "original air date": "26 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Vietnam War veteran and actor R. Lee Ermey \"The Gunny\" shows us the dynamics of field artillery. He covers how artillery evolved throughout the years from the Three Pound Gun of the American Revolutionary War, to a new prototype computer-controlled cannon that can simultaneously fire multiple shells at targets up to 25 miles away. Lee Ermey gets to exercise his trigger finger by demonstrating how each one works. Prepare to lock 'n' load!    "
+                },
+                "2": {
+                    "title": "Machine Guns",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lock 'N Load with R. Lee Ermey (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 21,
+                    "original air date": "31 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    In this episode of \"Lock N' Load with R Lee Ermey\" the gunny examines one of the deadliest weapons on the modern battlefield; the machine gun. He shows us the rapid fire destruction the machine gun has unleashed throughout history, starting with the hand-cranked Gatling Gun, to the rapid-fire, electrically powered Minigun. Prepare to lock 'n' load!    "
+                },
+                "3": {
+                    "title": "Tanks",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lock 'N Load with R. Lee Ermey (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 18,
+                    "original air date": "7 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gunny enthusiastically follows the development of American tanks and tank destroyers from the World War I design donated by France to the M1 Abrahms in service today. Of course he provides his own special spin (and language) as he demonstrates the maneuverability and firepower of each model.    "
+                },
+                "4": {
+                    "title": "Pistols",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lock 'N Load with R. Lee Ermey (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 19,
+                    "original air date": "14 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gunny gets up close and personal because in this episode he follows the development of the pistol starting with the muzzle loaders in 1500. And for some of these guns, like the duck foot pistol, you've got to get in close because the range in only 10 feet and Gunny's not that great a shot anyway.    "
+                },
+                "5": {
+                    "title": "Helicopters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lock 'N Load with R. Lee Ermey (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 19,
+                    "original air date": "21 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gunny climbs on board one of the premier aerial weapons platforms and takes a ride through history on the Helicopter - from its early days in Vietnam as an unarmed troop transport to its modern status as a high tech dealer of destruction.    "
+                },
+                "6": {
+                    "title": "Armored Vehicles",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lock 'N Load with R. Lee Ermey (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 16,
+                    "original air date": "28 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gunny spends a lot of time riding shotgun, or rather machine gun, in armored cars and fighting vehicles built between World War Two and today at the expense of a car or two. He also does some off roading in a German half track, an M-901, a Bradley and even a brand new MRAP and Stryker.    "
+                },
+                "7": {
+                    "title": "Shotguns",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lock 'N Load with R. Lee Ermey (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 17,
+                    "original air date": "18 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    Starting with the blunderbuss Gunny tries out the great shotguns throughout history that are perfect for his favorite sport; hunting. Of course he also takes the opportunity to hop on a stagecoach and ride shotgun.    "
+                },
+                "8": {
+                    "title": "Rockets",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lock 'N Load with R. Lee Ermey (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 13,
+                    "original air date": "25 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    Hitting a target with a rocket is tough as Gunny finds out trying to hit a target with a replica of an ancient Chinese rocket. He has better luck and more fun with a Korean hwacha then finally gets his accuracy down with a Swedish AT4. But it's the MLRS that really gets him excited.    "
+                },
+                "9": {
+                    "title": "Blades",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lock 'N Load with R. Lee Ermey (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 15,
+                    "original air date": "2 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    Pointy sticks ruled the battlefield for centuries before the invention of firearms. Gunny provides a crash course on the different types of blade weapons: arrows, spears and swords.    "
+                },
+                "10": {
+                    "title": "Ammo",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lock 'N Load with R. Lee Ermey (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 15,
+                    "original air date": "9 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    If you're still talking about bullets, pay attention and Gunny will get you primed right. He provides a history lesson in the development of the modern round of ammunition with extensive demonstrations.    "
+                },
+                "11": {
+                    "title": "Rifle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lock 'N Load with R. Lee Ermey (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 15,
+                    "original air date": "23 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gunny tries out the rifles of various eras that faced each other in battle to discover the advantages and disadvantages of each. With each pair Gunny explains the improvements that made the new rifles superior to previous weapons.    "
+                },
+                "12": {
+                    "title": "MG2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lock 'N Load with R. Lee Ermey (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 7,
+                    "original air date": "6 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    With so many machine guns in service Gunny can't resist getting his hands on some more of them. He tries out no less than a dozen form the very first true machine gun, the \"potato digger\", up to the current models. That means shooting a lot of rounds to kill a bunch of cinder block walls, piles of watermelons, potatoes, food cans and balloons and an aerial drone or three.    "
+                },
+                "13": {
+                    "title": "Bunker Busters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Lock 'N Load with R. Lee Ermey (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 9,
+                    "original air date": "13 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    Host \"Gunny\" R. Lee Ermey shows us how bunker busting siege weapons evolved throughout history. Gunny gets to demonstrate how various examples of the bunker busting weapons work.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Ermey, R. Lee"
+            },
+            {
+                "name": "De Longis, Anthony"
+            },
+            {
+                "name": "Archer, Gary"
+            },
+            {
+                "name": "Baker, David Lain"
+            },
+            {
+                "name": "Bronner, Fritz"
+            },
+            {
+                "name": "Goodwin, Robert G."
+            },
+            {
+                "name": "Rosales, Ines"
+            }
+        ],
+        "genres": [
+            "Documentary",
+            "History",
+            "War"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Australia:PG"
+        ],
+        "number of seasons": 1,
+        "rating": 8.5,
+        "votes": 434,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTc2MjU0MjE4OV5BMl5BanBnXkFtZTcwNTI2NDc5Mg@@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Lock 'N Load with R. Lee Ermey",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-",
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Beyond Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "History Channel"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Action Unlimited"
+            }
+        ],
+        "plot": [
+            "Sergeant R. Lee Ermey tells of the historical value and origin of the worlds most prevelant guns and other military weaponry!"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (USA)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 434,
+                "rating": 8.5
+            },
+            "aged 18 29": {
+                "votes": 78,
+                "rating": 8.7
+            },
+            "aged 30 44": {
+                "votes": 197,
+                "rating": 8.4
+            },
+            "aged 45 plus": {
+                "votes": 91,
+                "rating": 8.5
+            },
+            "males": {
+                "votes": 363,
+                "rating": 8.5
+            },
+            "males aged 18 29": {
+                "votes": 74,
+                "rating": 8.7
+            },
+            "males aged 30 44": {
+                "votes": 192,
+                "rating": 8.4
+            },
+            "males aged 45 plus": {
+                "votes": 85,
+                "rating": 8.5
+            },
+            "females": {
+                "votes": 15,
+                "rating": 7.6
+            },
+            "females aged 18 29": {
+                "votes": 2,
+                "rating": 7.5
+            },
+            "females aged 30 44": {
+                "votes": 4,
+                "rating": 8.0
+            },
+            "females aged 45 plus": {
+                "votes": 5,
+                "rating": 7.5
+            },
+            "top 1000 voters": {
+                "votes": 13,
+                "rating": 6.9
+            },
+            "us users": {
+                "votes": 184,
+                "rating": 8.4
+            },
+            "non us users": {
+                "votes": 144,
+                "rating": 8.5
+            }
+        },
+        "number of votes": {
+            "10": 178,
+            "9": 99,
+            "8": 70,
+            "7": 38,
+            "6": 19,
+            "5": 10,
+            "4": 7,
+            "3": 1,
+            "2": 4,
+            "1": 8
+        },
+        "arithmetic mean": 8.5,
+        "median": 9
+    }
+}

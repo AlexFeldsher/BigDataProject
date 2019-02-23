@@ -1,0 +1,514 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "6 December 2009"
+            },
+            {
+                "country": "USA\n",
+                "date": "6 December 2009"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "10 March 2010",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "10 March 2010",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "2 July 2010",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "UK\n",
+                "date": "27 January 2011"
+            },
+            {
+                "country": "France\n",
+                "date": "13 April 2011"
+            }
+        ],
+        "release dates": [
+            "Canada::6 December 2009",
+            "USA::6 December 2009",
+            "Belgium::10 March 2010                            (limited)",
+            "Netherlands::10 March 2010                            (limited)",
+            "Japan::2 July 2010                            (DVD premiere)",
+            "UK::27 January 2011",
+            "France::13 April 2011"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Alice"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Alice e o Novo País das Maravilhas"
+            },
+            {
+                "countries": "France",
+                "title": "Alice au pays des merveilles"
+            },
+            {
+                "countries": "Russia",
+                "title": "Алиса в стране чудес"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Alisa"
+            },
+            {
+                "countries": "Spain",
+                "title": "Alice"
+            },
+            {
+                "countries": "USA",
+                "title": "Alice"
+            }
+        ],
+        "akas": [
+            "Alice (original title)",
+            "Alice e o Novo País das Maravilhas Brazil",
+            "Alice au pays des merveilles France",
+            "Алиса в стране чудес Russia",
+            "Alisa Serbia",
+            "Alice Spain",
+            "Alice USA"
+        ],
+        "akas from release info": [
+            "Alice (original title)",
+            "Alice e o Novo País das Maravilhas Brazil",
+            "Alice au pays des merveilles France",
+            "Алиса в стране чудес Russia",
+            "Alisa Serbia",
+            "Alice Spain",
+            "Alice USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Alice (TV Mini-Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 149,
+                    "original air date": "6 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    Alice asks her boyfriend, Jack, to meet her mother. While there, he gives her a ring, which she turns down. After he leaves, she follows him, only to witness his abduction. She then chases after his captors, and falls through the looking glass into a brand new Wonderland. She is at various times chased, imprisoned, trapped and double crossed while meeting many colorful characters such as The Mad Hatter, The White Rabbit, The Queen of Hearts and many more. Along the way, she learns that things in Wonderland are not all as they seem, and her family may not be either.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Alice (TV Mini-Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 136,
+                    "original air date": "7 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    Hatter and the White Knight break Alice out of the casino and make arrangements to meet The Caterpillar. The Caterpillar then takes her to meet her father, and she tries to convince him to return to their world. Meanwhile, the revolution starts, with Hatter and the White Knight leading the charge to dethrone the Queen of Hearts and return the oysters to their world.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Scorsone, Caterina"
+            },
+            {
+                "name": "Potts, Andrew Lee"
+            },
+            {
+                "name": "Frewer, Matt"
+            },
+            {
+                "name": "Bates, Kathy"
+            },
+            {
+                "name": "Winchester, Philip"
+            },
+            {
+                "name": "Meaney, Colm"
+            },
+            {
+                "name": "Curry, Tim"
+            },
+            {
+                "name": "Stanton, Harry Dean"
+            },
+            {
+                "name": "Webber, Timothy"
+            },
+            {
+                "name": "Santiago, Zak"
+            },
+            {
+                "name": "Sullivan, Charlotte"
+            },
+            {
+                "name": "Gray, Alan"
+            },
+            {
+                "name": "Lipinski, Eugene"
+            },
+            {
+                "name": "Robertson, Nancy"
+            },
+            {
+                "name": "Heaton, Tom"
+            },
+            {
+                "name": "Barrett, Eileen"
+            },
+            {
+                "name": "Diakun, Alex"
+            },
+            {
+                "name": "Ward, Dave 'Squatch'"
+            },
+            {
+                "name": "Juliani, Alessandro"
+            },
+            {
+                "name": "Rothery, Teryl"
+            },
+            {
+                "name": "Redknap, Geoff"
+            },
+            {
+                "name": "Johnson, Brock"
+            },
+            {
+                "name": "Bundic, Janette"
+            },
+            {
+                "name": "Loewen, Jocelyne"
+            },
+            {
+                "name": "Henderson, Fred"
+            },
+            {
+                "name": "Carella, Nicholas"
+            },
+            {
+                "name": "Brown, Bethany"
+            },
+            {
+                "name": "Alexander, Reese"
+            },
+            {
+                "name": "Alcantar, Tony"
+            },
+            {
+                "name": "Fleming, Carrie Anne"
+            },
+            {
+                "name": "Deorksen, Kayla"
+            },
+            {
+                "name": "Cupo, Carmelina"
+            },
+            {
+                "name": "Moore, Lindsay"
+            },
+            {
+                "name": "Dib, Daniela"
+            },
+            {
+                "name": "Hrdlitschka, Cara"
+            },
+            {
+                "name": "Burke, Jovanna"
+            },
+            {
+                "name": "Bang, Diana"
+            },
+            {
+                "name": "Raymond, Jeremy"
+            },
+            {
+                "name": "Madson, Shaw"
+            },
+            {
+                "name": "Grain, Aaron"
+            },
+            {
+                "name": "Mark, D. Neil"
+            },
+            {
+                "name": "Ohtsji, Kevan"
+            },
+            {
+                "name": "McGowan, Joel"
+            },
+            {
+                "name": "Stott-Roy, Danielle"
+            },
+            {
+                "name": "Richards, Glenn"
+            },
+            {
+                "name": "Dolynski, Darren"
+            },
+            {
+                "name": "Calis, Natasha"
+            },
+            {
+                "name": "Neale, David"
+            },
+            {
+                "name": "Schombing, Jason"
+            },
+            {
+                "name": "Vroom, Fiona"
+            }
+        ],
+        "locations": [
+            "Aldergrove, British Columbia, Canada",
+            "Kamloops, British Columbia, Canada",
+            "Vancouver, British Columbia, Canada"
+        ],
+        "genres": [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "runtimes": [
+            "184"
+        ],
+        "countries": [
+            "United Kingdom",
+            "Canada"
+        ],
+        "country codes": [
+            "gb",
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Australia:M",
+            "Singapore:PG",
+            "South Korea:All::(cable rating)",
+            "United Kingdom:12",
+            "United States:Not Rated"
+        ],
+        "original air date": "06 Dec 2009 (USA)",
+        "number of seasons": 1,
+        "rating": 7.3,
+        "votes": 8825,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMDAzYjc5NmEtZDdlNi00NTVhLTk3MGQtNDUwMTRkMTg4MjYzXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Alice",
+        "year": 2009,
+        "kind": "tv mini series",
+        "series years": "2009-2009",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Willing, Nick"
+            }
+        ],
+        "director": [
+            {
+                "name": "Willing, Nick"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Reunion Pictures"
+            },
+            {
+                "name": "Alice Productions"
+            },
+            {
+                "name": "Studio Eight Productions"
+            },
+            {
+                "name": "RHI Entertainment"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "RHI Entertainment"
+            },
+            {
+                "name": "Syfy"
+            },
+            {
+                "name": "Moviemax Family"
+            },
+            {
+                "name": "Polyband"
+            },
+            {
+                "name": "Syfy Universal"
+            },
+            {
+                "name": "Syfy Universal"
+            },
+            {
+                "name": "Thunderbird Entertainment"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Anthem Visual Effects"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aion Art Gallery"
+            },
+            {
+                "name": "Clairmont Camera Film & Digital"
+            },
+            {
+                "name": "Varèse Sarabande"
+            }
+        ],
+        "plot": [
+            "Everything you know about _Alice_ (qv)'s adventures in Wonderland is about to be turned upside down in this modern-day miniseries event. Cast includes Kathy Bates, Caterina Scorsone, Matt Frewer, Harry Dean Stanton, and Tim Curry."
+        ],
+        "tech": {
+            "runtime": [
+                "3 hr 4 min (184 min)",
+                "4 hr (240 min) (including commercials) (USA)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Sony CineAlta F35, Cooke S4 and Angenieux Optimo Lenses"
+            ],
+            "negative format": [
+                "Video (HD)"
+            ],
+            "cinematographic process": [
+                "HDCAM SR (1080p/24)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 8825,
+                "rating": 7.3
+            },
+            "aged under 18": {
+                "votes": 6,
+                "rating": 8.1
+            },
+            "aged 18 29": {
+                "votes": 2434,
+                "rating": 7.8
+            },
+            "aged 30 44": {
+                "votes": 3887,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 1122,
+                "rating": 6.9
+            },
+            "males": {
+                "votes": 3325,
+                "rating": 6.7
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 18 29": {
+                "votes": 638,
+                "rating": 7.0
+            },
+            "males aged 30 44": {
+                "votes": 1865,
+                "rating": 6.6
+            },
+            "males aged 45 plus": {
+                "votes": 732,
+                "rating": 6.6
+            },
+            "females": {
+                "votes": 4271,
+                "rating": 8.0
+            },
+            "females aged under 18": {
+                "votes": 5,
+                "rating": 7.5
+            },
+            "females aged 18 29": {
+                "votes": 1771,
+                "rating": 8.2
+            },
+            "females aged 30 44": {
+                "votes": 1977,
+                "rating": 7.9
+            },
+            "females aged 45 plus": {
+                "votes": 376,
+                "rating": 7.6
+            },
+            "top 1000 voters": {
+                "votes": 136,
+                "rating": 6.1
+            },
+            "us users": {
+                "votes": 3133,
+                "rating": 7.5
+            },
+            "non us users": {
+                "votes": 3183,
+                "rating": 7.0
+            }
+        },
+        "number of votes": {
+            "10": 1969,
+            "9": 1175,
+            "8": 1848,
+            "7": 1763,
+            "6": 918,
+            "5": 511,
+            "4": 210,
+            "3": 140,
+            "2": 95,
+            "1": 196
+        },
+        "arithmetic mean": 7.6,
+        "median": 8
+    }
+}

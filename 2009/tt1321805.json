@@ -1,0 +1,778 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "7 July 2009"
+            },
+            {
+                "country": "USA\n",
+                "date": "7 July 2009"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "  2010"
+            },
+            {
+                "country": "Italy\n",
+                "date": "16 January 2010"
+            },
+            {
+                "country": "Australia\n",
+                "date": "2 May 2010"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "9 July 2010"
+            },
+            {
+                "country": "Japan\n",
+                "date": "3 October 2010"
+            }
+        ],
+        "release dates": [
+            "UK::7 July 2009",
+            "USA::7 July 2009",
+            "Hungary::2010",
+            "Italy::16 January 2010",
+            "Australia::2 May 2010",
+            "Hungary::9 July 2010",
+            "Japan::3 October 2010"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "10 Things I Hate About You"
+            },
+            {
+                "countries": "Brazil",
+                "title": "10 Coisas que Eu Odeio em Você"
+            },
+            {
+                "countries": "Germany",
+                "title": "10 Dinge, die ich an dir hasse"
+            },
+            {
+                "countries": "Hungary",
+                "title": "10 dolog, amit utálok benned"
+            },
+            {
+                "countries": "Italy",
+                "title": "10 cose che odio di te"
+            },
+            {
+                "countries": "Poland",
+                "title": "Zakochana zlosnica"
+            },
+            {
+                "countries": "Romania",
+                "title": "Zece lucruri nu-mi plac la tine"
+            },
+            {
+                "countries": "Russia",
+                "title": "10 причин моей ненависти"
+            },
+            {
+                "countries": "Spain",
+                "title": "10 razones para odiarte"
+            }
+        ],
+        "akas": [
+            "10 Things I Hate About You (original title)",
+            "10 Coisas que Eu Odeio em Você Brazil",
+            "10 Dinge, die ich an dir hasse Germany",
+            "10 dolog, amit utálok benned Hungary",
+            "10 cose che odio di te Italy",
+            "Zakochana zlosnica Poland",
+            "Zece lucruri nu-mi plac la tine Romania",
+            "10 причин моей ненависти Russia",
+            "10 razones para odiarte Spain"
+        ],
+        "akas from release info": [
+            "10 Things I Hate About You (original title)",
+            "10 Coisas que Eu Odeio em Você Brazil",
+            "10 Dinge, die ich an dir hasse Germany",
+            "10 dolog, amit utálok benned Hungary",
+            "10 cose che odio di te Italy",
+            "Zakochana zlosnica Poland",
+            "Zece lucruri nu-mi plac la tine Romania",
+            "10 причин моей ненависти Russia",
+            "10 razones para odiarte Spain"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 103,
+                    "original air date": "7 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Conflict arises when two sisters, Kat and Bianca, start a new high school with two very different attitudes -- Kat, is an independent spirit and doesn't care what other people think, while Bianca is determined to climb the social ladder.    "
+                },
+                "2": {
+                    "title": "I Want You to Want Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 68,
+                    "original air date": "14 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Chastity gets jealous over Bianca's success while Cameron hopes that sending Bianca a carnation will finally make her notice him. Meanwhile, Kat deals with an unwanted admirer.    "
+                },
+                "3": {
+                    "title": "Won't Get Fooled Again",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 57,
+                    "original air date": "21 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Bianca overhears plans for a party and enlists Cameron to help her the address to up her social status. Kat finds out she and Patrick like the same band and he invites her to a concert. Both Stratford sisters sneak out of the house but neither of their nights turned as planned. Bianca and Cameron can't find the party and Kat has a romantic moment with Patrick ruined when Bianca needs rescuing.    "
+                },
+                "4": {
+                    "title": "Don't Give a Damn About My Bad Reputation",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 55,
+                    "original air date": "28 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    When Chastity spots Bianca and the math teacher together, the rumor quickly turns into that Bianca is having an affair with a teacher. Cameron is hurt when he hears the gossip and is dismayed to find out that Bianca thinks he's gay.    "
+                },
+                "5": {
+                    "title": "Don't Give Up",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 40,
+                    "original air date": "4 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    After realizing how hypocritical it is for her to drive a gas-guzzling car, Kat decides to convert her car to biodeisel fuel and enrolls in the autoshop class. The boys in the class bet on how quickly Kat will give up but she bets on herself. Chastity makes a deal with Bianca: if she helps Joey raise his chemistry grade so he can play football, Chastity will allow Bianca on the cheerleading squad. However, Bianca ends up encouraging Joey's modeling dreams instead, much to Chastity's annoyance. Meanwhile, Cameron tries to figure out how to get Bianca's attention.    "
+                },
+                "6": {
+                    "title": "You Can't Always Get What You Want",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 52,
+                    "original air date": "11 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    Bianca and her friend Dawn ask Cameron for help in setting up a web reality show to raise money so they can afford to hang out with Chastity. It doesn't take long before the girls realize that to get more viewers, they have to act sexy for the cameras. After Kat complains about her English teacher's easy grading, she succeeds in getting the grading policy changed. However, her new grade causes Kate to make tough realizations about herself. Patrick advises Cameron to show Bianca he is capable of protecting her so Cameron tries to keep a watchful eye on her reality show.    "
+                },
+                "7": {
+                    "title": "Light My Fire",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 54,
+                    "original air date": "18 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    There is a fire in the neighborhood and everyone is relocated to the school. Meanwhile, Kat and Bianca find themselves in some strange situations.    "
+                },
+                "8": {
+                    "title": "Dance Little Sister",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 52,
+                    "original air date": "25 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    Bianca is excited to be asked to the Fall Fling by Beau Bradley, the captain of the soccer team. Since she can't date until Kat does, she convinces Patrick to take Kat to the dance and to Kat's surprise, he agrees. Meanwhile, Cameron overhears Beau bragging about his plans to seduce Bianca and resolves to sabotage her date. Unfortunately for both of them, neither Stratford sister's date goes as planned. Bianca finds out about Cameron's sabotage while Patrick gets arrested at the school dance.    "
+                },
+                "9": {
+                    "title": "Fight for Your Right",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 51,
+                    "original air date": "1 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    When Walter goes out of town, Bianca convinces a reluctant Kat to throw a party to increase their social status. Patrick stops by and attempts to apologize but Kat refuses to listen to him. Angry, Patrick mocks Kat for being perfect. After he leaves, Kat decides to let loose to prove she's fun and puts Bianca in charge of the party, which becomes increasingly out of control. Cameron confesses his love for Bianca, but she gently rejects him. Bianca comforts Joey after he gets into a fight with Chastity and they two kiss, but quickly agree it was a mistake.    "
+                },
+                "10": {
+                    "title": "Don't Leave Me This Way",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 56,
+                    "original air date": "8 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    Kat stages a walkout after Padua High enforces a new security policy and school uniforms, while Cameron has a difficult time getting over Bianca.    "
+                },
+                "11": {
+                    "title": "Da Repercussions",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 45,
+                    "original air date": "29 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    The second season starts exactly where the first one left off... Kat and Patrick have just been suspended for skipping school and Bianca is in a critical situation with Chastity, the much feared head-cheerleader, because of her secret relationship with Joey, Chastity's ex-boyfriend. Things take a sudden turn when Chastity finds out about Joey and Bianca's relationship and Kat and Patrick are forced to return to Padua High in order to allow Kat to take a test...    "
+                },
+                "12": {
+                    "title": "Don't Trust Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 46,
+                    "original air date": "5 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Walter forces Kat to invite Patrick over for dinner to scare him off, but his plan backfires when Patrick pretends to be someone he's not. Bianca gets the cold shoulder from Chastity and her followers after discovering she and Joey are dating.    "
+                },
+                "13": {
+                    "title": "Great Expectations",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 44,
+                    "original air date": "12 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    On a night of official first dates, Bianca worries that Joey expects them to have a physical relationship. Meanwhile, Kat is unsure if she and Patrick are on a date until he offers to cover their dinner bill by having them run out on it.    "
+                },
+                "14": {
+                    "title": "Meat Is Murder",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 46,
+                    "original air date": "19 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Kat tries to convince the student government to pass a meatless lunch initiative, with some help from a new British student named Blank. Bianca sets Cameron up with one of their classmates in attempt to regain his friendship.    "
+                },
+                "15": {
+                    "title": "The Winner Takes It All",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 44,
+                    "original air date": "26 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    It's Padua High Talent Show time! Kat becomes part of Cameron's magician act in a fit of jealousy over Walter's adoration for Bianca's performance skills.    "
+                },
+                "16": {
+                    "title": "Too Much Information",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 41,
+                    "original air date": "5 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Patrick's dubious behavior causes Kat to follow him in hopes of finding some answers. Bianca stages an intervention for Joey when she suspects he has an eating disorder.    "
+                },
+                "17": {
+                    "title": "Just One Kiss",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 42,
+                    "original air date": "10 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Kat goes on a date with Blank after Patrick downplays their relationship. Bianca has second thoughts about inviting Cameron and Dawn to join her and Joey on a double date when she finds out they are going to a make-out movie.    "
+                },
+                "18": {
+                    "title": "Changes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 40,
+                    "original air date": "17 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Bianca hosts a dinner party where big annoucements are made, while Kat and Patrick contemplate the next step in their relationship.    "
+                },
+                "19": {
+                    "title": "Ain't No Mountain High Enough",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 48,
+                    "original air date": "24 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Kat tries to get a reaction out of Patrick when she agrees to study abroad in Nepal. Bianca has difficulty accepting Walter and Ms. Tharpe dating, and is lovesick that Joey is away.    "
+                },
+                "20": {
+                    "title": "Revolution",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 58,
+                    "original air date": "24 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Bianca quits the cheer squad after Chastity is overthrown as head cheerleader. Kat runs for class president when she find out Blank is running uncontested.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Da Recussions",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "10 Things I Hate About You (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 8,
+                    "original air date": "29 Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 21,
+        "cast": [
+            {
+                "name": "Shaw, Lindsey"
+            },
+            {
+                "name": "Martin, Meaghan"
+            },
+            {
+                "name": "Peck, Ethan"
+            },
+            {
+                "name": "Braun, Nicholas"
+            },
+            {
+                "name": "Davis, Dana"
+            },
+            {
+                "name": "Miller, Larry"
+            },
+            {
+                "name": "Zylka, Chris"
+            },
+            {
+                "name": "Maki, Ally"
+            },
+            {
+                "name": "Kaplan, Kyle"
+            },
+            {
+                "name": "Purdy, Jolene"
+            },
+            {
+                "name": "Gonino, Allie"
+            },
+            {
+                "name": "Nakamura, Suzy"
+            },
+            {
+                "name": "Grossman, Leslie"
+            },
+            {
+                "name": "Jr., Jack Salvatore"
+            },
+            {
+                "name": "Jackson, Ashley"
+            },
+            {
+                "name": "McMains, Cody"
+            },
+            {
+                "name": "Collins, Kathryn"
+            },
+            {
+                "name": "Stone, Benjamin"
+            },
+            {
+                "name": "Lee, Justin"
+            },
+            {
+                "name": "Swatek, Barret"
+            },
+            {
+                "name": "Greenberg, Camila"
+            },
+            {
+                "name": "de Silva, Angela"
+            },
+            {
+                "name": "Hines, Tiffany"
+            },
+            {
+                "name": "Ricketts, Chelsea"
+            },
+            {
+                "name": "Phillips, Jay"
+            },
+            {
+                "name": "Huff, Leslie-Anne"
+            },
+            {
+                "name": "Rodriguez, Alexander"
+            },
+            {
+                "name": "Jones, Dot-Marie"
+            },
+            {
+                "name": "Hayden, Mary Elise"
+            },
+            {
+                "name": "Young, Craig Robert"
+            },
+            {
+                "name": "McLendon-Covey, Wendi"
+            },
+            {
+                "name": "Crocker, Nadine"
+            },
+            {
+                "name": "Pilar, Tania"
+            },
+            {
+                "name": "Ruiz, Adel Marie"
+            },
+            {
+                "name": "Leatherberry, Kyle"
+            },
+            {
+                "name": "Shand, Christopher"
+            },
+            {
+                "name": "Headley, Shari"
+            },
+            {
+                "name": "Hunter, Rachel"
+            },
+            {
+                "name": "McCook, Molly"
+            },
+            {
+                "name": "Pinkston, Ryan"
+            },
+            {
+                "name": "Washington, Michael Benjamin"
+            },
+            {
+                "name": "Messier, Noelle"
+            },
+            {
+                "name": "O'Connor, Katie"
+            },
+            {
+                "name": "Elms, Kevin"
+            },
+            {
+                "name": "Santiago, Ray"
+            },
+            {
+                "name": "Wasilewski, Audrey"
+            },
+            {
+                "name": "Hill, Dave"
+            },
+            {
+                "name": "Roquemore, Xosha"
+            },
+            {
+                "name": "Sterling, Mindy"
+            },
+            {
+                "name": "Tandy, Meagan"
+            }
+        ],
+        "locations": [
+            "Los Angeles, California, USA"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 2,
+        "rating": 7.4,
+        "votes": 5305,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYWYzMTQ1NjMtNDlmNy00NGFiLWJhMzEtYjdjZDAyMjc0YjQ3XkEyXkFqcGdeQXVyNDEwMzM3MTk@._V1_SY150_CR6,0,101,150_.jpg",
+        "plot outline": "Kat and Bianca Stratford may be sisters, but all comparisons end there. Kat is an outspoken, independent feminist, while Bianca is a social butterfly who wants nothing more to be popular, even if it means bowing to the whims of people like the demanding, Chastity Church. The series highlights the Stratford sisters as they experience the highs and lows of high schools, deal with their overprotective father and find love. In Bianca's case this is her friend Cameron who has a huge crush on her, while Kat finds herself in an interesting relationship with school bad boy Patrick Verona.",
+        "languages": [
+            "English"
+        ],
+        "title": "10 Things I Hate About You",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-2010",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Covington, Carter"
+            },
+            {
+                "name": "McCullah, Karen"
+            },
+            {
+                "name": "Smith, Kirsten"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "ABC Family"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "Animax"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney-ABC Domestic Television"
+            },
+            {
+                "name": "Shout! Factory"
+            },
+            {
+                "name": "Viva"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Direct Tools & Fasteners"
+            },
+            {
+                "name": "Keep Me Posted"
+            },
+            {
+                "name": "Mosquito Productions"
+            },
+            {
+                "name": "Panavision"
+            },
+            {
+                "name": "Rockbottom Rentals"
+            },
+            {
+                "name": "Rockbottom Rentals"
+            },
+            {
+                "name": "Star Waggons"
+            }
+        ],
+        "plot": [
+            "Kat and Bianca Stratford may be sisters, but all comparisons end there. Kat is an outspoken, independent feminist, while Bianca is a social butterfly who wants nothing more to be popular, even if it means bowing to the whims of people like the demanding, Chastity Church. The series highlights the Stratford sisters as they experience the highs and lows of high schools, deal with their overprotective father and find love. In Bianca's case this is her friend Cameron who has a huge crush on her, while Kat finds herself in an interesting relationship with school bad boy Patrick Verona.::LadyN1"
+        ],
+        "tech": {
+            "runtime": [
+                "30 min (USA)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Panasonic Varicam AJ-HPX3700, Zeiss DigiPrime and DigiZoom Lenses"
+            ],
+            "negative format": [
+                "P2",
+                "Uncompressed Digital (4:4:4)"
+            ],
+            "cinematographic process": [
+                "AVC-Intra (1080p/24)",
+                "Uncompressed Digital (4:4:4)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 5305,
+                "rating": 7.4
+            },
+            "aged under 18": {
+                "votes": 3,
+                "rating": 8.3
+            },
+            "aged 18 29": {
+                "votes": 2404,
+                "rating": 7.7
+            },
+            "aged 30 44": {
+                "votes": 1918,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 280,
+                "rating": 7.2
+            },
+            "males": {
+                "votes": 1324,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 419,
+                "rating": 7.4
+            },
+            "males aged 30 44": {
+                "votes": 699,
+                "rating": 6.8
+            },
+            "males aged 45 plus": {
+                "votes": 177,
+                "rating": 7.0
+            },
+            "females": {
+                "votes": 3364,
+                "rating": 7.6
+            },
+            "females aged under 18": {
+                "votes": 3,
+                "rating": 8.3
+            },
+            "females aged 18 29": {
+                "votes": 1957,
+                "rating": 7.8
+            },
+            "females aged 30 44": {
+                "votes": 1202,
+                "rating": 7.4
+            },
+            "females aged 45 plus": {
+                "votes": 101,
+                "rating": 7.5
+            },
+            "top 1000 voters": {
+                "votes": 62,
+                "rating": 6.5
+            },
+            "us users": {
+                "votes": 1480,
+                "rating": 7.6
+            },
+            "non us users": {
+                "votes": 2535,
+                "rating": 7.3
+            }
+        },
+        "number of votes": {
+            "10": 1574,
+            "9": 594,
+            "8": 1001,
+            "7": 874,
+            "6": 505,
+            "5": 253,
+            "4": 129,
+            "3": 73,
+            "2": 84,
+            "1": 218
+        },
+        "arithmetic mean": 7.7,
+        "median": 8
+    }
+}

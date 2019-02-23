@@ -1,0 +1,996 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "21 June 2009"
+            },
+            {
+                "country": "Canada\n",
+                "date": "25 June 2009"
+            },
+            {
+                "country": "USA\n",
+                "date": "23 July 2009"
+            }
+        ],
+        "release dates": [
+            "USA::21 June 2009",
+            "Canada::25 June 2009",
+            "USA::23 July 2009"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Stoked"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Na Onda"
+            },
+            {
+                "countries": "France",
+                "title": "Stoked: Ça va surfer!"
+            },
+            {
+                "countries": "Norway",
+                "title": "Helt hekta"
+            },
+            {
+                "countries": "Poland",
+                "title": "Zafalowani"
+            },
+            {
+                "countries": "Russia",
+                "title": "На волне"
+            }
+        ],
+        "akas": [
+            "Stoked (original title)",
+            "Na Onda Brazil",
+            "Stoked: Ça va surfer! France",
+            "Helt hekta Norway",
+            "Zafalowani Poland",
+            "На волне Russia"
+        ],
+        "akas from release info": [
+            "Stoked (original title)",
+            "Na Onda Brazil",
+            "Stoked: Ça va surfer! France",
+            "Helt hekta Norway",
+            "Zafalowani Poland",
+            "На волне Russia"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "The Make-Out Fake-Out",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "16 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Surf Surf Revolution",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "original air date": "23 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "The Captain, The Grom, His Job and Her Dream",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "30 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Will the Real Broseph Please Stand Up",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "original air date": "7 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    Fin, Reef, and Broseph compete to see who will earn a \"Special Surf Adviser\" credit on a hot Hollywood film.    "
+                },
+                "5": {
+                    "title": "I Like Beaver Butts and I Cannot Lie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "original air date": "14 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Sick Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "original air date": "4 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Channel Surfers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "original air date": "18 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Grommy the Vampire Slayer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "original air date": "25 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "Grumpy Old Brahs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "original air date": "2 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "Hunka Hunka Burning Reef",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "original air date": "9 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "11": {
+                    "title": "Boardy Brotherhood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "original air date": "16 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "Safety Last",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "original air date": "30 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    Fearing lawsuits from injured guests, Bummer creates a hotel Safety Patrol and makes all the groms sign up. Emma pretends to be the hotel manager to impress an old frenemy but overpays for new hotel scooters.    "
+                },
+                "13": {
+                    "title": "Clinging in the Rain",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "original air date": "6 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "14": {
+                    "title": "My Fair Leslie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "original air date": "1 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Faced with being hooked up on a date with Snack Shack by her dad, Lo tries to make Reef into something he's not... a wealthy, educated, smooth rock saxophone player.    "
+                },
+                "15": {
+                    "title": "BroWatch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "original air date": "Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "16": {
+                    "title": "Bad Sports",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 16,
+                    "original air date": "29 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "17": {
+                    "title": "500 Days of Bummer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 17,
+                    "original air date": "Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "18": {
+                    "title": "The Reefinator",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 18,
+                    "original air date": "2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "19": {
+                    "title": "Dirty Little Secret, Nerdy Little Secret",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 19,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "20": {
+                    "title": "Sweet, Sweet Meat Cheat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 20,
+                    "original air date": "2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "21": {
+                    "title": "To Catch a Reef",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 21,
+                    "original air date": "2010",
+                    "year": "2010",
+                    "plot": "\n    A sneak thief is stalking Surfer's Paradise and Bummer orders Johnny and Broseph to hunt him down. But all signs point to Reef as the number one suspect.    "
+                },
+                "22": {
+                    "title": "Surfers Got Talent",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 22,
+                    "original air date": "2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "23": {
+                    "title": "Groms on Strike",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 23,
+                    "original air date": "5 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "24": {
+                    "title": "Heartbreak Hotel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 24,
+                    "original air date": "Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "25": {
+                    "title": "All We Are Saying Is Give Reef a Chance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 25,
+                    "original air date": "8 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Mr. Ridgemount bribes Lo to break up with Reef by giving her a car, but when Lo keeps the car, and Reef, she has to keep things on the down-low so daddy doesn't find out.    "
+                },
+                "26": {
+                    "title": "Gromfest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 26,
+                    "original air date": "26 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Welcome to Paradise, Dudes!!!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 9,
+                    "original air date": "21 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    The 'groms' are reporting to duty at Surfer's Paradise Resort.    "
+                },
+                "2": {
+                    "title": "Another Grom Bites the Dust",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 8,
+                    "original air date": "28 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    Lo has to deal with the aftermath of her insane party.    "
+                },
+                "3": {
+                    "title": "Board and Confused",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 6,
+                    "original air date": "5 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "The Very, Very, Very, Very, Very Important Guest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "12 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Take Your Kook to Work Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "19 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Waves of Cheese (or) the Cheese Festival",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "26 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Hang 9",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "2 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Fast Times When the Rip Tide's High",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "9 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "Reef and That Evil Totem",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "16 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "Charging Into the Night",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "23 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "11": {
+                    "title": "Strike Three",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "30 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "Groms Gone Wild!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "6 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    Johnny's management skills are put to the test when Bummer leaves for Toronto.    "
+                },
+                "13": {
+                    "title": "Penthouse of Horror",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "original air date": "15 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "14": {
+                    "title": "O Broseph, Where Art Thou?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "original air date": "30 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "15": {
+                    "title": "Chum Music",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "original air date": "25 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "16": {
+                    "title": "Boards of Glory",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "original air date": "11 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "17": {
+                    "title": "Mr. Wahine",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "original air date": "5 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    Reef is forced to dress like a girl as a punishment for a prank. He then joins the Wahine surf contest, under the name Sandy Beaches, against Fin. But things get weird when Bummer develops a crush on Sandy Beaches.    "
+                },
+                "18": {
+                    "title": "Grand Theft Whale Bus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "original air date": "14 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "19": {
+                    "title": "A Boy Named Leslie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "plot": "\n    Reefs mother shows up and shockingly finds out that she is dating a member of staff.    "
+                },
+                "20": {
+                    "title": "Who Knows What Evil Lurks in the Heart of Clam?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "original air date": "29 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "21": {
+                    "title": "Slumber Party Animals",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "original air date": "May 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "22": {
+                    "title": "Endless Bummer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "original air date": "6 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Bummer has a meltdown on the job and Reef, Broseph and Fin decide he needs to chill out Grom-style. But they regret their decision when Bummer goes Grom crazy and gets fired, leaving drill sergeant Mr. Ridgemount in charge. The Groms' only recourse: get Bummer his old job back.    "
+                },
+                "23": {
+                    "title": "BroFinger",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 23,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "24": {
+                    "title": "A Prank Too Far",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 24,
+                    "original air date": "27 May 2010",
+                    "year": "2010",
+                    "plot": "\n    The Groms go overboard with their pranks, causing Bummer to seek revenge.    "
+                },
+                "25": {
+                    "title": "The Pirate Who Came to Lunch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 25,
+                    "original air date": "Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "26": {
+                    "title": "The Day the Sea Stood Still",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stoked (TV Series 2009–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 26,
+                    "original air date": "3 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 52,
+        "cast": [
+            {
+                "name": "Crown, Katie"
+            },
+            {
+                "name": "Geddis, Jeff"
+            },
+            {
+                "name": "Fairlie, Kristin"
+            },
+            {
+                "name": "Phillips, Anastasia"
+            },
+            {
+                "name": "Elsadig, Mazin"
+            },
+            {
+                "name": "Pinnock, Arnold"
+            },
+            {
+                "name": "Spilchuk, Jamie"
+            },
+            {
+                "name": "Lipson, Lauren"
+            },
+            {
+                "name": "Reid, Fiona"
+            },
+            {
+                "name": "Watson, Jamie"
+            },
+            {
+                "name": "Barber, Taylor"
+            },
+            {
+                "name": "Barlow, Emilie-Claire"
+            },
+            {
+                "name": "DePass, Stacey"
+            },
+            {
+                "name": "Di Zio, Sergio"
+            },
+            {
+                "name": "Doran, Cory"
+            },
+            {
+                "name": "Frost, Darren"
+            },
+            {
+                "name": "Lake, Bill"
+            },
+            {
+                "name": "Marcus, Rachel"
+            },
+            {
+                "name": "McGurrin, Terry"
+            },
+            {
+                "name": "Munroe, Gage"
+            },
+            {
+                "name": "Pleskina, Bailey"
+            },
+            {
+                "name": "Savage, Tyrone"
+            },
+            {
+                "name": "Tellier, Cleo"
+            },
+            {
+                "name": "Hill, Dwayne"
+            },
+            {
+                "name": "Cornies, Graeme"
+            },
+            {
+                "name": "Juel, Leah"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States",
+            "Canada"
+        ],
+        "country codes": [
+            "us",
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Australia:G::(some episodes)",
+            "Australia:PG::(some episodes)",
+            "Norway:A",
+            "United States:TV-PG"
+        ],
+        "number of seasons": 2,
+        "rating": 5.8,
+        "votes": 1840,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BN2FhMWJjMzgtNGJiYS00ZjYzLTgwOWQtNWFhMjAwZGEzYzhiXkEyXkFqcGdeQXVyNjc3OTg1NzA@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Stoked",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-2013",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Pertsch, Jennifer"
+            },
+            {
+                "name": "McGillis, Tom"
+            },
+            {
+                "name": "Oleszkowicz, Scott"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Fresh TV"
+            },
+            {
+                "name": "Teletoon"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "NRK Super"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Duncan Morin Barristers & Solicitors"
+            }
+        ],
+        "plot": [
+            "_Stoked_ (qv) follows the lives of 6 teenage hotel employees who work at the Surfer's Paradise Ridgemount Resort.::Anon"
+        ],
+        "tech": {
+            "runtime": [
+                "30 min (Canada)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1840,
+                "rating": 5.8
+            },
+            "aged under 18": {
+                "votes": 149,
+                "rating": 7.3
+            },
+            "aged 18 29": {
+                "votes": 703,
+                "rating": 6.3
+            },
+            "aged 30 44": {
+                "votes": 524,
+                "rating": 4.6
+            },
+            "aged 45 plus": {
+                "votes": 186,
+                "rating": 5.4
+            },
+            "males": {
+                "votes": 960,
+                "rating": 5.4
+            },
+            "males aged under 18": {
+                "votes": 79,
+                "rating": 7.2
+            },
+            "males aged 18 29": {
+                "votes": 389,
+                "rating": 5.8
+            },
+            "males aged 30 44": {
+                "votes": 354,
+                "rating": 4.6
+            },
+            "males aged 45 plus": {
+                "votes": 106,
+                "rating": 5.0
+            },
+            "females": {
+                "votes": 646,
+                "rating": 6.3
+            },
+            "females aged under 18": {
+                "votes": 70,
+                "rating": 7.5
+            },
+            "females aged 18 29": {
+                "votes": 311,
+                "rating": 6.9
+            },
+            "females aged 30 44": {
+                "votes": 170,
+                "rating": 4.6
+            },
+            "females aged 45 plus": {
+                "votes": 79,
+                "rating": 6.0
+            },
+            "top 1000 voters": {
+                "votes": 22,
+                "rating": 6.2
+            },
+            "us users": {
+                "votes": 763,
+                "rating": 5.6
+            },
+            "non us users": {
+                "votes": 721,
+                "rating": 5.6
+            }
+        },
+        "number of votes": {
+            "10": 506,
+            "9": 167,
+            "8": 247,
+            "7": 191,
+            "6": 158,
+            "5": 89,
+            "4": 58,
+            "3": 46,
+            "2": 39,
+            "1": 339
+        },
+        "arithmetic mean": 6.6,
+        "median": 7
+    }
+}

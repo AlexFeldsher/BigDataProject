@@ -1,0 +1,555 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "20 December 2009"
+            },
+            {
+                "country": "Canada\n",
+                "date": "22 December 2009"
+            },
+            {
+                "country": "Italy\n",
+                "date": "28 January 2010"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "20 March 2010"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "20 April 2010",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "USA\n",
+                "date": "20 June 2010"
+            },
+            {
+                "country": "France\n",
+                "date": "1 October 2010"
+            },
+            {
+                "country": "Germany\n",
+                "date": "13 August 2011"
+            }
+        ],
+        "release dates": [
+            "Canada::20 December 2009",
+            "Canada::22 December 2009",
+            "Italy::28 January 2010",
+            "Hungary::20 March 2010",
+            "Netherlands::20 April 2010                            (DVD premiere)",
+            "USA::20 June 2010",
+            "France::1 October 2010",
+            "Germany::13 August 2011"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Phantom"
+            },
+            {
+                "countries": "Denmark",
+                "title": "Fantomet"
+            },
+            {
+                "countries": "France",
+                "title": "Phantom, le masque de l'ombre"
+            },
+            {
+                "countries": "Germany",
+                "title": "Das Phantom"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A Fantom"
+            },
+            {
+                "countries": "Portugal",
+                "title": "O Fantasma"
+            },
+            {
+                "countries": "Romania",
+                "title": "Fantoma"
+            },
+            {
+                "countries": "Russia",
+                "title": "Супергерой"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Fantom"
+            },
+            {
+                "countries": "Spain",
+                "title": "El hombre enmascarado"
+            },
+            {
+                "countries": "USA",
+                "title": "The Phantom"
+            }
+        ],
+        "akas": [
+            "The Phantom (original title)",
+            "Fantomet Denmark",
+            "Phantom, le masque de l'ombre France",
+            "Das Phantom Germany",
+            "A Fantom Hungary",
+            "O Fantasma Portugal",
+            "Fantoma Romania",
+            "Супергерой Russia",
+            "Fantom Serbia",
+            "El hombre enmascarado Spain",
+            "The Phantom USA"
+        ],
+        "akas from release info": [
+            "The Phantom (original title)",
+            "Fantomet Denmark",
+            "Phantom, le masque de l'ombre France",
+            "Das Phantom Germany",
+            "A Fantom Hungary",
+            "O Fantasma Portugal",
+            "Fantoma Romania",
+            "Супергерой Russia",
+            "Fantom Serbia",
+            "El hombre enmascarado Spain",
+            "The Phantom USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Phantom (TV Mini-Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 31,
+                    "original air date": "20 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    When a law student discovers that he was adopted and is actually the real son of the crime-fighting superhero, The Phantom, he abandons his education and travels to the jungle for expert combat training so that he may carry on his father's legacy.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Phantom (TV Mini-Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 24,
+                    "original air date": "20 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    Before Superman, Spiderman, and Batman, there was The Phantom, the original masked marvel, the greatest legend in the annals of 20th century comic-book crime fighting.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Carnes, Ryan"
+            },
+            {
+                "name": "Holt, Sandrine"
+            },
+            {
+                "name": "Goodman, Cameron"
+            },
+            {
+                "name": "Marchand, Jean"
+            },
+            {
+                "name": "Anvar, Cas"
+            },
+            {
+                "name": "Lea, Ron"
+            },
+            {
+                "name": "Turgeon-Trelles, Victor Andres"
+            },
+            {
+                "name": "Balde, Sedina"
+            },
+            {
+                "name": "Rossellini, Isabella"
+            },
+            {
+                "name": "Smith, Ivan"
+            },
+            {
+                "name": "Oliva, Luis"
+            },
+            {
+                "name": "Mackay, Danette"
+            },
+            {
+                "name": "Lemke, Anthony"
+            },
+            {
+                "name": "Tassielli, Julian"
+            },
+            {
+                "name": "Hayes, Trevor"
+            },
+            {
+                "name": "David, Ellen"
+            },
+            {
+                "name": "Goulem, Alain"
+            },
+            {
+                "name": "Demers, Stéphane"
+            },
+            {
+                "name": "Vrana, Vlasta"
+            },
+            {
+                "name": "Dubois, Al"
+            },
+            {
+                "name": "Johannes, Orla"
+            },
+            {
+                "name": "Finlay, Ian"
+            },
+            {
+                "name": "Raphael, Mark"
+            },
+            {
+                "name": "Crooks, Robert"
+            },
+            {
+                "name": "Bellemare, Isaac"
+            },
+            {
+                "name": "Lawrence, Cary"
+            },
+            {
+                "name": "Han, Zhenhu"
+            },
+            {
+                "name": "Wiseman, Valérie"
+            },
+            {
+                "name": "Brass, Lorne"
+            },
+            {
+                "name": "Costello, Patrick John"
+            },
+            {
+                "name": "McKenzie, Patricia"
+            },
+            {
+                "name": "Hixson, Paula Jean"
+            },
+            {
+                "name": "Bramble, Adam"
+            },
+            {
+                "name": "Simms, Andrew"
+            },
+            {
+                "name": "Stoica, Richard"
+            },
+            {
+                "name": "Landry, Sylvain"
+            },
+            {
+                "name": "Anderson, Don"
+            },
+            {
+                "name": "Shinkoda, Rick"
+            },
+            {
+                "name": "Kerner, Faith"
+            },
+            {
+                "name": "Cutler, Keir"
+            },
+            {
+                "name": "Brown, Gabriel"
+            },
+            {
+                "name": "Archambaudoin, Eloi"
+            },
+            {
+                "name": "Thomas, Craig"
+            },
+            {
+                "name": "Tresierra, Millie"
+            },
+            {
+                "name": "Davis, Éric"
+            },
+            {
+                "name": "DeFilippo, Vito"
+            },
+            {
+                "name": "Hall, Tyler"
+            },
+            {
+                "name": "Caselli, Jason"
+            },
+            {
+                "name": "Benét, Johann"
+            },
+            {
+                "name": "Kerton, Patrick"
+            }
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime",
+            "Fantasy"
+        ],
+        "runtimes": [
+            "170"
+        ],
+        "countries": [
+            "United States",
+            "Canada"
+        ],
+        "country codes": [
+            "us",
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Australia:MA15+",
+            "Germany:12",
+            "Netherlands:12",
+            "New Zealand:R13",
+            "Singapore:NC-16",
+            "United States:TV-14::(LV)"
+        ],
+        "original air date": "20 Jun 2010 (USA)",
+        "number of seasons": 1,
+        "rating": 5.8,
+        "votes": 1783,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BODEyOTEzMTk2NV5BMl5BanBnXkFtZTcwMjI4NDM3Mw@@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "Law student Chris Moore is an urban daredevil who gets his kicks from racing across rooftops. When a secret organization approaches him with proof that he is actually the son of a legendary international crimefighter called The Phantom, he is thrust into a world he never knew existed - a world of exotic islands, secret lairs and a heritage that borders on royalty. Reimagined and reloaded, the classic superhero is upgraded for the 21st century with a new, state-of-the-art costume and a newly formed rivalry against some of the most techno-savvy villains to ever terrorize the world! It's explosive action and nonstop adventure from start to finish as The Phantom comes to life.",
+        "languages": [
+            "English"
+        ],
+        "title": "The Phantom",
+        "year": 2009,
+        "kind": "tv mini series",
+        "series years": "2009-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Knauf, Charles H."
+            },
+            {
+                "name": "Knauf, Daniel"
+            }
+        ],
+        "director": [
+            {
+                "name": "Barzman, Paolo"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Muse Entertainment Enterprises"
+            },
+            {
+                "name": "RHI Entertainment"
+            },
+            {
+                "name": "Syfy"
+            },
+            {
+                "name": "Movie Central"
+            },
+            {
+                "name": "The Movie Network (TMN)"
+            },
+            {
+                "name": "Quebec Film and Television Tax Credit"
+            },
+            {
+                "name": "Canadian Film or Video Production Tax Credit (CPTC)"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "RHI Entertainment"
+            },
+            {
+                "name": "Movie Central"
+            },
+            {
+                "name": "The Movie Network (TMN)"
+            },
+            {
+                "name": "Bridge Entertainment Group"
+            },
+            {
+                "name": "IPA Asia Pacific"
+            },
+            {
+                "name": "IPA Asia Pacific"
+            },
+            {
+                "name": "Koba Films"
+            },
+            {
+                "name": "Koba Films"
+            },
+            {
+                "name": "Koch Media"
+            },
+            {
+                "name": "Koch Media"
+            },
+            {
+                "name": "Paramount Home Entertainment"
+            },
+            {
+                "name": "TV2"
+            },
+            {
+                "name": "Television New Zealand (TVNZ)"
+            },
+            {
+                "name": "Vivendi Entertainment"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Lumiere Visual Effects"
+            },
+            {
+                "name": "Oblique FX"
+            },
+            {
+                "name": "Productions de l'Intrigue, Les"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Premium Sound"
+            },
+            {
+                "name": "Pro-Film Animal Inc."
+            },
+            {
+                "name": "Visual Motion"
+            }
+        ],
+        "plot": [
+            "Law student Chris Moore is an urban daredevil who gets his kicks from racing across rooftops. When a secret organization approaches him with proof that he is actually the son of a legendary international crimefighter called _The Phantom_ (qv), he is thrust into a world he never knew existed - a world of exotic islands, secret lairs and a heritage that borders on royalty. Reimagined and reloaded, the classic superhero is upgraded for the 21st century with a new, state-of-the-art costume and a newly formed rivalry against some of the most techno-savvy villains to ever terrorize the world! It's explosive action and nonstop adventure from start to finish as _The Phantom_ (qv) comes to life."
+        ],
+        "synopsis": [
+            "A secret organization recruits a young daredevil (Ryan Carnes, 'The Phantom') to fight crime and injustice."
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr 50 min (170 min) (USA)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1783,
+                "rating": 5.8
+            },
+            "aged 18 29": {
+                "votes": 266,
+                "rating": 6.3
+            },
+            "aged 30 44": {
+                "votes": 794,
+                "rating": 5.8
+            },
+            "aged 45 plus": {
+                "votes": 507,
+                "rating": 5.7
+            },
+            "males": {
+                "votes": 1431,
+                "rating": 5.8
+            },
+            "males aged 18 29": {
+                "votes": 227,
+                "rating": 6.3
+            },
+            "males aged 30 44": {
+                "votes": 715,
+                "rating": 5.7
+            },
+            "males aged 45 plus": {
+                "votes": 455,
+                "rating": 5.6
+            },
+            "females": {
+                "votes": 156,
+                "rating": 6.9
+            },
+            "females aged 18 29": {
+                "votes": 39,
+                "rating": 6.7
+            },
+            "females aged 30 44": {
+                "votes": 66,
+                "rating": 6.8
+            },
+            "females aged 45 plus": {
+                "votes": 49,
+                "rating": 7.1
+            },
+            "top 1000 voters": {
+                "votes": 70,
+                "rating": 5.2
+            },
+            "us users": {
+                "votes": 376,
+                "rating": 6.1
+            },
+            "non us users": {
+                "votes": 1045,
+                "rating": 5.8
+            }
+        },
+        "number of votes": {
+            "10": 205,
+            "9": 99,
+            "8": 187,
+            "7": 310,
+            "6": 362,
+            "5": 207,
+            "4": 131,
+            "3": 87,
+            "2": 75,
+            "1": 120
+        },
+        "arithmetic mean": 6.1,
+        "median": 6
+    }
+}

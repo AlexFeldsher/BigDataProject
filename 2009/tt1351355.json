@@ -1,0 +1,901 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "  2009"
+            },
+            {
+                "country": "Australia\n",
+                "date": "12 April 2010"
+            },
+            {
+                "country": "Germany\n",
+                "date": "7 August 2010",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "22 August 2010"
+            },
+            {
+                "country": "Canada\n",
+                "date": "17 September 2010"
+            }
+        ],
+        "release dates": [
+            "Canada::2009",
+            "Australia::12 April 2010",
+            "Germany::7 August 2010                            (limited)",
+            "Germany::22 August 2010",
+            "Canada::17 September 2010"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Connor Undercover"
+            },
+            {
+                "countries": "Croatia",
+                "title": "Connor na tajnom zadatku"
+            },
+            {
+                "countries": "France",
+                "title": "Connor, agent très spécial"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Konor na tajnom zadatku"
+            },
+            {
+                "countries": "Turkey (Turkish title)",
+                "title": "Ajan Connor"
+            }
+        ],
+        "akas": [
+            "Connor Undercover (original title)",
+            "Connor na tajnom zadatku Croatia",
+            "Connor, agent très spécial France",
+            "Konor na tajnom zadatku Serbia",
+            "Ajan Connor Turkey (Turkish title)"
+        ],
+        "akas from release info": [
+            "Connor Undercover (original title)",
+            "Connor na tajnom zadatku Croatia",
+            "Connor, agent très spécial France",
+            "Konor na tajnom zadatku Serbia",
+            "Ajan Connor Turkey (Turkish title)"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "This Time it's Personal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "25 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Connor's bid for spy school is sidetracked by an old enemy. Gisela discovers Ed embarrassingly undercover at her school.    "
+                },
+                "2": {
+                    "title": "Fake Out",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "original air date": "2 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    Connor and Gisela prove they are masters of disguise. Lily tricks Ty into taking a cooking class with her.    "
+                },
+                "3": {
+                    "title": "Background Check",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "9 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    When Connor and Gisela look for dirt on rival Dillon, they turn up more than anybody expected. Tanya gets a surprise visit from the enemy.    "
+                },
+                "4": {
+                    "title": "Whack-a-Mole",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "original air date": "16 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    Connor searches for a mole in their midst. Lily pesters Gisela to take her on a ski trip.    "
+                },
+                "5": {
+                    "title": "Hard Candy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "original air date": "23 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    An enemy agent's device sets off a battle of wits between Connor and Gisela. Ty attempts to go a whole day without candy.    "
+                },
+                "6": {
+                    "title": "Secrets and Lies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "original air date": "30 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    Connor thinks Gisela's new love interest, Andre, is hiding something. Ty struggles to survive the gym 'dance unit' with Lily as his partner.    "
+                },
+                "7": {
+                    "title": "Crash Course",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "original air date": "6 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    While Connor must pull up his grade or miss out on awesome helicopter training, Gisela pilots her way to more adventure than she can handle.    "
+                },
+                "8": {
+                    "title": "Escape Artist",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "original air date": "13 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    A handcuffed Connor and Gisela meet a master spy: The Magician. Ty tries to make his neighbor, Lily, disappear.    "
+                },
+                "9": {
+                    "title": "Fear Itself",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "original air date": "27 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    When the enemy gets too close, Gisela takes her protection into her own hands. Ty's April Fool's war spreads from Ty to Mom and Dad.    "
+                },
+                "10": {
+                    "title": "Dead Drop",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "original air date": "22 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    When Gisela helps Connor with his date, vital info falls into the wrong hands. Lily gives Tanya love life advice.    "
+                },
+                "11": {
+                    "title": "Dinner is Ruined",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "original air date": "25 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    When Connor bodyguards Gisela at Tanya's house, dinner gets a little dicey. Ty and Lily accidentally lock themselves in the spy pod.    "
+                },
+                "12": {
+                    "title": "Stop Bugging Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "original air date": "2010",
+                    "year": "2010",
+                    "plot": "\n    Connor struggles to do his job in the face of romantic rumours about him and Gisela. Ty sells off the house, piece by piece.    "
+                },
+                "13": {
+                    "title": "Rogue",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "original air date": "27 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    When Ed puts Connor to the test, can he prove he's ready for anything? Gisela goes on a date with Andre.    "
+                },
+                "14": {
+                    "title": "Spies vs. Spies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "original air date": "2011",
+                    "year": "2011",
+                    "plot": "\n    When the President's men go on a hunt for Ed, Connor's stuck in the middle. Ty, meanwhile, makes Ed's bungalow into his very own 'man cave.'    "
+                },
+                "15": {
+                    "title": "Deadly Lipgloss",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "original air date": "2011",
+                    "year": "2011",
+                    "plot": "\n    While Connor deals with the fallout from a misdirected spy gadget, Gisela must keep an inept spy out of trouble.    "
+                },
+                "16": {
+                    "title": "Damage Control",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 16,
+                    "original air date": "23 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    Connor and Gisela must 'babysit' an inept agent while on a double date.    "
+                },
+                "17": {
+                    "title": "The Ticking House",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 17,
+                    "original air date": "23 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    Connor and Gisela's party rocks the house. Ty and Lily party down by going undercover - as teenagers.    "
+                },
+                "18": {
+                    "title": "The Key",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 18,
+                    "original air date": "25 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    Connor and Gisela's search for a key leads to their most formidable foe yet: Lily. Ty struggles to get out of a talent show act. The enemy tests Ed.    "
+                },
+                "19": {
+                    "title": "003rd Wheel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 19,
+                    "original air date": "2011",
+                    "year": "2011",
+                    "plot": "\n    Flushing out an agent proves difficult when Gisela's date with Andre and a crushing Sophia get in Connor's way. Ty goes head to head with the President's aide.    "
+                },
+                "20": {
+                    "title": "Betrayals",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 20,
+                    "original air date": "27 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    Connor and Gisela discover a traitor in their midst. Lily keeps a recovering Andre company.    "
+                },
+                "21": {
+                    "title": "Hope Is Not Enough",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 21,
+                    "plot": "\n    Connor and Gisela spend the day a continent apart, walking in each other's shoes.    "
+                },
+                "22": {
+                    "title": "The Eye of Cordoba",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 22,
+                    "original air date": "28 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    Connor tries to catch an escaped enemy agent while Gisela tries to catch Andre. Ty and Mom form an alliance over Dad's sweat pants.    "
+                },
+                "23": {
+                    "title": "The Pod Couple",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 23,
+                    "original air date": "29 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    Gisela tries to keep a prized possession out of Connor's hands. Lily tricks Ty into going to a boy band mall appearance.    "
+                },
+                "24": {
+                    "title": "Home Scary Home",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 24,
+                    "original air date": "30 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    A holiday in Cordoba takes a dangerous turn when Connor discovers the enemy's lair. Gisela tries to have fun in the sun, but soon discovers that Connor is in trouble.    "
+                },
+                "25": {
+                    "title": "If You Could Read My Mind",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 25,
+                    "original air date": "2011",
+                    "year": "2011",
+                    "plot": "\n    Connor and Gisela discover the enemy's master plan. Sophia grills Lily for info on Connor.    "
+                },
+                "26": {
+                    "title": "See You There",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 26,
+                    "plot": "\n    Will a new, shocking enemy tear Connor and Gisela's lives apart? Meanwhile, Sophia's crush on Connor blooms.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Arrival",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "12 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Budding teen spy Connor Heath's dreams of adventure come true when a mysterious foreign girl named Gisela moves in with his family. But when it becomes clear that Gisela will do everything in her power to return home, Connor finds himself using all of his spy skills to get her to stay. Good thing too because it looks like Gisela is at the center of a major conspiracy and in more danger than he or she could ever imagine.    "
+                },
+                "2": {
+                    "title": "Proof",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "2010",
+                    "year": "2010",
+                    "plot": "\n    Gisela and Connor clash: She tries to prove she's unsafe with the Heath family so she can get sent home; he tries to prove his spy skills are the key to her protection so she can stay. But Connor's push to convince Gisela to stay comes up short when she \"fires\" him as her guide and \"hires\" his bumbling best friend, Whynot. Things get even worse when Connor accidentally takes down Gisela's bodyguard in a case of mistaken identity. Meanwhile, Ty intercepts a mysterious package in the mail... a package that's full of money.    "
+                },
+                "3": {
+                    "title": "Cover Story",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "25 Aug. 2010",
+                    "year": "2010",
+                    "plot": "\n    It's the first day of school and Gisela pulls out all the stops in her mission to get sent back home to Cordobá. Her goal: get expelled. But her attitude takes a 180 when her new bodyguard - Zatari - comes to town. Thing is, Connor doesn't think Zatari is who she says she is and will do anything - even blow off his major crush, Tanya - to find out what she's hiding.    "
+                },
+                "4": {
+                    "title": "Trash Talk",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "8 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    It's boys against the girls as Connor and Whynot go head-to-head with Gisela and Zatari in a high-stakes recycling competition. As reigning recycling champions, the boys figure they're unbeatable but they've never competed against the likes of Gisela before and they're about to get derailed by Connor's growing suspicions that Zatari is an enemy agent. Meanwhile, Ty intercepts a coded message that might be a top-secret enemy transmission - and asks Zatari if she can translate it for him.    "
+                },
+                "5": {
+                    "title": "Stung",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "15 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    It's a very strange day - Zatari has disappeared and Tanya has suddenly taken an interest in Connor! In fact, Tanya so interested in him that she tails Connor and Gisela to an abandoned warehouse - the only clue they have to where Zatari might be. Things get even more strange when the they stumble upon a wild man trapped inside who turns out to be someone from Gisela's past. Meanwhile, Whynot's band gears up for their first major gig and discovers that they might be cursed!    "
+                },
+                "6": {
+                    "title": "Lockdown",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "22 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    There's a new bodyguard in town and he's stepping up security and putting the Heath family under house arrest. As Ed fortifies the family dwelling, Connor and Gisela find themselves getting cabin fever and sneak out to the mall. But things go bad when Ed catches up with them and reveals that he's ready to send Gisela someplace really isolated - for her own good. Connor thinks he can keep Gisela with the Heaths and tip Ed off to what Zatari may have been looking for all along... but it might just cost him any trust Ed still has in him.    "
+                },
+                "7": {
+                    "title": "Lost in Translation",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "29 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    Connor and Gisela's prank war has gotten out of hand - he's used the last of her ultra-exotic shower gel and she's dyed his face orange. In \"reparation\", Gisela offers to give Connor much needed Spanish lessons and, unbeknownst to him, teaches it to him all wrong, never suspecting he'll use his new found bilingualism to accidentally give the enemy the location of a shipment coming up from Cordoba. The only way to make sure it hasn't been tampered with may be to throw it from the helicopter... and blow it up in mid-air. Meanwhile, Whynot's latest song gives him his ...    "
+                },
+                "8": {
+                    "title": "Geolocked",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "5 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    When an accidental flood sends the Heath family to live with Ed, Connor seizes the chance to use Ed's gear. But when he realizes that he may have given away Gisela's position to the enemy, he begins to seriously reconsider his spy career. Afraid to tell Ed what he's done, Connor's torn between coming clean and waiting to see if maybe - just maybe - he didn't do what he thinks he did. Meanwhile, Ty concocts a plan to get himself a little room at Ed's and ends up getting sent to Lily's - on slumber party night!    "
+                },
+                "9": {
+                    "title": "Diva",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "12 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    Connor's first official mission - help Gisela blend in at school - goes terribly wrong when it arouses Tanya's suspicion about the Heath's \"house guest.\" The good news is that Tanya thinks Gisela is a South American pop star. The bad news is that she wants Gisela to sing at her benefit concert... and Gisela can't carry a tune in a bucket - not even if it's duct-taped to it. Neither Connor nor Gisela have any ideas how Gisela can avoid expose - or worse: total public humiliation. Who would have thought the answer would end up coming from Ty, whose been scheming to get ...    "
+                },
+                "10": {
+                    "title": "Fashion Crimes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "19 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    Ed's got one directive and one directive only for Connor and Gisela - stick together no matter what! That might be easy for him to say but the kids have other plans. Connor is going to the SpyWorld Expo to see what;s cutting edge in espionage, Gisela is off to help Tanya with the school fashion show, and with Ed out of the way (thanks to the kids' scheming) it should be a piece of cake. That is, until Connor discovers that the town is swarming with paparazzi all there with the hot tip that Gisela Calicos is hiding out somewhere in town. Meanwhile, Tanya is at a loss ...    "
+                },
+                "11": {
+                    "title": "Old Flames",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "26 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    With the danger level rising, the President decides to relocate Gisela and sends her old crush, Joaquín, to retrieve her. Connor's not going down without a fight, though - he wants Gisela to stay or to be the one who goes with her. But is what Connor wants in Gisela's best interest or is it just sparked by jealousy? Connor soon realizes that, in order to do the right thing, he may have to say good-bye to his best friend.    "
+                },
+                "12": {
+                    "title": "Ed Lite",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "3 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    With Ed out of town to testify against Zatari, Gisela's security is entrusted to Jorges Guzman - a.k.a. \"Ed Lite\" - a.k.a. the most incompetent human being the Heaths have ever met. So, when Connor and Gisela discover the location of an enemy hard-drive containing top-secret info they decide to go after it without him... and find themselves face to face with some very dangerous goons. Meanwhile, Ty is convinced that Ed Lite is an alien and does everything he can to collect the evidence to prove his theory right.    "
+                },
+                "13": {
+                    "title": "Password Protect",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Connor Undercover (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "original air date": "10 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    Everyone's in major trouble. Zatari's back in town and she means business. She's captured Gisela and is threatening to take her away unless Ed makes a video confessing to all of Zatari's crimes! Connor knows he has something that Zatari wants even more than Ed's false confession - the password she's been searching for since Gisela arrived at the Heath's - and that will force him to chose between betraying Gisela's trust or letting Ed destroy his career. Good thing he's got a few tricks up his sleeve...    "
+                }
+            }
+        },
+        "number of episodes": 39,
+        "cast": [
+            {
+                "name": "Tash, Lola"
+            },
+            {
+                "name": "Fox, Gavin"
+            },
+            {
+                "name": "Morrow, Max"
+            },
+            {
+                "name": "Golja, Ana"
+            },
+            {
+                "name": "Authors, Dylan"
+            },
+            {
+                "name": "Francis, Jordan"
+            },
+            {
+                "name": "Coffey, Jude"
+            },
+            {
+                "name": "Hoover, Howard"
+            },
+            {
+                "name": "Thomas, Randy"
+            },
+            {
+                "name": "Beverly, Carleigh"
+            },
+            {
+                "name": "McDonald, Kyle"
+            },
+            {
+                "name": "Jones, Tattiawna"
+            },
+            {
+                "name": "Johnston, Jamie"
+            },
+            {
+                "name": "Bowes, Will"
+            },
+            {
+                "name": "Yan, Marline"
+            },
+            {
+                "name": "Roach, Martin"
+            },
+            {
+                "name": "Neayem, Jacob"
+            },
+            {
+                "name": "Janisse, Reid"
+            },
+            {
+                "name": "Toriel, Nathalie"
+            },
+            {
+                "name": "Grazzini, Marco"
+            },
+            {
+                "name": "Smith, Tre"
+            },
+            {
+                "name": "Boorder, Hubert"
+            },
+            {
+                "name": "Mastroianni, Pat"
+            },
+            {
+                "name": "Karzis, Alex"
+            },
+            {
+                "name": "Hatz, Alex"
+            },
+            {
+                "name": "Tinkler, Rob"
+            },
+            {
+                "name": "Dufays, Michael"
+            },
+            {
+                "name": "Asaro, Chris"
+            },
+            {
+                "name": "Campbell, Desmond"
+            },
+            {
+                "name": "Chow, Warren"
+            },
+            {
+                "name": "Luk, Jane"
+            },
+            {
+                "name": "Patchett, Daryl"
+            },
+            {
+                "name": "Alachiotis, Nick"
+            },
+            {
+                "name": "Arce, Pedro Miguel"
+            },
+            {
+                "name": "Friesen, Justin"
+            },
+            {
+                "name": "Cordell, Christopher"
+            },
+            {
+                "name": "Arvizu, Michelle"
+            },
+            {
+                "name": "Cadilha, Raquel"
+            },
+            {
+                "name": "Chung, Chantelle"
+            },
+            {
+                "name": "Diaz, Carlos"
+            },
+            {
+                "name": "Jones, Brent"
+            },
+            {
+                "name": "Tomasone, Julia"
+            },
+            {
+                "name": "Griffin, Kerry"
+            },
+            {
+                "name": "Lee, Cory"
+            },
+            {
+                "name": "Traoré, Mouna"
+            },
+            {
+                "name": "Vercillo, Joe"
+            },
+            {
+                "name": "Ward, Nancy E.L."
+            },
+            {
+                "name": "Ancheril, Rachael"
+            },
+            {
+                "name": "Yaphe, Scott"
+            }
+        ],
+        "locations": [
+            "Hamilton, Ontario, Canada",
+            "Toronto, Ontario, Canada"
+        ],
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime",
+            "Family",
+            "Thriller"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "country codes": [
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Turkey:7+"
+        ],
+        "number of seasons": 2,
+        "rating": 4.4,
+        "votes": 231,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTc4MTQxNTI3MV5BMl5BanBnXkFtZTgwMDA0ODczMzE@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "Connor Heath always dreamed of a spy career. When his parents take in the mysterious Gisela, who turns out to be a politician's daughter, Connor gets opportunities to taste the spy life. He seizes those eagerly, and soon proves his worth while learning on the job.",
+        "languages": [
+            "English"
+        ],
+        "title": "Connor Undercover",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Bolch, Suzanne"
+            },
+            {
+                "name": "May, John"
+            },
+            {
+                "name": "Terzopoulos, Tatyana"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Heroic Film Company"
+            },
+            {
+                "name": "Shaftesbury Films"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "JOJO"
+            },
+            {
+                "name": "Starz Kids and Family"
+            },
+            {
+                "name": "The Family Channel"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Storm FX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Duncan Morin Barristers & Solicitors"
+            },
+            {
+                "name": "PS Production Services"
+            },
+            {
+                "name": "Take 5 Craft Services"
+            }
+        ],
+        "plot": [
+            "Connor Heath always dreamed of a spy career. When his parents take in the mysterious Gisela, who turns out to be a politician's daughter, Connor gets opportunities to taste the spy life. He seizes those eagerly, and soon proves his worth while learning on the job.::KGF Vissers"
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 231,
+                "rating": 4.4
+            },
+            "aged 18 29": {
+                "votes": 81,
+                "rating": 5.1
+            },
+            "aged 30 44": {
+                "votes": 68,
+                "rating": 4.0
+            },
+            "aged 45 plus": {
+                "votes": 30,
+                "rating": 3.9
+            },
+            "males": {
+                "votes": 115,
+                "rating": 4.2
+            },
+            "males aged 18 29": {
+                "votes": 43,
+                "rating": 4.8
+            },
+            "males aged 30 44": {
+                "votes": 46,
+                "rating": 3.6
+            },
+            "males aged 45 plus": {
+                "votes": 21,
+                "rating": 4.1
+            },
+            "females": {
+                "votes": 73,
+                "rating": 5.1
+            },
+            "females aged 18 29": {
+                "votes": 38,
+                "rating": 5.5
+            },
+            "females aged 30 44": {
+                "votes": 21,
+                "rating": 5.0
+            },
+            "females aged 45 plus": {
+                "votes": 9,
+                "rating": 3.5
+            },
+            "top 1000 voters": {
+                "votes": 10,
+                "rating": 4.2
+            },
+            "us users": {
+                "votes": 37,
+                "rating": 3.8
+            },
+            "non us users": {
+                "votes": 119,
+                "rating": 4.2
+            }
+        },
+        "number of votes": {
+            "10": 47,
+            "9": 12,
+            "8": 13,
+            "7": 14,
+            "6": 15,
+            "5": 21,
+            "4": 24,
+            "3": 42,
+            "2": 23,
+            "1": 20
+        },
+        "arithmetic mean": 5.5,
+        "median": 5
+    }
+}

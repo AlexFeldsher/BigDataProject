@@ -1,0 +1,83 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "2 July 2009"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "25 July 2010"
+            }
+        ],
+        "release dates": [
+            "UK::2 July 2009",
+            "Sweden::25 July 2010"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gerry's Big Decision (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "2 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Gerry's Big Decision",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-",
+        "akas": [
+            "Gerry's Big Decision (United Kingdom)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Gogglebox Entertainment"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Channel 4 Television Corporation"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (UK)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

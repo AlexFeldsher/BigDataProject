@@ -1,0 +1,1778 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "April 2009"
+            },
+            {
+                "country": "UK\n",
+                "date": "16 April 2009"
+            }
+        ],
+        "release dates": [
+            "UK::April 2009",
+            "UK::16 April 2009"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Horrible Histories"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Deu a Louca na História"
+            },
+            {
+                "countries": "Russia",
+                "title": "Ужасные истории"
+            }
+        ],
+        "akas": [
+            "Horrible Histories (original title)",
+            "Deu a Louca na História Brazil",
+            "Ужасные истории Russia"
+        ],
+        "akas from release info": [
+            "Horrible Histories (original title)",
+            "Deu a Louca na História Brazil",
+            "Ужасные истории Russia"
+        ],
+        "episodes": {
+            "7": {
+                "1": {
+                    "title": "Monstrous Musicians",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 1,
+                    "original air date": "15 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    Horrible Histories charts monstrous musicians, from Neanderthal screeches to Jimi Hendrix.    "
+                },
+                "2": {
+                    "title": "Exceptional Explorers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 2,
+                    "original air date": "26 Jul. 2017",
+                    "year": "2017",
+                    "plot": "\n    Meet explorers throughout the ages, from Vikings in America to the first man on the moon.    "
+                },
+                "3": {
+                    "title": "Ridiculous Romantics",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 3,
+                    "votes": 7,
+                    "original air date": "31 Jul. 2017",
+                    "year": "2017",
+                    "plot": "\n    Take a journey of romance through history, including King Henry VIII's 6 First Dates.    "
+                },
+                "4": {
+                    "title": "Atrocious Artists",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 4,
+                    "votes": 6,
+                    "original air date": "7 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    From Dali's surrealism to Chris Ofili's elephant poo, Horrible Histories does art history.    "
+                },
+                "5": {
+                    "title": "Heroic Heroes And Villainous Villains",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 5,
+                    "original air date": "14 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    Steve Biceps searches for his top Deadly 60 villains, and Rattus meets his inner demons.    "
+                },
+                "6": {
+                    "title": "Ingenious Inventors",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 6,
+                    "original air date": "21 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    From the wheel to WIFI, Horrible Histories takes a look at the world's greatest inventors.    "
+                },
+                "7": {
+                    "title": "Preposterous US Presidents",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 7,
+                    "original air date": "28 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    Horrible Histories looks at the 45 US presidents so far, and they are a strange bunch.    "
+                },
+                "8": {
+                    "title": "Ruthless Rulers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 8,
+                    "original air date": "4 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    From Vicious Vikings to 20th Century tyrants, experience history's most ruthless rulers.    "
+                },
+                "9": {
+                    "title": "Revolting Russian Revolutions",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 9,
+                    "original air date": "11 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Horrible Histories explores Russia's Revolting past in this bumper special episode.    "
+                },
+                "10": {
+                    "title": "Horrid Health",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 10,
+                    "original air date": "18 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Will drilling a hole in your head really cure a headache? Horrible Histories investigates.    "
+                },
+                "11": {
+                    "title": "Formidable Florence Nightingale",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 11,
+                    "original air date": "6 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    There is much more to Florence Nightingale than being 'The Lady with the Lamp'...    "
+                },
+                "12": {
+                    "title": "Deadly Dynasties",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 12,
+                    "original air date": "6 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Horrible Histories explores some of the most famous families that have shaped the world.    "
+                },
+                "13": {
+                    "title": "Savage Songs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 13,
+                    "original air date": "6 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "14": {
+                    "title": "Awesome Ancient Civilisations",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 14,
+                    "original air date": "6 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "15": {
+                    "title": "Episode #7.15",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 15,
+                    "original air date": "6 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 30,
+                    "original air date": "16 Apr. 2009",
+                    "year": "2009",
+                    "plot": "\n    ROTTEN ROMANS - Servants fight at master's funeral/Gladiator School. FRIGHTFUL FIRST WORLD WAR - Lice in the trenches/Gas Attack question/Ready Steady Feast (WW1 edition). PUTRID PIRATES - The Black Spot/Ned Low question/Pirate ship rules. SAVAGE STONE AGE - Stone Age tools ad/Stone Age loo paper question/Stone Age funeral. VICIOUS VIKINGS - Warrior game: Vikings V Monks/Historical Hairdressers:Vikings. GORGEOUS GEORGIANS - Historical Fairy Stories:The Three Little Pigs/Georgian Election Voting information film/Born to Rule (Song - The 4 Georges).    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 20,
+                    "original air date": "23 Apr. 2009",
+                    "year": "2009",
+                    "plot": "\n    After a down and dirty visit with Leif Ericson and his equally famous and, irascible father, Eric the Red, Stitch and Mo set Darren Dongle straight about the amazing accomplishments of the Viking explorers who \"discovered\" North America - beating out Columbus by 500 years.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 16,
+                    "original air date": "30 Apr. 2009",
+                    "year": "2009",
+                    "plot": "\n    A Roman emperor finds a nasty alternative to candles, an Egyptian tries to save money on mummification, and the Roundheads and Cavaliers from the English Civil War take part in Historical Wife Swap.    "
+                },
+                "4": {
+                    "title": "Episode #1.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 12,
+                    "original air date": "7 May 2009",
+                    "year": "2009",
+                    "plot": "\n    The Tudors sing their family history, Bob explains the complete history of Rome in two minutes, and a mad Victorian gentleman eats King Louis XIV's mummified heart.    "
+                },
+                "5": {
+                    "title": "Episode #1.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 13,
+                    "original air date": "14 May 2009",
+                    "year": "2009",
+                    "plot": "\n    A priest makes a piano from live pigs, Emperor Caligula declares war on the sea, and we discover disgusting beauty tips from Ancient Egypt.    "
+                },
+                "6": {
+                    "title": "Episode #1.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 13,
+                    "original air date": "21 May 2009",
+                    "year": "2009",
+                    "plot": "\n    When Mo is grounded for righteously refusing to clean her pigsty room, a trip back to the dark days of Medieval England enlightens her about what rights are worth fighting for - and having a messy room is not one of them.    "
+                },
+                "7": {
+                    "title": "Episode #1.7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 12,
+                    "original air date": "28 May 2009",
+                    "year": "2009",
+                    "plot": "\n    Enduring the hardships of the journey to open the western frontier and the frenzy of the California Gold Rush, Stitch and Mo learn a valuable lesson in risk and reward - one worth its weight in gold.    "
+                },
+                "8": {
+                    "title": "Episode #1.8",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 10,
+                    "original air date": "4 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    The American Revolution pits Stitch and the American rebels against Mo and the British royalists, and teaches them that there are two sides - and often more - to every conflict.    "
+                },
+                "9": {
+                    "title": "Episode #1.9",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 11,
+                    "original air date": "11 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    Stitch, thinking he has royal blood, has a grand vision for building a dazzling Donut Empire, but visits with Louis the XIV of France, Peter the Great of Russia, and Shah Jahan of India, convince him that having a grand vision can blind one to real needs of real people.    "
+                },
+                "10": {
+                    "title": "Episode #1.10",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 12,
+                    "original air date": "18 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    Fed-up with tests and homework, Stitch and Mo want to trade school for the working world, until they have a taste of the \"glamorous\" lives of child laborers in the English Industrial Revolution.    "
+                },
+                "11": {
+                    "title": "Episode #1.11",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 12,
+                    "original air date": "25 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    After landing in the trading center of Mali in West Africa, where salt and gold are equally valued, our heroes meet King Mansa Musa and discover that one man's \"trash\" can be another man's \"treasure.\"    "
+                },
+                "12": {
+                    "title": "Episode #1.12",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 11,
+                    "original air date": "2 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    A stint after school in detention leaves our heroes feeling forever tainted, until a visit to early Australia's penal colony assures them that duly serving a sentence honorably entitles them to have all of their rights - and reputation - restored.    "
+                },
+                "13": {
+                    "title": "Episode #1.13",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 11,
+                    "original air date": "9 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Stitch and Mo discover that Darren's latest put-down of them as \"Neanderthals\" might actually be a compliment because, with their highly developed skills and tools, Neanderthals didn't cave in to a prehistoric wild and wooley environment.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Episode #2.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 15,
+                    "original air date": "31 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Rotten Romans - a very unpleasant Roman banquet. Terrible Tudors - Shakespeare's invented words. Incredible Incas - an Incan shampoo advert. Vile Victorians - inventing Badminton. Stupid Deaths - Bobby Leach. Slimy Stuarts - Gunpowder plot. Woeful Second World War - Durham Home Guard accidents. Vicious Vikings - The Viking Song.    "
+                },
+                "2": {
+                    "title": "Episode #2.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 15,
+                    "original air date": "1 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    Putrid Pirates - Basil Hood steals a cow. Historical Hospital - Pirate Doctor. Woeful Second World War - World War 2 Art show. Groovy Greeks - Evil-Spirit-Prevention-Door-Frame-Jar. Stupid Deaths - Heraclitus. Slimy Stuarts - Oliver Cromwell bans Christmas and Charles II:King of Bling song. Awful Egyptians - Cleopatra's love life. Gorgeous Georgians - Boxing and school pupil rebellions.    "
+                },
+                "3": {
+                    "title": "Episode #2.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 9,
+                    "original air date": "2 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    Rotten Romans - Christians and Ave! magazine. Measley Middle Ages - Roadside Accident. Scary stories: The Children of Woolpit. Groovy Greeks - Spartan High School Musical song. Terrible Tudors - Henry VIII and Jester. Stupid Deaths - Tudor Entertainer. Savage Stone Age - Hunting Trip & Caveman Workout. Awesome USA - the Telegraph & Wyatt Earp and Billy the Kid.    "
+                },
+                "4": {
+                    "title": "Episode #2.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 12,
+                    "original air date": "3 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    Gorgeous Georgians - Admiral Nelson is seasick; Public execution of Jack Sheppard. Measly Middle Ages - European versus Arab medicine. Stupid Deaths - Humphrey De Bohun. Incredible Incas - Shopping Channel: Inca Hour; Llama Farmer advert. Vile Victorians - Scary Stories: The Cabinet of Mystery; Tapeworm traps and Victorian beer. Groovy Greeks - Paris versus Achilles; Dodgy War Machines - Elephants. Woeful Second World War - Churchill's D-Day Plan; World War Two Girls song.    "
+                },
+                "5": {
+                    "title": "Episode #2.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 8,
+                    "original air date": "4 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    Putrid Pirates - Unusual Treasure; Shopping Channel: Pirate Hour. Incredible Incas - Live Like an Incan song; Incan Child's Birthday. Awful Egyptians - Tomb Raider game; Scary Stories: The Curse of Tutankhamun. Gorgeous Georgians - George IV hears bad/good news; George IV: Couldn't Stand my Wife song. Measly Middle Ages - Bob Hale's Crusades Report; Crusader Crones. Awesome USA - Agent Moses. Rotten Romans - Door-to-door Poo Salesman; Roman Dinner Party Etiquete.    "
+                },
+                "6": {
+                    "title": "Episode #2.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 10,
+                    "original air date": "8 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    The Ug and Ugio families go head to head on Stone Age Family Fortunes, mad King George III's doctors are even madder than he is, and Emperor Elagabalus launches his pranktastic Roman lottery.    "
+                },
+                "7": {
+                    "title": "Episode #2.7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 10,
+                    "original air date": "15 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    Joan of Arc gets a visit from a confused angel, a pirate captain tries to make his crew dress like ladies, and Mrs Celt enjoys being a Roman on Historical Wife Swap.    "
+                },
+                "8": {
+                    "title": "Episode #2.8",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 10,
+                    "original air date": "22 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    Some Vikings attack a monastery but can't remember why, a peasant gets a posh makeover on Georgian Fashion Fix, Crimewatch BC tries to solve the murder of Julius Caesar, and prepare to be confused by the Egyptian Hieroglyphics song.    "
+                },
+                "9": {
+                    "title": "Episode #2.9",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 9,
+                    "original air date": "29 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    The Stuarts are confused by the newly-discovered drink of tea, a Viking funeral ends in a massive fight, a child evacuated in the Blitz thinks farm animals are monsters, and some cowboys sing about life in the Wild West.    "
+                },
+                "10": {
+                    "title": "Episode #2.10",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 7,
+                    "original air date": "6 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    King Charles I sends someone else to get married for him, a new recruit regrets joining the Georgian Army, and Queen Cleopatra reveals her weird beauty secrets.    "
+                },
+                "11": {
+                    "title": "Episode #2.11",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 8,
+                    "original air date": "13 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    Barmy Roman emperor Caligula fails to invade Britain so collects seashells instead, King Henry VIII plays tennis while Anne Boleyn is executed, and some naughty Saxon monks throw a funky party.    "
+                },
+                "12": {
+                    "title": "Episode #2.12",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 7,
+                    "original air date": "20 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    Ug and Grunt demonstrate how to paint like a caveman, some silly World War Two codebreakers forget their own code, and Henry VIII challenges the King of France to a wrestlemania-style smackdown!    "
+                },
+                "13": {
+                    "title": "Episode #2.13",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 6,
+                    "original air date": "27 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    A compilation of the songs from the series, featuring Spartan High School Musical, the Viking Rock Band, punky Queen Boudica, Incan emperor Pachacuti, the posh rapping of Charles II, Blackbeard the Pirate, George IV going solo, the Victorian Inventions song, and the World War 2 Girls.    "
+                },
+                "14": {
+                    "title": "Episode #2.14",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "original air date": "17 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    The Horrible Histories: Horrible Christmas Special.    "
+                }
+            },
+            "3": {
+                "1": {
+                    "title": "Episode #3.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 15,
+                    "original air date": "30 May 2011",
+                    "year": "2011",
+                    "plot": "\n    Meet an annoying French prankster from the Middle Ages, witness bizarre Aztec food on Historical Masterchef, see what happens when Queen Elizabeth I needs the toilet, and learn how not to impress a woman in Victorian times.    "
+                },
+                "2": {
+                    "title": "Episode #3.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 11,
+                    "original air date": "31 May 2011",
+                    "year": "2011",
+                    "plot": "\n    Some medieval knights discover the most disgusting way to attack a castle, the Saxons demonstrate the stupidest way to lose a battle, a Georgian goes shopping in a modern pet shop, and the kings and queens of England demonstrate how to remember them all, through the power of song.    "
+                },
+                "3": {
+                    "title": "Episode #3.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 9,
+                    "original air date": "1 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    A confused World War I soldier spends his first day in the trenches, William Wallace launches his music career as a rock rebel, Lady Jane Grey wins a frankly terrible competition, and the Welsh women of Fishguard defeat a French invasion without even trying.    "
+                },
+                "4": {
+                    "title": "Episode #3.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 8,
+                    "original air date": "2 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    An unusual Stuart highwayman doesn't always steal cash, a modern detective struggles to solve a series of murders in Emperor Caligula's house, HHTV goes undercover to prove allegations of cheating in Middle Ages jousting tournaments, and King George IV meets his dead relatives.    "
+                },
+                "5": {
+                    "title": "Episode #3.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 9,
+                    "original air date": "3 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    A Welsh prince from the Middle Ages has a very stupid death, King Louis XVI and Marie Antoinette go on Historical Wife Swap with some starving French peasants, a Tudor peasant gets a super-hot makeover from Historical Fashion Fix, and Queen Cleopatra sings about her femme fatale reputation.    "
+                },
+                "6": {
+                    "title": "Episode #3.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 8,
+                    "original air date": "7 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Henry VIII promotes his all meat, no vegetables diet plan, Bob Hale struggles desperately to explain the Middle Ages War of the Roses, a Stone Age man invents farming, and Admiral Nelson confuses everyone with his last words.    "
+                },
+                "7": {
+                    "title": "Episode #3.7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 10,
+                    "original air date": "14 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Robert Walpole struggles to talk to England's German king, a Scottish sportsman attacks dead cows in the Highland Games, American inventor Paul Revere demonstrates his gunpowder toothpaste, and the Roman Emperors channel the King of Pop in their musical argument over who's baddest of all.    "
+                },
+                "8": {
+                    "title": "Episode #3.8",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 11,
+                    "original air date": "21 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    HHTV reporter Mike Peabody gets caught up in the French Revolution, Henry VIII enjoys a highly dangerous sport for children, Saxon King Ethelred the Unready suffers online bullying from the Vikings, and the Suffragettes set the record straight in song.    "
+                },
+                "9": {
+                    "title": "Episode #3.9",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 10,
+                    "original air date": "28 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    The Vikings launch their advert for 'We Sell Any Monk', Queen Elizabeth I surprises her court with some very odd laws, the sacrifice obsessed Aztec priests sing their gruesome disco song, and we discover the Roman equivalent of text messaging.    "
+                },
+                "10": {
+                    "title": "Episode #3.10",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 8,
+                    "original air date": "12 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    Some WWI soldiers try some very unusual ways to cure frostbite in the winter, we watch the not-at-all-romantic movie starring William the Conqueror, Vincenzo Larfoff fails to scare us with the story of Aztec Emperor Motecuhzoma, and a strange Stuart doctor takes a snooze during the middle of a battle.    "
+                },
+                "11": {
+                    "title": "Episode #3.11",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 11,
+                    "votes": 7,
+                    "original air date": "5 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    We rejoice in the odd marriage of Mary I and Philip II of Spain, a Pirate chef disgusts the judges on Historical Masterchef, the Victorian paramedics offer their bizarre medical advice to a modern patient, and a Stone Age man appears on Dragons Den with his innovative inventions.    "
+                },
+                "12": {
+                    "title": "Episode #3.12",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 12,
+                    "votes": 9,
+                    "original air date": "19 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    The people of Strasbourg literally can't stand still with Dance Fever, HHTV presenter Fearne Polyester reports from a bizarre Greek festival, two Celtic warriors hold a rap battle to see who is best at boasting, and King Charles II meets the man who tried to steal the Crown Jewels.    "
+                },
+                "13": {
+                    "title": "Episode #3.13",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 13,
+                    "votes": 6,
+                    "original air date": "26 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    The Savage Songs compilation, featuring the hip hop battle of the boasting Celts, pop superstar Cleopatra, rock rebel William Wallace, the soulful Suffragettes, the funky Aztec priests, the crooning caveman, bad boy heartthrob Dick Turpin, pouting Richard III, the children of the Victorian workhouses, and the many, many, merry monarchs!    "
+                }
+            },
+            "4": {
+                "1": {
+                    "title": "Episode #4.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "votes": 15,
+                    "original air date": "9 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    This episode shows a mixture of humour and historical fact.    "
+                },
+                "2": {
+                    "title": "Episode #4.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "votes": 11,
+                    "original air date": "10 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Henry VIII tries to sell off his antique abbeys and Charles Darwin sings about his work.    "
+                },
+                "3": {
+                    "title": "Episode #4.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "votes": 9,
+                    "original air date": "11 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Queen Elizabeth I goes online dating, Greek philosopher Socrates foils his own rescue from prison and Emicho of the Rhineland goes crusading with some very unusual navigators to lead the way.    "
+                },
+                "4": {
+                    "title": "Episode #4.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 4,
+                    "votes": 9,
+                    "original air date": "12 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    HHTV's War Reporter Mike Peabody regrets his choice of war to cover.    "
+                },
+                "5": {
+                    "title": "Episode #4.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 5,
+                    "votes": 8,
+                    "original air date": "13 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Columbus thinks he's found India, and a Georgian woman reveals her very Stupid Death.    "
+                },
+                "6": {
+                    "title": "Episode #4.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 6,
+                    "votes": 8,
+                    "original air date": "20 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Columbus thinks he's found India, and a Georgian woman reveals her very Stupid Death.    "
+                },
+                "7": {
+                    "title": "Episode #4.7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 7,
+                    "votes": 8,
+                    "original air date": "27 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Episode #4.8",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 8,
+                    "votes": 10,
+                    "original air date": "4 May 2012",
+                    "year": "2012",
+                    "plot": "\n    A caveman shares some cooking tips and the Saxons give gruesome Christmas presents.    "
+                },
+                "9": {
+                    "title": "Episode #4.9",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 9,
+                    "votes": 9,
+                    "original air date": "11 May 2012",
+                    "year": "2012",
+                    "plot": "\n    A live news report from the Great Plague and Thumbelina meets an unfortunate end.    "
+                },
+                "10": {
+                    "title": "Episode #4.10",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 10,
+                    "votes": 10,
+                    "original air date": "18 May 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "11": {
+                    "title": "Episode #4.11",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 11,
+                    "votes": 8,
+                    "original air date": "25 May 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "Episode #4.12",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 12,
+                    "votes": 9,
+                    "original air date": "1 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    A Victorian woman books a ticket on an odd railway, a modern patient is (mis) treated by a Roman dentist, Alfred the Great pitches a movie about his life and a Greek geek competes on \"Historical Mastermind.\"    "
+                },
+                "13": {
+                    "title": "Savage Songs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 13,
+                    "votes": 6,
+                    "original air date": "4 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "14": {
+                    "title": "Episode #4.14",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 14,
+                    "original air date": "20 Jul. 2012",
+                    "year": "2012",
+                    "plot": "\n    All the top sporting action from the past, including Emperor Nero and Jesse Owens singing the history of the Olympics. We're at the finish line to see Pheidippides run the first ever marathon, then we count down the top marathon cheats of all time and take a look back at some of our favorite \"Horrible Histories\" sporting events.    "
+                }
+            },
+            "5": {
+                "1": {
+                    "title": "Episode #5.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 1,
+                    "votes": 8,
+                    "original air date": "27 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Saxon gods form a group of superheroes, Historical Grimefighters are in 1665 to prevent the stench of courtiers from reaching the outside world and Neil Armstrong demonstrates his new weight loss program.    "
+                },
+                "2": {
+                    "title": "Episode #5.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 2,
+                    "original air date": "28 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Germans eat carrots to see in the dark, an edition of Don't Tell the Spartan Bride is presented, and we meet a surprisingly charming Stuart highman.    "
+                },
+                "3": {
+                    "title": "Episode #5.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 3,
+                    "original air date": "29 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Persian's secret weapon against Egyptians in battle of Pelusium , Bonnie prince Charlie,word making competition between Charles Dickens and Luise C. ,Dracula ,Ivan the Terrible and a lot more.    "
+                },
+                "4": {
+                    "title": "Episode #5.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 4,
+                    "original air date": "30 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Dom Duckworth examines Charles II's magic touch, a Roman politician raps about his lifestyle, and unusual soldiers are recruited into the Second World War.    "
+                },
+                "5": {
+                    "title": "Episode #5.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 5,
+                    "votes": 6,
+                    "original air date": "31 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Angles are converted to Christianity, the Whiffy jar is advertised and Samuel Pepys wastes money on a book about fishes.    "
+                },
+                "6": {
+                    "title": "Episode #5.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 6,
+                    "original air date": "4 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Shouty man advertises a new medicine made with dog's urine and mud, Alexander the Great refuses to stop conquering places, and Queen Victoria's coronation goes a bit awry.    "
+                },
+                "7": {
+                    "title": "Episode #5.7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 7,
+                    "original air date": "11 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Emperor Caesar Augustus reveals the secrets of his lazy life. Roman legions are killed in pantomime fashion.    "
+                },
+                "8": {
+                    "title": "Episode #5.8",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 8,
+                    "votes": 6,
+                    "original air date": "18 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    The surprising identity of Britain's top-scoring footballer is revealed, things get ridiculous on Germany's version of Historical Who Wants To Be A Millionaire, a Celtic farmer isn't terribly keen on plans for Hadrian's Wall, and the brainy pioneers of transportation sing about their inventions.    "
+                },
+                "9": {
+                    "title": "Episode #5.9",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 9,
+                    "original air date": "25 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    There is public confusion when King Charles II bans coffee shops, a seasick chicken ruins a Roman sea battle, mighty Egyptian Pharaoh, Ramesses II, meets some smelly peasants on Historical Wife Swap, and a cave-dwelling Stone Age couple try to buy their first house.    "
+                },
+                "10": {
+                    "title": "Episode #5.10",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 10,
+                    "original air date": "2 Jul. 2013",
+                    "year": "2013",
+                    "plot": "\n    A Victorian businessman goes undercover in his own factory, there's a right royal squabble over who should rule medieval England, we meet eccentric Georgian politician Mad Jack Mytton and the Real Tudor Hustle reveals the cleverest con tricks by naughty historical criminals.    "
+                },
+                "11": {
+                    "title": "Episode #5.11",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 11,
+                    "votes": 8,
+                    "original air date": "9 Jul. 2013",
+                    "year": "2013",
+                    "plot": "\n    DI Bones investigates an unusual Victorian traffic accident, Roman scientist Pliny the Elder suffers a Stupid Death in ancient Pompeii, Prime Ministers Neville Chamberlain and Winston Churchill argue online over what to do about Adolf Hitler, and we discover the horrible history of early Australia.    "
+                },
+                "12": {
+                    "title": "Episode #5.12",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 12,
+                    "original air date": "16 Jul. 2013",
+                    "year": "2013",
+                    "plot": "\n    Featuring a female dinosaur expert who sells seashells down on the seashore, Brian the handsome scientist reveals the weird wonders of the Greek Universe, TV's fastest-talking pensioner, Bob Hale, tries to explain the Space Race between the USA and the USSR, and there's a fitting musical finale to the end of the series.    "
+                },
+                "13": {
+                    "title": "Episode #5.13",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 13,
+                    "original air date": "23 Jul. 2013",
+                    "year": "2013",
+                    "plot": "\n    A special episode featuring all your favourite songs from the series!    "
+                },
+                "14": {
+                    "title": "Episode #5.14",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 14,
+                    "original air date": "14 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "15": {
+                    "title": "Episode #5.15",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 15,
+                    "votes": 8,
+                    "original air date": "4 Aug. 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "6": {
+                "1": {
+                    "title": "Episode #6.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 1,
+                    "original air date": "7 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Awesome Alfred The Great",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 2,
+                    "votes": 9,
+                    "original air date": "25 May 2015",
+                    "year": "2015",
+                    "plot": "\n    A special episode about King Alfred the Great, starring Tom Rosenthal.    "
+                },
+                "3": {
+                    "title": "Episode #6.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 3,
+                    "votes": 7,
+                    "original air date": "1 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    A special episode about William the Conqueror, starring Kevin Eldon.    "
+                },
+                "4": {
+                    "title": "Episode #6.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 4,
+                    "original air date": "8 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    A special episode about Mary Queen of Scots, starring Jessica Ransom. This episode follows the young Mary as she stumbles from young girl in Scotland to queen in France, back to queen in Scotland and finally to Elizabeth I's public enemy no 1 - with a bit of Queenian Rhapsody thrown in for good measure! Meanwhile, across the world we meet silver-nosed Danish scientist Tycho Brahe, and Mr H gives us his unique take on the epic Battle of Lepanto in another History's Craziest Fools. With, of course, our host Rattus to guide the way!    "
+                },
+                "5": {
+                    "title": "Naughty Napoleon Special",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 5,
+                    "original air date": "15 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    Follow Napoleon as he rises from humble beginnings to become the Emperor of France.    "
+                },
+                "6": {
+                    "title": "Horrid Henry VIII Special",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 6,
+                    "votes": 6,
+                    "original air date": "22 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    A special episode about King Henry VIII, starring Rowan Atkinson.    "
+                },
+                "7": {
+                    "title": "Crafty Cleopatra",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 7,
+                    "original air date": "29 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    A special episode about the great Egyptian Queen Cleopatra, starring Kathryn Drysdale.    "
+                },
+                "8": {
+                    "title": "Gorgeous George III",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 8,
+                    "original air date": "6 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    A special episode about King George III, starring Simon Farnaby.    "
+                },
+                "9": {
+                    "title": "Bolshy Boudica",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 9,
+                    "original air date": "13 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    A special about the great British Queen Boudica, starring Lorna Watson.    "
+                },
+                "10": {
+                    "title": "Wily Winston Churchill",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 10,
+                    "original air date": "20 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    A special episode about Winston Churchill, starring Jim Howick.    "
+                },
+                "11": {
+                    "title": "Tricky Queen Vicky",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 11,
+                    "original air date": "25 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    The life and times of Queen Victoria.    "
+                },
+                "12": {
+                    "title": "'Orrible Oliver Cromwell",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 12,
+                    "original air date": "3 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    A special about 'Orrible Oliver Cromwell, starring Horrible Histories regular Lawry Lewin.    "
+                },
+                "13": {
+                    "title": "Episode #6.13",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 13,
+                    "original air date": "10 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    A special episode featuring the best bits from the series, with a host of Rotten Rulers.    "
+                },
+                "14": {
+                    "title": "Episode #6.14",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 14,
+                    "original air date": "17 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    A special episode featuring all your favourite bits from the series.    "
+                },
+                "15": {
+                    "title": "Episode #6.15",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 15,
+                    "original air date": "24 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    The BAFTA award winning TV show returns for its final episode of the sixth series, Savage Songs. Sing about Henry VIII's love of reformation, or burnt cakes with Alfred the great, or get down with William the conqueror, Norman style.    "
+                }
+            },
+            "8": {
+                "1": {
+                    "title": "Mourning Victorian Woman",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 1,
+                    "original air date": "1 Apr. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "Crooked King John and Magna Carta",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Horrible Histories (TV Series 2009–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "votes": 12,
+                    "original air date": "7 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Horrible Histories returns for a sixth series, with an episode about King John I and Magna Carta with revamped cast and a new style.    "
+                }
+            }
+        },
+        "number of episodes": 101,
+        "cast": [
+            {
+                "name": "Howick, Jim"
+            },
+            {
+                "name": "Farnaby, Simon"
+            },
+            {
+                "name": "Baynton, Mathew"
+            },
+            {
+                "name": "Howe-Douglas, Martha"
+            },
+            {
+                "name": "Willbond, Ben"
+            },
+            {
+                "name": "Rickard, Laurence"
+            },
+            {
+                "name": "Culshaw, Jon"
+            },
+            {
+                "name": "Hadland, Sarah"
+            },
+            {
+                "name": "Moore, Dominique"
+            },
+            {
+                "name": "Robinson, Jess"
+            },
+            {
+                "name": "Hartley, Jalaal"
+            },
+            {
+                "name": "Baddiel, David"
+            },
+            {
+                "name": "Lewin, Lawry"
+            },
+            {
+                "name": "Richardson, Alexander"
+            },
+            {
+                "name": "Lowe, Alice"
+            },
+            {
+                "name": "Syal, Meera"
+            },
+            {
+                "name": "Wix, Katy"
+            },
+            {
+                "name": "Donkin, Susie"
+            },
+            {
+                "name": "Fenton, Matthew"
+            },
+            {
+                "name": "Lamb, Dave"
+            },
+            {
+                "name": "Shearsmith, Reece"
+            },
+            {
+                "name": "Devlin, Lisa"
+            },
+            {
+                "name": "Prince, Javone"
+            },
+            {
+                "name": "Lewis, Jason"
+            },
+            {
+                "name": "Ransom, Jessica"
+            },
+            {
+                "name": "Stourton, Tom"
+            },
+            {
+                "name": "Walter, Natalie"
+            },
+            {
+                "name": "Terera, Giles"
+            },
+            {
+                "name": "Luck, Chris"
+            },
+            {
+                "name": "Riches, Adam"
+            },
+            {
+                "name": "Stone, Rhashan"
+            },
+            {
+                "name": "Gilbert, Bertie"
+            },
+            {
+                "name": "Osmanoglu, Naz"
+            },
+            {
+                "name": "Whelan, Gemma"
+            },
+            {
+                "name": "Punt, Steve"
+            },
+            {
+                "name": "Lanco, David"
+            },
+            {
+                "name": "Ford, Louise"
+            },
+            {
+                "name": "David-Caine, Richard"
+            },
+            {
+                "name": "Sawyer, George"
+            },
+            {
+                "name": "Wise, Deborah"
+            },
+            {
+                "name": "Eccleston, John"
+            },
+            {
+                "name": "Jakeways, Katherine"
+            },
+            {
+                "name": "Li, Dan"
+            },
+            {
+                "name": "McNicholas, James"
+            },
+            {
+                "name": "Miller, Ben"
+            },
+            {
+                "name": "Sayle, Alexei"
+            },
+            {
+                "name": "Hopwood, Steven"
+            },
+            {
+                "name": "Stevenson, Lawrence"
+            },
+            {
+                "name": "Kempthorne, Allin"
+            },
+            {
+                "name": "Taylor, Daniel Lawrence"
+            }
+        ],
+        "genres": [
+            "Comedy",
+            "Family",
+            "History"
+        ],
+        "runtimes": [
+            "28"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Australia:PG",
+            "Ireland:PG",
+            "Netherlands:AL",
+            "New Zealand:PG",
+            "United Kingdom:PG"
+        ],
+        "number of seasons": 8,
+        "rating": 8.8,
+        "votes": 3033,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjIxMzgyOTEwN15BMl5BanBnXkFtZTgwOTY4MzcwMzE@._V1_SY150_CR49,0,101,150_.jpg",
+        "plot outline": "Horrible histories is a British program for all ages. The writers have made learning history entertaining, with funny skits, spin offs of TV shows like; Wife Swap (Historical Wife Swap), Master Chef (Historical Master Chef), and Fashion Fix (Historical Fashion Fix). It teaches us history through songs too.",
+        "languages": [
+            "English"
+        ],
+        "title": "Horrible Histories",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-2019",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "writer": [
+            {
+                "name": "Baynton, Mathew"
+            },
+            {
+                "name": "Bernhardt, Jack"
+            },
+            {
+                "name": "Blakewill, Marc"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Lion Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Audio Network"
+            },
+            {
+                "name": "Casting Collective"
+            },
+            {
+                "name": "Line 21 Media Services"
+            },
+            {
+                "name": "The Movie Lot"
+            },
+            {
+                "name": "Twickenham Studios"
+            }
+        ],
+        "plot": [
+            "A group of British comedians show the sides of history they don't teach you in school. From the 'Savage Stone Age' to the 'Troublesome 20th Century', you see the full side to history.::Anonymous",
+            "Horrible histories is a British program for all ages. The writers have made learning history entertaining, with funny skits, spin offs of TV shows like; Wife Swap (Historical Wife Swap), Master Chef (Historical Master Chef), and Fashion Fix (Historical Fashion Fix). It teaches us history through songs too."
+        ],
+        "tech": {
+            "runtime": [
+                "28 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3033,
+                "rating": 8.8
+            },
+            "aged under 18": {
+                "votes": 19,
+                "rating": 7.7
+            },
+            "aged 18 29": {
+                "votes": 970,
+                "rating": 8.9
+            },
+            "aged 30 44": {
+                "votes": 762,
+                "rating": 8.6
+            },
+            "aged 45 plus": {
+                "votes": 333,
+                "rating": 8.5
+            },
+            "males": {
+                "votes": 1145,
+                "rating": 8.4
+            },
+            "males aged under 18": {
+                "votes": 11,
+                "rating": 7.5
+            },
+            "males aged 18 29": {
+                "votes": 444,
+                "rating": 8.6
+            },
+            "males aged 30 44": {
+                "votes": 389,
+                "rating": 8.2
+            },
+            "males aged 45 plus": {
+                "votes": 206,
+                "rating": 8.5
+            },
+            "females": {
+                "votes": 1088,
+                "rating": 9.1
+            },
+            "females aged under 18": {
+                "votes": 5,
+                "rating": 8.4
+            },
+            "females aged 18 29": {
+                "votes": 519,
+                "rating": 9.2
+            },
+            "females aged 30 44": {
+                "votes": 359,
+                "rating": 9.1
+            },
+            "females aged 45 plus": {
+                "votes": 121,
+                "rating": 8.8
+            },
+            "top 1000 voters": {
+                "votes": 47,
+                "rating": 6.7
+            },
+            "us users": {
+                "votes": 196,
+                "rating": 8.3
+            },
+            "non us users": {
+                "votes": 1497,
+                "rating": 8.7
+            }
+        },
+        "number of votes": {
+            "10": 1493,
+            "9": 748,
+            "8": 444,
+            "7": 172,
+            "6": 60,
+            "5": 27,
+            "4": 18,
+            "3": 11,
+            "2": 11,
+            "1": 49
+        },
+        "arithmetic mean": 8.9,
+        "median": 9
+    }
+}

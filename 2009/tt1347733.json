@@ -1,0 +1,424 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Sweden\n",
+                "date": "January 2009"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "1 January 2009"
+            },
+            {
+                "country": "Finland\n",
+                "date": "2 September 2009"
+            }
+        ],
+        "release dates": [
+            "Sweden::January 2009",
+            "Sweden::1 January 2009",
+            "Finland::2 September 2009"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "De halvt dolda"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "De halvt dolda"
+            },
+            {
+                "countries": "Finland",
+                "title": "Puoliksi kätketyt"
+            },
+            {
+                "countries": "Germany (literal title)",
+                "title": "Die halb Verborgenen"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "Those Half Hidden"
+            }
+        ],
+        "akas": [
+            "De halvt dolda (original title)",
+            "De halvt dolda Finland (Swedish title)",
+            "Puoliksi kätketyt Finland",
+            "Die halb Verborgenen Germany (literal title)",
+            "Those Half Hidden World-wide (English title)"
+        ],
+        "akas from release info": [
+            "De halvt dolda (original title)",
+            "De halvt dolda Finland (Swedish title)",
+            "Puoliksi kätketyt Finland",
+            "Die halb Verborgenen Germany (literal title)",
+            "Those Half Hidden World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Del 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Those Half Hidden (TV Mini-Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 8,
+                    "original air date": "1 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Del 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Those Half Hidden (TV Mini-Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 7,
+                    "original air date": "8 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Del 3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Those Half Hidden (TV Mini-Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 7,
+                    "original air date": "15 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Del 4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Those Half Hidden (TV Mini-Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 7,
+                    "original air date": "22 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Årfors, Bruno"
+            },
+            {
+                "name": "Friberg, Ulf"
+            },
+            {
+                "name": "Berglund, Kristoffer"
+            },
+            {
+                "name": "Ljung, Henrik"
+            },
+            {
+                "name": "Littorin, Anna"
+            },
+            {
+                "name": "Hedén, Christoffer"
+            },
+            {
+                "name": "Soulis, Anastasios"
+            },
+            {
+                "name": "Langhammer, Ia"
+            },
+            {
+                "name": "Ljungman, Tom"
+            },
+            {
+                "name": "Lindqvist, Axel"
+            },
+            {
+                "name": "Flytström, Otto"
+            },
+            {
+                "name": "Dencik, David"
+            },
+            {
+                "name": "Åsblom, Freddy"
+            },
+            {
+                "name": "Lundqvist, Anja"
+            },
+            {
+                "name": "Richardson, Marie"
+            },
+            {
+                "name": "Ericksson, Jacob"
+            },
+            {
+                "name": "Mäkinen, Jarmo"
+            },
+            {
+                "name": "Törnqvist, Kristina"
+            },
+            {
+                "name": "Kjellgren, Johan H:son"
+            },
+            {
+                "name": "Mardelius, Gustaf"
+            },
+            {
+                "name": "Weidenbladh, Albin"
+            },
+            {
+                "name": "Ericsson, Anna Ulrika"
+            },
+            {
+                "name": "Weivers, Margreth"
+            },
+            {
+                "name": "Wahlberg, Björn"
+            },
+            {
+                "name": "Hallin, Annika"
+            },
+            {
+                "name": "Troedsson, Rasmus"
+            },
+            {
+                "name": "Cederblad, Malin"
+            },
+            {
+                "name": "Mjönes, Liv"
+            },
+            {
+                "name": "Hammar, Fredrik"
+            },
+            {
+                "name": "Ryme, Louise"
+            },
+            {
+                "name": "Assefa, Astrid"
+            },
+            {
+                "name": "Hultén, Jens"
+            },
+            {
+                "name": "Söderman, Kenneth"
+            },
+            {
+                "name": "Mustonen, Kalled"
+            },
+            {
+                "name": "Ernrup, Suzanne"
+            },
+            {
+                "name": "Wahlström, Ola"
+            },
+            {
+                "name": "Almén, Emil"
+            },
+            {
+                "name": "Wanselow, Johannes"
+            },
+            {
+                "name": "Moritz, Nils"
+            },
+            {
+                "name": "Wedin, Leif"
+            },
+            {
+                "name": "Khemiri, Hamadi"
+            },
+            {
+                "name": "Johansson, Erik"
+            },
+            {
+                "name": "Schmidt, Carlo"
+            },
+            {
+                "name": "Forsblad, Åsa"
+            },
+            {
+                "name": "Knutsson, Karin"
+            },
+            {
+                "name": "Strömdahl, Lena"
+            },
+            {
+                "name": "Söderqvist, Nathalie"
+            }
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "240"
+        ],
+        "countries": [
+            "Sweden",
+            "Finland"
+        ],
+        "country codes": [
+            "se",
+            "fi"
+        ],
+        "language codes": [
+            "sv"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital::(5.1)"
+        ],
+        "original air date": "Jan 2009 (Sweden)",
+        "number of seasons": 1,
+        "rating": 7.8,
+        "votes": 337,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYzEyZTM4MTMtYzE1Yy00MWFjLThmMjktM2E1YjVhMzM4ZTM1XkEyXkFqcGdeQXVyNjYyNjUwNg@@._V1_SY150_CR3,0,101,150_.jpg",
+        "languages": [
+            "Swedish"
+        ],
+        "title": "Those Half Hidden",
+        "year": 2009,
+        "kind": "tv mini series",
+        "series years": "2009-2009",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Gardell, Jonas"
+            }
+        ],
+        "director": [
+            {
+                "name": "Kaijser, Simon"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Sveriges Television (SVT)"
+            },
+            {
+                "name": "Finlands Svenska Television (FST)"
+            },
+            {
+                "name": "Nordisk Film- & TV-Fond"
+            },
+            {
+                "name": "Nordvisionsfonden"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Sveriges Television (SVT)"
+            }
+        ],
+        "synopsis": [
+            "The story of \"The Half Hidden\" is like a tapestry, in which the threads run obliquely between four different families in two different decades. Weaving recurrent patterns, the story unfolds upon the loom of our vulnerability in lives that are as brittle as the morning ice.\nThis is the story of those who survived, and this is the story of those who did not survive.The half-hidden, Jonas Gardell engaging depiction of a number of people in the two eras. The script, brilliant acting and strong efforts directed by Simon Kaijser da Silva quickly made the half-hidden to a cult series - one of the most unpredictable, most poignant and breathtakingly exciting ever shown on Swedish television."
+        ],
+        "tech": {
+            "runtime": [
+                "4 hr (240 min) (entire series)"
+            ],
+            "sound mix": [
+                "Dolby Digital (5.1)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 337,
+                "rating": 7.8
+            },
+            "aged 18 29": {
+                "votes": 81,
+                "rating": 7.8
+            },
+            "aged 30 44": {
+                "votes": 147,
+                "rating": 7.9
+            },
+            "aged 45 plus": {
+                "votes": 49,
+                "rating": 7.9
+            },
+            "males": {
+                "votes": 175,
+                "rating": 7.7
+            },
+            "males aged 18 29": {
+                "votes": 42,
+                "rating": 7.6
+            },
+            "males aged 30 44": {
+                "votes": 94,
+                "rating": 7.8
+            },
+            "males aged 45 plus": {
+                "votes": 34,
+                "rating": 7.9
+            },
+            "females": {
+                "votes": 108,
+                "rating": 8.1
+            },
+            "females aged 18 29": {
+                "votes": 37,
+                "rating": 8.1
+            },
+            "females aged 30 44": {
+                "votes": 51,
+                "rating": 8.1
+            },
+            "females aged 45 plus": {
+                "votes": 15,
+                "rating": 7.9
+            },
+            "top 1000 voters": {
+                "votes": 9,
+                "rating": 6.8
+            },
+            "us users": {
+                "votes": 9,
+                "rating": 5.8
+            },
+            "non us users": {
+                "votes": 242,
+                "rating": 7.8
+            }
+        },
+        "number of votes": {
+            "10": 67,
+            "9": 73,
+            "8": 80,
+            "7": 73,
+            "6": 22,
+            "5": 12,
+            "4": 7,
+            "3": 0,
+            "2": 0,
+            "1": 3
+        },
+        "arithmetic mean": 8.0,
+        "median": 8
+    }
+}
