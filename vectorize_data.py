@@ -1,3 +1,5 @@
+import argparse
+import pandas as pd
 import pprint
 import numpy as np
 import calendar
@@ -13,7 +15,7 @@ logging.basicConfig(level=logging.INFO)
 def average_episode_length(data):
     ''' return the episode length '''
     try:
-        runtime = data['imdb']['runtimes'][0]
+        runtime = int(data['imdb']['runtimes'][0])
     except:
         runtime = None
     logging.debug('runtime = {}'.format(runtime))
@@ -195,6 +197,24 @@ def year(data):
     logging.debug('year = {}'.format(_year))
     return _year
 
+def total_votes(data):
+    try:
+        votes_dict = data['imdb']['number of votes']
+        _total_votes = sum(votes_dict.values())
+    except:
+        _total_votes = 0
+    return _total_votes
+
+def votes(data):
+    try:
+        _votes = data['imdb']['number of votes']
+    except:
+        _votes = None
+    return _votes
+
+
+            
+
 extract_functions = {'runtime': average_episode_length,
              #'years_running': years_running,
              'seasons': number_of_seasons,
@@ -202,17 +222,19 @@ extract_functions = {'runtime': average_episode_length,
              'release_date': release_date,
              'len_title': number_of_words_in_title,
              'num_writers': number_of_writers,
-             'rating_mean': rating_mean,
-             'rating_median': rating_median,
              'distributors': distributors,
              'year': year,
+             'rating_mean': rating_mean,
+             'rating_median': rating_median,
+             'total_votes': total_votes,
+             'votes': votes,
+             'demographics': demographics,
              'genres': genres,
              'countries': countries,
              'languages': languages,
              'aspect_ratio': aspect_ratio,
              'sound_mix': sound_mix,
              'certificates': certificates,
-             'demographics': demographics,
              'locations': number_of_shooting_locations}
 
 def get_all(key, data) -> set:
@@ -274,24 +296,25 @@ def clean_feature(feature: str, key) -> str:
     return clean.strip()
 
 
-def vect_id(key, data, matrix, feature_index_map):
-    for row, series in enumerate(data):
-        col = feature_index_map[key]
-        matrix[row, col] = series[key]
+def get_index(data):
+    ids = list()
+    for series in data:
+        ids.append(series['id'])
+    return ids
 
 
-def vect_value(key, data, matrix, feature_index_map):
+def vect_value(key, data, matrix, feature_list=None):
     feature_key = 'general {}'.format(key)
 
     # set the correct value
     for row, series in enumerate(data):
-        col = feature_index_map[feature_key]
-        val = series[key]
-        if val is not None:
-            matrix[row, col] = series[key]
+        if series[key] is None:
+            matrix[row][feature_key] = -1
+        else:
+            matrix[row][feature_key] = series[key]
 
-def vect_list(key, data, matrix, feature_index_map):
-    all_feature_keys = list(filter(lambda x: key in x, feature_index_map))
+def vect_list(key, data, matrix, feature_list):
+    all_feature_keys = list(filter(lambda x: key in x, feature_list))
     feature_key_format = '{} {}'
 
     # set the correct values
@@ -299,16 +322,26 @@ def vect_list(key, data, matrix, feature_index_map):
         if series[key] is not None:
             for val in series[key]:
                 feature_key = feature_key_format.format(key, clean_feature(val, key))
-                col = feature_index_map[feature_key]
-                matrix[row, col] = 1
-            for feature_key in all_feature_keys:
-                col = feature_index_map[feature_key]
-                if matrix[row, col] == -1:
-                    matrix[row, col] = 0
+                matrix[row][feature_key] = 1
+        for feature_key in all_feature_keys:
+            if feature_key not in matrix[row]:
+                matrix[row][feature_key] = 0
                     
+def vect_votes(key, data, matrix, feature_list):
+    all_feature_keys = list(filter(lambda x: key in x, feature_list))
+    key_format = key + ' {}'
+    
+    for i, series in enumerate(data):
+        if series[key] is not None:
+            for rank, num_of_votes in series[key].items():
+                feature_key = key_format.format(rank)
+                matrix[i][feature_key] = num_of_votes
+        for feature_key in all_feature_keys:
+            if feature_key not in matrix[i]:
+                matrix[i][feature_key] = 0
 
-def vect_demographics(key, data, matrix, feature_index_map):
-    all_feature_keys = list(filter(lambda x: key in x, feature_index_map))
+def vect_demographics(key, data, matrix, feature_list):
+    all_feature_keys = list(filter(lambda x: key in x, feature_list))
     data_points = ['votes', 'rating']
     key_format = key + ' {} {}'
 
@@ -318,54 +351,53 @@ def vect_demographics(key, data, matrix, feature_index_map):
             for name, element in series[key].items():
                 for data_type, val in element.items():
                     feature_key = key_format.format(name, data_type)
-                    col = feature_index_map[feature_key]
-                    matrix[row, col] = val
+                    matrix[row][feature_key] = val
 
-            for feature_key in all_feature_keys:
-                col = feature_index_map[feature_key]
-                if matrix[row, col] == -1:
-                    matrix[row, col] == 0
+        for feature_key in all_feature_keys:
+            if feature_key not in matrix[row]:
+                matrix[row][feature_key] = 0
 
 
-vectorize_functions = {'id': vect_id,
-             'runtime': vect_value,
+vectorize_functions = {'runtime': vect_value,
              #'years_running': years_running,
              'seasons': vect_value,
              'episodes': vect_value,
              'release_date': vect_value,
              'len_title': vect_value,
              'num_writers': vect_value,
-             'rating_mean': vect_value,
-             'rating_median': vect_value,
              'distributors': vect_value,
              'year': vect_value,
+             'rating_mean': vect_value,
+             'rating_median': vect_value,
+             'total_votes': vect_value,
+             'votes': vect_votes,
+             'demographics': vect_demographics,
              'genres': vect_list,
              'countries': vect_list,
              'languages': vect_list,
              'aspect_ratio': vect_list,
              'sound_mix': vect_list,
              'certificates': vect_list,
-             'demographics': vect_demographics,
              'locations': vect_list}
 
 def vectorize(data: list):
     # initialize vectorized data structure
-    feature_index_map = get_column_map(data)
-    matrix = init_matrix(data, feature_index_map)
+    feature_list = get_all_features(data)
+    ids = get_index(data)
+    matrix = [dict() for series in data]
     logging.info('vectorizing data...')
-
     for key, vect_func in vectorize_functions.items():
         logging.info('vectorizing {}...'.format(key))
         sys.stdout.flush()
-        vect_func(key, data, matrix, feature_index_map)
-    return matrix
+        vect_func(key, data, matrix, feature_list)
+    return pd.DataFrame(matrix, index=ids)
 
 def extract_data(paths) -> list:
     data = list()
     for path in paths:
         for json_file_path in Path(path).iterdir():
             series = dict()
-            series_id = int(str(json_file_path).split('/')[-1].split('.')[0][2:])
+            series_id = str(json_file_path).split('/')[-1].split('.')[0]
             series['id'] = series_id
 
             logging.info('extracting data from {}'.format(json_file_path))
@@ -377,36 +409,40 @@ def extract_data(paths) -> list:
             data.append(series)
     return data
 
-def get_column_map(data):
+def get_all_features(data):
     ''' returns a feature -> matrix column map '''
     voter_data = ['votes', 'rating']
-    index_feature_map = dict()
-    index_feature_map['id'] = 0
-    i = 1
+    feature_list = list()
+    feature_list.append('id')
     for key, func in vectorize_functions.items():
         if func is vect_value:
-            index_feature_map['general {}'.format(key)] = i
-            i += 1
+            feature_list.append('general {}'.format(key))
         if func is vect_list:
             all_options = get_all(key, data)
             for option in all_options:
-                index_feature_map['{} {}'.format(key, option)] = i
-                i += 1
+                feature_list.append('{} {}'.format(key, option))
         if func is vect_demographics:
             voter_types = get_all(key, data)
             for voter_type in voter_types:
-                index_feature_map['{} {}'.format(key, voter_type)] = i
-                i += 1
-    return index_feature_map
+                feature_list.append('{} {}'.format(key, voter_type))
+        if func is vect_votes:
+            feature_list += ['{} {}'.format(key, x) for x in range(1, 11, 1)]
+    return feature_list
 
 def init_matrix(data, column_map):
     return np.full((len(data), len(column_map)), -1, np.float)
 
 if __name__ == '__main__':
-    _data = extract_data(sys.argv[1:])
-    _feature_map = get_column_map(_data)
-    with open('pickled_data.pickle', 'wb') as _f:
-        _result = vectorize(_data)
-        for _key, _val in _feature_map.items():
-            print('{} {}'.format(_key, _result[1, _val]))
-        pickle.dump((_feature_map, _result), _f)
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-i', '--input', nargs='+', type=str, help='<Required> input directory', required=True)
+    parser.add_argument('-o', '--output', nargs=1, type=str, help='<Required> output file path', required=True)
+
+    args = parser.parse_args()
+    input_dirs = args.input
+    output_file_path = args.output[0]
+
+    _data = extract_data(input_dirs)
+    _result = vectorize(_data)
+    logging.info('Saving pickle...')
+    with open(output_file_path, 'wb') as _f:
+        pickle.dump(_result, _f)
