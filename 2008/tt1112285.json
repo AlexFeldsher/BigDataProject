@@ -1,0 +1,739 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "June 2008"
+            },
+            {
+                "country": "USA\n",
+                "date": "5 June 2008"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "6 December 2008"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "15 April 2010",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "27 January 2012",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "30 June 2012"
+            }
+        ],
+        "release dates": [
+            "Canada::June 2008",
+            "USA::5 June 2008",
+            "Hungary::6 December 2008",
+            "Netherlands::15 April 2010                            (DVD premiere)",
+            "Japan::27 January 2012                            (DVD premiere)",
+            "Sweden::30 June 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Fear Itself"
+            },
+            {
+                "countries": "Argentina",
+                "title": "Fear Itself"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Fear Itself: Antologia do Medo"
+            },
+            {
+                "countries": "France (DVD title)",
+                "title": "Fear Itself: Les Maîtres De La Peur"
+            },
+            {
+                "countries": "Greece (transliterated ISO-LATIN-1 title)",
+                "title": "Istories tromou"
+            },
+            {
+                "countries": "Greece",
+                "title": "Ιστορίες τρόμου"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A félelem maga"
+            },
+            {
+                "countries": "Poland (cable TV title)",
+                "title": "Fear Itself"
+            },
+            {
+                "countries": "Poland",
+                "title": "Oblicza strachu"
+            },
+            {
+                "countries": "Romania",
+                "title": "Frica"
+            },
+            {
+                "countries": "Russia",
+                "title": "Воплощение страха"
+            },
+            {
+                "countries": "Spain",
+                "title": "Terror en estado puro"
+            }
+        ],
+        "akas": [
+            "Fear Itself (original title)",
+            "Fear Itself Argentina",
+            "Fear Itself: Antologia do Medo Brazil",
+            "Fear Itself: Les Maîtres De La Peur France (DVD title)",
+            "Istories tromou Greece (transliterated ISO-LATIN-1 title)",
+            "Ιστορίες τρόμου Greece",
+            "A félelem maga Hungary",
+            "Fear Itself Poland (cable TV title)",
+            "Oblicza strachu Poland",
+            "Frica Romania",
+            "Воплощение страха Russia",
+            "Terror en estado puro Spain"
+        ],
+        "akas from release info": [
+            "Fear Itself (original title)",
+            "Fear Itself Argentina",
+            "Fear Itself: Antologia do Medo Brazil",
+            "Fear Itself: Les Maîtres De La Peur France (DVD title)",
+            "Istories tromou Greece (transliterated ISO-LATIN-1 title)",
+            "Ιστορίες τρόμου Greece",
+            "A félelem maga Hungary",
+            "Fear Itself Poland (cable TV title)",
+            "Oblicza strachu Poland",
+            "Frica Romania",
+            "Воплощение страха Russia",
+            "Terror en estado puro Spain"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Sacrifice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fear Itself (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 879,
+                    "original air date": "5 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n    Taking refuge in an isolated snow-covered fort, four criminals find secrets, dangers and three alluring sirens.    "
+                },
+                "2": {
+                    "title": "Spooked",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fear Itself (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 741,
+                    "original air date": "12 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n    A private eye has to face his demons while on a stakeout in a haunted house.    "
+                },
+                "3": {
+                    "title": "Family Man",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fear Itself (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 739,
+                    "original air date": "19 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n    A prisoner must protect his family when he inadvertently switches bodies with a serial killer after a near-death experience.    "
+                },
+                "4": {
+                    "title": "In Sickness and in Health",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fear Itself (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 752,
+                    "original air date": "26 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n    A bride receives a mysterious note on her wedding day, warning her that she is about to wed a serial killer.    "
+                },
+                "5": {
+                    "title": "Eater",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fear Itself (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 811,
+                    "original air date": "3 Jul. 2008",
+                    "year": "2008",
+                    "plot": "\n    Nothing is as it seems when a rookie cop is assigned to watch over a serial killer known as the \"Eater\".    "
+                },
+                "6": {
+                    "title": "New Year's Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fear Itself (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 702,
+                    "original air date": "17 Jul. 2008",
+                    "year": "2008",
+                    "plot": "\n    A young woman awakens in a post-apocalyptic world overrun by zombies.    "
+                },
+                "7": {
+                    "title": "Community",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fear Itself (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 638,
+                    "original air date": "24 Jul. 2008",
+                    "year": "2008",
+                    "plot": "\n    A young couple move into a secure gated community and discover its horrifying secret.    "
+                },
+                "8": {
+                    "title": "Skin and Bones",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fear Itself (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 687,
+                    "original air date": "31 Jul. 2008",
+                    "year": "2008",
+                    "plot": "\n    Rancher Grady Edlund returns home to his family after being lost in the forest for a number of days. He is possessed by a Wendigo.    "
+                },
+                "9": {
+                    "title": "Something with Bite",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fear Itself (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 387,
+                    "original air date": "3 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Wilbur is a veterinarian who begins to turn into a werewolf after being bitten by a large animal brought to his clinic.    "
+                },
+                "10": {
+                    "title": "Chance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fear Itself (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 340,
+                    "original air date": "10 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Chance Miller is a down-on-his-luck guy whose luck goes even worse when he finds himself dealing with his evil doppelganger.    "
+                },
+                "11": {
+                    "title": "The Spirit Box",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fear Itself (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 412,
+                    "original air date": "17 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Emily D'Angelo is a dead schoolgirl who speaks to her classmates from beyond the grave. She reveals that she was murdered and she wants her friends help to seek revenge.    "
+                },
+                "12": {
+                    "title": "Echoes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fear Itself (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 324,
+                    "original air date": "24 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    A friendly man discovers that he was a sadistic murderer in a previous life.    "
+                },
+                "13": {
+                    "title": "The Circle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fear Itself (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 348,
+                    "original air date": "31 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    A writer heads to a small town to try and recharge his creative juices. Unfortunately for him, the story he's working on seems to be happening to him and his wife, and it seems the darkness itself around their cabin is out to get them.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Donato, Margherita"
+            },
+            {
+                "name": "White, Valerie"
+            },
+            {
+                "name": "Jr., Clifton Collins"
+            },
+            {
+                "name": "Evigan, Briana"
+            },
+            {
+                "name": "Lawson, Maggie"
+            },
+            {
+                "name": "Moss, Elisabeth"
+            },
+            {
+                "name": "Pierce, Jeffrey"
+            },
+            {
+                "name": "Roberts, Eric"
+            },
+            {
+                "name": "Routh, Brandon"
+            },
+            {
+                "name": "Embry, Ethan"
+            },
+            {
+                "name": "Kendrick, Anna"
+            },
+            {
+                "name": "Pierce, Wendell"
+            },
+            {
+                "name": "Schaech, Johnathon"
+            },
+            {
+                "name": "Stanford, Aaron"
+            },
+            {
+                "name": "Appleby, Shiri"
+            },
+            {
+                "name": "Ferguson, Colin"
+            },
+            {
+                "name": "Hagan, Molly"
+            },
+            {
+                "name": "Henao, Zulay"
+            },
+            {
+                "name": "Hornsby, Russell"
+            },
+            {
+                "name": "Plemons, Jesse"
+            },
+            {
+                "name": "Roday, James"
+            },
+            {
+                "name": "Watros, Cynthia"
+            },
+            {
+                "name": "Balfour, Eric"
+            },
+            {
+                "name": "Curtis-Hall, Vondie"
+            },
+            {
+                "name": "Donovan, Martin"
+            },
+            {
+                "name": "Parker, Paula Jai"
+            },
+            {
+                "name": "Scott, Ashley"
+            },
+            {
+                "name": "Bell, Marshall"
+            },
+            {
+                "name": "Davis, Josie"
+            },
+            {
+                "name": "Jones, Doug"
+            },
+            {
+                "name": "Lee, Stephen"
+            },
+            {
+                "name": "Matter, Niall"
+            },
+            {
+                "name": "Miner, Rachel"
+            },
+            {
+                "name": "Noseworthy, Jack"
+            },
+            {
+                "name": "Pyper-Ferguson, John"
+            },
+            {
+                "name": "Tyson, Barbara"
+            },
+            {
+                "name": "Chatelain, Christine"
+            },
+            {
+                "name": "Guaty, Camille"
+            },
+            {
+                "name": "Kennedy, Jessica Parker"
+            },
+            {
+                "name": "Pratt, Victoria"
+            },
+            {
+                "name": "See, Kailin"
+            },
+            {
+                "name": "Bennett, Sonja"
+            },
+            {
+                "name": "Billingsley, John"
+            },
+            {
+                "name": "Jr., Lawrence Gilliard"
+            },
+            {
+                "name": "Hart, Stephen R."
+            },
+            {
+                "name": "Lobo, Stephen"
+            },
+            {
+                "name": "Monroe, Mircea"
+            },
+            {
+                "name": "Monteith, Cory"
+            },
+            {
+                "name": "Tootoosis, Gordon"
+            },
+            {
+                "name": "Barber, Gillian"
+            }
+        ],
+        "locations": [
+            "Edmonton, Alberta, Canada",
+            "St. Albert, Alberta, Canada",
+            "Devon, Alberta, Canada"
+        ],
+        "genres": [
+            "Horror"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "Canada",
+            "United States"
+        ],
+        "country codes": [
+            "ca",
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.33 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Netherlands:16",
+            "Singapore:PG13",
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 7.0,
+        "votes": 3900,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTY4NzE5NjU1OF5BMl5BanBnXkFtZTcwMzU5MDEwNQ@@._V1_SY150_CR5,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Fear Itself",
+        "year": 2008,
+        "kind": "tv series",
+        "series years": "2008-2009",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Garris, Mick"
+            },
+            {
+                "name": "Chizmar, Richard"
+            },
+            {
+                "name": "Schaech, Johnathon"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Fear Itself Productions"
+            },
+            {
+                "name": "Industry Entertainment"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "National Broadcasting Company (NBC)"
+            },
+            {
+                "name": "5*"
+            },
+            {
+                "name": "A-Film Home Entertainment"
+            },
+            {
+                "name": "AXN Beyond"
+            },
+            {
+                "name": "AXN Sci-Fi"
+            },
+            {
+                "name": "AXN Sci-Fi"
+            },
+            {
+                "name": "AXN Sci-Fi"
+            },
+            {
+                "name": "AXN Sci-Fi"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "Cuatro"
+            },
+            {
+                "name": "FX Network"
+            },
+            {
+                "name": "Fox"
+            },
+            {
+                "name": "Globosat HD"
+            },
+            {
+                "name": "Kadokawa Shoten Publishing Co."
+            },
+            {
+                "name": "Kanal 6"
+            },
+            {
+                "name": "Lionsgate Home Entertainment"
+            },
+            {
+                "name": "MBC Action"
+            },
+            {
+                "name": "Orange Cinechoc"
+            },
+            {
+                "name": "Ren-TV"
+            },
+            {
+                "name": "Skai TV"
+            },
+            {
+                "name": "Space"
+            },
+            {
+                "name": "Studio 23"
+            },
+            {
+                "name": "TV3 Slovenia"
+            },
+            {
+                "name": "TV3+"
+            },
+            {
+                "name": "Viasat 4"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Hi-Ground Media"
+            },
+            {
+                "name": "KNB EFX Group"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Cut Music"
+            },
+            {
+                "name": "Entertainment Clearances"
+            },
+            {
+                "name": "NovaStar Digital"
+            },
+            {
+                "name": "Panavision"
+            },
+            {
+                "name": "Studio Post"
+            },
+            {
+                "name": "The Post Group Production Suites"
+            },
+            {
+                "name": "Thomas Cobb Design"
+            },
+            {
+                "name": "William F. White International"
+            }
+        ],
+        "plot": [
+            "A television series broken down into thirteen separate sixty-minute films from premiere horror writers and directors."
+        ],
+        "tech": {
+            "runtime": [
+                "43 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.33 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3900,
+                "rating": 7.0
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "aged 18 29": {
+                "votes": 685,
+                "rating": 7.4
+            },
+            "aged 30 44": {
+                "votes": 2105,
+                "rating": 7.0
+            },
+            "aged 45 plus": {
+                "votes": 661,
+                "rating": 6.9
+            },
+            "males": {
+                "votes": 2608,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 448,
+                "rating": 7.5
+            },
+            "males aged 30 44": {
+                "votes": 1599,
+                "rating": 6.9
+            },
+            "males aged 45 plus": {
+                "votes": 500,
+                "rating": 6.8
+            },
+            "females": {
+                "votes": 905,
+                "rating": 7.3
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 18 29": {
+                "votes": 232,
+                "rating": 7.3
+            },
+            "females aged 30 44": {
+                "votes": 495,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 150,
+                "rating": 7.2
+            },
+            "top 1000 voters": {
+                "votes": 98,
+                "rating": 6.4
+            },
+            "us users": {
+                "votes": 1396,
+                "rating": 7.1
+            },
+            "non us users": {
+                "votes": 1757,
+                "rating": 6.9
+            }
+        },
+        "number of votes": {
+            "10": 722,
+            "9": 332,
+            "8": 666,
+            "7": 902,
+            "6": 539,
+            "5": 298,
+            "4": 148,
+            "3": 92,
+            "2": 68,
+            "1": 133
+        },
+        "arithmetic mean": 7.1,
+        "median": 7
+    }
+}

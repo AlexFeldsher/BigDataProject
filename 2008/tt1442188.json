@@ -1,0 +1,379 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "25 December 2008"
+            },
+            {
+                "country": "Germany\n",
+                "date": "2 March 2009"
+            },
+            {
+                "country": "USA\n",
+                "date": "23 July 2009"
+            },
+            {
+                "country": "USA\n",
+                "date": "30 July 2009"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "22 December 2012"
+            }
+        ],
+        "release dates": [
+            "Germany::25 December 2008",
+            "Germany::2 March 2009",
+            "USA::23 July 2009",
+            "USA::30 July 2009",
+            "Belgium::22 December 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Wildes Russland"
+            },
+            {
+                "countries": "Germany (informal title)",
+                "title": "Erlebnis Erde - Wildes Russland"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Kinn az orosz vadonban"
+            },
+            {
+                "countries": "Russia",
+                "title": "Дикая природа России"
+            },
+            {
+                "countries": "USA (English title)",
+                "title": "Wild Russia"
+            }
+        ],
+        "akas": [
+            "Wildes Russland (original title)",
+            "Erlebnis Erde - Wildes Russland Germany (informal title)",
+            "Kinn az orosz vadonban Hungary",
+            "Дикая природа России Russia",
+            "Wild Russia USA (English title)"
+        ],
+        "akas from release info": [
+            "Wildes Russland (original title)",
+            "Erlebnis Erde - Wildes Russland Germany (informal title)",
+            "Kinn az orosz vadonban Hungary",
+            "Дикая природа России Russia",
+            "Wild Russia USA (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Der Kaukasus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Russia (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 38,
+                    "original air date": "30 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    On European Russia southwestern border with Transcaucasia and Asia, the Caucasus stretches from the Caspian Sea to the Black Sea. Its mountains and hills are quiet varied and rich in wildlife, some plant - and animal species like neighboring regions, some unique. Many are specifically adapted to various Heights, with star predators like eagles, various bears and even a unique lynx.    "
+                },
+                "2": {
+                    "title": "Der Ural",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Russia (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 29,
+                    "original air date": "6 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    The Ural mountain range separates Europe and Asia trough Russia. Its vast forests and marshes harbor great wildlife populations, including some rare of even unique species. Mink is among the nearly extinct natives. Iconic predators include bears and wolves as well as wolverines.    "
+                },
+                "3": {
+                    "title": "Sibirien",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Russia (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 39,
+                    "original air date": "30 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Die Arktis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Russia (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 34,
+                    "original air date": "6 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    Northernmost Russia, on the Arctic Circle, has extreme seasons, even by Siberian standards. The case of Wrangel island demonstrates its rich wildlife and the animals' ruthless struggle for survival. Many species migrate, like polar bears, some as far as the Berentz sea or even North America.    "
+                },
+                "5": {
+                    "title": "Der Ferne Osten",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Russia (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 39,
+                    "original air date": "23 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Primorye, a vast 'primordial forest' in the Russian Far East's Usuriya region near the river Amur, the Chinese border, has an extremely rich and varied wildlife. Its greatly varying seasons also attract some migratory species, while great cats like the Siberian tiger cover huge territories. Vast wetlands, marshes and lakes add to its variety.    "
+                },
+                "6": {
+                    "title": "Kamtschatka",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Russia (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 45,
+                    "original air date": "23 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Kamtschatka, a Russian Far Eastern peninsula of Siberia stretching into the Sea of Ochotsk towards Japan, has a rich wildlife subject to (by Siberian standards not so) extreme seasonal extremes. The short summer a,d intermediate seasons are abundant, the long winter almost as grim as in permafrost.    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "The Secret Forest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Wild Russia (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 7,
+        "cast": [
+            {
+                "name": "Brückner, Christian"
+            },
+            {
+                "name": "Hildebrandt, Jason"
+            },
+            {
+                "name": "Joseph, Paterson"
+            },
+            {
+                "name": "Wöhler, Hans Henrik"
+            }
+        ],
+        "locations": [
+            "Russia"
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "360"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "country codes": [
+            "de"
+        ],
+        "language codes": [
+            "de"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "United States:TV-PG"
+        ],
+        "original air date": "23 Jul 2009 (USA)",
+        "number of seasons": 1,
+        "rating": 8.5,
+        "votes": 472,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTc2NDc0NzY3MV5BMl5BanBnXkFtZTgwNjA1MTcyNzE@._V1_SY150_CR6,0,101,150_.jpg",
+        "languages": [
+            "German"
+        ],
+        "title": "Wild Russia",
+        "year": 2008,
+        "kind": "tv mini series",
+        "series years": "2008-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Mitchell, Trish"
+            },
+            {
+                "name": "Zorn, Steven"
+            },
+            {
+                "name": "Levinson, Amber"
+            }
+        ],
+        "director": [
+            {
+                "name": "Goetzl, Oliver"
+            },
+            {
+                "name": "Mennle, Tobias"
+            },
+            {
+                "name": "Nörenberg, Ivo"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Animal Planet"
+            },
+            {
+                "name": "JWM Productions"
+            },
+            {
+                "name": "NDR Naturfilm"
+            },
+            {
+                "name": "Norddeutscher Rundfunk"
+            },
+            {
+                "name": "Parthenon Entertainment"
+            },
+            {
+                "name": "Studio Hamburg Filmproduktion"
+            },
+            {
+                "name": "Studio Hamburg International Production"
+            },
+            {
+                "name": "Westdeutscher Rundfunk"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Animal Planet"
+            },
+            {
+                "name": "Norddeutscher Rundfunk (NDR)"
+            },
+            {
+                "name": "Polyband"
+            },
+            {
+                "name": "Polyband"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Percolate Digital"
+            }
+        ],
+        "plot": [
+            "An in-depth look at Russia's most natural wonders including Siberia, Kamchatka, the Artic, Caucasus, Primorye, and the Urals.::Simba63"
+        ],
+        "tech": {
+            "runtime": [
+                "6 hr (360 min) (including commercials) (USA)",
+                "45 min (6 episodes)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 472,
+                "rating": 8.5
+            },
+            "aged 18 29": {
+                "votes": 93,
+                "rating": 8.7
+            },
+            "aged 30 44": {
+                "votes": 238,
+                "rating": 8.5
+            },
+            "aged 45 plus": {
+                "votes": 68,
+                "rating": 8.4
+            },
+            "males": {
+                "votes": 344,
+                "rating": 8.5
+            },
+            "males aged 18 29": {
+                "votes": 68,
+                "rating": 8.6
+            },
+            "males aged 30 44": {
+                "votes": 213,
+                "rating": 8.5
+            },
+            "males aged 45 plus": {
+                "votes": 58,
+                "rating": 8.4
+            },
+            "females": {
+                "votes": 58,
+                "rating": 8.9
+            },
+            "females aged 18 29": {
+                "votes": 24,
+                "rating": 9.0
+            },
+            "females aged 30 44": {
+                "votes": 24,
+                "rating": 8.9
+            },
+            "females aged 45 plus": {
+                "votes": 10,
+                "rating": 8.6
+            },
+            "top 1000 voters": {
+                "votes": 20,
+                "rating": 7.5
+            },
+            "us users": {
+                "votes": 86,
+                "rating": 8.2
+            },
+            "non us users": {
+                "votes": 274,
+                "rating": 8.6
+            }
+        },
+        "number of votes": {
+            "10": 182,
+            "9": 109,
+            "8": 94,
+            "7": 49,
+            "6": 23,
+            "5": 5,
+            "4": 4,
+            "3": 1,
+            "2": 1,
+            "1": 4
+        },
+        "arithmetic mean": 8.7,
+        "median": 9
+    }
+}

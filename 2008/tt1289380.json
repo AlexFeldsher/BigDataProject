@@ -1,0 +1,277 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Spain\n",
+                "date": "15 December 2008"
+            },
+            {
+                "country": "France\n",
+                "date": "3 December 2009"
+            }
+        ],
+        "release dates": [
+            "Spain::15 December 2008",
+            "France::3 December 2009"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "El castigo"
+            },
+            {
+                "countries": "France",
+                "title": "Le châtiment"
+            },
+            {
+                "countries": "USA",
+                "title": "The Punishment"
+            }
+        ],
+        "akas": [
+            "El castigo (original title)",
+            "Le châtiment France",
+            "The Punishment USA"
+        ],
+        "akas from release info": [
+            "El castigo (original title)",
+            "Le châtiment France",
+            "The Punishment USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Punishment (TV Mini-Series 2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "15 Dec. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Punishment (TV Mini-Series 2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "16 Dec. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Barrientos, Guillermo"
+            },
+            {
+                "name": "Giovanelli, Miriam"
+            },
+            {
+                "name": "Sinela, Óscar"
+            },
+            {
+                "name": "Bosqued, Joel"
+            },
+            {
+                "name": "Calvó, Marta"
+            },
+            {
+                "name": "Villa, Alfredo"
+            },
+            {
+                "name": "Moya, Esmeralda"
+            },
+            {
+                "name": "Alonso, Ramiro"
+            },
+            {
+                "name": "Calparsoro, Carla"
+            },
+            {
+                "name": "Germán, Montse"
+            },
+            {
+                "name": "Lobato, Liz"
+            },
+            {
+                "name": "Martínez, Toni"
+            },
+            {
+                "name": "Paso, Manuela"
+            },
+            {
+                "name": "Ruyman, Jesús"
+            }
+        ],
+        "locations": [
+            "Madrid, Spain"
+        ],
+        "genres": [
+            "Thriller"
+        ],
+        "runtimes": [
+            "180"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "country codes": [
+            "es"
+        ],
+        "language codes": [
+            "es"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "original air date": "15 Dec 2008 (Spain)",
+        "number of seasons": 1,
+        "rating": 5.1,
+        "votes": 120,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOTliMTg1MWMtYWY3Yi00ZjZmLTlkOGQtOWQ5NzU4YTk4NjY4XkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_SY150_CR6,0,101,150_.jpg",
+        "languages": [
+            "Spanish"
+        ],
+        "title": "The Punishment",
+        "year": 2008,
+        "kind": "tv mini series",
+        "series years": "2008-2008",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Calparsoro, Daniel"
+            }
+        ],
+        "director": [
+            {
+                "name": "Calparsoro, Daniel"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Antena 3 Films"
+            },
+            {
+                "name": "Antena 3 Televisión"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Antena 3 Televisión"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aluzine Rentals"
+            },
+            {
+                "name": "Pecera Estudio"
+            },
+            {
+                "name": "Southern Sun"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "3 hr (180 min)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 120,
+                "rating": 5.1
+            },
+            "aged 18 29": {
+                "votes": 28,
+                "rating": 5.2
+            },
+            "aged 30 44": {
+                "votes": 57,
+                "rating": 5.5
+            },
+            "aged 45 plus": {
+                "votes": 26,
+                "rating": 4.2
+            },
+            "males": {
+                "votes": 91,
+                "rating": 5.2
+            },
+            "males aged 18 29": {
+                "votes": 17,
+                "rating": 5.2
+            },
+            "males aged 30 44": {
+                "votes": 49,
+                "rating": 5.6
+            },
+            "males aged 45 plus": {
+                "votes": 24,
+                "rating": 4.3
+            },
+            "females": {
+                "votes": 19,
+                "rating": 5.3
+            },
+            "females aged 18 29": {
+                "votes": 11,
+                "rating": 5.3
+            },
+            "females aged 30 44": {
+                "votes": 6,
+                "rating": 5.0
+            },
+            "females aged 45 plus": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "top 1000 voters": {
+                "votes": 4,
+                "rating": 4.8
+            },
+            "us users": {
+                "votes": 2,
+                "rating": 5.5
+            },
+            "non us users": {
+                "votes": 104,
+                "rating": 5.2
+            }
+        },
+        "number of votes": {
+            "10": 7,
+            "9": 6,
+            "8": 5,
+            "7": 13,
+            "6": 29,
+            "5": 24,
+            "4": 16,
+            "3": 11,
+            "2": 2,
+            "1": 7
+        },
+        "arithmetic mean": 5.5,
+        "median": 5
+    }
+}

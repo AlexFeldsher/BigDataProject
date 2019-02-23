@@ -1,0 +1,396 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "10 July 2008"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "11 July 2009"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "13 September 2009"
+            }
+        ],
+        "release dates": [
+            "USA::10 July 2008",
+            "Hungary::11 July 2009",
+            "Sweden::13 September 2009"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Greatest American Dog"
+            },
+            {
+                "countries": "Greece",
+                "title": "Greatest American Dog"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Ki ugat a végén?"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "America's Top Dog"
+            }
+        ],
+        "akas": [
+            "Greatest American Dog (original title)",
+            "Greatest American Dog Greece",
+            "Ki ugat a végén? Hungary",
+            "America's Top Dog USA (working title)"
+        ],
+        "akas from release info": [
+            "Greatest American Dog (original title)",
+            "Greatest American Dog Greece",
+            "Ki ugat a végén? Hungary",
+            "America's Top Dog USA (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Here's to Man and Woman's Best Friend",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Greatest American Dog (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "10 Jul. 2008",
+                    "year": "2008",
+                    "plot": "\n    The 12 dogs and their owners move in to the Canine Academy mansion, evaluate their competitors and compete for the luxury Dog Bone Suite.    "
+                },
+                "2": {
+                    "title": "He's a Farter, Not a Fighter",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Greatest American Dog (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "17 Jul. 2008",
+                    "year": "2008",
+                    "plot": "\n    A pint-sized pup with a Napoleon complex bullies a bigger canine competitor.    "
+                },
+                "3": {
+                    "title": "The Fast and the Furriest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Greatest American Dog (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "24 Jul. 2008",
+                    "year": "2008",
+                    "plot": "\n    Elvis and David work hard to shatter Elvis' reputation as a \"Jack Russell Terrorist\".    "
+                },
+                "4": {
+                    "title": "Top Dog Model",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Greatest American Dog (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "30 Jul. 2008",
+                    "year": "2008",
+                    "plot": "\n    The dogs and owners work with a photographer.    "
+                },
+                "5": {
+                    "title": "Dancing with the Dogs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Greatest American Dog (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "6 Aug. 2008",
+                    "year": "2008",
+                    "plot": "\n    The remaining eight teams of dogs and owners display their talents on the dance floor.    "
+                },
+                "6": {
+                    "title": "Salvador Doggy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Greatest American Dog (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "13 Aug. 2008",
+                    "year": "2008",
+                    "plot": "\n    The dogs express themselves creatively in a Best In Show painting competition.    "
+                },
+                "7": {
+                    "title": "The Big Dig",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Greatest American Dog (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "20 Aug. 2008",
+                    "year": "2008",
+                    "plot": "\n    The house is divided as a lesson in dog training turns ugly and heated.    "
+                },
+                "8": {
+                    "title": "My Dog Can Fly!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Greatest American Dog (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "27 Aug. 2008",
+                    "year": "2008",
+                    "plot": "\n    The dogs confront an elephant and are given the chance to fly.    "
+                },
+                "9": {
+                    "title": "Dog Swap",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Greatest American Dog (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "3 Sep. 2008",
+                    "year": "2008",
+                    "plot": "\n    An injury threatens to pull a canine front-runner out of the competition.    "
+                },
+                "10": {
+                    "title": "The Greatest American Dog Is...",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Greatest American Dog (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "10 Sep. 2008",
+                    "year": "2008",
+                    "plot": "\n    The Final Three teams compete in an elaborate Best In Show competition which combines some of the more challenging competitions from previous weeks.    "
+                }
+            }
+        },
+        "number of episodes": 10,
+        "cast": [
+            {
+                "name": "Brorsen, Travis"
+            },
+            {
+                "name": "Nativo, Laura"
+            },
+            {
+                "name": "Nativo, Preston"
+            },
+            {
+                "name": "Knutsen, Beth Joy"
+            },
+            {
+                "name": "Platt, J.D."
+            },
+            {
+                "name": "Diamond, Wendy"
+            },
+            {
+                "name": "Hanula, Teresa"
+            },
+            {
+                "name": "McFarlin, Bill"
+            },
+            {
+                "name": "Miller, Jarod"
+            },
+            {
+                "name": "Reznik, Allan"
+            },
+            {
+                "name": "Stilwell, Victoria"
+            },
+            {
+                "name": "Williams, Laurie"
+            },
+            {
+                "name": "Davis, Ron"
+            },
+            {
+                "name": "Yant, Brandy"
+            },
+            {
+                "name": "Best, David"
+            },
+            {
+                "name": "Hagen, Elan"
+            },
+            {
+                "name": "McMillan, Kirstin"
+            },
+            {
+                "name": "Piper-Younie, Michael"
+            },
+            {
+                "name": "Roach, Tom"
+            }
+        ],
+        "genres": [
+            "Reality-TV"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "rating": 7.2,
+        "votes": 93,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTc0MTAwNTgxNF5BMl5BanBnXkFtZTcwODkzMzc3MQ@@._V1_SY150_CR60,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Greatest American Dog",
+        "year": 2008,
+        "kind": "tv series",
+        "series years": "2008-",
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Actual Reality Pictures"
+            },
+            {
+                "name": "Magic Molehill Productions"
+            },
+            {
+                "name": "Triage Entertainment"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CBS"
+            },
+            {
+                "name": "Viasat3"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Movie Movers"
+            },
+            {
+                "name": "Out Of Frame Production Rentals"
+            },
+            {
+                "name": "Vanacore Music"
+            }
+        ],
+        "plot": [
+            "Dog owners compete with their pets to determine who has the best-trained dog.::IMDb editor"
+        ],
+        "tech": {
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 93,
+                "rating": 7.2
+            },
+            "aged 18 29": {
+                "votes": 14,
+                "rating": 6.0
+            },
+            "aged 30 44": {
+                "votes": 37,
+                "rating": 6.3
+            },
+            "aged 45 plus": {
+                "votes": 31,
+                "rating": 6.7
+            },
+            "males": {
+                "votes": 40,
+                "rating": 5.8
+            },
+            "males aged 18 29": {
+                "votes": 8,
+                "rating": 6.6
+            },
+            "males aged 30 44": {
+                "votes": 17,
+                "rating": 4.8
+            },
+            "males aged 45 plus": {
+                "votes": 14,
+                "rating": 6.2
+            },
+            "females": {
+                "votes": 44,
+                "rating": 7.5
+            },
+            "females aged 18 29": {
+                "votes": 6,
+                "rating": 4.7
+            },
+            "females aged 30 44": {
+                "votes": 20,
+                "rating": 8.2
+            },
+            "females aged 45 plus": {
+                "votes": 17,
+                "rating": 7.4
+            },
+            "top 1000 voters": {
+                "votes": 6,
+                "rating": 4.0
+            },
+            "us users": {
+                "votes": 58,
+                "rating": 7.1
+            },
+            "non us users": {
+                "votes": 23,
+                "rating": 5.3
+            }
+        },
+        "number of votes": {
+            "10": 27,
+            "9": 18,
+            "8": 8,
+            "7": 12,
+            "6": 5,
+            "5": 5,
+            "4": 4,
+            "3": 0,
+            "2": 4,
+            "1": 10
+        },
+        "arithmetic mean": 7.2,
+        "median": 8
+    }
+}

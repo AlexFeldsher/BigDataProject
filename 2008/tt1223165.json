@@ -1,0 +1,626 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "5 May 2008"
+            },
+            {
+                "country": "France\n",
+                "date": "8 May 2008"
+            },
+            {
+                "country": "Germany\n",
+                "date": "19 July 2008"
+            }
+        ],
+        "release dates": [
+            "UK::5 May 2008",
+            "France::8 May 2008",
+            "Germany::19 July 2008"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Famous 5: On the Case"
+            },
+            {
+                "countries": "France",
+                "title": "Le club des 5: Nouvelles enquêtes"
+            },
+            {
+                "countries": "Germany",
+                "title": "5 Freunde - Für alle Fälle"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Ötös fogat: Kölyökzsaruk akcióban"
+            }
+        ],
+        "akas": [
+            "Famous 5: On the Case (original title)",
+            "Le club des 5: Nouvelles enquêtes France",
+            "5 Freunde - Für alle Fälle Germany",
+            "Ötös fogat: Kölyökzsaruk akcióban Hungary"
+        ],
+        "akas from release info": [
+            "Famous 5: On the Case (original title)",
+            "Le club des 5: Nouvelles enquêtes France",
+            "5 Freunde - Für alle Fälle Germany",
+            "Ötös fogat: Kölyökzsaruk akcióban Hungary"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Case of the Fudgie Fry Pirates",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "5 May 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "The Case of the Plant that Could Eat Your House",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "10 May 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "The Case of the Thief Who Drinks from the Toilet",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "17 May 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "The Case of the Hot-Air-Ba-Boom",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "24 May 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "The Case of the Stinky Smell",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "31 May 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "The Case of the Impolite, Snarly Thing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "The Case of the Sticks and Their Tricks",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "14 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "The Case of the Plot to Pull the Plug",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "19 Jul. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "The Case of the Defective Detective",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "26 Jul. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "The Case of Allie's Really Very Bad Singing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "11": {
+                    "title": "The Case of the Medieval Meathead",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "9 Aug. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "The Case of the Guy Who Makes You Act Like a Chicken",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "16 Aug. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "13": {
+                    "title": "The Case of the Messy Mucked-Up Masterpiece",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "original air date": "23 Aug. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "14": {
+                    "title": "The Case of the Felon with Frosty Fingers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "15": {
+                    "title": "The Case of the Bogus Banknotes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "16": {
+                    "title": "The Case of the Eight Arms and No Fingerprints",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "17": {
+                    "title": "Episode #1.17",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "18": {
+                    "title": "Episode #1.18",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "19": {
+                    "title": "Episode #1.19",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "20": {
+                    "title": "Episode #1.20",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "21": {
+                    "title": "The Case of the Cactus, the Coot and the Cowboy Boot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "22": {
+                    "title": "Episode #1.22",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "23": {
+                    "title": "The Case of the Snow, the Glow and the Oh No!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 23,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "24": {
+                    "title": "The Case of the Fish That Flew the Coop",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 24,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "25": {
+                    "title": "The Case of the Museum That Got Mashed and Mangled",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 25,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "26": {
+                    "title": "The Case of the Gold Metal and the Iron Horse",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 26,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "The Plant That Could Eat Your House",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Famous 5: On the Case (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "15 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 27,
+        "cast": [
+            {
+                "name": "Grull, Hervé"
+            },
+            {
+                "name": "Pic, Alexandra"
+            },
+            {
+                "name": "Solanki, Shridhar"
+            },
+            {
+                "name": "Janson, Ciara"
+            },
+            {
+                "name": "Metzger, Kelly"
+            },
+            {
+                "name": "Waterworth, Lizzie"
+            },
+            {
+                "name": "Lee, Jon"
+            },
+            {
+                "name": "Fletcher, Justin"
+            },
+            {
+                "name": "Beretta, Barbara"
+            },
+            {
+                "name": "Dourlens, Laurence"
+            },
+            {
+                "name": "N'Guyen, Alexandre"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "runtimes": [
+            "21"
+        ],
+        "countries": [
+            "France",
+            "United Kingdom"
+        ],
+        "country codes": [
+            "fr",
+            "gb"
+        ],
+        "language codes": [
+            "en",
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.33 : 1",
+        "original air date": "05 May 2008 (UK)",
+        "number of seasons": 1,
+        "rating": 5.0,
+        "votes": 66,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZGRkNWVmNDgtZDZhOS00YjM0LWJlZDUtZmI3YWVhOWU1YTM3XkEyXkFqcGdeQXVyNDU2Mzg5MTM@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "English",
+            "French"
+        ],
+        "title": "Famous 5: On the Case",
+        "year": 2008,
+        "kind": "tv mini series",
+        "series years": "2008-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Easton, Charleen"
+            },
+            {
+                "name": "Fybel, Dan"
+            },
+            {
+                "name": "Halke, Rich"
+            }
+        ],
+        "director": [
+            {
+                "name": "Pinon, Pascal"
+            },
+            {
+                "name": "Sapyn, Thierry"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Chorion"
+            },
+            {
+                "name": "France 3"
+            },
+            {
+                "name": "Marathon"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Disney Channel Australia"
+            },
+            {
+                "name": "Disney Channel Scandinavia"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "France 3 (FR 3)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Caribara"
+            },
+            {
+                "name": "Digital eMation"
+            },
+            {
+                "name": "Ramsès"
+            },
+            {
+                "name": "SyncMagic"
+            },
+            {
+                "name": "The Voice and Music Company"
+            },
+            {
+                "name": "Vida Spark Productions"
+            }
+        ],
+        "plot": [
+            "A new and modern adaptation of the Famous Five books written by Enid Blyton.::alexkurt"
+        ],
+        "tech": {
+            "runtime": [
+                "21 min"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.33 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 66,
+                "rating": 5.0
+            },
+            "aged under 18": {
+                "votes": 3,
+                "rating": 6.0
+            },
+            "aged 18 29": {
+                "votes": 22,
+                "rating": 4.6
+            },
+            "aged 30 44": {
+                "votes": 14,
+                "rating": 3.3
+            },
+            "aged 45 plus": {
+                "votes": 11,
+                "rating": 3.2
+            },
+            "males": {
+                "votes": 38,
+                "rating": 3.7
+            },
+            "males aged under 18": {
+                "votes": 3,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 15,
+                "rating": 4.4
+            },
+            "males aged 30 44": {
+                "votes": 10,
+                "rating": 2.1
+            },
+            "males aged 45 plus": {
+                "votes": 10,
+                "rating": 3.4
+            },
+            "females": {
+                "votes": 13,
+                "rating": 4.9
+            },
+            "females aged 18 29": {
+                "votes": 7,
+                "rating": 5.1
+            },
+            "females aged 30 44": {
+                "votes": 4,
+                "rating": 6.0
+            },
+            "females aged 45 plus": {
+                "votes": 1,
+                "rating": 2.0
+            },
+            "top 1000 voters": {
+                "votes": 9,
+                "rating": 4.8
+            },
+            "us users": {
+                "votes": 8,
+                "rating": 3.0
+            },
+            "non us users": {
+                "votes": 36,
+                "rating": 4.0
+            }
+        },
+        "number of votes": {
+            "10": 8,
+            "9": 1,
+            "8": 7,
+            "7": 9,
+            "6": 7,
+            "5": 4,
+            "4": 3,
+            "3": 5,
+            "2": 9,
+            "1": 13
+        },
+        "arithmetic mean": 5.0,
+        "median": 5
+    }
+}

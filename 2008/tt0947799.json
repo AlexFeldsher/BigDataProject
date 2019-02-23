@@ -1,0 +1,345 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "4 February 2008"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "25 May 2011"
+            }
+        ],
+        "release dates": [
+            "USA::4 February 2008",
+            "Sweden::25 May 2011"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Welcome to the Captain"
+            },
+            {
+                "countries": "Russia",
+                "title": "Добро пожаловать в 'Капитана'"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "The Captain"
+            }
+        ],
+        "akas": [
+            "Welcome to the Captain (original title)",
+            "Добро пожаловать в 'Капитана' Russia",
+            "The Captain USA (working title)"
+        ],
+        "akas from release info": [
+            "Welcome to the Captain (original title)",
+            "Добро пожаловать в 'Капитана' Russia",
+            "The Captain USA (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Welcome to the Captain (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 16,
+                    "original air date": "4 Feb. 2008",
+                    "year": "2008",
+                    "plot": "\n    Josh Flug is a Hollywood whiz kid whose filmmaking career has hit a wall. Just when he is about to move back to New York, his accountant-to-the-stars best friend, Marty, convinces him to move into his legendary apartment building.    "
+                },
+                "2": {
+                    "title": "Weekend at Saul's",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Welcome to the Captain (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 9,
+                    "original air date": "11 Feb. 2008",
+                    "year": "2008",
+                    "plot": "\n    When Josh invites Hope to stay at his apartment for the weekend, Uncle Saul convinces him that it is a bad move, and persuades him to stay at his weekend retreat in order to make her jealous.    "
+                },
+                "3": {
+                    "title": "The Letter",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Welcome to the Captain (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 11,
+                    "original air date": "18 Feb. 2008",
+                    "year": "2008",
+                    "plot": "\n    With help from Jesus and Uncle Saul, Josh tries to plan the perfect dinner for Hope.    "
+                },
+                "4": {
+                    "title": "The Wrecking Crew",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Welcome to the Captain (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 9,
+                    "original air date": "25 Feb. 2008",
+                    "year": "2008",
+                    "plot": "\n    Josh and the guys go out for a night on the town while Hope searches the building for someone to watch a movie with.    "
+                },
+                "5": {
+                    "title": "Mr. Big Meeting",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Welcome to the Captain (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 12,
+                    "original air date": "3 Mar. 2008",
+                    "year": "2008",
+                    "plot": "\n    After Marty lands Josh a meeting with the president of Paramount, Uncle Saul insists on helping him with his pitch.    "
+                }
+            }
+        },
+        "number of episodes": 5,
+        "cast": [
+            {
+                "name": "Kranz, Fran"
+            },
+            {
+                "name": "Klein, Chris"
+            },
+            {
+                "name": "Madrigal, Al"
+            },
+            {
+                "name": "Tambor, Jeffrey"
+            },
+            {
+                "name": "Swisher, JoAnna Garcia"
+            },
+            {
+                "name": "Welch, Raquel"
+            },
+            {
+                "name": "Azlynn, Valerie"
+            },
+            {
+                "name": "Barry, Raymond J."
+            },
+            {
+                "name": "Woods, Christine"
+            },
+            {
+                "name": "Appleby, Shiri"
+            },
+            {
+                "name": "Bachmann, Michael"
+            },
+            {
+                "name": "DeWulf, Noureen"
+            },
+            {
+                "name": "Einstein, Bob"
+            },
+            {
+                "name": "Fatone, Joey"
+            },
+            {
+                "name": "Fatso-Fasano"
+            },
+            {
+                "name": "Held, Harrison"
+            },
+            {
+                "name": "Jacott, Carlos"
+            },
+            {
+                "name": "Lyn, Nicole"
+            },
+            {
+                "name": "Roberts, Shane"
+            },
+            {
+                "name": "Sagine"
+            },
+            {
+                "name": "Spencer, Abigail"
+            },
+            {
+                "name": "Weston, Michael"
+            },
+            {
+                "name": "Witt, Roz"
+            },
+            {
+                "name": "Wylde, Kaitlyn"
+            },
+            {
+                "name": "Traister, Holly"
+            }
+        ],
+        "locations": [
+            "855 S. Serrano Street, Koreatown, Los Angeles, California, USA"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "rating": 6.1,
+        "votes": 374,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTI0NTY1MjkyMl5BMl5BanBnXkFtZTcwMTEwMDg1MQ@@._V1_SY150_CR61,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Welcome to the Captain",
+        "year": 2008,
+        "kind": "tv series",
+        "series years": "2008-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Hamburg, John"
+            },
+            {
+                "name": "Bilsing, Sherry"
+            },
+            {
+                "name": "Cawley, Tucker"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "CBS Paramount Network Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CBS"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Direct Tools & Fasteners"
+            }
+        ],
+        "plot": [
+            "A young writer moves into a legendary Hollywood apartment.::IMDb editor"
+        ],
+        "tech": {
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 374,
+                "rating": 6.1
+            },
+            "aged 18 29": {
+                "votes": 32,
+                "rating": 6.9
+            },
+            "aged 30 44": {
+                "votes": 208,
+                "rating": 6.1
+            },
+            "aged 45 plus": {
+                "votes": 76,
+                "rating": 5.7
+            },
+            "males": {
+                "votes": 257,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 24,
+                "rating": 6.8
+            },
+            "males aged 30 44": {
+                "votes": 168,
+                "rating": 5.9
+            },
+            "males aged 45 plus": {
+                "votes": 62,
+                "rating": 5.9
+            },
+            "females": {
+                "votes": 58,
+                "rating": 6.4
+            },
+            "females aged 18 29": {
+                "votes": 8,
+                "rating": 7.1
+            },
+            "females aged 30 44": {
+                "votes": 37,
+                "rating": 6.6
+            },
+            "females aged 45 plus": {
+                "votes": 12,
+                "rating": 5.3
+            },
+            "top 1000 voters": {
+                "votes": 14,
+                "rating": 5.1
+            },
+            "us users": {
+                "votes": 204,
+                "rating": 6.0
+            },
+            "non us users": {
+                "votes": 102,
+                "rating": 6.1
+            }
+        },
+        "number of votes": {
+            "10": 76,
+            "9": 23,
+            "8": 56,
+            "7": 47,
+            "6": 37,
+            "5": 29,
+            "4": 22,
+            "3": 16,
+            "2": 21,
+            "1": 47
+        },
+        "arithmetic mean": 6.2,
+        "median": 7
+    }
+}

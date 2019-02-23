@@ -1,0 +1,513 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "15 June 2008"
+            },
+            {
+                "country": "Canada\n",
+                "date": "12 September 2008"
+            },
+            {
+                "country": "Finland\n",
+                "date": "14 November 2008",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "12 February 2009",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "Finland\n",
+                "date": "20 July 2009"
+            },
+            {
+                "country": "Germany\n",
+                "date": "5 January 2010"
+            },
+            {
+                "country": "Japan\n",
+                "date": "24 February 2010",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "13 November 2010"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "30 September 2011"
+            },
+            {
+                "country": "Argentina\n",
+                "date": "2 February 2013"
+            }
+        ],
+        "release dates": [
+            "USA::15 June 2008",
+            "Canada::12 September 2008",
+            "Finland::14 November 2008                            (DVD premiere)",
+            "Germany::12 February 2009                            (DVD premiere)",
+            "Finland::20 July 2009",
+            "Germany::5 January 2010",
+            "Japan::24 February 2010                            (DVD premiere)",
+            "Hungary::13 November 2010",
+            "Sweden::30 September 2011",
+            "Argentina::2 February 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Summit"
+            },
+            {
+                "countries": "Argentina",
+                "title": "La cumbre"
+            },
+            {
+                "countries": "Finland",
+                "title": "The Summit"
+            },
+            {
+                "countries": "Finland (DVD box title)",
+                "title": "The Summit - pahuuden kokous"
+            },
+            {
+                "countries": "Germany (DVD title)",
+                "title": "The Summit - Todesvirus beim Gipfeltreffen"
+            },
+            {
+                "countries": "Germany",
+                "title": "Virus - Der Tod kennt keine Grenzen"
+            },
+            {
+                "countries": "Greece",
+                "title": "Summit"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A csúcstalálkozó"
+            },
+            {
+                "countries": "Portugal",
+                "title": "G8 - Risco Global"
+            },
+            {
+                "countries": "Sweden",
+                "title": "The Summit - Toppmötet"
+            }
+        ],
+        "akas": [
+            "The Summit (original title)",
+            "La cumbre Argentina",
+            "The Summit Finland",
+            "The Summit - pahuuden kokous Finland (DVD box title)",
+            "The Summit - Todesvirus beim Gipfeltreffen Germany (DVD title)",
+            "Virus - Der Tod kennt keine Grenzen Germany",
+            "Summit Greece",
+            "A csúcstalálkozó Hungary",
+            "G8 - Risco Global Portugal",
+            "The Summit - Toppmötet Sweden"
+        ],
+        "akas from release info": [
+            "The Summit (original title)",
+            "La cumbre Argentina",
+            "The Summit Finland",
+            "The Summit - pahuuden kokous Finland (DVD box title)",
+            "The Summit - Todesvirus beim Gipfeltreffen Germany (DVD title)",
+            "Virus - Der Tod kennt keine Grenzen Germany",
+            "Summit Greece",
+            "A csúcstalálkozó Hungary",
+            "G8 - Risco Global Portugal",
+            "The Summit - Toppmötet Sweden"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Night One",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Summit (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 17,
+                    "original air date": "15 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Night Two",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Summit (TV Mini-Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 17,
+                    "original air date": "15 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Greenwood, Bruce"
+            },
+            {
+                "name": "Purefoy, James"
+            },
+            {
+                "name": "Lefevre, Rachelle"
+            },
+            {
+                "name": "Maestro, Mía"
+            },
+            {
+                "name": "Crewson, Wendy"
+            },
+            {
+                "name": "Thomas, Mark"
+            },
+            {
+                "name": "Plummer, Christopher"
+            },
+            {
+                "name": "Bennett, Nigel"
+            },
+            {
+                "name": "Collins, K.C."
+            },
+            {
+                "name": "MacNeill, Peter"
+            },
+            {
+                "name": "Ray, Lisa"
+            },
+            {
+                "name": "McHattie, Stephen"
+            },
+            {
+                "name": "Akiyuma, Denis"
+            },
+            {
+                "name": "Alcide, Pierre"
+            },
+            {
+                "name": "Alzamora, Israel"
+            },
+            {
+                "name": "Barahona, Juan Carlos"
+            },
+            {
+                "name": "Bhaneja, Raoul"
+            },
+            {
+                "name": "Branzea, Nicu"
+            },
+            {
+                "name": "Campbell, Tim"
+            },
+            {
+                "name": "Chapman, Ralph"
+            },
+            {
+                "name": "Cordell, Christopher"
+            },
+            {
+                "name": "Craig, Tony"
+            },
+            {
+                "name": "Crone, Neil"
+            },
+            {
+                "name": "Ejim, Onyekachi"
+            },
+            {
+                "name": "Espinosa, Alfredo"
+            },
+            {
+                "name": "Feniak, Peter"
+            },
+            {
+                "name": "Fodor, Victoria"
+            },
+            {
+                "name": "Fyfe, Mac"
+            },
+            {
+                "name": "Gallant, Kieran"
+            },
+            {
+                "name": "Garrow, Patrick"
+            },
+            {
+                "name": "Gooch, Bruce"
+            },
+            {
+                "name": "Gordon, Matt"
+            },
+            {
+                "name": "Hallier, Lori"
+            },
+            {
+                "name": "Huntley, Noah"
+            },
+            {
+                "name": "Kenny, J.C."
+            },
+            {
+                "name": "Lane, Cyrus"
+            },
+            {
+                "name": "Lue, LinLyn"
+            },
+            {
+                "name": "Miranda, Michael A."
+            },
+            {
+                "name": "Montepellier, Renee"
+            },
+            {
+                "name": "Nicoll, Kristina"
+            },
+            {
+                "name": "Purcell, James"
+            },
+            {
+                "name": "Rinzler, Joel"
+            },
+            {
+                "name": "Saric, Kris"
+            },
+            {
+                "name": "Saunders, Nicholas J."
+            },
+            {
+                "name": "Shepherd, Philip"
+            },
+            {
+                "name": "Sinclair, Adam"
+            },
+            {
+                "name": "Sparks, Mark"
+            },
+            {
+                "name": "Spence, Peter"
+            },
+            {
+                "name": "Stewart, Rob"
+            },
+            {
+                "name": "Stucki, Beatrice"
+            }
+        ],
+        "locations": [
+            "Hamilton, Ontario, Canada",
+            "London, England, UK",
+            "Quito, Ecuador",
+            "Sudbury, Ontario, Canada",
+            "Toronto, Ontario, Canada"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "240"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "country codes": [
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.44 : 1",
+        "certificates": [
+            "Australia:MA15+",
+            "Germany:12"
+        ],
+        "original air date": "15 Jun 2008 (USA)",
+        "number of seasons": 1,
+        "rating": 6.8,
+        "votes": 430,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOTg5YmFmNTYtZWZmMi00NDYxLTk0MmQtOWZlYjM2NmFmMGE5L2ltYWdlXkEyXkFqcGdeQXVyNzA5MzMzNjk@._V1_SY150_CR0,0,101,150_.jpg",
+        "budget": "CAD10,000,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "The Summit",
+        "year": 2008,
+        "kind": "tv mini series",
+        "series years": "2008-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Krizanc, John"
+            }
+        ],
+        "director": [
+            {
+                "name": "Copus, Nick"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "MH & S Productions"
+            },
+            {
+                "name": "Media Headquarters"
+            },
+            {
+                "name": "Shaftesbury Films"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CCRE"
+            },
+            {
+                "name": "Canadian Broadcasting Corporation (CBC)"
+            },
+            {
+                "name": "EuroVideo"
+            },
+            {
+                "name": "ION Television"
+            },
+            {
+                "name": "Kam & Ronson Enterprise Co"
+            },
+            {
+                "name": "Mill Creek Entertainment"
+            },
+            {
+                "name": "Power Television"
+            },
+            {
+                "name": "Powercorp"
+            },
+            {
+                "name": "TV2"
+            },
+            {
+                "name": "Universal Channel"
+            },
+            {
+                "name": "Zweites Deutsches Fernsehen (ZDF)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Cinema Sound Design"
+            },
+            {
+                "name": "Duncan Morin Barristers & Solicitors"
+            }
+        ],
+        "plot": [
+            "Set on the eve of the next G8 Summit, this miniseries follows a mother's desperate struggle to bring justice to her murdered son, fallen victim to a corrupt pharmaceutical company.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "4 hr (240 min)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.44 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 430,
+                "rating": 6.8
+            },
+            "aged 18 29": {
+                "votes": 40,
+                "rating": 7.9
+            },
+            "aged 30 44": {
+                "votes": 191,
+                "rating": 6.7
+            },
+            "aged 45 plus": {
+                "votes": 149,
+                "rating": 6.7
+            },
+            "males": {
+                "votes": 287,
+                "rating": 6.6
+            },
+            "males aged 18 29": {
+                "votes": 24,
+                "rating": 7.5
+            },
+            "males aged 30 44": {
+                "votes": 143,
+                "rating": 6.6
+            },
+            "males aged 45 plus": {
+                "votes": 116,
+                "rating": 6.6
+            },
+            "females": {
+                "votes": 97,
+                "rating": 7.3
+            },
+            "females aged 18 29": {
+                "votes": 16,
+                "rating": 8.2
+            },
+            "females aged 30 44": {
+                "votes": 46,
+                "rating": 7.0
+            },
+            "females aged 45 plus": {
+                "votes": 31,
+                "rating": 7.3
+            },
+            "top 1000 voters": {
+                "votes": 26,
+                "rating": 5.2
+            },
+            "us users": {
+                "votes": 72,
+                "rating": 6.7
+            },
+            "non us users": {
+                "votes": 291,
+                "rating": 6.8
+            }
+        },
+        "number of votes": {
+            "10": 68,
+            "9": 72,
+            "8": 71,
+            "7": 89,
+            "6": 51,
+            "5": 30,
+            "4": 12,
+            "3": 13,
+            "2": 7,
+            "1": 17
+        },
+        "arithmetic mean": 7.2,
+        "median": 7
+    }
+}

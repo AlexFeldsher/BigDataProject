@@ -1,0 +1,813 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "1 September 2008"
+            },
+            {
+                "country": "Italy\n",
+                "date": "18 March 2009"
+            },
+            {
+                "country": "Australia\n",
+                "date": "29 October 2009"
+            },
+            {
+                "country": "Slovakia\n",
+                "date": "10 January 2012"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "21 April 2012"
+            }
+        ],
+        "release dates": [
+            "USA::1 September 2008",
+            "Italy::18 March 2009",
+            "Australia::29 October 2009",
+            "Slovakia::10 January 2012",
+            "Netherlands::21 April 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Raising the Bar"
+            },
+            {
+                "countries": "Finland",
+                "title": "Oikeuden edessä"
+            },
+            {
+                "countries": "France",
+                "title": "Raising the bar: Justice à Manhattan"
+            },
+            {
+                "countries": "Greece",
+                "title": "Raising the Bar"
+            },
+            {
+                "countries": "Italy",
+                "title": "Avvocati a New York"
+            },
+            {
+                "countries": "Norway",
+                "title": "Rett på sak"
+            },
+            {
+                "countries": "Russia",
+                "title": "Адвокатская практика"
+            },
+            {
+                "countries": "Spain",
+                "title": "Ganando el juicio"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "Untitled Steven Bochco/TNT Project"
+            }
+        ],
+        "akas": [
+            "Raising the Bar (original title)",
+            "Oikeuden edessä Finland",
+            "Raising the bar: Justice à Manhattan France",
+            "Raising the Bar Greece",
+            "Avvocati a New York Italy",
+            "Rett på sak Norway",
+            "Адвокатская практика Russia",
+            "Ganando el juicio Spain",
+            "Untitled Steven Bochco/TNT Project USA (working title)"
+        ],
+        "akas from release info": [
+            "Raising the Bar (original title)",
+            "Oikeuden edessä Finland",
+            "Raising the bar: Justice à Manhattan France",
+            "Raising the Bar Greece",
+            "Avvocati a New York Italy",
+            "Rett på sak Norway",
+            "Адвокатская практика Russia",
+            "Ganando el juicio Spain",
+            "Untitled Steven Bochco/TNT Project USA (working title)"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Hair Apparent",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 29,
+                    "original air date": "8 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jerry defends a barber charged with allowing his nephew to sell crack out of his barbershop, a crime for which the barber is now being tried.    "
+                },
+                "2": {
+                    "title": "Rules of Engagement",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 26,
+                    "original air date": "15 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jerry and Michelle go before a new judge whose courtroom rules are so draconian they make Judge Kessler?s rules seem quaint by comparison.    "
+                },
+                "3": {
+                    "title": "The Curious Case of Kellerman's Button",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 26,
+                    "original air date": "22 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jerry gets into a heated conflict with Judge Farnsworth after his client is punished for his own tardiness, but Jerry is determined to have the last word.    "
+                },
+                "4": {
+                    "title": "No Child's Left Behind",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 21,
+                    "original air date": "29 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jerry has his hands full defending the father of a little boy who's innocent picture winds up on a child pornographer's Website.    "
+                },
+                "5": {
+                    "title": "Is There a Doctor in the House?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 20,
+                    "original air date": "6 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jerry defends the case of a woman picked up for drug possession, for what she insists is only laundry detergent.    "
+                },
+                "6": {
+                    "title": "I'll Be Down to Get You in a Taxi, Honey",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 16,
+                    "original air date": "13 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jerry takes on a pro bono case in which he defends a man arrested for running over his crooked lawyer with a car.    "
+                },
+                "7": {
+                    "title": "Fine and Dandy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 21,
+                    "original air date": "20 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Moments after being acquitted on a weapons charge, one of Jerry's clients is re-arrested for parole violation for having the weapon in the first place.    "
+                },
+                "8": {
+                    "title": "Trust Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 20,
+                    "original air date": "27 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Bobbi defends a confidential informant who demands a separate trial from his co-defendent, who could have him killed if word gets out about his cooperation.    "
+                },
+                "9": {
+                    "title": "Trout Fishing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 22,
+                    "original air date": "3 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jerry tries to get a continuance in order to give a woman the chance to help her son complete his college applications.    "
+                },
+                "10": {
+                    "title": "Making Up Is Hard to Do",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 23,
+                    "original air date": "10 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    Bobbi defends a young woman accused of trying to smuggle a brick of cocaine, but her client's appearance proves to be an issue. Michelle, who is prosecuting the case, has to rely on testimony by her cop boyfriend, but there's something a little too coincidental about his involvement. Meanwhile, Jerry works on Marcus to secure a better deal for his client, but Marcus refuses, saying Jerry should have accepted the offer a year ago, when it was first made. Marcus also uses the case as an opportunity to show Balco what he's got.    "
+                },
+                "11": {
+                    "title": "Bobbi Ba-Bing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 26,
+                    "original air date": "17 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jerry defends a young man who stabbed a fellow inmate. But the client should never have been in jail in the first place.    "
+                },
+                "12": {
+                    "title": "Beating a Dead Horse",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 23,
+                    "original air date": "24 Aug. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jerry takes over one of Bobbi's cases, a pregnant woman who is addicted to heroin, and Michelle is determined to do everything she can to keep her in jail.    "
+                },
+                "13": {
+                    "title": "Maybe, Baby",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 24,
+                    "original air date": "24 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jerry gets into an ethical dilemma when his client makes a deal to testify against a rapist, but the testimony might be completely false. Through a tragic circumstance, Roz winds up with a baby on her hands.    "
+                },
+                "14": {
+                    "title": "Oh, Say Can You Pee",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "votes": 21,
+                    "original air date": "24 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    Richard defends a law student who was arrested at a sporting event for allegedly pouring his beer on a police officer who demanded he respect the national anthem. Judge Farnsworth comes up with a unique way to settle the case.    "
+                },
+                "15": {
+                    "title": "Happy Ending",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "votes": 28,
+                    "original air date": "24 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jerry defends a massage therapist accused by one of his female clients of touching her inappropriately. But a snag with the jury foreman changes the entire game.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 46,
+                    "original air date": "1 Sep. 2008",
+                    "year": "2008",
+                    "plot": "\n    Passionate and idealistic Public Defender Jerry Kellerman is convinced his client is not guilty, but when a technicality in the law threatens his client's freedom, will Jerry push Judge Kessler too far?    "
+                },
+                "2": {
+                    "title": "Guatemala Gulfstream",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 29,
+                    "original air date": "8 Sep. 2008",
+                    "year": "2008",
+                    "plot": "\n    ADA Ernhardt's zeal to win is formidable and her quick thinking may prevent Jerry's witness from testifying. Will this professional road block interfere with their personal friendship?    "
+                },
+                "3": {
+                    "title": "I Will, I'm Will",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 28,
+                    "original air date": "15 Sep. 2008",
+                    "year": "2008",
+                    "plot": "\n    Jerry makes a deal for his client to testify in a drug-related murder case in exchange for charges against her to be dropped. Yet when a Family Court Judge rules differently, will Jerry's unwavering devotion to his client be enough this time to help her?    "
+                },
+                "4": {
+                    "title": "Richie Richer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 23,
+                    "original air date": "22 Sep. 2008",
+                    "year": "2008",
+                    "plot": "\n    Jerry tries to make a deal to help his psychotic client enter an out-patient treatment center in exchange for a guilty plea. But when his client cannot be placed, Jerry is forced to trial.    "
+                },
+                "5": {
+                    "title": "Bagels and Locks",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 17,
+                    "original air date": "29 Sep. 2008",
+                    "year": "2008",
+                    "plot": "\n    Jerry's client is willing to cop to kidnap and rape, but won't agree to make a deal if it includes a conviction for murder which he adamantly denies.    "
+                },
+                "6": {
+                    "title": "Hang Time",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 21,
+                    "original air date": "6 Oct. 2008",
+                    "year": "2008",
+                    "plot": "\n    Marcus won't allow a wife to drop an assault charge against her husband, insisting the system needs to protect her even when the wife supports the husband's claim there is no battery.    "
+                },
+                "7": {
+                    "title": "A Leg to Stand On",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 26,
+                    "original air date": "13 Oct. 2008",
+                    "year": "2008",
+                    "plot": "\n    In the main story line, Kellerman is defending a man who may have been incorrectly identified in a robbery. He chooses to have the client waive a jury trial, only to have Judge Kessler secretly put political pressure on the trial judge to find the client guilty. Resolution comes with the help of Charlie going behind Kessler's back. The second story line has Natalia defending an amputated veteran who was arrested buying a months supply of heroin to treat his phantom limb pains, but accused of being a dealer. A new subplot has Woolsey defending an exotic dancer who is a...    "
+                },
+                "8": {
+                    "title": "Out on the Roof",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 29,
+                    "original air date": "20 Oct. 2008",
+                    "year": "2008",
+                    "plot": "\n    Charlie seeks Jerry's legal help, but how far will he go to help a friend when the trial is in his own Judge's court?    "
+                },
+                "9": {
+                    "title": "Roman Holiday",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 22,
+                    "original air date": "27 Oct. 2008",
+                    "year": "2008",
+                    "plot": "\n    Jerry's client, infected by HIV, is accused of attempted first degree murder for spitting on a cop and must face trial. Will Jerry be able to help him win back his freedom?    "
+                },
+                "10": {
+                    "title": "Shop Till You Drop",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Raising the Bar (TV Series 2008–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 26,
+                    "original air date": "3 Nov. 2008",
+                    "year": "2008",
+                    "plot": "\n    District Attorney Nick Balco and Public Defender Roz Whitman go head to head in court to re-try a case overturned by the court of Appeals.    "
+                }
+            }
+        },
+        "number of episodes": 25,
+        "cast": [
+            {
+                "name": "Gosselaar, Mark-Paul"
+            },
+            {
+                "name": "Reuben, Gloria"
+            },
+            {
+                "name": "Graham, Currie"
+            },
+            {
+                "name": "Sagemiller, Melissa"
+            },
+            {
+                "name": "Richards, J. August"
+            },
+            {
+                "name": "Scarfe, Jonathan"
+            },
+            {
+                "name": "Sears, Teddy"
+            },
+            {
+                "name": "Kaczmarek, Jane"
+            },
+            {
+                "name": "Robinson, Cindy"
+            },
+            {
+                "name": "Cigliuti, Natalia"
+            },
+            {
+                "name": "Hall, Stacy"
+            },
+            {
+                "name": "Polito, Jon"
+            },
+            {
+                "name": "Joyner, Paul"
+            },
+            {
+                "name": "Higgins, John Michael"
+            },
+            {
+                "name": "Lopez, Wayne"
+            },
+            {
+                "name": "Freeman, Heath"
+            },
+            {
+                "name": "Oquendo, Angel"
+            },
+            {
+                "name": "Spencer, Octavia"
+            },
+            {
+                "name": "Greenfield, Max"
+            },
+            {
+                "name": "Randall, Josh"
+            },
+            {
+                "name": "Sikking, Andrew"
+            },
+            {
+                "name": "Jr., Teddy Lane"
+            },
+            {
+                "name": "Lopez, Maynor"
+            },
+            {
+                "name": "Cruz, Wilson"
+            },
+            {
+                "name": "Reeser, Autumn"
+            },
+            {
+                "name": "Bisutti, Danielle"
+            },
+            {
+                "name": "Echikunwoke, Megalyn"
+            },
+            {
+                "name": "Gaston, Michael"
+            },
+            {
+                "name": "Tylor, Jud"
+            },
+            {
+                "name": "Botsford, Sara"
+            },
+            {
+                "name": "Harney, Michael"
+            },
+            {
+                "name": "Johnson, Shane"
+            },
+            {
+                "name": "Stewart, Amy"
+            },
+            {
+                "name": "Sol, Alex"
+            },
+            {
+                "name": "Brogger, Ivar"
+            },
+            {
+                "name": "Marinelli, Sonny"
+            },
+            {
+                "name": "Connors, Elizabeth"
+            },
+            {
+                "name": "Billett, Tom"
+            },
+            {
+                "name": "Keiber, Christian"
+            },
+            {
+                "name": "Brazelton, Conni Marie"
+            },
+            {
+                "name": "Tarnol, Brent"
+            },
+            {
+                "name": "Danson, Kate"
+            },
+            {
+                "name": "de Kamp, Ryan Van Buchanan"
+            },
+            {
+                "name": "Baskerville, Christopher"
+            },
+            {
+                "name": "Garner, Jerald"
+            },
+            {
+                "name": "Garcia, Cutter"
+            },
+            {
+                "name": "Kavianpour, Mohammad"
+            },
+            {
+                "name": "LePorte, Polly W."
+            },
+            {
+                "name": "Mazur, Matisse"
+            },
+            {
+                "name": "Palladino, Erik"
+            }
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Australia:M",
+            "Netherlands:12"
+        ],
+        "number of seasons": 2,
+        "rating": 7.5,
+        "votes": 1668,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNjQ0MzkxMjEzN15BMl5BanBnXkFtZTcwNzQyNTQ4MQ@@._V1_SY150_CR5,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Raising the Bar",
+        "year": 2008,
+        "kind": "tv series",
+        "series years": "2008-2009",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Bochco, Steven"
+            },
+            {
+                "name": "Feige, David"
+            },
+            {
+                "name": "Abrahams, Jonathan"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Steven Bochco Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "TNT"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "Canadian Television (CTV)"
+            },
+            {
+                "name": "DiziMax"
+            },
+            {
+                "name": "FOXlife"
+            },
+            {
+                "name": "Fox Crime"
+            },
+            {
+                "name": "LaLa TV"
+            },
+            {
+                "name": "M-Net"
+            },
+            {
+                "name": "Net5"
+            },
+            {
+                "name": "TNT"
+            },
+            {
+                "name": "TV JOJ"
+            },
+            {
+                "name": "TV2 Norge"
+            },
+            {
+                "name": "W."
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Gallagher Entertainment"
+            },
+            {
+                "name": "LCW Props"
+            },
+            {
+                "name": "Marshall/Plumb Research Associates"
+            },
+            {
+                "name": "Movie Movers"
+            },
+            {
+                "name": "Pacific Studios II"
+            },
+            {
+                "name": "Transportation Resources"
+            }
+        ],
+        "plot": [
+            "Former law school classmates reunite in court when they take on rival clients.::Anonymous"
+        ],
+        "tech": {
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1668,
+                "rating": 7.5
+            },
+            "aged 18 29": {
+                "votes": 187,
+                "rating": 7.9
+            },
+            "aged 30 44": {
+                "votes": 874,
+                "rating": 7.6
+            },
+            "aged 45 plus": {
+                "votes": 453,
+                "rating": 7.2
+            },
+            "males": {
+                "votes": 1016,
+                "rating": 7.6
+            },
+            "males aged 18 29": {
+                "votes": 108,
+                "rating": 7.9
+            },
+            "males aged 30 44": {
+                "votes": 603,
+                "rating": 7.7
+            },
+            "males aged 45 plus": {
+                "votes": 287,
+                "rating": 7.2
+            },
+            "females": {
+                "votes": 499,
+                "rating": 7.4
+            },
+            "females aged 18 29": {
+                "votes": 79,
+                "rating": 7.9
+            },
+            "females aged 30 44": {
+                "votes": 255,
+                "rating": 7.4
+            },
+            "females aged 45 plus": {
+                "votes": 159,
+                "rating": 7.1
+            },
+            "top 1000 voters": {
+                "votes": 42,
+                "rating": 6.1
+            },
+            "us users": {
+                "votes": 865,
+                "rating": 7.5
+            },
+            "non us users": {
+                "votes": 531,
+                "rating": 7.4
+            }
+        },
+        "number of votes": {
+            "10": 431,
+            "9": 245,
+            "8": 363,
+            "7": 277,
+            "6": 119,
+            "5": 60,
+            "4": 31,
+            "3": 34,
+            "2": 28,
+            "1": 80
+        },
+        "arithmetic mean": 7.6,
+        "median": 8
+    }
+}

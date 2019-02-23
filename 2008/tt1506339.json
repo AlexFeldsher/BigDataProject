@@ -1,0 +1,321 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Japan\n",
+                "date": "31 July 2008"
+            },
+            {
+                "country": "Japan\n",
+                "date": "1 August 2008",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "USA\n",
+                "date": "23 August 2008",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "  2009",
+                "notes": "                            (theatrical release)"
+            }
+        ],
+        "release dates": [
+            "Japan::31 July 2008",
+            "Japan::1 August 2008                            (internet)",
+            "USA::23 August 2008                            (internet)",
+            "Japan::2009                            (theatrical release)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Eve no jikan"
+            },
+            {
+                "countries": "Russia",
+                "title": "Время Евы"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "Time of Eve"
+            }
+        ],
+        "akas": [
+            "Eve no jikan (original title)",
+            "Время Евы Russia",
+            "Time of Eve World-wide (English title)"
+        ],
+        "akas from release info": [
+            "Eve no jikan (original title)",
+            "Время Евы Russia",
+            "Time of Eve World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Akiko",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Time of Eve (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 11,
+                    "original air date": "31 Jul. 2008",
+                    "year": "2008",
+                    "plot": "\n    Rikuo Sakisaka and Masakazu Masaki stumble upon the Time of Eve café and become concerned about the androids.    "
+                },
+                "2": {
+                    "title": "Sammy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Time of Eve (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 10,
+                    "original air date": "2 Oct. 2008",
+                    "year": "2008",
+                    "plot": "\n    Rikuo becomes concerned that his Android, Sammy, is not only lying to him but also acting independently.    "
+                },
+                "3": {
+                    "title": "Koji & Rina",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Time of Eve (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 10,
+                    "original air date": "1 Dec. 2008",
+                    "year": "2008",
+                    "plot": "\n    Rikuo and Masakazu return to the Time of Eve café. This time they become involved in the relationship of Koji and Rina.    "
+                },
+                "4": {
+                    "title": "Nameless",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Time of Eve (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 9,
+                    "original air date": "1 May 2009",
+                    "year": "2009",
+                    "plot": "\n    An abandoned older-model android comes into the café, and Rikuo and Masakazu are afraid that it will explode if it drinks the coffee.    "
+                },
+                "5": {
+                    "title": "Chie & Shimei",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Time of Eve (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 10,
+                    "original air date": "1 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Rikuo goes to the café in a grumpy mood. he ends up falling asleep. Upon waking up he finds his android playing the piano and is inspired to play as well.    "
+                },
+                "6": {
+                    "title": "Masaki",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Time of Eve (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 11,
+                    "original air date": "19 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    Masakazu deals with his unresolved childhood issues with his family's android.    "
+                }
+            }
+        },
+        "number of episodes": 6,
+        "cast": [
+            {
+                "name": "Fukuyama, Jun"
+            },
+            {
+                "name": "Itô, Miki"
+            },
+            {
+                "name": "Kiyokawa, Motomu"
+            },
+            {
+                "name": "Mizutani, Yûko"
+            },
+            {
+                "name": "Nakao, Michio"
+            },
+            {
+                "name": "Nogami, Yukana"
+            },
+            {
+                "name": "Nojima, Kenji"
+            },
+            {
+                "name": "Satô, Rina"
+            },
+            {
+                "name": "Sawashiro, Miyuki"
+            },
+            {
+                "name": "Sugita, Tomokazu"
+            },
+            {
+                "name": "Tanaka, Rie"
+            },
+            {
+                "name": "Yamaguchi, Yuriko"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Sci-Fi"
+        ],
+        "runtimes": [
+            "15"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "country codes": [
+            "jp"
+        ],
+        "language codes": [
+            "ja"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 7.9,
+        "votes": 1006,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BODVlNjlhMmMtOWUyMi00YjAyLWEwZjItOGQ1Y2Q4ZmMwYjY1XkEyXkFqcGdeQXVyMzA3NDI5NTQ@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "In the not too distant future androids have come into common usage. Taking the androids for granted, humans treat them as if they were common everyday tools, while on the other hand, some people empathize with androids due to their human-like appearance (save for a digital ring floating above their heads). This has become a social problem and these people are frowned upon as a result. Rikuo, one who has taken androids for granted for his entire life, one day discovers that Sammy, his home android, has been acting strangely and finds a strange phrase recorded in her activity log. He, along with his friend Masaki, traces Sammy's footsteps and come upon an unusual café.",
+        "languages": [
+            "Japanese"
+        ],
+        "title": "Time of Eve",
+        "year": 2008,
+        "kind": "tv series",
+        "series years": "2008-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Yoshiura, Yasuhiro"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Directions Inc."
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Crunchyroll"
+            },
+            {
+                "name": "Yahoo Japan"
+            }
+        ],
+        "plot": [
+            "In the not too distant future androids have come into common usage. Taking the androids for granted, humans treat them as if they were common everyday tools, while on the other hand, some people empathize with androids due to their human-like appearance (save for a digital ring floating above their heads). This has become a social problem and these people are frowned upon as a result. Rikuo, one who has taken androids for granted for his entire life, one day discovers that Sammy, his home android, has been acting strangely and finds a strange phrase recorded in her activity log. He, along with his friend Masaki, traces Sammy's footsteps and come upon an unusual café.::ameershaikh52"
+        ],
+        "tech": {
+            "runtime": [
+                "15 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1006,
+                "rating": 7.9
+            },
+            "aged 18 29": {
+                "votes": 363,
+                "rating": 8.0
+            },
+            "aged 30 44": {
+                "votes": 393,
+                "rating": 7.9
+            },
+            "aged 45 plus": {
+                "votes": 40,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 703,
+                "rating": 7.9
+            },
+            "males aged 18 29": {
+                "votes": 298,
+                "rating": 8.0
+            },
+            "males aged 30 44": {
+                "votes": 343,
+                "rating": 7.9
+            },
+            "males aged 45 plus": {
+                "votes": 37,
+                "rating": 7.4
+            },
+            "females": {
+                "votes": 115,
+                "rating": 7.7
+            },
+            "females aged 18 29": {
+                "votes": 62,
+                "rating": 7.7
+            },
+            "females aged 30 44": {
+                "votes": 45,
+                "rating": 7.8
+            },
+            "females aged 45 plus": {
+                "votes": 2,
+                "rating": 9.0
+            },
+            "top 1000 voters": {
+                "votes": 25,
+                "rating": 6.3
+            },
+            "us users": {
+                "votes": 135,
+                "rating": 7.7
+            },
+            "non us users": {
+                "votes": 552,
+                "rating": 7.9
+            }
+        },
+        "number of votes": {
+            "10": 137,
+            "9": 203,
+            "8": 325,
+            "7": 219,
+            "6": 64,
+            "5": 23,
+            "4": 7,
+            "3": 7,
+            "2": 5,
+            "1": 16
+        },
+        "arithmetic mean": 7.9,
+        "median": 8
+    }
+}

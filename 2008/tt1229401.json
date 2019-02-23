@@ -1,0 +1,985 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "24 September 2008"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "5 January 2009"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "5 March 2009"
+            },
+            {
+                "country": "Australia\n",
+                "date": "3 September 2009"
+            },
+            {
+                "country": "Germany\n",
+                "date": "7 October 2009"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "1 March 2010"
+            },
+            {
+                "country": "Finland\n",
+                "date": "9 September 2011"
+            }
+        ],
+        "release dates": [
+            "USA::24 September 2008",
+            "Netherlands::5 January 2009",
+            "Sweden::5 March 2009",
+            "Australia::3 September 2009",
+            "Germany::7 October 2009",
+            "Hungary::1 March 2010",
+            "Finland::9 September 2011"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Gary Unmarried"
+            },
+            {
+                "countries": "Finland",
+                "title": "Sinkkuisä Gary"
+            },
+            {
+                "countries": "France",
+                "title": "La nouvelle vie de Gary"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Elvált Gary"
+            },
+            {
+                "countries": "Italy",
+                "title": "Provaci ancora Gary"
+            },
+            {
+                "countries": "Norway",
+                "title": "Lykkelig skilt"
+            },
+            {
+                "countries": "Russia",
+                "title": "Холостяк Гари"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "Untitled Ed Yeager Project"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "Project Gary"
+            }
+        ],
+        "akas": [
+            "Gary Unmarried (original title)",
+            "Sinkkuisä Gary Finland",
+            "La nouvelle vie de Gary France",
+            "Elvált Gary Hungary",
+            "Provaci ancora Gary Italy",
+            "Lykkelig skilt Norway",
+            "Холостяк Гари Russia",
+            "Untitled Ed Yeager Project USA (working title)",
+            "Project Gary USA (working title)"
+        ],
+        "akas from release info": [
+            "Gary Unmarried (original title)",
+            "Sinkkuisä Gary Finland",
+            "La nouvelle vie de Gary France",
+            "Elvált Gary Hungary",
+            "Provaci ancora Gary Italy",
+            "Lykkelig skilt Norway",
+            "Холостяк Гари Russia",
+            "Untitled Ed Yeager Project USA (working title)",
+            "Project Gary USA (working title)"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Gary Has a Dream",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 37,
+                    "original air date": "23 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gary decides to call up his old friend Curtis who works at a local radio station, and is thrilled that he is offered a job, thinking he is going to become the next sports newscaster.    "
+                },
+                "2": {
+                    "title": "Gary Promises Too Much",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 29,
+                    "original air date": "30 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gary makes a promise he can't keep to Louise when he tries to one-up Allison's rich new boyfriend (Ron Huebel) in gift giving.    "
+                },
+                "3": {
+                    "title": "Gary's Demo",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 26,
+                    "original air date": "7 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gary, desperate to become a radio sportscaster, tries to get Sasha to listen to his demo tape.    "
+                },
+                "4": {
+                    "title": "Gary Shoots Fish in a Barrel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 26,
+                    "original air date": "14 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    When the guys decide to go on a \"boys' night out,\" Gary is determined to prove he can handle a one night stand without getting attached.    "
+                },
+                "5": {
+                    "title": "Gary on the Air",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 24,
+                    "original air date": "21 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    When Vic gets arrested because of public indecency that cannot be detailed here, Gary gets his chance to host the show. But he doesn't want Allison to know. She, meanwhile, is bothered by why Tommy spends so much time in the bathroom.    "
+                },
+                "6": {
+                    "title": "Gary Tries to Do It All",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 27,
+                    "original air date": "4 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gary overextends himself when he tries to juggle two kids and two careers.    "
+                },
+                "7": {
+                    "title": "Gary and Allison's Friend",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 29,
+                    "original air date": "11 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    Allison is jilted when her new \"friend,\" Sophia, prefers Gary's company over hers.    "
+                },
+                "8": {
+                    "title": "Gary Apologizes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 26,
+                    "original air date": "18 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gary turns to Allison after he makes a disastrous attempt to prepare a fancy Thanksgiving feast for Sasha, Curtis, Jack and the kids.    "
+                },
+                "9": {
+                    "title": "Gary Keeps a Secret",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 37,
+                    "original air date": "25 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    When Gary lets Louise attend the popular girls party, he tries to keep it a secret from Allison. Meanwhile, Sasha contemplates having more than a working relationship with Gary.    "
+                },
+                "10": {
+                    "title": "Gary Gives Sasha His Full Attention",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 27,
+                    "original air date": "9 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gary tries to make an impression on Sasha with gifts, a movie and a dinner, but Allison has an emergency. Sasha says it's okay for Gary to leave from their date, but is it really? Tom and Louise get accepted into a party for the cool kids.    "
+                },
+                "11": {
+                    "title": "Gary Is a Boat Guy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 22,
+                    "original air date": "16 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    When Melissa, the girl Tom likes, is impressed by another boy's family boat, Gary decides to help Tom by taking the teens on a trip on the yacht... of Allison's new boyfriend.    "
+                },
+                "12": {
+                    "title": "Gary Feels Tom Slipping Away",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 23,
+                    "original air date": "13 Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    When Gary and Allison worry that Tom is hanging out with the wrong crowd at school, they take it upon themselves to probe into Tom's personal life. Meanwhile, Sasha flirts with professional surfer Laird Hamilton.    "
+                },
+                "13": {
+                    "title": "Gary Has to Choose",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 26,
+                    "original air date": "20 Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    Now that Gary and Sasha have taken their relationship to the next level, Gary must decide whether or not putting his career on the line to date his boss is worth it. Meanwhile, Allison tries to teach Tom a lesson in responsibility.    "
+                },
+                "14": {
+                    "title": "Gary Lowers the Bar",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "votes": 25,
+                    "original air date": "10 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    After Sasha gives Gary an awesome Valentine's Day gift, he tries to outdo her by giving her the perfect gift. Meanwhile, Allison tries to bond with Tom and Louise.    "
+                },
+                "15": {
+                    "title": "Gary's Big Mouth",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "votes": 23,
+                    "original air date": "3 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    When Gary's plan to help Tom land a spot on the wrestling team backfires, he challenges the coach, a former high school nemesis, to a wrestling rematch in an attempt to settle their score.    "
+                },
+                "16": {
+                    "title": "Gary Tries to Find Something for Mitch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 16,
+                    "votes": 26,
+                    "original air date": "10 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    When Mitch returns home from overseas, Gary tries to help him figure out what he'll do for a living.    "
+                },
+                "17": {
+                    "title": "Gary Unmarried?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 17,
+                    "votes": 32,
+                    "original air date": "17 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    When Gary finds out that he and Allison's divorce papers were never filed, he uses the information to manipulate her into giving him his stuff back. Meanwhile, Allison's sister Rachael comes to town and gives Mitch a makeover.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 84,
+                    "original air date": "24 Sep. 2008",
+                    "year": "2008",
+                    "plot": "\n    Gary tries desperately to honor his ex-wife's insistence that they follow the rules spelled out in a book, \"Rules for the Perfect Divorce\", written by their marriage counselor. One of these rules is postponing getting involved in a new relationship for the sake of the kids, prompting him to hide the new woman he's seeing - until he discovers Allison, ironically, is now engaged to this marriage counselor. Tommy, who tends to be awkward around girls, seeks his fathers advice on a girl who is interested in him.    "
+                },
+                "2": {
+                    "title": "Gary Gets Boundaries",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 60,
+                    "original air date": "1 Oct. 2008",
+                    "year": "2008",
+                    "plot": "\n    When Gary throws out his back, he uses the hot tub at his ex-wife's house for relief, but when he tries to change out of his wet trunks in front of her, she freaks and decides they need stronger boundaries. Gary is accused of loosing Louise's cello, and advises Tom to be honest with his girlfriend, but needs to take his own advise.    "
+                },
+                "3": {
+                    "title": "Gary Marries Off His Ex",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 50,
+                    "original air date": "8 Oct. 2008",
+                    "year": "2008",
+                    "plot": "\n    Gary realizes that if Allison marries Dr. Krandall, he will know longer have to pay spousal support, prompting him to talk to Krandall about Allison, in hopes of speeding up their nuptials. This backfires when Krandall becomes convinced that Gary is still in love with her, prompting him to call off the engagement, leaving Gary to undo the mess he made. Vanessa realizes that Gary is having trouble accepting that he is in a new life, when he continues to eat off paper plates on Frisbees, instead of the dishes she bought for him.    "
+                },
+                "4": {
+                    "title": "Gary Gets His Stuff Back",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 47,
+                    "original air date": "15 Oct. 2008",
+                    "year": "2008",
+                    "plot": "\n    Allison insists Gary stop procrastinating, and move his remaining belongings out of her house. He begs Allison to let him have the pool table, but she adamantly refuses, citing the divorce agreement rule covering gifts. Gary discovers a photo album full of racy pictures of her amongst those belongings, and decides to use them to blackmail her into a trade. When Allison gets them back on her own, Gary tries to steal the pool table out of the house.    "
+                },
+                "5": {
+                    "title": "Gary Breaks Up His Ex-Wife and Girlfriend",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 40,
+                    "original air date": "22 Oct. 2008",
+                    "year": "2008",
+                    "plot": "\n    Gary is alarmed when girlfriend Vanessa and ex-wife Allison become friends.    "
+                },
+                "6": {
+                    "title": "Gary Meets the Gang",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 41,
+                    "original air date": "5 Nov. 2008",
+                    "year": "2008",
+                    "plot": "\n    When Allison throws a party to meet Krandell's closest friends, Gary decides it's time to meet Vanessa's friends as well, but both fear that they didn't make the best first impressions.    "
+                },
+                "7": {
+                    "title": "Gary and Allison's Restaurant",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 39,
+                    "original air date": "12 Nov. 2008",
+                    "year": "2008",
+                    "plot": "\n    Gary takes Vanessa to dinner at the same restaurant he and Allison used to go to on their anniversaries.    "
+                },
+                "8": {
+                    "title": "Gary and Allison Brooks",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 49,
+                    "original air date": "19 Nov. 2008",
+                    "year": "2008",
+                    "plot": "\n    Gary finds it hard to keep his \"vows\" when Allison asks him to pretend they're still married so she can impress an old rival who predicted their marriage wouldn't last.    "
+                },
+                "9": {
+                    "title": "Gary Gives Thanks",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 36,
+                    "original air date": "26 Nov. 2008",
+                    "year": "2008",
+                    "plot": "\n    When Allison reneges on her promise to have the family Thanksgiving dinner at Gary's house a tit-for-tat war erupts that may leave her parents on the road to divorce.    "
+                },
+                "10": {
+                    "title": "Gary Goes First",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 33,
+                    "original air date": "10 Dec. 2008",
+                    "year": "2008",
+                    "plot": "\n    Gary and Allison's attempt to preempt each other in introducing their kids to major events in their lives escalates to a ridiculous level.    "
+                },
+                "11": {
+                    "title": "Gary Toughens Up Tom",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 31,
+                    "original air date": "17 Dec. 2008",
+                    "year": "2008",
+                    "plot": "\n    Gary's plan to improve his son's physical education grade through a series of father and son sports seems only to drive Tom into a closer relationship with Dr. Krandall.    "
+                },
+                "12": {
+                    "title": "Gary Dates Louise's Teacher",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 45,
+                    "original air date": "14 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Louise pressures Gary into dating her homely teacher, Miss Plummer, just after he's arranged a date with her hot substitute teacher, Miss St. James.    "
+                },
+                "13": {
+                    "title": "Gary Moves Back In",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 32,
+                    "original air date": "21 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    After Allison accidentally floods Gary's apartment, she allows him to temporarily move back in with her - to Dr. Krandall's jealous dismay.    "
+                },
+                "14": {
+                    "title": "Gary and Dennis' Sister",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 36,
+                    "original air date": "11 Feb. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gary can't resist the attentions of Dennis' beautiful sister - and soon learns why she's available.    "
+                },
+                "15": {
+                    "title": "Gary's Ex-Brother-In-Law",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 39,
+                    "original air date": "18 Feb. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gary needs Allison's patronizing brother Taylor to disentangle his company's financial records for a tax audit.    "
+                },
+                "16": {
+                    "title": "Gary Uses His Veto",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 30,
+                    "original air date": "11 Mar. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gary tries to trick Allison into using her annual \"veto\" to prevent her from interfering with his plans to turn Louise into a golf pro.    "
+                },
+                "17": {
+                    "title": "Gary Hooks Up Allison",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 29,
+                    "original air date": "18 Mar. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gary struggles to find a replacement for the now-departed Krandall to keep Allison occupied, as he tries to romance Joan.    "
+                },
+                "18": {
+                    "title": "Gary and the Trophy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 28,
+                    "original air date": "8 Apr. 2009",
+                    "year": "2009",
+                    "plot": "\n    Gary asks Allison to fill in a vacancy in his bowling team in order to win the trophy, but she's feeling put out because she wasn't asked to join when the team was formed.    "
+                },
+                "19": {
+                    "title": "Gary and His Half Brother",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 28,
+                    "original air date": "6 May 2009",
+                    "year": "2009",
+                    "plot": "\n    Gary finds he's the mature one when his irresponsible half-brother Mitch returns to town.    "
+                },
+                "20": {
+                    "title": "Gary Fixes Allison's Garbage Disposal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gary Unmarried (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 34,
+                    "original air date": "20 May 2009",
+                    "year": "2009",
+                    "plot": "\n    Both Gary and Allison are dismayed to find their frustrated libidos mean they can't keep their hands off each other.    "
+                }
+            }
+        },
+        "number of episodes": 37,
+        "cast": [
+            {
+                "name": "Mohr, Jay"
+            },
+            {
+                "name": "Marshall, Paula"
+            },
+            {
+                "name": "Malgarini, Ryan"
+            },
+            {
+                "name": "Newton, Kathryn"
+            },
+            {
+                "name": "Madrigal, Al"
+            },
+            {
+                "name": "Key, Keegan-Michael"
+            },
+            {
+                "name": "D'Orsay, Brooke"
+            },
+            {
+                "name": "Jr., Ed Begley"
+            },
+            {
+                "name": "King, Jaime"
+            },
+            {
+                "name": "Riggle, Rob"
+            },
+            {
+                "name": "Gail, Max"
+            },
+            {
+                "name": "Perkins, Kathleen Rose"
+            },
+            {
+                "name": "Aldren, Grifon"
+            },
+            {
+                "name": "Huebel, Rob"
+            },
+            {
+                "name": "Wyson, Charles Henry"
+            },
+            {
+                "name": "Murray, Allan"
+            },
+            {
+                "name": "Curtin, Jane"
+            },
+            {
+                "name": "Mull, Martin"
+            },
+            {
+                "name": "Farley, Ashley"
+            },
+            {
+                "name": "Suriano, Philip"
+            },
+            {
+                "name": "Birt, Christopher"
+            },
+            {
+                "name": "Segura, Tom"
+            },
+            {
+                "name": "Marano, Laura"
+            },
+            {
+                "name": "Nash, Niecy"
+            },
+            {
+                "name": "Stewart, Jason"
+            },
+            {
+                "name": "Satterfield, Dennis"
+            },
+            {
+                "name": "Crofoot, Amy"
+            },
+            {
+                "name": "Robinson, Michael R."
+            },
+            {
+                "name": "Hartwig, Ryan"
+            },
+            {
+                "name": "Garcia, Aimee"
+            },
+            {
+                "name": "Garrett, Spencer"
+            },
+            {
+                "name": "Miller, Marisa"
+            },
+            {
+                "name": "Newton, Brooke"
+            },
+            {
+                "name": "Park, Sydney"
+            },
+            {
+                "name": "Hamilton, Laird"
+            },
+            {
+                "name": "Koechner, David"
+            },
+            {
+                "name": "Blair, Bre"
+            },
+            {
+                "name": "Collins, Jessica"
+            },
+            {
+                "name": "Gomez, Ian"
+            },
+            {
+                "name": "Johnson, Jake"
+            },
+            {
+                "name": "Burns, Regan"
+            },
+            {
+                "name": "Chau, François"
+            },
+            {
+                "name": "Cheng, Barney"
+            },
+            {
+                "name": "Leslie, Susan"
+            },
+            {
+                "name": "Lillard, Matthew"
+            },
+            {
+                "name": "Park, Randall"
+            },
+            {
+                "name": "Yeager, Delaney"
+            },
+            {
+                "name": "Flory, Travis T."
+            },
+            {
+                "name": "Reece, Gabrielle"
+            },
+            {
+                "name": "Torre, Joe"
+            }
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Australia:PG",
+            "Netherlands:AL",
+            "United States:TV-14"
+        ],
+        "number of seasons": 2,
+        "rating": 6.8,
+        "votes": 5438,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTczNDY4NjYxNl5BMl5BanBnXkFtZTcwODI2OTY4MQ@@._V1_SY150_CR5,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Gary Unmarried",
+        "year": 2008,
+        "kind": "tv series",
+        "series years": "2008-2010",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Yeager, Ed"
+            },
+            {
+                "name": "Daly, Bill"
+            },
+            {
+                "name": "Ungerleider, Ira"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "CBS Paramount Network Television"
+            },
+            {
+                "name": "CBS Television Studios"
+            },
+            {
+                "name": "ABC Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CBS"
+            },
+            {
+                "name": "Comedy Central"
+            },
+            {
+                "name": "Comedy Central"
+            },
+            {
+                "name": "Comedy Max"
+            },
+            {
+                "name": "Disney-ABC Domestic Television"
+            },
+            {
+                "name": "Nelonen"
+            },
+            {
+                "name": "Veronica"
+            },
+            {
+                "name": "Viasat3"
+            },
+            {
+                "name": "Walt Disney Studios Home Entertainment"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Big Machine Design"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Direct Tools & Fasteners"
+            },
+            {
+                "name": "Pacific Studios II"
+            }
+        ],
+        "plot": [
+            "Newly divorced after fifteen years of marriage, Gary Brooks, a painting contractor, strives to balance work, shared custody of his two children, a controlling ex-wife, and his foxy new girlfriend.::Lynne Boris Johnston"
+        ],
+        "tech": {
+            "runtime": [
+                "30 min (USA)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 5438,
+                "rating": 6.8
+            },
+            "aged 18 29": {
+                "votes": 1352,
+                "rating": 6.8
+            },
+            "aged 30 44": {
+                "votes": 2833,
+                "rating": 6.8
+            },
+            "aged 45 plus": {
+                "votes": 734,
+                "rating": 6.8
+            },
+            "males": {
+                "votes": 3954,
+                "rating": 6.9
+            },
+            "males aged 18 29": {
+                "votes": 994,
+                "rating": 6.9
+            },
+            "males aged 30 44": {
+                "votes": 2279,
+                "rating": 6.9
+            },
+            "males aged 45 plus": {
+                "votes": 584,
+                "rating": 6.8
+            },
+            "females": {
+                "votes": 1050,
+                "rating": 6.5
+            },
+            "females aged 18 29": {
+                "votes": 352,
+                "rating": 6.5
+            },
+            "females aged 30 44": {
+                "votes": 536,
+                "rating": 6.4
+            },
+            "females aged 45 plus": {
+                "votes": 139,
+                "rating": 6.4
+            },
+            "top 1000 voters": {
+                "votes": 83,
+                "rating": 5.4
+            },
+            "us users": {
+                "votes": 1291,
+                "rating": 7.0
+            },
+            "non us users": {
+                "votes": 3059,
+                "rating": 6.7
+            }
+        },
+        "number of votes": {
+            "10": 976,
+            "9": 528,
+            "8": 996,
+            "7": 1160,
+            "6": 738,
+            "5": 400,
+            "4": 196,
+            "3": 101,
+            "2": 110,
+            "1": 233
+        },
+        "arithmetic mean": 7.1,
+        "median": 7
+    }
+}

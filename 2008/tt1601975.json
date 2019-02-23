@@ -1,0 +1,914 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "1 July 2008"
+            },
+            {
+                "country": "USA\n",
+                "date": "1 September 2011"
+            }
+        ],
+        "release dates": [
+            "UK::1 July 2008",
+            "USA::1 September 2011"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "3rd & Bird"
+            },
+            {
+                "countries": "Greece (DVD title)",
+                "title": "Odos fteron: I geitonia ton poulion"
+            },
+            {
+                "countries": " (alternative spelling)",
+                "title": "3rd and Bird"
+            }
+        ],
+        "akas": [
+            "3rd & Bird (original title)",
+            "Odos fteron: I geitonia ton poulion Greece (DVD title)",
+            "3rd and Bird (alternative spelling)"
+        ],
+        "akas from release info": [
+            "3rd & Bird (original title)",
+            "Odos fteron: I geitonia ton poulion Greece (DVD title)",
+            "3rd and Bird (alternative spelling)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Fly, Muffin!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Muffin wants to learn to fly but it is difficult. Mr Beakman tells her to keep trying.    "
+                },
+                "2": {
+                    "title": "Bird Theatre!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Rudy and Samuel are rehearsing for Mr Beakman's play, The Prize Potato.    "
+                },
+                "3": {
+                    "title": "A Chorus for Us!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Samuel, Muffin and Rudy each make up a silly song.    "
+                },
+                "4": {
+                    "title": "To Play or Not to Play!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Samuel and Rudy are playing, but they can't agree on what to play.    "
+                },
+                "5": {
+                    "title": "Muffin Express",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Mr Beakman is building a train set, the Sunset Express, so Muffin tries to help out.    "
+                },
+                "6": {
+                    "title": "The Rudy Show",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Rudy, Samuel and Muffin invite the whole town to see the Rudy Show.    "
+                },
+                "7": {
+                    "title": "Super Slide",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Costume Party",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Samuel wants to be an apple tree at the costume party, but Muffin eats his apple.    "
+                },
+                "9": {
+                    "title": "Meet Elliot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Muffin is shocked to find out that Elliot is a worm!    "
+                },
+                "10": {
+                    "title": "Pogo Nest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "2 Sep. 2008",
+                    "year": "2008",
+                    "plot": "\n    Quinn builds Muffin a bouncy nest but Samuel and Rudy hop into the nest and break it!    "
+                },
+                "11": {
+                    "title": "Samuel's Dance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Everyone is practicing for a dance party but Samuel can't find his rhythm.    "
+                },
+                "12": {
+                    "title": "Rolling Along",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Muffin gets carried away in her nest-car and rolls out of control in the branches    "
+                },
+                "13": {
+                    "title": "Perfect Picnic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Samuel, Muffin and Rudy are going on a picnic and Samuel insists that it be perfect.    "
+                },
+                "14": {
+                    "title": "Pie Fair",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Quinn has created a pie-making machine for the pie fair.    "
+                },
+                "15": {
+                    "title": "Muffin's Shop",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Muffin is playing shops but has nothing to sell, so she takes things that aren't hers.    "
+                },
+                "16": {
+                    "title": "Dinosaur",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Samuel and Rudy build Muffin a giant papier-mâché dinosaur.    "
+                },
+                "17": {
+                    "title": "Go Camping",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Rudy, Quinn and Mr Beakman are going camping and Muffin wants to come along.    "
+                },
+                "18": {
+                    "title": "Starry Night",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    The whole community gathers at the top of Branch Hill to watch a meteor shower.    "
+                },
+                "19": {
+                    "title": "Amazing Muffin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Samuel and Muffin go to the Amazing Beakman's magic show, and Muffin is blown away.    "
+                },
+                "20": {
+                    "title": "Ice Skating!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Samuel, Muffin and Rudy head over to frozen Branch Lake with Mr Beakman for ice skating.    "
+                },
+                "21": {
+                    "title": "Playhouse",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Muffin stumbles on Samuel and Rudy's playhouse but they won't let her come in.    "
+                },
+                "22": {
+                    "title": "Cowgirl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    After seeing a cowboy movie, Muffin decides she would like to be a cowgirl.    "
+                },
+                "23": {
+                    "title": "Muffin's Plant",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 23,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Muffin finds a plant that she names Pee-Ew because of its terrible smell.    "
+                },
+                "24": {
+                    "title": "Baby Jordan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 24,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Mr Beakman's three-year-old nephew Jordan comes to visit.    "
+                },
+                "25": {
+                    "title": "A Squooky Christmas",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 25,
+                    "original air date": "1 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Muffinland",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "22 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    Muffin builds her own amusement park, Muffinland!    "
+                },
+                "2": {
+                    "title": "Meow Kitty",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "original air date": "23 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    A kitten gets stuck in the tree but Samuel and Mr Beakman are too scared to help.    "
+                },
+                "3": {
+                    "title": "Mariachi Muffin!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "24 Feb. 2009",
+                    "year": "2009",
+                    "plot": "\n    The community is throwing a fiesta, but the mariachi band can't make it.    "
+                },
+                "4": {
+                    "title": "Beach Branch!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "original air date": "25 Feb. 2009",
+                    "year": "2009",
+                    "plot": "\n    Mrs. Billingsley takes the kids out to Beach Branch, a sandy lake paradise.    "
+                },
+                "5": {
+                    "title": "Elliot the Budgie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "original air date": "26 Feb. 2009",
+                    "year": "2009",
+                    "plot": "\n    Elliot the worm would like to join the Budgies, but being a worm he doesn't qualify.    "
+                },
+                "6": {
+                    "title": "Art Show",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "original air date": "1 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Samuel and Muffin want to enter Mr Beakman's art show, but what should they paint?    "
+                },
+                "7": {
+                    "title": "Down to Earth!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "original air date": "2 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Muffin drops her favourite toy, Chloe, and Mr Beakman leads a rescue expedition.    "
+                },
+                "8": {
+                    "title": "Road Trip!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "original air date": "3 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Rudy borrows Quinn's bike for the day and she and Samuel go on a road trip.    "
+                },
+                "9": {
+                    "title": "Paint Job!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "original air date": "4 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Samuel and Rudy are painting a fence, but Rudy would rather be doing anything else.    "
+                },
+                "10": {
+                    "title": "Storm!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "original air date": "5 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Missy's pear house is blown out of the tree with Missy still inside.    "
+                },
+                "11": {
+                    "title": "Scooter!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "original air date": "8 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Samuel tells Muffin that she is too small to ride his scooter, but Muffin rides it anyway.    "
+                },
+                "12": {
+                    "title": "Race!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "original air date": "9 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Samuel and Rudy become increasingly competitive as they prepare to race each other.    "
+                },
+                "13": {
+                    "title": "Train!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "original air date": "10 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Muffin saves the day when Elliot gets stuck aboard a runaway Muffin Express!    "
+                },
+                "14": {
+                    "title": "The Moon!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "original air date": "10 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Rudy leads Muffin and Samuel on an trip to the moon in a rocket ship provided by Quinn.    "
+                },
+                "15": {
+                    "title": "Balloon Ride!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "original air date": "12 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Muffin and Baby Jordan go for a ride in a basket that's tied to balloons.    "
+                },
+                "16": {
+                    "title": "Help Daddy!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 16,
+                    "original air date": "15 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Muffin spends a day caring for trees with with her daddy, who is the tree superintendent.    "
+                },
+                "17": {
+                    "title": "Ahoy!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 17,
+                    "original air date": "16 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Mr Beakman, dressed as a pirate, leads the kids on a pirate adventure.    "
+                },
+                "18": {
+                    "title": "Robot!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 18,
+                    "original air date": "17 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Quinn's wind-up robot malfunctions and runs amok through 3rd and Bird.    "
+                },
+                "19": {
+                    "title": "Baby!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 19,
+                    "original air date": "18 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Muffin wants to play and Mr Beakman soon realises that he has agreed to play the baby!    "
+                },
+                "20": {
+                    "title": "Muffin's Friend!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 20,
+                    "original air date": "19 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Muffin introduces the community to her new friend, Ben the pig.    "
+                },
+                "21": {
+                    "title": "Aunt Esther!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 21,
+                    "original air date": "20 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Samuel and Muffin are invited to Elliot's picnic, but Elliot's Aunt Esther is very rude.    "
+                },
+                "22": {
+                    "title": "Prince!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 22,
+                    "original air date": "23 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    When a peacock prince visits, all are concerned about doing or saying the wrong thing.    "
+                },
+                "23": {
+                    "title": "Night Hike!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 23,
+                    "original air date": "24 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    The community takes an evening hike. Muffin and Jordan find themselves lost in the dark.    "
+                },
+                "24": {
+                    "title": "Play Nicely!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 24,
+                    "original air date": "25 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Mr Lovebird and Mr Beakman get very competitive at a picnic and end up quarrelling.    "
+                },
+                "25": {
+                    "title": "Talent Show!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 25,
+                    "original air date": "26 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    The community hosts a talent show at the Bird Theatre. Muffin and Jordan steal the show.    "
+                },
+                "26": {
+                    "title": "Jamaica",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "3rd & Bird (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 26,
+                    "original air date": "29 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    The Lovebirds fly to Jamaica for their holiday, but Samuel misses 3rd and Bird.    "
+                }
+            }
+        },
+        "number of episodes": 51,
+        "cast": [
+            {
+                "name": "Jarrett, Eden"
+            },
+            {
+                "name": "Lewis, Sam"
+            },
+            {
+                "name": "Gayle, Morgan"
+            },
+            {
+                "name": "Stevens, Michael Fenton"
+            },
+            {
+                "name": "Nyman, Preston"
+            },
+            {
+                "name": "Leslie-Cameron, Charlotte"
+            },
+            {
+                "name": "Nygh, Anna"
+            },
+            {
+                "name": "Beckford, David"
+            },
+            {
+                "name": "Gubbins, Candida"
+            },
+            {
+                "name": "Feinstein, Hayley"
+            },
+            {
+                "name": "Feinstein, Tori"
+            },
+            {
+                "name": "Siegfried, Jake Bennett"
+            },
+            {
+                "name": "Marley, Ziggy"
+            },
+            {
+                "name": "Roumie, Jonathan"
+            },
+            {
+                "name": "Sheps, Jesse Ray"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Family"
+        ],
+        "runtimes": [
+            "10"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ],
+        "country codes": [
+            "gb",
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Australia:G"
+        ],
+        "number of seasons": 2,
+        "rating": 7.1,
+        "votes": 38,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTQ0MzMzODUxOF5BMl5BanBnXkFtZTgwOTQ1OTE0MDE@._V1_SY150_CR46,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "3rd & Bird",
+        "year": 2008,
+        "kind": "tv series",
+        "series years": "2008-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Lopez, Billy"
+            },
+            {
+                "name": "Selig, Josh"
+            },
+            {
+                "name": "Ferrer, Dustin"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Little Airplane Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CBeebies"
+            },
+            {
+                "name": "Disney Channel"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Schellenberg & Evers"
+            }
+        ],
+        "plot": [
+            "Samuel (a green lovebird) and his avian friends work together to help their treetop community."
+        ],
+        "tech": {
+            "runtime": [
+                "10 min (UK)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 38,
+                "rating": 7.1
+            },
+            "aged 18 29": {
+                "votes": 4,
+                "rating": 7.8
+            },
+            "aged 30 44": {
+                "votes": 20,
+                "rating": 4.4
+            },
+            "aged 45 plus": {
+                "votes": 7,
+                "rating": 8.5
+            },
+            "males": {
+                "votes": 20,
+                "rating": 5.2
+            },
+            "males aged 18 29": {
+                "votes": 3,
+                "rating": 7.0
+            },
+            "males aged 30 44": {
+                "votes": 13,
+                "rating": 3.7
+            },
+            "males aged 45 plus": {
+                "votes": 4,
+                "rating": 7.5
+            },
+            "females": {
+                "votes": 10,
+                "rating": 8.1
+            },
+            "females aged 18 29": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 30 44": {
+                "votes": 7,
+                "rating": 6.1
+            },
+            "females aged 45 plus": {
+                "votes": 2,
+                "rating": 10.0
+            },
+            "top 1000 voters": {
+                "votes": 2,
+                "rating": 4.5
+            },
+            "us users": {
+                "votes": 10,
+                "rating": 3.0
+            },
+            "non us users": {
+                "votes": 15,
+                "rating": 7.7
+            }
+        },
+        "number of votes": {
+            "10": 18,
+            "9": 2,
+            "8": 3,
+            "7": 1,
+            "6": 3,
+            "5": 1,
+            "4": 2,
+            "3": 1,
+            "2": 1,
+            "1": 6
+        },
+        "arithmetic mean": 7.1,
+        "median": 9
+    }
+}

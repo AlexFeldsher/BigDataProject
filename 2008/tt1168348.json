@@ -1,0 +1,433 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "France\n",
+                "date": "January 2008",
+                "notes": "                            (Fipa Film Festival)"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "8 February 2008"
+            },
+            {
+                "country": "Spain\n",
+                "date": "11 October 2008",
+                "notes": "                            (Catalonia)"
+            },
+            {
+                "country": "France\n",
+                "date": "9 June 2009"
+            },
+            {
+                "country": "France\n",
+                "date": "10 June 2009",
+                "notes": "                            (part 2)"
+            }
+        ],
+        "release dates": [
+            "France::January 2008                            (Fipa Film Festival)",
+            "Belgium::8 February 2008",
+            "Spain::11 October 2008                            (Catalonia)",
+            "France::9 June 2009",
+            "France::10 June 2009                            (part 2)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Elles et moi"
+            },
+            {
+                "countries": "France",
+                "title": "Elles & moi"
+            },
+            {
+                "countries": "Spain (Catalan title)",
+                "title": "Elles i jo"
+            }
+        ],
+        "akas": [
+            "Elles et moi (original title)",
+            "Elles & moi France",
+            "Elles i jo Spain (Catalan title)"
+        ],
+        "akas from release info": [
+            "Elles et moi (original title)",
+            "Elles & moi France",
+            "Elles i jo Spain (Catalan title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Elles et moi (TV Mini-Series 2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "8 Feb. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Elles et moi (TV Mini-Series 2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "8 Feb. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Gil, Ariadna"
+            },
+            {
+                "name": "Bergès-Frisbey, Astrid"
+            },
+            {
+                "name": "Darrieux, Danielle"
+            },
+            {
+                "name": "Brendemühl, Alex"
+            },
+            {
+                "name": "Carulla, Montserrat"
+            },
+            {
+                "name": "Gayet, Julie"
+            },
+            {
+                "name": "Depardieu, Julie"
+            },
+            {
+                "name": "Palun, Luc"
+            },
+            {
+                "name": "de Monza, Florence"
+            },
+            {
+                "name": "Daumas, Corentin"
+            },
+            {
+                "name": "la Torre, Pablo de"
+            },
+            {
+                "name": "Marielle, Jean-Pierre"
+            },
+            {
+                "name": "Chevallier, Martine"
+            },
+            {
+                "name": "Denis, Arnaud"
+            },
+            {
+                "name": "Vaude, Nicolas"
+            },
+            {
+                "name": "Gallienne, Guillaume"
+            },
+            {
+                "name": "Lartigau, Gérard"
+            },
+            {
+                "name": "Delpeyrat, Scali"
+            },
+            {
+                "name": "Sadoyan, Isabelle"
+            },
+            {
+                "name": "Rego, Luis"
+            },
+            {
+                "name": "Riaboukine, Serge"
+            },
+            {
+                "name": "Charpentier, Laurent"
+            },
+            {
+                "name": "Moncorgé, Jean-Paul"
+            },
+            {
+                "name": "Blancan, Bernard"
+            },
+            {
+                "name": "Capdet, Xavier"
+            },
+            {
+                "name": "Frot, Dominique"
+            },
+            {
+                "name": "Souza, Roger"
+            },
+            {
+                "name": "Naymark, Lola"
+            },
+            {
+                "name": "Tanakil, Isabelle"
+            },
+            {
+                "name": "Herbert, Sylvie"
+            },
+            {
+                "name": "Pape, Hans"
+            },
+            {
+                "name": "Molé, Jean-Michel"
+            },
+            {
+                "name": "Banlier, Chantal"
+            },
+            {
+                "name": "Neri, Georges"
+            },
+            {
+                "name": "Obadia, Carole"
+            },
+            {
+                "name": "Bonetto, Marie-Claire"
+            },
+            {
+                "name": "Vezian, Anouchka"
+            },
+            {
+                "name": "Bermani, Elena"
+            },
+            {
+                "name": "Chambon, Olivier"
+            },
+            {
+                "name": "François, Jean-Marie"
+            },
+            {
+                "name": "Talau, Henri"
+            },
+            {
+                "name": "Perrot, Benjamin"
+            },
+            {
+                "name": "Romera, Larissa"
+            },
+            {
+                "name": "Adjarian, Arthur"
+            },
+            {
+                "name": "Presa, Monique"
+            },
+            {
+                "name": "Cortez, Luis Jaime"
+            },
+            {
+                "name": "Perrier, Mariona"
+            },
+            {
+                "name": "Debruyne, Alain"
+            },
+            {
+                "name": "Flender, Bruno"
+            },
+            {
+                "name": "Blazquez, Alain"
+            }
+        ],
+        "locations": [
+            "L'Estaque, Marseille, Bouches-du-Rhône, France"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "222"
+        ],
+        "countries": [
+            "France",
+            "Spain",
+            "Belgium"
+        ],
+        "country codes": [
+            "fr",
+            "es",
+            "be"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.33 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "original air date": "08 Feb 2008 (Belgium)",
+        "number of seasons": 1,
+        "rating": 7.1,
+        "votes": 25,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNTAwNDY4MDcwMV5BMl5BanBnXkFtZTcwNTQ1NzgxMw@@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "January 1939. The downfall of Barcelona confirms the default of the Spanish republicans. 500,000 of them had chosen the exile. Once arrived in France, men are disarmed and put in camps: Saint Cyprien, Argelès. Gurs... Concerning their families, women, children and old people, the administration distributes them in improvised centers, most of them in Ardèche. Elles et moi chooses to follow up the destiny of the Estevas all along these terrible months and the five war years that followed them. Lluís, the father, does not accept the defeat. He lives pursuing the reconquest and sacrifices his own destiny to these ideals. Pilar, his wife, expects to survive in this new country that she guesses will be hers during a long time. Together with her two children, Isabel and Ignacio, first in Ardèche and then in Marsella, always brave, firm, and with a prodigious capacity to adapt, she will accept the help and the proofs of a society undermined by the default and the cooperation. Sixty years later, Isabel Esteva, a famous costume designer, presents in Paris her last fashion collection. She evokes the memories of this confused time; her brother when he entered the Pétain's militia at 17 because he was famine; her father died in October 1944, once back in Spain with some other thousand combatants to prepare an insurrection against general Franco. War, exile, oppression, expectancy always disappointing, and at the same time feeling renewed, for a better world. Life goes on.",
+        "languages": [
+            "French"
+        ],
+        "title": "Elles et moi",
+        "year": 2008,
+        "kind": "tv mini series",
+        "series years": "2008-2008",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Bernard, Lény"
+            },
+            {
+                "name": "Stora, Bernard"
+            }
+        ],
+        "director": [
+            {
+                "name": "Stora, Bernard"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Studio International"
+            },
+            {
+                "name": "France 2 (FR2)"
+            },
+            {
+                "name": "Société Française de Production (SFP)"
+            },
+            {
+                "name": "Institut del Cinema Català (ICC)"
+            },
+            {
+                "name": "BE-FILMS"
+            },
+            {
+                "name": "Radio Télévision Belge Francophone (RTBF)"
+            },
+            {
+                "name": "Televisió de Catalunya (TV3)"
+            },
+            {
+                "name": "Centre National de la Cinématographie (CNC)"
+            },
+            {
+                "name": "Boxeur de Lune Production"
+            },
+            {
+                "name": "Région Ile-de-France"
+            },
+            {
+                "name": "Région Rhône-Alpes"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "France 2 (FR2)"
+            },
+            {
+                "name": "Radio Télévision Belge Francophone (RTBF)"
+            },
+            {
+                "name": "Televisió de Catalunya (TV3)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Gaumont-Pathe Archives"
+            }
+        ],
+        "plot": [
+            "January 1939. The downfall of Barcelona confirms the default of the Spanish republicans. 500,000 of them had chosen the exile. Once arrived in France, men are disarmed and put in camps: Saint Cyprien, Argelès. Gurs... Concerning their families, women, children and old people, the administration distributes them in improvised centers, most of them in Ardèche. _Elles et moi_ (qv) chooses to follow up the destiny of the Estevas all along these terrible months and the five war years that followed them. Lluís, the father, does not accept the defeat. He lives pursuing the reconquest and sacrifices his own destiny to these ideals. Pilar, his wife, expects to survive in this new country that she guesses will be hers during a long time. Together with her two children, Isabel and Ignacio, first in Ardèche and then in Marsella, always brave, firm, and with a prodigious capacity to adapt, she will accept the help and the proofs of a society undermined by the default and the cooperation. Sixty years later, Isabel Esteva, a famous costume designer, presents in Paris her last fashion collection. She evokes the memories of this confused time; her brother when he entered the Pétain's militia at 17 because he was famine; her father died in October 1944, once back in Spain with some other thousand combatants to prepare an insurrection against general Franco. War, exile, oppression, expectancy always disappointing, and at the same time feeling renewed, for a better world. Life goes on.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "3 hr 42 min (222 min) (2 parts) (France)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.33 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 25,
+                "rating": 7.1
+            },
+            "aged 18 29": {
+                "votes": 4,
+                "rating": 8.8
+            },
+            "aged 30 44": {
+                "votes": 11,
+                "rating": 6.9
+            },
+            "aged 45 plus": {
+                "votes": 9,
+                "rating": 6.2
+            },
+            "males": {
+                "votes": 23,
+                "rating": 6.8
+            },
+            "males aged 18 29": {
+                "votes": 3,
+                "rating": 10.0
+            },
+            "males aged 30 44": {
+                "votes": 11,
+                "rating": 6.9
+            },
+            "males aged 45 plus": {
+                "votes": 9,
+                "rating": 6.2
+            },
+            "females": {
+                "votes": 1,
+                "rating": 5.0
+            },
+            "females aged 18 29": {
+                "votes": 1,
+                "rating": 5.0
+            },
+            "top 1000 voters": {
+                "votes": 3,
+                "rating": 6.3
+            },
+            "non us users": {
+                "votes": 22,
+                "rating": 6.7
+            }
+        },
+        "number of votes": {
+            "10": 6,
+            "9": 0,
+            "8": 3,
+            "7": 8,
+            "6": 5,
+            "5": 1,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 2
+        },
+        "arithmetic mean": 7.1,
+        "median": 7
+    }
+}
