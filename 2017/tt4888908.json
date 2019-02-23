@@ -1,0 +1,615 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Spain\n",
+                "date": "16 January 2017"
+            },
+            {
+                "country": "Poland\n",
+                "date": "9 April 2017"
+            },
+            {
+                "country": "UK\n",
+                "date": "15 July 2017"
+            }
+        ],
+        "release dates": [
+            "Spain::16 January 2017",
+            "Poland::9 April 2017",
+            "UK::15 July 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Sé quién eres"
+            },
+            {
+                "countries": "Poland",
+                "title": "Wiem, kim jestes"
+            },
+            {
+                "countries": "Romania",
+                "title": "Stiu cine esti"
+            },
+            {
+                "countries": "Russia",
+                "title": "Я знаю, кто ты"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "I Know Who You Are"
+            }
+        ],
+        "akas": [
+            "Sé quién eres (original title)",
+            "Wiem, kim jestes Poland",
+            "Stiu cine esti Romania",
+            "Я знаю, кто ты Russia",
+            "I Know Who You Are World-wide (English title)"
+        ],
+        "akas from release info": [
+            "Sé quién eres (original title)",
+            "Wiem, kim jestes Poland",
+            "Stiu cine esti Romania",
+            "Я знаю, кто ты Russia",
+            "I Know Who You Are World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Kilómetro Cero",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 43,
+                    "original air date": "16 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    An injured and disorientated man arrives on foot at a petrol station, with no memory of who he is or how he got there. In hospital his wife informs him that he is a lawyer and that their niece is missing.    "
+                },
+                "2": {
+                    "title": "Memoria selectiva",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 35,
+                    "original air date": "23 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Due to her previous relationship with Juan, Eva tries to disassociate herself from the prosecution case and even Juan's own partner remains sceptical about his amnesia.    "
+                },
+                "3": {
+                    "title": "Matar al padre",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 29,
+                    "original air date": "30 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Juan Elias finds a phone number in his office and when he rings it discovers his own sordid past. Alicia announces her decision to temporarily resign from the bench.    "
+                },
+                "4": {
+                    "title": "La ley de la permanencia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 26,
+                    "original air date": "6 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Suspicions continue over Juan Elias' amnesia. A lead found at the scene of the accident takes him to prison to meet his father-in-law who demands to meet Pol in return for his help.    "
+                },
+                "5": {
+                    "title": "La habitación 218",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 24,
+                    "original air date": "13 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Juan Elias is undergoing therapy to try and regain his memory, but his sessions are being secretly filmed by Eva and David. Pol is taken to meet his grandfather and learns a painful family secret.    "
+                },
+                "6": {
+                    "title": "Secretos del pasado",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 22,
+                    "original air date": "20 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Alicia and Heredia urge Juan Elias not to take the amnesia test. Further flashbacks shed more light on the circumstances of Ana's flight. David is determined to uncover the mole.    "
+                },
+                "7": {
+                    "title": "Punto de no retorno",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 23,
+                    "original air date": "27 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    3 days before going missing Ana had recognised the man she had seen at Casa Castro and seen him talking to Juan Elias on campus. Giralt links Ana's disappearance to another missing persons case. Eva keeps her promise to Juan Elias.    "
+                },
+                "8": {
+                    "title": "La pista falsa",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 24,
+                    "original air date": "6 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    2 days before her disappearance Ana went with Charry to transfer the money to Bangkok. Giralt discovers that Cortes checked into a hostel but has not been seen for days. Juan Elias faces the consequences of lying at his initial hearing.    "
+                },
+                "9": {
+                    "title": "Mil veces mejor que tú",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 21,
+                    "original air date": "13 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    13 minutes before going missing Ana finds out that Juan will break his promise to stand down from the election. Giralt questions his new prime suspect Heredia, and things don't look good for him when a body is found near his summer house.    "
+                },
+                "10": {
+                    "title": "Necesito ayuda",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 27,
+                    "original air date": "20 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    The truth is finally revealed as the events surrounding the disappearance of Ana Suara are played out in full.    "
+                },
+                "11": {
+                    "title": "La vida en un suspiro",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 22,
+                    "original air date": "27 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Alicia has survived the murderous attack on her life, but is badly wounded and unconscious. Juan Elias, convinced that Santi Mur is the culprit, tells Inspector Giralt that the security cameras at the house will prove it. Santi is arrested at the university. Sylvia sees the news of the attack on TV and rushes to the hospital, but not before she finds blood on Marc's clothing. Eva Duran arrives to give evidence to Giralt, but discovers that he has been removed from the case.    "
+                },
+                "12": {
+                    "title": "Duda razonable",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 19,
+                    "original air date": "3 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Pol is shown where Ana has been held in captivity. Juan explains his intention to persuade Ana not to testify against him and promises to release her if Alicia does't regain consciousness within a week. Heredia arranges to exact revenge on his partner for framing him and Ramon offers a reward for help in finding Ana.    "
+                },
+                "13": {
+                    "title": "El precio del silencio",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 18,
+                    "original air date": "10 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Elias and Pol rush to Alicia's bedside at the news she has woken from her coma. Elias tells her that he knows that she had rung Judge Santos to inform on him, but that she can tell him she felt guilty about Charry's death. While Pol is alone with Alicia she tells him that he must get Ana away from his father. Marta Hess gets to work on finding or fabricating evidence against Santi Mur.    "
+                },
+                "14": {
+                    "title": "Julieta",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 21,
+                    "original air date": "17 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Pol takes Ana to the hideout that Juan had prepared before his arrest. Alicia, still in her hospital bed, receives a phone call. Julieta has been taken hostage and will be released only when Ana Saura has been found.    "
+                },
+                "15": {
+                    "title": "El reencuentro",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 18,
+                    "original air date": "24 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Inspector Barros attempts to interview the still traumatized Ana, but Ramon is keen to take her home despite his own antipathy to Juan Elias. Giralt knows that Elias is never going to volunteer any information and that it will be up to the police to make the case against him with or without Ana's testimony.    "
+                },
+                "16": {
+                    "title": "El factor de la culpabilidad",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "I Know Who You Are (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 25,
+                    "original air date": "1 May 2017",
+                    "year": "2017",
+                    "plot": "\n    Santi tells Eva that he is officially cleared of the attack on Alicia. Ana makes an impromptu announcement to the press at her father's funeral much to her brother's surprise. Ana attends court to face her grandfather and give her account of her abduction. Alicia attends the court representing her father Hector Castro and asks him to take responsibility for Ana's.    "
+                }
+            }
+        },
+        "number of episodes": 16,
+        "cast": [
+            {
+                "name": "Garrido, Francesc"
+            },
+            {
+                "name": "Portillo, Blanca"
+            },
+            {
+                "name": "Folch, Aida"
+            },
+            {
+                "name": "Francino, Carles"
+            },
+            {
+                "name": "Dechent, Antonio"
+            },
+            {
+                "name": "Novo, Nancho"
+            },
+            {
+                "name": "Santolaria, Eva"
+            },
+            {
+                "name": "Rivas, Martiño"
+            },
+            {
+                "name": "Monner, Àlex"
+            },
+            {
+                "name": "Fontanals, Noa"
+            },
+            {
+                "name": "Sodupe, Mar"
+            },
+            {
+                "name": "Abaitua, Susana"
+            },
+            {
+                "name": "Nieto, Pepón"
+            },
+            {
+                "name": "Borràs, Marcel"
+            },
+            {
+                "name": "Molins, Júlia"
+            },
+            {
+                "name": "Duran, Biel"
+            },
+            {
+                "name": "Gómez, Diana"
+            },
+            {
+                "name": "Benito, Andreu"
+            },
+            {
+                "name": "Prat, Albert"
+            },
+            {
+                "name": "Bonnín, Nausicaa"
+            },
+            {
+                "name": "Aixendri, Txell"
+            },
+            {
+                "name": "Arquillué, Pere"
+            },
+            {
+                "name": "Germán, Montse"
+            },
+            {
+                "name": "de Luna, Álvaro"
+            },
+            {
+                "name": "Bargalló, Patrícia"
+            },
+            {
+                "name": "Ferrer, Pep"
+            },
+            {
+                "name": "Sors, Sara"
+            },
+            {
+                "name": "Apilánez, Blanca"
+            },
+            {
+                "name": "Fernández, Greta"
+            },
+            {
+                "name": "Bequer, Susana"
+            },
+            {
+                "name": "Pons, Mercè"
+            },
+            {
+                "name": "Casals, Jaume"
+            },
+            {
+                "name": "Julien, Josep"
+            },
+            {
+                "name": "León, Mercedes"
+            },
+            {
+                "name": "Barceló, Manel"
+            },
+            {
+                "name": "Foronda, Oscar"
+            },
+            {
+                "name": "Rodríguez, Marc"
+            },
+            {
+                "name": "Bantulà, Carlota"
+            },
+            {
+                "name": "Busquets, Artur"
+            },
+            {
+                "name": "Alcoverro, Montse"
+            },
+            {
+                "name": "Arija, Jaume García"
+            },
+            {
+                "name": "Gubor, Laura"
+            },
+            {
+                "name": "Buch, Eduard"
+            },
+            {
+                "name": "Villén, Armand"
+            },
+            {
+                "name": "Cegarra, María"
+            },
+            {
+                "name": "Surroca, David Martín"
+            },
+            {
+                "name": "Carulla, Montserrat"
+            },
+            {
+                "name": "Guallar, Montse"
+            },
+            {
+                "name": "Gómez, Macarena"
+            },
+            {
+                "name": "Olalla, Carlos"
+            }
+        ],
+        "genres": [
+            "Thriller"
+        ],
+        "runtimes": [
+            "70"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "country codes": [
+            "es"
+        ],
+        "language codes": [
+            "es"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "United Kingdom:15"
+        ],
+        "number of seasons": 1,
+        "rating": 7.6,
+        "votes": 920,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYWY5YzVjZTQtNDNjMi00YTRkLWExYjktODFiYTBlZTdiMTIwXkEyXkFqcGdeQXVyNTk3NzkzNjY@._V1_SY150_CR10,0,101,150_.jpg",
+        "languages": [
+            "Spanish"
+        ],
+        "title": "I Know Who You Are",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-2017",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Cortecans, Pol"
+            },
+            {
+                "name": "Freixas, Pau"
+            },
+            {
+                "name": "Mercadé, Ivan"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Filmax"
+            },
+            {
+                "name": "Mediaset España"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Telecinco"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Deluxe Spain"
+            },
+            {
+                "name": "Deluxe Spain"
+            },
+            {
+                "name": "Energy Services"
+            },
+            {
+                "name": "Freeway CAM B.V."
+            },
+            {
+                "name": "Harmonica Rental"
+            }
+        ],
+        "plot": [
+            "A man ends up in hospital after a car accident. He does not remember his name, but it is soon discovered he is a famous attorney. To make things worse, the police start to suspect him of having murdered his missing niece.::charlesdomingues"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr 10 min (70 min) (16 episodes)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 920,
+                "rating": 7.6
+            },
+            "aged under 18": {
+                "votes": 3,
+                "rating": 9.3
+            },
+            "aged 18 29": {
+                "votes": 74,
+                "rating": 8.3
+            },
+            "aged 30 44": {
+                "votes": 292,
+                "rating": 7.6
+            },
+            "aged 45 plus": {
+                "votes": 244,
+                "rating": 7.3
+            },
+            "males": {
+                "votes": 440,
+                "rating": 7.5
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 18 29": {
+                "votes": 39,
+                "rating": 8.4
+            },
+            "males aged 30 44": {
+                "votes": 174,
+                "rating": 7.4
+            },
+            "males aged 45 plus": {
+                "votes": 183,
+                "rating": 7.3
+            },
+            "females": {
+                "votes": 225,
+                "rating": 7.7
+            },
+            "females aged under 18": {
+                "votes": 2,
+                "rating": 9.0
+            },
+            "females aged 18 29": {
+                "votes": 34,
+                "rating": 8.2
+            },
+            "females aged 30 44": {
+                "votes": 105,
+                "rating": 7.8
+            },
+            "females aged 45 plus": {
+                "votes": 55,
+                "rating": 7.4
+            },
+            "top 1000 voters": {
+                "votes": 16,
+                "rating": 6.7
+            },
+            "us users": {
+                "votes": 43,
+                "rating": 7.3
+            },
+            "non us users": {
+                "votes": 471,
+                "rating": 7.5
+            }
+        },
+        "number of votes": {
+            "10": 201,
+            "9": 169,
+            "8": 232,
+            "7": 158,
+            "6": 64,
+            "5": 30,
+            "4": 20,
+            "3": 15,
+            "2": 9,
+            "1": 22
+        },
+        "arithmetic mean": 7.8,
+        "median": 8
+    }
+}

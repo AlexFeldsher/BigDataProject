@@ -1,0 +1,435 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "France\n",
+                "date": "April 2017",
+                "notes": "                            (MIPTV)"
+            },
+            {
+                "country": "France\n",
+                "date": "18 April 2017",
+                "notes": "                            (Series Mania Festival)"
+            },
+            {
+                "country": "France\n",
+                "date": "1 June 2017"
+            },
+            {
+                "country": "USA\n",
+                "date": "28 September 2017",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "UK\n",
+                "date": "17 May 2018"
+            },
+            {
+                "country": "Germany\n",
+                "date": "1 August 2018"
+            }
+        ],
+        "release dates": [
+            "France::April 2017                            (MIPTV)",
+            "France::18 April 2017                            (Series Mania Festival)",
+            "France::1 June 2017",
+            "USA::28 September 2017                            (internet)",
+            "UK::17 May 2018",
+            "Germany::1 August 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Missions"
+            },
+            {
+                "countries": "Germany",
+                "title": "Missions"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A küldetés"
+            },
+            {
+                "countries": "Russia",
+                "title": "Миссии"
+            }
+        ],
+        "akas": [
+            "Missions (original title)",
+            "Missions Germany",
+            "A küldetés Hungary",
+            "Миссии Russia"
+        ],
+        "akas from release info": [
+            "Missions (original title)",
+            "Missions Germany",
+            "A küldetés Hungary",
+            "Миссии Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Ulysse",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Missions (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 73,
+                    "original air date": "28 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    A French crew arrives at Mars however a strange message forewarns the difficulties they're about to endure.    "
+                },
+                "2": {
+                    "title": "Mars",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Missions (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 63,
+                    "original air date": "28 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    After landing on mars the crew faces life threatening power issues aboard their vehicle. They also make an unexpected discovery that nobody saw coming.    "
+                },
+                "3": {
+                    "title": "Survivant",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Missions (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 51,
+                    "original air date": "28 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Vladimir is not all he appears to be as natural disaster threatens the entire mission.    "
+                },
+                "4": {
+                    "title": "Pierre",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Missions (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 48,
+                    "original air date": "28 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Pierre.    "
+                },
+                "5": {
+                    "title": "Alliance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Missions (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 45,
+                    "original air date": "28 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    After trying to hypnotize Komarov, Jeanne has flashbacks. Gemma, comes to reassure the crew and we discover that Meyer knew a lot more than he let on.    "
+                },
+                "6": {
+                    "title": "Irène",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Missions (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 41,
+                    "original air date": "28 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Jeanne goes to Thaumasia plain. Gramat followes with Gemma as his hostage while two soldiers arrive on Ulysses landing site to try to take Komarov.    "
+                },
+                "7": {
+                    "title": "Faute",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Missions (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 39,
+                    "original air date": "28 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Faute.    "
+                },
+                "8": {
+                    "title": "Phénix",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Missions (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 37,
+                    "original air date": "28 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Phénix.    "
+                },
+                "9": {
+                    "title": "Volodia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Missions (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 32,
+                    "original air date": "28 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Jeanne and Simon find Komarov on the glacier. The Russian reveals his true mission. Back on Ulysses, Wayne is now alone with the European crew.    "
+                },
+                "10": {
+                    "title": "Orage",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Missions (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 36,
+                    "original air date": "28 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 10,
+        "cast": [
+            {
+                "name": "Viviès, Hélène"
+            },
+            {
+                "name": "Aubert, Clément"
+            },
+            {
+                "name": "Mlekuz, Mathias"
+            },
+            {
+                "name": "Bernard, Jean-Toussaint"
+            },
+            {
+                "name": "Sinicorni, Giorgia"
+            },
+            {
+                "name": "Levin, Côme"
+            },
+            {
+                "name": "Gradziel, Adrianna"
+            },
+            {
+                "name": "Vandevelde, Christophe"
+            },
+            {
+                "name": "Bajraktaraj, Arben"
+            },
+            {
+                "name": "Andrews, Natacha"
+            },
+            {
+                "name": "Londez, Vincent"
+            },
+            {
+                "name": "Willcocks, Nathan"
+            },
+            {
+                "name": "Woodward, Shane"
+            },
+            {
+                "name": "Homewood, Ben"
+            },
+            {
+                "name": "McCamy, Ian"
+            },
+            {
+                "name": "Blancan, Bernard"
+            },
+            {
+                "name": "Strangel, Avant"
+            },
+            {
+                "name": "Clark, David"
+            },
+            {
+                "name": "Guillou-Kervern, Etienne"
+            }
+        ],
+        "genres": [
+            "Sci-Fi"
+        ],
+        "runtimes": [
+            "26"
+        ],
+        "countries": [
+            "France"
+        ],
+        "country codes": [
+            "fr"
+        ],
+        "language codes": [
+            "fr",
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "2.66 : 1",
+        "certificates": [
+            "Germany:16",
+            "United States:Not Rated"
+        ],
+        "number of seasons": 1,
+        "rating": 6.8,
+        "votes": 825,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BN2QwMGU5YmYtNzk2Zi00YTQ4LWEwOWYtYWJkNzJmNmY0NGNiXkEyXkFqcGdeQXVyMzI5ODA2NA@@._V1_SX101_CR0,0,101,150_.jpg",
+        "budget": "EUR1,500,000 (estimated)",
+        "languages": [
+            "French",
+            "English"
+        ],
+        "title": "Missions",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Cohen, Ami"
+            },
+            {
+                "name": "Debeurme, Henri"
+            },
+            {
+                "name": "Lacombe, Julien"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Empreinte Digitale"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "OCS"
+            },
+            {
+                "name": "Pandastorm Pictures"
+            },
+            {
+                "name": "Pandastorm Pictures"
+            }
+        ],
+        "plot": [
+            "The first manned mission to Mars is now approaching the red planet. The crew includes top-flight scientists and a young female psychiatrist, responsible for their mental health. But just as they are about to land, something goes wrong."
+        ],
+        "tech": {
+            "runtime": [
+                "26 min"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "2.66 : 1"
+            ],
+            "camera": [
+                "Arri Alexa"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 825,
+                "rating": 6.8
+            },
+            "aged 18 29": {
+                "votes": 62,
+                "rating": 7.5
+            },
+            "aged 30 44": {
+                "votes": 283,
+                "rating": 6.5
+            },
+            "aged 45 plus": {
+                "votes": 248,
+                "rating": 6.7
+            },
+            "males": {
+                "votes": 550,
+                "rating": 6.7
+            },
+            "males aged 18 29": {
+                "votes": 48,
+                "rating": 7.7
+            },
+            "males aged 30 44": {
+                "votes": 239,
+                "rating": 6.5
+            },
+            "males aged 45 plus": {
+                "votes": 215,
+                "rating": 6.7
+            },
+            "females": {
+                "votes": 81,
+                "rating": 6.8
+            },
+            "females aged 18 29": {
+                "votes": 11,
+                "rating": 6.5
+            },
+            "females aged 30 44": {
+                "votes": 36,
+                "rating": 6.6
+            },
+            "females aged 45 plus": {
+                "votes": 31,
+                "rating": 6.9
+            },
+            "top 1000 voters": {
+                "votes": 16,
+                "rating": 5.6
+            },
+            "us users": {
+                "votes": 80,
+                "rating": 6.3
+            },
+            "non us users": {
+                "votes": 422,
+                "rating": 6.7
+            }
+        },
+        "number of votes": {
+            "10": 127,
+            "9": 92,
+            "8": 163,
+            "7": 188,
+            "6": 98,
+            "5": 61,
+            "4": 31,
+            "3": 17,
+            "2": 23,
+            "1": 25
+        },
+        "arithmetic mean": 7.1,
+        "median": 7
+    }
+}

@@ -1,0 +1,562 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2017"
+            },
+            {
+                "country": "USA\n",
+                "date": "7 November 2017"
+            },
+            {
+                "country": "UK\n",
+                "date": "8 November 2017",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Spain\n",
+                "date": "1 February 2018"
+            }
+        ],
+        "release dates": [
+            "USA::2017",
+            "USA::7 November 2017",
+            "UK::8 November 2017                            (internet)",
+            "Spain::1 February 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Damnation"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Nação Condenada"
+            },
+            {
+                "countries": "Russia",
+                "title": "Проклятье"
+            },
+            {
+                "countries": "USA",
+                "title": "Damnation"
+            }
+        ],
+        "akas": [
+            "Damnation (original title)",
+            "Nação Condenada Portugal",
+            "Проклятье Russia",
+            "Damnation USA"
+        ],
+        "akas from release info": [
+            "Damnation (original title)",
+            "Nação Condenada Portugal",
+            "Проклятье Russia",
+            "Damnation USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Sam Riley's Body",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Damnation (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 269,
+                    "original air date": "7 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    When a farmer's strike led by a local preacher escalates, a man from his past is sent to restore order.    "
+                },
+                "2": {
+                    "title": "Which Side Are You On?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Damnation (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 200,
+                    "original air date": "14 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Seth and the farmers ward off the Black Legion; Creeley tries to learn more about his brother's new life.    "
+                },
+                "3": {
+                    "title": "One Penny",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Damnation (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 173,
+                    "original air date": "21 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    When the local farms face foreclosure, Seth and Amelia must find a way to win them back; Creeley and Bessie run afoul of the Black Legion.    "
+                },
+                "4": {
+                    "title": "The Emperor of Ice Cream",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Damnation (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 164,
+                    "original air date": "28 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Negotiations commence between the farmers and the bank; Creeley divides the farmers.    "
+                },
+                "5": {
+                    "title": "Den of Lost Souls",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Damnation (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 141,
+                    "original air date": "14 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    When a traveling carnival comes to Holden, a collection of new and familiar faces put Seth and Creeley on their toes.    "
+                },
+                "6": {
+                    "title": "In Wyoming Fashion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Damnation (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 137,
+                    "original air date": "21 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    Seth and Lew are presented with an unexpected opportunity when Calvin Rumple is run out of town.    "
+                },
+                "7": {
+                    "title": "A Different Species",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Damnation (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 137,
+                    "original air date": "28 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    Creeley meets his master on an exclusive hunting retreat, but finds there is more than one game at play; Seth infiltrates a nearby factory.    "
+                },
+                "8": {
+                    "title": "The Goodness of Men",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Damnation (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 129,
+                    "original air date": "4 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    When Bessie discovers the grand industrial plans for Holden, Seth and Amelia must decide whether to protect her from the Black Legion.    "
+                },
+                "9": {
+                    "title": "Dark Was the Night, Cold Was the Ground",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Damnation (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 141,
+                    "original air date": "11 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Seth and the farmers take on the Black Legion with the help of unlikely allies.    "
+                },
+                "10": {
+                    "title": "God's Body",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Damnation (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 153,
+                    "original air date": "18 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Seth and Creeley must confront the truth about their past, and figure out a way to survive the rapidly arriving future.    "
+                }
+            }
+        },
+        "number of episodes": 10,
+        "cast": [
+            {
+                "name": "Marshall-Green, Logan"
+            },
+            {
+                "name": "Scott, Killian"
+            },
+            {
+                "name": "Jones, Sarah"
+            },
+            {
+                "name": "Harmon, Chasten"
+            },
+            {
+                "name": "Heyerdahl, Christopher"
+            },
+            {
+                "name": "Adler, Joe"
+            },
+            {
+                "name": "Domville, Philippa"
+            },
+            {
+                "name": "Haysom, David"
+            },
+            {
+                "name": "Hamilton, Melinda Page"
+            },
+            {
+                "name": "Grant, Teach"
+            },
+            {
+                "name": "Pinnock, Arnold"
+            },
+            {
+                "name": "Mead, Rohan"
+            },
+            {
+                "name": "Augustson, Nola"
+            },
+            {
+                "name": "McKenna, Alexis"
+            },
+            {
+                "name": "Donohue, Dan"
+            },
+            {
+                "name": "Rae, Paul"
+            },
+            {
+                "name": "Barry, Sasha"
+            },
+            {
+                "name": "Mann, Gabriel"
+            },
+            {
+                "name": "Stryker, Bradley"
+            },
+            {
+                "name": "Cardenas, Juan Javier"
+            },
+            {
+                "name": "Murphy, Timothy V."
+            },
+            {
+                "name": "Lambert, Vicky"
+            },
+            {
+                "name": "McNichol, Joel"
+            },
+            {
+                "name": "Mitchell, Barb"
+            },
+            {
+                "name": "Rosamond, Christopher"
+            },
+            {
+                "name": "Jones, Morgan David"
+            },
+            {
+                "name": "Butler, Tom"
+            },
+            {
+                "name": "Masi, Hannah"
+            },
+            {
+                "name": "Perry, Stafford"
+            },
+            {
+                "name": "Antonini, Marty"
+            },
+            {
+                "name": "Jackshaw, Joel"
+            },
+            {
+                "name": "Lawson, Greg"
+            },
+            {
+                "name": "James, Tyler"
+            },
+            {
+                "name": "Shaw, Joe Norman"
+            },
+            {
+                "name": "Del Mar, Diego Diablo"
+            },
+            {
+                "name": "McGowan, Zach"
+            },
+            {
+                "name": "Keating, Fred"
+            },
+            {
+                "name": "Dial, Braye"
+            },
+            {
+                "name": "Holmes, Mark"
+            },
+            {
+                "name": "Garrow, Patrick"
+            },
+            {
+                "name": "Cook, Chris W."
+            },
+            {
+                "name": "Yuste, Beatriz"
+            },
+            {
+                "name": "Cooper, Andrew"
+            },
+            {
+                "name": "Huber, Jon"
+            },
+            {
+                "name": "Longworth, David"
+            },
+            {
+                "name": "Charlton, Bobbi"
+            },
+            {
+                "name": "Sutherland, Haig"
+            },
+            {
+                "name": "Williams, Blair"
+            },
+            {
+                "name": "Buliung, Evan"
+            },
+            {
+                "name": "Bentley, Stuart"
+            }
+        ],
+        "locations": [
+            "Calgary, Alberta, Canada",
+            "Okotoks, Alberta, Canada",
+            "Cochrane, Alberta, Canada"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Western"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Norway:16::(Netflix self-rating)",
+            "Singapore:M18",
+            "South Korea:18",
+            "Spain:16",
+            "United States:TV-MA"
+        ],
+        "number of seasons": 1,
+        "rating": 7.7,
+        "votes": 4903,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNzNlOTU1OTYtYmI0ZS00NjVhLWE1ZjQtM2UwMjdjMTJiNjViXkEyXkFqcGdeQXVyNjk5NDA3OTk@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "Seth Davenport appears to be a small town Iowa preacher, but he harbors ambitions of starting a full-blown insurrection against the status quo. But he is unaware that an industrialist tycoon has hired a deadly professional strikebreaker named Creeley Turner to stop that insurrection by any means necessary. And unknown to those around them, these two men share a secret bloody past.",
+        "languages": [
+            "English"
+        ],
+        "title": "Damnation",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-2018",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Tost, Tony"
+            },
+            {
+                "name": "Choudhury, Nazrin"
+            },
+            {
+                "name": "Cohen, Julia"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Universal Cable Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "USA Network"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Canada Film Capital"
+            },
+            {
+                "name": "Canada Film Capital"
+            },
+            {
+                "name": "Entertainment Partners Canada"
+            },
+            {
+                "name": "Helen Uffner Vintage Clothing"
+            },
+            {
+                "name": "The Picture Mill"
+            },
+            {
+                "name": "William F. White International"
+            }
+        ],
+        "plot": [
+            "An epic saga about the secret history of the 1930s American heartland, centering on the mythic conflict and bloody struggle between big money and the downtrodden.",
+            "Seth Davenport appears to be a small town Iowa preacher, but he harbors ambitions of starting a full-blown insurrection against the status quo. But he is unaware that an industrialist tycoon has hired a deadly professional strikebreaker named Creeley Turner to stop that insurrection by any means necessary. And unknown to those around them, these two men share a secret bloody past."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD",
+                "2.35 : 1",
+                "2:1"
+            ],
+            "camera": [
+                "Arri Alexa"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 4903,
+                "rating": 7.7
+            },
+            "aged under 18": {
+                "votes": 11,
+                "rating": 5.9
+            },
+            "aged 18 29": {
+                "votes": 712,
+                "rating": 8.0
+            },
+            "aged 30 44": {
+                "votes": 1425,
+                "rating": 7.5
+            },
+            "aged 45 plus": {
+                "votes": 989,
+                "rating": 7.5
+            },
+            "males": {
+                "votes": 2725,
+                "rating": 7.5
+            },
+            "males aged under 18": {
+                "votes": 7,
+                "rating": 7.7
+            },
+            "males aged 18 29": {
+                "votes": 541,
+                "rating": 7.9
+            },
+            "males aged 30 44": {
+                "votes": 1105,
+                "rating": 7.4
+            },
+            "males aged 45 plus": {
+                "votes": 734,
+                "rating": 7.4
+            },
+            "females": {
+                "votes": 793,
+                "rating": 8.0
+            },
+            "females aged under 18": {
+                "votes": 3,
+                "rating": 7.0
+            },
+            "females aged 18 29": {
+                "votes": 161,
+                "rating": 8.2
+            },
+            "females aged 30 44": {
+                "votes": 296,
+                "rating": 7.9
+            },
+            "females aged 45 plus": {
+                "votes": 239,
+                "rating": 8.1
+            },
+            "top 1000 voters": {
+                "votes": 66,
+                "rating": 6.1
+            },
+            "us users": {
+                "votes": 689,
+                "rating": 7.5
+            },
+            "non us users": {
+                "votes": 1733,
+                "rating": 7.5
+            }
+        },
+        "number of votes": {
+            "10": 1101,
+            "9": 879,
+            "8": 1492,
+            "7": 797,
+            "6": 264,
+            "5": 110,
+            "4": 65,
+            "3": 40,
+            "2": 38,
+            "1": 117
+        },
+        "arithmetic mean": 8.0,
+        "median": 8
+    }
+}

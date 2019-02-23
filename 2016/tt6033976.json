@@ -1,0 +1,128 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "13 May 2016"
+            },
+            {
+                "country": "UK\n",
+                "date": "13 May 2016",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "UK::13 May 2016",
+            "UK::13 May 2016                            (internet)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Adaptations",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Reading Corner (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "13 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Rachel and Bethan sit down to discuss book adaptations, present some book news and play some bookish games.    "
+                },
+                "2": {
+                    "title": "Graphic Novels and Comics",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Reading Corner (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "20 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Rachel and Bethan sit down to discuss graphic novels and comics, present some book news and play some bookish games.    "
+                },
+                "3": {
+                    "title": "Fan Fiction",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Reading Corner (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "29 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Rachel and Bethan sit down to discuss fan fiction, present some book news and play a bookish quiz.    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Fenwick, Rachel"
+            },
+            {
+                "name": "Flint, Bethan"
+            }
+        ],
+        "locations": [
+            "London, England, UK::(studio)"
+        ],
+        "genres": [
+            "Talk-Show"
+        ],
+        "runtimes": [
+            "9"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16 : 9",
+        "original air date": "13 May 2016 (UK)",
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOGI5YWQ4NDUtMDQzNi00ODAxLTg3OGUtYmRhYTk2YjMyOWY5XkEyXkFqcGdeQXVyNjU2MTcyNTc@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Reading Corner",
+        "year": 2016,
+        "kind": "tv mini series",
+        "series years": "2016-",
+        "akas": [
+            "The Reading Corner (United Kingdom)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "director": [
+            {
+                "name": "Woodley, Ryan"
+            }
+        ],
+        "plot": [
+            "A web series that discusses and reviews young adult books, classic literature, comics and graphic novels."
+        ],
+        "tech": {
+            "runtime": [
+                "9 min (approx)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16 : 9"
+            ]
+        }
+    }
+}

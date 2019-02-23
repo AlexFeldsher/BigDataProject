@@ -1,0 +1,66 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2017"
+            },
+            {
+                "country": "USA\n",
+                "date": "  2018"
+            }
+        ],
+        "release dates": [
+            "USA::2017",
+            "USA::2018"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Scarred",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dead Boys (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "2017",
+                    "year": "2017",
+                    "plot": "\n    A fraternity themed porn shoot turns to mayhem when one of the performers is assaulted and shamed by the group, triggering a primal transformation.    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Robbins, Jake"
+            }
+        ],
+        "number of seasons": 1,
+        "title": "Dead Boys",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Haxton, Dominic"
+            },
+            {
+                "name": "Robbins, Jake"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "TLA Releasing"
+            }
+        ],
+        "plot": [
+            "A horror anthology series that centers on young gay men confronting their worst nightmares.::Anonymous"
+        ],
+        "tech": {}
+    }
+}

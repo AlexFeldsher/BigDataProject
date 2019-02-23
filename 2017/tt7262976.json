@@ -1,0 +1,83 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "8 August 2017"
+            },
+            {
+                "country": "USA\n",
+                "date": "8 December 2017"
+            }
+        ],
+        "release dates": [
+            "USA::8 August 2017",
+            "USA::8 December 2017"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog Tales Family Edition (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "8 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    A television series all about dogs and the people who love them. Featuring dogs of all sizes, shapes and breeds from across the United States.    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "genres": [
+            "Family"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Dog Tales Family Edition",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-",
+        "akas": [
+            "Dog Tales Family Edition (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Telco Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Telco Productions"
+            }
+        ],
+        "plot": [
+            "Dogs and the people who love them, featuring dogs of all sizes, shapes and breeds from across the United States."
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

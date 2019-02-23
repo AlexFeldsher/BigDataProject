@@ -1,0 +1,730 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "15 June 2017"
+            },
+            {
+                "country": "Germany\n",
+                "date": "16 June 2017"
+            },
+            {
+                "country": "Spain\n",
+                "date": "16 June 2017"
+            },
+            {
+                "country": "France\n",
+                "date": "16 June 2017",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "23 June 2017",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "25 July 2017"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "6 September 2017"
+            }
+        ],
+        "release dates": [
+            "UK::15 June 2017",
+            "Germany::16 June 2017",
+            "Spain::16 June 2017",
+            "France::16 June 2017                            (internet)",
+            "Netherlands::23 June 2017                            (internet)",
+            "Belgium::25 July 2017",
+            "Sweden::6 September 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Riviera"
+            },
+            {
+                "countries": "Russia",
+                "title": "Ривьера"
+            },
+            {
+                "countries": "Spain",
+                "title": "Riviera"
+            },
+            {
+                "countries": "USA",
+                "title": "Riviera"
+            }
+        ],
+        "akas": [
+            "Riviera (original title)",
+            "Ривьера Russia",
+            "Riviera Spain",
+            "Riviera USA"
+        ],
+        "akas from release info": [
+            "Riviera (original title)",
+            "Ривьера Russia",
+            "Riviera Spain",
+            "Riviera USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Villa Carmella",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 212,
+                    "original air date": "15 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    The young widow of a billionaire banker, who died in an explosion aboard his luxury yacht, discovers that her late husband wasn't the man she thought she knew. As she uncovers the shocking truth it leads her into danger.    "
+                },
+                "2": {
+                    "title": "Faussaires",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 164,
+                    "original air date": "15 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    Georgina is informed that Constantine's dealings are under investigation by Interpol. Meanwhile, Irina makes a deal with a major player within the underworld of the Riviera.    "
+                },
+                "3": {
+                    "title": "La chambre secrète",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 149,
+                    "original air date": "15 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    Georgina searches for answers into her husband's possible death by reviewing his movements on the day of the explosion. Christos's hedonistic behaviour spirals out of control.    "
+                },
+                "4": {
+                    "title": "Tableaux de famille",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 134,
+                    "original air date": "15 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    Following her discovery in the safe room, Georgina attempts to track down her husband's elusive art collector. Delormes finds a way to bring Negrescu to justice.    "
+                },
+                "5": {
+                    "title": "Elena",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 123,
+                    "original air date": "15 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    A frustrated Georgina uses the Clios Foundation's lavish gala as an opportunity to pin down a person of interest, but the party receives an uninvited guest.    "
+                },
+                "6": {
+                    "title": "Travail d'artiste",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 117,
+                    "original air date": "15 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    The Clios family are questioned by police after the events of the gala. Meanwhile, Delormes uncovers wreckage from the yacht that may change everything.    "
+                },
+                "7": {
+                    "title": "Le Don",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 117,
+                    "original air date": "15 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    With Interpol's net closing in on Georgina, she and Carver set out to close the investigation once and for all. Irina reveals a family secret to Negrescu.    "
+                },
+                "8": {
+                    "title": "La Clé",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 109,
+                    "original air date": "15 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    Georgina must join forces with an unlikely ally when she receives a threat from a stranger. Christos's rehab goes well, but a new relationship put him in danger.    "
+                },
+                "9": {
+                    "title": "Oeil pour oeil",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 116,
+                    "original air date": "15 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    To keep her family safe, Georgina crosses a line she can never return from. Delormes uncovers the identity of his opponent and attempts to take them down.    "
+                },
+                "10": {
+                    "title": "À la vue de tous",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 126,
+                    "original air date": "1 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    In the face of tragedy, Georgina resolves to free her family from danger and faces her opponents head-on.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Episode #2.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "23 May 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Episode #2.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Episode #2.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Stolpersteine",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Restitution",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Original Sin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Bloodlines",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Idée Fixe",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "Episode #2.9",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "Episode #2.10",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Riviera (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 20,
+        "cast": [
+            {
+                "name": "Naor, Igal"
+            },
+            {
+                "name": "Stiles, Julia"
+            },
+            {
+                "name": "Olin, Lena"
+            },
+            {
+                "name": "Lester, Adrian"
+            },
+            {
+                "name": "Rheon, Iwan"
+            },
+            {
+                "name": "Waked, Amr"
+            },
+            {
+                "name": "Leonidas, Dimitri"
+            },
+            {
+                "name": "Duran, Roxane"
+            },
+            {
+                "name": "Vorobyov, Daniil"
+            },
+            {
+                "name": "Perez, Vincent"
+            },
+            {
+                "name": "LaPaglia, Anthony"
+            },
+            {
+                "name": "Davis, Phil"
+            },
+            {
+                "name": "Arnett, Will"
+            },
+            {
+                "name": "Delevingne, Poppy"
+            },
+            {
+                "name": "Fitoussi, Grégory"
+            },
+            {
+                "name": "Fox, Jack"
+            },
+            {
+                "name": "Lanipekun, Alex"
+            },
+            {
+                "name": "Stevenson, Juliet"
+            },
+            {
+                "name": "Rowe, Nicholas"
+            },
+            {
+                "name": "Arnezeder, Nora"
+            },
+            {
+                "name": "Bertin, Philippe"
+            },
+            {
+                "name": "Jouannet, Chloé"
+            },
+            {
+                "name": "Brossard, Phénix"
+            },
+            {
+                "name": "Brossard, Xavier"
+            },
+            {
+                "name": "Popica, Olivia"
+            },
+            {
+                "name": "Nevern, Nick"
+            },
+            {
+                "name": "Lukeba, Merveille"
+            },
+            {
+                "name": "Pedersen, Peder Thomas"
+            },
+            {
+                "name": "Faure, Quentin"
+            },
+            {
+                "name": "Chakrabarti, Lolita"
+            },
+            {
+                "name": "Martin, Lucy"
+            },
+            {
+                "name": "La Boulaye, Agathe de"
+            },
+            {
+                "name": "Lile, Henry"
+            },
+            {
+                "name": "Skreblin, Igor"
+            },
+            {
+                "name": "Ebouaney, Eriq"
+            },
+            {
+                "name": "Tual, Yan"
+            },
+            {
+                "name": "Rissmann, Marc"
+            },
+            {
+                "name": "Holden, Mark"
+            },
+            {
+                "name": "Jackman, Rotem"
+            },
+            {
+                "name": "Kelly, Morgan"
+            },
+            {
+                "name": "Roach, Kadence Kendall"
+            },
+            {
+                "name": "Kent, Olga"
+            },
+            {
+                "name": "Marsh, Matthew"
+            },
+            {
+                "name": "Syal, Meera"
+            },
+            {
+                "name": "Connolly, Simon"
+            },
+            {
+                "name": "Knatchbull, Melissa"
+            },
+            {
+                "name": "Baert, Clémentine"
+            },
+            {
+                "name": "Rollet, Hubert"
+            },
+            {
+                "name": "Bock, Souleiman"
+            },
+            {
+                "name": "Calf, Anthony"
+            }
+        ],
+        "locations": [
+            "Nice, Alpes-Maritimes, France"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Denmark:15::(DVD rating)",
+            "Finland:K-16::(DVD rating)",
+            "France:Tous publics",
+            "Netherlands:12",
+            "Norway:15::(DVD rating)",
+            "Portugal:16",
+            "Spain:18",
+            "Sweden:15::(DVD rating)",
+            "United Kingdom:15"
+        ],
+        "number of seasons": 2,
+        "rating": 6.6,
+        "votes": 4113,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNzY4YTc3YjQtOThiZi00YjM5LWEyZTktYjFlYmM5YTMxODQzXkEyXkFqcGdeQXVyMzI2ODkyNDg@._V1_SY150_CR7,0,101,150_.jpg",
+        "budget": "GBP40,000,000 (estimated)",
+        "plot outline": "After newlywed Georgina's billionaire husband Constantine is killed in a yacht explosion, she is shocked to discover the fortune and lifestyle he maintained was surrounded by violence, lies, secrets and murder. She soon must step out of her comfort zone to protect the family and herself.",
+        "languages": [
+            "English"
+        ],
+        "title": "Riviera",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Jordan, Neil"
+            },
+            {
+                "name": "McGuinness, Paul"
+            },
+            {
+                "name": "Gregg, Stacey"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Archery Pictures"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "C More"
+            },
+            {
+                "name": "Cosmote Cinema"
+            },
+            {
+                "name": "SFR Play"
+            },
+            {
+                "name": "Sky Atlantic"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Videoland"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Digital Orchard"
+            },
+            {
+                "name": "Drone 06"
+            },
+            {
+                "name": "HireWorks"
+            },
+            {
+                "name": "Line Studio"
+            },
+            {
+                "name": "Setkeeper"
+            },
+            {
+                "name": "Soundtrack New York"
+            },
+            {
+                "name": "The Morrison Studio"
+            },
+            {
+                "name": "Yellow Cab Studios"
+            }
+        ],
+        "plot": [
+            "After newlywed Georgina's billionaire husband Constantine is killed in a yacht explosion, she is shocked to discover the fortune and lifestyle he maintained was surrounded by violence, lies, secrets and murder. She soon must step out of her comfort zone to protect the family and herself.",
+            "Follow Georgina is newly married to billionaire Constantine Clios when he is killed in a yacht explosion. She is shocked to discover the fortune that maintained his immaculate, ever-so-tasteful lifestyle is tainted with dishonesty, double-dealing, crime, and ultimately murder. Helped by Constantine's first wife, Georgina will undergo an education in lying, double-dealing, outright theft and shocking criminality. She has to learn fast to maintain the Clios mansion and save the family from its enemies and from itself. Hiding her bloodstained fingers inside Chanel gloves, she soon reveals herself to be an A-plus student in the brutal art of survival.::ahmetkozan"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Arri Alexa"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 4113,
+                "rating": 6.6
+            },
+            "aged under 18": {
+                "votes": 4,
+                "rating": 8.0
+            },
+            "aged 18 29": {
+                "votes": 435,
+                "rating": 6.9
+            },
+            "aged 30 44": {
+                "votes": 1311,
+                "rating": 6.4
+            },
+            "aged 45 plus": {
+                "votes": 936,
+                "rating": 6.6
+            },
+            "males": {
+                "votes": 1789,
+                "rating": 6.5
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 7.5
+            },
+            "males aged 18 29": {
+                "votes": 209,
+                "rating": 6.8
+            },
+            "males aged 30 44": {
+                "votes": 768,
+                "rating": 6.3
+            },
+            "males aged 45 plus": {
+                "votes": 627,
+                "rating": 6.5
+            },
+            "females": {
+                "votes": 1173,
+                "rating": 6.8
+            },
+            "females aged under 18": {
+                "votes": 2,
+                "rating": 8.5
+            },
+            "females aged 18 29": {
+                "votes": 219,
+                "rating": 7.1
+            },
+            "females aged 30 44": {
+                "votes": 523,
+                "rating": 6.7
+            },
+            "females aged 45 plus": {
+                "votes": 294,
+                "rating": 6.8
+            },
+            "top 1000 voters": {
+                "votes": 75,
+                "rating": 5.3
+            },
+            "us users": {
+                "votes": 278,
+                "rating": 6.6
+            },
+            "non us users": {
+                "votes": 1850,
+                "rating": 6.4
+            }
+        },
+        "number of votes": {
+            "10": 542,
+            "9": 340,
+            "8": 752,
+            "7": 989,
+            "6": 637,
+            "5": 352,
+            "4": 173,
+            "3": 124,
+            "2": 81,
+            "1": 123
+        },
+        "arithmetic mean": 6.9,
+        "median": 7
+    }
+}

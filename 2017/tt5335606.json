@@ -1,0 +1,998 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "21 January 2017"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "2 September 2017"
+            }
+        ],
+        "release dates": [
+            "USA::21 January 2017",
+            "Netherlands::2 September 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Power Rangers Ninja Steel"
+            },
+            {
+                "countries": "USA (second season title)",
+                "title": "Power Rangers Super Ninja Steel"
+            }
+        ],
+        "akas": [
+            "Power Rangers Ninja Steel (original title)",
+            "Power Rangers Super Ninja Steel USA (second season title)"
+        ],
+        "akas from release info": [
+            "Power Rangers Ninja Steel (original title)",
+            "Power Rangers Super Ninja Steel USA (second season title)"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Echoes of Evil",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 25,
+                    "original air date": "27 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Madame Odius returns to Earth to track down the Ninja Nexus Prism.    "
+                },
+                "2": {
+                    "title": "Moment of Truth",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 19,
+                    "original air date": "3 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    When Calvin forgets his and Hayley's anniversary, he panics and ends up spinning a web of lies to cover up his mistake, which only powers up Galaxy Warriors' latest lie-absorbing monster.    "
+                },
+                "3": {
+                    "title": "Tough Love",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 16,
+                    "original air date": "10 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Levi allows himself to accept stylistic changes to impress an attractive street performer.    "
+                },
+                "4": {
+                    "title": "Making Waves",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 17,
+                    "original air date": "17 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    When a monster threatens Summer Cove, the Ninja Steel Rangers tap into the power of a brand new Megazord.    "
+                },
+                "5": {
+                    "title": "Game Plan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 15,
+                    "original air date": "24 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    The students of Summer Cove High become addicted to a new video game.    "
+                },
+                "6": {
+                    "title": "Attack of the Galactic Ninjas",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 16,
+                    "original air date": "3 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    The Galactic Ninjas arrive on Earth to destroy the Ninja Steel Rangers once and for all.    "
+                },
+                "7": {
+                    "title": "The Need For Speed",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 15,
+                    "original air date": "10 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Sarah tries to break the hoverboard speed record using a strange new technology.    "
+                },
+                "8": {
+                    "title": "Caught Red-Handed",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 21,
+                    "original air date": "17 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Brody is accused of stealing something from one of his teachers.    "
+                },
+                "9": {
+                    "title": "Outfoxed",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 18,
+                    "original air date": "25 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    After their Zords are disabled by Odius' giant Foxatron, the Rangers must find a new way to stop her evil Zord.    "
+                },
+                "10": {
+                    "title": "Dimensions in Danger",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 39,
+                    "original air date": "28 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    A very special 25th anniversary episode finds the Super Ninja Steel Rangers teaming up with legendary Rangers in an epic battle to save the world.    "
+                },
+                "11": {
+                    "title": "Love Stings",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 15,
+                    "original air date": "1 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Preston learns not to believe everything he hears.    "
+                },
+                "12": {
+                    "title": "Fan Frenzy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 12,
+                    "original air date": "8 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Levil becomes overwhelmed by an overzealous fan.    "
+                },
+                "13": {
+                    "title": "Prepare To Fail",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 13,
+                    "original air date": "15 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Sarah and the team's overconfidence puts them all at risk.    "
+                },
+                "14": {
+                    "title": "Sheriff Skyfire",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "votes": 11,
+                    "original air date": "22 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    A Space Sheriff is tricked into attacking the Rangers; Hayley learns an important lesson about respecting school rules.    "
+                },
+                "15": {
+                    "title": "Tech Support",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "votes": 8,
+                    "original air date": "29 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    The Rangers need the help of an unlikely ally when their technology is infected with a computer virus.    "
+                },
+                "16": {
+                    "title": "Car Trouble",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 16,
+                    "votes": 9,
+                    "original air date": "6 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Calvin is faced with a tough decision when he is offered his dream job.    "
+                },
+                "17": {
+                    "title": "Happy to Be Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 17,
+                    "votes": 11,
+                    "original air date": "13 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    When a monster steals Levi's voice, he learns an important lesson about self-worth.    "
+                },
+                "18": {
+                    "title": "Magic Misfire",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 18,
+                    "votes": 10,
+                    "original air date": "27 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    One of Preston's spells accidentally causes unintended consequences for once of his favorite teachers.    "
+                },
+                "19": {
+                    "title": "Doom Signal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 19,
+                    "votes": 6,
+                    "original air date": "3 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Odius has a devious plan to create a massive army to control the world.    "
+                },
+                "20": {
+                    "title": "Reaching The Nexus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 20,
+                    "votes": 7,
+                    "original air date": "10 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    The Rangers must figure out how to save the citizens of Summer Cove and stop Odius once and for all.    "
+                },
+                "21": {
+                    "title": "Monster Mix-Up",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 21,
+                    "votes": 11,
+                    "original air date": "20 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    The Super Ninja Steel Rangers are ambushed by monsters who switch bodies with them.    "
+                },
+                "22": {
+                    "title": "The Poisy Show",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 22,
+                    "original air date": "1 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    When an old foe of the Rangers returns, the Rangers call upon Santa Claus to help them save the world.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Return of the Prism",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 50,
+                    "original air date": "21 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Brody escapes to Earth from an alien spaceship with a special artifact called the Ninja Nexus Prism. Brody and his two new friends must unlock an artifact's secrets to defend it from the villainous champion Galvanax.    "
+                },
+                "2": {
+                    "title": "Forged in Steel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 43,
+                    "original air date": "28 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    As Brody, Preston and Sarah return to Brody's childhood home in an attempt to find his lost family, Hayley and Calvin come across a strange alien named Mick.    "
+                },
+                "3": {
+                    "title": "Live and Learn",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 34,
+                    "original air date": "4 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Brody gets accused of cheating on his first day of school after using his Datacom to find answers and must lead the Rangers against another threat from Galvanax.    "
+                },
+                "4": {
+                    "title": "Presto Chango-O",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 35,
+                    "original air date": "11 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    To his amazement, Preston's magical abilities become real. Galvanax engages a mutant turtle who can bring the Rangers to a crawl.    "
+                },
+                "5": {
+                    "title": "Drive to Survive",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 31,
+                    "original air date": "25 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    When the Power Rangers are caught in the spider web of Galvanax's latest monster, Tangleweb, Calvin must conquer his fear to unlock a new power and save them.    "
+                },
+                "6": {
+                    "title": "My Friend Redbot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 28,
+                    "original air date": "4 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Hayley is targeted by Galvanax's latest monster; isolated from the other Rangers, Hayley and Redbot and Kody must work together to save themselves.    "
+                },
+                "7": {
+                    "title": "Hack Attack",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 27,
+                    "original air date": "18 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Determined to take part in as many student activities as she can, Sarah builds a device that allows her to clone herself, but the plan backfires when Galvanax's monster steals the technology for himself.    "
+                },
+                "8": {
+                    "title": "Gold Rush",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 37,
+                    "original air date": "18 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Both the Power Rangers and Galvanax attempt to find more information about the new, mysterious Gold Ranger.    "
+                },
+                "9": {
+                    "title": "Rocking & Rolling",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 28,
+                    "original air date": "12 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    Levi is excited to be embarking on his world tour, but as mysterious earthquakes start shaking up Summer Cove, he's presented with a decision.    "
+                },
+                "10": {
+                    "title": "The Ranger Ribbon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 28,
+                    "original air date": "19 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    When Summer Cove's sentimental \"Ribbon Tree\" is in danger of being cut down by Preston's wealthy dad, Preston must learn to stand up to his father to save what's important.    "
+                },
+                "11": {
+                    "title": "Poisonous Plots",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 25,
+                    "original air date": "26 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    Brody is poisoned by Galvanax's latest contestant and the Rangers must make the ultimate sacrifice in order to save him.    "
+                },
+                "12": {
+                    "title": "Family Fusion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 28,
+                    "original air date": "2 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    The Rangers access a powerful new Megazord formation to battle Ripcon.    "
+                },
+                "13": {
+                    "title": "Ace and the Race",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 22,
+                    "original air date": "9 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Calvin gets distracted from his friends, spending all his time buddying up to his idol, a fellow car enthusiast unworthy of Calvin's friendship.    "
+                },
+                "14": {
+                    "title": "The Royal Rival",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 19,
+                    "original air date": "16 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    A mysterious princess and her royal guard arrive on Earth to challenge the Rangers.    "
+                },
+                "15": {
+                    "title": "The Royal Rumble",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 18,
+                    "original air date": "23 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    The Power Rangers band together with a new ally to try and defeat Galvanax's new champion - but even teamwork may not be enough.    "
+                },
+                "16": {
+                    "title": "Monkey Business",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 25,
+                    "original air date": "14 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Hayley and Calvin's relationship is tested when they both decide to run for student body president.    "
+                },
+                "17": {
+                    "title": "The Adventures of Redbot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 18,
+                    "original air date": "21 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Redbot documents the adventures of the Power Rangers on his new blog, while a cat-like monster attempts to steal the Ninja Power Stars.    "
+                },
+                "18": {
+                    "title": "Abrakadanger",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 18,
+                    "original air date": "28 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Evil magic and a spell gone awry leaves Preston the last Ranger standing against Galaxy Warrior's newest contestant.    "
+                },
+                "19": {
+                    "title": "Helping Hand",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 19,
+                    "original air date": "4 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Sarah must contend with her mother's interference when she tries to upgrade her hover board's battery; Vic and Monty's invention may have disastrous consequences for the Power Rangers.    "
+                },
+                "20": {
+                    "title": "Galvanax Rises",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 21,
+                    "original air date": "18 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Galvanax comes to Earth with a new, seemingly unstoppable plan to defeat the Power Rangers.    "
+                },
+                "21": {
+                    "title": "Grave Robber",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "votes": 21,
+                    "original air date": "7 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    The Power Rangers celebrate Halloween by playing a spooky new board game but find the stakes bigger than they imagined.    "
+                },
+                "22": {
+                    "title": "Past, Presents, and Future",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Power Rangers Ninja Steel (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "votes": 16,
+                    "original air date": "2 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    Sarah teams up with Santa Claus to save Christmas and the Power Rangers from a time-manipulating monster.    "
+                }
+            }
+        },
+        "number of episodes": 44,
+        "cast": [
+            {
+                "name": "Shewfelt, William"
+            },
+            {
+                "name": "Greetham, Nico"
+            },
+            {
+                "name": "Robins, Zoë"
+            },
+            {
+                "name": "Sudarso, Peter Adrian"
+            },
+            {
+                "name": "Ane, Chrysti"
+            },
+            {
+                "name": "Bendit, Caleb"
+            },
+            {
+                "name": "Reid, Chris Sean"
+            },
+            {
+                "name": "Henderson, Kelson"
+            },
+            {
+                "name": "Cooley, Campbell"
+            },
+            {
+                "name": "Webber, Jordi"
+            },
+            {
+                "name": "Drew, Jacque"
+            },
+            {
+                "name": "Coll, Byron"
+            },
+            {
+                "name": "Carr, Emma"
+            },
+            {
+                "name": "Habraken, Daryl"
+            },
+            {
+                "name": "Simpson, Richard"
+            },
+            {
+                "name": "Stott, Marissa"
+            },
+            {
+                "name": "Billing, Amanda"
+            },
+            {
+                "name": "Chitham, Claire"
+            },
+            {
+                "name": "Edward, Mike"
+            },
+            {
+                "name": "Baltram, Eric"
+            },
+            {
+                "name": "Linehan, Jamie"
+            },
+            {
+                "name": "Gillespie, Estevez"
+            },
+            {
+                "name": "Hughes, Ian"
+            },
+            {
+                "name": "Dungey, Lori"
+            },
+            {
+                "name": "Walker, Aidee"
+            },
+            {
+                "name": "McDermott, Charlie"
+            },
+            {
+                "name": "Gordon, Luanne"
+            },
+            {
+                "name": "Buckwell, Ethan"
+            },
+            {
+                "name": "Sing, Daniel"
+            },
+            {
+                "name": "Pontes, Isadora"
+            },
+            {
+                "name": "Beckwith, Nick"
+            },
+            {
+                "name": "Gardiner, Adam"
+            },
+            {
+                "name": "Crown, Andi"
+            },
+            {
+                "name": "Smith, Adrian"
+            },
+            {
+                "name": "Jackson, Stanley Andrew"
+            },
+            {
+                "name": "Love, Ruby"
+            },
+            {
+                "name": "Marupo, Taimana"
+            },
+            {
+                "name": "Sudarso, Yoshi"
+            },
+            {
+                "name": "Faunt, Jason"
+            },
+            {
+                "name": "Rimmer, Jodie"
+            },
+            {
+                "name": "Sumner, John"
+            },
+            {
+                "name": "Holley, Levi"
+            },
+            {
+                "name": "Elliott, Peter"
+            },
+            {
+                "name": "Rüegg, Mikaela"
+            },
+            {
+                "name": "Dolan, Geoff"
+            },
+            {
+                "name": "Mimura, Kohji"
+            },
+            {
+                "name": "Van Horn, David"
+            },
+            {
+                "name": "Ward, Greg"
+            },
+            {
+                "name": "Clarke, Jackie"
+            },
+            {
+                "name": "Simon, Jay"
+            }
+        ],
+        "locations": [
+            "Auckland, New Zealand"
+        ],
+        "genres": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "runtimes": [
+            "21"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Norway:7::(Netflix self-rating)",
+            "Spain:7::(Netflix)",
+            "United States:TV-Y7"
+        ],
+        "number of seasons": 2,
+        "rating": 6.7,
+        "votes": 469,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMDM0MTI2ZjAtMjMwZC00Y2NjLTk5MmEtNmI2MDBmOWIyMDI1XkEyXkFqcGdeQXVyNDA5ODU0NDg@._V1_SY150_CR4,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Power Rangers Ninja Steel",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-2018",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Barnes, Becca"
+            },
+            {
+                "name": "Dale, Alwyn"
+            },
+            {
+                "name": "Lynn, Judd"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "SCG Power Rangers"
+            },
+            {
+                "name": "Saban Brands"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Nickelodeon Network"
+            },
+            {
+                "name": "Canal J"
+            },
+            {
+                "name": "Manga Entertainment"
+            },
+            {
+                "name": "Pop TV"
+            },
+            {
+                "name": "Pop TV"
+            },
+            {
+                "name": "RTL7"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Post Production Inc."
+            },
+            {
+                "name": "Toei Company"
+            }
+        ],
+        "plot": [
+            "A new team of superhuman power rangers must work together and use their new ninja powers to prevent evil from dominating the human race and from destroying the planet earth and the universe"
+        ],
+        "tech": {
+            "runtime": [
+                "21 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 469,
+                "rating": 6.7
+            },
+            "aged under 18": {
+                "votes": 7,
+                "rating": 8.1
+            },
+            "aged 18 29": {
+                "votes": 122,
+                "rating": 6.9
+            },
+            "aged 30 44": {
+                "votes": 109,
+                "rating": 6.1
+            },
+            "aged 45 plus": {
+                "votes": 31,
+                "rating": 6.3
+            },
+            "males": {
+                "votes": 260,
+                "rating": 6.4
+            },
+            "males aged under 18": {
+                "votes": 5,
+                "rating": 8.7
+            },
+            "males aged 18 29": {
+                "votes": 100,
+                "rating": 7.0
+            },
+            "males aged 30 44": {
+                "votes": 89,
+                "rating": 5.9
+            },
+            "males aged 45 plus": {
+                "votes": 23,
+                "rating": 5.9
+            },
+            "females": {
+                "votes": 53,
+                "rating": 7.0
+            },
+            "females aged under 18": {
+                "votes": 2,
+                "rating": 7.5
+            },
+            "females aged 18 29": {
+                "votes": 20,
+                "rating": 6.8
+            },
+            "females aged 30 44": {
+                "votes": 19,
+                "rating": 6.6
+            },
+            "females aged 45 plus": {
+                "votes": 8,
+                "rating": 8.0
+            },
+            "top 1000 voters": {
+                "votes": 25,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 106,
+                "rating": 6.5
+            },
+            "non us users": {
+                "votes": 94,
+                "rating": 5.8
+            }
+        },
+        "number of votes": {
+            "10": 189,
+            "9": 24,
+            "8": 31,
+            "7": 61,
+            "6": 41,
+            "5": 22,
+            "4": 16,
+            "3": 16,
+            "2": 21,
+            "1": 48
+        },
+        "arithmetic mean": 7.1,
+        "median": 8
+    }
+}

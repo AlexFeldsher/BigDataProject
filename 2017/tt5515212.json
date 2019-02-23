@@ -1,0 +1,735 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "20 November 2017"
+            },
+            {
+                "country": "France\n",
+                "date": "7 January 2018"
+            }
+        ],
+        "release dates": [
+            "USA::20 November 2017",
+            "France::7 January 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Big Hero 6: The Series"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Operação Big Hero: A Série"
+            },
+            {
+                "countries": "Denmark",
+                "title": "Big Hero 6: Serien"
+            },
+            {
+                "countries": "France",
+                "title": "Baymax et les Nouveaux Héros"
+            },
+            {
+                "countries": "Germany",
+                "title": "Baymax - Riesiges Robowabohu"
+            },
+            {
+                "countries": "Greece",
+                "title": "Οι Υπερέξι: Η Σειρά"
+            },
+            {
+                "countries": "Italy",
+                "title": "Big Hero 6 - La serie"
+            },
+            {
+                "countries": "Poland",
+                "title": "Wielka szóstka"
+            },
+            {
+                "countries": "Spain",
+                "title": "Big Hero 6: La serie"
+            },
+            {
+                "countries": "USA",
+                "title": "Big Hero 6: The Series"
+            }
+        ],
+        "akas": [
+            "Big Hero 6: The Series (original title)",
+            "Operação Big Hero: A Série Brazil",
+            "Big Hero 6: Serien Denmark",
+            "Baymax et les Nouveaux Héros France",
+            "Baymax - Riesiges Robowabohu Germany",
+            "Οι Υπερέξι: Η Σειρά Greece",
+            "Big Hero 6 - La serie Italy",
+            "Wielka szóstka Poland",
+            "Big Hero 6: La serie Spain",
+            "Big Hero 6: The Series USA"
+        ],
+        "akas from release info": [
+            "Big Hero 6: The Series (original title)",
+            "Operação Big Hero: A Série Brazil",
+            "Big Hero 6: Serien Denmark",
+            "Baymax et les Nouveaux Héros France",
+            "Baymax - Riesiges Robowabohu Germany",
+            "Οι Υπερέξι: Η Σειρά Greece",
+            "Big Hero 6 - La serie Italy",
+            "Wielka szóstka Poland",
+            "Big Hero 6: La serie Spain",
+            "Big Hero 6: The Series USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Big Hero 6: Baymax Returns",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 124,
+                    "original air date": "20 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Hiro discovers a chip for Baymax's creation that was left behind by his late brother Tadashi, which inspires Hiro to recreate Baymax, after thinking his companion was gone forever. Of course, the task isn't as easy or straightforward as it initially seems, and the Big Hero 6 team quickly find themselves in trouble.    "
+                },
+                "2": {
+                    "title": "Issue 188",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 56,
+                    "original air date": "9 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    Hiro tries to connect with a new classmate. Go Go and Fred delve into comic book mythology to defeat High Voltage.    "
+                },
+                "3": {
+                    "title": "Big Roommates 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 47,
+                    "original air date": "9 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    Go Go and Honey Lemon clash as they become roommates. Honey Lemon's chem-lab purse is stolen.    "
+                },
+                "4": {
+                    "title": "Fred's Bro-Tillion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 35,
+                    "original air date": "10 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    When super-villain Baron von Steamer crashes Fred's Bro-Tillion, the Big Hero 6 team springs into action.    "
+                },
+                "5": {
+                    "title": "Food Fight",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 36,
+                    "original air date": "10 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    Aunt Cass becomes obsessed with participating in an underground cooking competition.    "
+                },
+                "6": {
+                    "title": "Muirahara Woods",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 30,
+                    "original air date": "16 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    Baymax, Fred and Hiro follow Go Go into the mysterious Muirahara Woods where they promptly get lost because their electronics, including Baymax, fail.    "
+                },
+                "7": {
+                    "title": "Failure Mode",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 27,
+                    "original air date": "23 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    After his latest school project fails spectacularly, Hiro is demoralized. The team must defeat the incompetent villain, Globby.    "
+                },
+                "8": {
+                    "title": "Aunt Cass Goes Out",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 31,
+                    "original air date": "30 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    After Aunt Cass nearly figures out Hiro's secret life as a member of Big Hero 6, Hiro plays matchmaker to find Aunt Cass a boyfriend to distract her.    "
+                },
+                "9": {
+                    "title": "The Impatient Patient",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 27,
+                    "original air date": "7 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n    When Hiro is sick, he is unwilling to follow advice and let the team handle the Mad Jacks.    "
+                },
+                "10": {
+                    "title": "Mr. Sparkles Loses His Sparkle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 26,
+                    "original air date": "14 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n    A crazy game show host threatens to harm Mochi, and Go Go has to compete in his show in order to win him back.    "
+                },
+                "11": {
+                    "title": "Killer App",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 26,
+                    "original air date": "21 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n    Wasabi's need for order clashes with Hiro's chaotic style when they have to collaborate for a school project.    "
+                },
+                "12": {
+                    "title": "Small Hiro One",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 25,
+                    "original air date": "28 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n    Hiro wants to attend a science workshop hosted by SFIT's most famous alumni, Dr. Trevor Trengrove, but is deemed to be too young to go.    "
+                },
+                "13": {
+                    "title": "Kentucky Kaiju",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 28,
+                    "original air date": "4 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    Hiro decides to upgrade himself with super strength, but his new tech backfires and causes trouble at home and at school.    "
+                },
+                "14": {
+                    "title": "Rivalry Weak",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 27,
+                    "original air date": "11 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    Honey Lemon gets caught in the middle of rivalry week between SFIT and SFAI because she is secretly taking art classes at SFAI.    "
+                },
+                "15": {
+                    "title": "Fan Friction",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 29,
+                    "original air date": "18 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    Hiro is embarrassed when he learns Karmi is posting fan fiction about Big Hero 6 depicting them as boyfriend and girlfriend. Her imagination comes in handy when she is kidnapped by escaped villain Momakase.    "
+                },
+                "16": {
+                    "title": "Mini-Max",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 28,
+                    "original air date": "25 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    Hiro invents a tiny robot, Mini-Max, to supervise and be a sidekick to Fred while the rest of the team is in class.    "
+                },
+                "17": {
+                    "title": "Big Hero 7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 26,
+                    "original air date": "8 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Big Hero 6 gets a new member as Richardson Mole blackmails his way on to the team after Fred reveals their secret identity.    "
+                },
+                "18": {
+                    "title": "Big Problem",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 25,
+                    "original air date": "15 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    When a Shakespeare quoting monster attacks San Fransokyo, Big Hero 6 must go on a monster hunt.    "
+                },
+                "19": {
+                    "title": "Steamer's Revenge",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 24,
+                    "original air date": "22 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    When Boss Awesome is out of town, it is up to Big Hero 6 to save San Fransokyo.    "
+                },
+                "20": {
+                    "title": "The Bot-Fighter",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 26,
+                    "original air date": "29 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    After being drawn into the world of bot-fighting, Hiro meets a young girl named, Trina.    "
+                },
+                "21": {
+                    "title": "Obake Yashiki",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "votes": 26,
+                    "original air date": "6 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    After the team visit a haunted house, Hiro keeps seeing Tadashi around the city.    "
+                },
+                "22": {
+                    "title": "Countdown to Catastrophe I/II/III",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "votes": 31,
+                    "original air date": "13 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Obake unleashes his plan on San Fransokyo. This is the teams biggest challenge to date.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Episode #2.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Big Hero 6: The Series (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 23,
+        "cast": [
+            {
+                "name": "Adsit, Scott"
+            },
+            {
+                "name": "Potter, Ryan"
+            },
+            {
+                "name": "Wheelan, Brooks"
+            },
+            {
+                "name": "Payton, Khary"
+            },
+            {
+                "name": "Rodriguez, Genesis"
+            },
+            {
+                "name": "Chung, Jamie"
+            },
+            {
+                "name": "Bader, Diedrich"
+            },
+            {
+                "name": "Rudolph, Maya"
+            },
+            {
+                "name": "Lewis, Jenifer"
+            },
+            {
+                "name": "Scott, Andrew"
+            },
+            {
+                "name": "Tju, Haley"
+            },
+            {
+                "name": "Tudyk, Alan"
+            },
+            {
+                "name": "Richter, Andy"
+            },
+            {
+                "name": "Shaughnessy, David"
+            },
+            {
+                "name": "Briggs, Paul"
+            },
+            {
+                "name": "Neff, Lucas"
+            },
+            {
+                "name": "Bennett, Jeff"
+            },
+            {
+                "name": "Henney, Daniel"
+            },
+            {
+                "name": "Higgins, John Michael"
+            },
+            {
+                "name": "Silverman, Laura"
+            },
+            {
+                "name": "Giambrone, Sean"
+            },
+            {
+                "name": "Lee, Stan"
+            },
+            {
+                "name": "Mori, Naoko"
+            },
+            {
+                "name": "Wahlgren, Kari"
+            },
+            {
+                "name": "Mixon, Katy"
+            },
+            {
+                "name": "Reynolds, Sophie"
+            },
+            {
+                "name": "Sullivan, Susan"
+            },
+            {
+                "name": "Lindhome, Riki"
+            },
+            {
+                "name": "Romano, Christy Carlson"
+            },
+            {
+                "name": "Sakata, Jeanne"
+            },
+            {
+                "name": "Wilson, Mara"
+            },
+            {
+                "name": "Kenney, Kerri"
+            },
+            {
+                "name": "Oswalt, Patton"
+            },
+            {
+                "name": "Rudnitsky, Jon"
+            },
+            {
+                "name": "Bowie, John Ross"
+            },
+            {
+                "name": "Richardson, Kevin Michael"
+            },
+            {
+                "name": "Baker, Dee Bradley"
+            },
+            {
+                "name": "Brown, Alton"
+            },
+            {
+                "name": "Cromwell, James"
+            },
+            {
+                "name": "Gulezian, Charlotte"
+            },
+            {
+                "name": "Riggle, Rob"
+            },
+            {
+                "name": "Ramsay, Gordon"
+            },
+            {
+                "name": "Sullivan, Nicole"
+            },
+            {
+                "name": "Tatasciore, Fred"
+            },
+            {
+                "name": "Daly, Andrew"
+            },
+            {
+                "name": "Urbaniak, James"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Family",
+            "Sci-Fi"
+        ],
+        "runtimes": [
+            "21"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Canada:PG::(Manitoba/Ontario)",
+            "Germany:6",
+            "Ireland:PG",
+            "Netherlands:6",
+            "United Kingdom:PG",
+            "United States:TV-Y7"
+        ],
+        "number of seasons": 2,
+        "rating": 7.2,
+        "votes": 698,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjE5OTQyMDg3NV5BMl5BanBnXkFtZTgwNjMxODg5ODE@._V1_SX101_CR0,0,101,150_.jpg",
+        "plot outline": "As the new prodigy at San Fransokyo Institute of Technology, Hiro now faces daunting academic challenges and the social trials of being the little man on campus. Off campus, the stakes are raised for the high-tech heroes as they must protect their city from an array of scientifically enhanced villains.",
+        "languages": [
+            "English"
+        ],
+        "title": "Big Hero 6: The Series",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Filippi, Nicholas"
+            },
+            {
+                "name": "McCorkle, Mark"
+            },
+            {
+                "name": "Poliquin, Jeffrey"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Disney Television Animation"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney XD"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Advantage Audio Services"
+            },
+            {
+                "name": "Imaginary Forces"
+            },
+            {
+                "name": "Mosquito Productions"
+            },
+            {
+                "name": "Outloud Audio"
+            },
+            {
+                "name": "Soundtrack New York"
+            }
+        ],
+        "plot": [
+            "As the new prodigy at San Fransokyo Institute of Technology, Hiro now faces daunting academic challenges and the social trials of being the little man on campus. Off campus, the stakes are raised for the high-tech heroes as they must protect their city from an array of scientifically enhanced villains.::Disney Television Animation"
+        ],
+        "tech": {
+            "runtime": [
+                "21 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 698,
+                "rating": 7.2
+            },
+            "aged under 18": {
+                "votes": 11,
+                "rating": 6.0
+            },
+            "aged 18 29": {
+                "votes": 165,
+                "rating": 7.6
+            },
+            "aged 30 44": {
+                "votes": 149,
+                "rating": 6.9
+            },
+            "aged 45 plus": {
+                "votes": 53,
+                "rating": 7.2
+            },
+            "males": {
+                "votes": 313,
+                "rating": 7.2
+            },
+            "males aged under 18": {
+                "votes": 11,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 125,
+                "rating": 7.5
+            },
+            "males aged 30 44": {
+                "votes": 99,
+                "rating": 6.8
+            },
+            "males aged 45 plus": {
+                "votes": 40,
+                "rating": 7.2
+            },
+            "females": {
+                "votes": 112,
+                "rating": 7.6
+            },
+            "females aged 18 29": {
+                "votes": 36,
+                "rating": 7.9
+            },
+            "females aged 30 44": {
+                "votes": 50,
+                "rating": 7.0
+            },
+            "females aged 45 plus": {
+                "votes": 11,
+                "rating": 8.4
+            },
+            "top 1000 voters": {
+                "votes": 41,
+                "rating": 6.6
+            },
+            "us users": {
+                "votes": 121,
+                "rating": 7.3
+            },
+            "non us users": {
+                "votes": 160,
+                "rating": 7.0
+            }
+        },
+        "number of votes": {
+            "10": 182,
+            "9": 69,
+            "8": 138,
+            "7": 122,
+            "6": 70,
+            "5": 32,
+            "4": 13,
+            "3": 14,
+            "2": 10,
+            "1": 48
+        },
+        "arithmetic mean": 7.4,
+        "median": 8
+    }
+}

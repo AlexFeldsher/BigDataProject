@@ -1,0 +1,140 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "6 November 2016"
+            },
+            {
+                "country": "India\n",
+                "date": "10 January 2017",
+                "notes": "                            (Calcutta International Cult Film Festival)"
+            }
+        ],
+        "release dates": [
+            "Germany::6 November 2016",
+            "India::10 January 2017                            (Calcutta International Cult Film Festival)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Zugvögel - Kundschafter in fernen Welten"
+            },
+            {
+                "countries": "World-wide (English title) (alternative title)",
+                "title": "Migrating Birds - Scouts of Distant Worlds"
+            }
+        ],
+        "akas": [
+            "Zugvögel - Kundschafter in fernen Welten (original title)",
+            "Migrating Birds - Scouts of Distant Worlds World-wide (English title) (alternative title)"
+        ],
+        "akas from release info": [
+            "Zugvögel - Kundschafter in fernen Welten (original title)",
+            "Migrating Birds - Scouts of Distant Worlds World-wide (English title) (alternative title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Migrating Birds (1/2) - Scouts of Distant Worlds",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Zugvögel - Kundschafter in fernen Welten (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "6 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    \"Migrating Birds - Scouts Of Distant Worlds\" uses both extensive CGI animation sequences and breathtaking aerial footage to illustrate different birds' migration over Germany, from Russia to Africa.    "
+                },
+                "2": {
+                    "title": "Migrating Birds (2/2) - Flight for Survival",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Zugvögel - Kundschafter in fernen Welten (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "13 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    \"Migrating Birds \" uses both extensive CGI animation sequences and breathtaking aerial footage to illustrate birds' migration and presents recent research in ornithology.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Wunder, Dietmar"
+            },
+            {
+                "name": "Fiedler, Wolfgang"
+            },
+            {
+                "name": "Onrubia, Alejandro"
+            },
+            {
+                "name": "Quetting, Michael"
+            },
+            {
+                "name": "Wikelski, Martin"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "88"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "country codes": [
+            "de"
+        ],
+        "language codes": [
+            "de"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "original air date": "06 Nov 2016 (Germany)",
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZTQyM2Q5NDQtMzNhZC00MGRiLWE0NDItYWZmMTA0ZDQyYzBlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SY150_CR6,0,101,150_.jpg",
+        "languages": [
+            "German"
+        ],
+        "title": "Zugvögel - Kundschafter in fernen Welten",
+        "year": 2016,
+        "kind": "tv mini series",
+        "series years": "2016-2016",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Höfer, Petra"
+            },
+            {
+                "name": "Röckenhaus, Freddie"
+            }
+        ],
+        "director": [
+            {
+                "name": "Höfer, Petra"
+            },
+            {
+                "name": "Röckenhaus, Freddie"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr 28 min (88 min) (2 episodes)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

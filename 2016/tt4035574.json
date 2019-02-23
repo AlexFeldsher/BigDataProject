@@ -1,0 +1,469 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "3 February 2016"
+            },
+            {
+                "country": "Germany\n",
+                "date": "10 November 2016"
+            },
+            {
+                "country": "Japan\n",
+                "date": "1 June 2017",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::3 February 2016",
+            "Germany::10 November 2016",
+            "Japan::1 June 2017                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Madoff"
+            },
+            {
+                "countries": "Germany",
+                "title": "Madoff - Der 50-Milliarden Dollar Betrug"
+            },
+            {
+                "countries": "Russia",
+                "title": "Мейдофф"
+            },
+            {
+                "countries": "USA",
+                "title": "Madoff"
+            }
+        ],
+        "akas": [
+            "Madoff (original title)",
+            "Madoff - Der 50-Milliarden Dollar Betrug Germany",
+            "Мейдофф Russia",
+            "Madoff USA"
+        ],
+        "akas from release info": [
+            "Madoff (original title)",
+            "Madoff - Der 50-Milliarden Dollar Betrug Germany",
+            "Мейдофф Russia",
+            "Madoff USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Millions to Billions",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Madoff (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 29,
+                    "original air date": "3 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    A look into the mind of the man who pulled off one of the greatest cons in the history of investment banking. Part 1 of 4: The Madoffs celebrate 40 years of their company's financial success.    "
+                },
+                "2": {
+                    "title": "Catch Me If You Cancer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Madoff (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 21,
+                    "original air date": "3 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    A look into the mind of the man who pulled off one of the greatest cons in the history of investment banking. Part 2 of 4: One man realizes that something doesn't add up with the way the Madoffs are doing business but no one believes him.    "
+                },
+                "3": {
+                    "title": "Redemptions",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Madoff (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 21,
+                    "original air date": "4 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    A look into the mind of the man who pulled off one of the greatest cons in the history of investment banking. Part 3 of 4: The global financial crisis of 2008 begins.    "
+                },
+                "4": {
+                    "title": "Fallout",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Madoff (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 20,
+                    "original air date": "3 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    A look into the mind of the man who pulled off one of the greatest cons in the history of investment banking. Part 4 of 4: With the truth out of the bag, the family bonds unravel as Madoff's sons turn on him.    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Gregory, Drew"
+            },
+            {
+                "name": "Altman, Bruce"
+            },
+            {
+                "name": "Arkin, Anthony"
+            },
+            {
+                "name": "Baker, David Aaron"
+            },
+            {
+                "name": "Banks, Josh"
+            },
+            {
+                "name": "Bayiokos, Tommy"
+            },
+            {
+                "name": "Bekins, Richard"
+            },
+            {
+                "name": "Birns, Charlie"
+            },
+            {
+                "name": "Black, Lewis"
+            },
+            {
+                "name": "Blommaert, Susan"
+            },
+            {
+                "name": "Blumm, Matthew Sean"
+            },
+            {
+                "name": "Camacho, Blanca"
+            },
+            {
+                "name": "Carroll, Jamie"
+            },
+            {
+                "name": "Colby, James"
+            },
+            {
+                "name": "Coleman, Shayne"
+            },
+            {
+                "name": "Colón, Dominic"
+            },
+            {
+                "name": "Corapi, Richard R."
+            },
+            {
+                "name": "Cummings, Erin"
+            },
+            {
+                "name": "Danner, Blythe"
+            },
+            {
+                "name": "Deacon, Rachel"
+            },
+            {
+                "name": "Deferrari, Danny"
+            },
+            {
+                "name": "Dolan, Andrew"
+            },
+            {
+                "name": "Dreyfuss, Ben"
+            },
+            {
+                "name": "Dreyfuss, Richard"
+            },
+            {
+                "name": "DuPaty, Bjorn"
+            },
+            {
+                "name": "Eliasoph, Scott"
+            },
+            {
+                "name": "French, Michael Bryan"
+            },
+            {
+                "name": "Gerroll, Daniel"
+            },
+            {
+                "name": "Gevedon, Stephen"
+            },
+            {
+                "name": "Gorrilla, Charlie"
+            },
+            {
+                "name": "Grodin, Charles"
+            },
+            {
+                "name": "Heise, Annie"
+            },
+            {
+                "name": "Hoffman, Philip"
+            },
+            {
+                "name": "Hourihan, Peter"
+            },
+            {
+                "name": "Kaminsky, Eva"
+            },
+            {
+                "name": "Kennedy, Kevin Michael"
+            },
+            {
+                "name": "Koenig, Jack"
+            },
+            {
+                "name": "Kraese, Colton"
+            },
+            {
+                "name": "Kravits, Jason"
+            },
+            {
+                "name": "Lage, Jordan"
+            },
+            {
+                "name": "Larsen, Liz"
+            },
+            {
+                "name": "Levine, Jory"
+            },
+            {
+                "name": "Lipinski, Tom"
+            },
+            {
+                "name": "Margulies, David"
+            },
+            {
+                "name": "Mathews, Dillon"
+            },
+            {
+                "name": "McCarthy, Doris"
+            },
+            {
+                "name": "Micheals, Gregg"
+            },
+            {
+                "name": "Neil, Alexandra"
+            },
+            {
+                "name": "O'Reilly, Jonathan"
+            },
+            {
+                "name": "Rains, Lily"
+            }
+        ],
+        "locations": [
+            "Vancouver, British Columbia, Canada",
+            "New York City, New York, USA"
+        ],
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama",
+            "History"
+        ],
+        "runtimes": [
+            "165"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "original air date": "03 Feb 2016 (USA)",
+        "number of seasons": 1,
+        "rating": 7.4,
+        "votes": 1636,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTk4MjU3OTAzOF5BMl5BanBnXkFtZTgwNDM2NjM5NzE@._V1_SY150_CR5,0,101,150_.jpg",
+        "budget": "$9,000,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Madoff",
+        "year": 2016,
+        "kind": "tv mini series",
+        "series years": "2016-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Robbins, Ben"
+            }
+        ],
+        "director": [
+            {
+                "name": "De Felitta, Raymond"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Lincoln Square Productions"
+            },
+            {
+                "name": "Parabolic NY"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "American Broadcasting Company (ABC)"
+            },
+            {
+                "name": "Disney-ABC Domestic Television"
+            },
+            {
+                "name": "DiziMax"
+            },
+            {
+                "name": "GyaO"
+            },
+            {
+                "name": "Sky 1"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "ARRI Rental"
+            },
+            {
+                "name": "Cineverse"
+            },
+            {
+                "name": "Post Factory NY"
+            },
+            {
+                "name": "The Molecule"
+            }
+        ],
+        "plot": [
+            "The rise and fall of Bernie _Madoff_ (qv), whose Ponzi scheme bilked $65 billion from unsuspecting victims; the largest fraud in US history.::Kenneth Chisholm"
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr 45 min (165 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "negative format": [
+                "35 mm"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1636,
+                "rating": 7.4
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 9.0
+            },
+            "aged 18 29": {
+                "votes": 169,
+                "rating": 7.4
+            },
+            "aged 30 44": {
+                "votes": 556,
+                "rating": 7.2
+            },
+            "aged 45 plus": {
+                "votes": 536,
+                "rating": 7.6
+            },
+            "males": {
+                "votes": 1018,
+                "rating": 7.4
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 18 29": {
+                "votes": 138,
+                "rating": 7.4
+            },
+            "males aged 30 44": {
+                "votes": 441,
+                "rating": 7.2
+            },
+            "males aged 45 plus": {
+                "votes": 389,
+                "rating": 7.5
+            },
+            "females": {
+                "votes": 272,
+                "rating": 7.7
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 27,
+                "rating": 7.7
+            },
+            "females aged 30 44": {
+                "votes": 100,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 136,
+                "rating": 7.8
+            },
+            "top 1000 voters": {
+                "votes": 51,
+                "rating": 6.5
+            },
+            "us users": {
+                "votes": 515,
+                "rating": 7.6
+            },
+            "non us users": {
+                "votes": 535,
+                "rating": 7.2
+            }
+        },
+        "number of votes": {
+            "10": 161,
+            "9": 211,
+            "8": 483,
+            "7": 469,
+            "6": 174,
+            "5": 55,
+            "4": 25,
+            "3": 13,
+            "2": 10,
+            "1": 35
+        },
+        "arithmetic mean": 7.4,
+        "median": 8
+    }
+}

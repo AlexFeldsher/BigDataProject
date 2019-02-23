@@ -1,0 +1,961 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Belgium\n",
+                "date": "28 August 2016"
+            },
+            {
+                "country": "France\n",
+                "date": "October 2016"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "November 2016"
+            },
+            {
+                "country": "USA\n",
+                "date": "2 January 2017"
+            },
+            {
+                "country": "Australia\n",
+                "date": "4 March 2017"
+            },
+            {
+                "country": "Canada\n",
+                "date": "16 April 2017"
+            }
+        ],
+        "release dates": [
+            "Belgium::28 August 2016",
+            "France::October 2016",
+            "Belgium::November 2016",
+            "USA::2 January 2017",
+            "Australia::4 March 2017",
+            "Canada::16 April 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "My Knight and Me"
+            },
+            {
+                "countries": "Germany",
+                "title": "Ritter hoch 3"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Én és a lovagom"
+            },
+            {
+                "countries": "Spain",
+                "title": "Mi caballero y yo"
+            }
+        ],
+        "akas": [
+            "My Knight and Me (original title)",
+            "Ritter hoch 3 Germany",
+            "Én és a lovagom Hungary",
+            "Mi caballero y yo Spain"
+        ],
+        "akas from release info": [
+            "My Knight and Me (original title)",
+            "Ritter hoch 3 Germany",
+            "Én és a lovagom Hungary",
+            "Mi caballero y yo Spain"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "How to Save a Princess",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "2 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "The Cat and the Swan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "2 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Witch Hunters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "3 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Bad Bad Mandolin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "3 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Epic Ballroom",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "4 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Fashion Victims",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "4 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Attack of the 50ft Squire",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "5 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "The Helmet of Epic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "5 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "The Challenge",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "6 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "Queen's Guard",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "6 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "11": {
+                    "title": "The Road Knight",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "9 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "Epic Traffic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "10 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "13": {
+                    "title": "The Stinky Swamp Witch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "original air date": "11 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "14": {
+                    "title": "The Harvest Festival",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "original air date": "12 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "15": {
+                    "title": "Treasure Trap",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "original air date": "13 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "16": {
+                    "title": "Guess Who's Coming Down for Dinner",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "original air date": "17 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "17": {
+                    "title": "Fearless Colbert",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "original air date": "18 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "18": {
+                    "title": "Cat's in the Bag",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "original air date": "19 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "19": {
+                    "title": "Talent Show",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "original air date": "20 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "20": {
+                    "title": "The Good Jack",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "original air date": "23 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "21": {
+                    "title": "Henri the Felon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "original air date": "24 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "22": {
+                    "title": "Epically Small",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "original air date": "25 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "23": {
+                    "title": "Ronny and the Rock Monster",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 23,
+                    "original air date": "26 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "24": {
+                    "title": "The Dragon Rider",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 24,
+                    "original air date": "30 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "25": {
+                    "title": "Cease Fire",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 25,
+                    "original air date": "1 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "26": {
+                    "title": "The Sorcerers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 26,
+                    "original air date": "2 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "27": {
+                    "title": "Parent/Children Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 27,
+                    "original air date": "3 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "28": {
+                    "title": "Lucky Tooth",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 28,
+                    "original air date": "7 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "29": {
+                    "title": "Back to School",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 29,
+                    "original air date": "8 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "30": {
+                    "title": "The Mean Team",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 30,
+                    "original air date": "9 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "31": {
+                    "title": "My Dad and Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 31,
+                    "original air date": "10 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "32": {
+                    "title": "Caught on Tape",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 32,
+                    "original air date": "13 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "33": {
+                    "title": "Red Dawn",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 33,
+                    "original air date": "14 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "34": {
+                    "title": "Not So Fast",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 34,
+                    "original air date": "5 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "35": {
+                    "title": "Princess Jimmy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 35,
+                    "original air date": "6 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "36": {
+                    "title": "Kurt the Shining Squire",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 36,
+                    "original air date": "7 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "37": {
+                    "title": "Old Red",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 37,
+                    "original air date": "8 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "38": {
+                    "title": "Jimmy Works Out",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 38,
+                    "original air date": "9 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "39": {
+                    "title": "Sleeping Jack",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 39,
+                    "original air date": "10 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "40": {
+                    "title": "The Return of the Swan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 40,
+                    "original air date": "13 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "41": {
+                    "title": "The Leak",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 41,
+                    "original air date": "14 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "42": {
+                    "title": "Who's the Squire",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 42,
+                    "original air date": "15 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "43": {
+                    "title": "Not So Angry Knight",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 43,
+                    "original air date": "16 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "44": {
+                    "title": "Invisible Jimmy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 44,
+                    "original air date": "19 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "45": {
+                    "title": "Henri the Rockstar",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 45,
+                    "original air date": "20 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "46": {
+                    "title": "Operation Apple Pie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 46,
+                    "original air date": "21 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "47": {
+                    "title": "Mischief at Princess High",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 47,
+                    "original air date": "22 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "48": {
+                    "title": "Getting Cheesy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 48,
+                    "original air date": "23 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "49": {
+                    "title": "At Her Majesty's Service",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 49,
+                    "original air date": "26 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "50": {
+                    "title": "My Knight, My Dragon and Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 50,
+                    "original air date": "27 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "51": {
+                    "title": "The Swan's Biggest Fan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 51,
+                    "original air date": "20 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "52": {
+                    "title": "Epic Dream",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "My Knight and Me (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 52,
+                    "original air date": "29 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    Bad Jack makes plans to throw Henri and Jimmy into a bottomless pit; Cat and the Queen, in disguise, set out for a rescue.    "
+                }
+            }
+        },
+        "number of episodes": 52,
+        "cast": [
+            {
+                "name": "Carmichael, Harriet"
+            },
+            {
+                "name": "Chase, Kaycie"
+            },
+            {
+                "name": "de Jongh, Jules"
+            },
+            {
+                "name": "Gasman, David"
+            },
+            {
+                "name": "Ragland, Christopher"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "runtimes": [
+            "11"
+        ],
+        "countries": [
+            "France",
+            "Belgium"
+        ],
+        "country codes": [
+            "fr",
+            "be"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 4.6,
+        "votes": 289,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYTk4YjU1NDMtOTU0Ny00NDQyLWI2NGEtNmM1ZTYzYjg2MGY0XkEyXkFqcGdeQXVyODgzOTAyNDA@._V1_SY150_CR81,0,101,150_.jpg",
+        "plot outline": "« My Knight and Me » is a medieval comedy starring Henri of Orange, a charmingly inept but chivalrous knight, his clever son Jimmy the Squire, and fun-loving Cat the Princess, Jimmy's best friend from Epic High. All together - the knightly trio set out to make the Dark Ages a little lighter...and a whole lot more fun.",
+        "languages": [
+            "English"
+        ],
+        "title": "My Knight and Me",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Webber, Hugh"
+            },
+            {
+                "name": "Christiaen, Joeri"
+            },
+            {
+                "name": "Glazier, Allen"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "TeamTO"
+            },
+            {
+                "name": "Thuristar"
+            },
+            {
+                "name": "Scope Pictures"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Boomerang"
+            },
+            {
+                "name": "Boomerang"
+            },
+            {
+                "name": "Cake Entertainment"
+            },
+            {
+                "name": "Super RTL"
+            },
+            {
+                "name": "Teletoon+"
+            },
+            {
+                "name": "The Family Channel"
+            },
+            {
+                "name": "Télévision Suisse-Romande (TSR)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Boma Studio"
+            },
+            {
+                "name": "Vox Dub"
+            },
+            {
+                "name": "Zynco Studio & Tourcoing"
+            }
+        ],
+        "plot": [
+            "« _My Knight and Me_ (qv) » is a medieval comedy starring Henri of Orange, a charmingly inept but chivalrous knight, his clever son Jimmy the Squire, and fun-loving Cat the Princess, Jimmy's best friend from Epic High. All together - the knightly trio set out to make the Dark Ages a little lighter...and a whole lot more fun.",
+            "_My Knight and Me_ (qv) is a medieval comedy led by Jimmy the Squire, his father Henri the Knight and Cat, the rebel princess who stages their incredibly zany adventures against evil witches, dragons and giant cyclopes. With Henri's unique enthusiasm, Cat's gumption, and Jimmy's faultless reasoning, our heroes are setting out to make the Dark Ages a little less dark and a whole lot more fun!"
+        ],
+        "tech": {
+            "runtime": [
+                "11 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 289,
+                "rating": 4.6
+            },
+            "aged under 18": {
+                "votes": 8,
+                "rating": 4.8
+            },
+            "aged 18 29": {
+                "votes": 102,
+                "rating": 4.1
+            },
+            "aged 30 44": {
+                "votes": 67,
+                "rating": 5.0
+            },
+            "aged 45 plus": {
+                "votes": 37,
+                "rating": 5.9
+            },
+            "males": {
+                "votes": 148,
+                "rating": 5.0
+            },
+            "males aged under 18": {
+                "votes": 5,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 60,
+                "rating": 4.0
+            },
+            "males aged 30 44": {
+                "votes": 43,
+                "rating": 5.1
+            },
+            "males aged 45 plus": {
+                "votes": 25,
+                "rating": 6.4
+            },
+            "females": {
+                "votes": 83,
+                "rating": 4.4
+            },
+            "females aged under 18": {
+                "votes": 3,
+                "rating": 1.0
+            },
+            "females aged 18 29": {
+                "votes": 41,
+                "rating": 4.3
+            },
+            "females aged 30 44": {
+                "votes": 23,
+                "rating": 4.9
+            },
+            "females aged 45 plus": {
+                "votes": 11,
+                "rating": 4.5
+            },
+            "top 1000 voters": {
+                "votes": 6,
+                "rating": 7.0
+            },
+            "us users": {
+                "votes": 100,
+                "rating": 4.8
+            },
+            "non us users": {
+                "votes": 99,
+                "rating": 4.6
+            }
+        },
+        "number of votes": {
+            "10": 50,
+            "9": 10,
+            "8": 14,
+            "7": 10,
+            "6": 12,
+            "5": 15,
+            "4": 21,
+            "3": 25,
+            "2": 28,
+            "1": 104
+        },
+        "arithmetic mean": 4.3,
+        "median": 3
+    }
+}

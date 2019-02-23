@@ -1,0 +1,290 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "17 August 2016"
+            },
+            {
+                "country": "USA\n",
+                "date": "18 August 2016"
+            }
+        ],
+        "release dates": [
+            "USA::17 August 2016",
+            "USA::18 August 2016"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Science of Data",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Welcome to StatsCenter! This fun, educational parody of SportsCenter covers many major topics in the field of statistics, in a sleek and funny sports anchor format. In this intro, we outline what our purpose is: understanding the field of statistics, which is about the study of data and how to interpret it, to create a better understanding of our world. In this case, the amazing sports world! Also introducing my in-field partner in the game, Jordan Cohen, who attempts to share his love of sports in a blooper-laden pioneering episode.    "
+                },
+                "2": {
+                    "title": "Types of Data",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    With Shaq gracious enough to call into StatsCenter, he offers a stellar explanation of the two types of statistical data: qualitative data and quantitative data. Meaning, within the field of statistics, data can be either categorical, or numerical. He then proceeds to insult my wardrobe more than once. To my guests: this fashion abuse must come to an end, I'm a sensitive parody sports anchor / teacher.    "
+                },
+                "3": {
+                    "title": "Sampling Data in Statistics",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Breaking news: the number of Americans playing basketball is decreasing! To fully understand how, we need to gather data from the U.S. population, using various methods. They include simple random sampling, convenience sampling, stratified sampling, and cluster sampling. In-field reporter Jordan Cohen aka \"Ball Masta Flex\" also describes the concept of sampling data with replacement, or without replacement.    "
+                },
+                "4": {
+                    "title": "Mean, Median and Mode",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    LeBron James first calls in to teach us about calculating the mean, median, and mode of a data set. But he's quickly put to the test by last-minute caller and 3-point specialist Stephen Curry, who challenges his interpretation regarding whom the league MVP should be. Things get heated, you don't want to miss their back-and-forth.    "
+                },
+                "5": {
+                    "title": "Measures of Spread",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Statistical measures of spread, according to Sir Charles Barkley, are a critical way to understand variability within data sets. The former NBA MVP teaches us about every useful term to deeply understand data, including the range, the interquartile range (IQR), and the standard deviation. Better yet, he explains easy ways to calculate them, and what they mean, no pun intended. Charles, despite of your incessant urge to disparage this news anchor's high fashion sense, thank you for always keepin' it real on StatsCenter.    "
+                },
+                "6": {
+                    "title": "Plotting",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Peyton Manning realizes that when plotting data in statistics, like when reading coverage, many options exist. Peyton runs quarterback on several data displays for NFL touchdowns and favorite teams, including a line graph, bar chart, pie graph, box plots (aka box and whisker), and histogram. Omaha! Programming note: you may be humming a certain tune by video's end.    "
+                },
+                "7": {
+                    "title": "Interpreting Data",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Outspoken sports analyst Stephen A. Smith interprets data plots and graphs, with the fascinating topics of high MLB salaries and stolen bases. He preaches on the concept of outliers (extreme high or low data values) that skew the data left or right, versus symmetric distributions. He goes on to interpret what it means when the mean is significantly higher or lower than the median, and when to use the interquartile range or the standard deviation.    "
+                },
+                "8": {
+                    "title": "Intro to Probability",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    The basketball free throw is a critical part of the game. As such, what is the probability of making one, two, or none of them during a typical trip to the charity stripe? With the stellar partnership of Jordan Cohen (aka \"Ball Masta Flex\") we figure out those chances using probability notation, such as P(A) and P(B), which means we multiply probabilities. We also go over the concept of independence, as well as the complement method, an intuitive probability technique.    "
+                },
+                "9": {
+                    "title": "Conditional Probability",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Sports announcer Mike Breen (coiner of the iconic \"Bang!\") teaches us about conditional probability, within the topic of wins and losses for the MLB's Anaheim Angels. He analyzes a contingency table of the wins and losses, which clearly displays all the Angels' games that were home and away, and each win/loss record.    "
+                },
+                "10": {
+                    "title": "Mutually Exclusive Events",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Proudly stepping into the StatsCenter ring last minute, Iron Mike Tyson puts the KO on the concepts of Mutually Exclusive and Independent Events. He uses these statistical calculations of probability to determine whether an MLB player performs better with runners in scoring position.    "
+                },
+                "11": {
+                    "title": "Binomial Distributions",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Soccer (er... \"football\") legend David Beckham calls into StatsCenter to discuss Binomial Distributions. He uses this vital concept in statistics to figure out the probability of making soccer penalty kicks in the climactic penalty shootout. Binomial Distributions have certain characteristics, including having a fixed number of trials, set probabilities, and that each event is independent of the others. Want to bend stats like Beckham? Then you came to the right place.    "
+                },
+                "12": {
+                    "title": "Discrete & Continuous Distributions",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Indomitable basketball center, insightful analyst, and SAG card holder Shaquille O'Neal calls into StatsCenter to discuss discrete and continuous variables in statistics. These types of quantitative variables can either be counted (discrete) or measured as a range (continuous), and he walks us through a few statistical data examples from the game. He also lovingly jabs at the fashion sensibilities his superbly dressed host, and busts into melodies for no apparent reason.    "
+                },
+                "13": {
+                    "title": "The Normal Distribution",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    The Normal Distribution, aka The Normal Curve, aka The Bell Curve, is a crucial topic in statistics. Hall of fame football mastermind John Madden (aka \"Boom!\") explains how using the mean and the standard deviation of a data set reveals how well running backs perform at the NFL combine. His 2-minute drill also covers a great rule of thumb process called The Empirical Rule (68-95-99.7), which uses percentiles to help us understand how well the runners did compared to each other. Enjoy Madden's signature drawings, right on the screen!    "
+                },
+                "14": {
+                    "title": "Z-Scores",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    How can we compare the ERA's of Clayton Kershaw vs. Pedro Martinez, if they pitched in different baseball eras? Simple: calculate their z-scores! Using each pitcher's population mean and standard deviation, we can make a direct comparison of how well each of them did, relative to his particular competition. Since we're in the field of statistics dreams, we'll also need to discuss their percentiles within the Empirical Rule as well, so we call upon immaculately dressed in-field reporter Jordan Cohen to uncurve this concept.    "
+                },
+                "15": {
+                    "title": "Scatterplots",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Moneyball stud Billy Beane of baseball's Oakland Athletics is a gracious guest on StatsCenter, who teaches us about data scatterplots and the correlation coefficient. He dives into the statistics behind whether high MLB player salaries have any relationship with the team's overall wins. Is the correlation between payroll and wins positive, or negative? Is it strong, weak, or non-existent? StatsCenter shatters scatterplots like a weak wooden bat crushing a fastball.    "
+                },
+                "16": {
+                    "title": "The Regression Line",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "StatsCenter (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "original air date": "18 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    What is the best predictor of wins in the NBA... points, rebounds, or assists? In the study of statistics, we can create an equation, called a \"regression model,\" to predict the number of wins a team has, based on their total points for the season. Amazing. To do this, we need to calculate several terms, including the correlation coefficient (r) and the best fit line. Then we are able to create our prediction, using the correlation of determination, from r squared.    "
+                }
+            }
+        },
+        "number of episodes": 16,
+        "cast": [
+            {
+                "name": "Ahdoot, Robert"
+            },
+            {
+                "name": "Cohen, Jordan"
+            }
+        ],
+        "genres": [
+            "Talk-Show"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BY2ZlNTMxOWYtMmFlNS00NTFiLTljODYtNTI3YjUyOWFhYzFkXkEyXkFqcGdeQXVyMjE2NzYxNTc@._V1_SY150_CR83,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "StatsCenter",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "akas": [
+            "StatsCenter (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Gerard, Adrienne"
+            },
+            {
+                "name": "Weil, Zachary"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Contact Light Films"
+            }
+        ],
+        "plot": [
+            "Like SportsCenter? Welcome to _StatsCenter_ (qv). It's a groundbreaking educational parody, fusing the best in sports with an in-depth look at the field of statistics, that's fun and easy-to-follow."
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

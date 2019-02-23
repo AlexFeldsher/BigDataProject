@@ -1,0 +1,132 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "2 June 2017"
+            },
+            {
+                "country": "USA\n",
+                "date": "2 June 2017",
+                "notes": "                            (TV premiere)"
+            }
+        ],
+        "release dates": [
+            "USA::2 June 2017",
+            "USA::2 June 2017                            (TV premiere)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Animal Collective: The Amazon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Earthworks (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "2 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    Set off with Animal Collective, an experimental pop band known for using natural sounds, to the largest rain forest in the world: the Amazon.    "
+                },
+                "2": {
+                    "title": "Miguel: Mexico",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Earthworks (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "9 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    We set off with recording artist Miguel and his family to Mexico: a country as important to their heritage as it is to our ecosystem.    "
+                },
+                "3": {
+                    "title": "Local Natives: The Colorado River",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Earthworks (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "16 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    We set off with indie rock band Local Natives to the Colorado River, a vital source of water and power that's been cut off from the Pacific Ocean, and faces massive drought.    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Miguel"
+            },
+            {
+                "name": "Portner, David"
+            },
+            {
+                "name": "Weitz, Brian"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color::(HD)"
+        ],
+        "certificates": [
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYzA0NTFmZWMtYzMxOC00NDI3LWFmMmUtMjk0OTVhY2RjNDFhXkEyXkFqcGdeQXVyNzEyMTk4Mzk@._V1_SY150_CR6,0,101,150_.jpg",
+        "budget": "$405,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Earthworks",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-2017",
+        "akas": [
+            "Earthworks (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Vice Media"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Vice Media"
+            }
+        ],
+        "plot": [
+            "A series of journeys with some of our favorite bands to places that are just as important to them as they are to our ecosystem.::Viceland"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "color": [
+                "Color (HD)"
+            ]
+        }
+    }
+}

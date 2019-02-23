@@ -1,0 +1,481 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "5 September 2016"
+            },
+            {
+                "country": "UK\n",
+                "date": "9 September 2016"
+            },
+            {
+                "country": "Italy\n",
+                "date": "4 October 2016"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "8 October 2016"
+            },
+            {
+                "country": "Germany\n",
+                "date": "27 November 2016"
+            },
+            {
+                "country": "Finland\n",
+                "date": "1 March 2017"
+            }
+        ],
+        "release dates": [
+            "USA::5 September 2016",
+            "UK::9 September 2016",
+            "Italy::4 October 2016",
+            "Netherlands::8 October 2016",
+            "Germany::27 November 2016",
+            "Finland::1 March 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Harley and the Davidsons"
+            },
+            {
+                "countries": "Germany",
+                "title": "Harley & the Davidsons - Legende auf zwei Rädern"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Harley és a Davidson fiúk"
+            },
+            {
+                "countries": "Russia",
+                "title": "Харли и братья Дэвидсон"
+            },
+            {
+                "countries": "USA",
+                "title": "Harley and the Davidsons"
+            }
+        ],
+        "akas": [
+            "Harley and the Davidsons (original title)",
+            "Harley & the Davidsons - Legende auf zwei Rädern Germany",
+            "Harley és a Davidson fiúk Hungary",
+            "Харли и братья Дэвидсон Russia",
+            "Harley and the Davidsons USA"
+        ],
+        "akas from release info": [
+            "Harley and the Davidsons (original title)",
+            "Harley & the Davidsons - Legende auf zwei Rädern Germany",
+            "Harley és a Davidson fiúk Hungary",
+            "Харли и братья Дэвидсон Russia",
+            "Harley and the Davidsons USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Amazing Machine",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Harley and the Davidsons (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 128,
+                    "original air date": "5 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Bill Harley and brothers Walter and Arthur Davidson found a motorcycle company in a shed behind the Davidson's home. But competition is fierce, and Walter has to put their fledgling business on the map by risking his life in racing competitions to beat the industry powerhouse, Indian Motorcycles. The rivalry between the two companies escalates with deadly consequences.    "
+                },
+                "2": {
+                    "title": "Race to the Top",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Harley and the Davidsons (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 93,
+                    "original air date": "6 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Walter and Bill convince Arthur that Harley-Davidson must rejoin the racing community if their business is to survive. Distracted by their race to the top, the founders of Harley-Davidson leave themselves vulnerable to a devastating and unforeseen threat to the survival of their company.    "
+                },
+                "3": {
+                    "title": "Legacy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Harley and the Davidsons (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 90,
+                    "original air date": "7 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    The Great Depression ravages America and cripples the motorcycle industry. With their company on the brink of ruin, Walter, Arthur, and Bill flout conventional wisdom by embarking on their most ambitious and expensive design yet.    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Huisman, Michiel"
+            },
+            {
+                "name": "Hall, Bug"
+            },
+            {
+                "name": "Aramayo, Robert"
+            },
+            {
+                "name": "Read, Annie"
+            },
+            {
+                "name": "O'Shea, Essa"
+            },
+            {
+                "name": "Coonan, Daniel"
+            },
+            {
+                "name": "Wright, Rufus"
+            },
+            {
+                "name": "Birch, Ed"
+            },
+            {
+                "name": "Brodie, Philip"
+            },
+            {
+                "name": "Melinte, Olimpia"
+            },
+            {
+                "name": "Slavin, Jane"
+            },
+            {
+                "name": "Hilmar, Hera"
+            },
+            {
+                "name": "Jr., Cornelius Geaney"
+            },
+            {
+                "name": "Luna, Gabriel"
+            },
+            {
+                "name": "Cordery, Richard"
+            },
+            {
+                "name": "Scully, Sean H."
+            },
+            {
+                "name": "Shaffer, Alex"
+            },
+            {
+                "name": "Bethel, Wilson"
+            },
+            {
+                "name": "Camacho, Jessica"
+            },
+            {
+                "name": "Alexander, Stewart"
+            },
+            {
+                "name": "Rider, Stephen"
+            },
+            {
+                "name": "Scott, Dougray"
+            },
+            {
+                "name": "Bastow, Tommy"
+            },
+            {
+                "name": "Boyko, Mish"
+            },
+            {
+                "name": "Chang, Song-Hung"
+            },
+            {
+                "name": "Bucur, Victor"
+            },
+            {
+                "name": "Christopher, Baby"
+            },
+            {
+                "name": "Byrne, Caolan"
+            },
+            {
+                "name": "Campion, Sean"
+            },
+            {
+                "name": "Ciocan, Ayana"
+            },
+            {
+                "name": "Dragoman, Mircea"
+            },
+            {
+                "name": "Coman, Ioan"
+            },
+            {
+                "name": "Dunne, Christopher"
+            },
+            {
+                "name": "Ellis, Martyn"
+            },
+            {
+                "name": "Connolly, Simon"
+            },
+            {
+                "name": "Eulyvonne, Wenamio"
+            },
+            {
+                "name": "van Dyk, Walter"
+            },
+            {
+                "name": "Bânzaru, Radu"
+            },
+            {
+                "name": "Finlason, Will"
+            },
+            {
+                "name": "Deare, Morgan"
+            },
+            {
+                "name": "Hendriks, Jake"
+            },
+            {
+                "name": "Hughes, Alex"
+            },
+            {
+                "name": "Felton, Alex"
+            },
+            {
+                "name": "Houghton, Ian"
+            },
+            {
+                "name": "Jacob, Jasper"
+            },
+            {
+                "name": "Godwin, Christopher"
+            },
+            {
+                "name": "Hriscu-Badea, Cristian"
+            },
+            {
+                "name": "Jackson, Nicole"
+            },
+            {
+                "name": "Grama, Ionut"
+            },
+            {
+                "name": "Jardine, Bryan"
+            }
+        ],
+        "locations": [
+            "Castel Film Studios, Bucharest, Romania::(studio)",
+            "Romania",
+            "Bucharest, Romania"
+        ],
+        "genres": [
+            "Biography"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Denmark:15::(DVD rating)",
+            "Finland:K-12::(DVD rating)",
+            "Germany:6",
+            "Norway:12::(DVD rating)",
+            "Sweden:11::(DVD rating)"
+        ],
+        "original air date": "05 Sep 2016 (USA)",
+        "number of seasons": 1,
+        "rating": 8.2,
+        "votes": 2585,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTUyOTc1MzU1Ml5BMl5BanBnXkFtZTgwNDU1NDEwMDI@._V1_SX101_CR0,0,101,150_.jpg",
+        "budget": "$27,000,000 (estimated)",
+        "plot outline": "Based on a true story, \"Harley and the Davidsons\" charts the birth of this iconic bike during a time of great social and technological change beginning at the turn of the 20th century. Walter, Arthur and Bill risked their entire fortune and livelihood to launch the budding enterprise. Each of these men faced very different challenges, but it was the motorcycle that united their dreams and ambitions. Walter, Arthur, and Bill cemented Harley-Davidson's reputation as a builder of bikes that go anywhere, can ride hard and ignore all the rules. It's a legacy that has endured over 100 years - and at the heart of the brand and its loyal riders.",
+        "languages": [
+            "English"
+        ],
+        "title": "Harley and the Davidsons",
+        "year": 2016,
+        "kind": "tv mini series",
+        "series years": "2016-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Fisher, Seth"
+            },
+            {
+                "name": "Schenk, Nick"
+            },
+            {
+                "name": "Wright, Evan"
+            }
+        ],
+        "director": [
+            {
+                "name": "Donnelly, Ciaran"
+            },
+            {
+                "name": "Kay, Stephen"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "RAW"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Discovery Channel"
+            },
+            {
+                "name": "Discovery Channel"
+            },
+            {
+                "name": "Discovery Channel"
+            },
+            {
+                "name": "Dmax"
+            },
+            {
+                "name": "Kutonen"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "CineFX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Buzzy's Recording"
+            },
+            {
+                "name": "HireWorks"
+            },
+            {
+                "name": "Molinare Studio"
+            },
+            {
+                "name": "Moneypenny Post Accounting and Payroll"
+            },
+            {
+                "name": "Take 2 Films"
+            }
+        ],
+        "plot": [
+            "Based on a true story, \"_Harley and the Davidsons_ (qv)\" charts the birth of this iconic bike during a time of great social and technological change beginning at the turn of the 20th century. Walter, Arthur and Bill risked their entire fortune and livelihood to launch the budding enterprise. Each of these men faced very different challenges, but it was the motorcycle that united their dreams and ambitions. Walter, Arthur, and Bill cemented Harley-Davidson's reputation as a builder of bikes that go anywhere, can ride hard and ignore all the rules. It's a legacy that has endured over 100 years - and at the heart of the brand and its loyal riders.::Discovery Channel"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2585,
+                "rating": 8.2
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "aged 18 29": {
+                "votes": 524,
+                "rating": 8.5
+            },
+            "aged 30 44": {
+                "votes": 792,
+                "rating": 8.1
+            },
+            "aged 45 plus": {
+                "votes": 430,
+                "rating": 7.8
+            },
+            "males": {
+                "votes": 1561,
+                "rating": 8.2
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 18 29": {
+                "votes": 441,
+                "rating": 8.6
+            },
+            "males aged 30 44": {
+                "votes": 631,
+                "rating": 8.1
+            },
+            "males aged 45 plus": {
+                "votes": 328,
+                "rating": 7.8
+            },
+            "females": {
+                "votes": 379,
+                "rating": 8.3
+            },
+            "females aged 18 29": {
+                "votes": 76,
+                "rating": 8.6
+            },
+            "females aged 30 44": {
+                "votes": 152,
+                "rating": 8.1
+            },
+            "females aged 45 plus": {
+                "votes": 97,
+                "rating": 8.1
+            },
+            "top 1000 voters": {
+                "votes": 37,
+                "rating": 7.1
+            },
+            "us users": {
+                "votes": 348,
+                "rating": 8.2
+            },
+            "non us users": {
+                "votes": 936,
+                "rating": 8.0
+            }
+        },
+        "number of votes": {
+            "10": 784,
+            "9": 662,
+            "8": 672,
+            "7": 279,
+            "6": 73,
+            "5": 38,
+            "4": 22,
+            "3": 18,
+            "2": 8,
+            "1": 29
+        },
+        "arithmetic mean": 8.5,
+        "median": 9
+    }
+}

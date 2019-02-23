@@ -1,0 +1,516 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "12 November 2017"
+            },
+            {
+                "country": "Finland\n",
+                "date": "12 February 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "12 February 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "USA\n",
+                "date": "8 April 2018"
+            },
+            {
+                "country": "Italy\n",
+                "date": "1 June 2018"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "19 June 2018",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Spain\n",
+                "date": "6 November 2018"
+            }
+        ],
+        "release dates": [
+            "UK::12 November 2017",
+            "Finland::12 February 2018                            (internet)",
+            "Sweden::12 February 2018                            (internet)",
+            "USA::8 April 2018",
+            "Italy::1 June 2018",
+            "Netherlands::19 June 2018                            (limited)",
+            "Spain::6 November 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Howards End"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Имението Хауърдс енд"
+            },
+            {
+                "countries": "Russia",
+                "title": "Говардс-Энд"
+            },
+            {
+                "countries": "Spain",
+                "title": "Regreso a Howards End"
+            },
+            {
+                "countries": "USA",
+                "title": "Howards End"
+            }
+        ],
+        "akas": [
+            "Howards End (original title)",
+            "Имението Хауърдс енд Bulgaria (Bulgarian title)",
+            "Говардс-Энд Russia",
+            "Regreso a Howards End Spain",
+            "Howards End USA"
+        ],
+        "akas from release info": [
+            "Howards End (original title)",
+            "Имението Хауърдс енд Bulgaria (Bulgarian title)",
+            "Говардс-Энд Russia",
+            "Regreso a Howards End Spain",
+            "Howards End USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Howards End (TV Mini-Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 202,
+                    "original air date": "8 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    In the spring of 1905, the Schlegel family are drawn into the affairs of the Wilcox family via Helen Schlegel, who has fallen for Paul Wilcox. Helen's older sister Margaret gets involved in a mix-up at a concert.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Howards End (TV Mini-Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 145,
+                    "original air date": "15 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    The Wilcoxes are rocked by a death in the family and the Schlegels face an uncertain future when they are evicted from their home.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Howards End (TV Mini-Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 126,
+                    "original air date": "22 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Searching for a new home, Margaret receives an offer of marriage from Henry. Helen is distraught to learn that Leonard Bast is on the brink of ruin after following the advice of the Schlegels'.    "
+                },
+                "4": {
+                    "title": "Episode #1.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Howards End (TV Mini-Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 102,
+                    "original air date": "29 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Margaret is unwilling to punish Henry for his past transgressions, committed long before they met. Helen leaves for Europe without explanation, only returning when tragedy strikes.    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Macfadyen, Matthew"
+            },
+            {
+                "name": "Atwell, Hayley"
+            },
+            {
+                "name": "Coulthard, Philippa"
+            },
+            {
+                "name": "Lawther, Alex"
+            },
+            {
+                "name": "Bannister, Joe"
+            },
+            {
+                "name": "Banya, Donna"
+            },
+            {
+                "name": "Ullman, Tracey"
+            },
+            {
+                "name": "Carter, Bessie"
+            },
+            {
+                "name": "Quinn, Joseph"
+            },
+            {
+                "name": "Eleazar, Rosalind"
+            },
+            {
+                "name": "Kettle, Yolanda"
+            },
+            {
+                "name": "Voe, Sandra"
+            },
+            {
+                "name": "Brocker, Gavin"
+            },
+            {
+                "name": "Jupp, Miles"
+            },
+            {
+                "name": "Belchambers, William"
+            },
+            {
+                "name": "Traylen, Hannah"
+            },
+            {
+                "name": "Hauer-King, Jonah"
+            },
+            {
+                "name": "Ormond, Julia"
+            },
+            {
+                "name": "Barton, Estrid"
+            },
+            {
+                "name": "Marrs, Matthew"
+            },
+            {
+                "name": "Arya, Sagar"
+            },
+            {
+                "name": "Slovick, Jos"
+            },
+            {
+                "name": "Bridgmont, Andrew"
+            },
+            {
+                "name": "Gostelow, Harry"
+            },
+            {
+                "name": "Taylor, George"
+            },
+            {
+                "name": "Benesch, Leonie"
+            },
+            {
+                "name": "Donald, Mark"
+            },
+            {
+                "name": "Bogod, Daniel"
+            },
+            {
+                "name": "Saroya, Maya"
+            },
+            {
+                "name": "Pritchett, Tim"
+            },
+            {
+                "name": "Blyth, Colin"
+            },
+            {
+                "name": "Mkhichen, Yassine"
+            },
+            {
+                "name": "Davison, Nick"
+            },
+            {
+                "name": "Ingall, Tim"
+            },
+            {
+                "name": "Faye, Ndongo"
+            },
+            {
+                "name": "Goom, Vaslov"
+            },
+            {
+                "name": "Hare, James"
+            },
+            {
+                "name": "Holmes, Helena"
+            },
+            {
+                "name": "Jackson, Danny"
+            },
+            {
+                "name": "Munday, Paul A"
+            },
+            {
+                "name": "Santos, Bernardo"
+            },
+            {
+                "name": "Sharpe, Tamara"
+            },
+            {
+                "name": "Wilde, Arthur"
+            }
+        ],
+        "locations": [
+            "Myddleton Square, Clerkenwell, London, England, UK::(Schlegels' house)",
+            "Vann, Hambledon, Godalming, Surrey, England, UK::(Howards End)",
+            "London, England, UK",
+            "Swanage, Dorset, England, UK::(Seaside bay and pier)",
+            "West Wycombe Park, West Wycombe, Buckinghamshire, England, UK::(Oniton House)",
+            "Studland, Dorset, England, UK::(Aunt Juley's house)"
+        ],
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "runtimes": [
+            "240"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States"
+        ],
+        "country codes": [
+            "gb",
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Norway:11::(Streaming rating)",
+            "Norway:9::(TV rating)",
+            "United States:TV-14"
+        ],
+        "original air date": "08 Apr 2018 (USA)",
+        "number of seasons": 1,
+        "rating": 7.3,
+        "votes": 2589,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNTc4MDU4MDk4OF5BMl5BanBnXkFtZTgwODg1Mjg1NDM@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Howards End",
+        "year": 2017,
+        "kind": "tv mini series",
+        "series years": "2017-2018",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Lonergan, Kenneth"
+            },
+            {
+                "name": "Forster, E.M."
+            }
+        ],
+        "director": [
+            {
+                "name": "Macdonald, Hettie"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Playground Entertainment"
+            },
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "Starz Originals"
+            },
+            {
+                "name": "KippSter Entertainment"
+            },
+            {
+                "name": "City Entertainment"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "BBC First"
+            },
+            {
+                "name": "C More"
+            },
+            {
+                "name": "C More"
+            },
+            {
+                "name": "Sky Uno"
+            },
+            {
+                "name": "Starz!"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "ARRI Rental"
+            },
+            {
+                "name": "Audiolink Radio Communications"
+            },
+            {
+                "name": "Casting Collective"
+            },
+            {
+                "name": "DDA Blueprint"
+            },
+            {
+                "name": "King's College, Cambridge"
+            },
+            {
+                "name": "Milan Records"
+            },
+            {
+                "name": "Mission Digital"
+            },
+            {
+                "name": "Momoco"
+            },
+            {
+                "name": "Peter Anderson Studio"
+            },
+            {
+                "name": "Production Copier Company"
+            },
+            {
+                "name": "Rose TV and film catering"
+            },
+            {
+                "name": "Special Treats Production Company"
+            }
+        ],
+        "plot": [
+            "The social and class divisions in early 20th century England through the intersection of three families - the wealthy Wilcoxes, the gentle and idealistic Schlegels and the lower-middle class Basts.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "4 hr (240 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2589,
+                "rating": 7.3
+            },
+            "aged under 18": {
+                "votes": 3,
+                "rating": 8.7
+            },
+            "aged 18 29": {
+                "votes": 387,
+                "rating": 7.4
+            },
+            "aged 30 44": {
+                "votes": 749,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 644,
+                "rating": 7.3
+            },
+            "males": {
+                "votes": 734,
+                "rating": 7.1
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 9.0
+            },
+            "males aged 18 29": {
+                "votes": 108,
+                "rating": 7.5
+            },
+            "males aged 30 44": {
+                "votes": 248,
+                "rating": 6.8
+            },
+            "males aged 45 plus": {
+                "votes": 332,
+                "rating": 7.2
+            },
+            "females": {
+                "votes": 1169,
+                "rating": 7.4
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 272,
+                "rating": 7.4
+            },
+            "females aged 30 44": {
+                "votes": 482,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 301,
+                "rating": 7.4
+            },
+            "top 1000 voters": {
+                "votes": 61,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 474,
+                "rating": 7.4
+            },
+            "non us users": {
+                "votes": 1015,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 326,
+            "9": 314,
+            "8": 669,
+            "7": 683,
+            "6": 293,
+            "5": 124,
+            "4": 56,
+            "3": 44,
+            "2": 29,
+            "1": 51
+        },
+        "arithmetic mean": 7.4,
+        "median": 8
+    }
+}

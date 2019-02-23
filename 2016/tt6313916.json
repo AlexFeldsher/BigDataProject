@@ -1,0 +1,155 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Austria\n",
+                "date": "19 November 2016"
+            },
+            {
+                "country": "Switzerland\n",
+                "date": "19 November 2016",
+                "notes": "                            (German speaking region)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "19 November 2016"
+            }
+        ],
+        "release dates": [
+            "Austria::19 November 2016",
+            "Switzerland::19 November 2016                            (German speaking region)",
+            "Germany::19 November 2016"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "4 geben alles! (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "19 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Gätjen, Steven"
+            },
+            {
+                "name": "Bendzko, Tim"
+            },
+            {
+                "name": "Laudann, Alexandra"
+            },
+            {
+                "name": "Laudann, Leo"
+            },
+            {
+                "name": "Laudann, Maja"
+            },
+            {
+                "name": "Laudann, Marc"
+            },
+            {
+                "name": "Leumann, Fredy"
+            },
+            {
+                "name": "Leumann, Nick"
+            },
+            {
+                "name": "Leumann, Priska"
+            },
+            {
+                "name": "Leumann, Sara"
+            },
+            {
+                "name": "Maybach, Adrian"
+            },
+            {
+                "name": "Maybach, Doris"
+            },
+            {
+                "name": "Maybach, Marian"
+            },
+            {
+                "name": "Maybach, Philipp"
+            },
+            {
+                "name": "Noller, Stephan"
+            }
+        ],
+        "genres": [
+            "Family",
+            "Game-Show"
+        ],
+        "runtimes": [
+            "150"
+        ],
+        "countries": [
+            "Germany",
+            "Austria",
+            "Switzerland"
+        ],
+        "country codes": [
+            "de",
+            "at",
+            "ch"
+        ],
+        "language codes": [
+            "de"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "German"
+        ],
+        "title": "4 geben alles!",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "akas": [
+            "4 geben alles! (Germany)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Schmelzer, Thilo"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Information & Unterhaltung TV Produktion"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Zweites Deutsches Fernsehen (ZDF)"
+            },
+            {
+                "name": "Österreichischer Rundfunk (ORF)"
+            },
+            {
+                "name": "SRF Swiss Radio and Television"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr 30 min (150 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

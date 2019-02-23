@@ -1,0 +1,522 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "11 June 2016"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "3 July 2016"
+            }
+        ],
+        "release dates": [
+            "USA::11 June 2016",
+            "Sweden::3 July 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The American West"
+            },
+            {
+                "countries": "Germany",
+                "title": "Der Wilde Westen - Die wahre Geschichte"
+            },
+            {
+                "countries": "Norway",
+                "title": "Robert Redford's The West"
+            },
+            {
+                "countries": "Russia",
+                "title": "Американский запад"
+            },
+            {
+                "countries": "Sweden",
+                "title": "Den våldsamma vilda västern"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "The West"
+            },
+            {
+                "countries": " (working title)",
+                "title": "The West"
+            }
+        ],
+        "akas": [
+            "The American West (original title)",
+            "Der Wilde Westen - Die wahre Geschichte Germany",
+            "Robert Redford's The West Norway",
+            "Американский запад Russia",
+            "Den våldsamma vilda västern Sweden",
+            "The West USA (working title)",
+            "The West (working title)"
+        ],
+        "akas from release info": [
+            "The American West (original title)",
+            "Der Wilde Westen - Die wahre Geschichte Germany",
+            "Robert Redford's The West Norway",
+            "Американский запад Russia",
+            "Den våldsamma vilda västern Sweden",
+            "The West USA (working title)",
+            "The West (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "America Divided",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The American West (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 97,
+                    "original air date": "11 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    In order to ensure the survival of his family Jesse James forms a gang; Custer seeks glory in the Indian Wars; Crazy Horse fights against the U.S.    "
+                },
+                "2": {
+                    "title": "Two Front War",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The American West (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 68,
+                    "original air date": "18 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Jesse James targets the railroads. Custer is sent on a secret mission in Sioux Territory. Grant deals with growing unrest in the west and south.    "
+                },
+                "3": {
+                    "title": "Blood & Gold",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The American West (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 61,
+                    "original air date": "25 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Allen Pinkerton gets hired to bring Jesse James to justice; settlers descend upon Sioux land to mine gold; Grant tries to keep the peace.    "
+                },
+                "4": {
+                    "title": "Showdown",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The American West (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 64,
+                    "original air date": "2 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Custer rides to a showdown at Little Big Horn with the Sioux; Jesse James hopes to make a big statement when he targets a bank in the northern territory.    "
+                },
+                "5": {
+                    "title": "Outlaw Rising",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The American West (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 58,
+                    "original air date": "9 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Billy the Kid is talented with a gun and uses it to get what he wants; Sitting Bull and Crazy Horse make an important decision; Wyatt Earp fights for what's right.    "
+                },
+                "6": {
+                    "title": "The Big Killing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The American West (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 54,
+                    "original air date": "16 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Jesse James resurfaces after years in hiding; Billy the Kid avenges the death of his friend; Wyatt Earp questions his future as a man of the law.    "
+                },
+                "7": {
+                    "title": "Frontier Justice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The American West (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 51,
+                    "original air date": "23 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Wyatt Earp heads to Tombstone; Billy the Kid and Pat Garrett's cat and mouse game reaches a climax; Sitting Bull is back in America.    "
+                },
+                "8": {
+                    "title": "The Last Vendetta",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The American West (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 44,
+                    "original air date": "30 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    In this, the final of the mini-series, Sitting Bull is charged with starting a upheaval. Also, Wyatt Earp puts the law aside as he searches for justice and Jesse James is challenged by the Ford Brothers.    "
+                }
+            }
+        },
+        "number of episodes": 8,
+        "cast": [
+            {
+                "name": "Gardner, Mark Lee"
+            },
+            {
+                "name": "Morris, Bert Thomas"
+            },
+            {
+                "name": "Stevens, David H."
+            },
+            {
+                "name": "Strongheart, Will"
+            },
+            {
+                "name": "Plenty, Mo Brings"
+            },
+            {
+                "name": "Lund, Morgan"
+            },
+            {
+                "name": "Bailey, John C."
+            },
+            {
+                "name": "Stewart, Jonathan C."
+            },
+            {
+                "name": "Chariton, Derek"
+            },
+            {
+                "name": "Rolland, Eric"
+            },
+            {
+                "name": "Maddox, Ric"
+            },
+            {
+                "name": "O'Bryon, Kera"
+            },
+            {
+                "name": "Jackman, Jim"
+            },
+            {
+                "name": "Scully, Hugh"
+            },
+            {
+                "name": "Eisenbach, David"
+            },
+            {
+                "name": "Redford, Robert"
+            },
+            {
+                "name": "Hutton, Paul A."
+            },
+            {
+                "name": "Jacoby, Karl"
+            },
+            {
+                "name": "Carlson, Joseph"
+            },
+            {
+                "name": "Osorio, Isabela"
+            },
+            {
+                "name": "Brands, H.W."
+            },
+            {
+                "name": "Day, William"
+            },
+            {
+                "name": "Sutherland, Kiefer"
+            },
+            {
+                "name": "Pourier, Larry T."
+            },
+            {
+                "name": "McCain, John"
+            },
+            {
+                "name": "Isenberg, Andrew C."
+            },
+            {
+                "name": "Marunde, Mike"
+            },
+            {
+                "name": "Conner, Scott"
+            },
+            {
+                "name": "Davenport, Deven"
+            },
+            {
+                "name": "III, Rich Dally"
+            },
+            {
+                "name": "Discher, Joseph"
+            },
+            {
+                "name": "Dunning, Samuel"
+            },
+            {
+                "name": "Bialis, Nick"
+            },
+            {
+                "name": "Chmiel, Michael"
+            },
+            {
+                "name": "Kirschner, Ann"
+            },
+            {
+                "name": "Collier, Anne"
+            },
+            {
+                "name": "Fike, Richard"
+            },
+            {
+                "name": "Douglas, Deborah Lee"
+            },
+            {
+                "name": "Wallis, Paul"
+            },
+            {
+                "name": "Chamberlain, Kathleen"
+            },
+            {
+                "name": "Foner, Eric"
+            },
+            {
+                "name": "Glover, Danny"
+            },
+            {
+                "name": "Murande, Michael"
+            },
+            {
+                "name": "Anderson, Mike"
+            },
+            {
+                "name": "Jr., Sidney Blackmer"
+            },
+            {
+                "name": "Blomquist, Roger"
+            },
+            {
+                "name": "Bridges, Seth Andrew"
+            },
+            {
+                "name": "Brown, Sean M."
+            },
+            {
+                "name": "Eavey, Jake"
+            },
+            {
+                "name": "Bloxsom-Carter, Nick"
+            }
+        ],
+        "genres": [
+            "Drama",
+            "History",
+            "Western"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Norway:16::(Netflix self-rating)",
+            "Singapore:NC16",
+            "United States:TV-14"
+        ],
+        "original air date": "11 Jun 2016 (USA)",
+        "number of seasons": 1,
+        "rating": 7.3,
+        "votes": 984,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYWM4MTQyMWUtNGUyNC00Y2UyLWE3NzMtMTk2NjAxMzIzNjZkXkEyXkFqcGdeQXVyNTc5MTExOTI@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "This series will provide unprecedented access to the wilderness, frontier lawlessness, and bloodshed of the 40 years between the end of the American Civil War and after the turn of the 20th Century, when the west was won. From Jesse James and Crazy Horse, to Wyatt Earp and Buffalo Bill, the characters at the center of this violent, blood-soaked period in American history are explored as each episode follows the stories and struggles of the West's most infamous outlaws as they fight for their land and identity.",
+        "languages": [
+            "English"
+        ],
+        "title": "The American West",
+        "year": 2016,
+        "kind": "tv mini series",
+        "series years": "2016-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Burstein, Brian"
+            },
+            {
+                "name": "Ealer, John"
+            },
+            {
+                "name": "Herrmann, Zachary"
+            }
+        ],
+        "director": [
+            {
+                "name": "Ealer, John"
+            },
+            {
+                "name": "Saint-Ours, Johnny"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Stephen David Entertainment"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "AMC Networks"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Brauer & Co."
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            }
+        ],
+        "plot": [
+            "This series will provide unprecedented access to the wilderness, frontier lawlessness, and bloodshed of the 40 years between the end of the American Civil War and after the turn of the 20th Century, when the west was won. From Jesse James and Crazy Horse, to Wyatt Earp and Buffalo Bill, the characters at the center of this violent, blood-soaked period in American history are explored as each episode follows the stories and struggles of the West's most infamous outlaws as they fight for their land and identity.::Tarra",
+            "The story of the American West, from the US's expansion post the Civil War to the late 1800s. Told through the storylines of several famous central figures in that history: George Armstrong Custer, Sitting Bull, Crazy Horse, Jesse James, Billy the Kid and Wyatt Earp.::grantss"
+        ],
+        "tech": {
+            "runtime": [
+                "43 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 984,
+                "rating": 7.3
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "aged 18 29": {
+                "votes": 97,
+                "rating": 7.5
+            },
+            "aged 30 44": {
+                "votes": 341,
+                "rating": 7.4
+            },
+            "aged 45 plus": {
+                "votes": 278,
+                "rating": 7.1
+            },
+            "males": {
+                "votes": 666,
+                "rating": 7.3
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "males aged 18 29": {
+                "votes": 82,
+                "rating": 7.4
+            },
+            "males aged 30 44": {
+                "votes": 301,
+                "rating": 7.3
+            },
+            "males aged 45 plus": {
+                "votes": 235,
+                "rating": 7.1
+            },
+            "females": {
+                "votes": 102,
+                "rating": 7.7
+            },
+            "females aged 18 29": {
+                "votes": 15,
+                "rating": 8.0
+            },
+            "females aged 30 44": {
+                "votes": 37,
+                "rating": 8.0
+            },
+            "females aged 45 plus": {
+                "votes": 40,
+                "rating": 7.2
+            },
+            "top 1000 voters": {
+                "votes": 42,
+                "rating": 6.6
+            },
+            "us users": {
+                "votes": 197,
+                "rating": 7.1
+            },
+            "non us users": {
+                "votes": 404,
+                "rating": 7.3
+            }
+        },
+        "number of votes": {
+            "10": 152,
+            "9": 133,
+            "8": 253,
+            "7": 219,
+            "6": 79,
+            "5": 46,
+            "4": 25,
+            "3": 19,
+            "2": 11,
+            "1": 47
+        },
+        "arithmetic mean": 7.3,
+        "median": 8
+    }
+}

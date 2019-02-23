@@ -1,0 +1,622 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "25 September 2017"
+            },
+            {
+                "country": "Spain\n",
+                "date": "22 January 2018"
+            },
+            {
+                "country": "Japan\n",
+                "date": "27 March 2018"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "24 May 2018"
+            }
+        ],
+        "release dates": [
+            "USA::25 September 2017",
+            "Spain::22 January 2018",
+            "Japan::27 March 2018",
+            "Sweden::24 May 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Brave"
+            },
+            {
+                "countries": "Romania",
+                "title": "Cei bravi"
+            },
+            {
+                "countries": "Russia",
+                "title": "Отважные"
+            },
+            {
+                "countries": "Spain",
+                "title": "The Brave"
+            },
+            {
+                "countries": "USA (alternative spelling)",
+                "title": "For God And Country"
+            },
+            {
+                "countries": " (working title)",
+                "title": "For God and Country"
+            }
+        ],
+        "akas": [
+            "The Brave (original title)",
+            "Cei bravi Romania",
+            "Отважные Russia",
+            "The Brave Spain",
+            "For God And Country USA (alternative spelling)",
+            "For God and Country (working title)"
+        ],
+        "akas from release info": [
+            "The Brave (original title)",
+            "Cei bravi Romania",
+            "Отважные Russia",
+            "The Brave Spain",
+            "For God And Country USA (alternative spelling)",
+            "For God and Country (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brave (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 455,
+                    "original air date": "25 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    When an American doctor gets kidnapped by a terrorist group, Captain Adam Dalton and his Special Ops crew take action to rescue her.    "
+                },
+                "2": {
+                    "title": "Moscow Rules",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brave (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 382,
+                    "original air date": "2 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    The team heads to Ukraine to rescue a CIA officer from the people trying to capture her, without starting a major incident.    "
+                },
+                "3": {
+                    "title": "The Greater Good",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brave (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 363,
+                    "original air date": "9 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    The team is sent to Mexico to intercept an illegal arms dealer, but he is extremely cautious and paranoid. A decision must be made: protect the mission or protect a woman who is working to help them? Noah discovers more about Hannah's trauma from her field work.    "
+                },
+                "4": {
+                    "title": "Break Out",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brave (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 427,
+                    "original air date": "16 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Campbell travels to Afghanistan to personally interrogate an American Taliban about a pending attack. But, they have to make sure they all don't die in the prison where the interrogation takes place.    "
+                },
+                "5": {
+                    "title": "Enhanced Protection",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brave (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 397,
+                    "original air date": "23 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    When the Ambassador Charles Webb (Guest Star Ben Cain) is in danger while stationed in Nigeria, Dalton's (Mike Vogel) team heads to the region to find a situation different than they expected. Jaz (Natacha Karam) makes a connection with a little girl she meets during the mission and Patricia (Anne Heche) receives some personal news.    "
+                },
+                "6": {
+                    "title": "The Seville Defection",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brave (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 337,
+                    "original air date": "30 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    While the team is in Spain, McG makes a connection that leads the group to discover a potential threat stateside. Meanwhile, Noah and Hannah venture out of the office to get some information of their own.    "
+                },
+                "7": {
+                    "title": "It's All Personal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brave (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 340,
+                    "original air date": "6 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    As the team heads to Paris on a mission connected to Amir's undercover past, things get more personal.    "
+                },
+                "8": {
+                    "title": "Stealth",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brave (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 335,
+                    "original air date": "13 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    A Russian stealth drone flies over a nomad camp and crashes into a distant mountain. The team is informed that this drone flew over the United States without being detected by RADAR. Their mission lands them in Mongolia where they tend to wounded nomads before heading across the border into China to retrieve a piece of the drone's skin for the NSA to study. Old school tactics: will they help the team survive the Russians and Chinese?    "
+                },
+                "9": {
+                    "title": "Desperate Times",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brave (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 500,
+                    "original air date": "20 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    After embarking on mission after mission to keep the world safe, the team is confronted with a task that hits close to home. When things go sideways, the only option is to risk one of their own for their final shot to settle the personal score.    "
+                },
+                "10": {
+                    "title": "Desperate Measures",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brave (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 366,
+                    "original air date": "8 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Dalton and what remains of his team try to escape with their lives as they process a devastating loss; Patricia will stop at nothing to make things right, even if it means putting her career at risk.    "
+                },
+                "11": {
+                    "title": "Grounded",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brave (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 300,
+                    "original air date": "15 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    With Patricia out of commission, Noah is at the helm of the D.I.A. when FARC revolutionaries take control of a flight in Colombia. When negotiations mean life or death for the passengers on board, Hannah must make her return to the field.    "
+                },
+                "12": {
+                    "title": "Close to Home: Part 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brave (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 269,
+                    "original air date": "22 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    When an unlikely suspect is involved in hacking a U.S. submarine, Dalton (Mike Vogel) and his team stumble upon a piece of Patricia's past. With national security and lives at stake, Patricia (Anne Heche) heads to Turkey to confront one of her most epic demons.    "
+                },
+                "13": {
+                    "title": "Close to Home: Part 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Brave (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 307,
+                    "original air date": "29 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    With just four short weeks before Dalton and his team finish their deployment, they continue to race the clock on a high-stakes mission. As they learn more about Hoffman, Patricia and the group attempt to use his intel to save innocent lives, but the information comes at a cost.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Heche, Anne"
+            },
+            {
+                "name": "Vogel, Mike"
+            },
+            {
+                "name": "Ellington, Tate"
+            },
+            {
+                "name": "Grosse, Demetrius"
+            },
+            {
+                "name": "Karam, Natacha"
+            },
+            {
+                "name": "Mills, Noah"
+            },
+            {
+                "name": "Pernas, Sofia"
+            },
+            {
+                "name": "Tabbal, Hadi"
+            },
+            {
+                "name": "Aurelia, Chiara"
+            },
+            {
+                "name": "Farmanesh-Bocca, John"
+            },
+            {
+                "name": "Grainger, Alison"
+            },
+            {
+                "name": "Crumpton, Marc"
+            },
+            {
+                "name": "Khosraviani, Bahram"
+            },
+            {
+                "name": "Tupper, James"
+            },
+            {
+                "name": "Keiffer, Dennis"
+            },
+            {
+                "name": "Nemmers, Joe"
+            },
+            {
+                "name": "Taylor, Sale"
+            },
+            {
+                "name": "Hill, Stephanie"
+            },
+            {
+                "name": "Lecrone, Shawn"
+            },
+            {
+                "name": "Luna, Adrian"
+            },
+            {
+                "name": "Stogner, Michael E."
+            },
+            {
+                "name": "Calamawy, May"
+            },
+            {
+                "name": "Can, Kerem"
+            },
+            {
+                "name": "Efremova, Svetlana"
+            },
+            {
+                "name": "Hernandez, Erica"
+            },
+            {
+                "name": "Howard, Andrew"
+            },
+            {
+                "name": "Korach, Zoran"
+            },
+            {
+                "name": "Paolo, Connor"
+            },
+            {
+                "name": "Uzoukwu, D.K."
+            },
+            {
+                "name": "Medina, Jonathan"
+            },
+            {
+                "name": "Toub, Shaun"
+            },
+            {
+                "name": "Breeds, Rebecca"
+            },
+            {
+                "name": "Farber, Stacey"
+            },
+            {
+                "name": "Naber, Joey"
+            },
+            {
+                "name": "Swetow, Joel"
+            },
+            {
+                "name": "Valdez, Lakin"
+            },
+            {
+                "name": "Warren, Amanda"
+            },
+            {
+                "name": "Weiss, Naren"
+            },
+            {
+                "name": "Regan, Alix Wilton"
+            },
+            {
+                "name": "Tucker, Brett"
+            },
+            {
+                "name": "Jean-Louis, Jimmy"
+            },
+            {
+                "name": "Kasyan, Gregory"
+            },
+            {
+                "name": "Khalili, Jahan"
+            },
+            {
+                "name": "Lychnikoff, Pasha D."
+            },
+            {
+                "name": "Martin, Shereen"
+            },
+            {
+                "name": "Naderi, Bobby"
+            },
+            {
+                "name": "Runtso, Andrei"
+            },
+            {
+                "name": "Salmon, Colin"
+            },
+            {
+                "name": "Qureshi, Salena"
+            },
+            {
+                "name": "Vasquez, Vannessa"
+            }
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller",
+            "War"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Singapore:PG13::(TV rating)",
+            "Spain:12",
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 7.5,
+        "votes": 7219,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMzVlODk0ZDYtMmI0YS00YmYxLWI1ODctYzE3YzkwMmVlZDZiXkEyXkFqcGdeQXVyNjMxNzcwOTI@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Brave",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-2018",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Georgaris, Dean"
+            },
+            {
+                "name": "Covarrubias, John"
+            },
+            {
+                "name": "Harkavy, Denise"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Dune Films"
+            },
+            {
+                "name": "Keshet International"
+            },
+            {
+                "name": "Universal Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Fox"
+            },
+            {
+                "name": "Global"
+            },
+            {
+                "name": "National Broadcasting Company (NBC)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aerobo"
+            },
+            {
+                "name": "Aquila Travel"
+            },
+            {
+                "name": "BCD Entertainment Travel"
+            },
+            {
+                "name": "Blue Wolf Advising"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Digital Orchard"
+            },
+            {
+                "name": "Digital Orchard"
+            },
+            {
+                "name": "Dynamic International Freight Services"
+            },
+            {
+                "name": "Forsburg Ranch & Company"
+            },
+            {
+                "name": "Hear Kitty"
+            },
+            {
+                "name": "Scatterlight Studios"
+            }
+        ],
+        "plot": [
+            "The complex world of our bravest military heroes who make personal sacrifices while executing the most challenging and dangerous missions behind enemy lines.::vhavnal"
+        ],
+        "tech": {
+            "runtime": [
+                "43 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 7219,
+                "rating": 7.5
+            },
+            "aged under 18": {
+                "votes": 3,
+                "rating": 8.7
+            },
+            "aged 18 29": {
+                "votes": 836,
+                "rating": 7.9
+            },
+            "aged 30 44": {
+                "votes": 1759,
+                "rating": 7.3
+            },
+            "aged 45 plus": {
+                "votes": 1501,
+                "rating": 7.6
+            },
+            "males": {
+                "votes": 2849,
+                "rating": 7.3
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 8.0
+            },
+            "males aged 18 29": {
+                "votes": 487,
+                "rating": 7.6
+            },
+            "males aged 30 44": {
+                "votes": 1050,
+                "rating": 6.9
+            },
+            "males aged 45 plus": {
+                "votes": 891,
+                "rating": 7.3
+            },
+            "females": {
+                "votes": 1883,
+                "rating": 8.2
+            },
+            "females aged 18 29": {
+                "votes": 343,
+                "rating": 8.3
+            },
+            "females aged 30 44": {
+                "votes": 687,
+                "rating": 7.9
+            },
+            "females aged 45 plus": {
+                "votes": 580,
+                "rating": 8.2
+            },
+            "top 1000 voters": {
+                "votes": 98,
+                "rating": 5.9
+            },
+            "us users": {
+                "votes": 1564,
+                "rating": 7.9
+            },
+            "non us users": {
+                "votes": 1541,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 2157,
+            "9": 1191,
+            "8": 1548,
+            "7": 838,
+            "6": 328,
+            "5": 198,
+            "4": 95,
+            "3": 110,
+            "2": 282,
+            "1": 472
+        },
+        "arithmetic mean": 7.7,
+        "median": 8
+    }
+}

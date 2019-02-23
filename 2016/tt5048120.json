@@ -1,0 +1,144 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2016"
+            },
+            {
+                "country": "USA\n",
+                "date": "  2016",
+                "notes": "                            (Los Angeles, California)"
+            }
+        ],
+        "release dates": [
+            "USA::2016",
+            "USA::2016                            (Los Angeles, California)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "To Mars and Back"
+            },
+            {
+                "countries": " (working title)",
+                "title": "TMaB"
+            }
+        ],
+        "akas": [
+            "To Mars and Back (original title)",
+            "TMaB (working title)"
+        ],
+        "akas from release info": [
+            "To Mars and Back (original title)",
+            "TMaB (working title)"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "To Mars and Back (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Penn, Jeremey"
+            },
+            {
+                "name": "Haven, Joy"
+            },
+            {
+                "name": "Baldwin, Mitchel"
+            },
+            {
+                "name": "Mauti, Celina"
+            },
+            {
+                "name": "Bond, Paul"
+            },
+            {
+                "name": "Lott, Jason"
+            },
+            {
+                "name": "Nauman, Russell"
+            },
+            {
+                "name": "Garrido, Justin"
+            },
+            {
+                "name": "Velasco, Vladimir"
+            }
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "runtimes": [
+            "22"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "United States:TV-PG"
+        ],
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTY3OTI2Mzg0NF5BMl5BanBnXkFtZTgwNDQyNzIxNzE@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "To Mars and Back",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "writer": [
+            {
+                "name": "Klein, Eric"
+            },
+            {
+                "name": "Martin, Kaileigh Brielle"
+            },
+            {
+                "name": "Penn, Jeremey"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "PennHaven Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "YouTube"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "22 min (TV Series)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "camera": [
+                "Panavision Cameras and Lenses"
+            ]
+        }
+    }
+}
