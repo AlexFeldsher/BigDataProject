@@ -1,0 +1,108 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2007"
+            },
+            {
+                "country": "Germany\n",
+                "date": "22 January 2007"
+            }
+        ],
+        "release dates": [
+            "USA::2007",
+            "Germany::22 January 2007"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Are U Hot?"
+            },
+            {
+                "countries": "Germany (alternative title)",
+                "title": "Are You Hot?"
+            }
+        ],
+        "akas": [
+            "Are U Hot? (original title)",
+            "Are You Hot? Germany (alternative title)"
+        ],
+        "akas from release info": [
+            "Are U Hot? (original title)",
+            "Are You Hot? Germany (alternative title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Chicago Auditons",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Are U Hot? (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "2007",
+                    "year": "2007",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Baxxter, H.P."
+            },
+            {
+                "name": "Meierhenrich, Nova"
+            },
+            {
+                "name": "Midzic, Alain"
+            }
+        ],
+        "genres": [
+            "Game-Show",
+            "Reality-TV"
+        ],
+        "runtimes": [
+            "44"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "country codes": [
+            "de"
+        ],
+        "language codes": [
+            "de"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "German"
+        ],
+        "title": "Are U Hot?",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-",
+        "seasons": [
+            "1"
+        ],
+        "distributors": [
+            {
+                "name": "Viva"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "44 min (including commercials)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

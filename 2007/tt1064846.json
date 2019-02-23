@@ -1,0 +1,119 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Spain\n",
+                "date": "24 June 2007"
+            },
+            {
+                "country": "Spain\n",
+                "date": "24 June 2007",
+                "notes": "                            (Catalonia)"
+            }
+        ],
+        "release dates": [
+            "Spain::24 June 2007",
+            "Spain::24 June 2007                            (Catalonia)"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Episode dated 25 October 2007",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Que no surti d'aquí (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "25 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Que no surti d'aquí (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "24 Jun. 2007",
+                    "year": "2007",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Fernández, Fermí"
+            },
+            {
+                "name": "Moreno, Amparo"
+            },
+            {
+                "name": "Ripeu, Miquel Àngel"
+            },
+            {
+                "name": "Rodríguez, Marcos"
+            }
+        ],
+        "locations": [
+            "Sala Muntaner, Barcelona, Catalonia, Spain"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "50"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "country codes": [
+            "es"
+        ],
+        "language codes": [
+            "ca"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "Catalan"
+        ],
+        "title": "Que no surti d'aquí",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-",
+        "akas": [
+            "Que no surti d'aquí (Spain)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "El Terrat"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "8Tv"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "50 min (Spain)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

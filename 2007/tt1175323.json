@@ -1,0 +1,440 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Belgium\n",
+                "date": "27 September 2007"
+            },
+            {
+                "country": "France\n",
+                "date": "29 January 2008"
+            },
+            {
+                "country": "France\n",
+                "date": "29 January 2008",
+                "notes": "                            (part 1)"
+            }
+        ],
+        "release dates": [
+            "Belgium::27 September 2007",
+            "France::29 January 2008",
+            "France::29 January 2008                            (part 1)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Voici venir l'orage..."
+            },
+            {
+                "countries": "France (DVD title)",
+                "title": "Voici venir l'orage"
+            },
+            {
+                "countries": "Germany",
+                "title": "Der Sturm zieht auf"
+            },
+            {
+                "countries": "Greece (transliterated ISO-LATIN-1 title)",
+                "title": "To pepromeno tis Elenas"
+            },
+            {
+                "countries": "Poland",
+                "title": "Czas burzy"
+            },
+            {
+                "countries": "World-wide (English title) (alternative title)",
+                "title": "There's a Storm a-Coming"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "Elena's Destiny, a Russian Saga"
+            }
+        ],
+        "akas": [
+            "Voici venir l'orage... (original title)",
+            "Voici venir l'orage France (DVD title)",
+            "Der Sturm zieht auf Germany",
+            "To pepromeno tis Elenas Greece (transliterated ISO-LATIN-1 title)",
+            "Czas burzy Poland",
+            "There's a Storm a-Coming World-wide (English title) (alternative title)",
+            "Elena's Destiny, a Russian Saga World-wide (English title)"
+        ],
+        "akas from release info": [
+            "Voici venir l'orage... (original title)",
+            "Voici venir l'orage France (DVD title)",
+            "Der Sturm zieht auf Germany",
+            "To pepromeno tis Elenas Greece (transliterated ISO-LATIN-1 title)",
+            "Czas burzy Poland",
+            "There's a Storm a-Coming World-wide (English title) (alternative title)",
+            "Elena's Destiny, a Russian Saga World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Première partie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Elena's Destiny, a Russian Saga (TV Mini-Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 9,
+                    "original air date": "29 Jan. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Deuxième partie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Elena's Destiny, a Russian Saga (TV Mini-Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 9,
+                    "original air date": "5 Feb. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Troisième partie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Elena's Destiny, a Russian Saga (TV Mini-Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 10,
+                    "original air date": "12 Feb. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Grinberg, Anouk"
+            },
+            {
+                "name": "Brochet, Anne"
+            },
+            {
+                "name": "Varela, Valentine"
+            },
+            {
+                "name": "Todeschini, Bruno"
+            },
+            {
+                "name": "Lolov, Sava"
+            },
+            {
+                "name": "Régnier, Natacha"
+            },
+            {
+                "name": "Giovaninetti, Arnaud"
+            },
+            {
+                "name": "Kribus, Serge"
+            },
+            {
+                "name": "Samie, Céline"
+            },
+            {
+                "name": "Karsenti, Valérie"
+            },
+            {
+                "name": "Lafitte, Laurent"
+            },
+            {
+                "name": "Taubman, Anatole"
+            },
+            {
+                "name": "Mariani, Solenn"
+            },
+            {
+                "name": "Marit, Aglaé"
+            },
+            {
+                "name": "Mirtchev, Miglen"
+            },
+            {
+                "name": "Kerbrat, Patrice"
+            },
+            {
+                "name": "Brune, Cécile"
+            },
+            {
+                "name": "Fitoussi, Grégory"
+            },
+            {
+                "name": "Durand, Jean-Claude"
+            },
+            {
+                "name": "Mlekuz, Mathias"
+            },
+            {
+                "name": "Varco, Yvan"
+            },
+            {
+                "name": "Libessart, Sébastien"
+            },
+            {
+                "name": "Sachs, Alain"
+            },
+            {
+                "name": "Fischer, Thaïs"
+            },
+            {
+                "name": "Sotnikoff, Nicolas"
+            },
+            {
+                "name": "Mazureck, Garance"
+            },
+            {
+                "name": "Sourdillion, Agnès"
+            },
+            {
+                "name": "Thibault, Alexandre"
+            },
+            {
+                "name": "Alazraki, Benjamin"
+            },
+            {
+                "name": "Bourdil, Laurence"
+            },
+            {
+                "name": "Mesguich, William"
+            },
+            {
+                "name": "Balazuc, Olivier"
+            },
+            {
+                "name": "Quentin-Bonnet, Anne-Marie"
+            },
+            {
+                "name": "Bonnet, Manuel"
+            },
+            {
+                "name": "Masiero, Corinne"
+            },
+            {
+                "name": "Mercouroff, Alexandra"
+            },
+            {
+                "name": "Daguier, Dominique"
+            },
+            {
+                "name": "Cam, Elisa Flanagan Le"
+            },
+            {
+                "name": "Routier, Airy"
+            },
+            {
+                "name": "Agid, Hannah"
+            },
+            {
+                "name": "Alimi, Eva"
+            },
+            {
+                "name": "Arpentinier, Elise"
+            },
+            {
+                "name": "Aubry, Alexandre"
+            },
+            {
+                "name": "Bartholomeus, Etienne"
+            },
+            {
+                "name": "Bataille, Emmanuelle"
+            },
+            {
+                "name": "Bennet, Ulrich Keonnecke"
+            },
+            {
+                "name": "Bensoussan, Sarah"
+            },
+            {
+                "name": "Bernard, Nathalie"
+            },
+            {
+                "name": "Borel, Rose"
+            },
+            {
+                "name": "Brichese, Pierre"
+            }
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "270"
+        ],
+        "countries": [
+            "France",
+            "Belgium"
+        ],
+        "country codes": [
+            "fr",
+            "be"
+        ],
+        "language codes": [
+            "fr",
+            "ru",
+            "de",
+            "yi",
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "original air date": "27 Sep 2007 (Belgium)",
+        "number of seasons": 1,
+        "rating": 6.7,
+        "votes": 52,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTgwMzgwOTY2OF5BMl5BanBnXkFtZTcwNDkzOTA5Mg@@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "French",
+            "Russian",
+            "German",
+            "Yiddish",
+            "English"
+        ],
+        "title": "Elena's Destiny, a Russian Saga",
+        "year": 2007,
+        "kind": "tv mini series",
+        "series years": "2007-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Companeez, Nina"
+            }
+        ],
+        "director": [
+            {
+                "name": "Companeez, Nina"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Ciné Mag Bodard"
+            },
+            {
+                "name": "Fontana"
+            },
+            {
+                "name": "Radio Télévision Belge Francophone (RTBF)"
+            },
+            {
+                "name": "Région Ile-de-France"
+            },
+            {
+                "name": "France 2 (FR2)"
+            },
+            {
+                "name": "Arte France"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "France Télévision Distribution"
+            },
+            {
+                "name": "TV5 Monde"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "4 hr 30 min (270 min) (3 parts)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 52,
+                "rating": 6.7
+            },
+            "aged 18 29": {
+                "votes": 2,
+                "rating": 5.0
+            },
+            "aged 30 44": {
+                "votes": 14,
+                "rating": 5.7
+            },
+            "aged 45 plus": {
+                "votes": 27,
+                "rating": 7.3
+            },
+            "males": {
+                "votes": 35,
+                "rating": 6.4
+            },
+            "males aged 18 29": {
+                "votes": 1,
+                "rating": 3.0
+            },
+            "males aged 30 44": {
+                "votes": 12,
+                "rating": 5.8
+            },
+            "males aged 45 plus": {
+                "votes": 22,
+                "rating": 7.0
+            },
+            "females": {
+                "votes": 8,
+                "rating": 7.8
+            },
+            "females aged 18 29": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "females aged 30 44": {
+                "votes": 2,
+                "rating": 7.0
+            },
+            "females aged 45 plus": {
+                "votes": 5,
+                "rating": 8.4
+            },
+            "top 1000 voters": {
+                "votes": 6,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 2,
+                "rating": 7.0
+            },
+            "non us users": {
+                "votes": 39,
+                "rating": 6.7
+            }
+        },
+        "number of votes": {
+            "10": 10,
+            "9": 5,
+            "8": 5,
+            "7": 11,
+            "6": 8,
+            "5": 4,
+            "4": 2,
+            "3": 2,
+            "2": 1,
+            "1": 4
+        },
+        "arithmetic mean": 6.7,
+        "median": 7
+    }
+}

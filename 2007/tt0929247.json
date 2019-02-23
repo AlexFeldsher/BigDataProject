@@ -1,0 +1,532 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Italy\n",
+                "date": "5 March 2007"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "6 May 2008",
+                "notes": "                            (DVD premiere)"
+            }
+        ],
+        "release dates": [
+            "Italy::5 March 2007",
+            "Netherlands::6 May 2008                            (DVD premiere)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Pompei"
+            },
+            {
+                "countries": "Finland",
+                "title": "Pompeiji - Hävitys"
+            },
+            {
+                "countries": "France",
+                "title": "Pompei"
+            },
+            {
+                "countries": "Germany (DVD title)",
+                "title": "Pompeji - Der Untergang"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Pompei - Egy város pusztulása"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Pompeia"
+            },
+            {
+                "countries": "Romania",
+                "title": "Imperiul: Pompei"
+            },
+            {
+                "countries": "Spain",
+                "title": "Pompeya"
+            },
+            {
+                "countries": "World-wide (English title) (long title)",
+                "title": "Imperium: Pompei"
+            }
+        ],
+        "akas": [
+            "Pompei (original title)",
+            "Pompeiji - Hävitys Finland",
+            "Pompei France",
+            "Pompeji - Der Untergang Germany (DVD title)",
+            "Pompei - Egy város pusztulása Hungary",
+            "Pompeia Portugal",
+            "Imperiul: Pompei Romania",
+            "Pompeya Spain",
+            "Imperium: Pompei World-wide (English title) (long title)"
+        ],
+        "akas from release info": [
+            "Pompei (original title)",
+            "Pompeiji - Hävitys Finland",
+            "Pompei France",
+            "Pompeji - Der Untergang Germany (DVD title)",
+            "Pompei - Egy város pusztulása Hungary",
+            "Pompeia Portugal",
+            "Imperiul: Pompei Romania",
+            "Pompeya Spain",
+            "Imperium: Pompei World-wide (English title) (long title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Fury",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Pompei (TV Mini-Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "5 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Temple of Ashes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Pompei (TV Mini-Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "6 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Crespi, Lorenzo"
+            },
+            {
+                "name": "Osvárt, Andrea"
+            },
+            {
+                "name": "Venturiello, Massimo"
+            },
+            {
+                "name": "Cucinotta, Maria Grazia"
+            },
+            {
+                "name": "Aiello, Maurizio"
+            },
+            {
+                "name": "Bucci, Fabrizio"
+            },
+            {
+                "name": "Volpentesta, Larissa"
+            },
+            {
+                "name": "Gemma, Giuliano"
+            },
+            {
+                "name": "Pannofino, Francesco"
+            },
+            {
+                "name": "Giuliani, Massimo"
+            },
+            {
+                "name": "Revel, Giulietta"
+            },
+            {
+                "name": "Fiorentini, Sergio"
+            },
+            {
+                "name": "Quattrini, Selvaggia"
+            },
+            {
+                "name": "Gammarota, Manrico"
+            },
+            {
+                "name": "Bocciarelli, Vincenzo"
+            },
+            {
+                "name": "Serrano, Antonio"
+            },
+            {
+                "name": "Base, Vittorio"
+            },
+            {
+                "name": "Barbuti, Gabriella"
+            },
+            {
+                "name": "Misasi, Diego Sebastian"
+            },
+            {
+                "name": "Di Fiore, Luigi"
+            },
+            {
+                "name": "Renzi, Lorenzo"
+            },
+            {
+                "name": "Carter, Todd"
+            },
+            {
+                "name": "De Sando, Stefano"
+            },
+            {
+                "name": "Ached, Med"
+            },
+            {
+                "name": "Base, Giulio"
+            },
+            {
+                "name": "Ameri, Lamia"
+            },
+            {
+                "name": "Arfaoui, Chedly"
+            },
+            {
+                "name": "Beji, Yadh"
+            },
+            {
+                "name": "Jemaa, Mohamed Ali Ben"
+            },
+            {
+                "name": "Dridi, Ameni"
+            },
+            {
+                "name": "Dridi, Wahida"
+            },
+            {
+                "name": "Graia, Med"
+            },
+            {
+                "name": "Mefiane, Ahmed"
+            },
+            {
+                "name": "Kouka, Med"
+            },
+            {
+                "name": "Mihoub, Nabil"
+            },
+            {
+                "name": "Nooman, Zied"
+            },
+            {
+                "name": "Taboubi, Mongia"
+            },
+            {
+                "name": "Touillier, Albane"
+            },
+            {
+                "name": "Riahi, Rym"
+            },
+            {
+                "name": "Rostom, Hichem"
+            },
+            {
+                "name": "Manicone, Francesca"
+            },
+            {
+                "name": "Brazil, Robert"
+            },
+            {
+                "name": "Brazil, Robert"
+            }
+        ],
+        "locations": [
+            "Empire Studios, Hammamet, Tunisia::(studio)",
+            "Monastir, Tunisia"
+        ],
+        "genres": [
+            "History",
+            "Romance"
+        ],
+        "countries": [
+            "Italy"
+        ],
+        "country codes": [
+            "it"
+        ],
+        "language codes": [
+            "it",
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.33 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "original air date": "05 Mar 2007 (Italy)",
+        "number of seasons": 1,
+        "rating": 4.4,
+        "votes": 180,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYjBlNDllZGQtMWFkOC00ZDEwLWI2OTktYWI0ZWQ2NmUwY2QxXkEyXkFqcGdeQXVyMzUxMDMwNw@@._V1_SX101_CR0,0,101,150_.jpg",
+        "budget": "EUR4,500,000 (estimated)",
+        "languages": [
+            "Italian",
+            "English"
+        ],
+        "title": "Pompei",
+        "year": 2007,
+        "kind": "tv mini series",
+        "series years": "2007-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Anghelé, Stefano"
+            },
+            {
+                "name": "Arlanch, Francesco"
+            },
+            {
+                "name": "Basile, Salvatore"
+            }
+        ],
+        "director": [
+            {
+                "name": "Base, Giulio"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Lux Vide"
+            },
+            {
+                "name": "Rai Fiction"
+            },
+            {
+                "name": "Rai Trade"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Dutch FilmWorks (DFW)"
+            },
+            {
+                "name": "Paragon Movies"
+            },
+            {
+                "name": "Rai 1"
+            },
+            {
+                "name": "Visionary Thinking"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Direct2Brain"
+            },
+            {
+                "name": "Studio 16"
+            },
+            {
+                "name": "Ghost SFX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Tunisian Ministry of Culture"
+            },
+            {
+                "name": "Tunisian Ministry of the Interior"
+            },
+            {
+                "name": "Tunisian Ministry of National Defence"
+            },
+            {
+                "name": "The Tunisian Ministry of Tourism"
+            },
+            {
+                "name": "Governorship of Nabeul"
+            },
+            {
+                "name": "Governorship of Monastir"
+            },
+            {
+                "name": "National Heritage Agency"
+            },
+            {
+                "name": "ATCE Tunisia"
+            },
+            {
+                "name": "SRTGN Nabeul"
+            },
+            {
+                "name": "Hertz"
+            },
+            {
+                "name": "Tunis Air"
+            },
+            {
+                "name": "Time Out Cinematografica"
+            },
+            {
+                "name": "Soundart"
+            },
+            {
+                "name": "Soundart"
+            },
+            {
+                "name": "Mix Studios"
+            },
+            {
+                "name": "Lux Vide"
+            },
+            {
+                "name": "Rai Trade"
+            },
+            {
+                "name": "Accademia D'Opera Italiana"
+            },
+            {
+                "name": "Studio Lead"
+            },
+            {
+                "name": "Studio Lead"
+            },
+            {
+                "name": "Augustus Color"
+            },
+            {
+                "name": "Kodak"
+            },
+            {
+                "name": "Lux Vide"
+            },
+            {
+                "name": "Mix Studios"
+            },
+            {
+                "name": "Lux Vide"
+            },
+            {
+                "name": "Marchegiani"
+            },
+            {
+                "name": "Cinetecnica"
+            },
+            {
+                "name": "Panalight"
+            },
+            {
+                "name": "R.E.C. Rental Equipment Cine TV"
+            },
+            {
+                "name": "Rochetti & Rochetti"
+            },
+            {
+                "name": "Templair"
+            },
+            {
+                "name": "Photo Movie"
+            },
+            {
+                "name": "Cinesicurtà"
+            },
+            {
+                "name": "Martinelli Film Company International"
+            },
+            {
+                "name": "Alberto Ferri S.r.l."
+            }
+        ],
+        "tech": {
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.33 : 1"
+            ],
+            "laboratory": [
+                "Augustus Color, Roma, Italy"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 180,
+                "rating": 4.4
+            },
+            "aged 18 29": {
+                "votes": 17,
+                "rating": 3.5
+            },
+            "aged 30 44": {
+                "votes": 66,
+                "rating": 4.5
+            },
+            "aged 45 plus": {
+                "votes": 57,
+                "rating": 4.4
+            },
+            "males": {
+                "votes": 116,
+                "rating": 4.3
+            },
+            "males aged 18 29": {
+                "votes": 12,
+                "rating": 3.4
+            },
+            "males aged 30 44": {
+                "votes": 55,
+                "rating": 4.5
+            },
+            "males aged 45 plus": {
+                "votes": 46,
+                "rating": 4.3
+            },
+            "females": {
+                "votes": 26,
+                "rating": 5.0
+            },
+            "females aged 18 29": {
+                "votes": 4,
+                "rating": 4.2
+            },
+            "females aged 30 44": {
+                "votes": 10,
+                "rating": 4.9
+            },
+            "females aged 45 plus": {
+                "votes": 11,
+                "rating": 5.1
+            },
+            "top 1000 voters": {
+                "votes": 14,
+                "rating": 3.5
+            },
+            "us users": {
+                "votes": 9,
+                "rating": 3.6
+            },
+            "non us users": {
+                "votes": 126,
+                "rating": 4.4
+            }
+        },
+        "number of votes": {
+            "10": 21,
+            "9": 5,
+            "8": 11,
+            "7": 10,
+            "6": 26,
+            "5": 21,
+            "4": 20,
+            "3": 22,
+            "2": 20,
+            "1": 24
+        },
+        "arithmetic mean": 4.9,
+        "median": 5
+    }
+}

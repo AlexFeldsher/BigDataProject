@@ -1,0 +1,2562 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "5 March 2007"
+            },
+            {
+                "country": "Japan\n",
+                "date": "8 April 2007"
+            },
+            {
+                "country": "Finland\n",
+                "date": "20 May 2007"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "15 June 2007"
+            },
+            {
+                "country": "Japan\n",
+                "date": "22 December 2007",
+                "notes": "                            (Shibuya)"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "3 November 2009",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "UK\n",
+                "date": "3 February 2014"
+            }
+        ],
+        "release dates": [
+            "UK::5 March 2007",
+            "Japan::8 April 2007",
+            "Finland::20 May 2007",
+            "Sweden::15 June 2007",
+            "Japan::22 December 2007                            (Shibuya)",
+            "Hungary::3 November 2009                            (DVD premiere)",
+            "UK::3 February 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Shaun the Sheep"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Shaun, o Carneiro"
+            },
+            {
+                "countries": "Denmark",
+                "title": "F for får"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Late Lamm"
+            },
+            {
+                "countries": "Finland",
+                "title": "Late Lammas"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Fåret Shaun"
+            },
+            {
+                "countries": "France",
+                "title": "Shaun le mouton"
+            },
+            {
+                "countries": "Germany",
+                "title": "Shaun das Schaf"
+            },
+            {
+                "countries": "Greece",
+                "title": "Σον, το πρόβατο"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Shaun, a bárány"
+            },
+            {
+                "countries": "Iceland",
+                "title": "Hrúturinn Hreinn"
+            },
+            {
+                "countries": "Norway",
+                "title": "Sauen Shaun"
+            },
+            {
+                "countries": "Poland",
+                "title": "Baranek Shaun"
+            },
+            {
+                "countries": "Portugal",
+                "title": "A Ovelha Choné"
+            },
+            {
+                "countries": "Romania",
+                "title": "Mielul Shaun"
+            },
+            {
+                "countries": "Russia",
+                "title": "Барашек Шон"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Ovčica Šon"
+            },
+            {
+                "countries": "Spain",
+                "title": "La oveja Shaun"
+            },
+            {
+                "countries": "Spain (Catalan title)",
+                "title": "El xai Shaun"
+            },
+            {
+                "countries": "Spain (Basque title)",
+                "title": "Shaun Arditxoa"
+            },
+            {
+                "countries": "Sweden",
+                "title": "Fåret Shaun"
+            },
+            {
+                "countries": "Turkey (Turkish title)",
+                "title": "Koyun Shaun"
+            },
+            {
+                "countries": "Ukraine",
+                "title": "Баранчик Шон"
+            },
+            {
+                "title": "Shaun the Sheep 4"
+            }
+        ],
+        "akas": [
+            "Shaun the Sheep (original title)",
+            "Shaun, o Carneiro Brazil",
+            "F for får Denmark",
+            "Late Lamm Finland (Swedish title)",
+            "Late Lammas Finland",
+            "Fåret Shaun Finland (Swedish title)",
+            "Shaun le mouton France",
+            "Shaun das Schaf Germany",
+            "Σον, το πρόβατο Greece",
+            "Shaun, a bárány Hungary",
+            "Hrúturinn Hreinn Iceland",
+            "Sauen Shaun Norway",
+            "Baranek Shaun Poland",
+            "A Ovelha Choné Portugal",
+            "Mielul Shaun Romania",
+            "Барашек Шон Russia",
+            "Ovčica Šon Serbia",
+            "La oveja Shaun Spain",
+            "El xai Shaun Spain (Catalan title)",
+            "Shaun Arditxoa Spain (Basque title)",
+            "Fåret Shaun Sweden",
+            "Koyun Shaun Turkey (Turkish title)",
+            "Баранчик Шон Ukraine",
+            "Shaun the Sheep 4 "
+        ],
+        "akas from release info": [
+            "Shaun the Sheep (original title)",
+            "Shaun, o Carneiro Brazil",
+            "F for får Denmark",
+            "Late Lamm Finland (Swedish title)",
+            "Late Lammas Finland",
+            "Fåret Shaun Finland (Swedish title)",
+            "Shaun le mouton France",
+            "Shaun das Schaf Germany",
+            "Σον, το πρόβατο Greece",
+            "Shaun, a bárány Hungary",
+            "Hrúturinn Hreinn Iceland",
+            "Sauen Shaun Norway",
+            "Baranek Shaun Poland",
+            "A Ovelha Choné Portugal",
+            "Mielul Shaun Romania",
+            "Барашек Шон Russia",
+            "Ovčica Šon Serbia",
+            "La oveja Shaun Spain",
+            "El xai Shaun Spain (Catalan title)",
+            "Shaun Arditxoa Spain (Basque title)",
+            "Fåret Shaun Sweden",
+            "Koyun Shaun Turkey (Turkish title)",
+            "Баранчик Шон Ukraine",
+            "Shaun the Sheep 4 "
+        ],
+        "episodes": {
+            "5": {
+                "1": {
+                    "title": "Out of Order",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 1,
+                    "votes": 18,
+                    "original air date": "5 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    When the farmer gets stuck in the Loo, Bitzer has to get vital supplies to him as a matter of urgency. His is initial efforts end in failure and he drafts in Shaun and the gang to help out.    "
+                },
+                "2": {
+                    "title": "Karma Farmer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 2,
+                    "votes": 18,
+                    "original air date": "6 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    The Farmer is stressed out and has had enough of the farm and it's inhabitants. He storms off for a break, suitcase in hand, only to reappear almost immediately, the same, but somehow different. The farm is transformed into a hippy commune where work and chores are abolished and the animals are encouraged to express themselves.    "
+                },
+                "3": {
+                    "title": "Spoilsport",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 3,
+                    "votes": 14,
+                    "original air date": "12 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Shaun persuades Bitzer to take part in his game of Cricket but Bitzer is more worried about the condition of the pitch than the game. The resident moles, unhappy at the game taking place above their head get involved in a tit for tat with Bitzer which soon escalates to full scale war    "
+                },
+                "4": {
+                    "title": "Baad Hair Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 4,
+                    "votes": 12,
+                    "original air date": "8 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    The flock don't recognise Shaun when he loses one his most distinctive features. His old pal Bitzer helps him track down the lost thatch, but not before Shaun becomes very attached to one of the chickens    "
+                },
+                "5": {
+                    "title": "The Farmers Nephew",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 5,
+                    "votes": 13,
+                    "original air date": "9 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Bitzer is left with a mountain of work when the farmer is rendered incapable. Enter the farmhand who is more interested in his mobile phone than getting the task done. Shaun and Flock ensure that their friend Bitzer gets his own 'down time'    "
+                },
+                "6": {
+                    "title": "Babysitter Bitzer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 6,
+                    "votes": 13,
+                    "original air date": "12 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    The flock are off for a girls night night leaving Bitzer to Babysit Timmy. It's not long before the youngster makes clear who's in charge.    "
+                },
+                "7": {
+                    "title": "Dodgy Lodger",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 7,
+                    "votes": 14,
+                    "original air date": "13 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    When one of the pigs attempts to make friends with Timmy, his cohort evict him as punishment for un-pig-like behaviour. The sheep take him into the barn, and attempt to transform him into the epitome of porcine sophistication, but do they really know who they have invited into their home?    "
+                },
+                "8": {
+                    "title": "Dangerous Deliveries",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 8,
+                    "votes": 14,
+                    "original air date": "14 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Shaun decides to take on the role of Bitzer's therapist - with disastrous consequences.    "
+                },
+                "9": {
+                    "title": "Timmy and the Dragon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 9,
+                    "votes": 16,
+                    "original air date": "15 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Bitzer, Shaun and Flock are convinced that a monster is at loose on the farm and hide in the barn. But what exactly is it they are afraid of?    "
+                },
+                "10": {
+                    "title": "Bitzer's New Whistle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 10,
+                    "votes": 13,
+                    "original air date": "16 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Bitzer thinks the future has arrived when he takes delivery of his new high tech farmyard control module but when the gadget malfunctions, Bitzer is left wishing for his old whistle    "
+                },
+                "11": {
+                    "title": "Turf Wars",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 11,
+                    "votes": 17,
+                    "original air date": "6 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Battle ensues when the pigs muscle in on Shaun's private club and steal all the pizza. Shaun, Bitzer and the flock mount a rescue mission for Timmy who the pigs have taken hostage    "
+                },
+                "12": {
+                    "title": "A Prickly Problem",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 12,
+                    "votes": 16,
+                    "original air date": "8 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Timmy decides to helps the hedghogs find a resting place for the night. His efforts, however, lead his weary friends into a series a scrapes rather than giving them a good night's sleep.    "
+                },
+                "13": {
+                    "title": "Wanted",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 13,
+                    "votes": 15,
+                    "original air date": "8 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    The farm is paid an unexpected visit from an escapee from the nearby prison who takes refuge in the Barn. After a short while with Shaun and the gang, though, prison doesn't seem such a bad option    "
+                },
+                "14": {
+                    "title": "Rude Dude",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 14,
+                    "votes": 14,
+                    "original air date": "11 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    An arrogant rock musician beloved by the Farmer gets stranded at the farm.    "
+                },
+                "15": {
+                    "title": "Keeping the Peace",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 15,
+                    "votes": 14,
+                    "original air date": "11 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    The farmer decides to have a lie in and Bitzer endeavors to allow him to have his lie in.    "
+                },
+                "16": {
+                    "title": "Happy Farmer's Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 16,
+                    "votes": 12,
+                    "original air date": "14 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    When Bitzer's pie goes missing, Bitzer makes the mistake of accepting Shaun's help.    "
+                },
+                "17": {
+                    "title": "Checklist",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 17,
+                    "votes": 13,
+                    "original air date": "15 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Bitzer over-officious management style becomes too much for the sheep who decide it's time for him to chill out. Bitzer's tasks for the day take on a new purpose, for everyone to have some fun!    "
+                },
+                "18": {
+                    "title": "Return to Sender",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 18,
+                    "votes": 16,
+                    "original air date": "16 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    The farmer receives a mystery gift from his antipodean cousin. Unimpressed with the present, he attempts to throw it away only for it to keep reappearing. He becomes convinced it has magical powers    "
+                },
+                "19": {
+                    "title": "Cone of Shame",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 19,
+                    "votes": 14,
+                    "original air date": "17 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Bitzer is an all too willing invalid when he has to wear the cone of shame and is happy to let the flock wait on him. That is, until Shaun rumbles his malingering and plots the pooch's comeuppance    "
+                },
+                "20": {
+                    "title": "Sheep Farmer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 20,
+                    "votes": 14,
+                    "original air date": "18 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Timmy sees a particularly grumpy farmer giving one of the flock a hard time.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Off the Baa!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 168,
+                    "original air date": "5 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    The flock play a game of football with a cabbage.    "
+                },
+                "2": {
+                    "title": "Bathtime",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 121,
+                    "original air date": "5 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    The flock seek out hot water for their bath.    "
+                },
+                "3": {
+                    "title": "Shape Up with Shaun",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 116,
+                    "original air date": "7 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    The flock helps Shirley get in shape.    "
+                },
+                "4": {
+                    "title": "Timmy in a Tizzy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 110,
+                    "original air date": "8 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Baby Timmy is in a tizzy over his missing teddy bear.    "
+                },
+                "5": {
+                    "title": "Scrumping",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 102,
+                    "original air date": "9 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    The sheep try to get apples from the the tree in the pig's pen.    "
+                },
+                "6": {
+                    "title": "Still Life",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 99,
+                    "original air date": "12 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    The sheep help the farmer paint a picture.    "
+                },
+                "7": {
+                    "title": "Mower Mouth",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 114,
+                    "original air date": "13 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    A goat joins the flock.    "
+                },
+                "8": {
+                    "title": "Take Away",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 101,
+                    "original air date": "14 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    The sheep get take out pizza.    "
+                },
+                "9": {
+                    "title": "The Bull",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 102,
+                    "original air date": "15 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    5 The Bull - When a bull wanders into the sheep's field, Shaun finds out it's a bad idea to make him 'see red'. But then the Naughty Pigs pour some red paint into the sheep dip... 14 Scrumping - Shaun's attempts to get his hands on some apples from a tree overhanging the Naughty Pigs' yard soon escalates into all-out war between sheep and pigs. 15 Saturday Night Shaun - Shaun finds the Farmer's old record player on the dump and organizes a rave in the barn. But trouble looms when the Naughty Pigs gate-crash the party...    "
+                },
+                "10": {
+                    "title": "Saturday Night Shaun",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 95,
+                    "original air date": "16 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Shaun uses the Farmer's old record player for a dance party. The pigs interrupt the party, annoying Bitzer.    "
+                },
+                "11": {
+                    "title": "The Kite",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 92,
+                    "original air date": "12 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    The flock has fun with a kite that has come into the field.    "
+                },
+                "12": {
+                    "title": "Little Sheep of Horrors",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 103,
+                    "original air date": "12 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Timmy ventures into the Farmer's house to watch a horror movie. The sheep collaborate to fetch Timmy home, mystifying the Farmer.    "
+                },
+                "13": {
+                    "title": "Buzz Off Bees",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 91,
+                    "original air date": "13 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    The sheep discover a mysterious buzzing object in their field. Shaun investigates and finds it's full of bees, who make the flock's life a misery.    "
+                },
+                "14": {
+                    "title": "Fleeced",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 78,
+                    "original air date": "11 May 2008",
+                    "year": "2008",
+                    "plot": "\n    It is haircut day for the flock, but the Farmer's styling attempts inspire the flock to make a break for it.    "
+                },
+                "15": {
+                    "title": "Shaun Shoots the Sheep",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 90,
+                    "original air date": "14 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    The sheep have fun with an instant camera.    "
+                },
+                "16": {
+                    "title": "Big Top Timmy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 90,
+                    "original air date": "14 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    The sheep visit a carnival in the next field.    "
+                },
+                "17": {
+                    "title": "Fetching",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 80,
+                    "original air date": "15 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Bitzer's infatuation with a female dog distracts him from minding the rowdy flock. Shaun tries to get Bitzer to focus.    "
+                },
+                "18": {
+                    "title": "Mountains Out of Molehills",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 78,
+                    "original air date": "15 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    The sheep have a mole problem.    "
+                },
+                "19": {
+                    "title": "Who's the Mummy?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 86,
+                    "original air date": "16 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    A quartet of chick hatchlings bond to Shaun, thinking he's their mother. After a while, Shaun can't get rid of them fast enough.    "
+                },
+                "20": {
+                    "title": "Things That Go Bump",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 78,
+                    "original air date": "16 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Bumps in the night disturb the flock's sleep. Shaun and Bitzer investigate, and the culprits are soon discovered.    "
+                },
+                "21": {
+                    "title": "Abracadabra",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "votes": 81,
+                    "original air date": "13 Jan. 2008",
+                    "year": "2008",
+                    "plot": "\n    The farmer throws away his old magic set.    "
+                },
+                "22": {
+                    "title": "Sheep on the Loose",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "votes": 69,
+                    "original air date": "3 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    The sheep go for a day out.    "
+                },
+                "23": {
+                    "title": "Washday",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 23,
+                    "votes": 68,
+                    "original air date": "4 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    The farmer does his weekly wash.    "
+                },
+                "24": {
+                    "title": "The Visitor",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 24,
+                    "votes": 70,
+                    "original air date": "4 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    The sheep get an out of this world visitor.    "
+                },
+                "25": {
+                    "title": "Shaun the Farmer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 25,
+                    "votes": 71,
+                    "original air date": "5 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    The Farmer has a cold, so Shaun takes over.    "
+                },
+                "26": {
+                    "title": "Tooth Fairy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 26,
+                    "votes": 65,
+                    "original air date": "5 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    Bitzer has a poorly tooth.    "
+                },
+                "27": {
+                    "title": "Bitzer Puts His Foot in It",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 27,
+                    "votes": 65,
+                    "original air date": "6 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    The Farmer wants to build a new shed.    "
+                },
+                "28": {
+                    "title": "Hiccups",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 28,
+                    "votes": 75,
+                    "original air date": "6 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    Shirley gets the hiccups.    "
+                },
+                "29": {
+                    "title": "If You Can't Stand the Heat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 29,
+                    "votes": 67,
+                    "original air date": "18 May 2008",
+                    "year": "2008",
+                    "plot": "\n    It's a hot summers day.    "
+                },
+                "30": {
+                    "title": "Sheepwalking",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 30,
+                    "votes": 77,
+                    "original air date": "23 Aug. 2008",
+                    "year": "2008",
+                    "plot": "\n    Shaun walks in his sleep.    "
+                },
+                "31": {
+                    "title": "Tidy Up",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 31,
+                    "votes": 67,
+                    "original air date": "13 Apr. 2008",
+                    "year": "2008",
+                    "plot": "\n    There is a mess in the field.    "
+                },
+                "32": {
+                    "title": "The Farmer's Niece",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 32,
+                    "votes": 72,
+                    "original air date": "10 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    A visitor comes to play.    "
+                },
+                "33": {
+                    "title": "Camping Chaos",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 33,
+                    "votes": 74,
+                    "original air date": "11 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    The field has another inhabitant.    "
+                },
+                "34": {
+                    "title": "Helping Hound",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 34,
+                    "votes": 66,
+                    "original air date": "20 Apr. 2008",
+                    "year": "2008",
+                    "plot": "\n    Bitzer gets a hand.    "
+                },
+                "35": {
+                    "title": "Troublesome Tractor",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 35,
+                    "votes": 71,
+                    "original air date": "12 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    The Farmer has mechanical problems.    "
+                },
+                "36": {
+                    "title": "Stick with Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 36,
+                    "votes": 71,
+                    "original air date": "30 Mar. 2008",
+                    "year": "2008",
+                    "plot": "\n    The Farmer breaks his glasses.    "
+                },
+                "37": {
+                    "title": "Heavy Metal Shaun",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 37,
+                    "votes": 73,
+                    "original air date": "13 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    The Farmer gets a new metal detector.    "
+                },
+                "38": {
+                    "title": "Snore Worn Shaun",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 38,
+                    "votes": 74,
+                    "original air date": "27 Apr. 2008",
+                    "year": "2008",
+                    "plot": "\n    Shaun is kept awake by Shirley's snoring.    "
+                },
+                "39": {
+                    "title": "Shaun Encounters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 39,
+                    "votes": 62,
+                    "original air date": "14 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    When a strange space craft crash-lands on the farm, Shaun and co. help its little green occupant get air-borne again./ When the Farmer decides to throw out his magic set, Shaun decides to put on a show Â- but things get out of hand when the flock start disappearing./ Two alien kids land at the farm one night and run riot. Can Shaun and Bitzer stop them before they wake the Farmer.    "
+                },
+                "40": {
+                    "title": "Save the Tree",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 40,
+                    "votes": 66,
+                    "original air date": "16 Mar. 2008",
+                    "year": "2008",
+                    "plot": "\n    The Farmer wants to chop down the tree.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Double Trouble",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 58,
+                    "original air date": "23 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    Shaun dresses up as the farmer.    "
+                },
+                "2": {
+                    "title": "Draw the Line",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 48,
+                    "original air date": "24 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    The flock hijack a road line-painting machine and cause chaos while creating giant works of art in the field. However, will farmer appreciate their art?    "
+                },
+                "3": {
+                    "title": "Sheepless Nights",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 48,
+                    "original air date": "25 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    A leak in the barn roof sends the sheep to bunk with the pigs.    "
+                },
+                "4": {
+                    "title": "Spring Lamb",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 53,
+                    "original air date": "26 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    Shaun must catch a springy Timmy.    "
+                },
+                "5": {
+                    "title": "Strictly No Dancing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 48,
+                    "original air date": "27 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    The farmer takes up dancing.    "
+                },
+                "6": {
+                    "title": "Who's the Caddy?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 43,
+                    "original air date": "30 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    The sheep play a round of golf.    "
+                },
+                "7": {
+                    "title": "Hair Today, Gone Tomorrow",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 46,
+                    "original air date": "1 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    Shaun borrows the farmer's hairpiece, with unfortunate results.    "
+                },
+                "8": {
+                    "title": "Bagpipe Buddy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 45,
+                    "original air date": "2 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    The sheep find a bagpipe that they believe is a sick bird.    "
+                },
+                "9": {
+                    "title": "Supersize Timmy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 47,
+                    "original air date": "3 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    Timmy gets super-big after eating a tomato grown with special fertilizer.    "
+                },
+                "10": {
+                    "title": "Lock Out",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 47,
+                    "original air date": "4 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    The farmer gets locked out of the house.    "
+                },
+                "11": {
+                    "title": "Cheetah Cheater",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 43,
+                    "original air date": "7 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    11 Cheetah CheaterA wildlife film inspires Pidsley the cat to play a prank on the flock by disguising himself as a leopard. Shaun is convinced there is a huge beast on the loose and concocts a plan to catch it.21 The BoatThe Farmer gets Bitzer to help him renovate an old boat, but as soon as his back is turned the sheep and pigs turn the refurbishment into a swashbuckling game of pirates.31 The MagpieA magpie has nested in the big tree and is causing chaos by stealing everything around the farm. The magpie's nest soon begins to fill up with loot and Shaun has to come ...    "
+                },
+                "12": {
+                    "title": "Ewe've Been Framed",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 42,
+                    "original air date": "8 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    12 Ewe've Been FramedWhen Shaun accidentally breaks the Farmer's glasses, he and Bitzer have their work cut out trying to prevent their short-sighted master from having mishaps around the farm. Things get a little hair-raising for the flock before Shaun manages to replace the smashed up spectacles.32 Operation PidsleyWhile the farmer is away on a night out, the sheep sneak into the farmhouse for a party. But when Pidsley snaps a photograph of the fun and games, Shaun and Bitzer need to catch the malicious cat before he can show the incriminating evidence to the Farmer...    "
+                },
+                "13": {
+                    "title": "Bitzer's New Hat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 43,
+                    "original air date": "9 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    The Farmer gives Bitzer a horrible new hat. Bitzer is very upset as he treasured his old hat. The flock rally round to try and cheer him up with a selection of dashing alternative head-gear. Meanwhile, Shaun heads off on an adventure to find out what the Farmer did with the old one.    "
+                },
+                "14": {
+                    "title": "Hide and Squeak",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "votes": 39,
+                    "original air date": "10 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    A cute mouse appears in the farmhouse and terrorises the Farmer. Pidsley the cat is ordered to dispose of the rodent. When the mouse takes refuge in Shaun's fleece, the flock persuade him to protect their new friend from the pitiless cat.    "
+                },
+                "15": {
+                    "title": "Frantic Romantic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "votes": 46,
+                    "original air date": "11 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    The farmer tries to impress his new girlfriend with dinner at the farm.    "
+                },
+                "16": {
+                    "title": "Everything Must Go",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 16,
+                    "votes": 42,
+                    "original air date": "14 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    The Farmer has set up a stall by the side of the road, selling produce from the garden. He leaves Bitzer in charge for the day. But lazy Bitzer soon gets bored and gives Shaun the job while he puts his feet up by the pool. Shaun proves to be a much better salesman than Bitzer and flock are only too happy to get stuck in, selling pretty much all the Farmer's worldly possessions!    "
+                },
+                "17": {
+                    "title": "Party Animals",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 17,
+                    "votes": 52,
+                    "original air date": "15 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    The Farmer is throwing a fancy-dress house party for his birthday. Bitzer is entrusted with posting the invites but fools around on the way to the post box and loses them all! Shaun saves the day again - disguised in their own ingenious costumes, the sheep stand in as the guests and have a right old knees-up. But can they fool the Farmer into believing he is surrounded by his friends?    "
+                },
+                "18": {
+                    "title": "Cat Got Your Brain?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 18,
+                    "votes": 40,
+                    "original air date": "16 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    Two bungling alien scientists transport Pidsley and Shaun aboard their flying saucer. Unfortunately, a foolish error causes the aliens to swap the animal's brains around. Shaun and Pidsley are dumped back to Earth, not realising they are in the wrong bodies - leading to much confusion around the farm before the aliens return to correct their mistake.    "
+                },
+                "19": {
+                    "title": "Two's Company",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 19,
+                    "votes": 47,
+                    "original air date": "17 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    A bedraggled new sheep lands amongst the flock. After a wash in the sheep dip, the new comer turns out to be quite attractive and Shaun immediately falls head over hoof for her. The flock are kept amused by Shaun's romantic antics, while Bitzer goes on a journey to find her rightful owner.    "
+                },
+                "20": {
+                    "title": "In the Doghouse",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 20,
+                    "votes": 38,
+                    "original air date": "18 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    When Bitzer's kennel is accidentally destroyed, he hopes the Farmer will replace it with a new deluxe model. But when he sees his master's clumsy attempt to build a new kennel, Bitzer is so horrified he packs his bags and leaves home. Shaun hopes to tempt Bitzer to return with the kennel of his dreams.    "
+                },
+                "21": {
+                    "title": "The Boat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 21,
+                    "votes": 33,
+                    "original air date": "17 May 2010",
+                    "year": "2010",
+                    "plot": "\n    The Farmer gets Bitzer to help him renovate an old boat, but as soon as his back is turned the sheep and pigs turn the refurbishment into a swashbuckling game of pirates.    "
+                },
+                "22": {
+                    "title": "What's Up, Dog?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 22,
+                    "votes": 34,
+                    "original air date": "18 May 2010",
+                    "year": "2010",
+                    "plot": "\n    A wayward balloonist lands in the sheep's field. Shaun and his friends are intrigued by the hot air balloon and inadvertently take to the skies. Down on the ground an ever more desperate Bitzer runs himself ragged attempting to bring the wayward sheep back down to Earth safely.    "
+                },
+                "23": {
+                    "title": "Cock a Doodle Shaun",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 23,
+                    "votes": 33,
+                    "original air date": "19 May 2010",
+                    "year": "2010",
+                    "plot": "\n    The cockerel is missing and there's no one to wake up the farm. When Shaun discovers the cockerel has been snatched by the greedy fox, he sets off with Bitzer on a daring rescue mission. Will they get the cockerel back in time to wake up the rest of the farm?    "
+                },
+                "24": {
+                    "title": "Bitzer's Basic Training",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 24,
+                    "votes": 34,
+                    "original air date": "20 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Bitzer thinks The Farmer is planning to replace him, so Shaun helps to knock his friend into shape. Unfortunately Bitzer goes completely over the top with his training regime and starts running the farm with military precision driving everyone crazy.    "
+                },
+                "25": {
+                    "title": "Chip Off the Old Block",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 25,
+                    "votes": 33,
+                    "original air date": "21 May 2010",
+                    "year": "2010",
+                    "plot": "\n    The farmer drops a slab of stone on Timmy's teddy. Shaun and the flock must recover the toy.    "
+                },
+                "26": {
+                    "title": "Pig Trouble",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 26,
+                    "votes": 29,
+                    "original air date": "2010",
+                    "year": "2010",
+                    "plot": "\n    The farmer lets the pigs run the farm, which upsets the sheep. Shaun puts things right.    "
+                },
+                "27": {
+                    "title": "Bitzer from the Black Lagoon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 27,
+                    "votes": 34,
+                    "original air date": "4 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    Bitzer falls into a pond and comes out covered in mud. Shaun thinks it is an attacking monster.    "
+                },
+                "28": {
+                    "title": "Zebra Ducks of the Serengeti",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 28,
+                    "votes": 34,
+                    "original air date": "12 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    Two ducks get covered in soot and are mistaken for rare African Zebra Ducks.    "
+                },
+                "29": {
+                    "title": "Whistleblower",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 29,
+                    "votes": 33,
+                    "original air date": "18 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    Bitzer loses his precious whistle and tests out a trumpet as a replacement. The noise drives the flock insane.    "
+                },
+                "30": {
+                    "title": "The Big Chase",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 30,
+                    "votes": 76,
+                    "original air date": "28 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Timmy drives off on the farmer's new quad bike; Shaun and the flock give chase to return it before the farmer finds out.    "
+                },
+                "31": {
+                    "title": "The Magpie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 31,
+                    "votes": 38,
+                    "original air date": "1 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    A magpie has built a nest in the big tree and is stealing items around the farm and keeping them in the nest.    "
+                },
+                "32": {
+                    "title": "Operation Pidsley",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 32,
+                    "votes": 34,
+                    "original air date": "7 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    Pidsley films the flock having a party in the farmer's house. Shaun and Bitzer must stop him showing the pictures to the farmer.    "
+                },
+                "33": {
+                    "title": "Pigs Swill Fly",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 33,
+                    "votes": 32,
+                    "original air date": "8 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    A fight breaks out between the pigs and the sheep just as the farm inspector is visiting.    "
+                },
+                "34": {
+                    "title": "Shirley Whirley",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 34,
+                    "votes": 37,
+                    "original air date": "9 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    Overweight sheep Shirley is given wheels so Shaun can move her around easily, but the farmers TV remote interferes with the signal.    "
+                },
+                "35": {
+                    "title": "Foxy Laddie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 35,
+                    "votes": 36,
+                    "original air date": "10 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    A fox arrives at the farm intent on eating Timmy. It disguises itself as a ram but Shaun sees through the disguise, and the fox gets its just desserts.    "
+                },
+                "36": {
+                    "title": "Shaun Goes Potty",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 36,
+                    "votes": 33,
+                    "original air date": "18 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    The farmer has a new pool table, but Shaun, Bitzer and the flock play on it and accidentally damage it.    "
+                },
+                "37": {
+                    "title": "An Ill Wind",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 37,
+                    "votes": 39,
+                    "original air date": "14 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    The farmer builds his own wind turbine to reduce his electricity bill. Shaun an the flock turn it into a fairground ride and wreck it in the process.    "
+                },
+                "38": {
+                    "title": "Fireside Favourite",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 38,
+                    "votes": 33,
+                    "original air date": "15 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    Bitzer has a cold so is indoors in front of the fire; the cat Pidsley is outraged his warm spot has been taken.    "
+                },
+                "39": {
+                    "title": "Snowed In",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 39,
+                    "votes": 34,
+                    "original air date": "16 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    It has snowed heavily overnight. The sheep have a massive snowball fight while the farmer is trapped in the farmhouse by a snowdrift.    "
+                },
+                "40": {
+                    "title": "We Wish Ewe a Merry Christmas",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 40,
+                    "votes": 55,
+                    "original air date": "17 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    The animals decorate the farmhouse to cheer up the farmer who will be alone for Christmas.    "
+                }
+            },
+            "3": {
+                "0": {
+                    "title": "Championsheeps",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 0,
+                    "votes": 23,
+                    "original air date": "Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    Life on the farm becomes a hive of athletic activity as Shaun and friends stage their very own sporting extravaganza. In heroic style Shaun, Bitzer and friends compete for victory in 21 events; twirling, racing, bouncing, diving & leaping to success whenever the FarmerâEUR(TM)s back is turned.    "
+                },
+                "1": {
+                    "title": "The Stand Off",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 32,
+                    "original air date": "25 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    A traffic jam occurs on the road and Shaun and the flock can't get past. Bitzer decides to let them walk through a truck, but they don't come out the other side.    "
+                },
+                "2": {
+                    "title": "The Coconut",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 29,
+                    "original air date": "2 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    The farmer wins a coconut from a carnival. Shaun and Bitzer get their hands on it and attempt to crack it open.    "
+                },
+                "3": {
+                    "title": "The Shepherd",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 28,
+                    "original air date": "3 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    The farmer enters a shepherd contest to try and earn a trophy. Will Timmy's interfering stop him from winning?    "
+                },
+                "4": {
+                    "title": "You Missed a Bit",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 28,
+                    "original air date": "4 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Window-cleaning proves to be a lot harder than it's thought to be for Shaun and Bitzer.    "
+                },
+                "5": {
+                    "title": "Let's Spray",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 31,
+                    "original air date": "7 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Graffiti art gets Bitzer into trouble.    "
+                },
+                "6": {
+                    "title": "The Crow",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 29,
+                    "original air date": "8 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    A crow in the barn prevents Shaun and the flock from sleeping.    "
+                },
+                "7": {
+                    "title": "Shaun the Fugitive",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 27,
+                    "original air date": "9 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    After Shaun is caught eating cakes, an engineer arrives. Shaun thinks he's after him, so he goes into hiding. Will he survive?    "
+                },
+                "8": {
+                    "title": "Hard to Swallow",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 27,
+                    "original air date": "10 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Shaun quits baaing but goes quacking today.    "
+                },
+                "9": {
+                    "title": "Mission Inboxible",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 30,
+                    "original air date": "11 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    The Farmer is engrossed in trying to set up his new computer. The Flock take the opportunity of his back being turned to have a game of football. When the ball accidentally lands inside the farmhouse, under the nose of The Farmer, Shaun comes up with an ingenious disguise to help him retrieve it.    "
+                },
+                "10": {
+                    "title": "Bye Bye Barn",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 31,
+                    "original air date": "14 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Shaun and The Flock discover that The Farmer has grand plans for their barn - that don't include them. Drastic action is needed if life on the farm is ever going to be the same again.    "
+                },
+                "11": {
+                    "title": "The Rounders Match",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 11,
+                    "votes": 25,
+                    "original air date": "15 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Tensions are high during a game of rounders.    "
+                },
+                "12": {
+                    "title": "Film Night",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 12,
+                    "votes": 27,
+                    "original air date": "11 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Shaun and Bitzer watch clips from old episodes.    "
+                },
+                "13": {
+                    "title": "Fossils",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 13,
+                    "votes": 33,
+                    "original air date": "17 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Shaun and the flock help Bitzer put together hidden treasure.    "
+                },
+                "14": {
+                    "title": "The Skateboard",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 14,
+                    "votes": 25,
+                    "original air date": "18 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Shaun decides he wants to have a go at skateboarding - and of course there's trouble.    "
+                },
+                "15": {
+                    "title": "The Piano",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 15,
+                    "votes": 28,
+                    "original air date": "21 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    The Farmer is playing the piano and torturing everyone with his musical inability. When The Flock discover that Bitzer on the other hand is a virtuoso they decide it's time for a party. They devise a plan to 'borrow' the piano when The Farmer goes to bed - however things don't quite go to plan .    "
+                },
+                "16": {
+                    "title": "The Snapshot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 16,
+                    "votes": 28,
+                    "original air date": "22 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Shaun is accidentally cut out of the Farmer's family photo.    "
+                },
+                "17": {
+                    "title": "Prickly Heat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 17,
+                    "votes": 27,
+                    "original air date": "18 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    It is a scorching hot day on the farm and the flock need to cool off, but can't go into the sheep dip. Bitzer finds an inflatable swimming pool, and then must help keep the Farmer cool, leading the flock to investigate the swimming pool.    "
+                },
+                "18": {
+                    "title": "The Hang Glider",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 18,
+                    "votes": 27,
+                    "original air date": "24 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    The Farmer has a thrilling new hobby - however it's not as easy as it looks. When The Farmer gets stuck in a tree Bitzer comes to his rescue, leaving Shaun and The Flock to get to grips with the airborne contraption.    "
+                },
+                "19": {
+                    "title": "The Shadow Play",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 19,
+                    "votes": 28,
+                    "original air date": "25 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    After failing to comfort an upset Timmy, the shadow puppet crew spring into action.    "
+                },
+                "20": {
+                    "title": "Bull vs. Wool",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 20,
+                    "votes": 30,
+                    "original air date": "21 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Bitzer's antics with a red napkin at a picnic attract the attention of the bull.    "
+                }
+            },
+            "4": {
+                "1": {
+                    "title": "Cones",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "votes": 41,
+                    "original air date": "3 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    The flock divert an ice cream van into their field.    "
+                },
+                "2": {
+                    "title": "Caught Short Alien",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "votes": 26,
+                    "original air date": "4 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Shaun's old friend the Alien drops by for a loo break.    "
+                },
+                "3": {
+                    "title": "Happy Birthday Timmy!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "votes": 31,
+                    "original air date": "5 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    It's Timmy's birthday and the flock throw him a party.    "
+                },
+                "4": {
+                    "title": "The Genie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 4,
+                    "votes": 26,
+                    "original air date": "6 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Shaun dreams of a life in the fast-lane.    "
+                },
+                "5": {
+                    "title": "3DTV",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 5,
+                    "votes": 39,
+                    "original air date": "7 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Farmer is very excited by his new purchase - a 3D TV.    "
+                },
+                "6": {
+                    "title": "The Smelly Farmer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 6,
+                    "votes": 25,
+                    "original air date": "10 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Shaun, Bitzer and the flock decide to give the Farmer a wash.    "
+                },
+                "7": {
+                    "title": "DIY",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 7,
+                    "votes": 24,
+                    "original air date": "11 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Bitzer is left in charge of decorating and calls on the flock for help.    "
+                },
+                "8": {
+                    "title": "The Rabbit",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 8,
+                    "votes": 25,
+                    "original air date": "12 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Farmer's niece has come to visit, bringing her precious pet rabbit.    "
+                },
+                "9": {
+                    "title": "Prize Possession",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 9,
+                    "votes": 26,
+                    "original air date": "13 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Farmer can't believe his luck - he has a winning ticket.    "
+                },
+                "10": {
+                    "title": "The Spider",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 10,
+                    "votes": 26,
+                    "original air date": "14 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Bitzer's plans are rudely disturbed by a persistent insect.    "
+                },
+                "11": {
+                    "title": "The Looney Tic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 11,
+                    "votes": 27,
+                    "original air date": "17 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Shaun tries to find out what is causing Bitzer and the flock's strange behaviour.    "
+                },
+                "12": {
+                    "title": "Men at Work",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 12,
+                    "votes": 25,
+                    "original air date": "18 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Flock have some fun with a water leak.    "
+                },
+                "13": {
+                    "title": "The Dog Show",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 13,
+                    "votes": 26,
+                    "original air date": "19 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Farmer enters Bitzer in a dog show.    "
+                },
+                "14": {
+                    "title": "Missing Piece",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 14,
+                    "votes": 27,
+                    "original air date": "20 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Shaun comes across a discarded jigsaw puzzle.    "
+                },
+                "15": {
+                    "title": "Wildlife Watch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 15,
+                    "votes": 25,
+                    "original air date": "21 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    A film crew arrives to record a rare bird.    "
+                },
+                "16": {
+                    "title": "The Pelican",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 16,
+                    "votes": 24,
+                    "original air date": "24 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    An unusual guest lands on the farm.    "
+                },
+                "17": {
+                    "title": "Bad Boy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 17,
+                    "votes": 23,
+                    "original air date": "25 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    There's a new kid on the block and he's up to no good.    "
+                },
+                "18": {
+                    "title": "Remote Control",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 18,
+                    "votes": 23,
+                    "original air date": "26 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Bitzer is sent to fix the faulty TV aerial and asks the flock for help.    "
+                },
+                "19": {
+                    "title": "Phoney Farmer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 19,
+                    "votes": 24,
+                    "original air date": "27 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Farmer is off on holiday, but his replacement is only interested in himself.    "
+                },
+                "20": {
+                    "title": "Ground Dog Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 20,
+                    "votes": 24,
+                    "original air date": "21 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Bitzer struggles to finish his list of chores before the ice cream van arrives.    "
+                },
+                "21": {
+                    "title": "The Intruder",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 21,
+                    "votes": 19,
+                    "original air date": "8 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    When the Farmer tasks Bitzer with ridding the Farm of a pesky Crow, Shaun comes up with an ingenious disguise to fool the intruder. However, the plan backfires when he's suspected of being the crazed Chicken thief of Mossybottom Farm.    "
+                },
+                "22": {
+                    "title": "Bitzer for a Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 22,
+                    "votes": 21,
+                    "original air date": "9 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    When the Farmer decides it's time he and Bitzer head out for a bit of Man and Dog time, Shaun seizes his chance to take charge. He soon discovers the job is not quite as easy as he first thought.    "
+                },
+                "23": {
+                    "title": "Bitzer's Secret",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 23,
+                    "votes": 18,
+                    "original air date": "10 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Farmer decides it's time to get fit - and calls on Bitzer to join him. Bitzer has other ideas and comes up with a secret plan to avoid putting in the hard work. Will his scheme catch up with him in the end?    "
+                },
+                "24": {
+                    "title": "Ping-Pong Poacher",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 24,
+                    "votes": 19,
+                    "original air date": "11 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    With the animals of Mossybottom Farm keenly watching 'Shaun vs Bitzer' in the greatest table tennis match of all time, they fail to notice a hungry Fox who isn't keeping his eye on the ball at all.    "
+                },
+                "25": {
+                    "title": "Hidden Talents",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 25,
+                    "votes": 18,
+                    "original air date": "12 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    It's a quiet day and the Flock decide to entertain each other by performing their favourite party tricks. However, when the Farmer tries to join in, things get a little awkward.    "
+                },
+                "26": {
+                    "title": "Picture Perfect",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 26,
+                    "votes": 21,
+                    "original air date": "15 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    After completing all of his tasks, Bitzer is shocked to find the state of the barn and decides to help by tidying up. He has a lot of difficulty trying to rehang a perpetually tilting picture, until the flock come up with their own solution.    "
+                },
+                "27": {
+                    "title": "Save the Dump",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 27,
+                    "votes": 21,
+                    "original air date": "16 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Farmer decides to build a golf course on the farm to impress the local Squire. When the Flock discover they'll lose their beloved dump, they need to come up with an imaginative solution to try and save it.    "
+                },
+                "28": {
+                    "title": "Duck!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 28,
+                    "votes": 21,
+                    "original air date": "17 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    When Shaun and the Flock discover that a pair of nesting Ducks has stolen their bedding to make a comfy new home up on top of Bitzer's kennel, the battle is on to set things straight.    "
+                },
+                "29": {
+                    "title": "The Stare",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 29,
+                    "votes": 19,
+                    "original air date": "18 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    Bitzer gets his wish for some peace & quiet when Shaun becomes hypnotised by Mowermouth the goat and finally stops bothering him. But with the whole Flock under the influence of Mowermouth's powerful gaze, Bitzer soon realises just how much he needs his old buddy.    "
+                },
+                "30": {
+                    "title": "Fruit and Nuts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shaun the Sheep (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 30,
+                    "votes": 22,
+                    "original air date": "19 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    Tired of eating grass, Shaun sets out to pinch one of the Farmer's prized apples only to have every attempt ruined by his constantly sneezing accomplice - a Sheep, who much to Shaun's frustration, has decided to be his new best friend.    "
+                }
+            }
+        },
+        "number of episodes": 151,
+        "cast": [
+            {
+                "name": "Fletcher, Justin"
+            },
+            {
+                "name": "Sparkes, John"
+            },
+            {
+                "name": "Webber, Richard"
+            },
+            {
+                "name": "Harbour, Kate"
+            },
+            {
+                "name": "Allen, Jo"
+            },
+            {
+                "name": "Sparks, John"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Short",
+            "Comedy",
+            "Family"
+        ],
+        "runtimes": [
+            "7"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Australia:G",
+            "Canada:C8",
+            "Denmark:A::(DVD rating)",
+            "Finland:S::(DVD rating)",
+            "Norway:A::(DVD rating)",
+            "Portugal:M/4::(DVD rating)",
+            "Russia:12+",
+            "Singapore:G",
+            "Spain:T::(Catalonia)",
+            "Sweden:Btl::(DVD rating)",
+            "United Kingdom:U",
+            "United States:TV-G"
+        ],
+        "number of seasons": 5,
+        "rating": 8.2,
+        "votes": 10013,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNDExMGUxMjAtMTY0Mi00MDBiLTg3MGItOWY4ZTM3NGZjYTBjXkEyXkFqcGdeQXVyNzMwOTY2NTI@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "Shaun is a sheep who doesn't follow the flock - in fact, he leads them into all sorts of scrapes and scraps, turning peace in the valley into mayhem in the meadow. Shaun and his pals run rings around their poor sheepdog Bitzer, as he tries to stop the Farmer finding out what's going on behind his back. Every day brings a new adventure for Shaun.",
+        "languages": [
+            "English"
+        ],
+        "title": "Shaun the Sheep",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "writer": [
+            {
+                "name": "Fine, David"
+            },
+            {
+                "name": "Park, Nick"
+            },
+            {
+                "name": "Snowden, Alison"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Aardman Animations"
+            },
+            {
+                "name": "EU Media Plus Program"
+            },
+            {
+                "name": "Westdeutscher Rundfunk (WDR)"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Cinequanon"
+            },
+            {
+                "name": "2 Entertain Video"
+            },
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Lionsgate"
+            },
+            {
+                "name": "NHK"
+            },
+            {
+                "name": "Nordisk Film"
+            },
+            {
+                "name": "Pony Canyon"
+            },
+            {
+                "name": "StudioCanal"
+            },
+            {
+                "name": "Toon Disney"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Benchmark Sound Services"
+            }
+        ],
+        "plot": [
+            "Shaun is a sheep who doesn't follow the flock - in fact, he leads them into all sorts of scrapes and scraps, turning peace in the valley into mayhem in the meadow. Shaun and his pals run rings around their poor sheepdog Bitzer, as he tries to stop the Farmer finding out what's going on behind his back. Every day brings a new adventure for Shaun.::Inman"
+        ],
+        "tech": {
+            "runtime": [
+                "7 min (20 episodes)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 10013,
+                "rating": 8.2
+            },
+            "aged under 18": {
+                "votes": 48,
+                "rating": 7.5
+            },
+            "aged 18 29": {
+                "votes": 2869,
+                "rating": 8.1
+            },
+            "aged 30 44": {
+                "votes": 3468,
+                "rating": 8.3
+            },
+            "aged 45 plus": {
+                "votes": 1263,
+                "rating": 8.3
+            },
+            "males": {
+                "votes": 6130,
+                "rating": 8.2
+            },
+            "males aged under 18": {
+                "votes": 41,
+                "rating": 7.7
+            },
+            "males aged 18 29": {
+                "votes": 2181,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 2610,
+                "rating": 8.3
+            },
+            "males aged 45 plus": {
+                "votes": 1016,
+                "rating": 8.3
+            },
+            "females": {
+                "votes": 1812,
+                "rating": 8.3
+            },
+            "females aged under 18": {
+                "votes": 6,
+                "rating": 6.6
+            },
+            "females aged 18 29": {
+                "votes": 661,
+                "rating": 8.1
+            },
+            "females aged 30 44": {
+                "votes": 824,
+                "rating": 8.5
+            },
+            "females aged 45 plus": {
+                "votes": 234,
+                "rating": 8.5
+            },
+            "top 1000 voters": {
+                "votes": 167,
+                "rating": 7.1
+            },
+            "us users": {
+                "votes": 1112,
+                "rating": 8.3
+            },
+            "non us users": {
+                "votes": 5359,
+                "rating": 8.2
+            }
+        },
+        "number of votes": {
+            "10": 2838,
+            "9": 2219,
+            "8": 2526,
+            "7": 1325,
+            "6": 484,
+            "5": 230,
+            "4": 106,
+            "3": 72,
+            "2": 58,
+            "1": 155
+        },
+        "arithmetic mean": 8.3,
+        "median": 9
+    }
+}

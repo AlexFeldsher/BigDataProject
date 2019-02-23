@@ -1,0 +1,526 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Japan\n",
+                "date": "15 February 2007"
+            },
+            {
+                "country": "Philippines\n",
+                "date": "28 January 2008"
+            },
+            {
+                "country": "France\n",
+                "date": "5 September 2008"
+            },
+            {
+                "country": "Germany\n",
+                "date": "23 April 2009"
+            },
+            {
+                "country": "USA\n",
+                "date": "28 October 2009"
+            },
+            {
+                "country": "Italy\n",
+                "date": "11 November 2011"
+            },
+            {
+                "country": "Chile\n",
+                "date": "17 August 2015",
+                "notes": "                            (dubbed version: Latinamerican Spanish)"
+            }
+        ],
+        "release dates": [
+            "Japan::15 February 2007",
+            "Philippines::28 January 2008",
+            "France::5 September 2008",
+            "Germany::23 April 2009",
+            "USA::28 October 2009",
+            "Italy::11 November 2011",
+            "Chile::17 August 2015                            (dubbed version: Latinamerican Spanish)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Naruto: Shippûden"
+            },
+            {
+                "countries": "Australia",
+                "title": "Naruto Shippuden"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Naruto Shippuden"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Наруто: Ураганни Хроники"
+            },
+            {
+                "countries": "Chile",
+                "title": "Naruto Shippuden"
+            },
+            {
+                "countries": "Germany",
+                "title": "Naruto Shippuden"
+            },
+            {
+                "countries": "Greece",
+                "title": "Νάρουτο: Το χρονικό της θύελλας"
+            },
+            {
+                "countries": "Lithuania",
+                "title": "Narutas. Viesulo kronikos"
+            },
+            {
+                "countries": "Russia",
+                "title": "Наруто: Ураганные хроники"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Naruto"
+            },
+            {
+                "countries": "Spain",
+                "title": "Naruto: Shippûden"
+            },
+            {
+                "countries": "USA",
+                "title": "Naruto: Shippûden"
+            }
+        ],
+        "akas": [
+            "Naruto: Shippûden (original title)",
+            "Naruto Shippuden Australia",
+            "Naruto Shippuden Brazil",
+            "Наруто: Ураганни Хроники Bulgaria (Bulgarian title)",
+            "Naruto Shippuden Chile",
+            "Naruto Shippuden Germany",
+            "Νάρουτο: Το χρονικό της θύελλας Greece",
+            "Narutas. Viesulo kronikos Lithuania",
+            "Наруто: Ураганные хроники Russia",
+            "Naruto Serbia",
+            "Naruto: Shippûden Spain",
+            "Naruto: Shippûden USA"
+        ],
+        "akas from release info": [
+            "Naruto: Shippûden (original title)",
+            "Naruto Shippuden Australia",
+            "Naruto Shippuden Brazil",
+            "Наруто: Ураганни Хроники Bulgaria (Bulgarian title)",
+            "Naruto Shippuden Chile",
+            "Naruto Shippuden Germany",
+            "Νάρουτο: Το χρονικό της θύελλας Greece",
+            "Narutas. Viesulo kronikos Lithuania",
+            "Наруто: Ураганные хроники Russia",
+            "Naruto Serbia",
+            "Naruto: Shippûden Spain",
+            "Naruto: Shippûden USA"
+        ],
+        "cast": [
+            {
+                "name": "Takeuchi, Junko"
+            },
+            {
+                "name": "Flanagan, Maile"
+            },
+            {
+                "name": "Nakamura, Chie"
+            },
+            {
+                "name": "Inoue, Kazuhiko"
+            },
+            {
+                "name": "Higgins, Kate"
+            },
+            {
+                "name": "Wittenberg, Dave"
+            },
+            {
+                "name": "Sugiyama, Noriaki"
+            },
+            {
+                "name": "Hebert, Kyle"
+            },
+            {
+                "name": "Katsuki, Masako"
+            },
+            {
+                "name": "Morikubo, Shotaro"
+            },
+            {
+                "name": "Koyama, Rikiya"
+            },
+            {
+                "name": "West, Debi Mae"
+            },
+            {
+                "name": "Baker, Troy"
+            },
+            {
+                "name": "Yuzuki, Ryôka"
+            },
+            {
+                "name": "Toriumi, Kôsuke"
+            },
+            {
+                "name": "Itô, Kentarô"
+            },
+            {
+                "name": "Hino, Satoshi"
+            },
+            {
+                "name": "Lowenthal, Yuri"
+            },
+            {
+                "name": "Masukawa, Yôichi"
+            },
+            {
+                "name": "Blum, Steve"
+            },
+            {
+                "name": "Diskin, Ben"
+            },
+            {
+                "name": "Sheh, Stephanie"
+            },
+            {
+                "name": "McGlynn, Mary Elizabeth"
+            },
+            {
+                "name": "O'Shaughnessey, Colleen"
+            },
+            {
+                "name": "Nemoto, Keiko"
+            },
+            {
+                "name": "Mizuki, Nana"
+            },
+            {
+                "name": "Uchida, Naoya"
+            },
+            {
+                "name": "Thornton, Kirk"
+            },
+            {
+                "name": "Ebara, Masashi"
+            },
+            {
+                "name": "Gibis, Tom"
+            },
+            {
+                "name": "Dittman, Henry"
+            },
+            {
+                "name": "Hollingshead, Megan"
+            },
+            {
+                "name": "Tamura, Yukari"
+            },
+            {
+                "name": "Canna, Nobutoshi"
+            },
+            {
+                "name": "Kijima, Ryûichi"
+            },
+            {
+                "name": "Kaplan, Neil"
+            },
+            {
+                "name": "Tôchika, Kôichi"
+            },
+            {
+                "name": "Willingham, Travis"
+            },
+            {
+                "name": "Matsumoto, Shinobu"
+            },
+            {
+                "name": "Tobita, Nobuo"
+            },
+            {
+                "name": "Rist, Robbie"
+            },
+            {
+                "name": "Mercer, Matthew"
+            },
+            {
+                "name": "Horiuchi, Ken'yû"
+            },
+            {
+                "name": "O'Brien, Liam"
+            },
+            {
+                "name": "Stellrecht, Skip"
+            },
+            {
+                "name": "Bailey, Laura"
+            },
+            {
+                "name": "Ishida, Akira"
+            },
+            {
+                "name": "Kawada, Shinji"
+            },
+            {
+                "name": "Kikumoto, Taira"
+            },
+            {
+                "name": "Freeman, Crispin"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "runtimes": [
+            "24"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "country codes": [
+            "jp"
+        ],
+        "language codes": [
+            "ja"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Argentina:13",
+            "Australia:M",
+            "Brazil:14",
+            "Canada:14A",
+            "Canada:G::(Quebec)",
+            "Canada:13+::(Quebec)",
+            "Germany:12",
+            "New Zealand:M",
+            "South Korea:15",
+            "United Kingdom:12",
+            "United Kingdom:15",
+            "United States:TV-14",
+            "United States:TV-PG::(V)"
+        ],
+        "number of seasons": 1,
+        "rating": 8.4,
+        "votes": 63101,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYWFkM2M0M2ItZWY3Yy00NmIzLWFhOGYtODU0N2FhZmNlNmRlXkEyXkFqcGdeQXVyMzExMzk5MTQ@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "Japanese"
+        ],
+        "title": "Naruto: Shippûden",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-2017",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Kishimoto, Masashi"
+            },
+            {
+                "name": "Nishizono, Satoru"
+            },
+            {
+                "name": "Suzuki, Yasuyuki"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Pierrot"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "ABS-CBN"
+            },
+            {
+                "name": "AT-X"
+            },
+            {
+                "name": "Adult Swim"
+            },
+            {
+                "name": "Animax"
+            },
+            {
+                "name": "Aniplex"
+            },
+            {
+                "name": "BS Japan"
+            },
+            {
+                "name": "Disney XD"
+            },
+            {
+                "name": "Etc... TV"
+            },
+            {
+                "name": "Game One"
+            },
+            {
+                "name": "Hiro"
+            },
+            {
+                "name": "Italia 1"
+            },
+            {
+                "name": "Kids Station"
+            },
+            {
+                "name": "Mediaset Italia 2"
+            },
+            {
+                "name": "ProSieben Maxx"
+            },
+            {
+                "name": "RTL II Fernsehen"
+            },
+            {
+                "name": "Shinhiroshima Telecasting"
+            },
+            {
+                "name": "TV Setouchi Broadcasting (TSC)"
+            },
+            {
+                "name": "TV Tokyo"
+            },
+            {
+                "name": "Viz Media"
+            },
+            {
+                "name": "YEP!"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aniplex"
+            },
+            {
+                "name": "KSS"
+            },
+            {
+                "name": "Morita Editing Room"
+            },
+            {
+                "name": "Rakuonsha"
+            },
+            {
+                "name": "Studio Wyeth"
+            },
+            {
+                "name": "Studiopolis"
+            }
+        ],
+        "plot": [
+            "Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.::Anonymous"
+        ],
+        "synopsis": [
+            "Naruto (, NARUTO) is a manga by Masashi Kishimoto with an anime TV series adaptation. Its main character, Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.The manga was first published by Shueisha in 1999 in the 43rd issue of Japan's Shonen Jump magazine. VIZ Media publishes a translated version in the American Shonen Jump, and is currently within a few volumes of the Japanese publication. Naruto has become VIZ Media's best-selling manga series.[1]The anime series, produced by Studio Pierrot and Aniplex, premiered across Japan on the terrestrial TV Tokyo network and the anime satellite television network Animax on October 3, 2002, and is still being aired. Viz also licensed the anime for North American production. Naruto debuted in the United States on Cartoon Network's Toonami programming block on September 10, 2005, and in Canada on YTV's Bionix on September 16, 2005. Naruto began showing in the UK on Jetix on July 22, 2006. It began showing on Toasted TV on January 12, 2007 in Australia, although it could be watched on Cartoon Network in 2006. The first series lasted nine seasons, while the second began its first on February 15, 2007."
+        ],
+        "tech": {
+            "runtime": [
+                "24 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 63101,
+                "rating": 8.4
+            },
+            "aged under 18": {
+                "votes": 221,
+                "rating": 8.6
+            },
+            "aged 18 29": {
+                "votes": 28457,
+                "rating": 8.7
+            },
+            "aged 30 44": {
+                "votes": 12005,
+                "rating": 8.4
+            },
+            "aged 45 plus": {
+                "votes": 1013,
+                "rating": 6.7
+            },
+            "males": {
+                "votes": 40331,
+                "rating": 8.6
+            },
+            "males aged under 18": {
+                "votes": 192,
+                "rating": 8.6
+            },
+            "males aged 18 29": {
+                "votes": 24787,
+                "rating": 8.7
+            },
+            "males aged 30 44": {
+                "votes": 10647,
+                "rating": 8.4
+            },
+            "males aged 45 plus": {
+                "votes": 802,
+                "rating": 6.7
+            },
+            "females": {
+                "votes": 5344,
+                "rating": 8.4
+            },
+            "females aged under 18": {
+                "votes": 18,
+                "rating": 8.3
+            },
+            "females aged 18 29": {
+                "votes": 3436,
+                "rating": 8.6
+            },
+            "females aged 30 44": {
+                "votes": 1231,
+                "rating": 8.2
+            },
+            "females aged 45 plus": {
+                "votes": 192,
+                "rating": 6.8
+            },
+            "top 1000 voters": {
+                "votes": 139,
+                "rating": 6.1
+            },
+            "us users": {
+                "votes": 4912,
+                "rating": 7.9
+            },
+            "non us users": {
+                "votes": 22437,
+                "rating": 8.5
+            }
+        },
+        "number of votes": {
+            "10": 29032,
+            "9": 13358,
+            "8": 9071,
+            "7": 4293,
+            "6": 1969,
+            "5": 1024,
+            "4": 585,
+            "3": 414,
+            "2": 344,
+            "1": 3011
+        },
+        "arithmetic mean": 8.5,
+        "median": 9
+    }
+}

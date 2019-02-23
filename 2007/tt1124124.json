@@ -1,0 +1,371 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "France\n",
+                "date": "15 October 2007"
+            },
+            {
+                "country": "France\n",
+                "date": "15 October 2007",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "France\n",
+                "date": "22 October 2007",
+                "notes": "                            (part 2)"
+            }
+        ],
+        "release dates": [
+            "France::15 October 2007",
+            "France::15 October 2007                            (part 1)",
+            "France::22 October 2007                            (part 2)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Les prédateurs"
+            },
+            {
+                "countries": "France (second part title)",
+                "title": "Le procès de l'affaire Elf"
+            },
+            {
+                "countries": "France (first part title)",
+                "title": "Les rois du pétrole"
+            }
+        ],
+        "akas": [
+            "Les prédateurs (original title)",
+            "Le procès de l'affaire Elf France (second part title)",
+            "Les rois du pétrole France (first part title)"
+        ],
+        "akas from release info": [
+            "Les prédateurs (original title)",
+            "Le procès de l'affaire Elf France (second part title)",
+            "Les rois du pétrole France (first part title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Les rois du pétrole",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Les prédateurs (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "15 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Le procès de l'affaire Elf",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Les prédateurs (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "22 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Reibel, Aladin"
+            },
+            {
+                "name": "Brasseur, Claude"
+            },
+            {
+                "name": "Nahon, Philippe"
+            },
+            {
+                "name": "Kibout, Nadia"
+            },
+            {
+                "name": "Voïta, Michel"
+            },
+            {
+                "name": "N'Zonzi, Pascal"
+            },
+            {
+                "name": "Yordanoff, Wladimir"
+            },
+            {
+                "name": "Castel, Robert"
+            },
+            {
+                "name": "Garcia, Nicole"
+            },
+            {
+                "name": "Descas, Alex"
+            },
+            {
+                "name": "Ruhl, Michel"
+            },
+            {
+                "name": "M'bo, Emile Abossolo"
+            },
+            {
+                "name": "Pajot, Olivier"
+            },
+            {
+                "name": "Grévill, Laurent"
+            },
+            {
+                "name": "Martin, Jean-Noël"
+            },
+            {
+                "name": "Nemeth, Vincent"
+            },
+            {
+                "name": "Hudson, Peter"
+            },
+            {
+                "name": "Loriquet, François"
+            },
+            {
+                "name": "Descamps, Patrick"
+            },
+            {
+                "name": "Elso, Pascal"
+            },
+            {
+                "name": "Brunet, Jacques"
+            },
+            {
+                "name": "Cohen, Odile"
+            },
+            {
+                "name": "Poirot, Pierre"
+            },
+            {
+                "name": "Giros, Benoît"
+            },
+            {
+                "name": "Beglia, Philippe"
+            },
+            {
+                "name": "Laudenbach, Philippe"
+            },
+            {
+                "name": "Desmarestz, Erick"
+            },
+            {
+                "name": "Allaire, Michel"
+            },
+            {
+                "name": "Assaraf, David"
+            },
+            {
+                "name": "Aufèvre, Eric"
+            },
+            {
+                "name": "Bandey, Paul"
+            },
+            {
+                "name": "Barbier, Jean-Gilles"
+            },
+            {
+                "name": "Barge, Paul"
+            },
+            {
+                "name": "Besançon, Laurent"
+            },
+            {
+                "name": "Beyens, Karin"
+            },
+            {
+                "name": "Bordure, Marc"
+            },
+            {
+                "name": "Bourdier, Isabelle"
+            },
+            {
+                "name": "Breitman, Olivier"
+            },
+            {
+                "name": "Brenière, Christophe"
+            },
+            {
+                "name": "Carton, Christian"
+            },
+            {
+                "name": "Chaine, Philippe"
+            },
+            {
+                "name": "Chapiteau, Marc"
+            },
+            {
+                "name": "Chilot, Jean-Yves"
+            },
+            {
+                "name": "Clavier, François"
+            },
+            {
+                "name": "Darras, Hélène"
+            },
+            {
+                "name": "Dausse, Stéphane"
+            },
+            {
+                "name": "de Backer, Didier"
+            },
+            {
+                "name": "DeFilipi, Daniel"
+            },
+            {
+                "name": "Diabaté, N'Gwamoué"
+            },
+            {
+                "name": "Falloux, Hervé"
+            }
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "runtimes": [
+            "220"
+        ],
+        "countries": [
+            "France"
+        ],
+        "country codes": [
+            "fr"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.33 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "rating": 7.0,
+        "votes": 42,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTkzOWU2YWYtYWQ5Ny00M2JiLThhOTMtOWFmMTZiYjk4MWJmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SY150_CR4,0,101,150_.jpg",
+        "languages": [
+            "French"
+        ],
+        "title": "Les prédateurs",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Maillot, Jacques"
+            },
+            {
+                "name": "Trividic, Anne-Louise"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Canal+"
+            },
+            {
+                "name": "Scarlett Production"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "3 hr 40 min (220 min) (France)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.33 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 42,
+                "rating": 7.0
+            },
+            "aged 18 29": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "aged 30 44": {
+                "votes": 15,
+                "rating": 7.2
+            },
+            "aged 45 plus": {
+                "votes": 21,
+                "rating": 7.0
+            },
+            "males": {
+                "votes": 33,
+                "rating": 7.1
+            },
+            "males aged 18 29": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "males aged 30 44": {
+                "votes": 13,
+                "rating": 7.3
+            },
+            "males aged 45 plus": {
+                "votes": 19,
+                "rating": 6.9
+            },
+            "females": {
+                "votes": 3,
+                "rating": 9.0
+            },
+            "females aged 30 44": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 45 plus": {
+                "votes": 2,
+                "rating": 8.5
+            },
+            "top 1000 voters": {
+                "votes": 7,
+                "rating": 6.6
+            },
+            "us users": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "non us users": {
+                "votes": 32,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 3,
+            "9": 3,
+            "8": 8,
+            "7": 17,
+            "6": 5,
+            "5": 4,
+            "4": 1,
+            "3": 0,
+            "2": 1,
+            "1": 0
+        },
+        "arithmetic mean": 7.0,
+        "median": 7
+    }
+}

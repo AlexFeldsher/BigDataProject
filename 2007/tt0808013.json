@@ -1,0 +1,768 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "  2007"
+            },
+            {
+                "country": "USA\n",
+                "date": "11 March 2007"
+            },
+            {
+                "country": "UK\n",
+                "date": "16 August 2007"
+            },
+            {
+                "country": "Italy\n",
+                "date": "12 October 2007"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "6 January 2008"
+            },
+            {
+                "country": "Japan\n",
+                "date": "17 December 2008"
+            }
+        ],
+        "release dates": [
+            "Canada::2007",
+            "USA::11 March 2007",
+            "UK::16 August 2007",
+            "Italy::12 October 2007",
+            "Hungary::6 January 2008",
+            "Japan::17 December 2008"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Blood Ties"
+            },
+            {
+                "countries": "Germany",
+                "title": "Blood Ties - Biss aufs Blut"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Vámpírakták"
+            },
+            {
+                "countries": "Romania",
+                "title": "Vampiri, crime si povesti de dragoste"
+            },
+            {
+                "countries": "Russia",
+                "title": "Кровавые связи"
+            }
+        ],
+        "akas": [
+            "Blood Ties (original title)",
+            "Blood Ties - Biss aufs Blut Germany",
+            "Vámpírakták Hungary",
+            "Vampiri, crime si povesti de dragoste Romania",
+            "Кровавые связи Russia"
+        ],
+        "akas from release info": [
+            "Blood Ties (original title)",
+            "Blood Ties - Biss aufs Blut Germany",
+            "Vámpírakták Hungary",
+            "Vampiri, crime si povesti de dragoste Romania",
+            "Кровавые связи Russia"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "D.O.A.",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 96,
+                    "original air date": "12 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n    Vicki is asked by a ghost to find his body, and Mike gets involved while investigating a dirty cop.    "
+                },
+                "2": {
+                    "title": "Wild Blood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 87,
+                    "original air date": "19 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n    Mike grudgingly asks Vicki for help on a case that involves a woman suspected of killing like an animal.    "
+                },
+                "3": {
+                    "title": "5:55",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 107,
+                    "original air date": "26 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n    Vicki relives the same day until she can get it right.    "
+                },
+                "4": {
+                    "title": "Bugged",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 81,
+                    "original air date": "2 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    Grotesquely mutilated bodies keep turning up at Coreen's favorite Goth hangout leading Vicki into her assistant's darkly alternative lifestyle.    "
+                },
+                "5": {
+                    "title": "The Devil You Know",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 75,
+                    "original air date": "9 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    Christina's back in Henry's life and has brought her stalker along.    "
+                },
+                "6": {
+                    "title": "Drawn and Quartered",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 76,
+                    "original air date": "16 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    Henry pressures Vicki into helping an artist friend clear her name of murder, and Vicki can't understand their connection.    "
+                },
+                "7": {
+                    "title": "Wrapped",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 69,
+                    "original air date": "23 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    Henry is having nightmares when it should be impossible since Vampires are for all intents and purposes 'dead' during the day while sleeping. Could Mike's new case regarding a theft of Ancient Incan Art and a mummy-bundle hold the key?    "
+                },
+                "8": {
+                    "title": "The Good, the Bad and the Ugly",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 80,
+                    "original air date": "30 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    A serial killer from Vicki's biggest case as a detective contacts her from prison taking back his confession and claiming the real killer is about to strike again. When the murder happens as he describes, Mike and Vicki butt heads trying to determine if it's supernatural or human.    "
+                },
+                "9": {
+                    "title": "We'll Meet Again",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 90,
+                    "original air date": "30 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    A teenager who claims he and his true love have been reincarnated throughout the centuries runs into trouble when he finds she's created a new life without him, Mike continues to feel pressure at work because of his association with Vicki, and Henry makes a break.    "
+                },
+                "10": {
+                    "title": "Deep Dark",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 77,
+                    "original air date": "7 Dec. 2007",
+                    "year": "2007",
+                    "plot": "\n    Astaroth claims Coreen and then taunts everyone with secrets from their past and possibilities of their future if they'll only partner with him, and Vicki is faced with an impossible decision.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Blood Price",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 175,
+                    "original air date": "11 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Vicki Nelson, an ex-police detective with Retinitis Pigmentosa, gets caught up in an investigation after she witnesses a murder and the victim's girlfriend asks her to prove it was committed by a vampire.    "
+                },
+                "2": {
+                    "title": "Blood Price: Part Two",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 157,
+                    "original air date": "11 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Vicki learns the truth about Henry, and their lives get more dangerous as Norman escalates his requests.    "
+                },
+                "3": {
+                    "title": "Bad JuJu",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 131,
+                    "original air date": "18 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Vicki gets caught up in voodoo when she tries to locate her client's brother.    "
+                },
+                "4": {
+                    "title": "Gifted",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 119,
+                    "original air date": "25 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    When Vicki goes looking for a dead-beat dad, she finds a little more supernatural, and many more memories, than she wants.    "
+                },
+                "5": {
+                    "title": "Deadly Departed",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 115,
+                    "original air date": "1 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n    Vicki runs up against a Celtic spell when she investigates why a judge, prosecutor and defense attorney are being targeted.    "
+                },
+                "6": {
+                    "title": "Love Hurts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 116,
+                    "original air date": "8 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n    Vicki tries to clear a client of charges he murdered his wife, but with the jousting between Henry and Mike, and a disturbing dream, it looks like the case may be a little more complicated than she thought.    "
+                },
+                "7": {
+                    "title": "Heart of Ice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 106,
+                    "original air date": "15 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n    Vicki's investigation into the disappearance of a homeless woman brings her up against a creature that may be more powerful than Henry. Elsewhere, Mike is approached by a mysterious stranger who knows more about Henry.    "
+                },
+                "8": {
+                    "title": "Heart of Fire",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 116,
+                    "original air date": "22 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n    Mike and Vicki race against time to save Henry.    "
+                },
+                "9": {
+                    "title": "Stone Cold",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 107,
+                    "original air date": "29 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n    Vick is asked to investigate the disappearance of a young man, and it leads to a club owner whom Mike is attracted to.    "
+                },
+                "10": {
+                    "title": "Necrodrome",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 101,
+                    "original air date": "6 May 2007",
+                    "year": "2007",
+                    "plot": "\n    Vicki is on the trail of a body that has apparently been resurrected.    "
+                },
+                "11": {
+                    "title": "Post Partum",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 109,
+                    "original air date": "13 May 2007",
+                    "year": "2007",
+                    "plot": "\n    Vicki goes undercover at a fertility clinic that has an astounding rate of success.    "
+                },
+                "12": {
+                    "title": "Norman",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blood Ties (TV Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 106,
+                    "original air date": "20 May 2007",
+                    "year": "2007",
+                    "plot": "\n    Norman is back from his demon dimension, and things are not looking good for Vicki.    "
+                }
+            }
+        },
+        "number of episodes": 22,
+        "cast": [
+            {
+                "name": "Cox, Christina"
+            },
+            {
+                "name": "Neal, Dylan"
+            },
+            {
+                "name": "Schmid, Kyle"
+            },
+            {
+                "name": "Holden, Gina"
+            },
+            {
+                "name": "Yip, Françoise"
+            },
+            {
+                "name": "Kanji, Nimet"
+            },
+            {
+                "name": "Dallas, Keith"
+            },
+            {
+                "name": "Pedde, Eileen"
+            },
+            {
+                "name": "Sorensen, Linda"
+            },
+            {
+                "name": "Turner, Brad"
+            },
+            {
+                "name": "Eklund, Michael"
+            },
+            {
+                "name": "Racicot, Jody"
+            },
+            {
+                "name": "Sands, Julian"
+            },
+            {
+                "name": "Oliver, Mark"
+            },
+            {
+                "name": "Naude, Angelique"
+            },
+            {
+                "name": "Riedinger, Juan"
+            },
+            {
+                "name": "Ganderton, Monique"
+            },
+            {
+                "name": "McIver, Derek"
+            },
+            {
+                "name": "Demarse, Kimberly"
+            },
+            {
+                "name": "Ullerup, Emilie"
+            },
+            {
+                "name": "Tennant, Aubrey"
+            },
+            {
+                "name": "Fong, Ed"
+            },
+            {
+                "name": "Borycki, Amber"
+            },
+            {
+                "name": "Michalopolous, James"
+            },
+            {
+                "name": "Ricketts, Audra"
+            },
+            {
+                "name": "Isaac, Patricia"
+            },
+            {
+                "name": "Whale, Sean"
+            },
+            {
+                "name": "Wu, Paul"
+            },
+            {
+                "name": "Mitchell, Phillip"
+            },
+            {
+                "name": "Baric, Nickolas"
+            },
+            {
+                "name": "Bruce, Daniel"
+            },
+            {
+                "name": "Dresen, Ken"
+            },
+            {
+                "name": "Mann, John"
+            },
+            {
+                "name": "Simms, Sharon"
+            },
+            {
+                "name": "Hayter, Rob"
+            },
+            {
+                "name": "Tenisci, Leonard"
+            },
+            {
+                "name": "Amos, Dan"
+            },
+            {
+                "name": "Sands, Sarah"
+            },
+            {
+                "name": "Crofton, Kevin"
+            },
+            {
+                "name": "James, Levi"
+            },
+            {
+                "name": "Chubai, Dawn"
+            },
+            {
+                "name": "Myshrall, Hal"
+            },
+            {
+                "name": "Dubin, Ellen"
+            },
+            {
+                "name": "Ray, Lisa"
+            },
+            {
+                "name": "Adamthwaite, Michael"
+            },
+            {
+                "name": "Bacic, Steve"
+            },
+            {
+                "name": "Currie, G. Patrick"
+            },
+            {
+                "name": "Daly, Rob"
+            },
+            {
+                "name": "Trejo, Danny"
+            },
+            {
+                "name": "Antonakos, Michael"
+            }
+        ],
+        "locations": [
+            "Toronto, Ontario, Canada",
+            "Vancouver, British Columbia, Canada"
+        ],
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Mystery",
+            "Romance"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "country codes": [
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.33 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 2,
+        "rating": 7.4,
+        "votes": 5879,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTQ4MjAxODcwM15BMl5BanBnXkFtZTcwNDcxNzkzMg@@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "Blood Ties, set in Toronto, Ontario, centres on Christina Cox as Vicki Nelson, a former Toronto Police Service who left the force to become a private investigator after beginning to lose her eyesight, due to a beginning Retinopathia Pigmentosa. Through her work she teams up with the 470-year-old vampire Henry Fitzroy, who happens to be the illegitimate son of Henry VIII. The mutual attraction between them is complicated by Vicki's relationship with former partner and lover, Mike Celluci. In the beginning, he doesn't believe in the supernatural and thinks that Vicki is losing her mind along with her eyesight. Also in the picture is Vicki's assistant Coreen, who was hired because of her knowledge of the occult and to keep her quiet about Henry. Coreen is thoroughly enamored with both the occult and Henry, which can get her into trouble.",
+        "languages": [
+            "English"
+        ],
+        "title": "Blood Ties",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-2007",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Huff, Tanya"
+            },
+            {
+                "name": "Mohan, Peter"
+            },
+            {
+                "name": "Heaton, Dennis"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Insight Film Studios"
+            },
+            {
+                "name": "Chum Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Lifetime Television"
+            },
+            {
+                "name": "LivingTV"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "Contender Entertainment Group"
+            },
+            {
+                "name": "Eagle Media"
+            },
+            {
+                "name": "Eagle Media"
+            },
+            {
+                "name": "EuroVideo"
+            },
+            {
+                "name": "Sci Fi"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aion Art Gallery"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Film Finances Canada"
+            }
+        ],
+        "plot": [
+            "Vicki Nelson, a former homicide detective turned private investigator, and Henry Fitzroy, a 470-year-old vampire, form a unique team solving cases and dealing with the supernatural world.::hilt_m",
+            "_Blood Ties_ (qv), set in Toronto, Ontario, centres on Christina Cox as Vicki Nelson, a former Toronto Police Service who left the force to become a private investigator after beginning to lose her eyesight, due to a beginning Retinopathia Pigmentosa. Through her work she teams up with the 470-year-old vampire Henry Fitzroy, who happens to be the illegitimate son of Henry VIII. The mutual attraction between them is complicated by Vicki's relationship with former partner and lover, Mike Celluci. In the beginning, he doesn't believe in the supernatural and thinks that Vicki is losing her mind along with her eyesight. Also in the picture is Vicki's assistant Coreen, who was hired because of her knowledge of the occult and to keep her quiet about Henry. Coreen is thoroughly enamored with both the occult and Henry, which can get her into trouble.::https://en.wikipedia.org/wiki/Blood_Ties_(TV_series)"
+        ],
+        "synopsis": [
+            "Get ready to take a thrilling ride alongside Vicki Nelson, a private investigator who specializes in solving supernatural crimes. Together with her assistant, Coreen; Vicki's ex-partner (and lover), Mike; and the sexy 450-year-old vampire, Henry, Vicki finds herself delving ever deeper into the secrets of the mystical world, all the while torn between her allegiance to Mike and her growing attraction to Henry."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (UK)",
+                "1 hr (60 min) (including commercials) (Canada)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.33 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 5879,
+                "rating": 7.4
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 8.5
+            },
+            "aged 18 29": {
+                "votes": 1375,
+                "rating": 7.6
+            },
+            "aged 30 44": {
+                "votes": 2666,
+                "rating": 7.3
+            },
+            "aged 45 plus": {
+                "votes": 1074,
+                "rating": 7.5
+            },
+            "males": {
+                "votes": 1696,
+                "rating": 6.6
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 309,
+                "rating": 6.6
+            },
+            "males aged 30 44": {
+                "votes": 889,
+                "rating": 6.5
+            },
+            "males aged 45 plus": {
+                "votes": 448,
+                "rating": 6.8
+            },
+            "females": {
+                "votes": 3518,
+                "rating": 7.9
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 18 29": {
+                "votes": 1050,
+                "rating": 7.8
+            },
+            "females aged 30 44": {
+                "votes": 1757,
+                "rating": 7.8
+            },
+            "females aged 45 plus": {
+                "votes": 614,
+                "rating": 8.2
+            },
+            "top 1000 voters": {
+                "votes": 85,
+                "rating": 6.2
+            },
+            "us users": {
+                "votes": 1744,
+                "rating": 7.7
+            },
+            "non us users": {
+                "votes": 2666,
+                "rating": 7.2
+            }
+        },
+        "number of votes": {
+            "10": 1874,
+            "9": 727,
+            "8": 986,
+            "7": 884,
+            "6": 569,
+            "5": 292,
+            "4": 152,
+            "3": 105,
+            "2": 62,
+            "1": 228
+        },
+        "arithmetic mean": 7.7,
+        "median": 8
+    }
+}

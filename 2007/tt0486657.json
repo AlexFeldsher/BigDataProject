@@ -1,0 +1,658 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "21 January 2007"
+            },
+            {
+                "country": "Canada\n",
+                "date": "5 January 2008"
+            },
+            {
+                "country": "Italy\n",
+                "date": "12 April 2008"
+            }
+        ],
+        "release dates": [
+            "USA::21 January 2007",
+            "Canada::5 January 2008",
+            "Italy::12 April 2008"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Dresden Files"
+            },
+            {
+                "countries": "Canada (French title)",
+                "title": "Dresden, enquêtes parallèles"
+            },
+            {
+                "countries": "Canada (English title)",
+                "title": "The Dresden Files"
+            },
+            {
+                "countries": "Czech Republic",
+                "title": "Dresden"
+            },
+            {
+                "countries": "Estonia",
+                "title": "Dresdeni toimikud"
+            },
+            {
+                "countries": "Greece (transliterated ISO-LATIN-1 title)",
+                "title": "Dresden Files"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A Dresden-akták"
+            },
+            {
+                "countries": "Poland",
+                "title": "Akta Dresdena"
+            },
+            {
+                "countries": "Romania",
+                "title": "Dosarele lui Dresden"
+            },
+            {
+                "countries": "Russia",
+                "title": "Детектив Дрезден: Секретные материалы"
+            }
+        ],
+        "akas": [
+            "The Dresden Files (original title)",
+            "Dresden, enquêtes parallèles Canada (French title)",
+            "The Dresden Files Canada (English title)",
+            "Dresden Czech Republic",
+            "Dresdeni toimikud Estonia",
+            "Dresden Files Greece (transliterated ISO-LATIN-1 title)",
+            "A Dresden-akták Hungary",
+            "Akta Dresdena Poland",
+            "Dosarele lui Dresden Romania",
+            "Детектив Дрезден: Секретные материалы Russia"
+        ],
+        "akas from release info": [
+            "The Dresden Files (original title)",
+            "Dresden, enquêtes parallèles Canada (French title)",
+            "The Dresden Files Canada (English title)",
+            "Dresden Czech Republic",
+            "Dresdeni toimikud Estonia",
+            "Dresden Files Greece (transliterated ISO-LATIN-1 title)",
+            "A Dresden-akták Hungary",
+            "Akta Dresdena Poland",
+            "Dosarele lui Dresden Romania",
+            "Детектив Дрезден: Секретные материалы Russia"
+        ],
+        "episodes": {
+            "1": {
+                "0": {
+                    "title": "Pilot: Storm Front",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Dresden Files (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 0,
+                    "votes": 107,
+                    "original air date": "5 Jan. 2008",
+                    "year": "2008",
+                    "plot": "\n    A college co-ed and a mob henchman are murdered with black magic, and the chief suspect is Dresden.    "
+                },
+                "1": {
+                    "title": "Birds of a Feather",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Dresden Files (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 269,
+                    "original air date": "21 Jan. 2007",
+                    "year": "2007",
+                    "plot": "\n    Dresden takes on the case of a boy who's sure monsters are stalking him, but a misstep by Harry puts everyone at risk.    "
+                },
+                "2": {
+                    "title": "The Boone Identity",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Dresden Files (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 213,
+                    "original air date": "28 Jan. 2007",
+                    "year": "2007",
+                    "plot": "\n    Dresden takes on the case of a father being haunted by his daughter, but the circumstances of her murder send Harry in a different direction that endangers Connie.    "
+                },
+                "3": {
+                    "title": "Hair of the Dog",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Dresden Files (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 218,
+                    "original air date": "11 Feb. 2007",
+                    "year": "2007",
+                    "plot": "\n    The FBI takes over Murphy's case involving a serial killer who takes the hair and teeth of the victim, but the reason may be for more than catching the killer.    "
+                },
+                "4": {
+                    "title": "Rules of Engagement",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Dresden Files (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 231,
+                    "original air date": "18 Feb. 2007",
+                    "year": "2007",
+                    "plot": "\n    Harry uncovers a distasteful alliance while trying to protect his client from a hellion.    "
+                },
+                "5": {
+                    "title": "Bad Blood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Dresden Files (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 199,
+                    "original air date": "25 Feb. 2007",
+                    "year": "2007",
+                    "plot": "\n    Dresden gets himself mixed up in a turf war between vampire gangs when he's pressured to repay a debt.    "
+                },
+                "6": {
+                    "title": "Soul Beneficiary",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Dresden Files (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 180,
+                    "original air date": "4 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    When a man drops dead in Harry's office, Harry is led to investigate a complex murder plot with ties to Bob's past.    "
+                },
+                "7": {
+                    "title": "Walls",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Dresden Files (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 181,
+                    "original air date": "11 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Dresden takes on a case pro bono after a woman coming to him for help is killed in front of him, but the investigation leads to dark magic and more death.    "
+                },
+                "8": {
+                    "title": "Storm Front",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Dresden Files (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 189,
+                    "original air date": "18 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Dresden runs up against the High Council when they suspect him in the deaths of a college coed and a local mobster from black magic.    "
+                },
+                "9": {
+                    "title": "The Other Dick",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Dresden Files (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 192,
+                    "original air date": "25 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Harry's forced to go get a license to continue working for the police department, but when his teacher turns up dead of black magic he teams with man's assistant in a case that takes fertile twist.    "
+                },
+                "10": {
+                    "title": "What About Bob?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Dresden Files (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 174,
+                    "original air date": "1 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n    A one night stand turns deadly when an old nemesis of Harry's reappears.    "
+                },
+                "11": {
+                    "title": "Things That Go Bump",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Dresden Files (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 167,
+                    "original air date": "8 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n    Morgan and Ancient Mai reluctantly take refuge at Harry's.    "
+                },
+                "12": {
+                    "title": "Second City",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Dresden Files (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 163,
+                    "original air date": "15 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n    Murphy's dad comes to town, bringing up old resentments, and when he starts interfering with her case of reformed criminals dying mysteriously, and Harry's participation in it, things go from bad to worse.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Blackthorne, Paul"
+            },
+            {
+                "name": "Cruz, Valerie"
+            },
+            {
+                "name": "Mann, Terrence"
+            },
+            {
+                "name": "Bhaneja, Raoul"
+            },
+            {
+                "name": "Coates, Conrad"
+            },
+            {
+                "name": "Gordon, Matt"
+            },
+            {
+                "name": "Higgins, Jonathan"
+            },
+            {
+                "name": "Kash, Daniel"
+            },
+            {
+                "name": "Kelly, Joanne"
+            },
+            {
+                "name": "Knight, Matthew"
+            },
+            {
+                "name": "McFarland, Rebecca"
+            },
+            {
+                "name": "McLean, Jane"
+            },
+            {
+                "name": "Thai, Elizabeth"
+            },
+            {
+                "name": "Lisinska, Natalie"
+            },
+            {
+                "name": "Binkley, James"
+            },
+            {
+                "name": "Odell, Deborah"
+            },
+            {
+                "name": "Hanson, Heather"
+            },
+            {
+                "name": "Miller, Sherry"
+            },
+            {
+                "name": "Whittaker, Jonathan"
+            },
+            {
+                "name": "Kydd, Jennifer"
+            },
+            {
+                "name": "DeSantis, John"
+            },
+            {
+                "name": "Tizzard, Christine"
+            },
+            {
+                "name": "Bryk, Greg"
+            },
+            {
+                "name": "Boodram, Shannon"
+            },
+            {
+                "name": "Byers, Steve"
+            },
+            {
+                "name": "McEwan, Hamish"
+            },
+            {
+                "name": "Horne, Christine"
+            },
+            {
+                "name": "Black, Claudia"
+            },
+            {
+                "name": "Johnson, C. David"
+            },
+            {
+                "name": "Munroe, Kathleen"
+            },
+            {
+                "name": "Barnett, Tom"
+            },
+            {
+                "name": "Blackburn, Richard"
+            },
+            {
+                "name": "Coates, Kim"
+            },
+            {
+                "name": "Shamata, Chuck"
+            },
+            {
+                "name": "Bent, Lyriq"
+            },
+            {
+                "name": "Bisson, Yannick"
+            },
+            {
+                "name": "Boylan, John"
+            },
+            {
+                "name": "Del Rio, Bobby"
+            },
+            {
+                "name": "Henderson, Meredith"
+            },
+            {
+                "name": "Karzis, Alex"
+            },
+            {
+                "name": "Robinson, John"
+            },
+            {
+                "name": "Bridges, Krista"
+            },
+            {
+                "name": "Copeman, Michael"
+            },
+            {
+                "name": "Everett, Dylan"
+            },
+            {
+                "name": "Moore, Stephanie"
+            },
+            {
+                "name": "Petronijevic, Dan"
+            },
+            {
+                "name": "Rushton, Kevin"
+            },
+            {
+                "name": "Sevier, Corey"
+            },
+            {
+                "name": "Camilleri, Chad"
+            },
+            {
+                "name": "Cuzzocrea, Dominic"
+            }
+        ],
+        "locations": [
+            "Toronto, Ontario, Canada"
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Fantasy",
+            "Mystery"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "Canada",
+            "United States"
+        ],
+        "country codes": [
+            "ca",
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Australia:M",
+            "Canada:G::(Quebec)",
+            "Singapore:NC-16"
+        ],
+        "number of seasons": 1,
+        "rating": 7.7,
+        "votes": 8378,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTI5NDQ1Nzc3NF5BMl5BanBnXkFtZTcwNTMwNDEyMw@@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Dresden Files",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Beimler, Hans"
+            },
+            {
+                "name": "Butcher, Jim"
+            },
+            {
+                "name": "Wolfe, Robert Hewitt"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Dresden Files Productions"
+            },
+            {
+                "name": "Lions Gate Entertainment"
+            },
+            {
+                "name": "NBC Universal Television"
+            },
+            {
+                "name": "Saturn Films"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "The Sci-Fi Channel"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "Fox Movies SF Horror"
+            },
+            {
+                "name": "Neljas"
+            },
+            {
+                "name": "Sky One"
+            },
+            {
+                "name": "Sorozat Plusz"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Entertainment Clearances"
+            },
+            {
+                "name": "Hand Prop"
+            },
+            {
+                "name": "Toronto Film Studios"
+            },
+            {
+                "name": "Urban Post Production"
+            },
+            {
+                "name": "Visual Icon"
+            },
+            {
+                "name": "William F. White International"
+            }
+        ],
+        "plot": [
+            "A Chicago-based wizard works as a private investigator.::Jeff Cross"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (including commercials) (USA)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 8378,
+                "rating": 7.7
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "aged 18 29": {
+                "votes": 805,
+                "rating": 7.7
+            },
+            "aged 30 44": {
+                "votes": 3866,
+                "rating": 7.7
+            },
+            "aged 45 plus": {
+                "votes": 2406,
+                "rating": 7.8
+            },
+            "males": {
+                "votes": 4741,
+                "rating": 7.6
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 486,
+                "rating": 7.6
+            },
+            "males aged 30 44": {
+                "votes": 2618,
+                "rating": 7.6
+            },
+            "males aged 45 plus": {
+                "votes": 1519,
+                "rating": 7.6
+            },
+            "females": {
+                "votes": 2446,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 314,
+                "rating": 7.9
+            },
+            "females aged 30 44": {
+                "votes": 1213,
+                "rating": 7.9
+            },
+            "females aged 45 plus": {
+                "votes": 859,
+                "rating": 8.1
+            },
+            "top 1000 voters": {
+                "votes": 107,
+                "rating": 6.9
+            },
+            "us users": {
+                "votes": 3303,
+                "rating": 7.9
+            },
+            "non us users": {
+                "votes": 3067,
+                "rating": 7.6
+            }
+        },
+        "number of votes": {
+            "10": 2298,
+            "9": 1484,
+            "8": 2018,
+            "7": 1221,
+            "6": 500,
+            "5": 274,
+            "4": 146,
+            "3": 198,
+            "2": 72,
+            "1": 167
+        },
+        "arithmetic mean": 8.0,
+        "median": 8
+    }
+}

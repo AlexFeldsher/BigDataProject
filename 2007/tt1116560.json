@@ -1,0 +1,476 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Australia\n",
+                "date": "7 October 2007"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "7 March 2008"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "8 April 2009"
+            }
+        ],
+        "release dates": [
+            "Australia::7 October 2007",
+            "Hungary::7 March 2008",
+            "Sweden::8 April 2009"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Rain Shadow"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Titkok vidéke"
+            },
+            {
+                "countries": "USA",
+                "title": "Rain Shadow"
+            }
+        ],
+        "akas": [
+            "Rain Shadow (original title)",
+            "Titkok vidéke Hungary",
+            "Rain Shadow USA"
+        ],
+        "akas from release info": [
+            "Rain Shadow (original title)",
+            "Titkok vidéke Hungary",
+            "Rain Shadow USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Long Paddock",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rain Shadow (TV Mini-Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 9,
+                    "original air date": "7 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n    Rookie vet Jill Blake arrives in Paringa to a brusque reception from her new boss, Dr. Kate McDonald, but Jill is intrigued by the older woman's past and her reasons for staying in this dying district.    "
+                },
+                "2": {
+                    "title": "You Can't Eat Scenery",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rain Shadow (TV Mini-Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 8,
+                    "original air date": "14 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n    As a government-sponsored drought relief workshop comes to town, Jill begins to realize there are more problems in rain shadow country than meet the eye--or than a downpour could solve.    "
+                },
+                "3": {
+                    "title": "Paringa Rules",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rain Shadow (TV Mini-Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 9,
+                    "original air date": "28 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n    When a visiting agronomist arrives on a study tour of dry-land farming, Kate fears he will submit a report on the condition of the local sheep. Or if he doesn't, she is afraid that Jill--increasingly reluctant to play by \"Paringa rules\"--will.    "
+                },
+                "4": {
+                    "title": "Black and White",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rain Shadow (TV Mini-Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 8,
+                    "original air date": "4 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    Kate persuades Jill to help her perform highly illegal surgery on a local man who has plenty of money, no visible means of support, and an unexplained, life-threatening gunshot wound to the chest.    "
+                },
+                "5": {
+                    "title": "The Call of the Wild",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rain Shadow (TV Mini-Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 8,
+                    "original air date": "11 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    As Dr. Aziz prepares to leave, Kate wants to secure his secrecy about the disease afflicting the sheep. But her efforts are interrupted when Jill's father and brother unexpectedly visit and Shane returns with plans of his own for Jill.    "
+                },
+                "6": {
+                    "title": "The Soldiers Choice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rain Shadow (TV Mini-Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 9,
+                    "original air date": "18 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    Rival vet James Campbell threatens to expose Kate for not reporting the sheep's illness unless she sells him her practice. With Larry's help, Jill hatches a plan to thwart him, but will Kate go along with it?    "
+                }
+            }
+        },
+        "number of episodes": 6,
+        "cast": [
+            {
+                "name": "Ward, Rachel"
+            },
+            {
+                "name": "Thaine, Victoria"
+            },
+            {
+                "name": "Piro, Grant"
+            },
+            {
+                "name": "O'Sullivan, Tom"
+            },
+            {
+                "name": "Withington, Shane"
+            },
+            {
+                "name": "Hodgeman, Edwin"
+            },
+            {
+                "name": "Knuckey, Kim"
+            },
+            {
+                "name": "Mitchell, Heather"
+            },
+            {
+                "name": "Sweet, Gary"
+            },
+            {
+                "name": "Butler, Nathin"
+            },
+            {
+                "name": "Henshall, Jude"
+            },
+            {
+                "name": "Dean, Nathaniel"
+            },
+            {
+                "name": "Cantwell, Michaela"
+            },
+            {
+                "name": "Barkley, Amanda"
+            },
+            {
+                "name": "Behenna, Craig"
+            },
+            {
+                "name": "Brokensha, Sarah"
+            },
+            {
+                "name": "Fraser, Susie"
+            },
+            {
+                "name": "Likoudis, Panda"
+            },
+            {
+                "name": "Logos, Ksenia"
+            },
+            {
+                "name": "Reid, Kerry Ann"
+            },
+            {
+                "name": "Riddell, Heather"
+            },
+            {
+                "name": "Robinson, Lily"
+            },
+            {
+                "name": "Steen, Anna"
+            },
+            {
+                "name": "Venturini, Marco"
+            },
+            {
+                "name": "Zweck, Paul"
+            },
+            {
+                "name": "Johnson, Carmel"
+            },
+            {
+                "name": "Harding, Jamie"
+            },
+            {
+                "name": "Lang, Jeff"
+            },
+            {
+                "name": "Burns, Kyan"
+            },
+            {
+                "name": "Hatchard, Shane"
+            },
+            {
+                "name": "Monoghan, Phillip"
+            },
+            {
+                "name": "Vickery-Howe, Alex"
+            },
+            {
+                "name": "Whittle, Brenton"
+            }
+        ],
+        "locations": [
+            "Adelaide Hills, South Australia, Australia",
+            "South Australia, Australia",
+            "Callington, South Australia, Australia::(country town: Paringa)",
+            "Monarto South, South Australia, Australia::(country town: Paringa)",
+            "Mount Barker, South Australia, Australia::(country town: Blackford)",
+            "Murraylands, South Australia, Australia",
+            "South East South Australia, South Australia, Australia",
+            "South Eastern Freeway, South Australia, Australia::(episode one)",
+            "Heysen Tunnels, South Eastern Freeway, South Australia, Australia::(episode one)",
+            "Adelaide, South Australia, Australia",
+            "Coast, South Australia, Australia::(episode one)",
+            "Mount Lofty Ranges, South Australia, Australia::(episode one)",
+            "Eagle On The Hill, South Australia, Australia::(episode one)"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "country codes": [
+            "au"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.33 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Australia:PG",
+            "Australia:M::(DVD rating)"
+        ],
+        "original air date": "07 Oct 2007 (Australia)",
+        "number of seasons": 1,
+        "rating": 7.8,
+        "votes": 208,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMDNjYTE2M2QtNzU4YS00YmQ2LWIzMTMtY2U0M2ZmOWEzNWFiXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SY150_CR1,0,101,150_.jpg",
+        "plot outline": "Rain Shadow was shot in the Adelaide Hills in South Australia and is set in the fictional district of Paringa, a dry land farming area in a rain shadow. It tells the story of two characters who become the means of each other's future. It stars Rachel Ward as district vet Kate McDonald and Victoria Thaine as new veterinary assistant Jill Blake.",
+        "languages": [
+            "English"
+        ],
+        "title": "Rain Shadow",
+        "year": 2007,
+        "kind": "tv mini series",
+        "series years": "2007-2007",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Thomson, Jimmy"
+            },
+            {
+                "name": "Morphett, Tony"
+            }
+        ],
+        "director": [
+            {
+                "name": "Seet, Shawn"
+            },
+            {
+                "name": "Banks, Fiona"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Australian Broadcasting Corporation (ABC)"
+            },
+            {
+                "name": "Australian Film Finance Corporation"
+            },
+            {
+                "name": "Southern Star Entertainment"
+            },
+            {
+                "name": "Southern Star Sunyata"
+            },
+            {
+                "name": "The South Australian Film Corporation"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Acorn Media Group"
+            },
+            {
+                "name": "Australian Broadcasting Corporation (ABC) Content Sales"
+            },
+            {
+                "name": "Australian Broadcasting Corporation (ABC) Content Sales"
+            },
+            {
+                "name": "Australian Broadcasting Corporation (ABC)"
+            },
+            {
+                "name": "Australian Broadcasting Corporation (ABC)"
+            },
+            {
+                "name": "Channel 2"
+            },
+            {
+                "name": "Southern Star International"
+            },
+            {
+                "name": "Umbrella Entertainment"
+            },
+            {
+                "name": "Umbrella Entertainment"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Australian Broadcasting Corporation (ABC)"
+            },
+            {
+                "name": "Australian Film Finance Corporation (AFFC)"
+            },
+            {
+                "name": "Film Finances"
+            },
+            {
+                "name": "Oasis Post Australia"
+            },
+            {
+                "name": "The Australian Film Finance Corporation"
+            },
+            {
+                "name": "The South Australian Film Corporation"
+            }
+        ],
+        "plot": [
+            "_Rain Shadow_ (qv) was shot in the Adelaide Hills in South Australia and is set in the fictional district of Paringa, a dry land farming area in a rain shadow. It tells the story of two characters who become the means of each other's future. It stars Rachel Ward as district vet Kate McDonald and Victoria Thaine as new veterinary assistant Jill Blake.::Lovenda Gregg"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.33 : 1",
+                "1.78 : 1"
+            ],
+            "negative format": [
+                "HDCAM"
+            ],
+            "printed film format": [
+                "Video"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 208,
+                "rating": 7.8
+            },
+            "aged 18 29": {
+                "votes": 9,
+                "rating": 8.6
+            },
+            "aged 30 44": {
+                "votes": 41,
+                "rating": 7.0
+            },
+            "aged 45 plus": {
+                "votes": 117,
+                "rating": 7.9
+            },
+            "males": {
+                "votes": 80,
+                "rating": 7.5
+            },
+            "males aged 18 29": {
+                "votes": 4,
+                "rating": 8.0
+            },
+            "males aged 30 44": {
+                "votes": 13,
+                "rating": 6.1
+            },
+            "males aged 45 plus": {
+                "votes": 62,
+                "rating": 7.7
+            },
+            "females": {
+                "votes": 86,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 5,
+                "rating": 9.3
+            },
+            "females aged 30 44": {
+                "votes": 27,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 52,
+                "rating": 8.1
+            },
+            "top 1000 voters": {
+                "votes": 17,
+                "rating": 6.5
+            },
+            "us users": {
+                "votes": 75,
+                "rating": 7.7
+            },
+            "non us users": {
+                "votes": 84,
+                "rating": 7.8
+            }
+        },
+        "number of votes": {
+            "10": 48,
+            "9": 37,
+            "8": 58,
+            "7": 36,
+            "6": 13,
+            "5": 4,
+            "4": 4,
+            "3": 3,
+            "2": 2,
+            "1": 3
+        },
+        "arithmetic mean": 8.0,
+        "median": 8
+    }
+}

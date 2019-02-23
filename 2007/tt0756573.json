@@ -1,0 +1,719 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "15 March 2007"
+            },
+            {
+                "country": "Finland\n",
+                "date": "2 September 2007"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "13 November 2007"
+            },
+            {
+                "country": "Italy\n",
+                "date": "25 March 2008"
+            },
+            {
+                "country": "Japan\n",
+                "date": "7 October 2010"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "11 February 2012"
+            }
+        ],
+        "release dates": [
+            "USA::15 March 2007",
+            "Finland::2 September 2007",
+            "Netherlands::13 November 2007",
+            "Italy::25 March 2008",
+            "Japan::7 October 2010",
+            "Sweden::11 February 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "October Road"
+            },
+            {
+                "countries": "Finland",
+                "title": "October Road"
+            },
+            {
+                "countries": "Poland",
+                "title": "Powrót na October Road"
+            },
+            {
+                "countries": "Russia",
+                "title": "Дорога в осень"
+            }
+        ],
+        "akas": [
+            "October Road (original title)",
+            "October Road Finland",
+            "Powrót na October Road Poland",
+            "Дорога в осень Russia"
+        ],
+        "akas from release info": [
+            "October Road (original title)",
+            "October Road Finland",
+            "Powrót na October Road Poland",
+            "Дорога в осень Russia"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Let's Get Owen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 33,
+                    "original air date": "22 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    Nick and Eddie go to New York to find Owen, who is heartbroken after hearing about Ikey and Alison.    "
+                },
+                "2": {
+                    "title": "How to Kiss Hello",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 32,
+                    "original air date": "26 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    Nick loses his job, Ray proposes marriage to Hannah, and Eddie tries to convince Janet that she's the one he wants.    "
+                },
+                "3": {
+                    "title": "The Infidelity Tour",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 22,
+                    "original air date": "3 Dec. 2007",
+                    "year": "2007",
+                    "plot": "\n    Nick helps Owen come to terms with his wife's affair with Ikey while Nick tries to come to terms with his past.    "
+                },
+                "4": {
+                    "title": "Deck the Howls",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 27,
+                    "original air date": "10 Dec. 2007",
+                    "year": "2007",
+                    "plot": "\n    At Christmas time, Nick tries to get his family in the spirit, Owen tries to make peace with Alison, and Pizza Girl meets Phil's parents.    "
+                },
+                "5": {
+                    "title": "Once Around the Block",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 31,
+                    "original air date": "17 Dec. 2007",
+                    "year": "2007",
+                    "plot": "\n    Nick sets his brother up with a girl, Hannah meets Ray's ex-wife, and Pizza Girl tries to get Phil to go out of the house with her.    "
+                },
+                "6": {
+                    "title": "Revenge of the Cupcake Kid",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 26,
+                    "original air date": "7 Jan. 2008",
+                    "year": "2008",
+                    "plot": "\n    A man seeks revenge on Nick for making him the star of a comic book, Ikey calls for a tribunal, and Hannah and Janet want to go on a double date.    "
+                },
+                "7": {
+                    "title": "Spelling It Out",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 24,
+                    "original air date": "14 Jan. 2008",
+                    "year": "2008",
+                    "plot": "\n    Janet is nervous about sleeping with Eddie, Ray wants to adopt Sam, and a local kid competes in a televised spelling bee.    "
+                },
+                "8": {
+                    "title": "Dancing Days Are Here Again",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 32,
+                    "original air date": "21 Jan. 2008",
+                    "year": "2008",
+                    "plot": "\n    Owen starts dating, Dean wants to go dancing with Commander, and Nick meets the man Aubrey's been sneaking around with.    "
+                },
+                "9": {
+                    "title": "We Lived Like Giants",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 35,
+                    "original air date": "11 Feb. 2008",
+                    "year": "2008",
+                    "plot": "\n    Hannah, Janet and Pizza Girl go on a girls' night out, Eddie and Phil babysit, and Commander has an appointment with an oncologist.    "
+                },
+                "10": {
+                    "title": "Hat? No Hat?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 25,
+                    "original air date": "18 Feb. 2008",
+                    "year": "2008",
+                    "plot": "\n    Nick discovers that he's broke, Owen goes out with the girl that saved his life, and Hannah's parents come to town.    "
+                },
+                "11": {
+                    "title": "Stand Alone by Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 45,
+                    "original air date": "3 Mar. 2008",
+                    "year": "2008",
+                    "plot": "\n    Nick and his friends learn about the death of a girl they knew when they were kids, and Janet asks Eddie to visit her grandparents with her.    "
+                },
+                "12": {
+                    "title": "The Fine Art of Surfacing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 33,
+                    "original air date": "10 Mar. 2008",
+                    "year": "2008",
+                    "plot": "\n    Eddie's ex-girlfriend Rory is returning to town. Nick gets offered the chance to go tour with U2 - and get paid for it. Hannah is arrested for assaulting Christine.    "
+                },
+                "13": {
+                    "title": "As Soon as You Are Able",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 37,
+                    "original air date": "10 Mar. 2008",
+                    "year": "2008",
+                    "plot": "\n    Eddie is in the hospital after being assaulted, Janet has a guilty conscience, and Nick makes his decision about staying or leaving.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 105,
+                    "original air date": "15 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Nick Garrett returns to his home town to teach a seminar and meets his family, his friends and his old girlfriend again.    "
+                },
+                "2": {
+                    "title": "The Pros and Cons of Upsetting the Applecart",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 68,
+                    "original air date": "22 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Nick decides to stay in town because he wants to be near Hannah and her son.    "
+                },
+                "3": {
+                    "title": "Tomorrow's So Far Away",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 54,
+                    "original air date": "29 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Nick's return leaves Hannah in doubt about her relationship with Ray, while Eddie and Phil discover romances of their own.    "
+                },
+                "4": {
+                    "title": "Secrets and Guys",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 53,
+                    "original air date": "5 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n    Nick's dad is dating again, Ikey feels guilty about his affair with Owen's wife, and Nick makes a decision about his own relationship with Aubrey.    "
+                },
+                "5": {
+                    "title": "Forever Until Now",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 49,
+                    "original air date": "19 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n    Sam is in hospital after a bicycle accident, and Hannah and Nick wait to find out if he's okay.    "
+                },
+                "6": {
+                    "title": "Best Friend Windows",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "October Road (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 44,
+                    "original air date": "26 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n    Nick tries to talk Eddie into starting a business together, Phil fights for his Pizza Girl, and Ray tells Owen something he doesn't want to hear.    "
+                }
+            }
+        },
+        "number of episodes": 19,
+        "cast": [
+            {
+                "name": "Greenberg, Bryan"
+            },
+            {
+                "name": "Prepon, Laura"
+            },
+            {
+                "name": "Christie, Warren"
+            },
+            {
+                "name": "Henke, Brad William"
+            },
+            {
+                "name": "Jones, Evan"
+            },
+            {
+                "name": "Field, Rebecca"
+            },
+            {
+                "name": "Paulson, Jay"
+            },
+            {
+                "name": "Pearce, Slade"
+            },
+            {
+                "name": "Stults, Geoff"
+            },
+            {
+                "name": "Annable, Odette"
+            },
+            {
+                "name": "Berenger, Tom"
+            },
+            {
+                "name": "Murphy, Jonathan"
+            },
+            {
+                "name": "Booth, Lindy"
+            },
+            {
+                "name": "Bogush, Elizabeth"
+            },
+            {
+                "name": "Jerald, Penny Johnson"
+            },
+            {
+                "name": "Gunn, Sean"
+            },
+            {
+                "name": "Keane, James"
+            },
+            {
+                "name": "Tschupp, Christopher Eric"
+            },
+            {
+                "name": "Mitchell, Bo"
+            },
+            {
+                "name": "Blaze, Tanner"
+            },
+            {
+                "name": "Killham, Brandon"
+            },
+            {
+                "name": "Robinson, Bryce"
+            },
+            {
+                "name": "Whitlock, Destiny"
+            },
+            {
+                "name": "Emery, Julie Ann"
+            },
+            {
+                "name": "Bellamy, Bill"
+            },
+            {
+                "name": "Davenport, Dane"
+            },
+            {
+                "name": "Mills, Zach"
+            },
+            {
+                "name": "Acker, Amy"
+            },
+            {
+                "name": "Assante, Armand"
+            },
+            {
+                "name": "Leavell, Judy"
+            },
+            {
+                "name": "Nunn, Bill"
+            },
+            {
+                "name": "Fisher, Frances"
+            },
+            {
+                "name": "Gibson, Lauren"
+            },
+            {
+                "name": "Cornacchia, Michael"
+            },
+            {
+                "name": "Cartwright, Veronica"
+            },
+            {
+                "name": "Cobbs, Bill"
+            },
+            {
+                "name": "Malloy, John"
+            },
+            {
+                "name": "Reitz, Ric"
+            },
+            {
+                "name": "Sasso, Will"
+            },
+            {
+                "name": "Stroup, Jessica"
+            },
+            {
+                "name": "Josten, Matthew"
+            },
+            {
+                "name": "Abbott, Annie"
+            },
+            {
+                "name": "Diamond, Reed"
+            },
+            {
+                "name": "Fitzgerald, Wilbur"
+            },
+            {
+                "name": "Jacobson, Lenny"
+            },
+            {
+                "name": "Lombardo, Michelle"
+            },
+            {
+                "name": "Norris, Lee"
+            },
+            {
+                "name": "Tuck, Jessica"
+            },
+            {
+                "name": "Weisman, Kevin"
+            },
+            {
+                "name": "Thorne, Remy"
+            }
+        ],
+        "locations": [
+            "Newnan, Georgia, USA",
+            "Madison, Georgia, USA",
+            "Candler Park, Atlanta, Georgia, USA::(small market scene)",
+            "Sunset Gower Studios - 1438 N. Gower Street, Hollywood, Los Angeles, California, USA::(studio)"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Germany:6"
+        ],
+        "number of seasons": 2,
+        "rating": 7.5,
+        "votes": 4084,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNTA5NjQwMDUzN15BMl5BanBnXkFtZTcwNTQ5MjY0MQ@@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "October Road",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-2008",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Appelbaum, Josh"
+            },
+            {
+                "name": "Nemec, André"
+            },
+            {
+                "name": "Rosenberg, Scott"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Group M Entertainment"
+            },
+            {
+                "name": "Mojo Films"
+            },
+            {
+                "name": "Space Floor"
+            },
+            {
+                "name": "Touchstone Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "Alive Vertrieb und Marketing"
+            },
+            {
+                "name": "American Broadcasting Company (ABC)"
+            },
+            {
+                "name": "Capelight Pictures"
+            },
+            {
+                "name": "Net5"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Gamma & Density"
+            },
+            {
+                "name": "Inter Video"
+            },
+            {
+                "name": "Marshall/Plumb Research Associates"
+            },
+            {
+                "name": "Movie Movers"
+            },
+            {
+                "name": "Movie Movers"
+            },
+            {
+                "name": "Pacific Studios II"
+            },
+            {
+                "name": "Runway"
+            }
+        ],
+        "plot": [
+            "An author returns to his hometown to face the people whom he based his book on.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "43 min (19 episodes)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Arricam LT",
+                "Arricam ST",
+                "Arriflex 435"
+            ],
+            "negative format": [
+                "35 mm"
+            ],
+            "cinematographic process": [
+                "Super 35 (3-perf)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 4084,
+                "rating": 7.5
+            },
+            "aged 18 29": {
+                "votes": 691,
+                "rating": 7.5
+            },
+            "aged 30 44": {
+                "votes": 2342,
+                "rating": 7.6
+            },
+            "aged 45 plus": {
+                "votes": 603,
+                "rating": 7.2
+            },
+            "males": {
+                "votes": 1605,
+                "rating": 7.1
+            },
+            "males aged 18 29": {
+                "votes": 244,
+                "rating": 7.6
+            },
+            "males aged 30 44": {
+                "votes": 1015,
+                "rating": 7.2
+            },
+            "males aged 45 plus": {
+                "votes": 311,
+                "rating": 6.8
+            },
+            "females": {
+                "votes": 2093,
+                "rating": 7.8
+            },
+            "females aged 18 29": {
+                "votes": 442,
+                "rating": 7.5
+            },
+            "females aged 30 44": {
+                "votes": 1306,
+                "rating": 7.9
+            },
+            "females aged 45 plus": {
+                "votes": 288,
+                "rating": 7.8
+            },
+            "top 1000 voters": {
+                "votes": 64,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 1903,
+                "rating": 7.8
+            },
+            "non us users": {
+                "votes": 1441,
+                "rating": 7.2
+            }
+        },
+        "number of votes": {
+            "10": 1289,
+            "9": 533,
+            "8": 836,
+            "7": 620,
+            "6": 339,
+            "5": 153,
+            "4": 68,
+            "3": 47,
+            "2": 46,
+            "1": 153
+        },
+        "arithmetic mean": 7.9,
+        "median": 8
+    }
+}

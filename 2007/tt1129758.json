@@ -1,0 +1,96 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "France\n",
+                "date": "5 November 2007"
+            }
+        ],
+        "release dates": [
+            "France::5 November 2007"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Super animaux"
+            },
+            {
+                "countries": "Germany",
+                "title": "Tausendsassa Tier"
+            },
+            {
+                "countries": "Greece (transliterated ISO-LATIN-1 title)",
+                "title": "Super zoa"
+            }
+        ],
+        "akas": [
+            "Super animaux (original title)",
+            "Tausendsassa Tier Germany",
+            "Super zoa Greece (transliterated ISO-LATIN-1 title)"
+        ],
+        "akas from release info": [
+            "Super animaux (original title)",
+            "Tausendsassa Tier Germany",
+            "Super zoa Greece (transliterated ISO-LATIN-1 title)"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Chauve souris superstar",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Super animaux (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "15 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "France"
+        ],
+        "country codes": [
+            "fr"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Greece:K"
+        ],
+        "languages": [
+            "French"
+        ],
+        "title": "Super animaux",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-",
+        "distributors": [
+            {
+                "name": "Arte"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "43 min (5 episodes)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

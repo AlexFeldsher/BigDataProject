@@ -1,0 +1,416 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "22 March 2007"
+            }
+        ],
+        "release dates": [
+            "USA::22 March 2007"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "This American Life"
+            },
+            {
+                "countries": "Russia",
+                "title": "Эта американская жизнь"
+            }
+        ],
+        "akas": [
+            "This American Life (original title)",
+            "Эта американская жизнь Russia"
+        ],
+        "akas from release info": [
+            "This American Life (original title)",
+            "Эта американская жизнь Russia"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Escape",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "This American Life (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 24,
+                    "original air date": "4 May 2008",
+                    "year": "2008",
+                    "plot": "\n    Teenage boys find ways to impress girls using a mode of transport obsolete since the 19th century; a young man's fight for independence from his mother would be normal for most kids, except for some special circumstances.    "
+                },
+                "2": {
+                    "title": "Two Wars",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "This American Life (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 14,
+                    "original air date": "11 May 2008",
+                    "year": "2008",
+                    "plot": "\n    Two foreigners in the U.S., in the aftermath of two very different wars, try to make sense of life here.    "
+                },
+                "3": {
+                    "title": "Going Down in History",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "This American Life (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 14,
+                    "original air date": "18 May 2008",
+                    "year": "2008",
+                    "plot": "\n    A pair of convicts almost escape prison using dental floss; high school students pose for yearbook snapshots, which capture nothing of the drama in their lives; a man with a 30-year obsession with one particular bird.    "
+                },
+                "4": {
+                    "title": "Fighters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "This American Life (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 18,
+                    "original air date": "25 May 2008",
+                    "year": "2008",
+                    "plot": "\n    Two boxers in Tennessee who've known each other all their lives face off in a match that neither can afford to lose.    "
+                },
+                "5": {
+                    "title": "Scenes from a Marriage",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "This American Life (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 18,
+                    "original air date": "1 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n    Tales of troubled marriages include an animated true story by cartoonist Chris Ware; and a real-life look at a husband whose legal obsession causes serious trouble with his spouse.    "
+                },
+                "6": {
+                    "title": "John Smith",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "This American Life (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 31,
+                    "original air date": "8 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n    The true life stories of several Americans with the name John Smith, from an 11-week-old boy whose parents expected a girl, to a 46-year-old Texan, welcoming his son home from Iraq.    "
+                },
+                "7": {
+                    "title": "No Respect",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "This American Life (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "original air date": "29 May 2009",
+                    "year": "2009",
+                    "plot": "\n    A bonus second-season edition comprised of material produced for the This American Life web site, a look at comedians and their audiences includes segments about unknown comics performing for a rowdy crowd at a club in the middle of nowhere, and a piece about Mike Birbiglia, a standup with a scathing routine about his worst gig ever.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Reality Check",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "This American Life (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 19,
+                    "original air date": "22 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Three stories of people who hatched plans in the hopes of making their dreams come true, but were snapped back to reality by unpleasant outcomes.    "
+                },
+                "2": {
+                    "title": "My Way",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "This American Life (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 15,
+                    "original air date": "29 Mar. 2007",
+                    "year": "2007",
+                    "plot": "\n    Four segments that explore the cost of stubbornness, including a man who refuses to acknowledge some important events in his wife's life; a politician who attempts to win an election without ever lying.    "
+                },
+                "3": {
+                    "title": "God's Close-up",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "This American Life (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 17,
+                    "original air date": "5 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n    Stories where the faithful and the not-so-faithful cross paths, and where unexpected things happen when people try to get closer to God through pictures: hundreds of Polaroid camera-toting believers gather in the Mojave Desert each month hoping to see God. And an artist, his Jesus model, the model's atheist girlfriend, and her religious father face off on The Last Supper.    "
+                },
+                "4": {
+                    "title": "The Cameraman",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "This American Life (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 16,
+                    "original air date": "12 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n    This episode is devoted to a single story by way of G.J. Echternkamp. G.J. spent years filming his mother and stepfather. In the '80s, his stepfather, Frank Garcia, was the bassist in a briefly-famous band called OXO. G.J.'s mom, Cindy Brown, met him at the height of his success, when the band's one Top 40 hit, \"Whirly Girl,\" was on the charts. Twenty years later, they're still together, but living a life they probably wouldn't have imagined back then. G.J. started filming them as a joke, but over time, his reasons changed, and the way he saw both his parents changed ...    "
+                },
+                "5": {
+                    "title": "Growth Spurt",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "This American Life (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 13,
+                    "original air date": "19 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n    What do you do if you're unhappy with where you are in life? Some people simply will themselves to the next stage.    "
+                },
+                "6": {
+                    "title": "Pandora's Box",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "This American Life (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 12,
+                    "original air date": "26 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n    Three stories of the unexpected consequences of trying new things including scientists that accidentally discover a way to erase memories and later get surprising requests from people who want their own minds wiped clean.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Glass, Ira"
+            },
+            {
+                "name": "Finch, Milo"
+            },
+            {
+                "name": "Partyka, Chris"
+            },
+            {
+                "name": "Beneville, Barbara"
+            },
+            {
+                "name": "Brown, Cynthia"
+            },
+            {
+                "name": "Echternkamp, G.J."
+            },
+            {
+                "name": "Garcia, Frank"
+            },
+            {
+                "name": "Westhusin, Mark"
+            },
+            {
+                "name": "Depp, Johnny"
+            },
+            {
+                "name": "Tran, Rosie"
+            }
+        ],
+        "locations": [
+            "USA"
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "22"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "certificates": [
+            "United States:TV-14"
+        ],
+        "number of seasons": 2,
+        "rating": 8.5,
+        "votes": 566,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYjMzYTRkZDMtMDM2Ny00ZmE4LWI5YTAtNDMwZDJiNmZhOTcxXkEyXkFqcGdeQXVyMTk3NDAwMzI@._V1_SX101_CR0,0,101,150_.jpg",
+        "budget": "$50,000 (estimated)",
+        "plot outline": "National Public Radio's long-running documentary series makes the leap to TV, telling stories culled from all across the nation. Host Ira Glass (who's pulling double-duty on the TV show as he's also the host on radio) and a team of filmmakers spend months on the road finding stories they think would be interesting to viewers -- stories involving Iowa pig farms, an Illinois hot-dog stand and a man who spends several hours a day in his family's mausoleum, among other tales. Many of the stories featured on the show were originally told on the radio show, with video added for the TV audience.",
+        "languages": [
+            "English"
+        ],
+        "title": "This American Life",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-2009",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Beckman, Adam"
+            },
+            {
+                "name": "Blumberg, Alex"
+            },
+            {
+                "name": "Glass, Ira"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Killer Films"
+            },
+            {
+                "name": "Left / Right Docs"
+            },
+            {
+                "name": "Left/Right"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Showtime Networks"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "King Media Services"
+            }
+        ],
+        "plot": [
+            "An anthology of true stories pertaining to various themes are illustrated.::Kenneth Chisholm",
+            "National Public Radio's long-running documentary series makes the leap to TV, telling stories culled from all across the nation. Host 'Ira Glass' (qv) (who's pulling double-duty on the TV show as he's also the host on radio) and a team of filmmakers spend months on the road finding stories they think would be interesting to viewers -- stories involving Iowa pig farms, an Illinois hot-dog stand and a man who spends several hours a day in his family's mausoleum, among other tales. Many of the stories featured on the show were originally told on the radio show, with video added for the TV audience.::Jwelch5742"
+        ],
+        "tech": {
+            "runtime": [
+                "22 min (USA)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 566,
+                "rating": 8.5
+            },
+            "aged 18 29": {
+                "votes": 74,
+                "rating": 8.7
+            },
+            "aged 30 44": {
+                "votes": 321,
+                "rating": 8.6
+            },
+            "aged 45 plus": {
+                "votes": 101,
+                "rating": 7.9
+            },
+            "males": {
+                "votes": 365,
+                "rating": 8.4
+            },
+            "males aged 18 29": {
+                "votes": 52,
+                "rating": 8.8
+            },
+            "males aged 30 44": {
+                "votes": 234,
+                "rating": 8.4
+            },
+            "males aged 45 plus": {
+                "votes": 69,
+                "rating": 7.9
+            },
+            "females": {
+                "votes": 142,
+                "rating": 8.7
+            },
+            "females aged 18 29": {
+                "votes": 22,
+                "rating": 8.7
+            },
+            "females aged 30 44": {
+                "votes": 83,
+                "rating": 9.0
+            },
+            "females aged 45 plus": {
+                "votes": 31,
+                "rating": 7.7
+            },
+            "top 1000 voters": {
+                "votes": 18,
+                "rating": 6.8
+            },
+            "us users": {
+                "votes": 413,
+                "rating": 8.5
+            },
+            "non us users": {
+                "votes": 71,
+                "rating": 8.5
+            }
+        },
+        "number of votes": {
+            "10": 239,
+            "9": 122,
+            "8": 102,
+            "7": 55,
+            "6": 16,
+            "5": 10,
+            "4": 5,
+            "3": 1,
+            "2": 9,
+            "1": 7
+        },
+        "arithmetic mean": 8.6,
+        "median": 9
+    }
+}

@@ -1,0 +1,456 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "16 April 2007"
+            },
+            {
+                "country": "UK\n",
+                "date": "20 May 2008"
+            },
+            {
+                "country": "Australia\n",
+                "date": "24 June 2010"
+            },
+            {
+                "country": "Australia\n",
+                "date": "12 August 2010"
+            }
+        ],
+        "release dates": [
+            "UK::16 April 2007",
+            "UK::20 May 2008",
+            "Australia::24 June 2010",
+            "Australia::12 August 2010"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Supersizers Go..."
+            },
+            {
+                "countries": "Russia",
+                "title": "Отчаянные дегустаторы отправляются..."
+            },
+            {
+                "countries": "UK (new title)",
+                "title": "The Supersizers Eat..."
+            }
+        ],
+        "akas": [
+            "The Supersizers Go... (original title)",
+            "Отчаянные дегустаторы отправляются... Russia",
+            "The Supersizers Eat... UK (new title)"
+        ],
+        "akas from release info": [
+            "The Supersizers Go... (original title)",
+            "Отчаянные дегустаторы отправляются... Russia",
+            "The Supersizers Eat... UK (new title)"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "The Eighties",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Supersizers Eat... (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 10,
+                    "original air date": "15 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    Giles Coren and Sue Perkins travel back to the decade of their own adolescence; the 1980s.    "
+                },
+                "2": {
+                    "title": "Medieval",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Supersizers Eat... (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 8,
+                    "original air date": "22 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "The French Revolution",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Supersizers Eat... (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 9,
+                    "original air date": "6 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "The Twenties",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Supersizers Eat... (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 10,
+                    "original air date": "13 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "The Fifties",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Supersizers Eat... (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 7,
+                    "original air date": "20 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Ancient Rome",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Supersizers Eat... (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 7,
+                    "original air date": "27 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    Giles and Sue go further back then ever, finding out what garum - a ubiquitous ingredient in the Roman kitchen in almost anything - actually was. And that some of the typical British dishes are in fact Roman.    "
+                }
+            },
+            "1": {
+                "0": {
+                    "title": "Edwardian",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Supersizers Eat... (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 0,
+                    "votes": 11,
+                    "original air date": "16 Apr. 2007",
+                    "year": "2007",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "1": {
+                    "title": "Wartime",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Supersizers Eat... (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 13,
+                    "original air date": "20 May 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Restoration",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Supersizers Eat... (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 7,
+                    "original air date": "27 May 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Victorian",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Supersizers Eat... (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 7,
+                    "original air date": "3 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Seventies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Supersizers Eat... (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 9,
+                    "original air date": "10 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Elizabethan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Supersizers Eat... (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 9,
+                    "original air date": "17 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Regency",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Supersizers Eat... (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 12,
+                    "original air date": "24 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Coren, Giles"
+            },
+            {
+                "name": "Perkins, Sue"
+            },
+            {
+                "name": "Marsden, Roy"
+            },
+            {
+                "name": "McEvedy, Allegra"
+            },
+            {
+                "name": "Weiss, Mickael"
+            },
+            {
+                "name": "Grigson, Sophie"
+            },
+            {
+                "name": "Shrager, Rosemary"
+            },
+            {
+                "name": "Berry, Mary"
+            },
+            {
+                "name": "Harris, Valentina"
+            },
+            {
+                "name": "Armstrong, Tim"
+            },
+            {
+                "name": "Broke-Smith, Jean"
+            },
+            {
+                "name": "Gardiner, Juliet"
+            },
+            {
+                "name": "Hattersley, Roy"
+            },
+            {
+                "name": "Martineau, Patrice"
+            },
+            {
+                "name": "Mosimann, Anton"
+            },
+            {
+                "name": "Dobson, Michael"
+            },
+            {
+                "name": "Harris, Amanda"
+            },
+            {
+                "name": "Ker, Humphrey"
+            },
+            {
+                "name": "Lan, David"
+            },
+            {
+                "name": "Manton, Emma"
+            },
+            {
+                "name": "Reed, David"
+            },
+            {
+                "name": "Spencer, Colin"
+            },
+            {
+                "name": "Tuck, Thom"
+            },
+            {
+                "name": "Wells, Stanley"
+            },
+            {
+                "name": "Cranham, Kenneth"
+            },
+            {
+                "name": "Patten, Marguerite"
+            }
+        ],
+        "genres": [
+            "History"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Australia:PG"
+        ],
+        "number of seasons": 2,
+        "rating": 8.8,
+        "votes": 581,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYTQzMDkzZmYtYmQyOS00NGQyLTgxYmItN2E4MjY2ZjVjMTMzXkEyXkFqcGdeQXVyNjgwMjgxNzA@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Supersizers Eat...",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "production companies": [
+            {
+                "name": "British Broadcasting Corporation"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Life Network"
+            }
+        ],
+        "plot": [
+            "A comedienne & a humor writer try their hand at living in different eras. They dress, eat, and live the past. Before and after, their vitals are tested to see how these lifestyles affect their health.::Graygrrrl"
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 581,
+                "rating": 8.8
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "aged 18 29": {
+                "votes": 86,
+                "rating": 8.9
+            },
+            "aged 30 44": {
+                "votes": 229,
+                "rating": 8.9
+            },
+            "aged 45 plus": {
+                "votes": 149,
+                "rating": 8.8
+            },
+            "males": {
+                "votes": 170,
+                "rating": 8.4
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "males aged 18 29": {
+                "votes": 30,
+                "rating": 8.0
+            },
+            "males aged 30 44": {
+                "votes": 72,
+                "rating": 8.5
+            },
+            "males aged 45 plus": {
+                "votes": 64,
+                "rating": 8.5
+            },
+            "females": {
+                "votes": 308,
+                "rating": 9.1
+            },
+            "females aged 18 29": {
+                "votes": 56,
+                "rating": 9.2
+            },
+            "females aged 30 44": {
+                "votes": 154,
+                "rating": 9.0
+            },
+            "females aged 45 plus": {
+                "votes": 84,
+                "rating": 9.0
+            },
+            "top 1000 voters": {
+                "votes": 7,
+                "rating": 7.4
+            },
+            "us users": {
+                "votes": 146,
+                "rating": 8.9
+            },
+            "non us users": {
+                "votes": 261,
+                "rating": 8.8
+            }
+        },
+        "number of votes": {
+            "10": 237,
+            "9": 183,
+            "8": 100,
+            "7": 32,
+            "6": 11,
+            "5": 2,
+            "4": 4,
+            "3": 4,
+            "2": 1,
+            "1": 7
+        },
+        "arithmetic mean": 8.9,
+        "median": 9
+    }
+}
