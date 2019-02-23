@@ -1,0 +1,580 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "13 June 2010"
+            },
+            {
+                "country": "France\n",
+                "date": "6 March 2011"
+            },
+            {
+                "country": "Finland\n",
+                "date": "9 September 2013"
+            }
+        ],
+        "release dates": [
+            "USA::13 June 2010",
+            "France::6 March 2011",
+            "Finland::9 September 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Unnatural History"
+            },
+            {
+                "countries": "Brazil",
+                "title": "História Fora do Normal"
+            },
+            {
+                "countries": "Finland",
+                "title": "Luonnoton historia"
+            },
+            {
+                "countries": "France",
+                "title": "Les aventuriers de Smithson High"
+            },
+            {
+                "countries": "Russia",
+                "title": "Невероятная история"
+            }
+        ],
+        "akas": [
+            "Unnatural History (original title)",
+            "História Fora do Normal Brazil",
+            "Luonnoton historia Finland",
+            "Les aventuriers de Smithson High France",
+            "Невероятная история Russia"
+        ],
+        "akas from release info": [
+            "Unnatural History (original title)",
+            "História Fora do Normal Brazil",
+            "Luonnoton historia Finland",
+            "Les aventuriers de Smithson High France",
+            "Невероятная история Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unnatural History (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 48,
+                    "original air date": "13 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    After being attacked by a yak in Bhutan, Henry's anthropologist parents decide to send him some place where he can't get himself into any more trouble, Washington, D.C., to live with his uncle and cousin. Upon arrival, he's faced with solving his godfather's murder.    "
+                },
+                "2": {
+                    "title": "The Griffin Gang",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unnatural History (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 40,
+                    "original air date": "20 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    When a mysterious flu-like epidemic sweeps through Smithson High and forces the school into lock down, it's up to our trio of heroes to figure out what's happened before Smithson High becomes the sophomore class's tomb.    "
+                },
+                "3": {
+                    "title": "Sleeper in a Box",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unnatural History (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 35,
+                    "original air date": "27 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    A mysterious rock arrives in the DOUM rooms at the NMC, and when Russian mercenaries try to steal it, it's up to Henry, Jasper and Maggie to stop them.    "
+                },
+                "4": {
+                    "title": "The Heart of the Warrior",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unnatural History (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 30,
+                    "original air date": "13 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    A Japanese martial artist is suspected when looted Japanese treasures traveling with the Shogun Samurai exhibit are stolen.    "
+                },
+                "5": {
+                    "title": "Fountain of Truth",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unnatural History (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 25,
+                    "original air date": "20 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    Henry's Godfather leaves Henry a trunk containing artifacts which leads him to uncover a secret discovery made by Ponce de Leon.    "
+                },
+                "6": {
+                    "title": "Public School Enemies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unnatural History (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 20,
+                    "original air date": "27 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    During a car exhibit, Henry finds a letter from John Dillinger to J. Edgar Hoover about a stash of money. The trio go on the hunt for the money to save the school budget cuts and the dean's job.    "
+                },
+                "7": {
+                    "title": "The Liberian Candidate",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unnatural History (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 25,
+                    "original air date": "3 Aug. 2010",
+                    "year": "2010",
+                    "plot": "\n    Henry crosses paths with an old friend/rival from his past whose father may be the target of an assassination attempt.    "
+                },
+                "8": {
+                    "title": "Curse of the Rolling Stone",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unnatural History (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 18,
+                    "original air date": "10 Aug. 2010",
+                    "year": "2010",
+                    "plot": "\n    Henry and gang try to recover a ruby stolen from the museum, which is presumably cursed.    "
+                },
+                "9": {
+                    "title": "Now You See Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unnatural History (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 16,
+                    "original air date": "17 Aug. 2010",
+                    "year": "2010",
+                    "plot": "\n    Henry investigates the disappearance of a Senator's son after a teen magician makes him vanish using one of Houdini's old tricks.    "
+                },
+                "10": {
+                    "title": "Maximum Insecurity",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unnatural History (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 22,
+                    "original air date": "24 Aug. 2010",
+                    "year": "2010",
+                    "plot": "\n    Henry, Maggie and Jasper find themselves trapped in the museum when a group of thieves attempt to steal a computer from WWII.    "
+                },
+                "11": {
+                    "title": "Thor's Slammer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unnatural History (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 18,
+                    "original air date": "31 Aug. 2010",
+                    "year": "2010",
+                    "plot": "\n    In order to clear his uncle's name, Henry must discover who murdered Bryan's old partner and uncover the Viking artifact he was searching for.    "
+                },
+                "12": {
+                    "title": "Beetlemania",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unnatural History (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 15,
+                    "original air date": "14 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    Henry finds a package that contains a stowaway-a rare and dangerous bug.    "
+                },
+                "13": {
+                    "title": "Past, Presidents and Future",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unnatural History (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 13,
+                    "original air date": "21 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    Henry follows a clue trail left by George Washington as a school election pits Jasper vs. Maggie.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Schmidt, Kevin G."
+            },
+            {
+                "name": "Gavaris, Jordan"
+            },
+            {
+                "name": "Ricci, Italia"
+            },
+            {
+                "name": "Donovan, Martin"
+            },
+            {
+                "name": "Morgan, Wesley"
+            },
+            {
+                "name": "Saranga, Vas"
+            },
+            {
+                "name": "Baram, Matt"
+            },
+            {
+                "name": "Yaphe, Scott"
+            },
+            {
+                "name": "Hourigan, Jack"
+            },
+            {
+                "name": "Amell, Robbie"
+            },
+            {
+                "name": "Fox, Colin"
+            },
+            {
+                "name": "Hewitt, Kjartan"
+            },
+            {
+                "name": "Kraemer, Jacob"
+            },
+            {
+                "name": "Williams, Dewshane"
+            },
+            {
+                "name": "Ferguson, Matthew"
+            },
+            {
+                "name": "Mukadam, Al"
+            },
+            {
+                "name": "Wells, Danny"
+            },
+            {
+                "name": "Laborde, Rosa"
+            },
+            {
+                "name": "Mitchell, Thomas"
+            },
+            {
+                "name": "Dunsmore, Rosemary"
+            },
+            {
+                "name": "Saranga, Varun"
+            },
+            {
+                "name": "Del Bel, Matthew Belluz"
+            },
+            {
+                "name": "Borbridge, Brad"
+            },
+            {
+                "name": "Gallo, J.J."
+            },
+            {
+                "name": "Perron, Alex"
+            },
+            {
+                "name": "Amendra, Roshan"
+            },
+            {
+                "name": "Aquilina, Luke"
+            },
+            {
+                "name": "Bowes, Will"
+            },
+            {
+                "name": "Butcher, Adam"
+            },
+            {
+                "name": "Cadilha, Raquel"
+            },
+            {
+                "name": "Carter, Andrea"
+            },
+            {
+                "name": "Chow, Ho"
+            },
+            {
+                "name": "Dalton, Rebecca"
+            },
+            {
+                "name": "Davison, Neil"
+            },
+            {
+                "name": "de Guzman, Xavier"
+            },
+            {
+                "name": "DiMatteo, Stefano"
+            },
+            {
+                "name": "Fox, Gavin"
+            },
+            {
+                "name": "Goad, Jonathan"
+            },
+            {
+                "name": "Goossen, Jeananne"
+            },
+            {
+                "name": "Gosbee, Jason"
+            },
+            {
+                "name": "Hayes, Stefen"
+            },
+            {
+                "name": "Joshi, Tara"
+            },
+            {
+                "name": "Kasyanov, Robin"
+            },
+            {
+                "name": "King, George"
+            },
+            {
+                "name": "Leggat, Ashley"
+            },
+            {
+                "name": "Lewis, Ben"
+            },
+            {
+                "name": "Mac, Kyle"
+            },
+            {
+                "name": "Mark, Chris"
+            },
+            {
+                "name": "Mark, James"
+            },
+            {
+                "name": "Martyr, Eli"
+            }
+        ],
+        "locations": [
+            "Toronto, Ontario, Canada",
+            "Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA"
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "History",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Canada:G",
+            "Canada:PG::(some episodes)",
+            "United States:TV-PG::(V)",
+            "United States:TV-PG::(some episodes)"
+        ],
+        "number of seasons": 1,
+        "rating": 7.6,
+        "votes": 1303,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTU1MzI1MzYyNl5BMl5BanBnXkFtZTcwNDIyNjIxNA@@._V1_SY150_CR62,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Unnatural History",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Werb, Mike"
+            },
+            {
+                "name": "Colleary, Michael"
+            },
+            {
+                "name": "Easterly, Chris"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Warner Horizon Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CNBC-e"
+            },
+            {
+                "name": "Cartoon Network"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Cinema Sound Design"
+            },
+            {
+                "name": "William F. White International"
+            }
+        ],
+        "plot": [
+            "A young man is sent to live with his uncle and cousin in Washington DC by his anthropologist parents. In the process, he must use the skills he learned around the world in order to solve various crimes and conspiracies.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (Canada)",
+                "45 min (approx)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "camera": [
+                "Arriflex Cameras and Lenses"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1303,
+                "rating": 7.6
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 1.0
+            },
+            "aged 18 29": {
+                "votes": 522,
+                "rating": 8.2
+            },
+            "aged 30 44": {
+                "votes": 437,
+                "rating": 7.2
+            },
+            "aged 45 plus": {
+                "votes": 165,
+                "rating": 7.0
+            },
+            "males": {
+                "votes": 675,
+                "rating": 7.3
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 1.0
+            },
+            "males aged 18 29": {
+                "votes": 267,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 284,
+                "rating": 6.8
+            },
+            "males aged 45 plus": {
+                "votes": 112,
+                "rating": 6.7
+            },
+            "females": {
+                "votes": 467,
+                "rating": 8.1
+            },
+            "females aged 18 29": {
+                "votes": 253,
+                "rating": 8.3
+            },
+            "females aged 30 44": {
+                "votes": 146,
+                "rating": 8.1
+            },
+            "females aged 45 plus": {
+                "votes": 51,
+                "rating": 8.0
+            },
+            "top 1000 voters": {
+                "votes": 23,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 383,
+                "rating": 7.9
+            },
+            "non us users": {
+                "votes": 522,
+                "rating": 7.2
+            }
+        },
+        "number of votes": {
+            "10": 489,
+            "9": 164,
+            "8": 230,
+            "7": 176,
+            "6": 88,
+            "5": 43,
+            "4": 21,
+            "3": 19,
+            "2": 11,
+            "1": 62
+        },
+        "arithmetic mean": 8.0,
+        "median": 9
+    }
+}

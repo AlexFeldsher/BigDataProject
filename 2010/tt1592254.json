@@ -1,0 +1,825 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "22 September 2010"
+            },
+            {
+                "country": "USA\n",
+                "date": "22 September 2010"
+            },
+            {
+                "country": "Poland\n",
+                "date": "15 November 2010"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "18 November 2010"
+            },
+            {
+                "country": "Spain\n",
+                "date": "18 December 2010"
+            },
+            {
+                "country": "Russia\n",
+                "date": "27 January 2011"
+            },
+            {
+                "country": "Germany\n",
+                "date": "20 March 2011"
+            },
+            {
+                "country": "UK\n",
+                "date": "8 April 2011"
+            },
+            {
+                "country": "Malaysia\n",
+                "date": "18 May 2011"
+            },
+            {
+                "country": "Australia\n",
+                "date": "1 June 2011"
+            },
+            {
+                "country": "Japan\n",
+                "date": "26 July 2011"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "23 October 2011"
+            },
+            {
+                "country": "Finland\n",
+                "date": "2 March 2013"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "19 May 2014"
+            }
+        ],
+        "release dates": [
+            "Canada::22 September 2010",
+            "USA::22 September 2010",
+            "Poland::15 November 2010",
+            "Hungary::18 November 2010",
+            "Spain::18 December 2010",
+            "Russia::27 January 2011",
+            "Germany::20 March 2011",
+            "UK::8 April 2011",
+            "Malaysia::18 May 2011",
+            "Australia::1 June 2011",
+            "Japan::26 July 2011",
+            "Sweden::23 October 2011",
+            "Finland::2 March 2013",
+            "Netherlands::19 May 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Defenders"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Защитниците"
+            },
+            {
+                "countries": "Croatia",
+                "title": "Obrana"
+            },
+            {
+                "countries": "Estonia",
+                "title": "Kaitsjad"
+            },
+            {
+                "countries": "Greece",
+                "title": "The Defenders"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Jog/Ászok"
+            },
+            {
+                "countries": "Romania",
+                "title": "Avocati în Las Vegas"
+            },
+            {
+                "countries": "Russia",
+                "title": "Фишки. Деньги. Адвокаты"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Branioci"
+            },
+            {
+                "countries": "Switzerland",
+                "title": "The Defenders"
+            }
+        ],
+        "akas": [
+            "The Defenders (original title)",
+            "Защитниците Bulgaria (Bulgarian title)",
+            "Obrana Croatia",
+            "Kaitsjad Estonia",
+            "The Defenders Greece",
+            "Jog/Ászok Hungary",
+            "Avocati în Las Vegas Romania",
+            "Фишки. Деньги. Адвокаты Russia",
+            "Branioci Serbia",
+            "The Defenders Switzerland"
+        ],
+        "akas from release info": [
+            "The Defenders (original title)",
+            "Защитниците Bulgaria (Bulgarian title)",
+            "Obrana Croatia",
+            "Kaitsjad Estonia",
+            "The Defenders Greece",
+            "Jog/Ászok Hungary",
+            "Avocati în Las Vegas Romania",
+            "Фишки. Деньги. Адвокаты Russia",
+            "Branioci Serbia",
+            "The Defenders Switzerland"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 104,
+                    "original air date": "22 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    Nick and Pete defend a young man facing a murder charge in a case unique to Vegas that requires a slight bending of the rules and 'by any means necessary' tactics.    "
+                },
+                "2": {
+                    "title": "Las Vegas v. Reid",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 75,
+                    "original air date": "29 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    Nick works the system to free a single mother accused of running down a jogger while chit chatting on her cell phone, meanwhile, Pete does his best to help a man down on his luck.    "
+                },
+                "3": {
+                    "title": "Nevada v. Carter",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 72,
+                    "original air date": "6 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    Nick defends a stripper accused of solicitation, and Pete is forced to take an unwanted case after losing a hand of poker.    "
+                },
+                "4": {
+                    "title": "Nevada v. Cerrato",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 57,
+                    "original air date": "13 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    Nick is ready to accept a simple arson case until he realizes that his client could be convicted of first-degree murder. Meanwhile, Pete helps a lottery winner take on a casino when he loses his fortune after a night of high rolling.    "
+                },
+                "5": {
+                    "title": "Nevada v. Sen. Harper",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 57,
+                    "original air date": "20 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    Nick and Pete are shocked when their client, a state senator, is charged with the kidnapping and burglary of his mistress in the midst of a divorce case. Meanwhile, Pete defends an attractive cabana girl from accusations of assault and battery.    "
+                },
+                "6": {
+                    "title": "Nevada v. Rodgers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 54,
+                    "original air date": "27 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    When a man is killed and an off-duty cop is left wounded in a bar shooting, Nick must prove reasonable doubt in his client's charge for attempted murder. Meanwhile, Pete tries to cut a deal for man caught with stolen Elvis memorabilia.    "
+                },
+                "7": {
+                    "title": "Las Vegas vs. Johnson",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 70,
+                    "original air date": "3 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    When an entertainer's girlfriend is charged with his murder, Nick begrudgingly accepts Pete's request to represent the finicky mistress.    "
+                },
+                "8": {
+                    "title": "Nevada v. Killa Diz",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 51,
+                    "original air date": "10 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    Nick comes to the defense of a young rapper wanted on two counts of first-degree murder. Meanwhile, Pete takes the case of an Internet hacker facing RICO charges.    "
+                },
+                "9": {
+                    "title": "Whitten v. Fenlee",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 55,
+                    "original air date": "17 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    When a woman's husband dies from a fall on a construction site, Nick and Pete look to prove wrongful death against the company. Meanwhile, Pete tries to help an online blogger avoid jail after exposing an illusionist's magic trick.    "
+                },
+                "10": {
+                    "title": "Nevada v. Dennis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 62,
+                    "original air date": "8 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    When a young man is pulled over carrying guns with filed-off serial numbers, Nick and Pete try to get the charges thrown out. Meanwhile, Nick agrees to help the ADA's sister save a bear from being euthanized.    "
+                },
+                "11": {
+                    "title": "Nevada v. Riley",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 48,
+                    "original air date": "15 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    Nick and Pete come to the aid of a troubled ex-football player charged with battery. Meanwhile, Pete becomes exasperated when his father shows up in town.    "
+                },
+                "12": {
+                    "title": "Nevada v. Wayne",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 45,
+                    "original air date": "12 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    Nick's personal ties to a young man charged with sexual assault prompt him to defend the accusations. Meanwhile, Pete is stunned when he has jury duty.    "
+                },
+                "13": {
+                    "title": "Nevada v. Donnie the Numbers Guy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 52,
+                    "original air date": "4 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    Seventeen years after disappearing on the eve of his wife's murder trial, a man from Nick's past returns to Vegas looking to prove his innocence by relying on new technological tools.    "
+                },
+                "14": {
+                    "title": "Nevada v. Doug the Mule",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 50,
+                    "original air date": "11 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    When a young man is pulled over carrying 30 bricks of cocaine, Nick and Pete look to prove their client was duped by a girl he met on spring break.    "
+                },
+                "15": {
+                    "title": "Nevada v. Hunter",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 50,
+                    "original air date": "18 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    Facing thirty counts of possession of a controlled substance, an overconfident judge turns to Nick, who has no choice but to help acquit him of the charges.    "
+                },
+                "16": {
+                    "title": "Noland v. Galloway Pharmaceuticals",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 51,
+                    "original air date": "25 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    Two separates incidents of victims overdosing on epinephrine prompt Nick and Pete to sue a Fortune 500 pharmaceutical company for faulty packaging. Meanwhile, Lisa has a secret affair with ADA Ward while contemplating an intriguing job offer.    "
+                },
+                "17": {
+                    "title": "Nevada v. Greene",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 47,
+                    "original air date": "4 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Unable to recall any events from the previous night, the son of a hotel owner turns to Nick and Pete for help after he awakes to find a casino host strangled to death in a hot tub.    "
+                },
+                "18": {
+                    "title": "Morelli v. Kaczmarek",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Defenders (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 56,
+                    "original air date": "11 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    The law firm of Morelli & Kaczmarek is no more when Nick and Pete temporarily dissolve their partnership so they can both represent a husband and wife accused of murdering a yoga instructor.    "
+                }
+            }
+        },
+        "number of episodes": 18,
+        "cast": [
+            {
+                "name": "Belushi, Jim"
+            },
+            {
+                "name": "O'Connell, Jerry"
+            },
+            {
+                "name": "Smollett-Bell, Jurnee"
+            },
+            {
+                "name": "Fischer, Tanya"
+            },
+            {
+                "name": "Sears, Teddy"
+            },
+            {
+                "name": "Michaell, Monnae"
+            },
+            {
+                "name": "Gordon, Nealla"
+            },
+            {
+                "name": "Becker, Kuno"
+            },
+            {
+                "name": "Turman, Glynn"
+            },
+            {
+                "name": "Acosta, Julian"
+            },
+            {
+                "name": "Vigman, Gillian"
+            },
+            {
+                "name": "Belushi, Robert"
+            },
+            {
+                "name": "Jensen, Cole"
+            },
+            {
+                "name": "Millhouse, Ambrit"
+            },
+            {
+                "name": "Zea, Natalie"
+            },
+            {
+                "name": "Ramsey, David"
+            },
+            {
+                "name": "Jr., Frank Sinatra"
+            },
+            {
+                "name": "Melendez, Ron"
+            },
+            {
+                "name": "LaNasa, Katherine"
+            },
+            {
+                "name": "Govich, Milena"
+            },
+            {
+                "name": "Rolston, Mark"
+            },
+            {
+                "name": "Wang, Stephanie Y."
+            },
+            {
+                "name": "Palladino, Erik"
+            },
+            {
+                "name": "Adler, Michael"
+            },
+            {
+                "name": "Andrews, A. Russell"
+            },
+            {
+                "name": "Norona, David"
+            },
+            {
+                "name": "Gross, Arye"
+            },
+            {
+                "name": "Klace, Scott"
+            },
+            {
+                "name": "Harney, Michael"
+            },
+            {
+                "name": "Richards, J. August"
+            },
+            {
+                "name": "Atkins, Lois"
+            },
+            {
+                "name": "Hawkes, Andrew"
+            },
+            {
+                "name": "Aykroyd, Dan"
+            },
+            {
+                "name": "Espinosa, Pablo"
+            },
+            {
+                "name": "Sondag, Rachel"
+            },
+            {
+                "name": "Latzer, Josh"
+            },
+            {
+                "name": "Harmon-Haid, Elisabeth"
+            },
+            {
+                "name": "Gandhi, Sheetal"
+            },
+            {
+                "name": "Stanley, Christopher"
+            },
+            {
+                "name": "Peters, Will"
+            },
+            {
+                "name": "Fair, Mel"
+            },
+            {
+                "name": "Smith, Ryan"
+            },
+            {
+                "name": "Hendershot, Casey"
+            },
+            {
+                "name": "Paffrath, Amy"
+            },
+            {
+                "name": "Ales, John"
+            },
+            {
+                "name": "Allman, Marshall"
+            },
+            {
+                "name": "Bushell, Matt"
+            },
+            {
+                "name": "Butler, Austin"
+            },
+            {
+                "name": "Miller, Romeo"
+            },
+            {
+                "name": "Parrilla, Lana"
+            }
+        ],
+        "locations": [
+            "CBS Studio Center - 4024 Radford Avenue, Studio City, Los Angeles, California, USA"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Netherlands:9"
+        ],
+        "number of seasons": 1,
+        "rating": 7.5,
+        "votes": 3685,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTM3NzI4OTM1Nl5BMl5BanBnXkFtZTcwMzQwNDk3Mw@@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Defenders",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-2011",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Kennedy, Kevin"
+            },
+            {
+                "name": "Mueller, Niels"
+            },
+            {
+                "name": "Paiz, Carolina"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Carol Mendelsohn Productions"
+            },
+            {
+                "name": "CBS Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CBS"
+            },
+            {
+                "name": "Canadian Television (CTV)"
+            },
+            {
+                "name": "AXN Mystery"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "CBS Action"
+            },
+            {
+                "name": "Fox Network"
+            },
+            {
+                "name": "Fox"
+            },
+            {
+                "name": "Net5"
+            },
+            {
+                "name": "Network Ten"
+            },
+            {
+                "name": "PRO 4"
+            },
+            {
+                "name": "Paramount Home Entertainment"
+            },
+            {
+                "name": "Radio Television Malaysia"
+            },
+            {
+                "name": "Sat.1"
+            },
+            {
+                "name": "Sony Entertainment Television"
+            },
+            {
+                "name": "TV2"
+            },
+            {
+                "name": "Österreichischer Rundfunk (ORF)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Cineverse"
+            },
+            {
+                "name": "Clairmont Camera Film & Digital"
+            },
+            {
+                "name": "Direct Tools & Fasteners"
+            },
+            {
+                "name": "Filmtools"
+            },
+            {
+                "name": "Go For Locations"
+            },
+            {
+                "name": "MTI Film"
+            },
+            {
+                "name": "Playback Technologies"
+            },
+            {
+                "name": "Post Modern Sound"
+            },
+            {
+                "name": "Reel Security"
+            },
+            {
+                "name": "Shine"
+            }
+        ],
+        "plot": [
+            "Two flashy Las Vegas defense attorneys go to the mat for their clients.::Harry Gantz"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (USA)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Canon EOS 7D",
+                "Sony CineAlta F35, Angenieux Optimo Lenses",
+                "Sony PMW-EX3"
+            ],
+            "laboratory": [
+                "MTI Film, Hollywood (CA), USA"
+            ],
+            "negative format": [
+                "Video (HDTV)"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (master format)",
+                "HDCAM SR (1080p/24) (source format)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3685,
+                "rating": 7.5
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 1.0
+            },
+            "aged 18 29": {
+                "votes": 619,
+                "rating": 7.6
+            },
+            "aged 30 44": {
+                "votes": 1777,
+                "rating": 7.5
+            },
+            "aged 45 plus": {
+                "votes": 868,
+                "rating": 7.3
+            },
+            "males": {
+                "votes": 2517,
+                "rating": 7.5
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 1.0
+            },
+            "males aged 18 29": {
+                "votes": 474,
+                "rating": 7.6
+            },
+            "males aged 30 44": {
+                "votes": 1348,
+                "rating": 7.5
+            },
+            "males aged 45 plus": {
+                "votes": 618,
+                "rating": 7.3
+            },
+            "females": {
+                "votes": 799,
+                "rating": 7.4
+            },
+            "females aged 18 29": {
+                "votes": 137,
+                "rating": 7.7
+            },
+            "females aged 30 44": {
+                "votes": 398,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 239,
+                "rating": 7.4
+            },
+            "top 1000 voters": {
+                "votes": 83,
+                "rating": 6.2
+            },
+            "us users": {
+                "votes": 943,
+                "rating": 7.4
+            },
+            "non us users": {
+                "votes": 1837,
+                "rating": 7.5
+            }
+        },
+        "number of votes": {
+            "10": 854,
+            "9": 570,
+            "8": 887,
+            "7": 669,
+            "6": 263,
+            "5": 161,
+            "4": 82,
+            "3": 50,
+            "2": 39,
+            "1": 110
+        },
+        "arithmetic mean": 7.7,
+        "median": 8
+    }
+}

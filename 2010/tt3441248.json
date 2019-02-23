@@ -1,0 +1,120 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "16 November 2010"
+            },
+            {
+                "country": "Germany\n",
+                "date": "16 November 2010",
+                "notes": "                            (Part 1)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "17 November 2010",
+                "notes": "                            (Part 2)"
+            }
+        ],
+        "release dates": [
+            "Germany::16 November 2010",
+            "Germany::16 November 2010                            (Part 1)",
+            "Germany::17 November 2010                            (Part 2)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Nostalie und Höhenflug",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Das Ende der weißen Weltherrschaft (TV Mini-Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "16 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Ohnmacht und Anmaßung",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Das Ende der weißen Weltherrschaft (TV Mini-Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "17 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Scholl-Latour, Peter"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "90"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "country codes": [
+            "de"
+        ],
+        "language codes": [
+            "de"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "original air date": "16 Nov 2010 (Germany)",
+        "number of seasons": 1,
+        "languages": [
+            "German"
+        ],
+        "title": "Das Ende der weißen Weltherrschaft",
+        "year": 2010,
+        "kind": "tv mini series",
+        "series years": "2010-",
+        "akas": [
+            "Das Ende der weißen Weltherrschaft (Germany)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Scholl-Latour, Peter"
+            }
+        ],
+        "director": [
+            {
+                "name": "Laqua, Cornelia"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Interscience Film GmbH"
+            },
+            {
+                "name": "Zweites Deutsches Fernsehen"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr 30 min (90 min) (2 Parts) (Germany)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

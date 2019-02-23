@@ -1,0 +1,328 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "1 March 2010"
+            },
+            {
+                "country": "USA\n",
+                "date": "15 March 2010"
+            }
+        ],
+        "release dates": [
+            "USA::1 March 2010",
+            "USA::15 March 2010"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "How Machines Work"
+            },
+            {
+                "countries": "USA",
+                "title": "Machines!"
+            }
+        ],
+        "akas": [
+            "How Machines Work (original title)",
+            "Machines! USA"
+        ],
+        "akas from release info": [
+            "How Machines Work (original title)",
+            "Machines! USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Coal-Fired Power Plant/Rollarcoaster/Telescope/Bowling Pinsetter",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Machines! (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "1 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    A coal burning power plant turns coal into explosive dust; a mega-rollercoaster scares us while keeping us alive; A binocular telescope cuts through the haze for sharper-than-ever galactic pictures; a pin-setting robot cleans up behind the scenes.    "
+                },
+                "2": {
+                    "title": "Solar Power Plant/Hydrogen-Powered Bicycle/Escalator/Tattoo Machine",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Machines! (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "6 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    A coal burning power plant turns coal into explosive dust; a mega-rollercoaster scares us while keeping us alive; A binocular telescope cuts through the haze for sharper-than-ever galactic pictures; a pin-setting robot cleans up behind the scenes.    "
+                },
+                "3": {
+                    "title": "Rally Car/Town Hall Clock/Canal Lift Lock/Offset Printing Press",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Machines! (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "6 May 2011",
+                    "year": "2011",
+                    "plot": "\n    An indestructible rally car is built for speed and spills; A high volume, high speed offset printer delivers 80 pages a second; A lift lock hauls a dozen boats 90 feet up, with no fuel or electricity; An eleven story tower clock and what makes it tick.    "
+                },
+                "4": {
+                    "title": "Rally Car/Town HallFerris Wheel/Jet Ski/Hoover Dam/Traffic Light",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Machines! (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "6 May 2011",
+                    "year": "2011",
+                    "plot": "\n    London Eye Ferris wheel- 800 riders, 40 stories high; Slung low and mean, jet ski prototype \"Samba\" lets beginners stunt like the pros; Hoover Dam- the inner workings of hydro electric power; urban traffic light and the networks that drive it    "
+                },
+                "5": {
+                    "title": "Industrial Loom/Aerial Vehicle/Logging Machine/Hovercraft",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Machines! (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "19 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    A logging machine that cuts and stacks 4,000 trees a day; a hovercraft is redesigned into a rescue vehicle; a high-speed industrial loom weaves thread 2,000 times a minute; a remote controlled microdrone takes pictures and lands on its own.    "
+                },
+                "6": {
+                    "title": "Stunt Plane/Tug Boat/Carousel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Machines! (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "2 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    The Russian built Sukoi aerobatic stunt plane is built to withstand near-deadly G-force; A tug boat digs into water to wrangle ships a thousand times its size; the mechanical monster beneath the story book facade of the fairground carousel.    "
+                },
+                "7": {
+                    "title": "Search & Rescue Boat/Vacuum Toilet/Hybrid Car/Reinvented Zeppelin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Machines! (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "9 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Coast Guard's Search and Rescue boat self-rights after capsizing; Aircraft Cabin pressure drives the vacuum toilet; A mass produced hybrid electric car depends on its power split device to make it work; the high performance Zeppelin makes a comeback.    "
+                },
+                "8": {
+                    "title": "Thames Flood Barrier/Electric Locomotive/Gas Pump/Photo-Finish Camera",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Machines! (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "16 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Thames Flood barrier protects London from storm surges; diesel-electric locomotive is a rolling electrical generator; Self-serve gas pump mixes octane, measures fuel and presents bill; When stakes are high, all bets look to the photo finish camera.    "
+                },
+                "9": {
+                    "title": "All Terrain Vehicle/Car Wash/Elevator/ATM",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Machines! (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "23 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    The largest-ever engine on an ATV; A tunnel-style car wash that washes your car, protects its paint job, all on a cup of water; Elevator's safety brake; how the ATM sizes you up, checks your bank and hands over your money.    "
+                },
+                "10": {
+                    "title": "Water Bomber/Combine Harvester/Wind Tunnel/50 Cal Machine Gun",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Machines! (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "30 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Water bomber drops 8 tons of water a second; Corn harvester gathers, shucks and strips corn off its cob at four million kernels a minute; wind tunnel storm-testing a scale model skyscraper before its built; 50-cal machine gun smashes concrete and steel    "
+                },
+                "11": {
+                    "title": "Helicopter/3D Printer/Segway/Streetcar",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Machines! (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "6 May 2010",
+                    "year": "2010",
+                    "plot": "\n    A powerful helicopter conquers the thin air of Everest; a 3-D printer creates a real plastic model of the image its fed; Segway's three-inch brain keeps you from falling; An electric tram uses its braking system to help power another vehicle    "
+                },
+                "12": {
+                    "title": "Cement Plant/Airport Fire Truck/Passenger Ferry",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Machines! (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "13 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Cement Plant, Airport Fire Truck, Passenger Ferry    "
+                },
+                "13": {
+                    "title": "Assault Vehicle/Mining Drill/Stirling Engine/Recycling Sorting Machine",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Machines! (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "original air date": "20 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Red Bore-the biggest drill out there-drills from the bottom up;Light Assault Vehicle packs infantry and their ammo into hot spots;Recycling plant sorts, separates and shreds recyclables;200 year old Stirling Engine with new ways to provide heat and power.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "genres": [
+            "Documentary"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "country codes": [
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 6.1,
+        "votes": 9,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjAxMjc1ODE4OV5BMl5BanBnXkFtZTgwMzA4MTgwMzE@._V1_SY150_CR49,0,101,150_.jpg",
+        "plot outline": "Machines! is a detailed, entertaining and \"wow-fact\" half-hour on how machines work. By using photo-real computer animation we are able to go where no camera can fit, or even survive. Entertaining, engaging and easy-to-understand commentary untangles complex design and engineering for all ages, while having some fun along the way.",
+        "languages": [
+            "English"
+        ],
+        "title": "Machines!",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Nelson, Jeremy"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Cream Productions"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Bullseye Post & Animation"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Bullseye Post & Animation"
+            }
+        ],
+        "plot": [
+            "_Machines!_ (qv) is a detailed, entertaining and \"wow-fact\" half-hour on how machines work. By using photo-real computer animation we are able to go where no camera can fit, or even survive. Entertaining, engaging and easy-to-understand commentary untangles complex design and engineering for all ages, while having some fun along the way."
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 9,
+                "rating": 6.1
+            },
+            "aged 18 29": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "aged 30 44": {
+                "votes": 6,
+                "rating": 5.4
+            },
+            "aged 45 plus": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "males": {
+                "votes": 8,
+                "rating": 5.8
+            },
+            "males aged 18 29": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "males aged 30 44": {
+                "votes": 6,
+                "rating": 5.4
+            },
+            "males aged 45 plus": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "top 1000 voters": {
+                "votes": 2,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 1,
+                "rating": 5.0
+            },
+            "non us users": {
+                "votes": 7,
+                "rating": 5.9
+            }
+        },
+        "number of votes": {
+            "10": 0,
+            "9": 0,
+            "8": 2,
+            "7": 2,
+            "6": 2,
+            "5": 2,
+            "4": 0,
+            "3": 1,
+            "2": 0,
+            "1": 0
+        },
+        "arithmetic mean": 6.1,
+        "median": 6
+    }
+}

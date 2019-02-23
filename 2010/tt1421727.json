@@ -1,0 +1,398 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "France\n",
+                "date": "4 February 2010",
+                "notes": "                            (Luchon Film Festival)"
+            },
+            {
+                "country": "France\n",
+                "date": "5 March 2011"
+            },
+            {
+                "country": "Japan\n",
+                "date": "18 June 2012"
+            }
+        ],
+        "release dates": [
+            "France::4 February 2010                            (Luchon Film Festival)",
+            "France::5 March 2011",
+            "Japan::18 June 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Le roi, l'écureuil et la couleuvre"
+            },
+            {
+                "countries": "France (working title)",
+                "title": "L'écureuil et la couleuvre"
+            },
+            {
+                "countries": "France",
+                "title": "Le Roi, l'Écureuil et la Couleuvre"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "The King, the Squirrel and the Grass Snake"
+            }
+        ],
+        "akas": [
+            "Le roi, l'écureuil et la couleuvre (original title)",
+            "L'écureuil et la couleuvre France (working title)",
+            "Le Roi, l'Écureuil et la Couleuvre France",
+            "The King, the Squirrel and the Grass Snake World-wide (English title)"
+        ],
+        "akas from release info": [
+            "Le roi, l'écureuil et la couleuvre (original title)",
+            "L'écureuil et la couleuvre France (working title)",
+            "Le Roi, l'Écureuil et la Couleuvre France",
+            "The King, the Squirrel and the Grass Snake World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The King, the Squirrel and the Grass Snake (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 7,
+                    "original air date": "5 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    In the years preceding the reign of the Sun King , Nicolas Fouquet ,Superintendent of Finances ,vied with Jean -Baptiste Colbert in getting political power.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The King, the Squirrel and the Grass Snake (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 7,
+                    "original air date": "6 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Shortly after the sumptuous fete which infuriated the king , Fouquet was arrested ;after a travesty of a trial , D'Artagnan took him to the fortress of Pignerolles,where he would spend the rest of his life.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Deutsch, Lorànt"
+            },
+            {
+                "name": "Frémont, Thierry"
+            },
+            {
+                "name": "Giraudeau, Sara"
+            },
+            {
+                "name": "Natrella, Laurent"
+            },
+            {
+                "name": "Richert, Carole"
+            },
+            {
+                "name": "Sardou, Davy"
+            },
+            {
+                "name": "Loiret, Anne"
+            },
+            {
+                "name": "Adam, Marie-Christine"
+            },
+            {
+                "name": "Brocheré, Lizzie"
+            },
+            {
+                "name": "Baup, Marie-Julie"
+            },
+            {
+                "name": "Dubois, Jean-Pol"
+            },
+            {
+                "name": "Frot, Dominique"
+            },
+            {
+                "name": "D'Hermy, Adeline"
+            },
+            {
+                "name": "Casterman, Alban"
+            },
+            {
+                "name": "Pradal, Yann"
+            },
+            {
+                "name": "Uchan, Philippe"
+            },
+            {
+                "name": "Galabru, Emmanuelle"
+            },
+            {
+                "name": "Gauthier, Jean-Patrick"
+            },
+            {
+                "name": "Pajot, Olivier"
+            },
+            {
+                "name": "Siener, François"
+            },
+            {
+                "name": "Verzelle, Tony"
+            },
+            {
+                "name": "Viellard, Eric"
+            },
+            {
+                "name": "Thorent, André"
+            },
+            {
+                "name": "Archirel, Fabrice"
+            },
+            {
+                "name": "Booz, Emanuel"
+            },
+            {
+                "name": "Botton, Jean-Claude"
+            },
+            {
+                "name": "Bourdilleau, Christophe"
+            },
+            {
+                "name": "Béraud, Luc"
+            },
+            {
+                "name": "Certain, Alexandre"
+            },
+            {
+                "name": "Ciron, Jacques"
+            },
+            {
+                "name": "Coggio, Maxime"
+            },
+            {
+                "name": "Colvil, Jean-Philippe"
+            },
+            {
+                "name": "Courtès, Jacques"
+            },
+            {
+                "name": "D'Olce, Laurent"
+            },
+            {
+                "name": "Dubois, Vincent"
+            },
+            {
+                "name": "Fontanel, Jacques"
+            },
+            {
+                "name": "Jeffrault, Michel"
+            },
+            {
+                "name": "Lang, Régis"
+            },
+            {
+                "name": "Lemoine, Jean-Pierre"
+            },
+            {
+                "name": "Leroux, Jean-Pierre"
+            },
+            {
+                "name": "Moulévrier, Gérard"
+            },
+            {
+                "name": "Richardeau, Jean-Stéphane"
+            },
+            {
+                "name": "Rocher, Vincent"
+            },
+            {
+                "name": "Rulliat, Eric"
+            },
+            {
+                "name": "Sterne, Christian"
+            },
+            {
+                "name": "Vinson, Didier"
+            },
+            {
+                "name": "Guillaume, François"
+            }
+        ],
+        "locations": [
+            "Château de Blois, 6 Place du Château, Blois, Loir-et-Cher, France",
+            "Château de Chambord, Chambord, Loir-et-Cher, France",
+            "Château de Fougères, Fougères-sur-Bièvre, Loir-et-Cher, France",
+            "Château de Vaux-le-Vicomte, Vaux-le-Vicomte, Seine-et-Marne, France",
+            "Royal Château of Fontainebleau, Fontainebleau, Seine-et-Marne, France",
+            "Vendôme, Loir-et-Cher, France"
+        ],
+        "genres": [
+            "History"
+        ],
+        "runtimes": [
+            "200"
+        ],
+        "countries": [
+            "France"
+        ],
+        "country codes": [
+            "fr"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "number of seasons": 1,
+        "rating": 6.8,
+        "votes": 45,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMWI2NjI1NGEtNjRjNi00ZWZlLWJmOTItOWU1OWQwMTUyNTIyXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "The king was entertained at Fouquet's castle with such luxury that the king was in a sullen mood the whole night : a gargantuan buffet ,a play by Molière ('Les Fâcheux\" )produced for the first time for the event .The king was so infuriated by his host's wealth that he refused to spend the night in the palace. It sealed the superintendent's fate ;but actually, , Fouquet's disgrace was secretly decided upon on 4 May, more than three months before.After a travesty of a trial , Fouquet was sentenced to banishment ;abetted by Colbert,the king commuted it to life imprisonment .The unfortunate Bon Vivant spent the rest of his life in the fortress of Pignerolles.",
+        "languages": [
+            "French"
+        ],
+        "title": "The King, the Squirrel and the Grass Snake",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Decoin, Didier"
+            },
+            {
+                "name": "Heynemann, Laurent"
+            },
+            {
+                "name": "Romano, Sarah"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Nelka Films"
+            },
+            {
+                "name": "France Télévision"
+            },
+            {
+                "name": "Jimmy"
+            },
+            {
+                "name": "Cine Cinema"
+            },
+            {
+                "name": "TV5 Monde"
+            },
+            {
+                "name": "Région Ile-de-France"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "France 3 (FR 3)"
+            },
+            {
+                "name": "TV5 Monde"
+            }
+        ],
+        "plot": [
+            "After the sumptuous fete which infuriated the king, Fouquet was arrested .After a travesty of a trial, he spent the rest of his life in a fortress.",
+            "The king was entertained at Fouquet's castle with such luxury that the king was in a sullen mood the whole night : a gargantuan buffet ,a play by Molière ('Les Fâcheux\" )produced for the first time for the event .The king was so infuriated by his host's wealth that he refused to spend the night in the palace. It sealed the superintendent's fate ;but actually, , Fouquet's disgrace was secretly decided upon on 4 May, more than three months before.After a travesty of a trial , Fouquet was sentenced to banishment ;abetted by Colbert,the king commuted it to life imprisonment .The unfortunate Bon Vivant spent the rest of his life in the fortress of Pignerolles.::dbdumonteil"
+        ],
+        "tech": {
+            "runtime": [
+                "3 hr 20 min (200 min) (2 parts) (France)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 45,
+                "rating": 6.8
+            },
+            "aged 18 29": {
+                "votes": 3,
+                "rating": 7.3
+            },
+            "aged 30 44": {
+                "votes": 6,
+                "rating": 6.3
+            },
+            "aged 45 plus": {
+                "votes": 28,
+                "rating": 6.6
+            },
+            "males": {
+                "votes": 31,
+                "rating": 6.7
+            },
+            "males aged 30 44": {
+                "votes": 4,
+                "rating": 6.5
+            },
+            "males aged 45 plus": {
+                "votes": 25,
+                "rating": 6.6
+            },
+            "females": {
+                "votes": 9,
+                "rating": 6.8
+            },
+            "females aged 18 29": {
+                "votes": 3,
+                "rating": 7.3
+            },
+            "females aged 30 44": {
+                "votes": 2,
+                "rating": 5.0
+            },
+            "females aged 45 plus": {
+                "votes": 3,
+                "rating": 7.3
+            },
+            "top 1000 voters": {
+                "votes": 8,
+                "rating": 5.8
+            },
+            "us users": {
+                "votes": 2,
+                "rating": 7.5
+            },
+            "non us users": {
+                "votes": 34,
+                "rating": 6.6
+            }
+        },
+        "number of votes": {
+            "10": 2,
+            "9": 0,
+            "8": 9,
+            "7": 18,
+            "6": 10,
+            "5": 3,
+            "4": 3,
+            "3": 0,
+            "2": 0,
+            "1": 0
+        },
+        "arithmetic mean": 6.8,
+        "median": 7
+    }
+}

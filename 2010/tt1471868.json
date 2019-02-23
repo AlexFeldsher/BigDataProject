@@ -1,0 +1,738 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2010"
+            },
+            {
+                "country": "UK\n",
+                "date": "1 February 2010"
+            },
+            {
+                "country": "USA\n",
+                "date": "15 February 2010"
+            }
+        ],
+        "release dates": [
+            "USA::2010",
+            "UK::1 February 2010",
+            "USA::15 February 2010"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Mystery Files"
+            },
+            {
+                "countries": "Germany",
+                "title": "Rätsel der Geschichte"
+            },
+            {
+                "countries": "Greece",
+                "title": "Mystery Files"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Lezáratlan akták"
+            },
+            {
+                "countries": "Romania",
+                "title": "Legende şi mistere"
+            },
+            {
+                "countries": "Russia",
+                "title": "Тайны истории"
+            },
+            {
+                "countries": "Spain",
+                "title": "Expediente misterio"
+            }
+        ],
+        "akas": [
+            "Mystery Files (original title)",
+            "Rätsel der Geschichte Germany",
+            "Mystery Files Greece",
+            "Lezáratlan akták Hungary",
+            "Legende şi mistere Romania",
+            "Тайны истории Russia",
+            "Expediente misterio Spain"
+        ],
+        "akas from release info": [
+            "Mystery Files (original title)",
+            "Rätsel der Geschichte Germany",
+            "Mystery Files Greece",
+            "Lezáratlan akták Hungary",
+            "Legende şi mistere Romania",
+            "Тайны истории Russia",
+            "Expediente misterio Spain"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "The Birth of Christ",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 30,
+                    "original air date": "6 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Our image of the Nativity is based upon two Gospels, some Old Testament prophecies, and a whole lot of assumptions.    "
+                },
+                "2": {
+                    "title": "Hitler",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 84,
+                    "original air date": "6 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Mystery Files investigates why Adolf Hitler decided to go into politics. In World War I, Hitler as a young army private is injured during a poison gas and is taken to a psychiatric military hospital where he makes his fateful decision. Scholars argue that his traumatic experiences may have inspired his political outlook.    "
+                },
+                "3": {
+                    "title": "Marco Polo",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 42,
+                    "original air date": "7 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Marco Polo is famous for being the first Westerner in China, but experts question not only his explorations but also his sheer existence.    "
+                },
+                "4": {
+                    "title": "Alexander the Great",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 41,
+                    "original air date": "7 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    What happened to Alexander's body? Was his tomb destroyed? Hijacked? Or was it something more sinister?    "
+                },
+                "5": {
+                    "title": "Taj Mahal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 12,
+                    "original air date": "2011",
+                    "year": "2011",
+                    "plot": "\n    Join us as we ask the questions: Who built the Taj Mahal? How did they do it? And was the job only half complete?    "
+                },
+                "6": {
+                    "title": "Isaac Newton",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 21,
+                    "original air date": "8 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Just before his death, Isaac Newton burned boxfuls of his manuscripts. What secrets was he so desperate to destroy?    "
+                },
+                "7": {
+                    "title": "Saladin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 16,
+                    "original air date": "9 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Saladin's legend as a great fighter spanned Europe. His reputation as an honorable leader spanned centuries.    "
+                },
+                "8": {
+                    "title": "Captain Kidd",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 12,
+                    "original air date": "9 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    More than 300 years after his execution, we give Captain Kidd another hearing, and the evidence of his innocence is compelling.    "
+                },
+                "9": {
+                    "title": "Pope Joan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 40,
+                    "original air date": "10 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Investigate the gender-bending mystery the Catholic Church can't seem to quell. Was Pope John actually Pope Joan?    "
+                },
+                "10": {
+                    "title": "Sitting Bull",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 12,
+                    "original air date": "10 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    The Battle of Little Bighorn turned Sitting Bull into Public Enemy #1, even though he never set foot on the battlefield.    "
+                },
+                "11": {
+                    "title": "The Virgin Queen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 16,
+                    "original air date": "13 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Did Elizabeth I commit a crime of passion? Did her lover kill to become king? A medieval cold case is reopened.    "
+                },
+                "12": {
+                    "title": "Zorro",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 12,
+                    "original air date": "13 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Historian's efforts to trace the true story of Zorro lead to intriguing discoveries of daring real-life adventures.    "
+                },
+                "13": {
+                    "title": "Lawrence of Arabia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 13,
+                    "original air date": "14 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Immortalized by the Oscar-winning film, the real T.E. Lawrence is a polarizing individual who many believe was a fraud.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Nostradamus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 21,
+                    "original air date": "1 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    Join historical investigators as they dissect one of history's most controversial astrological books...and its author.    "
+                },
+                "2": {
+                    "title": "Jack the Ripper",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 21,
+                    "original air date": "Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    How do we get close to a killer the police haven't been able to identify for over 100 years? With the help of renowned British crime historians and authors applying modern techniques, \"Mystery Files\" unearths new evidence to eliminate an age-old suspect, and to discover a new, likely candidate who was right under the policemen's nose.    "
+                },
+                "3": {
+                    "title": "Robin Hood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 19,
+                    "original air date": "2 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    Historians search for the real events behind the many versions of the stories about Robin Hood and his merry men. Robin was so legendary in his own day that his name became a passed-own alias. The earliest records of both historical characters and 'ballads' point to two real robbers, in the 13th and 14 century, a Robin and a Robert. Each operated in the sire of a lewd sheriff of Nottingham but also had roots in neighboring York, in each case administered by the same sheriff, with whom each had a personal feud. Specifics about either regain largely speculative.    "
+                },
+                "4": {
+                    "title": "Princes in the Tower",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 12,
+                    "original air date": "2 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    Join medieval historians as they separate fact from Tudor propaganda in an attempt to solve of 500-year-old murder mystery.    "
+                },
+                "5": {
+                    "title": "Rasputin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 16,
+                    "original air date": "3 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    Exploring the various different accounts surrounding the death of Rasputin.    "
+                },
+                "6": {
+                    "title": "Billy the Kid",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 14,
+                    "original air date": "3 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    William 'Billy the Kid' Brady is presented in legend as either a Robin Hood of the Wild West or the most wanted thieving monster, but neither fits modern research of the real man. He made his name during the 'Lincoln county war', when local business competitors hired guns for their dirty power play, and the regulators were put in charge of order. Billy really was a kid, a teenager making wrong choices sealing his fate. He was convicted for a murder, wanted (not top of the list) and naively accepted a pardon offered by New Mexico territorial governor Wallace but ...    "
+                },
+                "7": {
+                    "title": "King Arthur",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 45,
+                    "original air date": "4 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    What were the origins of the real King Arthur?    "
+                },
+                "8": {
+                    "title": "Leonardo Da Vinci",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 71,
+                    "original air date": "Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    One of history's greatest artists also invented the tank, the helicopter, and the diving suit...or did he?    "
+                },
+                "9": {
+                    "title": "Abraham Lincoln",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 51,
+                    "original air date": "8 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    Over time, Abraham Lincoln's status has risen to almost mythic proportions, but what's the real story behind the legend?    "
+                },
+                "10": {
+                    "title": "Cleopatra",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 18,
+                    "original air date": "9 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    Egypt's last queen from the Macedonian dynasty of the Lagids, descended from Alexander the Great's general Ptolemy, managed to win the struggle for the Pharaonic throne from her brother-spouse by seducing Julius Caesar, who took control of strategic granary Egypt during his triumvirate's civil war, so as to be maintained as client queen. After Caesar's political murder in Rome for founding a virtual monarchy, she sides with Marc Anthony, whom she seduced, only to perish with him in suicide after Octavian's victory in the next civil war. But did she seduce such astute ...    "
+                },
+                "11": {
+                    "title": "The Man in the Iron Mask",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 18,
+                    "original air date": "10 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    The literary horror classic theme traces to Voltaire, the Illumination author 'philosopher' who who was a bitter enemy of Louis XIV's absolute monarchy. He had himself been a victim himself for three years of the 'lettre de cachet', a practice which gave the crown discretionary powers to have any subject arrested and incarcerated indefinitely without form of trial. Secret prisons in desolate fortresses are documented, as author St. Mars was governor under war minster Louvois, as well as anonymous prisoners and even masks, but an iron mask for years would have been ...    "
+                },
+                "12": {
+                    "title": "The Romanovs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 17,
+                    "original air date": "11 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    Last Russian emperor ('czar') Nicholas and his five kids (weakling heir and four girls) were revered by the simpleton Russian people like saints, until the Great War turned out disastrous and the imperial commander in chief was blamed for national misery. The Menshevik revolution brought peace by capitulation to the German empire and a quiet revolution, the dynasty being 'bannished' to a luxury palace. But Lenin's Bolsheviks seize power and ordered the 'tyrant' imprisoned to desolate, hostile Ekaterinaburg, guarded by a zealot captain. The czar's cousin, the British ...    "
+                },
+                "13": {
+                    "title": "Joan of Arc",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mystery Files (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 50,
+                    "original air date": "12 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    Enter the complex and compelling mind of Joan of Arc and discover what led this 19-year-old to martyrdom.    "
+                }
+            }
+        },
+        "number of episodes": 26,
+        "cast": [
+            {
+                "name": "Rodger, Struan"
+            },
+            {
+                "name": "Capwell, Tobias"
+            },
+            {
+                "name": "Huw, William"
+            },
+            {
+                "name": "Azzolini, Monica"
+            },
+            {
+                "name": "Barnes, Amy"
+            },
+            {
+                "name": "Bouchet, Adrian"
+            },
+            {
+                "name": "Deerfield, Gemma"
+            },
+            {
+                "name": "Herzog, David"
+            },
+            {
+                "name": "Scully, Aaron"
+            },
+            {
+                "name": "Stewart, Glynis"
+            },
+            {
+                "name": "Lee-Power, Christopher"
+            },
+            {
+                "name": "Dennehy, Brian"
+            },
+            {
+                "name": "Gibbons, Rachel"
+            },
+            {
+                "name": "Holzer, Harold"
+            },
+            {
+                "name": "Arnott, Callum"
+            },
+            {
+                "name": "Evans, Richard"
+            },
+            {
+                "name": "Rustici, Craig"
+            },
+            {
+                "name": "Scott, Michael"
+            },
+            {
+                "name": "Wood, Frances"
+            },
+            {
+                "name": "Farias, Miguel"
+            },
+            {
+                "name": "Galluzzi, Paolo"
+            },
+            {
+                "name": "MacPherson, James"
+            },
+            {
+                "name": "Snyder, Christopher A."
+            },
+            {
+                "name": "Charman, Terry"
+            },
+            {
+                "name": "Empereuer, Jean-Yves"
+            },
+            {
+                "name": "Miles, Rosalind"
+            },
+            {
+                "name": "Trotter, David"
+            },
+            {
+                "name": "Burlingame, Michael"
+            },
+            {
+                "name": "Prior, Stuart"
+            },
+            {
+                "name": "Chugg, Andrew"
+            },
+            {
+                "name": "Colbert, Benjamin"
+            },
+            {
+                "name": "Stanford, Peter"
+            },
+            {
+                "name": "Wessely, Simon"
+            },
+            {
+                "name": "Ashe, Geoffrey"
+            },
+            {
+                "name": "Devries, Kelly"
+            },
+            {
+                "name": "Hirschhorn, Norbert"
+            },
+            {
+                "name": "Kemp, Martin"
+            },
+            {
+                "name": "Chielens, Piet"
+            },
+            {
+                "name": "Saunders, Nick"
+            },
+            {
+                "name": "Stridzl, Lydia"
+            },
+            {
+                "name": "Cole, Hector"
+            },
+            {
+                "name": "Cotte, Pascal"
+            },
+            {
+                "name": "Wiech, Katja"
+            },
+            {
+                "name": "Lewis, David"
+            },
+            {
+                "name": "Riches, Sam"
+            },
+            {
+                "name": "Leyser, Henrietta"
+            },
+            {
+                "name": "Brown, Pat"
+            },
+            {
+                "name": "Kitching, Iain"
+            },
+            {
+                "name": "Lawman, Gemma"
+            },
+            {
+                "name": "Lee, Tara"
+            }
+        ],
+        "locations": [
+            "Russia",
+            "UK"
+        ],
+        "genres": [
+            "History"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color::(HD)"
+        ],
+        "number of seasons": 2,
+        "rating": 7.0,
+        "votes": 124,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNTQwMzMzMDIwOF5BMl5BanBnXkFtZTcwOTI0MTEzNw@@._V1_SY150_CR5,0,101,150_.jpg",
+        "budget": "GBP50,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Mystery Files",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Haddock, Kate"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Parthenon Entertainment"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Investigation Discovery"
+            },
+            {
+                "name": "National Geographic International"
+            }
+        ],
+        "plot": [
+            "Could any of the Romanov family have survived or escaped their prison in remotest Russia in 1917? This programme explores the latest science and newly-discovered documents behind one of history's greatest mysteries.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "30 min (approx)"
+            ],
+            "color": [
+                "Color (HD)",
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 124,
+                "rating": 7.0
+            },
+            "aged 18 29": {
+                "votes": 18,
+                "rating": 7.9
+            },
+            "aged 30 44": {
+                "votes": 48,
+                "rating": 6.7
+            },
+            "aged 45 plus": {
+                "votes": 31,
+                "rating": 6.8
+            },
+            "males": {
+                "votes": 81,
+                "rating": 6.9
+            },
+            "males aged 18 29": {
+                "votes": 11,
+                "rating": 8.3
+            },
+            "males aged 30 44": {
+                "votes": 38,
+                "rating": 6.6
+            },
+            "males aged 45 plus": {
+                "votes": 26,
+                "rating": 6.8
+            },
+            "females": {
+                "votes": 21,
+                "rating": 7.1
+            },
+            "females aged 18 29": {
+                "votes": 7,
+                "rating": 7.3
+            },
+            "females aged 30 44": {
+                "votes": 10,
+                "rating": 7.4
+            },
+            "females aged 45 plus": {
+                "votes": 4,
+                "rating": 6.5
+            },
+            "top 1000 voters": {
+                "votes": 13,
+                "rating": 6.5
+            },
+            "us users": {
+                "votes": 38,
+                "rating": 6.9
+            },
+            "non us users": {
+                "votes": 49,
+                "rating": 6.8
+            }
+        },
+        "number of votes": {
+            "10": 16,
+            "9": 8,
+            "8": 27,
+            "7": 31,
+            "6": 24,
+            "5": 6,
+            "4": 5,
+            "3": 2,
+            "2": 0,
+            "1": 5
+        },
+        "arithmetic mean": 7.0,
+        "median": 7
+    }
+}

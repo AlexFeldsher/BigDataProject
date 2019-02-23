@@ -1,0 +1,201 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "17 December 2010"
+            },
+            {
+                "country": "USA\n",
+                "date": "21 December 2010"
+            }
+        ],
+        "release dates": [
+            "USA::17 December 2010",
+            "USA::21 December 2010"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Living in the Time of Jesus"
+            },
+            {
+                "countries": "Greece (transliterated ISO-LATIN-1 title)",
+                "title": "I zoi stin epohi tou Iisou"
+            },
+            {
+                "countries": "Greece",
+                "title": "Η ζωή στην εποχή του Ιησού"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Az élet Jézus idejében"
+            }
+        ],
+        "akas": [
+            "Living in the Time of Jesus (original title)",
+            "I zoi stin epohi tou Iisou Greece (transliterated ISO-LATIN-1 title)",
+            "Η ζωή στην εποχή του Ιησού Greece",
+            "Az élet Jézus idejében Hungary"
+        ],
+        "akas from release info": [
+            "Living in the Time of Jesus (original title)",
+            "I zoi stin epohi tou Iisou Greece (transliterated ISO-LATIN-1 title)",
+            "Η ζωή στην εποχή του Ιησού Greece",
+            "Az élet Jézus idejében Hungary"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Making a Living",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Living in the Time of Jesus (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "21 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Healing the Sick",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Living in the Time of Jesus (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "21 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Crime and Punishment",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Living in the Time of Jesus (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "21 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Kislenko, Arne"
+            }
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 6.1,
+        "votes": 17,
+        "languages": [
+            "English"
+        ],
+        "title": "Living in the Time of Jesus",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Weinthal, Eric"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Bullseye Post & Animation"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 17,
+                "rating": 6.1
+            },
+            "aged 18 29": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "aged 30 44": {
+                "votes": 9,
+                "rating": 5.2
+            },
+            "aged 45 plus": {
+                "votes": 6,
+                "rating": 8.0
+            },
+            "males": {
+                "votes": 15,
+                "rating": 6.1
+            },
+            "males aged 18 29": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "males aged 30 44": {
+                "votes": 9,
+                "rating": 5.2
+            },
+            "males aged 45 plus": {
+                "votes": 5,
+                "rating": 8.0
+            },
+            "females": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "females aged 45 plus": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "us users": {
+                "votes": 6,
+                "rating": 8.4
+            },
+            "non us users": {
+                "votes": 8,
+                "rating": 4.1
+            }
+        },
+        "number of votes": {
+            "10": 2,
+            "9": 2,
+            "8": 6,
+            "7": 0,
+            "6": 1,
+            "5": 0,
+            "4": 1,
+            "3": 1,
+            "2": 1,
+            "1": 3
+        },
+        "arithmetic mean": 6.1,
+        "median": 8
+    }
+}

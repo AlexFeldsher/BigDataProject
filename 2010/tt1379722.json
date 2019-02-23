@@ -1,0 +1,551 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "28 April 2010"
+            },
+            {
+                "country": "USA\n",
+                "date": "28 April 2010"
+            },
+            {
+                "country": "South Africa\n",
+                "date": "24 May 2010"
+            },
+            {
+                "country": "Italy\n",
+                "date": "6 September 2010"
+            },
+            {
+                "country": "Finland\n",
+                "date": "7 January 2013"
+            },
+            {
+                "country": "Japan\n",
+                "date": "6 March 2014"
+            }
+        ],
+        "release dates": [
+            "Canada::28 April 2010",
+            "USA::28 April 2010",
+            "South Africa::24 May 2010",
+            "Italy::6 September 2010",
+            "Finland::7 January 2013",
+            "Japan::6 March 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Happy Town"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Happy Town"
+            },
+            {
+                "countries": "Russia",
+                "title": "Счастливый город"
+            }
+        ],
+        "akas": [
+            "Happy Town (original title)",
+            "Happy Town Portugal",
+            "Счастливый город Russia"
+        ],
+        "akas from release info": [
+            "Happy Town (original title)",
+            "Happy Town Portugal",
+            "Счастливый город Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "In This Home on Ice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Happy Town (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 80,
+                    "original air date": "28 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Henley Boone has decided to take up residence in seemingly idyllic Haplin, just as a shocking murder occurs at the local pond. This horrific crime rekindles Happy Town's dark mysteries, including the whispers about an unknown, evil force that has come to be known as the \"Magic Man,\" who may be responsible for the past disappearances of Haplin residents. Tommy Conroy, a small town deputy and son of the long-time popular sheriff, must help solve the crime while easing the town's growing fears. This is made more difficult when it becomes obvious that the residents are ...    "
+                },
+                "2": {
+                    "title": "I Came to Haplin for the Waters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Happy Town (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 60,
+                    "original air date": "5 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Shaken by a grisly murder at the local pond and his father's bizarre, self-inflicted injury, Deputy Tommy Conroy reluctantly accepts the title of Sherriff bestowed on him by town matriarch Peggy Haplin. However Tommy's shocking discovery of Jerry Friddle's murderer forces him to keep yet another of the town's secrets with mixed emotions. Meanwhile, Henley appears to know a lot more about Haplin's dark side than she's letting on - drawing Merritt Grieves closer - but she's determined to get access to the forbidden third-floor room of the mysterious boarding house, no ...    "
+                },
+                "3": {
+                    "title": "Polly Wants a Crack at Her",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Happy Town (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 59,
+                    "original air date": "12 May 2010",
+                    "year": "2010",
+                    "plot": "\n    An ominous fearsome hawk soars over Haplin's unsuspecting residents as the Thaw Fest celebration is about to start. Tommy must walk a precarious line when it comes to Friddle's murder, as a state investigator moves in to assist him. Andrew Haplin, still upset over girlfriend Georgia's assault, exacts revenge on who he believes to be the perpetrator -- pays for the consequences. Meanwhile Henley is a victim of a bizarre car accident, but a handsome stranger not only comes to her rescue, but lures her into a surprising, sensual relationship. And when Thaw Fest finally ...    "
+                },
+                "4": {
+                    "title": "Slight of Hand",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Happy Town (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 48,
+                    "original air date": "2 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    When Rachel Conroy mysteriously vanishes, an eerie cloud settles over Haplin, as clues point to the return of the elusive Magic Man. Surprisingly, Tommy finds an unlikely ally while desperately searching for his wife. Meanwhile, Handsome Dan announces he has to leave Haplin, then unexpectedly turns up elsewhere. Henley manages to get her stolen property back from Greggy Stiviletto and uses it to blackmail a member of Haplin's powerful \"first\" family. Finally, Tommy investigates some gruesome evidence that ironically could mean good news for many of Haplin's families.    "
+                },
+                "5": {
+                    "title": "This Is Why We Stay",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Happy Town (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 44,
+                    "original air date": "9 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    Rachel wants to leave Haplin; a long-kept secret is revealed.    "
+                },
+                "6": {
+                    "title": "Questions and Antlers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Happy Town (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 43,
+                    "original air date": "16 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    The interrogation of John Haplin about missing Lauryn Ward intensifies.    "
+                },
+                "7": {
+                    "title": "Dallas Alice Doesn't Live Here Anymore",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Happy Town (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 52,
+                    "original air date": "1 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    Merritt and Henley scheme to take back the mysterious hammer.    "
+                },
+                "8": {
+                    "title": "Blame It on Rio Bravo",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Happy Town (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 57,
+                    "original air date": "1 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    Many secrets of Haplin are revealed.    "
+                }
+            }
+        },
+        "number of episodes": 8,
+        "cast": [
+            {
+                "name": "Stults, Geoff"
+            },
+            {
+                "name": "German, Lauren"
+            },
+            {
+                "name": "Acker, Amy"
+            },
+            {
+                "name": "Wisdom, Robert"
+            },
+            {
+                "name": "Gadon, Sarah"
+            },
+            {
+                "name": "Paulson, Jay"
+            },
+            {
+                "name": "Schnetzer, Ben"
+            },
+            {
+                "name": "Weber, Steven"
+            },
+            {
+                "name": "Neill, Sam"
+            },
+            {
+                "name": "Conroy, Frances"
+            },
+            {
+                "name": "McCabe-Lokos, Maxwell"
+            },
+            {
+                "name": "Hopkins, Matt"
+            },
+            {
+                "name": "Bennett, Marcia"
+            },
+            {
+                "name": "Arbuckle, Stephen"
+            },
+            {
+                "name": "Grover, Deborah"
+            },
+            {
+                "name": "Brown, Kedar"
+            },
+            {
+                "name": "Petronijevic, Dan"
+            },
+            {
+                "name": "Ewaniuk, Sophia"
+            },
+            {
+                "name": "Gainey, M.C."
+            },
+            {
+                "name": "Benrubi, Abraham"
+            },
+            {
+                "name": "Christie, Warren"
+            },
+            {
+                "name": "Outerbridge, Peter"
+            },
+            {
+                "name": "Brown, Natalie"
+            },
+            {
+                "name": "Douglas, Joanna"
+            },
+            {
+                "name": "Ferguson, Anna"
+            },
+            {
+                "name": "Gordon, Diane"
+            },
+            {
+                "name": "Griffin, Lynne"
+            },
+            {
+                "name": "Scorer, Andrew"
+            },
+            {
+                "name": "McHattie, Stephen"
+            },
+            {
+                "name": "Borbridge, Brad"
+            },
+            {
+                "name": "Lyon, Wendy"
+            },
+            {
+                "name": "Bryk, Greg"
+            },
+            {
+                "name": "Smith, Isobel"
+            },
+            {
+                "name": "Kash, Linda"
+            },
+            {
+                "name": "Kay, Brittany"
+            },
+            {
+                "name": "Aquilina, Luke"
+            },
+            {
+                "name": "Flatman, Barry"
+            },
+            {
+                "name": "Mazerolle, Arlene"
+            },
+            {
+                "name": "Otto, Marley"
+            },
+            {
+                "name": "Banks, Boyd"
+            },
+            {
+                "name": "Trick, Rob"
+            },
+            {
+                "name": "Stevens, Courtenay J."
+            },
+            {
+                "name": "Wallace, Dee"
+            },
+            {
+                "name": "Cronenberg, David"
+            },
+            {
+                "name": "Rushton, Kevin"
+            },
+            {
+                "name": "Lee, Paul Sun-Hyung"
+            },
+            {
+                "name": "Pruner, Karl"
+            },
+            {
+                "name": "Finzi, Myles Vita"
+            },
+            {
+                "name": "Fletcher, Tony"
+            },
+            {
+                "name": "Goyo, Dakota"
+            }
+        ],
+        "locations": [
+            "Penetanguishene, Ontario, Canada",
+            "St. Catharines, Ontario, Canada::(Montebello Park)",
+            "Brampton, Ontario, Canada",
+            "Port Hope, Ontario, Canada",
+            "Pinewood Toronto Studios, Port Lands, Toronto, Ontario, Canada",
+            "Toronto, Ontario, Canada",
+            "Uxbridge, Ontario, Canada"
+        ],
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "rating": 7.1,
+        "votes": 3043,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjE2OTAxMjQ3M15BMl5BanBnXkFtZTgwNTQ1MzcwMzE@._V1_SY150_CR38,0,101,150_.jpg",
+        "plot outline": "Haplin, Minnesota \"Happy Town\" is approaching five years of peace after being riddled for years by unsolved kidnappings. But, in the wake of this small town's first crime in five years, some dark truths are being revealed about some familiar faces. They say every town has its secrets... that doesn't even begin to describe Happy Town.",
+        "languages": [
+            "English"
+        ],
+        "title": "Happy Town",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-2010",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Appelbaum, Josh"
+            },
+            {
+                "name": "Nemec, André"
+            },
+            {
+                "name": "Rosenberg, Scott"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Space Floor"
+            },
+            {
+                "name": "ABC Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "American Broadcasting Company (ABC)"
+            },
+            {
+                "name": "Super! Drama TV"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Stargate Studios"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Canada Film Capital"
+            },
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Clairmont Camera Film & Digital"
+            },
+            {
+                "name": "Filmport Studios"
+            },
+            {
+                "name": "Marshall/Plumb Research Associates"
+            },
+            {
+                "name": "Picturecars North"
+            },
+            {
+                "name": "Soundtrack New York"
+            },
+            {
+                "name": "William F. White International"
+            }
+        ],
+        "plot": [
+            "A deputy sheriff is confronted with the unsolved mystery of a half-dozen child kidnappings over the past decade in a small town in Minnesota.::Anonymous",
+            "Haplin, Minnesota \"_Happy Town_ (qv)\" is approaching five years of peace after being riddled for years by unsolved kidnappings. But, in the wake of this small town's first crime in five years, some dark truths are being revealed about some familiar faces. They say every town has its secrets... that doesn't even begin to describe _Happy Town_ (qv).::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (8 episodes) (USA)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Arri 2C with handcrank",
+                "Arri D-21",
+                "Arriflex Cameras",
+                "Clairmont Cameras and Lenses",
+                "Cooke and Angenieux lenses"
+            ],
+            "laboratory": [
+                "Technicolor"
+            ],
+            "negative format": [
+                "Digital"
+            ],
+            "cinematographic process": [
+                "Spherical"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3043,
+                "rating": 7.1
+            },
+            "aged 18 29": {
+                "votes": 478,
+                "rating": 7.0
+            },
+            "aged 30 44": {
+                "votes": 1588,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 593,
+                "rating": 7.2
+            },
+            "males": {
+                "votes": 1763,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 271,
+                "rating": 6.9
+            },
+            "males aged 30 44": {
+                "votes": 1054,
+                "rating": 7.0
+            },
+            "males aged 45 plus": {
+                "votes": 407,
+                "rating": 7.1
+            },
+            "females": {
+                "votes": 923,
+                "rating": 7.4
+            },
+            "females aged 18 29": {
+                "votes": 203,
+                "rating": 7.3
+            },
+            "females aged 30 44": {
+                "votes": 518,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 179,
+                "rating": 7.5
+            },
+            "top 1000 voters": {
+                "votes": 82,
+                "rating": 5.9
+            },
+            "us users": {
+                "votes": 948,
+                "rating": 7.4
+            },
+            "non us users": {
+                "votes": 1462,
+                "rating": 7.0
+            }
+        },
+        "number of votes": {
+            "10": 626,
+            "9": 375,
+            "8": 618,
+            "7": 529,
+            "6": 330,
+            "5": 201,
+            "4": 100,
+            "3": 82,
+            "2": 60,
+            "1": 122
+        },
+        "arithmetic mean": 7.3,
+        "median": 8
+    }
+}

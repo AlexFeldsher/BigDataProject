@@ -1,0 +1,652 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "8 September 2010"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "8 May 2012"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "19 May 2013"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "17 January 2014",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "2 March 2014"
+            }
+        ],
+        "release dates": [
+            "USA::8 September 2010",
+            "Hungary::8 May 2012",
+            "Belgium::19 May 2013",
+            "Netherlands::17 January 2014                            (limited)",
+            "Netherlands::2 March 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Terriers"
+            },
+            {
+                "countries": "Estonia",
+                "title": "Urukoerad"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Kutyákok"
+            },
+            {
+                "countries": "Italy",
+                "title": "Terriers - Cani sciolti"
+            },
+            {
+                "countries": "Poland",
+                "title": "Terriers"
+            },
+            {
+                "countries": "Russia",
+                "title": "Терьеры"
+            }
+        ],
+        "akas": [
+            "Terriers (original title)",
+            "Urukoerad Estonia",
+            "Kutyákok Hungary",
+            "Terriers - Cani sciolti Italy",
+            "Terriers Poland",
+            "Терьеры Russia"
+        ],
+        "akas from release info": [
+            "Terriers (original title)",
+            "Urukoerad Estonia",
+            "Kutyákok Hungary",
+            "Terriers - Cani sciolti Italy",
+            "Terriers Poland",
+            "Терьеры Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Terriers (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 285,
+                    "original air date": "8 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    A favor for an old drinking buddy leads Hank and Britt, small time private eyes, down a rabbit-hole of corruption in deceptively sunny Ocean Beach, California.    "
+                },
+                "2": {
+                    "title": "Dog and Pony",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Terriers (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 205,
+                    "original air date": "15 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    Desperate for quick cash, Hank and Britt set out to capture escaped convict Mongo for a big chunk of reward money.    "
+                },
+                "3": {
+                    "title": "Change Partners",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Terriers (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 203,
+                    "original air date": "22 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    In order to secure a loan, Hank must prove that the bank manager's wife is cheating on him. But what he discovers is much kinkier than infidelity.    "
+                },
+                "4": {
+                    "title": "Fustercluck",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Terriers (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 188,
+                    "original air date": "29 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    Robert Lindus is back with an unusual request from jail: he wants Hank and Britt to steal a quarter of a million dollars from him.    "
+                },
+                "5": {
+                    "title": "Manifest Destiny",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Terriers (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 189,
+                    "original air date": "6 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    Hank and Britt deal with the widening scope of the Lindus conspiracy as they try to avoid the rap for a murder they (technically) didn't commit.    "
+                },
+                "6": {
+                    "title": "Ring-A-Ding-Ding",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Terriers (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 183,
+                    "original air date": "13 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    Hank and Britt go on a wild goose chase through Ocean Beach while searching for an engagement ring.    "
+                },
+                "7": {
+                    "title": "Missing Persons",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Terriers (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 177,
+                    "original air date": "20 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    Hank and Britt help an amnesiac college student with the case of his missing identity.    "
+                },
+                "8": {
+                    "title": "Agua Caliente",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Terriers (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 174,
+                    "original air date": "27 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    Separated and in danger, Hank and Britt must both work with their ex-partners to make it out of some hot water south of the border.    "
+                },
+                "9": {
+                    "title": "Pimp Daddy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Terriers (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 181,
+                    "original air date": "3 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    While Hank recovers from his injury, Britt teams up with a transvestite hooker to solve the death of her friend.    "
+                },
+                "10": {
+                    "title": "Asunder",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Terriers (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 175,
+                    "original air date": "10 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    Fighting the urge to drink on Gretchen's wedding day, Hank stumbles back onto the radar of the conspiracy threatening Ocean Beach.    "
+                },
+                "11": {
+                    "title": "Sins of the Past",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Terriers (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 174,
+                    "original air date": "17 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    Hank gets a second shot at the rape case that got him ejected from the police department in a mystery spanning multiple time periods.    "
+                },
+                "12": {
+                    "title": "Quid Pro Quo",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Terriers (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 168,
+                    "original air date": "24 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    Hank, Britt, and new ally, Laura Ross, unravel the Ocean Beach conspiracy, which puts them and everyone they love in immediate danger.    "
+                },
+                "13": {
+                    "title": "Hail Mary",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Terriers (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 176,
+                    "original air date": "1 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    Still reeling from his loss, Hank is out of options and out of time. Britt is faced with a decision that will change his future.    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "Sins of the Past: Three-Minute-Replay",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Terriers (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "votes": 31,
+                    "original air date": "21 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 14,
+        "cast": [
+            {
+                "name": "Logue, Donal"
+            },
+            {
+                "name": "Raymond-James, Michael"
+            },
+            {
+                "name": "Allen, Laura"
+            },
+            {
+                "name": "Quinn, Kimberly"
+            },
+            {
+                "name": "Denbo, Jamie"
+            },
+            {
+                "name": "Dunbar, Rockmond"
+            },
+            {
+                "name": "Dean, Loren"
+            },
+            {
+                "name": "Silva, Zack"
+            },
+            {
+                "name": "Logue, Karina"
+            },
+            {
+                "name": "Susser, Craig"
+            },
+            {
+                "name": "Scott, Daren"
+            },
+            {
+                "name": "Frejek, Stephen"
+            },
+            {
+                "name": "Gaston, Michael"
+            },
+            {
+                "name": "Elliott, Alison"
+            },
+            {
+                "name": "Fasen, Todd"
+            },
+            {
+                "name": "Fernie, Alex"
+            },
+            {
+                "name": "Berg, Alex"
+            },
+            {
+                "name": "Fox, Kirk"
+            },
+            {
+                "name": "Cousins, Christopher"
+            },
+            {
+                "name": "Holden, Sara"
+            },
+            {
+                "name": "Villani, Michael"
+            },
+            {
+                "name": "Gilbert, James Thomas"
+            },
+            {
+                "name": "Ross, J. Michael"
+            },
+            {
+                "name": "Butler, Daniel N."
+            },
+            {
+                "name": "Hernández, Maximiliano"
+            },
+            {
+                "name": "Hipp, Paul"
+            },
+            {
+                "name": "Miner, Rachel"
+            },
+            {
+                "name": "Chomko, Elizabeth"
+            },
+            {
+                "name": "Debatin, Jackie"
+            },
+            {
+                "name": "Sneed, Johnny"
+            },
+            {
+                "name": "Pena, J. Rene"
+            },
+            {
+                "name": "Menkin, Darlynne Reyes"
+            },
+            {
+                "name": "Loui, Tiffany"
+            },
+            {
+                "name": "Reherman, Lee"
+            },
+            {
+                "name": "Callender, Lorenzo"
+            },
+            {
+                "name": "Chandler, Cristyn"
+            },
+            {
+                "name": "Cogan, John T."
+            },
+            {
+                "name": "Fernandez, Ramon"
+            },
+            {
+                "name": "Neil, Richard"
+            },
+            {
+                "name": "Kelly, Elizabeth M."
+            },
+            {
+                "name": "Rodriguez, Jorge E."
+            },
+            {
+                "name": "Harris, Piper Mackenzie"
+            },
+            {
+                "name": "York, Olivia Dawn"
+            },
+            {
+                "name": "Fisher, Noel"
+            },
+            {
+                "name": "Williams, Gareth"
+            },
+            {
+                "name": "Williams, Olivia"
+            },
+            {
+                "name": "Doyle, Shawn"
+            },
+            {
+                "name": "Martin, Chris William"
+            },
+            {
+                "name": "Monaghan, Cameron"
+            },
+            {
+                "name": "Mooney, Nate"
+            }
+        ],
+        "locations": [
+            "San Diego, California, USA"
+        ],
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "45"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en",
+            "es"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "certificates": [
+            "Netherlands:12",
+            "United States:TV-MA"
+        ],
+        "number of seasons": 1,
+        "rating": 8.4,
+        "votes": 9678,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNzg0NDQ0MTcwM15BMl5BanBnXkFtZTcwNTQwNDk3Mw@@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "title": "Terriers",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-2010",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Griffin, Ted"
+            },
+            {
+                "name": "Headland, Leslye"
+            },
+            {
+                "name": "Kang, Angela"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Fox 21"
+            },
+            {
+                "name": "MiddKid Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "20th Century Fox Television"
+            },
+            {
+                "name": "FX Network"
+            },
+            {
+                "name": "2BE"
+            },
+            {
+                "name": "RTL Entertainment"
+            },
+            {
+                "name": "RTL Entertainment"
+            },
+            {
+                "name": "Viasat 6"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Warehouze"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Flipside Sound Editorial"
+            },
+            {
+                "name": "Go For Locations"
+            },
+            {
+                "name": "Micdi Productions"
+            },
+            {
+                "name": "RH Factor"
+            }
+        ],
+        "plot": [
+            "Ex-cop and recovering alcoholic Hank Dolworth partners with his best friend, former criminal Britt Pollack, in an unlicensed private investigation business.::Anonymous"
+        ],
+        "synopsis": [
+            "Ex-cop and recovering alcoholic Hank Dolworth (Logue) partners with his best friend, former criminal Britt Pollack (Raymond-James) in an unlicensed private investigation business."
+        ],
+        "tech": {
+            "runtime": [
+                "45 min"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Panavision Genesis HD Camera"
+            ],
+            "negative format": [
+                "Video (HDTV)"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (master format)",
+                "HDCAM SR (1080p/24) (source format)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 9678,
+                "rating": 8.4
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 1.0
+            },
+            "aged 18 29": {
+                "votes": 1392,
+                "rating": 8.5
+            },
+            "aged 30 44": {
+                "votes": 4893,
+                "rating": 8.4
+            },
+            "aged 45 plus": {
+                "votes": 1853,
+                "rating": 8.3
+            },
+            "males": {
+                "votes": 6821,
+                "rating": 8.4
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 1.0
+            },
+            "males aged 18 29": {
+                "votes": 1153,
+                "rating": 8.5
+            },
+            "males aged 30 44": {
+                "votes": 4145,
+                "rating": 8.5
+            },
+            "males aged 45 plus": {
+                "votes": 1344,
+                "rating": 8.3
+            },
+            "females": {
+                "votes": 1449,
+                "rating": 8.4
+            },
+            "females aged 18 29": {
+                "votes": 220,
+                "rating": 8.3
+            },
+            "females aged 30 44": {
+                "votes": 699,
+                "rating": 8.3
+            },
+            "females aged 45 plus": {
+                "votes": 484,
+                "rating": 8.6
+            },
+            "top 1000 voters": {
+                "votes": 146,
+                "rating": 6.8
+            },
+            "us users": {
+                "votes": 3737,
+                "rating": 8.7
+            },
+            "non us users": {
+                "votes": 3478,
+                "rating": 8.2
+            }
+        },
+        "number of votes": {
+            "10": 3214,
+            "9": 2617,
+            "8": 1965,
+            "7": 848,
+            "6": 346,
+            "5": 152,
+            "4": 63,
+            "3": 54,
+            "2": 36,
+            "1": 383
+        },
+        "arithmetic mean": 8.4,
+        "median": 9
+    }
+}
