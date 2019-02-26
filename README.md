@@ -14,3 +14,14 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
 ```
+### Convert crawled data to pandas DataFrame
+```
+usage: vectorize_data.py [-h] -i INPUT [INPUT ...] -o OUTPUT
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INPUT [INPUT ...], --input INPUT [INPUT ...]
+                        <Required> input directory
+  -o OUTPUT, --output OUTPUT
+                        <Required> output file path
+ ```
