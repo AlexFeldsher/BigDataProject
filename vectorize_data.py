@@ -246,7 +246,8 @@ def distributors(data):
     return dist
 
 
-extract_functions = {'runtime': average_episode_length,
+extract_functions = {
+             #'runtime': average_episode_length,
              #'years_running': years_running,
              'seasons': number_of_seasons,
              'episodes': number_of_episodes,
@@ -263,13 +264,13 @@ extract_functions = {'runtime': average_episode_length,
              'genres': genres,
              'countries': countries,
              'languages': languages,
-             'aspect_ratio': aspect_ratio,
-             'sound_mix': sound_mix,
-             'certificates': certificates,
-             'locations': number_of_shooting_locations,
+             #'aspect_ratio': aspect_ratio,
+             #'sound_mix': sound_mix,
+             #'certificates': certificates,
+             #'locations': number_of_shooting_locations,
              'writers': writers,
-             'cast': cast,
-             'distributors': distributors}
+             #'distributors': distributors,
+             'cast': cast}
 
 def get_all(key, data) -> set:
     ''' return a set of all the different values that appeared for the given
@@ -392,7 +393,8 @@ def vect_demographics(key, data, matrix, feature_list):
                 matrix[row][feature_key] = 0
 
 
-vectorize_functions = {'runtime': vect_value,
+vectorize_functions = {
+             #'runtime': vect_value,
              #'years_running': years_running,
              'seasons': vect_value,
              'episodes': vect_value,
@@ -409,13 +411,13 @@ vectorize_functions = {'runtime': vect_value,
              'genres': vect_list,
              'countries': vect_list,
              'languages': vect_list,
-             'aspect_ratio': vect_list,
-             'sound_mix': vect_list,
-             'certificates': vect_list,
-             'locations': vect_list,
+             #'aspect_ratio': vect_list,
+             #'sound_mix': vect_list,
+             #'certificates': vect_list,
+             #'locations': vect_list,
              'writers': vect_list,
-             'cast': vect_list,
-             'distributors': vect_list}
+             #'distributors': vect_list,
+             'cast': vect_list}
 
 def vectorize(data: list):
     # initialize vectorized data structure
@@ -430,10 +432,11 @@ def vectorize(data: list):
     del data
     return pd.DataFrame(matrix, index=ids)
 
-def extract_data(paths) -> list:
+def extract_data(paths, complete=False) -> list:
     data = list()
     for path in paths:
         for json_file_path in Path(path).iterdir():
+            save_series = True
             series = dict()
             series_id = str(json_file_path).split('/')[-1].split('.')[0]
             series['id'] = series_id
@@ -444,7 +447,15 @@ def extract_data(paths) -> list:
 
             for key, func in extract_functions.items():
                 series[key] = func(json_file)
-            data.append(series)
+                if complete and series[key] is None:
+                    print('missing {}'.format(key))
+                    save_series = False
+                    break
+            if complete and save_series:
+                data.append(series)
+            elif not complete:
+                data.append(series)
+    print(len(data))
     return data
 
 def get_all_features(data):
@@ -473,13 +484,14 @@ def init_matrix(data, column_map):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-i', '--input', nargs='+', type=str, help='<Required> input directory', required=True)
+    parser.add_argument('-c', '--complete', action='store_true', help='<Oprional> process only complete data', required=False)
     parser.add_argument('-o', '--output', nargs=1, type=str, help='<Required> output file path', required=True)
 
     args = parser.parse_args()
     input_dirs = args.input
     output_file_path = args.output[0]
 
-    _data = extract_data(input_dirs)
+    _data = extract_data(input_dirs, args.complete)
     _result = vectorize(_data)
     logging.info('Saving pickle...')
     with open(output_file_path, 'wb') as _f:
