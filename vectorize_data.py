@@ -164,7 +164,7 @@ def number_of_writers(data):
         return len(writers)
     return -1
 
-def distributors(data):
+def num_distributors(data):
     try:
         dist = data['imdb']['distributors']
     except:
@@ -212,8 +212,39 @@ def votes(data):
         _votes = None
     return _votes
 
+def writers(data):
+    try:
+        writers = set()
+        for val in data['imdb']['writer']:
+            for _, name in val.items():
+                writers.add(name)
+    except:
+        writers = None
+    logging.debug('writers = {}'.format(writers))
+    return writers
 
-            
+def cast(data):
+    try:
+        cast = set()
+        for val in data['imdb']['cast']:
+            for _, name in val.items():
+                cast.add(name)
+    except:
+        cast = None
+    logging.debug('cast = {}'.format(cast))
+    return cast
+
+def distributors(data):
+    try:
+        dist = set()
+        for val in data['imdb']['distributors']:
+            for _, name in val.items():
+                dist.append(name)
+    except:
+        dist = None
+    logging.debug('distributors = {}'.format(dist))
+    return dist
+
 
 extract_functions = {'runtime': average_episode_length,
              #'years_running': years_running,
@@ -222,7 +253,7 @@ extract_functions = {'runtime': average_episode_length,
              'release_date': release_date,
              'len_title': number_of_words_in_title,
              'num_writers': number_of_writers,
-             'distributors': distributors,
+             'num_distributors': num_distributors,
              'year': year,
              'rating_mean': rating_mean,
              'rating_median': rating_median,
@@ -235,7 +266,10 @@ extract_functions = {'runtime': average_episode_length,
              'aspect_ratio': aspect_ratio,
              'sound_mix': sound_mix,
              'certificates': certificates,
-             'locations': number_of_shooting_locations}
+             'locations': number_of_shooting_locations,
+             'writers': writers,
+             'cast': cast,
+             'distributors': distributors}
 
 def get_all(key, data) -> set:
     ''' return a set of all the different values that appeared for the given
@@ -365,7 +399,7 @@ vectorize_functions = {'runtime': vect_value,
              'release_date': vect_value,
              'len_title': vect_value,
              'num_writers': vect_value,
-             'distributors': vect_value,
+             'num_distributors': vect_value,
              'year': vect_value,
              'rating_mean': vect_value,
              'rating_median': vect_value,
@@ -378,7 +412,10 @@ vectorize_functions = {'runtime': vect_value,
              'aspect_ratio': vect_list,
              'sound_mix': vect_list,
              'certificates': vect_list,
-             'locations': vect_list}
+             'locations': vect_list,
+             'writers': vect_list,
+             'cast': vect_list,
+             'distributors': vect_list}
 
 def vectorize(data: list):
     # initialize vectorized data structure
@@ -390,6 +427,7 @@ def vectorize(data: list):
         logging.info('vectorizing {}...'.format(key))
         sys.stdout.flush()
         vect_func(key, data, matrix, feature_list)
+    del data
     return pd.DataFrame(matrix, index=ids)
 
 def extract_data(paths) -> list:
