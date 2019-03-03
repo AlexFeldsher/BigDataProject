@@ -247,7 +247,7 @@ def distributors(data):
 
 
 extract_functions = {
-             #'runtime': average_episode_length,
+             'runtime': average_episode_length,
              #'years_running': years_running,
              'seasons': number_of_seasons,
              'episodes': number_of_episodes,
@@ -264,13 +264,13 @@ extract_functions = {
              'genres': genres,
              'countries': countries,
              'languages': languages,
-             #'aspect_ratio': aspect_ratio,
-             #'sound_mix': sound_mix,
-             #'certificates': certificates,
-             #'locations': number_of_shooting_locations,
-             'writers': writers,
+             'aspect_ratio': aspect_ratio,
+             'sound_mix': sound_mix,
+             'certificates': certificates,
+             'locations': number_of_shooting_locations}
+             #'writers': writers,
              #'distributors': distributors,
-             'cast': cast}
+             #'cast': cast}
 
 def get_all(key, data) -> set:
     ''' return a set of all the different values that appeared for the given
@@ -394,7 +394,7 @@ def vect_demographics(key, data, matrix, feature_list):
 
 
 vectorize_functions = {
-             #'runtime': vect_value,
+             'runtime': vect_value,
              #'years_running': years_running,
              'seasons': vect_value,
              'episodes': vect_value,
@@ -411,13 +411,13 @@ vectorize_functions = {
              'genres': vect_list,
              'countries': vect_list,
              'languages': vect_list,
-             #'aspect_ratio': vect_list,
-             #'sound_mix': vect_list,
-             #'certificates': vect_list,
-             #'locations': vect_list,
-             'writers': vect_list,
+             'aspect_ratio': vect_list,
+             'sound_mix': vect_list,
+             'certificates': vect_list,
+             'locations': vect_list}
+             #'writers': vect_list,
              #'distributors': vect_list,
-             'cast': vect_list}
+             #'cast': vect_list}
 
 def vectorize(data: list):
     # initialize vectorized data structure
