@@ -1,0 +1,406 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "29 October 2017"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "2 January 2018"
+            },
+            {
+                "country": "USA\n",
+                "date": "20 January 2018"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "4 March 2018"
+            }
+        ],
+        "release dates": [
+            "UK::29 October 2017",
+            "Belgium::2 January 2018",
+            "USA::20 January 2018",
+            "Sweden::4 March 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Blue Planet II"
+            },
+            {
+                "countries": "Germany",
+                "title": "Der Blaue Planet"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A kék bolygó II."
+            },
+            {
+                "countries": "Russia",
+                "title": "Голубая планета 2"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Plava planeta"
+            },
+            {
+                "countries": "Spain",
+                "title": "Planeta azul II"
+            },
+            {
+                "countries": "Ukraine",
+                "title": "Блакитна планета 2"
+            },
+            {
+                "countries": "USA",
+                "title": "Blue Planet II"
+            }
+        ],
+        "akas": [
+            "Blue Planet II (original title)",
+            "Der Blaue Planet Germany",
+            "A kék bolygó II. Hungary",
+            "Голубая планета 2 Russia",
+            "Plava planeta Serbia",
+            "Planeta azul II Spain",
+            "Блакитна планета 2 Ukraine",
+            "Blue Planet II USA"
+        ],
+        "akas from release info": [
+            "Blue Planet II (original title)",
+            "Der Blaue Planet Germany",
+            "A kék bolygó II. Hungary",
+            "Голубая планета 2 Russia",
+            "Plava planeta Serbia",
+            "Planeta azul II Spain",
+            "Блакитна планета 2 Ukraine",
+            "Blue Planet II USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "One Ocean",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue Planet II (TV Mini-Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 994,
+                    "original air date": "20 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    One Ocean takes us on a journey from the intense heat of the tropics to our planet's frozen poles to reveal new worlds and extraordinary never-before-seen animal behaviours.    "
+                },
+                "2": {
+                    "title": "The Deep",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue Planet II (TV Mini-Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 895,
+                    "original air date": "27 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    The adventurers in submarine explore the ocean and film everything around them.    "
+                },
+                "3": {
+                    "title": "Coral Reefs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue Planet II (TV Mini-Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 716,
+                    "original air date": "3 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Corals build themselves homes of limestone in the warm, clear, shallow seas of the tropics. Their reefs occupy less than one tenth of one per cent of the ocean floor, yet they are home to a quarter of all known marine species.    "
+                },
+                "4": {
+                    "title": "Big Blue",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue Planet II (TV Mini-Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 592,
+                    "original air date": "19 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    The big blue is the world's greatest wilderness, far from shore and many kilometers deep. It's a vast marine desert where there is little to eat and nowhere to hide.    "
+                },
+                "5": {
+                    "title": "Green Seas",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue Planet II (TV Mini-Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 560,
+                    "original air date": "26 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    It's our green seas, not the blue, that bring life to our oceans. Here sunlight powers the growth of enchanted forests of kelp, mangroves and prairies of sea grass. They are the most abundant but fiercely competitive places in the ocean to live.    "
+                },
+                "6": {
+                    "title": "Coasts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue Planet II (TV Mini-Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 481,
+                    "original air date": "3 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    A fascinating insight into the coastal depths that grace our planet.    "
+                },
+                "7": {
+                    "title": "Our Blue Planet",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue Planet II (TV Mini-Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 423,
+                    "original air date": "10 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    Examining the role of human anthropogenic activity on the oceans. Microplastics and pollution are an increasing problem for the world's seas, threatening the lives of marine life and ultimately impacting on the ecosystem.    "
+                },
+                "8": {
+                    "title": "Oceans of Wonder",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue Planet II (TV Mini-Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 206,
+                    "original air date": "1 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    This extended special takes you on a journey from the equator to the unexplored depths of the ocean, meeting all the best-loved characters from the series.    "
+                }
+            }
+        },
+        "number of episodes": 8,
+        "cast": [
+            {
+                "name": "Attenborough, David"
+            },
+            {
+                "name": "Drost, Peter"
+            },
+            {
+                "name": "Munns, Roger"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color::(ACES)"
+        ],
+        "aspect ratio": "1.78 : 1 (UHD)",
+        "sound mix": [
+            "DTS::(DTS HD Master Audio 5.1)",
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Australia:PG",
+            "Ireland:PG",
+            "United Kingdom:U",
+            "United States:TV-PG"
+        ],
+        "original air date": "20 Jan 2018 (USA)",
+        "number of seasons": 1,
+        "rating": 9.3,
+        "votes": 16580,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNjI1M2ZjMzItZWI4Ny00ZWJlLWI0ZDAtMTJhNDQxOWZjM2M5XkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SY150_CR6,0,101,150_.jpg",
+        "plot outline": "Nearly a generation after the acclaimed Blue Planet documentary was released, David Attenborough returns to narrate this groundbreaking sequel/reboot. Blue Planet ll focuses more heavily on mankind's influence on the world's oceans through both global pollution and climate change. This series features a variety of revolutionary segments never before seen in a video documentary, including: cuttlefish that hypnotize crabs to stun them, giant trevally that leap out of the water to catch low flying birds, and newly discovered dancing yeti crabs.",
+        "languages": [
+            "English"
+        ],
+        "title": "Blue Planet II",
+        "year": 2017,
+        "kind": "tv mini series",
+        "series years": "2017-2018",
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "BBC Natural History Unit"
+            },
+            {
+                "name": "BBC Studios"
+            },
+            {
+                "name": "OceanX Media"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "BBC America"
+            },
+            {
+                "name": "BBC One"
+            },
+            {
+                "name": "BBC Worldwide"
+            },
+            {
+                "name": "Polyband"
+            },
+            {
+                "name": "Polyband"
+            },
+            {
+                "name": "Polyband"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Silva Screen Records"
+            }
+        ],
+        "plot": [
+            "David Attenborough returns to the world's oceans in this sequel to the acclaimed documentary filming rare and unusual creatures of the deep, as well as documenting the problems our oceans face.::Tom Daly",
+            "Nearly a generation after the acclaimed Blue Planet documentary was released, David Attenborough returns to narrate this groundbreaking sequel/reboot. Blue Planet ll focuses more heavily on mankind's influence on the world's oceans through both global pollution and climate change. This series features a variety of revolutionary segments never before seen in a video documentary, including: cuttlefish that hypnotize crabs to stun them, giant trevally that leap out of the water to catch low flying birds, and newly discovered dancing yeti crabs.::Jakob E. Ferguson"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (including commercials)"
+            ],
+            "sound mix": [
+                "DTS (DTS HD Master Audio 5.1)",
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color (ACES)"
+            ],
+            "aspect ratio": [
+                "1.78 : 1 (UHD)"
+            ],
+            "camera": [
+                "RED DRAGON"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (4K) (master format)",
+                "HDR10",
+                "Hybrid Log-Gamma"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 16580,
+                "rating": 9.3
+            },
+            "aged under 18": {
+                "votes": 57,
+                "rating": 8.6
+            },
+            "aged 18 29": {
+                "votes": 4399,
+                "rating": 9.5
+            },
+            "aged 30 44": {
+                "votes": 4611,
+                "rating": 9.4
+            },
+            "aged 45 plus": {
+                "votes": 1323,
+                "rating": 9.3
+            },
+            "males": {
+                "votes": 9700,
+                "rating": 9.4
+            },
+            "males aged under 18": {
+                "votes": 44,
+                "rating": 8.4
+            },
+            "males aged 18 29": {
+                "votes": 3663,
+                "rating": 9.5
+            },
+            "males aged 30 44": {
+                "votes": 3932,
+                "rating": 9.4
+            },
+            "males aged 45 plus": {
+                "votes": 1080,
+                "rating": 9.3
+            },
+            "females": {
+                "votes": 1605,
+                "rating": 9.5
+            },
+            "females aged under 18": {
+                "votes": 9,
+                "rating": 9.7
+            },
+            "females aged 18 29": {
+                "votes": 619,
+                "rating": 9.5
+            },
+            "females aged 30 44": {
+                "votes": 578,
+                "rating": 9.5
+            },
+            "females aged 45 plus": {
+                "votes": 204,
+                "rating": 9.5
+            },
+            "top 1000 voters": {
+                "votes": 121,
+                "rating": 8.4
+            },
+            "us users": {
+                "votes": 1553,
+                "rating": 9.3
+            },
+            "non us users": {
+                "votes": 6596,
+                "rating": 9.4
+            }
+        },
+        "number of votes": {
+            "10": 9781,
+            "9": 3955,
+            "8": 1415,
+            "7": 343,
+            "6": 99,
+            "5": 46,
+            "4": 21,
+            "3": 18,
+            "2": 23,
+            "1": 879
+        },
+        "arithmetic mean": 9.0,
+        "median": 1
+    }
+}

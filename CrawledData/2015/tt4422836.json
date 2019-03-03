@@ -1,0 +1,821 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "22 September 2015"
+            },
+            {
+                "country": "Chile\n",
+                "date": "1 October 2015"
+            },
+            {
+                "country": "UK\n",
+                "date": "17 February 2016"
+            },
+            {
+                "country": "Finland\n",
+                "date": "24 February 2016"
+            },
+            {
+                "country": "Germany\n",
+                "date": "10 March 2016"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "2 October 2016"
+            },
+            {
+                "country": "Japan\n",
+                "date": "29 October 2016",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "France\n",
+                "date": "5 November 2016"
+            },
+            {
+                "country": "Japan\n",
+                "date": "23 November 2016"
+            }
+        ],
+        "release dates": [
+            "USA::22 September 2015",
+            "Chile::1 October 2015",
+            "UK::17 February 2016",
+            "Finland::24 February 2016",
+            "Germany::10 March 2016",
+            "Belgium::2 October 2016",
+            "Japan::29 October 2016                            (limited)",
+            "France::5 November 2016",
+            "Japan::23 November 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Limitless"
+            },
+            {
+                "countries": "Finland",
+                "title": "Limitless"
+            },
+            {
+                "countries": "Lithuania",
+                "title": "Salutinis efektas"
+            },
+            {
+                "countries": "Russia",
+                "title": "Области тьмы"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Bez ograničenja"
+            },
+            {
+                "countries": "Spain",
+                "title": "Sin límites"
+            },
+            {
+                "countries": "USA",
+                "title": "Limitless"
+            }
+        ],
+        "akas": [
+            "Limitless (original title)",
+            "Limitless Finland",
+            "Salutinis efektas Lithuania",
+            "Области тьмы Russia",
+            "Bez ograničenja Serbia",
+            "Sin límites Spain",
+            "Limitless USA"
+        ],
+        "akas from release info": [
+            "Limitless (original title)",
+            "Limitless Finland",
+            "Salutinis efektas Lithuania",
+            "Области тьмы Russia",
+            "Bez ograničenja Serbia",
+            "Sin límites Spain",
+            "Limitless USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 1960,
+                    "original air date": "22 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    Brian Finch develops superhuman abilities after taking a mysterious drug called NZT, which finds him landing on the FBI's radar as he works to clear his name of an NZT-related murder.    "
+                },
+                "2": {
+                    "title": "Badge! Gun!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 1448,
+                    "original air date": "29 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    Brian risks his new FBI job when he disobeys orders to stay out of the investigation into a renowned journalist's murder.    "
+                },
+                "3": {
+                    "title": "The Legend of Marcos Ramos",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 1192,
+                    "original air date": "6 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Brian helps Agents Harris and Boyle investigate the murder of a retired FBI agent and is shocked to find a link to the elusive head of a notorious drug cartel. Also, Brian reconnects with an old flame.    "
+                },
+                "4": {
+                    "title": "Page 44",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 1061,
+                    "original air date": "13 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Brian's loyalty to the FBI is tested when Sands demands he steal the FBI's secret files on NZT; Rebecca is emotionally conflicted when she learns what her estranged father left her following his death.    "
+                },
+                "5": {
+                    "title": "Personality Crisis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 992,
+                    "original air date": "20 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Brian learns a shocking secret about Rebecca's late father and accidentally meddles in her personal life while learning self-defense from her secret boyfriend, FBI Agent Casey Rooks.    "
+                },
+                "6": {
+                    "title": "Side Effects May Include...",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 1059,
+                    "original air date": "27 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Brian's physical and mental health begin to deteriorate again as Morra demands a high price in exchange for another inoculation.    "
+                },
+                "7": {
+                    "title": "Brian Finch's Black Op",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 1014,
+                    "original air date": "3 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Brian takes a day off (a la Ferris Bueller) but it all goes wrong when he is kidnapped by the CIA who needs his NZT skills.    "
+                },
+                "8": {
+                    "title": "When Pirates Pirate Pirates",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 906,
+                    "original air date": "10 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    When Naz is detained on suspicion of funding terrorism, Brian and Rebecca's efforts to clear her name lead them to Naz's daughter, Ava, who reveals a family secret Naz has kept from the FBI.    "
+                },
+                "9": {
+                    "title": "Headquarters!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 1043,
+                    "original air date": "17 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    In pestering Naz for his own personal \"Headquarters,\" Brian offers to capture the FBI's 10 Most Wanted criminals as a bargaining chip.    "
+                },
+                "10": {
+                    "title": "Arm-aggedon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 850,
+                    "original air date": "24 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Boyle's old friend from the service claims someone hacked his prosthetic arm and used it to murder his wife and frame him, so Boyle asks Brian to help prove his innocence.    "
+                },
+                "11": {
+                    "title": "This Is Your Brian on Drugs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 984,
+                    "original air date": "15 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    When Casey and his SWAT team skim 80 NZT pills for themselves from the recovery of stolen inventory, it starts an internal investigation that is viewed through the shifting perspectives of Brian's immediate circle at the FBI.    "
+                },
+                "12": {
+                    "title": "The Assassination of Eddie Morra",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 971,
+                    "original air date": "5 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Senator Edward Morra is targeted by a would-be assassin, and Brian is ordered to sabotage the FBI's investigation into the murder attempt in order to prevent exposing the Senator's connection with NZT.    "
+                },
+                "13": {
+                    "title": "Stop Me Before I Hug Again",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 1186,
+                    "original air date": "19 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    As Brian investigates his first serial killer case, his child-like, NZT-fueled subconscious objects, exchanging feel-good words for scary ones.    "
+                },
+                "14": {
+                    "title": "Fundamentals of Naked Portraiture",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 700,
+                    "original air date": "9 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Brian hunts down a thief who has stolen digitized copies of the world's brightest minds. Rebecca comes closer to finding the truth behind Morra's tampered jacket.    "
+                },
+                "15": {
+                    "title": "Undercover!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 723,
+                    "original air date": "16 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Brian goes undercover with an associate to bring down the women trafficking association and people involved in it.    "
+                },
+                "16": {
+                    "title": "Sands, Agent of Morra",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 760,
+                    "original air date": "23 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    While Rebecca and Boyle look for a kidnapped boy, Brian is forced to help Sands after he shows up at his door wounded.    "
+                },
+                "17": {
+                    "title": "Close Encounters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 792,
+                    "original air date": "8 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    While Brian and Rebecca investigate a blackout, they are exposed to an unknown substance and put under quarantine.    "
+                },
+                "18": {
+                    "title": "Bezgranichnyy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 718,
+                    "original air date": "15 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    While Rebecca gets closer to discovering Brian's secret, Brian goes rogue from the FBI and goes to Russia to find the only person who can help him cut all ties from Senator Eddie Morra.    "
+                },
+                "19": {
+                    "title": "A Dog's Breakfast",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 707,
+                    "original air date": "22 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Back from Russia but under the thumb of Naz's new restrictive rules, Brian helps investigate the murder of a billionaire who's new kidney was forcibly removed.    "
+                },
+                "20": {
+                    "title": "Hi, My Name Is Rebecca Harris",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 887,
+                    "original air date": "5 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    When Rebecca learns a truth about her father's death, she takes NZT and uses it to seek justice for his murder. Sands allows a dangerous move against Brian to ensure the success of his new initiative.    "
+                },
+                "21": {
+                    "title": "Finale: Part One!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "votes": 796,
+                    "original air date": "19 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    When an NZT outbreak causes chaos in New York City, Brian is forced to investigate on his own because the FBI won't let him in.    "
+                },
+                "22": {
+                    "title": "Finale: Part Two!!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Limitless (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "votes": 700,
+                    "original air date": "26 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Brian attempts to stop \"The Legion of Whom\" and find Piper as the side effects of NZT start to get to him.    "
+                }
+            }
+        },
+        "number of episodes": 22,
+        "cast": [
+            {
+                "name": "McDorman, Jake"
+            },
+            {
+                "name": "Carpenter, Jennifer"
+            },
+            {
+                "name": "Harper, Hill"
+            },
+            {
+                "name": "Mastrantonio, Mary Elizabeth"
+            },
+            {
+                "name": "Degnan, Tom"
+            },
+            {
+                "name": "Salmon, Colin"
+            },
+            {
+                "name": "Shaw, Michael James"
+            },
+            {
+                "name": "Rifkin, Ron"
+            },
+            {
+                "name": "Devine, Michael"
+            },
+            {
+                "name": "Guinan, Megan"
+            },
+            {
+                "name": "Brown, Blair"
+            },
+            {
+                "name": "Pelinkovicci, Musto"
+            },
+            {
+                "name": "Darragh, Patch"
+            },
+            {
+                "name": "Cooper, Bradley"
+            },
+            {
+                "name": "Haig, Georgina"
+            },
+            {
+                "name": "Harrington, Desmond"
+            },
+            {
+                "name": "Omura, Jeffrey"
+            },
+            {
+                "name": "Gagliardi, Henry"
+            },
+            {
+                "name": "Moyo, Sipiwe"
+            },
+            {
+                "name": "Vidal, Christina"
+            },
+            {
+                "name": "Akinnagbe, Gbenga"
+            },
+            {
+                "name": "Pitts, Jacob"
+            },
+            {
+                "name": "McDaniel, James"
+            },
+            {
+                "name": "Wilson, Sarah"
+            },
+            {
+                "name": "O'Reilly, Stephen"
+            },
+            {
+                "name": "Tann, Robbie"
+            },
+            {
+                "name": "Burnett, Jeremy"
+            },
+            {
+                "name": "Izrailova, Lorianna"
+            },
+            {
+                "name": "Noonan, Mark"
+            },
+            {
+                "name": "Germann, Greg"
+            },
+            {
+                "name": "Tipton, Analeigh"
+            },
+            {
+                "name": "Yoba, Malik"
+            },
+            {
+                "name": "Donovan, Tate"
+            },
+            {
+                "name": "Reid, Tim"
+            },
+            {
+                "name": "Arlovski, Andrei"
+            },
+            {
+                "name": "Baker, Max"
+            },
+            {
+                "name": "Burnett, McCaleb"
+            },
+            {
+                "name": "Gold, Daniel Eric"
+            },
+            {
+                "name": "Holt, Joe"
+            },
+            {
+                "name": "Robards, Sam"
+            },
+            {
+                "name": "Jr., Isiah Whitlock"
+            },
+            {
+                "name": "Bartlett, Murray"
+            },
+            {
+                "name": "Colby, James"
+            },
+            {
+                "name": "Serpico, Terry"
+            },
+            {
+                "name": "Eaves, Dashiell"
+            },
+            {
+                "name": "Goh, Derek"
+            },
+            {
+                "name": "Guevara, Zabryna"
+            },
+            {
+                "name": "Gupta, Arjun"
+            },
+            {
+                "name": "Semine, Charlie"
+            },
+            {
+                "name": "la Fuente, Joel de"
+            }
+        ],
+        "locations": [
+            "Bushwick, Brooklyn, New York City, New York, USA"
+        ],
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "runtimes": [
+            "42"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Denmark:15::(DVD rating)",
+            "Finland:K-16::(DVD rating)",
+            "France:10",
+            "Italy:T::(DVD rating)",
+            "Italy:VM12::(TV rating)",
+            "Norway:15::(DVD rating)",
+            "Singapore:NC16",
+            "South Korea:18",
+            "Sweden:15::(DVD rating)",
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 7.8,
+        "votes": 55124,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTA4ODE4NjA5ODleQTJeQWpwZ15BbWU4MDUxMTQ0NTYx._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Limitless",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-2016",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Sweeny, Craig"
+            },
+            {
+                "name": "Richman, Jenna"
+            },
+            {
+                "name": "Tock, Geoffrey"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "K/O Paper Products"
+            },
+            {
+                "name": "Action This Day!"
+            },
+            {
+                "name": "Relativity Television"
+            },
+            {
+                "name": "CBS Television Studios"
+            },
+            {
+                "name": "Critical Content"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Sky Broadcasting (BSkyB)"
+            },
+            {
+                "name": "CBS"
+            },
+            {
+                "name": "FOX"
+            },
+            {
+                "name": "Fox Crime"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Paramount Home Entertainment"
+            },
+            {
+                "name": "ProSieben Fun"
+            },
+            {
+                "name": "Super! Drama TV"
+            },
+            {
+                "name": "Universal Pictures"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Brainstorm Digital"
+            },
+            {
+                "name": "Resin"
+            },
+            {
+                "name": "The Molecule"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "ARRI Rental"
+            },
+            {
+                "name": "Big A Solutions"
+            },
+            {
+                "name": "Codex"
+            },
+            {
+                "name": "Crawford Media Services"
+            },
+            {
+                "name": "Grant Wilfley Casting"
+            },
+            {
+                "name": "Lost Soul Entertainment Picture Cars"
+            },
+            {
+                "name": "MTI Film"
+            },
+            {
+                "name": "Prologue Films"
+            }
+        ],
+        "plot": [
+            "An average twenty-eight-year-old man who gains the ability to use the full extent of his brain's capabilities is hired by the F.B.I. as a consultant.::Anonymous & Andreea D"
+        ],
+        "tech": {
+            "runtime": [
+                "42 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 55124,
+                "rating": 7.8
+            },
+            "aged under 18": {
+                "votes": 67,
+                "rating": 8.1
+            },
+            "aged 18 29": {
+                "votes": 16493,
+                "rating": 8.0
+            },
+            "aged 30 44": {
+                "votes": 15119,
+                "rating": 7.5
+            },
+            "aged 45 plus": {
+                "votes": 4912,
+                "rating": 7.5
+            },
+            "males": {
+                "votes": 31025,
+                "rating": 7.7
+            },
+            "males aged under 18": {
+                "votes": 46,
+                "rating": 8.1
+            },
+            "males aged 18 29": {
+                "votes": 12918,
+                "rating": 8.0
+            },
+            "males aged 30 44": {
+                "votes": 11532,
+                "rating": 7.5
+            },
+            "males aged 45 plus": {
+                "votes": 3539,
+                "rating": 7.5
+            },
+            "females": {
+                "votes": 8979,
+                "rating": 7.8
+            },
+            "females aged under 18": {
+                "votes": 17,
+                "rating": 7.8
+            },
+            "females aged 18 29": {
+                "votes": 3359,
+                "rating": 7.9
+            },
+            "females aged 30 44": {
+                "votes": 3342,
+                "rating": 7.7
+            },
+            "females aged 45 plus": {
+                "votes": 1299,
+                "rating": 7.8
+            },
+            "top 1000 voters": {
+                "votes": 236,
+                "rating": 6.5
+            },
+            "us users": {
+                "votes": 5537,
+                "rating": 7.8
+            },
+            "non us users": {
+                "votes": 19164,
+                "rating": 7.6
+            }
+        },
+        "number of votes": {
+            "10": 12612,
+            "9": 10613,
+            "8": 14811,
+            "7": 9121,
+            "6": 3890,
+            "5": 1723,
+            "4": 717,
+            "3": 473,
+            "2": 341,
+            "1": 823
+        },
+        "arithmetic mean": 8.0,
+        "median": 8
+    }
+}

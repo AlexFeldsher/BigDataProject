@@ -1,0 +1,110 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "13 March 2015"
+            },
+            {
+                "country": "USA\n",
+                "date": "13 March 2015",
+                "notes": "                            (The Omaha Film Festival)"
+            }
+        ],
+        "release dates": [
+            "USA::13 March 2015",
+            "USA::13 March 2015                            (The Omaha Film Festival)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Heist",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Death Grip Electric (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "13 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Purcell, Jon"
+            },
+            {
+                "name": "Kingsbury, Joanna"
+            }
+        ],
+        "locations": [
+            "Omaha, Nebraska, USA"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "5"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "2.39:1",
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Death Grip Electric",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "akas": [
+            "Death Grip Electric (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Lang, Michael"
+            },
+            {
+                "name": "Mittan, Chuck"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Spectral Chemist"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Spectral Chemist"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "5 min"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "2.39:1"
+            ]
+        }
+    }
+}

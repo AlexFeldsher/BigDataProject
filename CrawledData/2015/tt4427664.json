@@ -1,0 +1,119 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "8 March 2015"
+            },
+            {
+                "country": "USA\n",
+                "date": "10 March 2015"
+            }
+        ],
+        "release dates": [
+            "USA::8 March 2015",
+            "USA::10 March 2015"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Portland Actors and Talent Oh My!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Right Now! (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "8 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Interview with \"Rising\" Actor Andrew D. Ford. Interview with street performer Loki.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Talent Interviews",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Right Now! (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "8 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Ford, Andrew D."
+            },
+            {
+                "name": "Boston, David"
+            }
+        ],
+        "locations": [
+            "655 NW Irving Street, Portland, Oregon, USA::(TPI)"
+        ],
+        "genres": [
+            "Talk-Show"
+        ],
+        "runtimes": [
+            "15"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Right Now!",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "akas": [
+            "Right Now! (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "BCCTV"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "BCCTV"
+            }
+        ],
+        "plot": [
+            "\"_Right Now!_ (qv)\" Features some of the most entertaining and unknown Talent out there _Right Now!_ (qv)::Director/Producer David Boston"
+        ],
+        "tech": {
+            "runtime": [
+                "15 min"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

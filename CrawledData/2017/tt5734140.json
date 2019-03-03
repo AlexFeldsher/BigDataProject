@@ -1,0 +1,521 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2017"
+            },
+            {
+                "country": "USA\n",
+                "date": "10 July 2017"
+            },
+            {
+                "country": "Spain\n",
+                "date": "20 September 2017"
+            }
+        ],
+        "release dates": [
+            "USA::2017",
+            "USA::10 July 2017",
+            "Spain::20 September 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Will"
+            },
+            {
+                "countries": "Russia",
+                "title": "Уилл"
+            }
+        ],
+        "akas": [
+            "Will (original title)",
+            "Уилл Russia"
+        ],
+        "akas from release info": [
+            "Will (original title)",
+            "Уилл Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Play's the Thing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Will (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 133,
+                    "original air date": "10 Jul. 2017",
+                    "year": "2017",
+                    "plot": "\n    During a time of religious turmoil in England, Will Shakespeare arrives in London from the small town of Stratford with little more than a dream and a treasonous letter.    "
+                },
+                "2": {
+                    "title": "Cowards Die Many Times",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Will (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 99,
+                    "original air date": "10 Jul. 2017",
+                    "year": "2017",
+                    "plot": "\n    Wracked with guilt over Baxter's arrest, Will confesses to the rebellious Alice. The theatre is threatened when a rival tries to lure the crowd-pleasing actor, Kemp, away.    "
+                },
+                "3": {
+                    "title": "The Two Gentlemen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Will (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 84,
+                    "original air date": "17 Jul. 2017",
+                    "year": "2017",
+                    "plot": "\n    Will has an epiphany that could bring him success, yet he needs Alice's help. Meanwhile, a magnetic fugitive from Will's past comes forth with a dangerous obligation.    "
+                },
+                "4": {
+                    "title": "Brave New World",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Will (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 65,
+                    "original air date": "24 Jul. 2017",
+                    "year": "2017",
+                    "plot": "\n    Marlowe introduces Will to the decadent elite of London, but things take a macabre turn; Alice becomes disillusioned; Will must fight for all he holds dear.    "
+                },
+                "5": {
+                    "title": "The Marriage of True Minds",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Will (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 58,
+                    "original air date": "31 Jul. 2017",
+                    "year": "2017",
+                    "plot": "\n    An unexpected arrival sends Will's world spinning; a transcendental experience leads Marlowe to deal with his past; Topcliffe deciphers a code that throws Will into a life-and-death situation.    "
+                },
+                "6": {
+                    "title": "Something Wicked This Way Comes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Will (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 53,
+                    "original air date": "7 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    Tensions rise as Will (Laurie Davidson) and Alice (Olivia DeJonge) continue to collaborate, while Anne (Deirdre Mullins) attempts to adjust to London life. Love forces Marlowe (Jamie Campbell Bower) to confront his darkest fears. Presto (Lukas Rolfe) is forced to confront true evil.    "
+                },
+                "7": {
+                    "title": "What Dreams May Come",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Will (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 46,
+                    "original air date": "14 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    The theatre is jeopardized so Will enlists help from a beautiful and talented friend.    "
+                },
+                "8": {
+                    "title": "Your Houses",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Will (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 49,
+                    "original air date": "21 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    Will is shocked to learn of Alice's new passion. Haunted by his inability to write, Marlowe embarks on a self-destructive path. Plague haunts London, and Richard discovers what he believes in.    "
+                },
+                "9": {
+                    "title": "Play the Devil",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Will (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 42,
+                    "original air date": "28 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    To write his new play Will must confront Topcliffe; to achieve greatness, Richard must tell his father a harsh truth; Alice contemplates a perilous mission.    "
+                },
+                "10": {
+                    "title": "Once, Bright Angel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Will (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 48,
+                    "original air date": "4 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Will and the company are shocked by a terrible discovery; they must risk everything in a life and death struggle for survival.    "
+                }
+            }
+        },
+        "number of episodes": 10,
+        "cast": [
+            {
+                "name": "Davidson, Laurie"
+            },
+            {
+                "name": "DeJonge, Olivia"
+            },
+            {
+                "name": "Bremner, Ewen"
+            },
+            {
+                "name": "Inwood, Mattias"
+            },
+            {
+                "name": "Bower, Jamie Campbell"
+            },
+            {
+                "name": "Houston, William"
+            },
+            {
+                "name": "Meaney, Colm"
+            },
+            {
+                "name": "Freshwater, Geoffrey"
+            },
+            {
+                "name": "Beamish, Jamie"
+            },
+            {
+                "name": "Valle, Cristian"
+            },
+            {
+                "name": "Galbraith, Adam"
+            },
+            {
+                "name": "Berkery, James"
+            },
+            {
+                "name": "Collard, Kenneth"
+            },
+            {
+                "name": "Jaynes, Jonathan"
+            },
+            {
+                "name": "Maslov, Benny"
+            },
+            {
+                "name": "Mukherjee, Ash"
+            },
+            {
+                "name": "Bowman, James T."
+            },
+            {
+                "name": "Pryor, Perran"
+            },
+            {
+                "name": "Rolfe, Lukas"
+            },
+            {
+                "name": "Bennett, Max"
+            },
+            {
+                "name": "Carroll, Nancy"
+            },
+            {
+                "name": "Rowe, Clive"
+            },
+            {
+                "name": "Hardingham, Abigail"
+            },
+            {
+                "name": "Sullivan, Connor"
+            },
+            {
+                "name": "Zaza, Shane"
+            },
+            {
+                "name": "Sear, George"
+            },
+            {
+                "name": "Tyler, Gerald"
+            },
+            {
+                "name": "Hayter, Edward"
+            },
+            {
+                "name": "Annor, Leon"
+            },
+            {
+                "name": "Williams-Stirling, Kedar"
+            },
+            {
+                "name": "Murphy, Tadhg"
+            },
+            {
+                "name": "Rees, Kyle"
+            },
+            {
+                "name": "Nardone, Michael"
+            },
+            {
+                "name": "Maiello, Pino"
+            },
+            {
+                "name": "Brown, Jasmin Savoy"
+            },
+            {
+                "name": "Farrell, Nicholas"
+            },
+            {
+                "name": "Bruce, Lorraine"
+            },
+            {
+                "name": "Philipps, Kristy"
+            },
+            {
+                "name": "Brady, Jack"
+            },
+            {
+                "name": "Sands, Julian"
+            },
+            {
+                "name": "Elwyn, Michael"
+            },
+            {
+                "name": "Meikle, Kayla"
+            },
+            {
+                "name": "Varla, Zubin"
+            },
+            {
+                "name": "Smart, Vyvyan"
+            },
+            {
+                "name": "Smudge, Stevie"
+            },
+            {
+                "name": "Dickens, Leonardo"
+            },
+            {
+                "name": "Mullins, Deirdre"
+            },
+            {
+                "name": "Dickens, Cleopatra"
+            },
+            {
+                "name": "Austen, Phoebe"
+            },
+            {
+                "name": "Cornwall, Nick"
+            }
+        ],
+        "locations": [
+            "Dragon Studios, Bridgend, Llanharan, Wales, UK",
+            "Lacock, Wiltshire, England, UK::(Pilot)"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 6.9,
+        "votes": 1689,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMWJlMmRiMzUtYjYyYy00MDgxLWIyOGEtZWE3YWVkOWFlYjVkXkEyXkFqcGdeQXVyNDU4Njg2MzM@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "Tells the wild story of young William Shakespeare's arrival onto the punk-rock theater scene in 16th century London - the seductive, violent world where his raw talent faced rioting audiences, religious fanatics and raucous side-shows. It's described as a contemporary version of Shakespeare's life, played to a modern soundtrack that exposes all his recklessness, lustful temptations and brilliance. Attracted to Will's naive genius is Alice Burbage, the talented, beautiful and rebellious daughter of James Burbage, the carpenter with a vision to build the first theater in London since Roman times. Despite being the daughter of an impresario, Alice is forbidden by society from pursuing a career in the theater. Her brother Richard Burbage, is innately talented, but too much in love with himself and prone to overact. A chance encounter at the theater leads him to team up with Will in what would soon become the greatest actor-writer partnership the world has ever seen. Rounding out Will's cast of characters are playwright, poet and rival Christopher Marlowe and wealthy and notorious Catholic hunter Richard Topcliffe.",
+        "languages": [
+            "English"
+        ],
+        "title": "Will",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-2017",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Pearce, Craig"
+            },
+            {
+                "name": "Perske, Jacquelin"
+            },
+            {
+                "name": "Byrd, Sarah"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "TNT"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "TNT"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Altor Security"
+            },
+            {
+                "name": "BCD Entertainment Travel"
+            },
+            {
+                "name": "Casting Collective"
+            },
+            {
+                "name": "Datasat Media"
+            },
+            {
+                "name": "De Lane Lea"
+            },
+            {
+                "name": "Soundtrack New York"
+            },
+            {
+                "name": "Universal Extras"
+            },
+            {
+                "name": "Vivid Rental"
+            }
+        ],
+        "plot": [
+            "A drama about the lost years of young _Will_ (qv)iam Shakespeare after his arrival to London in 1589 -- when theatre was like rock and roll and a young man with a dream changed the world with his words.",
+            "Tells the wild story of young _Will_ (qv)iam Shakespeare's arrival onto the punk-rock theater scene in 16th century London - the seductive, violent world where his raw talent faced rioting audiences, religious fanatics and raucous side-shows. It's described as a contemporary version of Shakespeare's life, played to a modern soundtrack that exposes all his recklessness, lustful temptations and brilliance. Attracted to _Will_ (qv)'s naive genius is Alice Burbage, the talented, beautiful and rebellious daughter of James Burbage, the carpenter with a vision to build the first theater in London since Roman times. Despite being the daughter of an impresario, Alice is forbidden by society from pursuing a career in the theater. Her brother Richard Burbage, is innately talented, but too much in love with himself and prone to overact. A chance encounter at the theater leads him to team up with _Will_ (qv) in what would soon become the greatest actor-writer partnership the world has ever seen. Rounding out _Will_ (qv)'s cast of characters are playwright, poet and rival Christopher Marlowe and wealthy and notorious Catholic hunter Richard Topcliffe."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "camera": [
+                "Cooke S4/i Lenses"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1689,
+                "rating": 6.9
+            },
+            "aged under 18": {
+                "votes": 4,
+                "rating": 9.8
+            },
+            "aged 18 29": {
+                "votes": 301,
+                "rating": 7.5
+            },
+            "aged 30 44": {
+                "votes": 416,
+                "rating": 6.1
+            },
+            "aged 45 plus": {
+                "votes": 388,
+                "rating": 7.0
+            },
+            "males": {
+                "votes": 589,
+                "rating": 6.3
+            },
+            "males aged 18 29": {
+                "votes": 132,
+                "rating": 7.3
+            },
+            "males aged 30 44": {
+                "votes": 187,
+                "rating": 5.5
+            },
+            "males aged 45 plus": {
+                "votes": 212,
+                "rating": 6.5
+            },
+            "females": {
+                "votes": 631,
+                "rating": 7.4
+            },
+            "females aged under 18": {
+                "votes": 3,
+                "rating": 9.7
+            },
+            "females aged 18 29": {
+                "votes": 162,
+                "rating": 7.6
+            },
+            "females aged 30 44": {
+                "votes": 219,
+                "rating": 6.8
+            },
+            "females aged 45 plus": {
+                "votes": 169,
+                "rating": 7.7
+            },
+            "top 1000 voters": {
+                "votes": 36,
+                "rating": 5.2
+            },
+            "us users": {
+                "votes": 447,
+                "rating": 7.1
+            },
+            "non us users": {
+                "votes": 410,
+                "rating": 6.3
+            }
+        },
+        "number of votes": {
+            "10": 460,
+            "9": 223,
+            "8": 322,
+            "7": 254,
+            "6": 130,
+            "5": 74,
+            "4": 59,
+            "3": 40,
+            "2": 33,
+            "1": 94
+        },
+        "arithmetic mean": 7.5,
+        "median": 8
+    }
+}

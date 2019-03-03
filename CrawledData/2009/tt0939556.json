@@ -1,0 +1,136 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "1 January 2009"
+            },
+            {
+                "country": "UK\n",
+                "date": "1 April 2009"
+            }
+        ],
+        "release dates": [
+            "UK::1 January 2009",
+            "UK::1 April 2009"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "UK Masters 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "World Series of Backgammon (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "1 Apr. 2009",
+                    "year": "2009",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "WSOB NORDIC OPEN",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "World Series of Backgammon (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "2009",
+                    "year": "2009",
+                    "plot": "\n    Round two of WSOB is in Copenhagen.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Cantrell, Jessie"
+            },
+            {
+                "name": "Clark, John"
+            },
+            {
+                "name": "Hansen, Gus"
+            },
+            {
+                "name": "Scott, Kara"
+            }
+        ],
+        "locations": [
+            "Cannes, Alpes-Maritimes, France::(xc)",
+            "Cannes, Alpes-Maritimes, France",
+            "Copenhagen, Denmark",
+            "La Croisette, Cannes, Alpes-Maritimes, France",
+            "London, England, UK"
+        ],
+        "genres": [
+            "Sport"
+        ],
+        "runtimes": [
+            "480"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTQyMjMzNjQ4MV5BMl5BanBnXkFtZTcwMTIzMjM1MQ@@._V1_SY150_CR3,0,101,150_.jpg",
+        "budget": "EUR2,000,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "World Series of Backgammon",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-",
+        "akas": [
+            "World Series of Backgammon (United Kingdom)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Movie Part Media"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "ESPN International"
+            },
+            {
+                "name": "Eurosport"
+            },
+            {
+                "name": "Eurosport"
+            }
+        ],
+        "plot": [
+            "_World Series of Backgammon_ (qv) (WSOB) captures the match-play action and jeopardy around the world's leading big money backgammon events on the WSOB tour.::Andy Bell"
+        ],
+        "tech": {
+            "runtime": [
+                "8 hr (480 min)",
+                "1 hr (60 min) (USA)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ]
+        }
+    }
+}

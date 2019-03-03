@@ -1,0 +1,448 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Australia\n",
+                "date": "10 July 2016"
+            },
+            {
+                "country": "Australia\n",
+                "date": "August 2016"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "24 May 2017"
+            }
+        ],
+        "release dates": [
+            "Australia::10 July 2016",
+            "Australia::August 2016",
+            "Sweden::24 May 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Barracuda"
+            },
+            {
+                "countries": "Russia",
+                "title": "Барракуда"
+            }
+        ],
+        "akas": [
+            "Barracuda (original title)",
+            "Барракуда Russia"
+        ],
+        "akas from release info": [
+            "Barracuda (original title)",
+            "Барракуда Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Barracuda (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 61,
+                    "original air date": "10 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Daniel moves closer to his dream of winning Olympic gold when he wins a scholarship and starts training under respected coach Frank Torma. But he faces stiff competition from golden boy swimming champion Martin.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Barracuda (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 52,
+                    "original air date": "17 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    After Danny's success in Albury, he trains hard with the swim squad. And he's finally earned their respect. However coach Torma unsettles Danny by insisting he change his stroke to butterfly. He believes Danny will never win gold with freestyle.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Barracuda (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 41,
+                    "original air date": "24 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Fresh from his world record-breaking swim, Danny's dreams come true when he is accepted into the Australian squad for the 1998 Commonwealth Games in Kuala Lumpur. He celebrates with Taylor but their developing relationship takes a turn when Taylor introduces Danny to someone new.    "
+                },
+                "4": {
+                    "title": "Episode #1.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Barracuda (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 42,
+                    "original air date": "31 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    It's the opening night of the 2000 Sydney Olympic Games and the nation is buzzing with excitement. It's been two years since Danny's public loss and humiliation at the Commonwealth Games and he is still consumed with overwhelming disappointment and anger. He finishes his day at his dead-end job and returns home to the Kelly house where the family feels more fractured than ever.    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Anton, Elias"
+            },
+            {
+                "name": "Nable, Matt"
+            },
+            {
+                "name": "Kindon, Ben"
+            },
+            {
+                "name": "Haralabidou, Victoria"
+            },
+            {
+                "name": "Taylor, Jeremy Lindsay"
+            },
+            {
+                "name": "Creer, Andrew"
+            },
+            {
+                "name": "Gulasekharam, Nicole"
+            },
+            {
+                "name": "Griffiths, Rachel"
+            },
+            {
+                "name": "Sardelis, Luca Asta"
+            },
+            {
+                "name": "Adams, Imran"
+            },
+            {
+                "name": "Cobham-Hervey, Tilda"
+            },
+            {
+                "name": "Blackman, Andrew"
+            },
+            {
+                "name": "Mitchell, Rhys"
+            },
+            {
+                "name": "Vizard, Madeleine"
+            },
+            {
+                "name": "Ting, Anthony"
+            },
+            {
+                "name": "Klocek, Joe"
+            },
+            {
+                "name": "Gameau, Damon"
+            },
+            {
+                "name": "Lok, Joel"
+            },
+            {
+                "name": "Morse, Helen"
+            },
+            {
+                "name": "Waters, Francesca"
+            },
+            {
+                "name": "Cartwright, Grant"
+            },
+            {
+                "name": "Collins-Levy, Jacob"
+            },
+            {
+                "name": "Van Ingen, Chris"
+            },
+            {
+                "name": "Lim, Anthony"
+            },
+            {
+                "name": "Stefano, Danielle"
+            },
+            {
+                "name": "Sutherland, Will"
+            },
+            {
+                "name": "Phillips, Stephen"
+            },
+            {
+                "name": "Waddingham, Cindy"
+            },
+            {
+                "name": "Chihambakwe, Clare"
+            },
+            {
+                "name": "Saltmarsh, Keir"
+            },
+            {
+                "name": "Carr, Natalie"
+            },
+            {
+                "name": "Murphy, Lliam"
+            },
+            {
+                "name": "Nobis, Felix"
+            },
+            {
+                "name": "Grim, James"
+            },
+            {
+                "name": "Stuart, Mark"
+            },
+            {
+                "name": "Lethbridge, Mia"
+            },
+            {
+                "name": "Walsh, Tigerlily"
+            },
+            {
+                "name": "Brune-Franklin, Shalom"
+            },
+            {
+                "name": "Mitchell, Barry"
+            },
+            {
+                "name": "Harris, Brad"
+            },
+            {
+                "name": "Lauterstein, Andrew"
+            },
+            {
+                "name": "Di Guglielmo, Carmelina"
+            },
+            {
+                "name": "Frame, Sandy"
+            },
+            {
+                "name": "Swan, Ian"
+            },
+            {
+                "name": "Gardner, Roger"
+            },
+            {
+                "name": "Alford, Mick"
+            },
+            {
+                "name": "Carroll, Steven"
+            },
+            {
+                "name": "Brown, Anica"
+            },
+            {
+                "name": "Edmunds, Roy"
+            },
+            {
+                "name": "Giles-Watson, Tyla"
+            }
+        ],
+        "locations": [
+            "Xavier College, 135 Barkers Rd, Kew, Victoria, Australia::(Exterior/Interior as Blackstone College)",
+            "Ormond College, 49 College Cres, Parkville, Victoria, Australia::(Exterior as Blackstone College)",
+            "Queens Park Swimming Pool, The Strand, Moonee Ponds, Victoria, Australia::(National Schools Championship, Albury)",
+            "Green Point, Victoria, Australia::(Beach Scene)"
+        ],
+        "genres": [
+            "Drama",
+            "Sport"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "country codes": [
+            "au"
+        ],
+        "language codes": [
+            "en",
+            "el"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "certificates": [
+            "Norway:9::(TV rating)"
+        ],
+        "original air date": "10 Jul 2016 (Australia)",
+        "number of seasons": 1,
+        "rating": 7.9,
+        "votes": 1007,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BODI2ZWIyYzEtNjM5Ny00MWI0LTg0NWEtNDU5N2VlOGIyODQzXkEyXkFqcGdeQXVyMjA3MjE1MzM@._V1_SX101_CR0,0,101,150_.jpg",
+        "plot outline": "Danny Kelly is a talented swimmer attends a prestigious Melbourne private school on a sporting scholarship. Working class, half Greek and half Scottish, he cops his fair share of harassment from the privileged students. Danny yearns to win swimming gold at the 2000 Sydney Olympic Games. He is taken under the wing of highly regarded coach, Frank Torma and develops a friendship/rivalry with teammate Martin Taylor which inspire Danny to become Australia's youngest swimming champion.",
+        "languages": [
+            "English",
+            "Greek"
+        ],
+        "title": "Barracuda",
+        "year": 2016,
+        "kind": "tv mini series",
+        "series years": "2016-2016",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Ayshford, Blake"
+            },
+            {
+                "name": "Chayko, Belinda"
+            },
+            {
+                "name": "Tsiolkas, Christos"
+            }
+        ],
+        "director": [
+            {
+                "name": "Connolly, Robert"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Australian Broadcasting Corporation (ABC)"
+            },
+            {
+                "name": "Film Victoria"
+            },
+            {
+                "name": "Matchbox Pictures"
+            },
+            {
+                "name": "Screen Australia"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Australian Broadcasting Corporation (ABC) Content Sales"
+            },
+            {
+                "name": "BBC iPlayer"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Surreal World"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Blue Post Productions"
+            }
+        ],
+        "plot": [
+            "Danny Kelly is a talented swimmer attends a prestigious Melbourne private school on a sporting scholarship. Working class, half Greek and half Scottish, he cops his fair share of harassment from the privileged students. Danny yearns to win swimming gold at the 2000 Sydney Olympic Games. He is taken under the wing of highly regarded coach, Frank Torma and develops a friendship/rivalry with teammate Martin Taylor which inspire Danny to become Australia's youngest swimming champion."
+        ],
+        "synopsis": [
+            "Danny Kelly is a talented swimmer attends a prestigious Melbourne private school on a sporting scholarship. Working class, half Greek and half Scottish, he cops his fair share of harassment from the privileged students.[2] Danny yearns to win swimming gold at the 2000 Sydney Olympic Games. He is taken under the wing of highly regarded coach, Frank Torma and develops a friendship/rivalry with teammate Martin Taylor which inspire Danny to become Australia's youngest swimming champion."
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1007,
+                "rating": 7.9
+            },
+            "aged under 18": {
+                "votes": 3,
+                "rating": 7.7
+            },
+            "aged 18 29": {
+                "votes": 216,
+                "rating": 8.1
+            },
+            "aged 30 44": {
+                "votes": 298,
+                "rating": 7.9
+            },
+            "aged 45 plus": {
+                "votes": 171,
+                "rating": 7.6
+            },
+            "males": {
+                "votes": 562,
+                "rating": 7.9
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 8.5
+            },
+            "males aged 18 29": {
+                "votes": 136,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 227,
+                "rating": 7.8
+            },
+            "males aged 45 plus": {
+                "votes": 136,
+                "rating": 7.7
+            },
+            "females": {
+                "votes": 200,
+                "rating": 7.8
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "females aged 18 29": {
+                "votes": 78,
+                "rating": 8.0
+            },
+            "females aged 30 44": {
+                "votes": 66,
+                "rating": 8.0
+            },
+            "females aged 45 plus": {
+                "votes": 34,
+                "rating": 6.7
+            },
+            "top 1000 voters": {
+                "votes": 25,
+                "rating": 5.9
+            },
+            "us users": {
+                "votes": 48,
+                "rating": 7.4
+            },
+            "non us users": {
+                "votes": 495,
+                "rating": 7.8
+            }
+        },
+        "number of votes": {
+            "10": 248,
+            "9": 210,
+            "8": 281,
+            "7": 141,
+            "6": 63,
+            "5": 21,
+            "4": 12,
+            "3": 5,
+            "2": 6,
+            "1": 20
+        },
+        "arithmetic mean": 8.1,
+        "median": 8
+    }
+}

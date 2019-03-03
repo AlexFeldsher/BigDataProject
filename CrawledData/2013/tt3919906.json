@@ -1,0 +1,131 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "11 January 2013"
+            },
+            {
+                "country": "Canada\n",
+                "date": "11 January 2013",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "Canada::11 January 2013",
+            "Canada::11 January 2013                            (internet)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Render Boredom (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "11 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    The pilot episode, Ryan describes what Monday's are like at the studio.    "
+                },
+                "2": {
+                    "title": "Flame Chucks",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Render Boredom (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "25 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    Ryan apologizes for the lack of new episodes to the fans.    "
+                },
+                "3": {
+                    "title": "Freddie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Render Boredom (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "4 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Freer, Ryan"
+            },
+            {
+                "name": "Chang, William"
+            },
+            {
+                "name": "George, Josh"
+            },
+            {
+                "name": "Huynh, Brian"
+            },
+            {
+                "name": "Huynh, Steven"
+            },
+            {
+                "name": "Wong, Freddie"
+            }
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "country codes": [
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "budget": "CAD100 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Render Boredom",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-",
+        "akas": [
+            "Render Boredom (Canada)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Chang, William"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Playfight"
+            }
+        ],
+        "plot": [
+            "What happens at a Visual Effects studio after they hit render.::Playfight"
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

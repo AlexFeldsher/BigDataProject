@@ -1,0 +1,415 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Switzerland\n",
+                "date": "9 January 2011",
+                "notes": "                            (French speaking region)"
+            },
+            {
+                "country": "France\n",
+                "date": "1 February 2011"
+            },
+            {
+                "country": "France\n",
+                "date": "1 February 2011",
+                "notes": "                            (Part 1)"
+            },
+            {
+                "country": "France\n",
+                "date": "31 August 2011",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "  2012"
+            }
+        ],
+        "release dates": [
+            "Switzerland::9 January 2011                            (French speaking region)",
+            "France::1 February 2011",
+            "France::1 February 2011                            (Part 1)",
+            "France::31 August 2011                            (DVD premiere)",
+            "Germany::2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "À la recherche du temps perdu"
+            },
+            {
+                "countries": "Germany",
+                "title": "Auf der Suche nach der verlorenen Zeit"
+            }
+        ],
+        "akas": [
+            "À la recherche du temps perdu (original title)",
+            "Auf der Suche nach der verlorenen Zeit Germany"
+        ],
+        "akas from release info": [
+            "À la recherche du temps perdu (original title)",
+            "Auf der Suche nach der verlorenen Zeit Germany"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "À l'ombre des jeunes filles en fleurs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "À la recherche du temps perdu (TV Mini-Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 7,
+                    "original air date": "1 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Les intermittences du coeur",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "À la recherche du temps perdu (TV Mini-Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 8,
+                    "original air date": "2 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Blanc, Dominique"
+            },
+            {
+                "name": "Sandre, Didier"
+            },
+            {
+                "name": "Varela, Valentine"
+            },
+            {
+                "name": "Farcy, Bernard"
+            },
+            {
+                "name": "Tillette, Caroline"
+            },
+            {
+                "name": "Valadié, Dominique"
+            },
+            {
+                "name": "Gillet, Andy"
+            },
+            {
+                "name": "Danais, Anne"
+            },
+            {
+                "name": "Samie, Catherine"
+            },
+            {
+                "name": "Ruf, Eric"
+            },
+            {
+                "name": "Fau, Michel"
+            },
+            {
+                "name": "Ferdane, Marie-Sophie"
+            },
+            {
+                "name": "Lescot, Micha"
+            },
+            {
+                "name": "Simon, Laure-Lucille"
+            },
+            {
+                "name": "Richard, Mélodie"
+            },
+            {
+                "name": "Igual, Arthur"
+            },
+            {
+                "name": "D'Hermy, Adeline"
+            },
+            {
+                "name": "Chatelier, Margaux"
+            },
+            {
+                "name": "Heuet, Fleur Lise"
+            },
+            {
+                "name": "Verdin, Eric"
+            },
+            {
+                "name": "Solignac, Vincent"
+            },
+            {
+                "name": "Brétécher, Ninon"
+            },
+            {
+                "name": "Ossina, Oleg"
+            },
+            {
+                "name": "Dessertine, Matthieu"
+            },
+            {
+                "name": "Stella, Rebecca"
+            },
+            {
+                "name": "Contreras-Pratt, Ian"
+            },
+            {
+                "name": "Mesguich, Sarah"
+            },
+            {
+                "name": "Menu, Leslie"
+            },
+            {
+                "name": "Chastel, Claire"
+            },
+            {
+                "name": "Mazureck, Garance"
+            },
+            {
+                "name": "Garnier, Angèle"
+            },
+            {
+                "name": "Deshors, Erick"
+            },
+            {
+                "name": "Heden, Vincent"
+            },
+            {
+                "name": "Bertin, Françoise"
+            },
+            {
+                "name": "Drouot, Jean-Claude"
+            },
+            {
+                "name": "Pierre, Hervé"
+            },
+            {
+                "name": "Morier-Genoud, Philippe"
+            },
+            {
+                "name": "Pasquier, Sara"
+            },
+            {
+                "name": "Nonn, Zoé"
+            },
+            {
+                "name": "Bonnet, Manuel"
+            },
+            {
+                "name": "Copé, Roland"
+            },
+            {
+                "name": "Cortes, Vincent Menjou"
+            },
+            {
+                "name": "Pitarresi, Maria"
+            },
+            {
+                "name": "Giron, Catherine"
+            },
+            {
+                "name": "Patissier, François"
+            },
+            {
+                "name": "Landrein, Yannik"
+            },
+            {
+                "name": "Richard, Jean-Sébastien"
+            },
+            {
+                "name": "Faure, Brigitte"
+            },
+            {
+                "name": "Saché, Bernadette Le"
+            },
+            {
+                "name": "Pouly, Jérôme"
+            }
+        ],
+        "locations": [
+            "Ronquerolles, Val d'Oise, France",
+            "Auberge Ravoux, 52 rue du Général de Gaulle, Auvers-sur-Oise, Val d'Oise, France",
+            "Château, 9bis rue de l'Isle Adam, Méry-sur-Oise, Val d'Oise, France",
+            "Cabourg, Calvados, France"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "230"
+        ],
+        "countries": [
+            "France"
+        ],
+        "country codes": [
+            "fr"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "original air date": "01 Feb 2011 (France)",
+        "number of seasons": 1,
+        "rating": 6.7,
+        "votes": 68,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYmE3OTlkYWYtYzlhZC00MzA4LTlkYTMtZGRiZDhiZTI2OTVmXkEyXkFqcGdeQXVyNjUwMTQ4NjE@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "French"
+        ],
+        "title": "À la recherche du temps perdu",
+        "year": 2011,
+        "kind": "tv mini series",
+        "series years": "2011-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Companeez, Nina"
+            },
+            {
+                "name": "Proust, Marcel"
+            }
+        ],
+        "director": [
+            {
+                "name": "Companeez, Nina"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Ciné Mag Bodard"
+            },
+            {
+                "name": "France Télévision"
+            },
+            {
+                "name": "Arte France"
+            },
+            {
+                "name": "TV5 Monde"
+            },
+            {
+                "name": "Radio Télévision Suisse (RTS)"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Koba Films"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Costumi d'Arte"
+            }
+        ],
+        "plot": [
+            "Follows a young man, Marcel, from his childhood in Combray to his discovery of social life among the upper classes.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "3 hr 50 min (230 min) (2 parts)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 68,
+                "rating": 6.7
+            },
+            "aged 18 29": {
+                "votes": 4,
+                "rating": 5.5
+            },
+            "aged 30 44": {
+                "votes": 22,
+                "rating": 6.4
+            },
+            "aged 45 plus": {
+                "votes": 37,
+                "rating": 6.6
+            },
+            "males": {
+                "votes": 48,
+                "rating": 6.4
+            },
+            "males aged 18 29": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 30 44": {
+                "votes": 15,
+                "rating": 6.1
+            },
+            "males aged 45 plus": {
+                "votes": 31,
+                "rating": 6.4
+            },
+            "females": {
+                "votes": 16,
+                "rating": 6.5
+            },
+            "females aged 18 29": {
+                "votes": 3,
+                "rating": 4.0
+            },
+            "females aged 30 44": {
+                "votes": 7,
+                "rating": 7.2
+            },
+            "females aged 45 plus": {
+                "votes": 6,
+                "rating": 7.7
+            },
+            "top 1000 voters": {
+                "votes": 6,
+                "rating": 5.8
+            },
+            "us users": {
+                "votes": 2,
+                "rating": 7.5
+            },
+            "non us users": {
+                "votes": 58,
+                "rating": 6.4
+            }
+        },
+        "number of votes": {
+            "10": 7,
+            "9": 7,
+            "8": 9,
+            "7": 17,
+            "6": 13,
+            "5": 5,
+            "4": 5,
+            "3": 2,
+            "2": 1,
+            "1": 2
+        },
+        "arithmetic mean": 6.7,
+        "median": 7
+    }
+}

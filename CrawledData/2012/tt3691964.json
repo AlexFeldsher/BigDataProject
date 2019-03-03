@@ -1,0 +1,115 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "12 November 2012"
+            },
+            {
+                "country": "USA\n",
+                "date": "12 November 2012",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::12 November 2012",
+            "USA::12 November 2012                            (internet)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Ace of Wands (Training Episode)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Haunt ME (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "12 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Haunt ME explores a spooky home for their first paranormal investigation. Will Ashley and the others be ready for the creepy mission ahead, and will they find answers for the family living there?    "
+                },
+                "2": {
+                    "title": "Five of Cups (The Old Schoolhouse)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Haunt ME (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "26 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    The Haunt ME team travels to an old school house, said to be haunted by a spirit called \"Bat Girl\". Will the newly formed team have the skills necessary to coax this shy spirit out of hiding?    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Brooks, Ashley"
+            },
+            {
+                "name": "Cleveland, Carol"
+            },
+            {
+                "name": "Gowen, Ty"
+            },
+            {
+                "name": "Ruarke, Shawn"
+            },
+            {
+                "name": "Webb, Katie"
+            }
+        ],
+        "locations": [
+            "Maine, USA"
+        ],
+        "genres": [
+            "Reality-TV"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Haunt ME",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "akas": [
+            "Haunt ME (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "distributors": [
+            {
+                "name": "Entertainment Experiment"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "30 min (approx)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

@@ -1,0 +1,470 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "France\n",
+                "date": "18 February 2008"
+            },
+            {
+                "country": "France\n",
+                "date": "18 February 2008",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "France\n",
+                "date": "19 February 2008",
+                "notes": "                            (part 2)"
+            }
+        ],
+        "release dates": [
+            "France::18 February 2008",
+            "France::18 February 2008                            (part 1)",
+            "France::19 February 2008                            (part 2)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "La résistance"
+            },
+            {
+                "countries": "France (second part title)",
+                "title": "Quand il fallait sauver les juifs"
+            },
+            {
+                "countries": "France (first part title)",
+                "title": "Vivre libre ou mourir"
+            }
+        ],
+        "akas": [
+            "La résistance (original title)",
+            "Quand il fallait sauver les juifs France (second part title)",
+            "Vivre libre ou mourir France (first part title)"
+        ],
+        "akas from release info": [
+            "La résistance (original title)",
+            "Quand il fallait sauver les juifs France (second part title)",
+            "Vivre libre ou mourir France (first part title)"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Le sourd grondement d'un peuple",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "La résistance (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "22 Feb. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "La lutte armée",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "La résistance (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "original air date": "29 Feb. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Victimes contre bourreaux",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "La résistance (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "7 Mar. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Face à la déportation des juifs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "La résistance (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "original air date": "14 Mar. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Vivre libre ou mourir",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "La résistance (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "18 Feb. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Quand il fallait sauver les juifs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "La résistance (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "19 Feb. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 6,
+        "cast": [
+            {
+                "name": "Dorner, Olive"
+            },
+            {
+                "name": "Lefebvre, Marc"
+            },
+            {
+                "name": "Karyo, Tchéky"
+            },
+            {
+                "name": "Aknine, Pierre"
+            },
+            {
+                "name": "Andrieux, Richard"
+            },
+            {
+                "name": "Assaraf, Lyvia"
+            },
+            {
+                "name": "Aussedat, Pierre"
+            },
+            {
+                "name": "Bailleul, Maxime"
+            },
+            {
+                "name": "Baste, Jean-Pierre"
+            },
+            {
+                "name": "Becker, Jean-Pierre"
+            },
+            {
+                "name": "Bernecker, Cathy"
+            },
+            {
+                "name": "Biavan, Serge"
+            },
+            {
+                "name": "Biermann, Hubertus"
+            },
+            {
+                "name": "Bloch, Bernard"
+            },
+            {
+                "name": "Bléger, Lucas"
+            },
+            {
+                "name": "Bouillon, Bernard"
+            },
+            {
+                "name": "Boulanger, Xavier"
+            },
+            {
+                "name": "Chambet-Ithier, Daniel"
+            },
+            {
+                "name": "Clack, Leslie"
+            },
+            {
+                "name": "Claret, Laurent"
+            },
+            {
+                "name": "Clarté, Olivier"
+            },
+            {
+                "name": "Clavier, François"
+            },
+            {
+                "name": "Clichet, Jean-Charles"
+            },
+            {
+                "name": "Coesens, Antoine"
+            },
+            {
+                "name": "Collins, Marie"
+            },
+            {
+                "name": "de Gaulle, Charles"
+            },
+            {
+                "name": "Delpeyrat, Scali"
+            },
+            {
+                "name": "Dewasmes, Amandine"
+            },
+            {
+                "name": "Dourneau, Pierre"
+            },
+            {
+                "name": "Dubois, Jean-Paul"
+            },
+            {
+                "name": "Falbriard, Camille"
+            },
+            {
+                "name": "Falbriard, Jean-Luc"
+            },
+            {
+                "name": "Faller, Vincent"
+            },
+            {
+                "name": "Fisera, Cécile"
+            },
+            {
+                "name": "Follea, Matthieu"
+            },
+            {
+                "name": "Félicité, Françoise"
+            },
+            {
+                "name": "Félix, Stéphanie"
+            },
+            {
+                "name": "Gatignol, Grégory"
+            },
+            {
+                "name": "Geiger, Noé"
+            },
+            {
+                "name": "Goldwaser, Rafaël"
+            },
+            {
+                "name": "Gourdin, Sophie"
+            },
+            {
+                "name": "Grundmann, Christophe"
+            },
+            {
+                "name": "Guingand, Loïc"
+            },
+            {
+                "name": "Hainaux, Morgane"
+            },
+            {
+                "name": "Hamm, Johannes Oliver"
+            },
+            {
+                "name": "Haug-Lammersdorf, Peter"
+            },
+            {
+                "name": "Henry, Cyrille"
+            },
+            {
+                "name": "Hitler, Adolf"
+            },
+            {
+                "name": "Holterbach, Jean-Marie"
+            },
+            {
+                "name": "Hudson, Peter"
+            }
+        ],
+        "locations": [
+            "Bitche, Moselle, France",
+            "Palais du Rhin, 1,2,3 Place de la République, Strasbourg, Bas-Rhin, France::(Gestapo headquarters in Paris)",
+            "Strasbourg, Bas-Rhin, France"
+        ],
+        "genres": [
+            "Documentary",
+            "Drama",
+            "History"
+        ],
+        "runtimes": [
+            "180"
+        ],
+        "countries": [
+            "France"
+        ],
+        "country codes": [
+            "fr"
+        ],
+        "language codes": [
+            "fr",
+            "de"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "number of seasons": 2,
+        "rating": 6.6,
+        "votes": 14,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYWMwNjcwYjUtZDJiZi00MTczLThhYmYtZDE2NDNiZDcyMDRmXkEyXkFqcGdeQXVyMTE3NTMxOA@@._V1_SY150_CR2,0,101,150_.jpg",
+        "budget": "EUR6,300,000 (estimated)",
+        "languages": [
+            "French",
+            "German"
+        ],
+        "title": "La résistance",
+        "year": 2008,
+        "kind": "tv series",
+        "series years": "2008-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Bampfield, Andrew"
+            },
+            {
+                "name": "Nick, Christophe"
+            },
+            {
+                "name": "Péan, Pierre"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Les Films de la Croisade"
+            },
+            {
+                "name": "Yami 2"
+            },
+            {
+                "name": "France 2 (FR2)"
+            },
+            {
+                "name": "France 5"
+            },
+            {
+                "name": "Planète"
+            },
+            {
+                "name": "C.F.R.T."
+            },
+            {
+                "name": "France Télévision Distribution"
+            },
+            {
+                "name": "CNRS Images"
+            },
+            {
+                "name": "TV5 Monde"
+            },
+            {
+                "name": "S.N.C.F."
+            },
+            {
+                "name": "Région Alsace"
+            },
+            {
+                "name": "Département du Bas-Rhin"
+            },
+            {
+                "name": "La Communauté Urbaine de Strasbourg"
+            },
+            {
+                "name": "Région Lorraine"
+            },
+            {
+                "name": "Département des Vosges"
+            },
+            {
+                "name": "Région Ile-de-France"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "France 2 (FR2)"
+            },
+            {
+                "name": "France 5"
+            },
+            {
+                "name": "France Télévision Distribution"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "3 hr (180 min)"
+            ],
+            "color": [
+                "Color",
+                "Black and White"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 14,
+                "rating": 6.6
+            },
+            "aged 30 44": {
+                "votes": 6,
+                "rating": 7.2
+            },
+            "aged 45 plus": {
+                "votes": 7,
+                "rating": 6.9
+            },
+            "males": {
+                "votes": 11,
+                "rating": 7.1
+            },
+            "males aged 30 44": {
+                "votes": 5,
+                "rating": 7.8
+            },
+            "males aged 45 plus": {
+                "votes": 6,
+                "rating": 6.6
+            },
+            "females": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "females aged 45 plus": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "top 1000 voters": {
+                "votes": 3,
+                "rating": 6.3
+            },
+            "non us users": {
+                "votes": 11,
+                "rating": 7.0
+            }
+        },
+        "number of votes": {
+            "10": 0,
+            "9": 1,
+            "8": 4,
+            "7": 3,
+            "6": 4,
+            "5": 1,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 1
+        },
+        "arithmetic mean": 6.6,
+        "median": 7
+    }
+}

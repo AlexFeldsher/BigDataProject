@@ -1,0 +1,790 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "8 April 2018"
+            },
+            {
+                "country": "Spain\n",
+                "date": "9 April 2018"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "9 April 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "2 July 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Canada\n",
+                "date": "22 July 2018"
+            },
+            {
+                "country": "Russia\n",
+                "date": "15 August 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Ireland\n",
+                "date": "27 August 2018"
+            },
+            {
+                "country": "France\n",
+                "date": "13 September 2018"
+            },
+            {
+                "country": "UK\n",
+                "date": "15 September 2018"
+            },
+            {
+                "country": "Italy\n",
+                "date": "15 October 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "2 February 2019"
+            },
+            {
+                "country": "Germany\n",
+                "date": "22 February 2019",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::8 April 2018",
+            "Spain::9 April 2018",
+            "Sweden::9 April 2018                            (internet)",
+            "Netherlands::2 July 2018                            (internet)",
+            "Canada::22 July 2018",
+            "Russia::15 August 2018                            (internet)",
+            "Ireland::27 August 2018",
+            "France::13 September 2018",
+            "UK::15 September 2018",
+            "Italy::15 October 2018                            (internet)",
+            "Japan::2 February 2019",
+            "Germany::22 February 2019                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Killing Eve"
+            },
+            {
+                "countries": "France",
+                "title": "Killing Eve"
+            },
+            {
+                "countries": "Italy",
+                "title": "Killing Eve"
+            },
+            {
+                "countries": "Poland",
+                "title": "Obsesja Eve"
+            },
+            {
+                "countries": "Romania",
+                "title": "Obsesia Evei"
+            },
+            {
+                "countries": "Russia",
+                "title": "Убивая Еву"
+            },
+            {
+                "countries": "Spain",
+                "title": "Killing Eve"
+            },
+            {
+                "countries": "USA",
+                "title": "Killing Eve"
+            }
+        ],
+        "akas": [
+            "Killing Eve (original title)",
+            "Killing Eve France",
+            "Killing Eve Italy",
+            "Obsesja Eve Poland",
+            "Obsesia Evei Romania",
+            "Убивая Еву Russia",
+            "Killing Eve Spain",
+            "Killing Eve USA"
+        ],
+        "akas from release info": [
+            "Killing Eve (original title)",
+            "Killing Eve France",
+            "Killing Eve Italy",
+            "Obsesja Eve Poland",
+            "Obsesia Evei Romania",
+            "Убивая Еву Russia",
+            "Killing Eve Spain",
+            "Killing Eve USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Nice Face",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 2211,
+                    "original air date": "8 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    When a Russian politician is murdered, a bored MI5 security officer is tasked with protecting the only witness and soon finds herself on a collision course with a violent and extraordinary assassin.    "
+                },
+                "2": {
+                    "title": "I'll Deal with Him Later",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 2038,
+                    "original air date": "15 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Eve is given the opportunity to lead a secret MI6 unit tasked with tracking down Villanelle, who is becoming increasingly reckless, much to the discomfort of her bosses.    "
+                },
+                "3": {
+                    "title": "Don't I Know You?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 1982,
+                    "original air date": "22 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    After a killing in Berlin, Eve and Bill travel there to investigate, unaware of how close they are to Villanelle.    "
+                },
+                "4": {
+                    "title": "Sorry Baby",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 1867,
+                    "original air date": "29 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    A grieving Eve learns about the apparent existence of a mole, while Villanelle and two other assassins are tasked with killing a member of British intelligence.    "
+                },
+                "5": {
+                    "title": "I Have a Thing About Bathrooms",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 1356,
+                    "original air date": "6 May 2018",
+                    "year": "2018",
+                    "plot": "\n    After a terrifying close call with Villanelle, Eve has the mole ensconced in a safe house, but Villanelle is not far away.    "
+                },
+                "6": {
+                    "title": "Take Me to the Hole!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 1241,
+                    "original air date": "13 May 2018",
+                    "year": "2018",
+                    "plot": "\n    Villanelle is smuggled into a Russian prison on a secret mission, while Eve and Carolyn travel to the country in search of information.    "
+                },
+                "7": {
+                    "title": "I Don't Want to Be Free",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 1174,
+                    "original air date": "20 May 2018",
+                    "year": "2018",
+                    "plot": "\n    Villanelle finds herself trapped in a dangerous situation, while Eve pursues a potential lead.    "
+                },
+                "8": {
+                    "title": "God, I'm Tired",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 1331,
+                    "original air date": "27 May 2018",
+                    "year": "2018",
+                    "plot": "\n    As Villanelle takes a hostage as a bargaining chip, Eve learns more about the larger conspiracy and remains determined to track down Villanelle.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Episode #2.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "7 Apr. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Episode #2.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "original air date": "14 Apr. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Episode #2.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "21 Apr. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Episode #2.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "original air date": "28 Apr. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Episode #2.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Episode #2.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Episode #2.7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Episode #2.8",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Killing Eve (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 16,
+        "cast": [
+            {
+                "name": "Comer, Jodie"
+            },
+            {
+                "name": "Oh, Sandra"
+            },
+            {
+                "name": "Shaw, Fiona"
+            },
+            {
+                "name": "Bodnia, Kim"
+            },
+            {
+                "name": "Delaney, Sean"
+            },
+            {
+                "name": "Howell-Baptiste, Kirby"
+            },
+            {
+                "name": "McDonnell, Owen"
+            },
+            {
+                "name": "Boyd, Darren"
+            },
+            {
+                "name": "Haig, David"
+            },
+            {
+                "name": "Vodovoz, Aaron"
+            },
+            {
+                "name": "Elliman, Sonia"
+            },
+            {
+                "name": "Zayats, Andrei"
+            },
+            {
+                "name": "Lynch, Susan"
+            },
+            {
+                "name": "Nwosu, Ken"
+            },
+            {
+                "name": "Matthews, Billy"
+            },
+            {
+                "name": "Ross, Olivia"
+            },
+            {
+                "name": "Leverett, Zhenya"
+            },
+            {
+                "name": "Nedelchev, Yakim"
+            },
+            {
+                "name": "Collins, Topher"
+            },
+            {
+                "name": "Lagodinsky, Yuli"
+            },
+            {
+                "name": "Open, Sabrina"
+            },
+            {
+                "name": "Patrignani, Giulia"
+            },
+            {
+                "name": "Starrets, Lucas Antoine"
+            },
+            {
+                "name": "Kara, Irina"
+            },
+            {
+                "name": "Rey, Paolo Roca"
+            },
+            {
+                "name": "Alminas, Elina"
+            },
+            {
+                "name": "Chin, Simon"
+            },
+            {
+                "name": "Kuroda, Haruka"
+            },
+            {
+                "name": "Sotelsek, Barbara"
+            },
+            {
+                "name": "Deuster, Julian Michael"
+            },
+            {
+                "name": "Haddington, Will"
+            },
+            {
+                "name": "Khismatouline, Rinat"
+            },
+            {
+                "name": "Hamblett, Charlie"
+            },
+            {
+                "name": "McIllwraith, Emily"
+            },
+            {
+                "name": "Garvardt, Lina"
+            },
+            {
+                "name": "Akrout, Edward"
+            },
+            {
+                "name": "Bantas, Viorica"
+            },
+            {
+                "name": "Bertrand, David"
+            },
+            {
+                "name": "Gurin, Tatiana"
+            },
+            {
+                "name": "Possa, Laurence"
+            },
+            {
+                "name": "Bercu, Ana Maria"
+            },
+            {
+                "name": "Budnik, Edyta"
+            },
+            {
+                "name": "Carey, Jan"
+            },
+            {
+                "name": "Mar, Gin"
+            },
+            {
+                "name": "Trayling, Susie"
+            },
+            {
+                "name": "Marson, Ania"
+            },
+            {
+                "name": "Taubman, Anatole"
+            },
+            {
+                "name": "Agranov, David"
+            },
+            {
+                "name": "Byron, Andrew"
+            },
+            {
+                "name": "Parmenter, Huw"
+            }
+        ],
+        "locations": [
+            "Bucharest, Romania::(Russian scenes)",
+            "Southwark, London, England, UK::(Guy's Hospital)",
+            "Tuscany, Italy",
+            "Haringey, London, England, UK::(Hornsey Town Hall - hotel lobby, restaurant, hotel bedroom miscellaneous scenes)",
+            "Church Road, Camden, London, England, UK::(Funeral scene - Hampstead Parish Church)",
+            "The Goldsmiths Centre, London, England, UK",
+            "Templewood Avenue, Hampstead, London, England, UK::(Bus stop scene)",
+            "Gray's Inn Road, London, England, UK::(Andrews Cafe scenes)",
+            "Newington Green, Islington, London, England, UK::(Mildmay Club card game scene)",
+            "Clerkenwell, London, England, UK::(Fabric nightclub)",
+            "The Mildmay Club, London, England, UK",
+            "Holborn, London, England, UK::(Old Nick pub rendezvous)",
+            "London, England, UK",
+            "Italy",
+            "Ashbridge, Hertfordshire, England, UK::(unknown)"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom",
+            "Italy"
+        ],
+        "country codes": [
+            "us",
+            "gb",
+            "it"
+        ],
+        "language codes": [
+            "en",
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "France:10",
+            "Netherlands:12",
+            "Spain:16::(HBO self-rating)",
+            "United States:TV-14"
+        ],
+        "number of seasons": 2,
+        "rating": 8.3,
+        "votes": 30054,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYTVhMmUwZTktMGJlZC00NDUyLWExYjktNDBkZTU3YjU0ODNiXkEyXkFqcGdeQXVyNzQ2NjI4MDM@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "Eve is a bored, whip-smart security services operative whose desk-bound job doesn't fulfil her fantasies of being a spy. Villanelle, is a talented killer who clings to the luxuries her violent job affords her. These two fierce women, equally obsessed with each other, will go head to head in an epic game of cat and mouse, toppling the typical spy-action thriller.",
+        "languages": [
+            "English",
+            "French"
+        ],
+        "title": "Killing Eve",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Jennings, Luke"
+            },
+            {
+                "name": "Waller-Bridge, Phoebe"
+            },
+            {
+                "name": "Fennell, Emerald"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Endeavor Content"
+            },
+            {
+                "name": "Sid Gentle Films"
+            },
+            {
+                "name": "BBC America"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "International Management Group (IMG)"
+            },
+            {
+                "name": "BBC America"
+            },
+            {
+                "name": "BBC Three"
+            },
+            {
+                "name": "BNN-VARA"
+            },
+            {
+                "name": "Bravo Network Canada"
+            },
+            {
+                "name": "British Broadcasting Corporation"
+            },
+            {
+                "name": "Canal+"
+            },
+            {
+                "name": "HBO España"
+            },
+            {
+                "name": "Nederlandse Publieke Omroep (NPO)"
+            },
+            {
+                "name": "Raidió Teilifís Éireann (RTÉ)"
+            },
+            {
+                "name": "Videoland"
+            },
+            {
+                "name": "WOWOW Prime"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Elements Special Effects"
+            },
+            {
+                "name": "The Flying Colour Co."
+            }
+        ],
+        "other companies": [
+            {
+                "name": "ARRI Rental"
+            },
+            {
+                "name": "Audiolink Radio Communications"
+            },
+            {
+                "name": "Buzzy's Recording"
+            },
+            {
+                "name": "Casting Collective"
+            },
+            {
+                "name": "Creative Skillset"
+            },
+            {
+                "name": "Film Base Berlin"
+            },
+            {
+                "name": "Gem Films"
+            },
+            {
+                "name": "Ian Johnson Publicity"
+            },
+            {
+                "name": "Love High Speed"
+            },
+            {
+                "name": "MFS Casting"
+            },
+            {
+                "name": "Panorama Films"
+            },
+            {
+                "name": "Piece of Cake Casting"
+            },
+            {
+                "name": "Production Copier Company"
+            },
+            {
+                "name": "Setkeeper"
+            },
+            {
+                "name": "Sid Gentle Films"
+            },
+            {
+                "name": "Studio T."
+            }
+        ],
+        "plot": [
+            "After a series of events, the lives of a security operative and an assassin become inextricably linked.",
+            "Eve is a bored, whip-smart security services operative whose desk-bound job doesn't fulfil her fantasies of being a spy. Villanelle, is a talented killer who clings to the luxuries her violent job affords her. These two fierce women, equally obsessed with each other, will go head to head in an epic game of cat and mouse, toppling the typical spy-action thriller."
+        ],
+        "tech": {
+            "runtime": [
+                "43 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Arri Alexa LF (4K)",
+                "Arri Alexa Mini"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 30054,
+                "rating": 8.3
+            },
+            "aged under 18": {
+                "votes": 130,
+                "rating": 9.2
+            },
+            "aged 18 29": {
+                "votes": 5618,
+                "rating": 8.4
+            },
+            "aged 30 44": {
+                "votes": 8700,
+                "rating": 8.1
+            },
+            "aged 45 plus": {
+                "votes": 4915,
+                "rating": 8.2
+            },
+            "males": {
+                "votes": 12827,
+                "rating": 8.1
+            },
+            "males aged under 18": {
+                "votes": 73,
+                "rating": 9.0
+            },
+            "males aged 18 29": {
+                "votes": 2800,
+                "rating": 8.3
+            },
+            "males aged 30 44": {
+                "votes": 5281,
+                "rating": 8.0
+            },
+            "males aged 45 plus": {
+                "votes": 3373,
+                "rating": 8.0
+            },
+            "females": {
+                "votes": 8377,
+                "rating": 8.5
+            },
+            "females aged under 18": {
+                "votes": 49,
+                "rating": 9.3
+            },
+            "females aged 18 29": {
+                "votes": 2651,
+                "rating": 8.7
+            },
+            "females aged 30 44": {
+                "votes": 3222,
+                "rating": 8.4
+            },
+            "females aged 45 plus": {
+                "votes": 1437,
+                "rating": 8.5
+            },
+            "top 1000 voters": {
+                "votes": 151,
+                "rating": 7.2
+            },
+            "us users": {
+                "votes": 3700,
+                "rating": 8.5
+            },
+            "non us users": {
+                "votes": 11669,
+                "rating": 8.1
+            }
+        },
+        "number of votes": {
+            "10": 7719,
+            "9": 8458,
+            "8": 7916,
+            "7": 3249,
+            "6": 1144,
+            "5": 498,
+            "4": 269,
+            "3": 198,
+            "2": 168,
+            "1": 435
+        },
+        "arithmetic mean": 8.4,
+        "median": 9
+    }
+}

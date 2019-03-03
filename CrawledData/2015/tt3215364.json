@@ -1,0 +1,632 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "1 March 2015"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "21 May 2015"
+            },
+            {
+                "country": "Italy\n",
+                "date": "3 July 2015"
+            },
+            {
+                "country": "Japan\n",
+                "date": "13 July 2015"
+            },
+            {
+                "country": "Germany\n",
+                "date": "20 August 2015"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "18 September 2015"
+            },
+            {
+                "country": "UK\n",
+                "date": "6 October 2015"
+            },
+            {
+                "country": "France\n",
+                "date": "10 May 2017"
+            }
+        ],
+        "release dates": [
+            "USA::1 March 2015",
+            "Sweden::21 May 2015",
+            "Italy::3 July 2015",
+            "Japan::13 July 2015",
+            "Germany::20 August 2015",
+            "Belgium::18 September 2015",
+            "UK::6 October 2015",
+            "France::10 May 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Battle Creek"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Battle Creek: Agentes da Lei"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Батъл Крийк"
+            },
+            {
+                "countries": "France",
+                "title": "Battle Creek"
+            },
+            {
+                "countries": "Russia",
+                "title": "Батл Крик"
+            }
+        ],
+        "akas": [
+            "Battle Creek (original title)",
+            "Battle Creek: Agentes da Lei Brazil",
+            "Батъл Крийк Bulgaria (Bulgarian title)",
+            "Battle Creek France",
+            "Батл Крик Russia"
+        ],
+        "akas from release info": [
+            "Battle Creek (original title)",
+            "Battle Creek: Agentes da Lei Brazil",
+            "Батъл Крийк Bulgaria (Bulgarian title)",
+            "Battle Creek France",
+            "Батл Крик Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Battle Creek Way",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Battle Creek (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 465,
+                    "original air date": "1 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Russ Agnew, a jaded detective, reluctantly teams up with a charming FBI agent to solve a drug related homicide.    "
+                },
+                "2": {
+                    "title": "Syruptitious",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Battle Creek (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 340,
+                    "original air date": "8 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    When a killer drowns a person in maple syrup, Agnew and Chamberlain must infiltrate syrup cartels; Detective White battles with his medical marijuana dealer.    "
+                },
+                "3": {
+                    "title": "Man's Best Friend",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Battle Creek (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 301,
+                    "original air date": "15 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    A police dog finds heroin in a girl's backpack; Jacocks goes to Detroit for a training seminar.    "
+                },
+                "4": {
+                    "title": "Heirlooms",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Battle Creek (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 266,
+                    "original air date": "22 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    As Milt and Russ investigate a waitress's murder, they try to determine who has the best police dog.    "
+                },
+                "5": {
+                    "title": "Old Flames",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Battle Creek (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 255,
+                    "original air date": "29 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    When Guziewicz's house is burned down Russ and Milt investigate multiple suspects.    "
+                },
+                "6": {
+                    "title": "Cereal Killer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Battle Creek (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 246,
+                    "original air date": "5 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    An assassination attempt is made on the life of Battle Creek's mayor.    "
+                },
+                "7": {
+                    "title": "Mama's Boy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Battle Creek (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 266,
+                    "original air date": "12 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    A murder investigation forces Russ to seek assistance from his mother -- a convicted counterfeiter.    "
+                },
+                "8": {
+                    "title": "Old Wounds",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Battle Creek (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 229,
+                    "original air date": "26 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Milt is caught in the middle of Commander Guziewicz's personal life when her adopted son (Rotimi Akinosho) asks him to investigate if the man jailed for his birth parents' murders is actually innocent.    "
+                },
+                "9": {
+                    "title": "Gingerbread Man",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Battle Creek (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 211,
+                    "original air date": "3 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Russ helps Font investigate when he is certain one of the FBI's most wanted fugitives is hiding in Battle Creek, even though Milt insists that the man died months earlier.    "
+                },
+                "10": {
+                    "title": "Stockholm",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Battle Creek (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 240,
+                    "original air date": "10 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Milt and the Battle Creek P.D. work overtime to locate and rescue Russ after he's taken hostage by an escaped convict.    "
+                },
+                "11": {
+                    "title": "The Hand-Off",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Battle Creek (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 198,
+                    "original air date": "17 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Milt puts his career at risk as he attempts to help a woman figure out who shot her husband.    "
+                },
+                "12": {
+                    "title": "Homecoming",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Battle Creek (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 208,
+                    "original air date": "17 May 2015",
+                    "year": "2015",
+                    "plot": "\n    When a local high school football coach is murdered, information about Russ' youth is revealed.    "
+                },
+                "13": {
+                    "title": "Sympathy for the Devil",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Battle Creek (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 255,
+                    "original air date": "24 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Milt survives a car bombing and enlists Russ to track down his would-be assassin, leading to startling revelations about why Milt is the way he is and what brought him to Battle Creek.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Duhamel, Josh"
+            },
+            {
+                "name": "Winters, Dean"
+            },
+            {
+                "name": "Dollar, Aubrey"
+            },
+            {
+                "name": "Jr., Edward Fordham"
+            },
+            {
+                "name": "Penn, Kal"
+            },
+            {
+                "name": "McTeer, Janet"
+            },
+            {
+                "name": "Lapira, Liza"
+            },
+            {
+                "name": "Herriman, Damon"
+            },
+            {
+                "name": "Eaton, Meredith"
+            },
+            {
+                "name": "Warshofsky, David"
+            },
+            {
+                "name": "Ybarra, Dustin"
+            },
+            {
+                "name": "Rotimi"
+            },
+            {
+                "name": "Pearl, Julie"
+            },
+            {
+                "name": "Eisley, Jonathan Erickson"
+            },
+            {
+                "name": "Bergen, Candice"
+            },
+            {
+                "name": "Leonard, Robert Sean"
+            },
+            {
+                "name": "O'Neill, Michael"
+            },
+            {
+                "name": "Oswalt, Patton"
+            },
+            {
+                "name": "Jacobson, Peter"
+            },
+            {
+                "name": "Bakkedahl, Dan"
+            },
+            {
+                "name": "Gros, James Le"
+            },
+            {
+                "name": "Miller, Alano"
+            },
+            {
+                "name": "Partridge, Ross"
+            },
+            {
+                "name": "Bartlett, Robin"
+            },
+            {
+                "name": "Buckley, Andy"
+            },
+            {
+                "name": "Gladis, Michael"
+            },
+            {
+                "name": "McClintock, Eddie"
+            },
+            {
+                "name": "McRae, Mo"
+            },
+            {
+                "name": "Moio, Ashton"
+            },
+            {
+                "name": "Mulkey, Chris"
+            },
+            {
+                "name": "Sunny, Tehmina"
+            },
+            {
+                "name": "Wilhoite, Kathleen"
+            },
+            {
+                "name": "Ankeny, Heather"
+            },
+            {
+                "name": "Beach, Michael"
+            },
+            {
+                "name": "Campbell, Karis"
+            },
+            {
+                "name": "Ferguson, Amy"
+            },
+            {
+                "name": "Ferguson, Megan"
+            },
+            {
+                "name": "Grant, Shalita"
+            },
+            {
+                "name": "Grinnell, Todd"
+            },
+            {
+                "name": "Lubatti, Henri"
+            },
+            {
+                "name": "Marciano, David"
+            },
+            {
+                "name": "Massingill, Joe"
+            },
+            {
+                "name": "Plummer, Glenn"
+            },
+            {
+                "name": "Tope, Travis"
+            },
+            {
+                "name": "Anderson, Miles"
+            },
+            {
+                "name": "Bauer, Steven"
+            },
+            {
+                "name": "Colonna, Sarah"
+            },
+            {
+                "name": "Detmer, Amanda"
+            },
+            {
+                "name": "Ennis, John"
+            },
+            {
+                "name": "Gonzalez, Rick"
+            }
+        ],
+        "locations": [
+            "MBS Media Campus - 1600 Rosecrans Avenue, Manhattan Beach, California, USA::(studio)"
+        ],
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "runtimes": [
+            "44"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "rating": 7.3,
+        "votes": 7543,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTY4NDExMzI0NV5BMl5BanBnXkFtZTgwNzA3ODg2NDE@._V1_SY150_CR6,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Battle Creek",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-2015",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Gilligan, Vince"
+            },
+            {
+                "name": "Shore, David"
+            },
+            {
+                "name": "Jackson, Marqui"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Shore Z Productions"
+            },
+            {
+                "name": "Gran Via"
+            },
+            {
+                "name": "CBS Television Studios"
+            },
+            {
+                "name": "Sony Pictures Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CBS"
+            },
+            {
+                "name": "Fox Crime"
+            },
+            {
+                "name": "Fox"
+            },
+            {
+                "name": "RTL Crime"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "BT Industrial Supply"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "MBS Media Campus"
+            },
+            {
+                "name": "Ohana Camera Expendables"
+            },
+            {
+                "name": "Reel Security"
+            }
+        ],
+        "plot": [
+            "Two detectives with different views on the world team up and using cynicism, guile and deception, they clean up the streets of _Battle Creek_ (qv).::vhavnal"
+        ],
+        "tech": {
+            "runtime": [
+                "44 min",
+                "1 hr (60 min) (including commercials)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 7543,
+                "rating": 7.3
+            },
+            "aged under 18": {
+                "votes": 3,
+                "rating": 9.7
+            },
+            "aged 18 29": {
+                "votes": 1300,
+                "rating": 7.3
+            },
+            "aged 30 44": {
+                "votes": 2462,
+                "rating": 7.0
+            },
+            "aged 45 plus": {
+                "votes": 1724,
+                "rating": 7.6
+            },
+            "males": {
+                "votes": 3741,
+                "rating": 7.1
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 18 29": {
+                "votes": 906,
+                "rating": 7.2
+            },
+            "males aged 30 44": {
+                "votes": 1596,
+                "rating": 6.9
+            },
+            "males aged 45 plus": {
+                "votes": 1014,
+                "rating": 7.3
+            },
+            "females": {
+                "votes": 2028,
+                "rating": 7.7
+            },
+            "females aged under 18": {
+                "votes": 2,
+                "rating": 9.5
+            },
+            "females aged 18 29": {
+                "votes": 375,
+                "rating": 7.7
+            },
+            "females aged 30 44": {
+                "votes": 835,
+                "rating": 7.4
+            },
+            "females aged 45 plus": {
+                "votes": 691,
+                "rating": 8.0
+            },
+            "top 1000 voters": {
+                "votes": 140,
+                "rating": 6.9
+            },
+            "us users": {
+                "votes": 1746,
+                "rating": 7.6
+            },
+            "non us users": {
+                "votes": 2511,
+                "rating": 7.0
+            }
+        },
+        "number of votes": {
+            "10": 1655,
+            "9": 1058,
+            "8": 1857,
+            "7": 1353,
+            "6": 710,
+            "5": 349,
+            "4": 186,
+            "3": 99,
+            "2": 75,
+            "1": 201
+        },
+        "arithmetic mean": 7.7,
+        "median": 8
+    }
+}

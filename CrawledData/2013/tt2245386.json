@@ -1,0 +1,653 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "22 January 2013"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "2 March 2015",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "3 March 2015",
+                "notes": "                            (part 2)"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "4 July 2016"
+            }
+        ],
+        "release dates": [
+            "USA::22 January 2013",
+            "Hungary::2 March 2015                            (part 1)",
+            "Hungary::3 March 2015                            (part 2)",
+            "Sweden::4 July 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Taste"
+            },
+            {
+                "countries": "Canada (French title)",
+                "title": "Le Goût"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A nagy ízválasztó"
+            }
+        ],
+        "akas": [
+            "The Taste (original title)",
+            "Le Goût Canada (French title)",
+            "A nagy ízválasztó Hungary"
+        ],
+        "akas from release info": [
+            "The Taste (original title)",
+            "Le Goût Canada (French title)",
+            "A nagy ízválasztó Hungary"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "Auditions and Childhood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "original air date": "4 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    In the two-hour series premiere, home cooks and professional chefs from across the country will battle it out in \"The Taste\" kitchen by creating their most delicious dishes for culinary superstars Anthony Bourdain, Nigella Lawson, Ludo Lefebvre and Marcus Samuelsson to taste. Every dish is always judged blind. At the end of the night, 16 cooks will be given a place on the mentors' teams.    "
+                },
+                "2": {
+                    "title": "Under the Sea",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "original air date": "11 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    Seafood takes center stage next week when the 15 remaining hopefuls face off in \"The Taste\" kitchen and put their personal spin on the mentors' favorite seafood dishes. With a menu featuring steamed fish, seafood stew and shellfish in miso broth, in the end, two more competitors will eliminated.    "
+                },
+                "3": {
+                    "title": "Happy Holidays",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "original air date": "18 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    Tis the season for all things delicious on ABC's \"The Taste\" with 13 remaining cooks competing in holiday-themed challenges. Tasked with creating dishes based on fowl, duck and spiced chocolate desserts, the cooks take to the kitchen to see who will make the best bite. In the end, two more competitors will be sent home.    "
+                },
+                "4": {
+                    "title": "Happy New Year",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "original air date": "1 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    It's a new year and there's a new battle brewing in the kitchen when the remaining cooks are tasked with making delicious dishes bursting with decadent and elevated flavors with ingredients like champagne, shellfish and caviar.    "
+                },
+                "5": {
+                    "title": "Latin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "original air date": "8 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Bold, bright - and most of all - flavorful and spicy! It's Latin week on ABC's \"The Taste\" with the remaining competitors tasked with creating dishes like ceviche and tacos. With both a group and solo challenge ahead, in the end, two more cooks will be sent home.    "
+                },
+                "6": {
+                    "title": "Semi-Final: Bring the Heat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "original air date": "15 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    The competition is getting even hotter when the remaining contestants fight to cook another day in a hot and spicy \"bring the heat\" themed challenge using ingredients like Szechuan pepper and pork. With solo and group challenges ahead, two more cooks will be sent home, and the remaining competitors will head to the finale where only one will be named \"The Taste\" champion.    "
+                },
+                "7": {
+                    "title": "The Finale",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "original air date": "22 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    It's all come down to this. The search for America's Best Undiscovered Cook sees only five cooks remaining in \"The Taste\" kitchen, and the mentors give their final group challenge - creating Saints and Sinners-inspired dishes representing two very opposite ideas and culinary concepts.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Auditions Part 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 16,
+                    "original air date": "22 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Professional and amateur chefs compete in the first round of taste tests.    "
+                },
+                "2": {
+                    "title": "Auditions Part 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 6,
+                    "original air date": "29 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Professional and amateur chefs compete.    "
+                },
+                "3": {
+                    "title": "Comfort Food",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "5 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    The mentors work with teams of four cooks to create comfort food dishes.    "
+                },
+                "4": {
+                    "title": "Dairing Pairings",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "12 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Each team must use five unique ingredients to create the best dish.    "
+                },
+                "5": {
+                    "title": "The Art of the Sandwich",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "19 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    As the contestants are tasked with creating the perfect sandwich.    "
+                },
+                "6": {
+                    "title": "Nose to Tail",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "26 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    The contestants are pushed out of their culinary comfort zones.    "
+                },
+                "7": {
+                    "title": "Seduction",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "5 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    The seven semi-finalists must seduce the judges with a single spoonful.    "
+                },
+                "8": {
+                    "title": "The Taste Finale: Triple Threat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "12 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    The final four contestants each present three dishes to the judges.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "The Auditions",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "2 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Cooks compete in the first round of blind taste tests.    "
+                },
+                "2": {
+                    "title": "My Life on a Plate",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "original air date": "9 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    The teams face both group and individual cooking challenges.    "
+                },
+                "3": {
+                    "title": "Guilty Pleasures",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "16 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    The 14 remaining hopefuls put their spin on the mentors' guilty pleasures.    "
+                },
+                "4": {
+                    "title": "Street Food",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "original air date": "23 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    The mentors are challenging their teams with creating delicious dishes inspired by classic \"street food.\" Sandwiches, seafood--and, of course, the classic English delicacy of fish and chips--are on the menu this week as 12 remaining competitors battle it out for the chance to stay in \"The Taste\" kitchen another week. Chef Roy Choi is guest judge this week where Anthony Bourdain shares a secret weapon with his kitchen.    "
+                },
+                "5": {
+                    "title": "Go Green",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "original air date": "30 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    The heat in the kitchen is definitely on as the remaining nine competitors continue to fight to stay in \"The Taste\" kitchen one more week. But in a shocking and unexpected turn of events, one cook decides to mysteriously leave the competition, leaving everyone wondering what happened. With this week's challenge centered on vegetarian cooking, some mentors are taken out of their comfort zone as the teams create dishes inspired by things like curry and pasta when Chef Yotam Ottolenghi guest judges.    "
+                },
+                "6": {
+                    "title": "The Sweetest Thing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "original air date": "6 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    The cooks create desserts; Chef Christina Tosi; six contestants advance.    "
+                },
+                "7": {
+                    "title": "Good with Beer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "original air date": "13 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Beer is the featured ingredient of this week's challenge.    "
+                },
+                "8": {
+                    "title": "The Finale",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Taste (TV Series 2013–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "original air date": "20 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    It's all come down to this. With only four cooks remaining in \"The Taste\" kitchen, the mentors give their teams their final group challenge; creating Rich and Poor dishes inspired by various ingredients including tripe, liver, wagyu beef, scallops and foie gras. This week the finalists have the added pressure of cooking for a culinary legend, the one and only, Chef Jacques Pepin.    "
+                }
+            }
+        },
+        "number of episodes": 23,
+        "cast": [
+            {
+                "name": "Bourdain, Anthony"
+            },
+            {
+                "name": "Lawson, Nigella"
+            },
+            {
+                "name": "Lefebvre, Ludo"
+            },
+            {
+                "name": "Samuelsson, Marcus"
+            },
+            {
+                "name": "Platt, Samuel"
+            },
+            {
+                "name": "Malarkey, Brian"
+            },
+            {
+                "name": "Forni, Drew"
+            },
+            {
+                "name": "Dimeo, Diane"
+            },
+            {
+                "name": "Drusinsky, Gregg"
+            },
+            {
+                "name": "Schiear, Sarah"
+            },
+            {
+                "name": "Uy, Khristianne"
+            },
+            {
+                "name": "Abdullah, Tarik"
+            },
+            {
+                "name": "Burke, Benjamin"
+            },
+            {
+                "name": "Epps, Tristen"
+            },
+            {
+                "name": "Kennedy, Gabe"
+            },
+            {
+                "name": "Lauren, Vanessa"
+            },
+            {
+                "name": "LeBlanc, Eric"
+            },
+            {
+                "name": "Royle, Jen"
+            },
+            {
+                "name": "Chung, Marina"
+            },
+            {
+                "name": "Fitzgerald, Shehu"
+            },
+            {
+                "name": "Kawakami, Jeff"
+            },
+            {
+                "name": "Knoeppel, Lee"
+            },
+            {
+                "name": "Leonard, Louise"
+            },
+            {
+                "name": "Master, Sarah"
+            },
+            {
+                "name": "Caravelli, Paul"
+            },
+            {
+                "name": "Mahin, Jeff"
+            },
+            {
+                "name": "Scott, Lauren"
+            },
+            {
+                "name": "Brelsford, Dan"
+            },
+            {
+                "name": "Ramsey, Tom"
+            },
+            {
+                "name": "Kitchen, Shellie"
+            },
+            {
+                "name": "Martin, Brad"
+            },
+            {
+                "name": "Bojekian, Ninamarie"
+            },
+            {
+                "name": "Immanivong, Uno"
+            },
+            {
+                "name": "Pechal, Adam"
+            },
+            {
+                "name": "Bernardez, Natasha"
+            },
+            {
+                "name": "Newby, P.K."
+            },
+            {
+                "name": "Bodzak, Cassandra"
+            },
+            {
+                "name": "Johns, Audrey"
+            },
+            {
+                "name": "Micek, Dana"
+            },
+            {
+                "name": "Powell, Crystal"
+            },
+            {
+                "name": "Pullum, Don"
+            },
+            {
+                "name": "Sowards, Jacquelyn"
+            },
+            {
+                "name": "Monroe, Erika"
+            },
+            {
+                "name": "Morgenstern, Mia"
+            },
+            {
+                "name": "Mu'min, Huda"
+            },
+            {
+                "name": "Arvin, Joseph"
+            },
+            {
+                "name": "Chiarella, Mia"
+            },
+            {
+                "name": "Bazzi, Reina"
+            },
+            {
+                "name": "Montes, Michael"
+            },
+            {
+                "name": "Qualls, Jay"
+            }
+        ],
+        "genres": [
+            "Game-Show"
+        ],
+        "runtimes": [
+            "87"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 3,
+        "rating": 6.2,
+        "votes": 625,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjAyNzMxNDg5NF5BMl5BanBnXkFtZTcwMDQ3MDY4OA@@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Taste",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-2015",
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "distributors": [
+            {
+                "name": "RTL 2"
+            },
+            {
+                "name": "Red Arrow International"
+            },
+            {
+                "name": "Red Arrow International"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Production Copier Company"
+            }
+        ],
+        "plot": [
+            "Sixteen competitors, from pro chefs to home cooks, cook dishes attempting to impress four of the world's most notable chefs. The catch is all the dishes will be judged in a blind taste test.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr 27 min (87 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 625,
+                "rating": 6.2
+            },
+            "aged 18 29": {
+                "votes": 75,
+                "rating": 6.8
+            },
+            "aged 30 44": {
+                "votes": 252,
+                "rating": 6.2
+            },
+            "aged 45 plus": {
+                "votes": 170,
+                "rating": 5.7
+            },
+            "males": {
+                "votes": 292,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 34,
+                "rating": 6.8
+            },
+            "males aged 30 44": {
+                "votes": 153,
+                "rating": 6.2
+            },
+            "males aged 45 plus": {
+                "votes": 84,
+                "rating": 5.2
+            },
+            "females": {
+                "votes": 244,
+                "rating": 6.5
+            },
+            "females aged 18 29": {
+                "votes": 41,
+                "rating": 6.8
+            },
+            "females aged 30 44": {
+                "votes": 97,
+                "rating": 6.3
+            },
+            "females aged 45 plus": {
+                "votes": 82,
+                "rating": 6.4
+            },
+            "top 1000 voters": {
+                "votes": 23,
+                "rating": 5.9
+            },
+            "us users": {
+                "votes": 244,
+                "rating": 6.1
+            },
+            "non us users": {
+                "votes": 170,
+                "rating": 6.0
+            }
+        },
+        "number of votes": {
+            "10": 97,
+            "9": 49,
+            "8": 101,
+            "7": 106,
+            "6": 85,
+            "5": 43,
+            "4": 35,
+            "3": 22,
+            "2": 21,
+            "1": 66
+        },
+        "arithmetic mean": 6.4,
+        "median": 7
+    }
+}

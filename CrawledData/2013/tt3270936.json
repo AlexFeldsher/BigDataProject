@@ -1,0 +1,368 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "14 October 2013"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "5 November 2013"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "1 December 2013"
+            },
+            {
+                "country": "Denmark\n",
+                "date": "17 February 2014"
+            },
+            {
+                "country": "Finland\n",
+                "date": "23 June 2014"
+            }
+        ],
+        "release dates": [
+            "UK::14 October 2013",
+            "Belgium::5 November 2013",
+            "Sweden::1 December 2013",
+            "Denmark::17 February 2014",
+            "Finland::23 June 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Stephen Fry: Out There"
+            },
+            {
+                "countries": "Finland",
+                "title": "Stephen Fry homofobian jäljillä"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Stephen Fry homofobin på spåren"
+            },
+            {
+                "countries": "Norway",
+                "title": "Stephen Fry - Møte med homofobi"
+            }
+        ],
+        "akas": [
+            "Stephen Fry: Out There (original title)",
+            "Stephen Fry homofobian jäljillä Finland",
+            "Stephen Fry homofobin på spåren Finland (Swedish title)",
+            "Stephen Fry - Møte med homofobi Norway"
+        ],
+        "akas from release info": [
+            "Stephen Fry: Out There (original title)",
+            "Stephen Fry homofobian jäljillä Finland",
+            "Stephen Fry homofobin på spåren Finland (Swedish title)",
+            "Stephen Fry - Møte med homofobi Norway"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stephen Fry: Out There (TV Mini-Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 21,
+                    "original air date": "14 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    Actor-comedian Stephen Fry testifies about his own coming out and how British society improved for gay people since they were decriminalized in the 1960s, recently even got a legally registered partnership comparable to marriage, yet prejudices persist. The situation is much worse in various countries, some of which he can't even risk to visit, such as Iran, were practicing gays are executed. Uganda is considering such a law, but despite widespread 'religious' bigotry civil rights activists believe its exposure as illegal will backfire. Vigilance remains necessary, as...    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stephen Fry: Out There (TV Mini-Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 14,
+                    "original air date": "16 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    This episode sees Stephen visit Brazil, home to the largest gay pride celebration in the world and a place that has some of the best legislation on the planet for gay equality. But it has come at a price. All of the advances have brought about a violent backlash against gay people; on average, one gay person is murdered every 36 hours in Brazil. Stephen sees how this is impacting on the lives of gay men and women there and also confronts the politician leading the fight against gay rights. Stephen also visits Russia, where gays are now worse off than they have been ...    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Fry, Stephen"
+            },
+            {
+                "name": "Andrew"
+            },
+            {
+                "name": "Trevisan, João Silvério"
+            },
+            {
+                "name": "Peron, Renata"
+            },
+            {
+                "name": "Steven"
+            },
+            {
+                "name": "Ivo, Angélica"
+            },
+            {
+                "name": "John, Elton"
+            },
+            {
+                "name": "Bolsonaro, Jair"
+            },
+            {
+                "name": "Furnish, David"
+            },
+            {
+                "name": "Farshad"
+            },
+            {
+                "name": "Olga"
+            },
+            {
+                "name": "Fatboy"
+            },
+            {
+                "name": "Irina"
+            },
+            {
+                "name": "Daniil"
+            },
+            {
+                "name": "Seanice"
+            },
+            {
+                "name": "Kristina"
+            },
+            {
+                "name": "Male, Solomon"
+            },
+            {
+                "name": "Darya"
+            },
+            {
+                "name": "Mugisha, Stosh"
+            },
+            {
+                "name": "Maxim"
+            },
+            {
+                "name": "Wamala, Dennis"
+            },
+            {
+                "name": "Makimuli, Majorie"
+            },
+            {
+                "name": "Milonov, Vitaly"
+            },
+            {
+                "name": "Iyer, Harish"
+            },
+            {
+                "name": "Lokodo, Simon"
+            },
+            {
+                "name": "Gonzales, Daniel"
+            },
+            {
+                "name": "Gowry"
+            },
+            {
+                "name": "Gonzales, Carol"
+            },
+            {
+                "name": "Julie"
+            },
+            {
+                "name": "Nicolosi, Joseph"
+            },
+            {
+                "name": "Paloff"
+            },
+            {
+                "name": "Bob"
+            },
+            {
+                "name": "Ross, David W."
+            },
+            {
+                "name": "Harris, Neil Patrick"
+            },
+            {
+                "name": "Ahair, Avina"
+            }
+        ],
+        "locations": [
+            "UK",
+            "Uganda",
+            "Brazil",
+            "Russia",
+            "India"
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 widescreen",
+        "sound mix": [
+            "Stereo"
+        ],
+        "original air date": "14 Oct 2013 (UK)",
+        "number of seasons": 1,
+        "rating": 6.5,
+        "votes": 514,
+        "languages": [
+            "English"
+        ],
+        "title": "Stephen Fry: Out There",
+        "year": 2013,
+        "kind": "tv mini series",
+        "series years": "2013-2013",
+        "seasons": [
+            "1"
+        ],
+        "director": [
+            {
+                "name": "O'Brien, Fergus"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Maverick Television"
+            },
+            {
+                "name": "Sprout Pictures"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC) Television"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Line 21 Media Services"
+            }
+        ],
+        "plot": [
+            "Actor Stephen Fry has for two years seeking up some of the most homophobic persons in the world who spend most of their time fighting gays, and challenges their view upon their extreme homophobia.::Anonymous"
+        ],
+        "synopsis": [
+            "Stephen Fry explores what it means to be gay in different parts of the world."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 widescreen"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 514,
+                "rating": 6.5
+            },
+            "aged 18 29": {
+                "votes": 105,
+                "rating": 8.3
+            },
+            "aged 30 44": {
+                "votes": 253,
+                "rating": 5.8
+            },
+            "aged 45 plus": {
+                "votes": 51,
+                "rating": 7.5
+            },
+            "males": {
+                "votes": 262,
+                "rating": 7.3
+            },
+            "males aged 18 29": {
+                "votes": 60,
+                "rating": 8.3
+            },
+            "males aged 30 44": {
+                "votes": 154,
+                "rating": 6.7
+            },
+            "males aged 45 plus": {
+                "votes": 42,
+                "rating": 7.7
+            },
+            "females": {
+                "votes": 151,
+                "rating": 5.6
+            },
+            "females aged 18 29": {
+                "votes": 45,
+                "rating": 8.3
+            },
+            "females aged 30 44": {
+                "votes": 96,
+                "rating": 4.0
+            },
+            "females aged 45 plus": {
+                "votes": 9,
+                "rating": 6.2
+            },
+            "top 1000 voters": {
+                "votes": 20,
+                "rating": 7.4
+            },
+            "us users": {
+                "votes": 44,
+                "rating": 5.2
+            },
+            "non us users": {
+                "votes": 328,
+                "rating": 6.9
+            }
+        },
+        "number of votes": {
+            "10": 84,
+            "9": 66,
+            "8": 109,
+            "7": 54,
+            "6": 18,
+            "5": 7,
+            "4": 3,
+            "3": 2,
+            "2": 5,
+            "1": 166
+        },
+        "arithmetic mean": 5.9,
+        "median": 8
+    }
+}

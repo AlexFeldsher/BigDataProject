@@ -1,0 +1,183 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "14 June 2015"
+            },
+            {
+                "country": "USA\n",
+                "date": "14 June 2015",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::14 June 2015",
+            "USA::14 June 2015                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Cine Cast"
+            },
+            {
+                "countries": "World-wide (English title) (long title)",
+                "title": "Self Cast: The Cinematic StarCraft Cast"
+            },
+            {
+                "countries": " (working title)",
+                "title": "Self Cast"
+            }
+        ],
+        "akas": [
+            "Cine Cast (original title)",
+            "Self Cast: The Cinematic StarCraft Cast World-wide (English title) (long title)",
+            "Self Cast (working title)"
+        ],
+        "akas from release info": [
+            "Cine Cast (original title)",
+            "Self Cast: The Cinematic StarCraft Cast World-wide (English title) (long title)",
+            "Self Cast (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cine Cast (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "14 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    SirChaks vs Perseuz. The first episode of Cine Cast features a triple base trade TvT on Vaani Research Station.    "
+                },
+                "2": {
+                    "title": "Non-Stop War",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cine Cast (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "21 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    Lethologica vs [INextI] Juliet. Episode 2 of Cine Cast showcases an epic TvZ on Vaani Research Station.    "
+                },
+                "3": {
+                    "title": "Proxy Everything",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cine Cast (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "28 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    Erolon vs Filip. Episode 3 shows off cheese like you've never seen before.    "
+                },
+                "4": {
+                    "title": "Legacy of the Void",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cine Cast (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "1 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    The first ever Cine Cast in Starcraft II: Legacy of the Void.    "
+                },
+                "5": {
+                    "title": "Doom",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cine Cast (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "5 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    [NoN] forsakeNXE vs [sR77] Alpha. Episode 4 showcases an insane TvP on Coda LE.    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "A Chance of Banes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cine Cast (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "1 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    Protosser vs celphy. The first ever Cine Cast in Starcraft II: Legacy of the Void.    "
+                }
+            }
+        },
+        "number of episodes": 6,
+        "cast": [
+            {
+                "name": "Kravitz, Chandler"
+            }
+        ],
+        "genres": [
+            "Sci-Fi",
+            "War"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "2.35 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Cine Cast",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Kravitz, Chandler"
+            }
+        ],
+        "plot": [
+            "_Cine Cast_ (qv) is a weekly StarCraft II casting series that is presented in a cinematic style.::Chandler"
+        ],
+        "tech": {
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "2.35 : 1"
+            ]
+        }
+    }
+}

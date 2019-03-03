@@ -1,0 +1,142 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "1 October 2007"
+            },
+            {
+                "country": "USA\n",
+                "date": "11 October 2007",
+                "notes": "                            (New York City, New York)"
+            }
+        ],
+        "release dates": [
+            "USA::1 October 2007",
+            "USA::11 October 2007                            (New York City, New York)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Curious"
+            },
+            {
+                "countries": "Greece (transliterated ISO-LATIN-1 title)",
+                "title": "I anthropini periergeia"
+            }
+        ],
+        "akas": [
+            "Curious (original title)",
+            "I anthropini periergeia Greece (transliterated ISO-LATIN-1 title)"
+        ],
+        "akas from release info": [
+            "Curious (original title)",
+            "I anthropini periergeia Greece (transliterated ISO-LATIN-1 title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Survival",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Curious (TV Mini-Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "1 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Mind/Brain/Machine",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Curious (TV Mini-Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "1 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Russo, Annamarie"
+            },
+            {
+                "name": "Russo, Ginamarie"
+            },
+            {
+                "name": "Stroupe, Ashley"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "sound mix": [
+            "Stereo"
+        ],
+        "original air date": "01 Oct 2007 (USA)",
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Curious",
+        "year": 2007,
+        "kind": "tv mini series",
+        "series years": "2007-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Mannucci, Mark"
+            }
+        ],
+        "director": [
+            {
+                "name": "Mannucci, Mark"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "WNET Channel 13 New York"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Thirteen / WNET"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Asterisk"
+            }
+        ],
+        "tech": {
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

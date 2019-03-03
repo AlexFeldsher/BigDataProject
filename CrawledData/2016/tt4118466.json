@@ -1,0 +1,556 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "30 November 2016"
+            },
+            {
+                "country": "Finland\n",
+                "date": "14 May 2017"
+            },
+            {
+                "country": "France\n",
+                "date": "23 May 2017"
+            },
+            {
+                "country": "Germany\n",
+                "date": "27 June 2017"
+            }
+        ],
+        "release dates": [
+            "USA::30 November 2016",
+            "Finland::14 May 2017",
+            "France::23 May 2017",
+            "Germany::27 June 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Incorporated"
+            },
+            {
+                "countries": "Finland",
+                "title": "Incorporated - pimeyden verkko"
+            },
+            {
+                "countries": "France",
+                "title": "Incorporated"
+            },
+            {
+                "countries": "Poland",
+                "title": "Korporacje przyszlosci"
+            },
+            {
+                "countries": "Russia",
+                "title": "Корпорация"
+            }
+        ],
+        "akas": [
+            "Incorporated (original title)",
+            "Incorporated - pimeyden verkko Finland",
+            "Incorporated France",
+            "Korporacje przyszlosci Poland",
+            "Корпорация Russia"
+        ],
+        "akas from release info": [
+            "Incorporated (original title)",
+            "Incorporated - pimeyden verkko Finland",
+            "Incorporated France",
+            "Korporacje przyszlosci Poland",
+            "Корпорация Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Vertical Mobility",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Incorporated (TV Series 2016–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 307,
+                    "original air date": "30 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    In 2074, where corporations govern all, one man must risk exposing his true identity to find his lost love.    "
+                },
+                "2": {
+                    "title": "Downsizing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Incorporated (TV Series 2016–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 220,
+                    "original air date": "7 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    Ben scrambles to deflect suspicion after the Spiga data breach; Laura offers to help when her mother's policies evict an innocent family; Theo is forced into an important cage fight.    "
+                },
+                "3": {
+                    "title": "Human Resources",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Incorporated (TV Series 2016–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 208,
+                    "original air date": "14 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    An executive from a rival company covertly offers to divulge valuable secrets, prompting Ben, Elizabeth, and Julian to plan a defection. Meanwhile, Laura responds to a domestic betrayal; and in the past, Aaron and Elena meet again.    "
+                },
+                "4": {
+                    "title": "Cost Containment",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Incorporated (TV Series 2016–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 195,
+                    "original air date": "21 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    The Larsons and Elizabeth don't see eye to eye when it comes to certain life choices; Theo defies an order to cripple a basketball prodigy; Roger enlists help uncovering Ben's secrets; and a daring heist is planned by Aaron and Theo.    "
+                },
+                "5": {
+                    "title": "Profit and Loss",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Incorporated (TV Series 2016–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 185,
+                    "original air date": "28 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    Ben improvises to keep Roger from discovering the truth about Elena; at the same time, he faces pressure from Elizabeth to complete a vital project. Meanwhile, Laura takes her therapy to the next level; and Julian offers assistance to a friend in need.    "
+                },
+                "6": {
+                    "title": "Sweating the Assets",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Incorporated (TV Series 2016–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 175,
+                    "original air date": "4 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Laura, who's on a mission of mercy, relives the painful events of eight years ago that forever changed her life and her relationships with Elizabeth and Julian. Meanwhile, a sudden event causes Ben and Theo to rethink their next move.    "
+                },
+                "7": {
+                    "title": "Executables",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Incorporated (TV Series 2016–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 166,
+                    "original air date": "11 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Ben races to finish the Everclear device and help Spiga question an enemy agent; Laura brokers to save a girl's sight; Theo's skills are tested against a well-conditioned opponent from uptown.    "
+                },
+                "8": {
+                    "title": "Operational Realignment",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Incorporated (TV Series 2016–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 149,
+                    "original air date": "18 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    After his strategy misfires, Ben's backup plan risks his life and Elena's rescue; Laura bypasses company policy to save a cardiac patient; Julian accepts Ben's help to investigate a murder.    "
+                },
+                "9": {
+                    "title": "Burning Platform",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Incorporated (TV Series 2016–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 155,
+                    "original air date": "25 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Ben's ongoing investigation leads to a shock; Laura's child patient reveals some sobering facts; and Elizabeth and Julian put their bold plan against Inazagi in motion. A thief is discovered; a killer is hunted down; Elizabeth and Laura deal with the fate of the clinic; and Theo makes his way inside the wall.    "
+                },
+                "10": {
+                    "title": "Golden Parachute",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Incorporated (TV Series 2016–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 162,
+                    "original air date": "25 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Ben's mission reaches a critical juncture; Laura finds the thief; Theo ventures inside the wall; Elizabeth and Laura reckon with the fate of the clinic; Julian tracks a killer.    "
+                }
+            }
+        },
+        "number of episodes": 10,
+        "cast": [
+            {
+                "name": "Teale, Sean"
+            },
+            {
+                "name": "Miller, Allison"
+            },
+            {
+                "name": "Ramos, Eddie"
+            },
+            {
+                "name": "Ormond, Julia"
+            },
+            {
+                "name": "Haysbert, Dennis"
+            },
+            {
+                "name": "Herriman, Damon"
+            },
+            {
+                "name": "Tontz, Denyse"
+            },
+            {
+                "name": "Belding, Stephanie"
+            },
+            {
+                "name": "Nyback, Douglas"
+            },
+            {
+                "name": "Tracey, Ian"
+            },
+            {
+                "name": "Stewart, Rob"
+            },
+            {
+                "name": "Arce, Pedro Miguel"
+            },
+            {
+                "name": "Moses, Mark"
+            },
+            {
+                "name": "Hewlett, David"
+            },
+            {
+                "name": "Penikett, Tahmoh"
+            },
+            {
+                "name": "Kragten, Hattie"
+            },
+            {
+                "name": "Sanelli, Tomaso"
+            },
+            {
+                "name": "Siddiqui, Saad"
+            },
+            {
+                "name": "Outerbridge, Peter"
+            },
+            {
+                "name": "Velis, Juan Carlos"
+            },
+            {
+                "name": "Patterson, Seamus"
+            },
+            {
+                "name": "Jeudy-Lamour, Moe"
+            },
+            {
+                "name": "Landry, Matthew Evans"
+            },
+            {
+                "name": "Kavelaars, Ingrid"
+            },
+            {
+                "name": "Sohn, Sonja"
+            },
+            {
+                "name": "Hoyos, Lucius"
+            },
+            {
+                "name": "Cox, Veanne"
+            },
+            {
+                "name": "Poole, Aaron"
+            },
+            {
+                "name": "Crawford, Rachael"
+            },
+            {
+                "name": "Nickalls, Grant"
+            },
+            {
+                "name": "Whitmere, Elizabeth"
+            },
+            {
+                "name": "Tai, Christopher"
+            },
+            {
+                "name": "Castillo, Alexandra"
+            },
+            {
+                "name": "Hinkson, Andrew"
+            },
+            {
+                "name": "Yu, Andy"
+            },
+            {
+                "name": "Kook, Shannon"
+            },
+            {
+                "name": "Andrews, Lescia"
+            },
+            {
+                "name": "Gonzalez-Vio, Carlos"
+            },
+            {
+                "name": "Davis, Tenika"
+            },
+            {
+                "name": "Tompa, David"
+            },
+            {
+                "name": "Mif"
+            },
+            {
+                "name": "Kiner, Dave"
+            },
+            {
+                "name": "Sakkal, Kim"
+            },
+            {
+                "name": "Jackett, Quincy"
+            },
+            {
+                "name": "Roach, Martin"
+            },
+            {
+                "name": "Turner, Ryan"
+            },
+            {
+                "name": "Thomas, Randy"
+            },
+            {
+                "name": "Moffat, Jane"
+            },
+            {
+                "name": "Carrick, Charlie"
+            },
+            {
+                "name": "Gerard, Caitlin"
+            }
+        ],
+        "locations": [
+            "Parkwood Estate, Oshawa, Ontario, Canada",
+            "Toronto, Ontario, Canada",
+            "Cinespace Film Studios, Toronto, Ontario, Canada"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "certificates": [
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 7.3,
+        "votes": 4560,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTUxMjExODUzN15BMl5BanBnXkFtZTgwMTAyMDI2MDI@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Incorporated",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-2017",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Nguyen, Qui"
+            },
+            {
+                "name": "Pastor, David"
+            },
+            {
+                "name": "Pastor, Àlex"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Algorithm Entertainment"
+            },
+            {
+                "name": "CBS Television Studios"
+            },
+            {
+                "name": "Pearl Street Films"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Syfy"
+            },
+            {
+                "name": "FX Network"
+            },
+            {
+                "name": "MTV3"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Entertainment Partners Canada"
+            },
+            {
+                "name": "LRX Lighting"
+            },
+            {
+                "name": "Picturecars North"
+            },
+            {
+                "name": "Truphonic Recording Studio"
+            },
+            {
+                "name": "William F. White International"
+            }
+        ],
+        "plot": [
+            "A man attempts to thwart a giant corporation that seems to have unlimited power."
+        ],
+        "tech": {
+            "runtime": [
+                "43 min"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 4560,
+                "rating": 7.3
+            },
+            "aged under 18": {
+                "votes": 3,
+                "rating": 7.7
+            },
+            "aged 18 29": {
+                "votes": 650,
+                "rating": 7.5
+            },
+            "aged 30 44": {
+                "votes": 1647,
+                "rating": 7.3
+            },
+            "aged 45 plus": {
+                "votes": 918,
+                "rating": 7.2
+            },
+            "males": {
+                "votes": 2678,
+                "rating": 7.3
+            },
+            "males aged under 18": {
+                "votes": 3,
+                "rating": 7.7
+            },
+            "males aged 18 29": {
+                "votes": 485,
+                "rating": 7.5
+            },
+            "males aged 30 44": {
+                "votes": 1274,
+                "rating": 7.2
+            },
+            "males aged 45 plus": {
+                "votes": 679,
+                "rating": 7.1
+            },
+            "females": {
+                "votes": 806,
+                "rating": 7.5
+            },
+            "females aged 18 29": {
+                "votes": 157,
+                "rating": 7.4
+            },
+            "females aged 30 44": {
+                "votes": 349,
+                "rating": 7.5
+            },
+            "females aged 45 plus": {
+                "votes": 221,
+                "rating": 7.6
+            },
+            "top 1000 voters": {
+                "votes": 107,
+                "rating": 6.1
+            },
+            "us users": {
+                "votes": 772,
+                "rating": 7.4
+            },
+            "non us users": {
+                "votes": 1732,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 902,
+            "9": 669,
+            "8": 1183,
+            "7": 886,
+            "6": 384,
+            "5": 212,
+            "4": 99,
+            "3": 65,
+            "2": 48,
+            "1": 112
+        },
+        "arithmetic mean": 7.6,
+        "median": 8
+    }
+}

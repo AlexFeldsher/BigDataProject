@@ -1,0 +1,456 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "6 May 2010"
+            },
+            {
+                "country": "UK\n",
+                "date": "1 June 2010"
+            }
+        ],
+        "release dates": [
+            "UK::6 May 2010",
+            "UK::1 June 2010"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "History Cold Case"
+            },
+            {
+                "countries": "France",
+                "title": "Cold Case, enquêtes dans le passé"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Temetetlen történelem"
+            },
+            {
+                "countries": "Sweden",
+                "title": "Ny teknik löser gamla mord"
+            },
+            {
+                "countries": "Sweden (reissue title)",
+                "title": "Olösta mord"
+            }
+        ],
+        "akas": [
+            "History Cold Case (original title)",
+            "Cold Case, enquêtes dans le passé France",
+            "Temetetlen történelem Hungary",
+            "Ny teknik löser gamla mord Sweden",
+            "Olösta mord Sweden (reissue title)"
+        ],
+        "akas from release info": [
+            "History Cold Case (original title)",
+            "Cold Case, enquêtes dans le passé France",
+            "Temetetlen történelem Hungary",
+            "Ny teknik löser gamla mord Sweden",
+            "Olösta mord Sweden (reissue title)"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "The Skeletons of Windy Pits",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "History Cold Case (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 12,
+                    "original air date": "30 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    The scientists examine the case of Iron Age skeletons found in a cave in the Yorkshire moors in the 1950s.    "
+                },
+                "2": {
+                    "title": "The York 113",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "History Cold Case (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 12,
+                    "original air date": "7 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    The team investigates the remains of 113 people found in a mass grave in Yorkshire.    "
+                },
+                "3": {
+                    "title": "The Bodies in the Well",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "History Cold Case (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 9,
+                    "original air date": "14 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    The bodies of 17 people, including 11 children, were found in a medieval well in Norwich, England, in 2004. All evidence points to a horrific crime.    "
+                },
+                "4": {
+                    "title": "The Woman and Three Babies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "History Cold Case (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 8,
+                    "original air date": "21 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    In 1989, archaeologists in Baldock, England, uncovered an ancient grave of a female with three tiny infants oddly positioned around her. The team searches for answers as to what could have happened nearly 2,000 years ago.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Ipswich Man",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "History Cold Case (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 12,
+                    "original air date": "6 May 2010",
+                    "year": "2010",
+                    "plot": "\n    The team investigates the remains of c. 13th-century African man found in an Medieval grave in Ipswich, England.    "
+                },
+                "2": {
+                    "title": "Mummified Child",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "History Cold Case (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 13,
+                    "original air date": "13 May 2010",
+                    "year": "2010",
+                    "plot": "\n    The team investigates the remains of a mummified child possibly used as a scientific specimen in 19th-century Victorian England.    "
+                },
+                "3": {
+                    "title": "Stirling Man",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "History Cold Case (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 11,
+                    "original air date": "20 May 2010",
+                    "year": "2010",
+                    "plot": "\n    The team searches for the cause of death - and possibly the name - of a man buried 600 years ago at a Scottish castle.    "
+                },
+                "4": {
+                    "title": "Crossbones Girl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "History Cold Case (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 11,
+                    "original air date": "27 May 2010",
+                    "year": "2010",
+                    "plot": "\n    The team investigates the remains of a 19th-century female found in London. All signs point to her having led a short and tragic life.    "
+                }
+            }
+        },
+        "number of episodes": 8,
+        "cast": [
+            {
+                "name": "Black, Sue"
+            },
+            {
+                "name": "Mallett, Xanthé"
+            },
+            {
+                "name": "Wilkinson, Caroline"
+            },
+            {
+                "name": "Fox, Laurence"
+            },
+            {
+                "name": "Mangan, Stephen"
+            },
+            {
+                "name": "Meier-Augenstein, Wolfram"
+            },
+            {
+                "name": "Barnes, Ian"
+            },
+            {
+                "name": "Bekvalac, Jelena"
+            },
+            {
+                "name": "Bell, Adrian"
+            },
+            {
+                "name": "Bolton, Jim"
+            },
+            {
+                "name": "Chaplin, Simon"
+            },
+            {
+                "name": "Connell, Andrew"
+            },
+            {
+                "name": "Edwards, Owen Dudley"
+            },
+            {
+                "name": "Ewart, Gordon"
+            },
+            {
+                "name": "French, Patrick"
+            },
+            {
+                "name": "Jobling, Mark"
+            },
+            {
+                "name": "King, Louise"
+            },
+            {
+                "name": "Lutkin, Jessica"
+            },
+            {
+                "name": "McMaster, Scott"
+            },
+            {
+                "name": "Miles, Adrian"
+            },
+            {
+                "name": "Mitchell, David"
+            },
+            {
+                "name": "Montford, Angela"
+            },
+            {
+                "name": "Onyeka, Adaku"
+            },
+            {
+                "name": "Peakman, Julie"
+            },
+            {
+                "name": "Richardson, Jeremy"
+            },
+            {
+                "name": "Rimer, Graeme"
+            },
+            {
+                "name": "Rubenhold, Hallie"
+            },
+            {
+                "name": "Sosabowski, Hal"
+            },
+            {
+                "name": "Stevenson, Katie"
+            },
+            {
+                "name": "Tucker, Fiona"
+            },
+            {
+                "name": "Wade, Keith"
+            },
+            {
+                "name": "Wise, Sarah"
+            },
+            {
+                "name": "Woolgar, Chris"
+            },
+            {
+                "name": "Yeoman, Peter"
+            },
+            {
+                "name": "Allason-Jones, Lindsay"
+            },
+            {
+                "name": "Anderson, Julie"
+            },
+            {
+                "name": "Ayers, Brian"
+            },
+            {
+                "name": "Bennett, Martyn"
+            },
+            {
+                "name": "Boyce, Richard"
+            },
+            {
+                "name": "Bruce, Graham"
+            },
+            {
+                "name": "Cabot, Sophie"
+            },
+            {
+                "name": "Charters, Erica"
+            },
+            {
+                "name": "Emery, Giles"
+            },
+            {
+                "name": "Fitzpatrick-Matthews, Keith"
+            },
+            {
+                "name": "Green, Miranda"
+            },
+            {
+                "name": "Hamilton, Stuart"
+            },
+            {
+                "name": "Hopper, Andrew"
+            },
+            {
+                "name": "Jackson, Ralph"
+            },
+            {
+                "name": "King, Helen"
+            },
+            {
+                "name": "Kumar, Sailesh"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "57"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 2,
+        "rating": 8.7,
+        "votes": 88,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOGZhYjkxZDEtNTk2Ny00YmIxLTk2M2QtMDQyMzEwNjQ0M2Q1XkEyXkFqcGdeQXVyMjM5NDQzNTk@._V1_SY150_CR3,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "History Cold Case",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "production companies": [
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "Red Planet Pictures"
+            },
+            {
+                "name": "Shine"
+            }
+        ],
+        "plot": [
+            "Professor Sue Black OBE and her team use forensic science to investigate dug up remains. Includes an African skeleton found near a medieval monastery and the mummified body of a 19th century child.::Gerard Greve"
+        ],
+        "tech": {
+            "runtime": [
+                "57 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 88,
+                "rating": 8.7
+            },
+            "aged 18 29": {
+                "votes": 12,
+                "rating": 8.8
+            },
+            "aged 30 44": {
+                "votes": 36,
+                "rating": 8.5
+            },
+            "aged 45 plus": {
+                "votes": 29,
+                "rating": 8.6
+            },
+            "males": {
+                "votes": 31,
+                "rating": 7.7
+            },
+            "males aged 18 29": {
+                "votes": 2,
+                "rating": 8.5
+            },
+            "males aged 30 44": {
+                "votes": 13,
+                "rating": 7.1
+            },
+            "males aged 45 plus": {
+                "votes": 15,
+                "rating": 8.2
+            },
+            "females": {
+                "votes": 47,
+                "rating": 9.3
+            },
+            "females aged 18 29": {
+                "votes": 10,
+                "rating": 8.9
+            },
+            "females aged 30 44": {
+                "votes": 23,
+                "rating": 9.5
+            },
+            "females aged 45 plus": {
+                "votes": 13,
+                "rating": 9.1
+            },
+            "top 1000 voters": {
+                "votes": 5,
+                "rating": 5.8
+            },
+            "us users": {
+                "votes": 11,
+                "rating": 8.2
+            },
+            "non us users": {
+                "votes": 55,
+                "rating": 8.6
+            }
+        },
+        "number of votes": {
+            "10": 36,
+            "9": 24,
+            "8": 12,
+            "7": 7,
+            "6": 4,
+            "5": 3,
+            "4": 1,
+            "3": 0,
+            "2": 0,
+            "1": 1
+        },
+        "arithmetic mean": 8.7,
+        "median": 9
+    }
+}

@@ -1,0 +1,771 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "22 September 2009"
+            },
+            {
+                "country": "USA\n",
+                "date": "22 September 2009"
+            },
+            {
+                "country": "Poland\n",
+                "date": "23 February 2010"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "3 March 2010"
+            },
+            {
+                "country": "Czech Republic\n",
+                "date": "24 June 2010"
+            },
+            {
+                "country": "Brazil\n",
+                "date": "7 July 2010"
+            },
+            {
+                "country": "Germany\n",
+                "date": "9 September 2010"
+            },
+            {
+                "country": "Ireland\n",
+                "date": "10 September 2010"
+            },
+            {
+                "country": "Lithuania\n",
+                "date": "8 December 2011"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "9 December 2011"
+            },
+            {
+                "country": "Finland\n",
+                "date": "6 January 2012"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "3 October 2012"
+            }
+        ],
+        "release dates": [
+            "Canada::22 September 2009",
+            "USA::22 September 2009",
+            "Poland::23 February 2010",
+            "Sweden::3 March 2010",
+            "Czech Republic::24 June 2010",
+            "Brazil::7 July 2010",
+            "Germany::9 September 2010",
+            "Ireland::10 September 2010",
+            "Lithuania::8 December 2011",
+            "Netherlands::9 December 2011",
+            "Finland::6 January 2012",
+            "Hungary::3 October 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Forgotten"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Os Esquecidos"
+            },
+            {
+                "countries": "Estonia",
+                "title": "Unustatud"
+            },
+            {
+                "countries": "Finland",
+                "title": "Unohdetut"
+            },
+            {
+                "countries": "France",
+                "title": "Forgotten"
+            },
+            {
+                "countries": "Germany",
+                "title": "The Forgotten - Die Wahrheit stirbt nie"
+            },
+            {
+                "countries": "Greece",
+                "title": "The Forgotten"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Elfelejtve"
+            },
+            {
+                "countries": "Russia",
+                "title": "Забытые"
+            },
+            {
+                "countries": "Spain",
+                "title": "Sin identificar"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "The Unknown"
+            }
+        ],
+        "akas": [
+            "The Forgotten (original title)",
+            "Os Esquecidos Brazil",
+            "Unustatud Estonia",
+            "Unohdetut Finland",
+            "Forgotten France",
+            "The Forgotten - Die Wahrheit stirbt nie Germany",
+            "The Forgotten Greece",
+            "Elfelejtve Hungary",
+            "Забытые Russia",
+            "Sin identificar Spain",
+            "The Unknown USA (working title)"
+        ],
+        "akas from release info": [
+            "The Forgotten (original title)",
+            "Os Esquecidos Brazil",
+            "Unustatud Estonia",
+            "Unohdetut Finland",
+            "Forgotten France",
+            "The Forgotten - Die Wahrheit stirbt nie Germany",
+            "The Forgotten Greece",
+            "Elfelejtve Hungary",
+            "Забытые Russia",
+            "Sin identificar Spain",
+            "The Unknown USA (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 93,
+                    "original air date": "22 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    After the case of a Jane Doe found murdered and left in woods is abandoned because of lack of leads, The Forgotten Network take over the case to try and find out who she is and solve the case.    "
+                },
+                "2": {
+                    "title": "Diamond Jane",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 53,
+                    "original air date": "29 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    The Forgotten Network takes the case of a twenty-something Jane Doe who was found strangled and dumped in an alley six weeks earlier. Who is she? What is her name? Their investigation reveals an engagement ring, but where is her fiancé, why isn't anyone else looking for her and who killed her?    "
+                },
+                "3": {
+                    "title": "Football John",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 48,
+                    "original air date": "6 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    The Forgotten Network search to find the identity of a man beaten to death in an alley and who may have links to football.    "
+                },
+                "4": {
+                    "title": "Parachute Jane",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 38,
+                    "original air date": "13 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    The Forgotten Network investigate the death of a Taiwanese teenager who appears to have died from an accidental insulin overdose but when tests show the overdose was more than accidental the team now turn their attention to catching a murderer. But they face opposition and silence from the PK's - parachute kids who study abroad - and who do not want to return home.    "
+                },
+                "5": {
+                    "title": "River John",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 48,
+                    "original air date": "20 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    The Forgotten Network investigates the murder of a John Doe found shot to death in a drainage tunnel. Clues point towards the Doe having been on a search for someone, but for whom? As the mystery unravels, the team realize they've stumbled on a sinister plot involving betrayal, kidnapping and murder, and Alex begins to see his own story reflected in the victim's.    "
+                },
+                "6": {
+                    "title": "Canine John",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 36,
+                    "original air date": "27 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    The Forgotten Network investigates the mysterious killing of a John Doe found buried at a local vacation spot, and the only clue appears to be a stray dog standing vigil over his owner's grave. Did the dog witness the crime? If so, what can she tell them? And is this dog the key to a story of conspiracy and murder?    "
+                },
+                "7": {
+                    "title": "Railroad Jane",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 26,
+                    "original air date": "3 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    After a female skull is discovered near a railroad track, The Forgotten Network canvasses the area in search of the remaining bones. Information retrieved from an artificial kneecap takes the team to the Doe's only remaining relative, her sister, who is in a coma as a result of a horrific attack. Further developments lead the team to believe that these sisters may have taken on false identities. If they were leading new lives, whom were they running from? What secrets is the coma preventing Jane Doe's sister from telling? And will the person responsible for these ...    "
+                },
+                "8": {
+                    "title": "Prisoner Jane",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 33,
+                    "original air date": "17 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    The Forgotten Network takes the case of a Jane Doe found strangled in a warehouse. Her journey leads the team from addiction support groups to the inner workings of the legal system and ultimately to an inmate who may have been falsely imprisoned for murder. Was Jane Doe so blinded by her convictions that she got involved with the wrong people? Or was she trying to free a truly innocent man?    "
+                },
+                "9": {
+                    "title": "Lucky John",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 21,
+                    "original air date": "1 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    The Forgotten Network investigates the death of a John Doe found murdered and stuffed in the trunk of a car four months ago. The investigation takes a turn when a DNA test identifies the Doe as an ex-con who died four years ago. How is this possible? Are they the same person? More clues lead the team into the dangerous world of underground gaming. What was John Doe killed for -- Money? Greed? Or something more?    "
+                },
+                "10": {
+                    "title": "Double Doe",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 26,
+                    "original air date": "5 Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    Walter brings The Forgotten Network their first case involving multiple victims, a male and female Doe shot to death and buried in the snow outside a sleazy motel. The age difference and the large amount of cash found on them suggest something nefarious. But did the victims actually know each other? What was the money for? And why did the murderer leave it behind?    "
+                },
+                "11": {
+                    "title": "Patient John",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 36,
+                    "original air date": "12 Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    A John Doe found murdered and stuffed inside a seepage pit takes the team into the world of medical trials. The team learns that the Doe was a recently naturalized citizen who needed to supplement his income by becoming a medical guinea pig in order to bring his family to America. But did one of these trials end up killing the Doe? Who covered it up? And are there any other victims?    "
+                },
+                "12": {
+                    "title": "My John",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 25,
+                    "original air date": "9 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    When a young man falls to his death from atop a skyscraper, the Forgotten Network takes on the near impossible task of identifying him. Their efforts lead them into the world of \"Parkour\" or free running, where they learn John Doe may have recently returned to America after an extended stay abroad. The case takes an unusual twist when two separate individuals come forward, each claiming the Doe as their own. But which one is really his relative? What brought John Doe back to America? And was it a dangerous Parkour act that got him killed or something more sinister?    "
+                },
+                "13": {
+                    "title": "Mama Jane",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 27,
+                    "original air date": "16 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    The Forgotten Network sets out to ID a 40-year-old woman found murdered in a local bar. One of the primary suspects is a superstar basketball player, who had an altercation with Jane Doe days before. As the team follows several leads, they learn that Jane Doe had paid to adopt a baby right before she died. But if that's what led to her death, what happened to all the money? Where is the baby? And who was willing to kill her for it?    "
+                },
+                "14": {
+                    "title": "Train Jane",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 21,
+                    "original air date": "23 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    When a city train derails, there are dozens of injuries and several bodies found in the wreckage. But one of the female victims remains unidentified. The Forgotten Network follows her journey, which leads them to a secret society of roving nightclubs. Was Jane Doe killed in the crash, or is someone using a city's tragedy to cover up an even deeper mystery that led to her death.    "
+                },
+                "15": {
+                    "title": "Donovan Doe",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 35,
+                    "original air date": "9 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    When the bones of a young girl are discovered in an old ammunition box, Russell comes to The Forgotten Network with the revelation that these could be the remains of Alex's daughter, Lucy. The team enters the world of Internet-based scavenger hunts, where they track the sinister individual who left the remains. But who is this person? Do the remains belong to Lucy? And will they finally answer the questions surrounding her disappearance?    "
+                },
+                "16": {
+                    "title": "Designer Jane",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 21,
+                    "original air date": "3 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    Gunfire erupts outside a charity event, killing a young woman and injuring several others. Among the wounded is Lydia Townsend (Aisha Tyler), an old schoolmate of Alex's who brings the case to the Forgotten Network. But as the team digs deeper into the murder, shocking revelations uncover brand new mysteries. What was Jane Doe doing at the charity event? Who actually knew she was there? And was she even the shooter's intended target?    "
+                },
+                "17": {
+                    "title": "Living Doe",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Forgotten (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 18,
+                    "original air date": "3 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    Young man comes to Alex and asks him to find his own identity.    "
+                }
+            }
+        },
+        "number of episodes": 17,
+        "cast": [
+            {
+                "name": "Slater, Christian"
+            },
+            {
+                "name": "Borth, Michelle"
+            },
+            {
+                "name": "Carrigan, Anthony"
+            },
+            {
+                "name": "Stephenson, Bob"
+            },
+            {
+                "name": "Aytes, Rochelle"
+            },
+            {
+                "name": "Stephens, Heather"
+            },
+            {
+                "name": "Cuthbert, Elisha"
+            },
+            {
+                "name": "Cole, Jasper"
+            },
+            {
+                "name": "Bogush, Elizabeth"
+            },
+            {
+                "name": "Dogias, Jake"
+            },
+            {
+                "name": "Ruttan, Susan"
+            },
+            {
+                "name": "Chang, Christina"
+            },
+            {
+                "name": "Gould, Jadin"
+            },
+            {
+                "name": "Burns, James C."
+            },
+            {
+                "name": "Rains, Lily"
+            },
+            {
+                "name": "Weiler, Mark"
+            },
+            {
+                "name": "Parnell, Charles"
+            },
+            {
+                "name": "Kennedy, Jonathan"
+            },
+            {
+                "name": "Blum, Jeff"
+            },
+            {
+                "name": "Dugré, Vivan"
+            },
+            {
+                "name": "Leatherberry, Kyle"
+            },
+            {
+                "name": "Anderson, Sam"
+            },
+            {
+                "name": "Bostwick, Barry"
+            },
+            {
+                "name": "Lauria, Matt"
+            },
+            {
+                "name": "Tyler, Aisha"
+            },
+            {
+                "name": "Bunch, Jarrod"
+            },
+            {
+                "name": "Cervantes, Gary Carlos"
+            },
+            {
+                "name": "Cosgrove, Daniel"
+            },
+            {
+                "name": "DeZarn, Tim"
+            },
+            {
+                "name": "Gummersall, Devon"
+            },
+            {
+                "name": "Kerr, Edward"
+            },
+            {
+                "name": "Smith, Kerr"
+            },
+            {
+                "name": "Arden, Michael"
+            },
+            {
+                "name": "Campbell, Karis"
+            },
+            {
+                "name": "Fischer, Takayo"
+            },
+            {
+                "name": "Goodman, Cameron"
+            },
+            {
+                "name": "O'Grady, Gail"
+            },
+            {
+                "name": "Podell, Eyal"
+            },
+            {
+                "name": "Weisman, Kevin"
+            },
+            {
+                "name": "Armstrong, Curtis"
+            },
+            {
+                "name": "Burke, Michael Reilly"
+            },
+            {
+                "name": "Cannon, Nicole"
+            },
+            {
+                "name": "Dubin, Conor"
+            },
+            {
+                "name": "French, Colby"
+            },
+            {
+                "name": "Humphreys, Matthew"
+            },
+            {
+                "name": "Lovejoy, Deirdre"
+            },
+            {
+                "name": "Campbell, Scott Michael"
+            },
+            {
+                "name": "Davis, Baron"
+            },
+            {
+                "name": "Douglas, Cullen"
+            },
+            {
+                "name": "Head, Jesse"
+            }
+        ],
+        "locations": [
+            "Chicago, Illinois, USA::(establishing shots)",
+            "Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA",
+            "Warner Brothers Ranch, Verdugo Ave. and Pass Avenue, Burbank, California, USA"
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Netherlands:12",
+            "New Zealand:R16",
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 6.7,
+        "votes": 2110,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTgyODY3MzE1MV5BMl5BanBnXkFtZTcwNTQzMzY3Mg@@._V1_SY150_CR62,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Forgotten",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-2010",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Friedman, Mark"
+            },
+            {
+                "name": "Jackson, Marqui"
+            },
+            {
+                "name": "Harold, Holly"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Bonanza Productions"
+            },
+            {
+                "name": "Jerry Bruckheimer Television"
+            },
+            {
+                "name": "Warner Bros. Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Disney-ABC Domestic Television"
+            },
+            {
+                "name": "American Broadcasting Company (ABC)"
+            },
+            {
+                "name": "Canal SPACE"
+            },
+            {
+                "name": "Kabel Eins"
+            },
+            {
+                "name": "Laisvas ir Nepriklausomas Kanalas (LNK)"
+            },
+            {
+                "name": "Mainostelevisio (MTV3)"
+            },
+            {
+                "name": "Net5"
+            },
+            {
+                "name": "RTL 2"
+            },
+            {
+                "name": "RTL Klub Televízió"
+            },
+            {
+                "name": "Raidió Teilifís Éireann (RTÉ)"
+            },
+            {
+                "name": "TV Nova"
+            },
+            {
+                "name": "TVN"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Direct Tools & Fasteners"
+            },
+            {
+                "name": "ExtraOrdinary Casting"
+            },
+            {
+                "name": "Panavision"
+            },
+            {
+                "name": "Paws for Effect"
+            },
+            {
+                "name": "Reel Security"
+            }
+        ],
+        "plot": [
+            "A group of volunteers help find the identities of John & Jane Does who were murdered.::Bob"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (USA)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Arri 3 with handcrank (flashback scenes)",
+                "Sony F35"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2110,
+                "rating": 6.7
+            },
+            "aged 18 29": {
+                "votes": 275,
+                "rating": 6.7
+            },
+            "aged 30 44": {
+                "votes": 1035,
+                "rating": 6.6
+            },
+            "aged 45 plus": {
+                "votes": 599,
+                "rating": 6.8
+            },
+            "males": {
+                "votes": 1176,
+                "rating": 6.4
+            },
+            "males aged 18 29": {
+                "votes": 154,
+                "rating": 6.2
+            },
+            "males aged 30 44": {
+                "votes": 637,
+                "rating": 6.3
+            },
+            "males aged 45 plus": {
+                "votes": 364,
+                "rating": 6.6
+            },
+            "females": {
+                "votes": 760,
+                "rating": 7.2
+            },
+            "females aged 18 29": {
+                "votes": 120,
+                "rating": 7.2
+            },
+            "females aged 30 44": {
+                "votes": 388,
+                "rating": 7.2
+            },
+            "females aged 45 plus": {
+                "votes": 225,
+                "rating": 7.1
+            },
+            "top 1000 voters": {
+                "votes": 65,
+                "rating": 5.7
+            },
+            "us users": {
+                "votes": 696,
+                "rating": 6.9
+            },
+            "non us users": {
+                "votes": 1010,
+                "rating": 6.4
+            }
+        },
+        "number of votes": {
+            "10": 452,
+            "9": 191,
+            "8": 345,
+            "7": 386,
+            "6": 280,
+            "5": 168,
+            "4": 78,
+            "3": 66,
+            "2": 42,
+            "1": 102
+        },
+        "arithmetic mean": 7.1,
+        "median": 7
+    }
+}

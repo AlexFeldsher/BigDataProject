@@ -1,0 +1,519 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Iceland\n",
+                "date": "18 October 2015"
+            },
+            {
+                "country": "Finland\n",
+                "date": "24 April 2017"
+            },
+            {
+                "country": "Italy\n",
+                "date": "December 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "7 December 2018",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "Iceland::18 October 2015",
+            "Finland::24 April 2017",
+            "Italy::December 2018                            (internet)",
+            "Germany::7 December 2018                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Case"
+            },
+            {
+                "countries": "Germany",
+                "title": "Case"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Gyilkosság Reykjavíkban"
+            },
+            {
+                "countries": "Italy",
+                "title": "Il caso"
+            },
+            {
+                "countries": "Russia",
+                "title": "Последний пируэт"
+            }
+        ],
+        "akas": [
+            "Case (original title)",
+            "Case Germany",
+            "Gyilkosság Reykjavíkban Hungary",
+            "Il caso Italy",
+            "Последний пируэт Russia"
+        ],
+        "akas from release info": [
+            "Case (original title)",
+            "Case Germany",
+            "Gyilkosság Reykjavíkban Hungary",
+            "Il caso Italy",
+            "Последний пируэт Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Case (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 57,
+                    "original air date": "18 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    When the body of teenage ballet student Lara is found hanging in a theater, detective Gabriela can't shake her feeling that it was not a suicide.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Case (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 44,
+                    "original air date": "25 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Gudný and Jónas become the targets of a media campaign. Despite Logi's recklessness, Brynhildur gives him documents that shed light on Lára's past.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Case (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 38,
+                    "original air date": "1 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Logi agrees to help Brynhildur and Lára's foster parents. Högni guesses that Gabriela is secretly helping Logi. Elva learns about Július's sex tapes.    "
+                },
+                "4": {
+                    "title": "Episode #1.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Case (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 34,
+                    "original air date": "8 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Gabríela deals with her sister's problems. Ilmur searches the videos on Július's hard drive. Jónas's relationship with Lára comes under suspicion.    "
+                },
+                "5": {
+                    "title": "Episode #1.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Case (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 36,
+                    "original air date": "15 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Logi and Gabríela think Lára's sister Hanna may know something about her death. Brynhildur gets information that leads her to investigate the ballet.    "
+                },
+                "6": {
+                    "title": "Episode #1.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Case (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 31,
+                    "original air date": "22 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Gabríela's information leaks are exposed. Logi crashes a wild party at Thór's house and starts to gain his confidence. Thór gets a surprise visitor.    "
+                },
+                "7": {
+                    "title": "Episode #1.7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Case (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 33,
+                    "original air date": "29 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Gabríela takes Ilmur's computers for investigation, and asks Hanna about Logi and Thór. Jonas gets in trouble with Thór's gang.    "
+                },
+                "8": {
+                    "title": "Episode #1.8",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Case (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 33,
+                    "original air date": "6 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    Jónas tells Logi everything he knows. Hanna recognizes the voice of the man who raped her. Benedikt catches Brynhildur accessing his computer.    "
+                },
+                "9": {
+                    "title": "Episode #1.9",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Case (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 38,
+                    "original air date": "13 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    After meeting the Benedikt, Logi tells Gabríela everything. Ilmur unlocks Thór's video file. Logi takes a reckless step to finish things on his own.    "
+                },
+                "10": {
+                    "title": "Episode #1.10",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Case (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 10,
+                    "original air date": "20 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 10,
+        "cast": [
+            {
+                "name": "Þorsteinsdóttir, Steinunn Ólína"
+            },
+            {
+                "name": "Jónsson, Magnús"
+            },
+            {
+                "name": "Eiríksdóttir, Birna Rún"
+            },
+            {
+                "name": "Agustsdottir, Elma Stefania"
+            },
+            {
+                "name": "Ingólfsson, Bergur Þór"
+            },
+            {
+                "name": "Arnardóttir, Jóhanna Vigdís"
+            },
+            {
+                "name": "Bachmann, Þorsteinn"
+            },
+            {
+                "name": "Geirharðsdóttir, Halldóra"
+            },
+            {
+                "name": "Jónsson, Arnar"
+            },
+            {
+                "name": "Þórunnarson, Davíð Freyr"
+            },
+            {
+                "name": "Filippusdóttir, Nína Dögg"
+            },
+            {
+                "name": "Stefánsson, Björn"
+            },
+            {
+                "name": "Jonsson, Hjortur Johann"
+            },
+            {
+                "name": "Árnadóttir, Ólöf Ragna"
+            },
+            {
+                "name": "Grímsson, Walter"
+            },
+            {
+                "name": "Hafstein, Birna"
+            },
+            {
+                "name": "Hermannsson, Dofri"
+            },
+            {
+                "name": "Halldórsdóttir, Elín Sif"
+            },
+            {
+                "name": "Bjarnadóttir, Guðrún María"
+            },
+            {
+                "name": "Skagfjörð, Elísabet"
+            },
+            {
+                "name": "Óskarsson, Sigurður Þór"
+            },
+            {
+                "name": "Hrafnkelsdóttir, Katrín Ynja"
+            },
+            {
+                "name": "Sigurðardóttir, Elísabet Inga"
+            },
+            {
+                "name": "Úlfsson, Karl Ágúst"
+            },
+            {
+                "name": "Aðalsteinsdóttir, Elva Bjartey"
+            },
+            {
+                "name": "Eliasdottir, Soley"
+            },
+            {
+                "name": "Thorvaldsson, Gudmundur"
+            },
+            {
+                "name": "Björgvinsdóttir, Edda"
+            },
+            {
+                "name": "Grétarsson, Jónmundur"
+            },
+            {
+                "name": "Ragnarsson, Magnús"
+            },
+            {
+                "name": "Ólafsson, Hallgrímur"
+            },
+            {
+                "name": "Birgisdóttir, Þórey"
+            },
+            {
+                "name": "Valtýsson, Vignir Daði"
+            },
+            {
+                "name": "Þorvaldsdóttir, Lilja Guðrún"
+            },
+            {
+                "name": "Arnbjörnsson, Kolbeinn"
+            },
+            {
+                "name": "Gíslason, Rúnar Freyr"
+            },
+            {
+                "name": "Muscat, Hunter Immanuel"
+            },
+            {
+                "name": "Kristinsson, Jóhann"
+            },
+            {
+                "name": "Stefánsson, Unnsteinn Manuel"
+            },
+            {
+                "name": "Clausen, Thorunn Erna"
+            },
+            {
+                "name": "Arnardóttir, Harpa"
+            },
+            {
+                "name": "Einarsson, Valur Freyr"
+            },
+            {
+                "name": "Halldórsson, Júlí Heiðar"
+            },
+            {
+                "name": "Steindórsdóttir, Ragnheiður"
+            },
+            {
+                "name": "Gunnlaugsdóttir, Þórunn"
+            },
+            {
+                "name": "Jónsdóttir, Ólafía Hrönn"
+            },
+            {
+                "name": "Jónsson, Ragnar"
+            },
+            {
+                "name": "Arnardóttir, Alda Dís"
+            },
+            {
+                "name": "Helgason, Elvar Berg"
+            },
+            {
+                "name": "Jóhannesdóttir, Alexía Björg"
+            }
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "45"
+        ],
+        "countries": [
+            "Iceland"
+        ],
+        "country codes": [
+            "is"
+        ],
+        "language codes": [
+            "is"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "certificates": [
+            "Finland:K-16",
+            "France:16",
+            "Germany:16::(self applied)",
+            "Italy:VM14"
+        ],
+        "number of seasons": 1,
+        "rating": 7.2,
+        "votes": 1409,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYmRkYjEzOWItYWNiOS00NDAxLThlOWItMGY2YzAwYmEzMGRhXkEyXkFqcGdeQXVyMjY0NjEwMDM@._V1_SY150_CR24,0,101,150_.jpg",
+        "plot outline": "When teenager Lara is found hanged at the local ballet school it is assumed that she committed suicide; detective Gabríela believes there is more to it than that and starts digging into the girl's life. She isn't the only person investigating; Lara's parents have employed a lawyer to look into the case. As the series progresses it becomes apparent there are a lot of very unpleasant things going on; a pair of boys are posting videos of girls having sex onto the internet, a ballet teacher who bullies his students and gives them drugs, an adoptive father who clearly has something to hide and some young men who are getting teenage girls hooked on drugs before forcing them into prostitution.",
+        "languages": [
+            "Icelandic"
+        ],
+        "title": "Case",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Arnarsson, Þorleifur Örn"
+            },
+            {
+                "name": "Kjartansson, Sigurjón"
+            },
+            {
+                "name": "Óttarsson, Andri"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Saga Film"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "plot": [
+            "A young girl is found hanged in a theater.",
+            "When teenager Lara is found hanged at the local ballet school it is assumed that she committed suicide; detective Gabríela believes there is more to it than that and starts digging into the girl's life. She isn't the only person investigating; Lara's parents have employed a lawyer to look into the case. As the series progresses it becomes apparent there are a lot of very unpleasant things going on; a pair of boys are posting videos of girls having sex onto the internet, a ballet teacher who bullies his students and gives them drugs, an adoptive father who clearly has something to hide and some young men who are getting teenage girls hooked on drugs before forcing them into prostitution.",
+            "Follow A spin-off from legal series Réttur (The Court), _Case_ (qv) opens with the apparent suicide of a promising young ballerina, and follows the battle between her biological parents and her foster parents to uncover the truth behind her death - with everything seen through the eyes of the lawyers involved.::ahmetkozan"
+        ],
+        "tech": {
+            "runtime": [
+                "45 min",
+                "6 hr 56 min (416 min) (total run time) (Finland)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1409,
+                "rating": 7.2
+            },
+            "aged 18 29": {
+                "votes": 110,
+                "rating": 7.7
+            },
+            "aged 30 44": {
+                "votes": 390,
+                "rating": 6.9
+            },
+            "aged 45 plus": {
+                "votes": 490,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 625,
+                "rating": 7.1
+            },
+            "males aged 18 29": {
+                "votes": 49,
+                "rating": 7.4
+            },
+            "males aged 30 44": {
+                "votes": 222,
+                "rating": 6.9
+            },
+            "males aged 45 plus": {
+                "votes": 300,
+                "rating": 7.2
+            },
+            "females": {
+                "votes": 428,
+                "rating": 7.5
+            },
+            "females aged 18 29": {
+                "votes": 60,
+                "rating": 7.9
+            },
+            "females aged 30 44": {
+                "votes": 154,
+                "rating": 7.1
+            },
+            "females aged 45 plus": {
+                "votes": 179,
+                "rating": 7.9
+            },
+            "top 1000 voters": {
+                "votes": 39,
+                "rating": 5.8
+            },
+            "us users": {
+                "votes": 218,
+                "rating": 7.5
+            },
+            "non us users": {
+                "votes": 622,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 133,
+            "9": 171,
+            "8": 442,
+            "7": 353,
+            "6": 168,
+            "5": 47,
+            "4": 34,
+            "3": 22,
+            "2": 14,
+            "1": 25
+        },
+        "arithmetic mean": 7.4,
+        "median": 8
+    }
+}

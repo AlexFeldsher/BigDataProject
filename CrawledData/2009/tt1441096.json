@@ -1,0 +1,786 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2009"
+            },
+            {
+                "country": "Canada\n",
+                "date": "21 September 2009"
+            },
+            {
+                "country": "USA\n",
+                "date": "21 September 2009"
+            },
+            {
+                "country": "Australia\n",
+                "date": "1 December 2009"
+            },
+            {
+                "country": "Japan\n",
+                "date": "28 March 2010"
+            },
+            {
+                "country": "Israel\n",
+                "date": "April 2010"
+            },
+            {
+                "country": "Poland\n",
+                "date": "17 May 2010"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "22 May 2010"
+            },
+            {
+                "country": "Philippines\n",
+                "date": "4 June 2010"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "8 June 2010"
+            },
+            {
+                "country": "UK\n",
+                "date": "17 June 2010"
+            },
+            {
+                "country": "Finland\n",
+                "date": "6 January 2012"
+            },
+            {
+                "country": "Germany\n",
+                "date": "8 January 2012"
+            }
+        ],
+        "release dates": [
+            "USA::2009",
+            "Canada::21 September 2009",
+            "USA::21 September 2009",
+            "Australia::1 December 2009",
+            "Japan::28 March 2010",
+            "Israel::April 2010",
+            "Poland::17 May 2010",
+            "Hungary::22 May 2010",
+            "Philippines::4 June 2010",
+            "Netherlands::8 June 2010",
+            "UK::17 June 2010",
+            "Finland::6 January 2012",
+            "Germany::8 January 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Accidentally on Purpose"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Нарочно по случайност"
+            },
+            {
+                "countries": "Croatia",
+                "title": "Kao slučajno"
+            },
+            {
+                "countries": "Estonia",
+                "title": "Kogemata meelega"
+            },
+            {
+                "countries": "Finland",
+                "title": "Puolivahingossa"
+            },
+            {
+                "countries": "Germany",
+                "title": "Aus Versehen glücklich"
+            },
+            {
+                "countries": "Greece",
+                "title": "Accidentally on Purpose"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Szerencsés véletlen"
+            },
+            {
+                "countries": "Poland",
+                "title": "Przypadek zgodny z planem"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Acidente de Percurso"
+            },
+            {
+                "countries": "Russia",
+                "title": "Преднамеренная случайность"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Kao slučajno"
+            },
+            {
+                "countries": "Spain (Castilian title)",
+                "title": "Casi sin querer"
+            },
+            {
+                "countries": "Sweden",
+                "title": "Misstag med mening"
+            }
+        ],
+        "akas": [
+            "Accidentally on Purpose (original title)",
+            "Нарочно по случайност Bulgaria (Bulgarian title)",
+            "Kao slučajno Croatia",
+            "Kogemata meelega Estonia",
+            "Puolivahingossa Finland",
+            "Aus Versehen glücklich Germany",
+            "Accidentally on Purpose Greece",
+            "Szerencsés véletlen Hungary",
+            "Przypadek zgodny z planem Poland",
+            "Acidente de Percurso Portugal",
+            "Преднамеренная случайность Russia",
+            "Kao slučajno Serbia",
+            "Casi sin querer Spain (Castilian title)",
+            "Misstag med mening Sweden"
+        ],
+        "akas from release info": [
+            "Accidentally on Purpose (original title)",
+            "Нарочно по случайност Bulgaria (Bulgarian title)",
+            "Kao slučajno Croatia",
+            "Kogemata meelega Estonia",
+            "Puolivahingossa Finland",
+            "Aus Versehen glücklich Germany",
+            "Accidentally on Purpose Greece",
+            "Szerencsés véletlen Hungary",
+            "Przypadek zgodny z planem Poland",
+            "Acidente de Percurso Portugal",
+            "Преднамеренная случайность Russia",
+            "Kao slučajno Serbia",
+            "Casi sin querer Spain (Castilian title)",
+            "Misstag med mening Sweden"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 105,
+                    "original air date": "21 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    Billie becomes pregnant after a brief fling with Zack, and she asks him to temporarily move in with him because he has no place to stay.    "
+                },
+                "2": {
+                    "title": "Memento",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 69,
+                    "original air date": "28 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    When her boss raises the question of who Zack really is, it prompts Billie to go on a fact-finding mission as to the true identity of her baby's father.    "
+                },
+                "3": {
+                    "title": "One Night Stand",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 66,
+                    "original air date": "5 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    Billie's pregnancy creates an attraction from members of the opposite sex, while Billie feels her own results of her hormonal changes, but she becomes really befuddled when Zack rebuffs her advances.    "
+                },
+                "4": {
+                    "title": "The Date",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 59,
+                    "original air date": "12 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    Billie declares that she and Zack are able to see other people, but it's Billie who finds the dating scene a little rougher than expected, and Zack finds a conscience when he tries the waters, too.    "
+                },
+                "5": {
+                    "title": "The Love Guru",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 62,
+                    "original air date": "19 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    Billie tries to live vicariously through Zack and Davis by offering up dating advice to them. However, things take a turn, when the objects of the boys' affection reveal their true intentions.    "
+                },
+                "6": {
+                    "title": "Fight Club",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 53,
+                    "original air date": "2 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    Billie and Zack have their first big argument after Zack tries to surprise Billie by installing a low flow toilet.    "
+                },
+                "7": {
+                    "title": "The Godfather",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 52,
+                    "original air date": "9 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    Billie unintentionally causes Abby and Nick to break up when she asks them to be Godparents. However, after a fun night on the town with Davis goes too far, Billie must stop Abby before she does something she will regret.    "
+                },
+                "8": {
+                    "title": "The Third Man",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 53,
+                    "original air date": "16 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    When Billie starts dating a colleague from her newspaper, Zack is unable to hide his jealousy.    "
+                },
+                "9": {
+                    "title": "Working Girl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 54,
+                    "original air date": "23 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    Billie is threatened when James hires another film critic at the paper and sets out to prove how valuable she is.    "
+                },
+                "10": {
+                    "title": "Class",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 51,
+                    "original air date": "7 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    When Billie and Zack take instructional parenting classes separately due to their schedules, Billie goes with Olivia and Abby. However, the course quickly becomes a competition when Abby outshines Billie at all the tasks.    "
+                },
+                "11": {
+                    "title": "It Happened One Christmas",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 50,
+                    "original air date": "14 Dec. 2009",
+                    "year": "2009",
+                    "plot": "\n    Worried that she'll ruin Christmas - as she has in previous years - Billie tries to hide from her parents the fact that Zack is living with her. Meanwhile, Abby's husband, Nick, tries to impress their father.    "
+                },
+                "12": {
+                    "title": "The Odd Couples",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 45,
+                    "original air date": "11 Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    Abby and Nick have their respective significant others spend time with Billie and Zack to prevent them from finding out about the surprise shower they are planning. However, their plan backfires when both Billie and Zack dislike their new buddies.    "
+                },
+                "13": {
+                    "title": "The Rock",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 45,
+                    "original air date": "18 Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    While everyone feels the pressure of corporate cutbacks, Billie feels like she has to write the story of her life for a cover story and Zack & Davis go into business for themselves.    "
+                },
+                "14": {
+                    "title": "Attack of the 50 Foot Woman",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 46,
+                    "original air date": "1 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    Not wanting to sound like a nag, Billie manipulates Zack into doing chores around the apartment; however, her plan backfires when Zack takes the initiative to \"decorate\" the nursery. Meanwhile, to earn extra cash, Davis gets a job at a gay bar.    "
+                },
+                "15": {
+                    "title": "Back to School",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 50,
+                    "original air date": "8 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    Billie invites herself to Zack's high school reunion but worries that she can't compete with his hot, ex-girlfriend in her pregnant state. Meanwhile, Olivia helps Abby host a party where they try to sell Abby's miracle youth juice.    "
+                },
+                "16": {
+                    "title": "Face Off",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 49,
+                    "original air date": "7 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Zack is upset when Billie hires a baby nurse without consulting him. Meanwhile, Davis and Ryan are faced with a difficult choice when they learn surprising news about the nurse.    "
+                },
+                "17": {
+                    "title": "Speed",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 40,
+                    "original air date": "14 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Billie pretends to go into labor to save Zack from getting a traffic ticket after they're pulled over for speeding. Meanwhile, Olivia and Davis go shopping for a baby gift.    "
+                },
+                "18": {
+                    "title": "Speed 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Accidentally on Purpose (TV Series 2009–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 43,
+                    "original air date": "21 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    After faking labor pains to get Zack out of a speeding ticket, Billie goes into labor - for real. Unfortunately, things take a turn when Zack gets busted by the officer they had initially lied to and is hauled off to the police station.    "
+                }
+            }
+        },
+        "number of episodes": 18,
+        "cast": [
+            {
+                "name": "Elfman, Jenna"
+            },
+            {
+                "name": "Foster, Jon"
+            },
+            {
+                "name": "Jensen, Ashley"
+            },
+            {
+                "name": "Parham, Lennon"
+            },
+            {
+                "name": "Wright, Nicolas"
+            },
+            {
+                "name": "Show, Grant"
+            },
+            {
+                "name": "Hall, Pooch"
+            },
+            {
+                "name": "Manion, Kimberly"
+            },
+            {
+                "name": "Wilmore, Larry"
+            },
+            {
+                "name": "Cuprill, Bryan"
+            },
+            {
+                "name": "Rapaport, Michael"
+            },
+            {
+                "name": "Sutcliffe, David"
+            },
+            {
+                "name": "Glave, Matthew"
+            },
+            {
+                "name": "Kunard, Jeff"
+            },
+            {
+                "name": "Maddox, Chris Erric"
+            },
+            {
+                "name": "Impellizzeri, Jack"
+            },
+            {
+                "name": "Caldwell, Andrew"
+            },
+            {
+                "name": "Bañagale, Clifford"
+            },
+            {
+                "name": "Bales, B.J."
+            },
+            {
+                "name": "Dryer, Fred"
+            },
+            {
+                "name": "Wright, Sarah"
+            },
+            {
+                "name": "Apostolou, Persephone"
+            },
+            {
+                "name": "August, Nadège"
+            },
+            {
+                "name": "Baird, Diora"
+            },
+            {
+                "name": "Lenehan, Nancy"
+            },
+            {
+                "name": "Schwartz, Ben"
+            },
+            {
+                "name": "Vigman, Gillian"
+            },
+            {
+                "name": "Lengies, Vanessa"
+            },
+            {
+                "name": "Munn, Olivia"
+            },
+            {
+                "name": "Pham, Dorian Brown"
+            },
+            {
+                "name": "Polisky, Justin"
+            },
+            {
+                "name": "Alvarado, Derek"
+            },
+            {
+                "name": "Anderson, Christian S."
+            },
+            {
+                "name": "Cohen, Melinda"
+            },
+            {
+                "name": "Dylan, Madison"
+            },
+            {
+                "name": "Henggeler, Courtney"
+            },
+            {
+                "name": "Keats, Caitlin"
+            },
+            {
+                "name": "Patel, Mahaley"
+            },
+            {
+                "name": "Tuiasosopo, Peter Navy"
+            },
+            {
+                "name": "Wilson, Indira G."
+            },
+            {
+                "name": "Boston, Rachel"
+            },
+            {
+                "name": "Guill, Julianna"
+            },
+            {
+                "name": "Kamei, Catherine"
+            },
+            {
+                "name": "Ramzi, Aaron"
+            },
+            {
+                "name": "Henderson, Lyn Alicia"
+            },
+            {
+                "name": "Isler, Seth"
+            },
+            {
+                "name": "Mawji, Aly"
+            },
+            {
+                "name": "McCann, Ryan"
+            },
+            {
+                "name": "Waters, Josh"
+            },
+            {
+                "name": "Agee, Steve"
+            }
+        ],
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "runtimes": [
+            "22"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 6.3,
+        "votes": 6219,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjE3NDA3MzIyOF5BMl5BanBnXkFtZTcwMDM4NDk3Mg@@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "Billie, a woman in her 30's, wants to settle down and have a family. When she tells her boyfriend James this, he tells her he doesn't want that, so they break up. She gets drunk and hooks up with a guy named Zack. Upon discovering that she's pregnant, he moves in to try and help her.",
+        "languages": [
+            "English"
+        ],
+        "title": "Accidentally on Purpose",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-2010",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Lonow, Claudia"
+            },
+            {
+                "name": "Pols, Mary F."
+            },
+            {
+                "name": "Hardy, Franklin"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "BermanBraun"
+            },
+            {
+                "name": "CBS Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CBS"
+            },
+            {
+                "name": "Citytv"
+            },
+            {
+                "name": "Comedy Central"
+            },
+            {
+                "name": "Comedy Max"
+            },
+            {
+                "name": "FEM3"
+            },
+            {
+                "name": "Fox Life"
+            },
+            {
+                "name": "Net5"
+            },
+            {
+                "name": "Network Ten"
+            },
+            {
+                "name": "Sixx"
+            },
+            {
+                "name": "Sony Entertainment Television"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Cut Music"
+            },
+            {
+                "name": "Direct Tools & Fasteners"
+            },
+            {
+                "name": "Filmtools"
+            },
+            {
+                "name": "Movie Movers"
+            },
+            {
+                "name": "Pacific Studios II"
+            },
+            {
+                "name": "Paws for Effect"
+            },
+            {
+                "name": "Transportation Resources"
+            }
+        ],
+        "plot": [
+            "Billie, a woman in her 30's, wants to settle down and have a family. When she tells her boyfriend James this, he tells her he doesn't want that, so they break up. She gets drunk and hooks up with a guy named Zack. Upon discovering that she's pregnant, he moves in to try and help her.::tech support"
+        ],
+        "tech": {
+            "runtime": [
+                "22 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 6219,
+                "rating": 6.3
+            },
+            "aged 18 29": {
+                "votes": 1654,
+                "rating": 6.6
+            },
+            "aged 30 44": {
+                "votes": 3124,
+                "rating": 6.2
+            },
+            "aged 45 plus": {
+                "votes": 663,
+                "rating": 5.9
+            },
+            "males": {
+                "votes": 2863,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 718,
+                "rating": 6.2
+            },
+            "males aged 30 44": {
+                "votes": 1652,
+                "rating": 5.9
+            },
+            "males aged 45 plus": {
+                "votes": 432,
+                "rating": 5.8
+            },
+            "females": {
+                "votes": 2690,
+                "rating": 6.7
+            },
+            "females aged 18 29": {
+                "votes": 923,
+                "rating": 7.0
+            },
+            "females aged 30 44": {
+                "votes": 1444,
+                "rating": 6.7
+            },
+            "females aged 45 plus": {
+                "votes": 225,
+                "rating": 6.1
+            },
+            "top 1000 voters": {
+                "votes": 88,
+                "rating": 5.2
+            },
+            "us users": {
+                "votes": 1389,
+                "rating": 6.0
+            },
+            "non us users": {
+                "votes": 3255,
+                "rating": 6.4
+            }
+        },
+        "number of votes": {
+            "10": 977,
+            "9": 487,
+            "8": 946,
+            "7": 1220,
+            "6": 1014,
+            "5": 534,
+            "4": 291,
+            "3": 183,
+            "2": 173,
+            "1": 394
+        },
+        "arithmetic mean": 6.7,
+        "median": 7
+    }
+}

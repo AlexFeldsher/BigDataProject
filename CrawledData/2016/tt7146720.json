@@ -1,0 +1,123 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "China\n",
+                "date": "5 March 2016",
+                "notes": "                            (China)"
+            },
+            {
+                "country": "USA\n",
+                "date": "5 March 2016"
+            }
+        ],
+        "release dates": [
+            "China::5 March 2016                            (China)",
+            "USA::5 March 2016"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Chen Bowen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Harvard Project (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "5 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Chen Xiaoxiao",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Harvard Project (TV Mini-Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "12 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Chen, Bowen"
+            }
+        ],
+        "locations": [
+            "USA::(location)"
+        ],
+        "genres": [
+            "Biography"
+        ],
+        "runtimes": [
+            "5"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "zh"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "original air date": "05 Mar 2016 (USA)",
+        "number of seasons": 1,
+        "languages": [
+            "Chinese"
+        ],
+        "title": "The Harvard Project",
+        "year": 2016,
+        "kind": "tv mini series",
+        "series years": "2016-2016",
+        "akas": [
+            "The Harvard Project (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Liu, Zhao"
+            }
+        ],
+        "director": [
+            {
+                "name": "Liu, Zhao"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Caihong Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Voice of America (VOA)"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "5 min"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

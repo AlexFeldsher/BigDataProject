@@ -1,0 +1,82 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Spain\n",
+                "date": "8 February 2013"
+            },
+            {
+                "country": "Spain\n",
+                "date": "8 April 2013",
+                "notes": "                            (Madrid)"
+            }
+        ],
+        "release dates": [
+            "Spain::8 February 2013",
+            "Spain::8 April 2013                            (Madrid)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "PGM 01",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Increíbles: el gran desafío (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "8 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "genres": [
+            "Adventure"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "country codes": [
+            "es"
+        ],
+        "language codes": [
+            "es"
+        ],
+        "color info": [
+            "Color::(PAL)"
+        ],
+        "number of seasons": 1,
+        "budget": "EUR20,000 (estimated)",
+        "languages": [
+            "Spanish"
+        ],
+        "title": "Increíbles: el gran desafío",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-",
+        "akas": [
+            "Increíbles: el gran desafío (Spain)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Zeppelin TV"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Antena 3 Televisión"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color (PAL)"
+            ]
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "France\n",
+                "date": "6 February 2011"
+            },
+            {
+                "country": "France\n",
+                "date": "22 October 2011"
+            }
+        ],
+        "release dates": [
+            "France::6 February 2011",
+            "France::22 October 2011"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "SOS Koalas",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Les orphelins du paradis (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "8 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Les géants de Tsavo",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Les orphelins du paradis (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "6 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Mokiejewski, Olivia"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "40"
+        ],
+        "countries": [
+            "France"
+        ],
+        "country codes": [
+            "fr"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "French"
+        ],
+        "title": "Les orphelins du paradis",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-",
+        "akas": [
+            "Les orphelins du paradis (France)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "One planet"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "40 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

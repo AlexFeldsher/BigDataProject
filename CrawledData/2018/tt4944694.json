@@ -1,0 +1,633 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Spain\n",
+                "date": "23 May 2018"
+            },
+            {
+                "country": "Germany\n",
+                "date": "1 September 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "France\n",
+                "date": "1 September 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Italy\n",
+                "date": "1 September 2018",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "Spain::23 May 2018",
+            "Germany::1 September 2018                            (internet)",
+            "France::1 September 2018                            (internet)",
+            "Italy::1 September 2018                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "La catedral del mar"
+            },
+            {
+                "countries": "France",
+                "title": "La catedral del mar"
+            },
+            {
+                "countries": "Germany",
+                "title": "Die Kathedrale des Meeres"
+            },
+            {
+                "countries": "Italy",
+                "title": "La cattedrale del mare"
+            },
+            {
+                "countries": "Norway",
+                "title": "Cathedral of the Sea"
+            },
+            {
+                "countries": "Poland",
+                "title": "Katedra w Barcelonie"
+            },
+            {
+                "countries": "Portugal",
+                "title": "A Catedral do Mar"
+            },
+            {
+                "countries": "Russia",
+                "title": "Собор у моря"
+            },
+            {
+                "countries": "Spain",
+                "title": "La Catedral del Mar"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "Cathedral of the Sea"
+            }
+        ],
+        "akas": [
+            "La catedral del mar (original title)",
+            "La catedral del mar France",
+            "Die Kathedrale des Meeres Germany",
+            "La cattedrale del mare Italy",
+            "Cathedral of the Sea Norway",
+            "Katedra w Barcelonie Poland",
+            "A Catedral do Mar Portugal",
+            "Собор у моря Russia",
+            "La Catedral del Mar Spain",
+            "Cathedral of the Sea World-wide (English title)"
+        ],
+        "akas from release info": [
+            "La catedral del mar (original title)",
+            "La catedral del mar France",
+            "Die Kathedrale des Meeres Germany",
+            "La cattedrale del mare Italy",
+            "Cathedral of the Sea Norway",
+            "Katedra w Barcelonie Poland",
+            "A Catedral do Mar Portugal",
+            "Собор у моря Russia",
+            "La Catedral del Mar Spain",
+            "Cathedral of the Sea World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Fugitivos",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cathedral of the Sea (TV Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 95,
+                    "original air date": "23 May 2018",
+                    "year": "2018",
+                    "plot": "\n    Bernat Estanyol is going to marry Francesca Esteve, but the wedding is marred by the arrival of the lord of Bella, owner of those lands, who uses his feudal rights with the bride. Nine months later, Francesca gives birth to her first child.    "
+                },
+                "2": {
+                    "title": "Hermanos",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cathedral of the Sea (TV Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 74,
+                    "original air date": "30 May 2018",
+                    "year": "2018",
+                    "plot": "\n    A remarriage leads to a change of residence and occupation for Bernat and Arnau, while Joan is offered an opportunity to get an education.    "
+                },
+                "3": {
+                    "title": "Deseo",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cathedral of the Sea (TV Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 68,
+                    "original air date": "6 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    Four years pass and famine-stricken serfs revolt against the hoarding nobles. A brave act makes Arnau's dream come true, and he later falls in love.    "
+                },
+                "4": {
+                    "title": "Arrepentíos",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cathedral of the Sea (TV Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 63,
+                    "original air date": "20 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    Joan hears an alarming confession. Torn between two women, Arnau escapes by running off to war. Searching for Arnau, Aledis has a fateful encounter.    "
+                },
+                "5": {
+                    "title": "No somos como ellos",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cathedral of the Sea (TV Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 64,
+                    "original air date": "27 Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    After rescuing two children, Arnau is rewarded with a lucrative new career. He later adopts a spirited orphan and gets revenge against the Puigs.    "
+                },
+                "6": {
+                    "title": "Secretos",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cathedral of the Sea (TV Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 54,
+                    "original air date": "4 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n    After a close brush with death, Arnau starts to see Mar in a different light, but King Pedro has other plans for him. Aledis learns Arnau is alive.    "
+                },
+                "7": {
+                    "title": "Venganza",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cathedral of the Sea (TV Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 55,
+                    "original air date": "11 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n    Convinced Mar is leading Arnau down an evil path of temptation, Joan helps Elionor with a plan to get rid of her. Margarida Puig visits Elionor.    "
+                },
+                "8": {
+                    "title": "Condenado",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cathedral of the Sea (TV Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 62,
+                    "original air date": "18 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n    Joan confesses to Mar. Sahat learns of Arnau's plight and returns to Barcelona, where he devises a plan. Arnau and Francesca are brought face to face.    "
+                }
+            }
+        },
+        "number of episodes": 8,
+        "cast": [
+            {
+                "name": "Armaya, Julian"
+            },
+            {
+                "name": "Aguilar, Jordi"
+            },
+            {
+                "name": "Luna, Aitor"
+            },
+            {
+                "name": "Derqui, Pablo"
+            },
+            {
+                "name": "Millán, Ginés García"
+            },
+            {
+                "name": "Abascal, Silvia"
+            },
+            {
+                "name": "Ulloa, Tristán"
+            },
+            {
+                "name": "Duro, Andrea"
+            },
+            {
+                "name": "Cabezas, Críspulo"
+            },
+            {
+                "name": "Pou, Josep Maria"
+            },
+            {
+                "name": "Jenner, Michelle"
+            },
+            {
+                "name": "Poza, Nathalie"
+            },
+            {
+                "name": "Moliner, Anna"
+            },
+            {
+                "name": "González, Tacho"
+            },
+            {
+                "name": "Milán, José"
+            },
+            {
+                "name": "Grao, Daniel"
+            },
+            {
+                "name": "Lima, Andrés"
+            },
+            {
+                "name": "Madaula, Ramon"
+            },
+            {
+                "name": "Rufo, Eva"
+            },
+            {
+                "name": "Cifuentes, Juanma"
+            },
+            {
+                "name": "Iglesias, Trinidad"
+            },
+            {
+                "name": "Iwasaki, Paula"
+            },
+            {
+                "name": "Sendino, Fernando"
+            },
+            {
+                "name": "Díez, Lucía"
+            },
+            {
+                "name": "Díaz, Jordi"
+            },
+            {
+                "name": "la Fuente, Óscar de"
+            },
+            {
+                "name": "Oliva, Pepo"
+            },
+            {
+                "name": "del Castillo, Gaby"
+            },
+            {
+                "name": "Navas, Nora"
+            },
+            {
+                "name": "Rabadán, Òscar"
+            },
+            {
+                "name": "Usón, Jorge"
+            },
+            {
+                "name": "El Aziz, Ali"
+            },
+            {
+                "name": "Font, Iñaki"
+            },
+            {
+                "name": "Olewski, Pablo"
+            },
+            {
+                "name": "Notario, Joaquín"
+            },
+            {
+                "name": "Peris-Mencheta, Sergio"
+            },
+            {
+                "name": "de León, Belén Ponce"
+            },
+            {
+                "name": "Castellano, Ariadna"
+            },
+            {
+                "name": "Puig, Kai"
+            },
+            {
+                "name": "Arbues, Hugo"
+            },
+            {
+                "name": "Velilla, Veki G."
+            },
+            {
+                "name": "de Molina, Natalia"
+            },
+            {
+                "name": "Sopale, Silvia Albert"
+            },
+            {
+                "name": "Cabezuelo, Mery"
+            },
+            {
+                "name": "Sansegundo, Fernando"
+            },
+            {
+                "name": "Del Olmo, Antonio"
+            },
+            {
+                "name": "Villaespesa, Álvaro"
+            },
+            {
+                "name": "del Río, Iria"
+            },
+            {
+                "name": "Mendoza, Víctor"
+            },
+            {
+                "name": "Lobato, José Antonio"
+            }
+        ],
+        "locations": [
+            "Guadamur, Toledo, Castilla-La Mancha, Spain",
+            "Aldea del Fresno, Madrid, Spain",
+            "La Pedriza, Madrid, Spain",
+            "Santa María de la Alameda, Madrid, Spain",
+            "Alpedrete, Madrid, Spain",
+            "Torreiglesias, Segovia, Castilla y León, Spain",
+            "Parque Natural de Peñalara, Madrid, Spain",
+            "Cardona, Barcelona, Catalonia, Spain",
+            "El Espinar, Segovia, Castilla y León, Spain",
+            "Segovia, Segovia, Castilla y León, Spain",
+            "Consuegra, Toledo, Castilla-La Mancha, Spain",
+            "El Álamo, Madrid, Spain",
+            "Barcelona, Barcelona, Catalonia, Spain",
+            "Cáceres, Cáceres, Extremadura, Spain",
+            "Oropesa del Mar, Castellón, Comunidad Valenciana, Spain",
+            "Montalbán, Teruel, Aragón, Spain",
+            "Vilanova i la Geltrú, Barcelona, Catalonia, Spain"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "runtimes": [
+            "55"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "country codes": [
+            "es"
+        ],
+        "language codes": [
+            "es"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Australia:MA15+",
+            "France:16",
+            "Germany:16",
+            "Italy:VM14",
+            "Norway:16::(Netflix self-rating)",
+            "Singapore:R21",
+            "South Korea:18",
+            "Spain:16",
+            "United Kingdom:18::(Reference AZU355003)",
+            "United States:TV-MA"
+        ],
+        "number of seasons": 1,
+        "rating": 7.5,
+        "votes": 1736,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BY2M1OTFmYzctNjBlOS00YTdhLTkxZTUtMmE3YzhhYzNjM2JhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR3,0,101,150_.jpg",
+        "plot outline": "The city of Barcelona is in its moment of greatest prosperity: it has grown to the Ribera, the Fishermen's Quarter, where its inhabitants decide to build with the money of some and the effort of others the largest Marian temple ever known: Santa María de la Mar. This construction is parallel to the story of Arnau, a child who is saved from the abuses of his feudal lord by his farming father Bernat and together they take refuge in the county capital, where they become citizens and, with it, a free men. Bernat raises his son as best he can, working as a pottery maker and horse groom, eventually adopting a second son. Famine and uprising brings his death, leaving the young Arnau to raise himself as a stevedore and eventually finding fame and fortune as a money changer. A strenuous life, always under the protection of the Cathedral of the Sea, that was going to take from the father's the misery of a fugitive to the son's rise in nobility and wealth. But with this privileged position he also gets envy from his peers, who plot a sordid plot that puts his life in the hands of the Inquisition.",
+        "languages": [
+            "Spanish"
+        ],
+        "title": "Cathedral of the Sea",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-2018",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Falcones, Ildefonso"
+            },
+            {
+                "name": "Rhoads, Tyler"
+            },
+            {
+                "name": "Sirera, Rodolf"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Atresmedia Televisión"
+            },
+            {
+                "name": "Catedral del Mar Producciones"
+            },
+            {
+                "name": "Diagonal TV"
+            },
+            {
+                "name": "Generalitat de Catalunya - Departament de Cultura"
+            },
+            {
+                "name": "Televisió de Catalunya"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Antena 3 Televisión"
+            },
+            {
+                "name": "Corporació Catalana de Mitjans Audiovisuals"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Deluxe Spain"
+            },
+            {
+                "name": "Morefec"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Adecco"
+            },
+            {
+                "name": "Adisar Media"
+            },
+            {
+                "name": "Ajuntament de Barcelona"
+            },
+            {
+                "name": "Blanauto"
+            },
+            {
+                "name": "Cinelux"
+            },
+            {
+                "name": "Cornejo"
+            },
+            {
+                "name": "Deluxe Spain"
+            },
+            {
+                "name": "Deluxe Spain"
+            },
+            {
+                "name": "Fauna y Acción"
+            },
+            {
+                "name": "Look Art"
+            },
+            {
+                "name": "Movicam S.A."
+            },
+            {
+                "name": "Open Pan Catering"
+            },
+            {
+                "name": "Ovide"
+            },
+            {
+                "name": "Paulino Alonso e hijos"
+            },
+            {
+                "name": "Transportes Cine y TV Mendieta"
+            },
+            {
+                "name": "Twin Pines"
+            },
+            {
+                "name": "Zeroquatre"
+            }
+        ],
+        "plot": [
+            "Based upon Ildefonso Falcones novel.",
+            "The city of Barcelona is in its moment of greatest prosperity: it has grown to the Ribera, the Fishermen's Quarter, where its inhabitants decide to build with the money of some and the effort of others the largest Marian temple ever known: Santa María de la Mar. This construction is parallel to the story of Arnau, a child who is saved from the abuses of his feudal lord by his farming father Bernat and together they take refuge in the county capital, where they become citizens and, with it, a free men. Bernat raises his son as best he can, working as a pottery maker and horse groom, eventually adopting a second son. Famine and uprising brings his death, leaving the young Arnau to raise himself as a stevedore and eventually finding fame and fortune as a money changer. A strenuous life, always under the protection of the _Cathedral of the Sea_ (qv), that was going to take from the father's the misery of a fugitive to the son's rise in nobility and wealth. But with this privileged position he also gets envy from his peers, who plot a sordid plot that puts his life in the hands of the Inquisition."
+        ],
+        "tech": {
+            "runtime": [
+                "55 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1736,
+                "rating": 7.5
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 5.5
+            },
+            "aged 18 29": {
+                "votes": 201,
+                "rating": 7.9
+            },
+            "aged 30 44": {
+                "votes": 544,
+                "rating": 7.3
+            },
+            "aged 45 plus": {
+                "votes": 369,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 915,
+                "rating": 7.4
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 5.5
+            },
+            "males aged 18 29": {
+                "votes": 132,
+                "rating": 7.9
+            },
+            "males aged 30 44": {
+                "votes": 390,
+                "rating": 7.2
+            },
+            "males aged 45 plus": {
+                "votes": 277,
+                "rating": 7.4
+            },
+            "females": {
+                "votes": 340,
+                "rating": 7.7
+            },
+            "females aged 18 29": {
+                "votes": 65,
+                "rating": 7.8
+            },
+            "females aged 30 44": {
+                "votes": 140,
+                "rating": 7.7
+            },
+            "females aged 45 plus": {
+                "votes": 78,
+                "rating": 7.6
+            },
+            "top 1000 voters": {
+                "votes": 22,
+                "rating": 5.9
+            },
+            "us users": {
+                "votes": 127,
+                "rating": 7.6
+            },
+            "non us users": {
+                "votes": 709,
+                "rating": 7.3
+            }
+        },
+        "number of votes": {
+            "10": 378,
+            "9": 299,
+            "8": 434,
+            "7": 316,
+            "6": 128,
+            "5": 72,
+            "4": 30,
+            "3": 24,
+            "2": 22,
+            "1": 33
+        },
+        "arithmetic mean": 7.8,
+        "median": 8
+    }
+}

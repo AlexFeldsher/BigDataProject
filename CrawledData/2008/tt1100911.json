@@ -1,0 +1,411 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "15 March 2008"
+            },
+            {
+                "country": "USA\n",
+                "date": "30 March 2008"
+            },
+            {
+                "country": "USA\n",
+                "date": "30 May 2008"
+            },
+            {
+                "country": "Germany\n",
+                "date": "4 May 2009"
+            }
+        ],
+        "release dates": [
+            "USA::15 March 2008",
+            "USA::30 March 2008",
+            "USA::30 May 2008",
+            "Germany::4 May 2009"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Capture of the Green River Killer"
+            },
+            {
+                "countries": "Germany",
+                "title": "Green River: Die Spur des Killers"
+            },
+            {
+                "countries": "Greece",
+                "title": "The Capture of the Green River Killer"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Hajsza a sorozatgyilkos nyomában"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "Chasing the Devil"
+            }
+        ],
+        "akas": [
+            "The Capture of the Green River Killer (original title)",
+            "Green River: Die Spur des Killers Germany",
+            "The Capture of the Green River Killer Greece",
+            "Hajsza a sorozatgyilkos nyomában Hungary",
+            "Chasing the Devil USA (working title)"
+        ],
+        "akas from release info": [
+            "The Capture of the Green River Killer (original title)",
+            "Green River: Die Spur des Killers Germany",
+            "The Capture of the Green River Killer Greece",
+            "Hajsza a sorozatgyilkos nyomában Hungary",
+            "Chasing the Devil USA (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Capture of the Green River Killer (TV Mini-Series 2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 15,
+                    "original air date": "30 May 2008",
+                    "year": "2008",
+                    "plot": "\n    In 1983, the Kings County Sheriff's department, in the area around Seattle, realize they have a serial killer in the community. Det. Dave Reichert is put in charge of the case but the killer, who has been dumping bodies in the Green River area, proves to be elusive. Reichert has the FBI develop a profile of the killer but the body count keeps rising. By the mid-1980s, it includes over 40 women killed or missing, all believed to be the Green River Killer's victims.When the remains of victims are found in neighboring Oregon, the FBI formally enter the case and soon make...    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Capture of the Green River Killer (TV Mini-Series 2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 16,
+                    "original air date": "31 May 2008",
+                    "year": "2008",
+                    "plot": "\n    With few new leads, the investigation into the Green River killer drags on. The killer has either reduced his frequency of killing or, as some believe, may have moved to a new location. or even died Budget cuts lead to cuts in the task force until it's reduced to Dave Reichert and Faye Brooks. Dave refuses to give up however and reviews boxes and boxes of evidence. Using a tip he received from serial killer Ted Bundy, Dan is certain he's found a pattern with one of the suspects they've previously interviewed but still has no physical evidence that ties him to the ...    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Cavanagh, Tom"
+            },
+            {
+                "name": "Graham, Currie"
+            },
+            {
+                "name": "Davidson, Amy"
+            },
+            {
+                "name": "Rogers, Ingrid"
+            },
+            {
+                "name": "Harmon, Jessica"
+            },
+            {
+                "name": "Harrison, Michelle"
+            },
+            {
+                "name": "Ritter, Maya"
+            },
+            {
+                "name": "Pielmeier, John"
+            },
+            {
+                "name": "Lawrence, Sharon"
+            },
+            {
+                "name": "Russo, James"
+            },
+            {
+                "name": "Adamson, Frank"
+            },
+            {
+                "name": "Anthony, Bret"
+            },
+            {
+                "name": "Augusta, Dan"
+            },
+            {
+                "name": "Bannister, Paige"
+            },
+            {
+                "name": "Benjamin, Trisha"
+            },
+            {
+                "name": "Benson, Debbie"
+            },
+            {
+                "name": "Bluethner, John"
+            },
+            {
+                "name": "Blundell, Jason"
+            },
+            {
+                "name": "Burleson, Jessica"
+            },
+            {
+                "name": "Cassidy, Cory"
+            },
+            {
+                "name": "Constible, Sarah"
+            },
+            {
+                "name": "Crandell, Steed"
+            },
+            {
+                "name": "De Pape, Andrew"
+            },
+            {
+                "name": "De Pape, Nicola"
+            },
+            {
+                "name": "Durko, Sandy"
+            },
+            {
+                "name": "Durupt, Lisa"
+            },
+            {
+                "name": "Dziadek, Andrea"
+            },
+            {
+                "name": "Evans, David Stuart"
+            },
+            {
+                "name": "Fasano, John"
+            },
+            {
+                "name": "Fletcher, Brendan"
+            },
+            {
+                "name": "Gale, Lorena"
+            },
+            {
+                "name": "Griffith, Ernesto"
+            },
+            {
+                "name": "Hughes, Aaron"
+            },
+            {
+                "name": "Johannson, Ron"
+            },
+            {
+                "name": "Johnston, Alicia"
+            },
+            {
+                "name": "Kelly, Suzanne"
+            },
+            {
+                "name": "Kennedy, Allen"
+            },
+            {
+                "name": "Kerr, Marina Stephenson"
+            },
+            {
+                "name": "Kiriluk, Tim"
+            },
+            {
+                "name": "Lindley, Christina"
+            },
+            {
+                "name": "Loewen, Jacqueline"
+            },
+            {
+                "name": "MacPherson, Arne"
+            },
+            {
+                "name": "Mayberry, Rylan"
+            },
+            {
+                "name": "McIntyre, Stephen Eric"
+            },
+            {
+                "name": "Millar, Kristin"
+            },
+            {
+                "name": "Nicholas, Jim"
+            },
+            {
+                "name": "Roach, Brian Edward"
+            },
+            {
+                "name": "Rodriguez, Joanne"
+            },
+            {
+                "name": "Sanderson, Jacob"
+            },
+            {
+                "name": "Santiago, Zak"
+            }
+        ],
+        "locations": [
+            "Manitoba, Canada"
+        ],
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "runtimes": [
+            "89"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "United States:Not Rated"
+        ],
+        "original air date": "15 Mar 2008 (USA)",
+        "number of seasons": 1,
+        "rating": 7.3,
+        "votes": 883,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNDQ3NjQ3NTE3N15BMl5BanBnXkFtZTgwMjIxMjA2MDE@._V1_SY150_CR6,0,101,150_.jpg",
+        "budget": "$5,000,000 (estimated)",
+        "plot outline": "A pair of girls seeking adventure beyond the their Western Washington trailer park encounter the area's most ruthless serial killer. Based on Sheriff David Reichert's book, \"Chasing the Devil: My Twenty-Year Quest to Capture the Green River Killer\".",
+        "languages": [
+            "English"
+        ],
+        "title": "The Capture of the Green River Killer",
+        "year": 2008,
+        "kind": "tv mini series",
+        "series years": "2008-2008",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Pielmeier, John"
+            },
+            {
+                "name": "Reichert, Dave"
+            }
+        ],
+        "director": [
+            {
+                "name": "Bailey, Norma"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Julijette"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Lifetime Movie Network"
+            },
+            {
+                "name": "Lifetime Network"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            }
+        ],
+        "plot": [
+            "A pair of girls seeking adventure beyond the their Western Washington trailer park encounter the area's most ruthless serial killer. Based on Sheriff David Reichert's book, \"Chasing the Devil: My Twenty-Year Quest to Capture the Green River Killer\".::Anonymous",
+            "Over nearly 20 years, Det. Dave Reichert of the King County Sheriff's Department investigated a series of brutal murders by a serial killer who became known as the Green River Killer after the location where some of his early victims were found. All the victims were women involved in prostitution. The police used the tools available at the time including an FBI profiler. They even interviewed serial killer Ted Bundy who was on death row at the time and offered his insight into the killer. Several men came under suspicion and were interviewed at length and at one point, Reichert was convinced he knew the identity of the killer. It was not until DNA matching came into being that they had the evidence to proceed. The killer eventually admitted to killing 71 women.::garykmcd"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr 29 min (89 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 883,
+                "rating": 7.3
+            },
+            "aged 18 29": {
+                "votes": 92,
+                "rating": 8.0
+            },
+            "aged 30 44": {
+                "votes": 353,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 281,
+                "rating": 7.2
+            },
+            "males": {
+                "votes": 417,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 36,
+                "rating": 7.9
+            },
+            "males aged 30 44": {
+                "votes": 194,
+                "rating": 6.8
+            },
+            "males aged 45 plus": {
+                "votes": 182,
+                "rating": 7.0
+            },
+            "females": {
+                "votes": 325,
+                "rating": 7.7
+            },
+            "females aged 18 29": {
+                "votes": 55,
+                "rating": 8.0
+            },
+            "females aged 30 44": {
+                "votes": 158,
+                "rating": 7.5
+            },
+            "females aged 45 plus": {
+                "votes": 98,
+                "rating": 7.7
+            },
+            "top 1000 voters": {
+                "votes": 37,
+                "rating": 7.0
+            },
+            "us users": {
+                "votes": 368,
+                "rating": 7.3
+            },
+            "non us users": {
+                "votes": 301,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 189,
+            "9": 109,
+            "8": 180,
+            "7": 190,
+            "6": 88,
+            "5": 55,
+            "4": 22,
+            "3": 13,
+            "2": 12,
+            "1": 25
+        },
+        "arithmetic mean": 7.5,
+        "median": 8
+    }
+}

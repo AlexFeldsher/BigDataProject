@@ -1,0 +1,743 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "13 July 2013"
+            }
+        ],
+        "release dates": [
+            "USA::13 July 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Beware the Batman"
+            },
+            {
+                "countries": "Romania",
+                "title": "Feriti-va de Batman: Justitie intunecata"
+            },
+            {
+                "countries": "Russia",
+                "title": "Берегитесь Бэтмена"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Čuvaj se Betmena"
+            }
+        ],
+        "akas": [
+            "Beware the Batman (original title)",
+            "Feriti-va de Batman: Justitie intunecata Romania",
+            "Берегитесь Бэтмена Russia",
+            "Čuvaj se Betmena Serbia"
+        ],
+        "akas from release info": [
+            "Beware the Batman (original title)",
+            "Feriti-va de Batman: Justitie intunecata Romania",
+            "Берегитесь Бэтмена Russia",
+            "Čuvaj se Betmena Serbia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Hunted",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 148,
+                    "original air date": "13 Jul. 2013",
+                    "year": "2013",
+                    "plot": "\n    Batman goes up against Professor Pyg. Alfred hires a bodyguard for Bruce Wayne: a Japanese warrior named Katana.    "
+                },
+                "2": {
+                    "title": "Secrets",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 129,
+                    "original air date": "20 Jul. 2013",
+                    "year": "2013",
+                    "plot": "\n    Batman is kidnapped by Magpie, a deranged villainess.    "
+                },
+                "3": {
+                    "title": "Tests",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 108,
+                    "original air date": "27 Jul. 2013",
+                    "year": "2013",
+                    "plot": "\n    Bruce tests Katana to ensure her loyalty.    "
+                },
+                "4": {
+                    "title": "Safe",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 107,
+                    "original air date": "3 Aug. 2013",
+                    "year": "2013",
+                    "plot": "\n    Katana (SUMALEE MONTANO) and Alfred (JB BLANC) must protect a brilliant scientist (MATTHEW LILLARD) from the clutches of the League of Assassins and Silver Monkey (JAMES REMAR)!    "
+                },
+                "5": {
+                    "title": "Broken",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 101,
+                    "original air date": "10 Aug. 2013",
+                    "year": "2013",
+                    "plot": "\n    A former Mob accountant named Humpty Dumpty (MAT JONES) who's gone insane is out for revenge... against Lt. Gordon!    "
+                },
+                "6": {
+                    "title": "Toxic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 100,
+                    "original air date": "17 Aug. 2013",
+                    "year": "2013",
+                    "plot": "\n    Batman tries to help a security guard (ADAM BALDWIN) who's been exposed to a weaponized toxic gas, but all he cares about is the woman he loves (EMMANUELLE CHRIQUI).    "
+                },
+                "7": {
+                    "title": "Family",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 92,
+                    "original air date": "7 Sep. 2013",
+                    "year": "2013",
+                    "plot": "\n    The League of Assassins kidnap Bruce Wayne and hold him for ransom - until Katana brings them the SoulTaker Sword. But they have no idea who they're holding!    "
+                },
+                "8": {
+                    "title": "Allies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 87,
+                    "original air date": "14 Sep. 2013",
+                    "year": "2013",
+                    "plot": "\n    When Batman and Lt. Gordon finally collar gangster Tobias Whale (MICHAEL LEON WOOLEY), he applies leverage by having Phosphorous Rex kidnap Barbara Gordon (TARA STRONG).    "
+                },
+                "9": {
+                    "title": "Control",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 82,
+                    "original air date": "21 Sep. 2013",
+                    "year": "2013",
+                    "plot": "\n    The League of Assassins sends human/computer hybrid Cypher to gain control of Jason Burr's mind and his secrets. Cypher ends up controlling Katana as well!    "
+                },
+                "10": {
+                    "title": "Sacrifice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 79,
+                    "original air date": "28 Sep. 2013",
+                    "year": "2013",
+                    "plot": "\n    Anarky returns and sets a trap for both Batman and the League of Assassins, locking them in a building with a fatal airborne virus.    "
+                },
+                "11": {
+                    "title": "Instinct",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 76,
+                    "original air date": "5 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    Professor Pyg and Mr. Toad are back... and they've set their sights on Gotham's elite couture culture. Will Gotham's Fashion Week survive the villains' vile attack?    "
+                },
+                "12": {
+                    "title": "Attraction",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 77,
+                    "original air date": "18 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    After Batman shows pity to Magpie in prison, she breaks out where she is willing to kill Katana in a jealous rage.    "
+                },
+                "13": {
+                    "title": "Fall",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 73,
+                    "original air date": "18 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Jason Burr, still not in control of his body due to mind control by Cypher, steals the Ion Cortex in order to make a deal with the League of Assassins.    "
+                },
+                "14": {
+                    "title": "Darkness",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 64,
+                    "original air date": "9 Aug. 2014",
+                    "year": "2014",
+                    "plot": "\n    Batman makes an unlikely alliance with Silver Monkey to escape from the League of Assassins.    "
+                },
+                "15": {
+                    "title": "Reckoning",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 69,
+                    "original air date": "16 Aug. 2014",
+                    "year": "2014",
+                    "plot": "\n    Ra's al Ghul recruits an army of Batman's foes (Professor Pyg, Mr. Toad, Magpie, Tobias Whale, Phosphorus Rex, and Cypher) in order to eliminate him.    "
+                },
+                "16": {
+                    "title": "Nexus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 64,
+                    "original air date": "23 Aug. 2014",
+                    "year": "2014",
+                    "plot": "\n    Six months after the black out, new DA Harvey Dent is trying to put a stop to the mask and cape crisis.    "
+                },
+                "17": {
+                    "title": "Monsters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 60,
+                    "original air date": "7 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    There's a new hero in Old Gotham. A Golem creature has been fighting back against armored criminals attacking local businesses. Tracking the creature down to an abandoned synagogue, Batman and Katana discover that the \"Golem\" is actually Rex Mason (aka Metamorpho), who's been retraining his body in order to help the citizens of Old Gotham. Realizing he's found a new ally, Batman joins Metamorpho's fight, but it isn't easy. The criminals are using high-tech weaponry... from Stagg Industries!    "
+                },
+                "18": {
+                    "title": "Games",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 61,
+                    "original air date": "14 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    Humpty Dumpty captures Batman, Katana, Gordon, Mayor Grange and Tobias Whale and makes all of them play his Murder Mystery Game.    "
+                },
+                "19": {
+                    "title": "Animal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 51,
+                    "original air date": "21 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    In order to track a thief who's stolen a dangerous piece of code-breaking software, Batman has himself arrested and thrown into Blackgate prison.    "
+                },
+                "20": {
+                    "title": "Doppleganger",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 46,
+                    "original air date": "28 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    After his ordeal at Blackgate Prison, Batman is haunted in his dreams by a mysterious winged humanoid bat, only to later discover that he really exists. Meanwhile, Alfred returns and tries to help Bruce work out his personal issues.    "
+                },
+                "21": {
+                    "title": "Unique",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "votes": 48,
+                    "original air date": "28 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    An old friend of Bruce Wayne's comes to him for help, when her father has been cloned by a mysterious organization to create an army of super soldier manhunters.    "
+                },
+                "22": {
+                    "title": "Hero",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "votes": 50,
+                    "original air date": "28 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    Desperate to rid the city of Batman, Harvey Dent allies with Anarky, who recruits a new hero to take Batman's place... the hired killer Deathstroke.    "
+                },
+                "23": {
+                    "title": "Choices",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 23,
+                    "votes": 49,
+                    "original air date": "28 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    When Batman and Katana are ambushed in the Gotham subway by Killer Croc, it's up to Barbara Gordon to save them. Only one problem: Barbara's on a date.    "
+                },
+                "24": {
+                    "title": "Epitaph",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 24,
+                    "votes": 49,
+                    "original air date": "28 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    When Bruce Wayne is \"assassinated\" by Batman, he lets the world think he's dead and goes in search of the impostor - the Bad Batman.    "
+                },
+                "25": {
+                    "title": "Twist",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 25,
+                    "votes": 49,
+                    "original air date": "28 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    Batman continues to work in secret to find answers, while Harvey Dent recovers in Gotham Hospital. Blaming Batman for everything, he enacts martial law in Gotham.    "
+                },
+                "26": {
+                    "title": "Alone",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Beware the Batman (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 26,
+                    "votes": 54,
+                    "original air date": "28 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    When Alfred is taken hostage by Deathstroke in the Batcave, Batman must face him alone. Harvey Dent reveals his true nature as Two-Face.    "
+                }
+            }
+        },
+        "number of episodes": 26,
+        "cast": [
+            {
+                "name": "Ruivivar, Anthony"
+            },
+            {
+                "name": "Montano, Sumalee"
+            },
+            {
+                "name": "Blanc, JB"
+            },
+            {
+                "name": "Smith, Kurtwood"
+            },
+            {
+                "name": "Strong, Tara"
+            },
+            {
+                "name": "McDonald, Christopher"
+            },
+            {
+                "name": "Langham, Wallace"
+            },
+            {
+                "name": "Hughes, Finola"
+            },
+            {
+                "name": "Downes, Robin Atkin"
+            },
+            {
+                "name": "Wooley, Michael-Leon"
+            },
+            {
+                "name": "Lillard, Matthew"
+            },
+            {
+                "name": "George, Brian"
+            },
+            {
+                "name": "Kier, Udo"
+            },
+            {
+                "name": "Baldwin, Adam"
+            },
+            {
+                "name": "Bennett, Jeff"
+            },
+            {
+                "name": "Griffin, Grey"
+            },
+            {
+                "name": "McGill, Michael Patrick"
+            },
+            {
+                "name": "Williams, Wade"
+            },
+            {
+                "name": "Reddick, Lance"
+            },
+            {
+                "name": "Remar, James"
+            },
+            {
+                "name": "Summer, Cree"
+            },
+            {
+                "name": "Banker, Tisha Terrasini"
+            },
+            {
+                "name": "Jones, Matt"
+            },
+            {
+                "name": "Ellis, Greg"
+            },
+            {
+                "name": "Chriqui, Emmanuelle"
+            },
+            {
+                "name": "Pounder, CCH"
+            },
+            {
+                "name": "Tapper, Beth"
+            },
+            {
+                "name": "Alazraqui, Carlos"
+            },
+            {
+                "name": "Baker, Dee Bradley"
+            },
+            {
+                "name": "Benrubi, Abraham"
+            },
+            {
+                "name": "Corlett, Ian James"
+            },
+            {
+                "name": "Berkeley, Xander"
+            },
+            {
+                "name": "Ferro, Carlos"
+            },
+            {
+                "name": "Lowenthal, Yuri"
+            },
+            {
+                "name": "Kinchen, Arif S."
+            },
+            {
+                "name": "Mercer, Matthew"
+            },
+            {
+                "name": "Sturgis, Gary Anthony"
+            },
+            {
+                "name": "Taylor, James Arnold"
+            },
+            {
+                "name": "Marsden, Jason"
+            },
+            {
+                "name": "Thomas, Bruce"
+            },
+            {
+                "name": "Williams, Gary Anthony"
+            },
+            {
+                "name": "Nakauchi, Paul"
+            },
+            {
+                "name": "Stuart, James Patrick"
+            },
+            {
+                "name": "Newman, Laraine"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "runtimes": [
+            "22"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "certificates": [
+            "Australia:PG::(DVD)",
+            "Australia:M::(TV)",
+            "United States:TV-PG"
+        ],
+        "number of seasons": 1,
+        "rating": 7.4,
+        "votes": 3529,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjI0NzQ3MzU5MV5BMl5BanBnXkFtZTcwNjY4MTk2Nw@@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Beware the Batman",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-2014",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Kane, Bob"
+            },
+            {
+                "name": "Aparo, Jim"
+            },
+            {
+                "name": "Barr, Mike W."
+            }
+        ],
+        "production companies": [
+            {
+                "name": "DC Entertainment"
+            },
+            {
+                "name": "Warner Bros. Animation"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Cartoon Network"
+            },
+            {
+                "name": "Adult Swim"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "CGCG"
+            },
+            {
+                "name": "DigiPost.TV"
+            },
+            {
+                "name": "Oktobor Animation"
+            },
+            {
+                "name": "Warner Bros. Post Production Services"
+            },
+            {
+                "name": "Xentrix Studios"
+            }
+        ],
+        "plot": [
+            "Batman, a crime-fighting vigilante of Gotham City, goes up against the underworld.::Anonymous"
+        ],
+        "synopsis": [
+            "In the new CGI-animated series \"Beware the Batman\", Batman is backed-up by former-secret agent-turned-butler Alfred Pennyworth and the sword-wielding heroine Katana against a rogues' gallery of foes such as Professor Pyg, Mister Toad, Magpie, and Anarky."
+        ],
+        "tech": {
+            "runtime": [
+                "22 min"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3529,
+                "rating": 7.4
+            },
+            "aged under 18": {
+                "votes": 7,
+                "rating": 6.7
+            },
+            "aged 18 29": {
+                "votes": 1049,
+                "rating": 7.6
+            },
+            "aged 30 44": {
+                "votes": 1202,
+                "rating": 7.3
+            },
+            "aged 45 plus": {
+                "votes": 334,
+                "rating": 7.2
+            },
+            "males": {
+                "votes": 2559,
+                "rating": 7.4
+            },
+            "males aged under 18": {
+                "votes": 5,
+                "rating": 7.1
+            },
+            "males aged 18 29": {
+                "votes": 975,
+                "rating": 7.6
+            },
+            "males aged 30 44": {
+                "votes": 1115,
+                "rating": 7.3
+            },
+            "males aged 45 plus": {
+                "votes": 306,
+                "rating": 7.1
+            },
+            "females": {
+                "votes": 181,
+                "rating": 7.4
+            },
+            "females aged under 18": {
+                "votes": 2,
+                "rating": 6.0
+            },
+            "females aged 18 29": {
+                "votes": 69,
+                "rating": 7.1
+            },
+            "females aged 30 44": {
+                "votes": 73,
+                "rating": 7.5
+            },
+            "females aged 45 plus": {
+                "votes": 25,
+                "rating": 7.8
+            },
+            "top 1000 voters": {
+                "votes": 83,
+                "rating": 7.3
+            },
+            "us users": {
+                "votes": 747,
+                "rating": 7.3
+            },
+            "non us users": {
+                "votes": 1126,
+                "rating": 7.3
+            }
+        },
+        "number of votes": {
+            "10": 816,
+            "9": 450,
+            "8": 808,
+            "7": 638,
+            "6": 290,
+            "5": 144,
+            "4": 80,
+            "3": 66,
+            "2": 52,
+            "1": 185
+        },
+        "arithmetic mean": 7.5,
+        "median": 8
+    }
+}

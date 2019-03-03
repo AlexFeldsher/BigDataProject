@@ -1,0 +1,525 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "15 May 2018"
+            },
+            {
+                "country": "USA\n",
+                "date": "7 August 2018"
+            },
+            {
+                "country": "Spain\n",
+                "date": "28 August 2018",
+                "notes": "                            (cable TV)"
+            }
+        ],
+        "release dates": [
+            "Canada::15 May 2018",
+            "USA::7 August 2018",
+            "Spain::28 August 2018                            (cable TV)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Carter"
+            },
+            {
+                "countries": "Romania",
+                "title": "Carter"
+            },
+            {
+                "countries": "Spain",
+                "title": "Carter"
+            }
+        ],
+        "akas": [
+            "Carter (original title)",
+            "Carter Romania",
+            "Carter Spain"
+        ],
+        "akas from release info": [
+            "Carter (original title)",
+            "Carter Romania",
+            "Carter Spain"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Koji the Killer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Carter (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 75,
+                    "original air date": "7 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    TV detective Harley Carter returns to his hometown of North Bay and teams up with his two childhood friends to solve a murder mystery and clear the name of his caretaker who has prematurely admitted to committing a crime he did not commit.    "
+                },
+                "2": {
+                    "title": "The Astronaut & The Lion King",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Carter (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 52,
+                    "original air date": "14 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    Harley and Sam re-open a cold case expecting a dead end but find a whole new angle to the crime.    "
+                },
+                "3": {
+                    "title": "The Farmhand Who Bought the Farm",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Carter (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 45,
+                    "original air date": "21 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    Harley investigated when a routine accident becomes a homicide investigation.    "
+                },
+                "4": {
+                    "title": "Harley's Got a Gun",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Carter (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 43,
+                    "original air date": "28 Aug. 2018",
+                    "year": "2018",
+                    "plot": "\n    Harley learns that shooting people is it isn't so easy during an investigation into the death of a tech entrepreneur.    "
+                },
+                "5": {
+                    "title": "Pig, Man, Lion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Carter (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 25,
+                    "original air date": "4 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Harley investigates the death of a man in a car park.    "
+                },
+                "6": {
+                    "title": "The Flood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Carter (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 44,
+                    "original air date": "11 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Whilst Harley is attending a wedding, a brutal attack uncovers a dark secret.    "
+                },
+                "7": {
+                    "title": "Kiki-Loki",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Carter (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 26,
+                    "original air date": "18 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Harley is tasked with solving the murder of a world famous Japanese mascot.    "
+                },
+                "8": {
+                    "title": "Voiceover",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Carter (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 24,
+                    "original air date": "25 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Harley and Sam investigate the murder of an obnoxious shock-jock.    "
+                },
+                "9": {
+                    "title": "Happy Campers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Carter (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 20,
+                    "original air date": "2 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Whilst Harley and his friends take a weekend away, the discovery of a old body leads to a new case.    "
+                },
+                "10": {
+                    "title": "The Ring",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Carter (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 23,
+                    "original air date": "9 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 10,
+        "cast": [
+            {
+                "name": "Poitier, Sydney Tamiia"
+            },
+            {
+                "name": "O'Connell, Jerry"
+            },
+            {
+                "name": "Bruun, Kristian"
+            },
+            {
+                "name": "Bourgeois, John"
+            },
+            {
+                "name": "Kamino, Brenda"
+            },
+            {
+                "name": "Farquhar, Chris"
+            },
+            {
+                "name": "Akiyama, Denis"
+            },
+            {
+                "name": "Boland, Joanne"
+            },
+            {
+                "name": "Saranga, Varun"
+            },
+            {
+                "name": "Baram, Matt"
+            },
+            {
+                "name": "Nevin, Brooke"
+            },
+            {
+                "name": "Brown, Jefferson"
+            },
+            {
+                "name": "Miller, Sherry"
+            },
+            {
+                "name": "Shepherd, Kristin"
+            },
+            {
+                "name": "Sauvé, Matthew"
+            },
+            {
+                "name": "Annan, Jim"
+            },
+            {
+                "name": "Cormier, Jeremy"
+            },
+            {
+                "name": "Faith, Dustin"
+            },
+            {
+                "name": "Locke, Paige"
+            },
+            {
+                "name": "Moran, Stephanie"
+            },
+            {
+                "name": "Pascall, Corey"
+            },
+            {
+                "name": "Progosh, Tim"
+            },
+            {
+                "name": "Robitaille, Benjamin"
+            },
+            {
+                "name": "Weiner, Alex"
+            },
+            {
+                "name": "Yuan, Wayne"
+            },
+            {
+                "name": "Bako, Christian"
+            },
+            {
+                "name": "Ashton, Mary"
+            },
+            {
+                "name": "Augustson, Nola"
+            },
+            {
+                "name": "Ballin, Paul"
+            },
+            {
+                "name": "Banzhaf, Sofia"
+            },
+            {
+                "name": "Beirne, Dan"
+            },
+            {
+                "name": "Belanger, Carter"
+            },
+            {
+                "name": "Belding, Stephanie"
+            },
+            {
+                "name": "Belford, Steve"
+            },
+            {
+                "name": "Boegel, Kelly"
+            },
+            {
+                "name": "Boyd-Garrison, MacKenzie"
+            },
+            {
+                "name": "Butcher, Randi Lee"
+            },
+            {
+                "name": "Calarco, Claire"
+            },
+            {
+                "name": "Calderone, Greg"
+            },
+            {
+                "name": "Camacho, Mark"
+            },
+            {
+                "name": "Campbell, Joe"
+            },
+            {
+                "name": "Carley, Rod"
+            },
+            {
+                "name": "Crone, Neil"
+            },
+            {
+                "name": "Cullen, Seán"
+            },
+            {
+                "name": "Dagostino, Michael Vincent"
+            },
+            {
+                "name": "Debowski, Emily"
+            },
+            {
+                "name": "Tully, Sonia Dhillon"
+            },
+            {
+                "name": "Diaz, Carlos"
+            },
+            {
+                "name": "Donovan, Martin"
+            },
+            {
+                "name": "Dykstra, Ted"
+            }
+        ],
+        "locations": [
+            "North Bay, Ontario, Canada::(Town of Bishop)"
+        ],
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "runtimes": [
+            "42"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "country codes": [
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Singapore:PG13::(digital streaming)",
+            "Spain:12",
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 6.4,
+        "votes": 882,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNGU2ZjY3ZDAtNGEwZC00YzFiLThmMmMtZDBkOThkZjU0YmMxXkEyXkFqcGdeQXVyODY3ODQ2MTk@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "When Harley Carter was a teenager, he experienced 15 minutes of fame when he solved the mystery of a serial killer plaguing his small town. Now, years later, Harley has become a famous Hollywood actor playing a grown-up version of what he actually was as a kid. And it's wearing on him. After an embarrassing public meltdown in Hollywood, Harley returns to his hometown to take a break but finds that he can't leave solving mysteries behind. Carter taps into his acting experience to become a real-life detective, partnering with (and reconnecting to) his childhood friends, no-nonsense police veteran Sam Shaw and witty, street-wise coffee truck owner, Dave Leigh.",
+        "languages": [
+            "English"
+        ],
+        "title": "Carter",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Campbell, Garry"
+            },
+            {
+                "name": "Bambrick, Larry"
+            },
+            {
+                "name": "Engels, Jenn"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Amaze Film + Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Amaze Film + Television"
+            },
+            {
+                "name": "Bravo Network Canada"
+            },
+            {
+                "name": "CTV"
+            },
+            {
+                "name": "Sony Pictures Television"
+            },
+            {
+                "name": "WGN America"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "The Rights Company"
+            }
+        ],
+        "plot": [
+            "An actor returns home after a public meltdown. Partnering with his police detective friend, he tries to use his acting experience to solve real crimes.",
+            "When Harley _Carter_ (qv) was a teenager, he experienced 15 minutes of fame when he solved the mystery of a serial killer plaguing his small town. Now, years later, Harley has become a famous Hollywood actor playing a grown-up version of what he actually was as a kid. And it's wearing on him. After an embarrassing public meltdown in Hollywood, Harley returns to his hometown to take a break but finds that he can't leave solving mysteries behind. _Carter_ (qv) taps into his acting experience to become a real-life detective, partnering with (and reconnecting to) his childhood friends, no-nonsense police veteran Sam Shaw and witty, street-wise coffee truck owner, Dave Leigh.::ahmetkozan"
+        ],
+        "tech": {
+            "runtime": [
+                "42 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 882,
+                "rating": 6.4
+            },
+            "aged 18 29": {
+                "votes": 44,
+                "rating": 6.1
+            },
+            "aged 30 44": {
+                "votes": 231,
+                "rating": 5.9
+            },
+            "aged 45 plus": {
+                "votes": 314,
+                "rating": 6.6
+            },
+            "males": {
+                "votes": 385,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 28,
+                "rating": 6.5
+            },
+            "males aged 30 44": {
+                "votes": 138,
+                "rating": 5.7
+            },
+            "males aged 45 plus": {
+                "votes": 177,
+                "rating": 6.1
+            },
+            "females": {
+                "votes": 268,
+                "rating": 6.9
+            },
+            "females aged 18 29": {
+                "votes": 16,
+                "rating": 5.3
+            },
+            "females aged 30 44": {
+                "votes": 87,
+                "rating": 6.3
+            },
+            "females aged 45 plus": {
+                "votes": 135,
+                "rating": 7.6
+            },
+            "top 1000 voters": {
+                "votes": 36,
+                "rating": 5.2
+            },
+            "us users": {
+                "votes": 169,
+                "rating": 6.8
+            },
+            "non us users": {
+                "votes": 302,
+                "rating": 6.1
+            }
+        },
+        "number of votes": {
+            "10": 167,
+            "9": 78,
+            "8": 192,
+            "7": 178,
+            "6": 86,
+            "5": 60,
+            "4": 29,
+            "3": 34,
+            "2": 12,
+            "1": 46
+        },
+        "arithmetic mean": 7.1,
+        "median": 7
+    }
+}

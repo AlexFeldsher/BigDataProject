@@ -1,0 +1,535 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "25 January 2012"
+            },
+            {
+                "country": "UK\n",
+                "date": "19 June 2012"
+            },
+            {
+                "country": "UK\n",
+                "date": "17 July 2012"
+            },
+            {
+                "country": "USA\n",
+                "date": "25 January 2013"
+            }
+        ],
+        "release dates": [
+            "USA::25 January 2012",
+            "UK::19 June 2012",
+            "UK::17 July 2012",
+            "USA::25 January 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Shakespeare Uncovered"
+            },
+            {
+                "countries": "Italy",
+                "title": "Shakespeare da scoprire"
+            },
+            {
+                "countries": "Poland",
+                "title": "Sezon na Szekspira"
+            }
+        ],
+        "akas": [
+            "Shakespeare Uncovered (original title)",
+            "Shakespeare da scoprire Italy",
+            "Sezon na Szekspira Poland"
+        ],
+        "akas from release info": [
+            "Shakespeare Uncovered (original title)",
+            "Shakespeare da scoprire Italy",
+            "Sezon na Szekspira Poland"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "Much Ado About Nothing with Helen Hunt",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Uncovered (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 7,
+                    "original air date": "12 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Helen Hunt discusses William Shakespeare's romantic comedy, 'Much Ado About Nothing', with Kenneth Branagh and members of the Royal Shakespeare Company.    "
+                },
+                "2": {
+                    "title": "The Merchant of Venice with F. Murray Abraham",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Uncovered (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 6,
+                    "original air date": "12 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    F. Murray Abraham, who has played two great Jewish \"villains,\" including Shylock in The Merchant of Venice, one of Shakespearean comedy's many \"excluded\" figures, explains the European anti-Semitism in Shakespeare's time.    "
+                },
+                "3": {
+                    "title": "Measure for Measure With Romola Garai",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Uncovered (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 7,
+                    "original air date": "19 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Shakespeare shows us the brutal implications of high moral principles on both sides in this dark and complex comedy. Romola Garai examines this truly relevant tale of harassment and the abuse of male power.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "The Comedies with Joely Richardson",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Uncovered (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 17,
+                    "original air date": "25 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Joely Richardson investigates (with her mother Vanessa Redgrave) the legacy of these two brilliant cross-dressing comedies and the great comic and romantic heroines created by Shakespeare in two perennially popular plays.    "
+                },
+                "2": {
+                    "title": "'Macbeth' with Ethan Hawke",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Uncovered (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 23,
+                    "original air date": "25 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Ethan Hawke invites viewers to join him in his quest to play Shakespeare's murderous Thane of Cawdor by uncovering the true story that served as inspiration, immersing himself in some of the most memorable and innovative productions and discovering Shakespeare's extraordinary insights into the criminal mind.    "
+                },
+                "3": {
+                    "title": "'Richard II' with Derek Jacobi",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Uncovered (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 16,
+                    "original air date": "1 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    In returning to the role of a deposed monarch whose crown is taken from him, Derek Jacobi takes a 360-degree view of this great political thriller whose title character he played more than 30 years ago.    "
+                },
+                "4": {
+                    "title": "The Tempest with Trevor Nunn",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Uncovered (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 13,
+                    "original air date": "8 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Travel with director Trevor Nunn through the magical, mysterious world of the Bard's last complete play.    "
+                },
+                "5": {
+                    "title": "Henry IV Parts 1 and 2, Henry V",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Uncovered (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 23,
+                    "original air date": "7 Jul. 2012",
+                    "year": "2012",
+                    "plot": "\n    Join Jeremy Irons as he uncovers the enduring appeal of Shakespeare's \"history plays.\"    "
+                },
+                "6": {
+                    "title": "Hamlet",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Uncovered (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 25,
+                    "original air date": "8 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Meet with David Tennant and fellow Hamlets who compare notes on the challenge of playing the iconic role.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "A Midsummer Night's Dream with Hugh Bonneville",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Uncovered (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 9,
+                    "original air date": "30 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Hugh Bonneville discusses the enduring appeal of William Shakespeare's A Midsummer Night's Dream with Ralph Fiennes, David Walliams and Sheridan Smith.    "
+                },
+                "2": {
+                    "title": "King Lear with Christopher Plummer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Uncovered (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 11,
+                    "original air date": "30 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Christopher Plummer discusses William Shakespeare's King Lear with Jonathan Miller, Ian McKellen and Simmon Russell Beale.    "
+                },
+                "3": {
+                    "title": "The Taming of the Shrew with Morgan Freeman",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Uncovered (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 11,
+                    "original air date": "6 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Morgan Freeman discusses William Shakespeare's The Taming of the Shrew with Tracey Ullman, Sinead Cusack and Julia Stiles.    "
+                },
+                "4": {
+                    "title": "Othello with David Harewood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Uncovered (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 8,
+                    "original air date": "6 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    David Harewood discusses William Shakespeare's Othello with Adrian Lester, Simon Russell Beale, Ian McKellen, Julia Stiles and Patrick Stewart.    "
+                },
+                "5": {
+                    "title": "Anthony & Cleopatra with Kim Cattrall",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Uncovered (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 9,
+                    "original air date": "13 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Kim Catrall discusses William Shakespeare's Anthony and Cleopatra with Janet Suzman, Harriet Walker and Vanessa Redgrave.    "
+                },
+                "6": {
+                    "title": "Romeo & Juliet with Joseph Fiennes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Uncovered (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 6,
+                    "original air date": "13 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Joseph Fiennes discusses William Shakespeare's Romeo and Juliet with Orlando Bloom, Condola Rashad and Stephen Sodenheim.    "
+                }
+            }
+        },
+        "number of episodes": 15,
+        "cast": [
+            {
+                "name": "Anouka, Jade"
+            },
+            {
+                "name": "Walter, Harriet"
+            },
+            {
+                "name": "Beale, Simon Russell"
+            },
+            {
+                "name": "Redgrave, Vanessa"
+            },
+            {
+                "name": "McKellen, Ian"
+            },
+            {
+                "name": "Stiles, Julia"
+            },
+            {
+                "name": "Cattrall, Kim"
+            },
+            {
+                "name": "Harewood, David"
+            },
+            {
+                "name": "Lester, Adrian"
+            },
+            {
+                "name": "Suzman, Janet"
+            },
+            {
+                "name": "Stewart, Patrick"
+            },
+            {
+                "name": "Benz, Michael"
+            },
+            {
+                "name": "Hawke, Ethan"
+            },
+            {
+                "name": "Hiddleston, Tom"
+            },
+            {
+                "name": "Jacobi, Derek"
+            },
+            {
+                "name": "Law, Jude"
+            },
+            {
+                "name": "Lawrence, Tom"
+            },
+            {
+                "name": "Mirren, Helen"
+            },
+            {
+                "name": "Nunn, Trevor"
+            },
+            {
+                "name": "Richardson, Joely"
+            },
+            {
+                "name": "Sparks, Tori"
+            },
+            {
+                "name": "Tennant, David"
+            },
+            {
+                "name": "Warner, David"
+            },
+            {
+                "name": "Bloom, Orlando"
+            },
+            {
+                "name": "Bonneville, Hugh"
+            },
+            {
+                "name": "Cusack, Sinéad"
+            },
+            {
+                "name": "Doherty, Mary"
+            },
+            {
+                "name": "Fiennes, Joseph"
+            },
+            {
+                "name": "Fiennes, Ralph"
+            },
+            {
+                "name": "Freeman, Morgan"
+            },
+            {
+                "name": "Miller, Jonathan"
+            },
+            {
+                "name": "Plummer, Christopher"
+            },
+            {
+                "name": "Rashad, Condola"
+            },
+            {
+                "name": "Smith, Sheridan"
+            },
+            {
+                "name": "Sondheim, Stephen"
+            },
+            {
+                "name": "Ullman, Tracey"
+            },
+            {
+                "name": "Walliams, David"
+            },
+            {
+                "name": "Irons, Jeremy"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "55"
+        ],
+        "countries": [
+            "United States",
+            "United Kingdom"
+        ],
+        "country codes": [
+            "us",
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color::(also archive footage)"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 3,
+        "rating": 8.6,
+        "votes": 159,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNDA4NTU4OTg4N15BMl5BanBnXkFtZTgwNjQzOTAxMzE@._V1_SY150_CR38,0,101,150_.jpg",
+        "plot outline": "Various actors discuss Shakespeare plays. Each episode is presented by one actor and, in most cases, the actor discusses one play. However, some episodes cover more than one play. For example, all three \"Henry plays\" are presented together.",
+        "languages": [
+            "English"
+        ],
+        "title": "Shakespeare Uncovered",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "distributors": [
+            {
+                "name": "BBC4"
+            },
+            {
+                "name": "Public Broadcasting Service (PBS)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Molinare Studio"
+            }
+        ],
+        "plot": [
+            "Various actors discuss Shakespeare plays. Each episode is presented by one actor and, in most cases, the actor discusses one play. However, some episodes cover more than one play. For example, all three \"Henry plays\" are presented together."
+        ],
+        "tech": {
+            "runtime": [
+                "55 min (Per Episode)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color (also archive footage)",
+                "Black and White (archive footage)"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 159,
+                "rating": 8.6
+            },
+            "aged 18 29": {
+                "votes": 19,
+                "rating": 9.2
+            },
+            "aged 30 44": {
+                "votes": 37,
+                "rating": 8.4
+            },
+            "aged 45 plus": {
+                "votes": 71,
+                "rating": 8.6
+            },
+            "males": {
+                "votes": 70,
+                "rating": 8.6
+            },
+            "males aged 18 29": {
+                "votes": 6,
+                "rating": 9.3
+            },
+            "males aged 30 44": {
+                "votes": 16,
+                "rating": 8.3
+            },
+            "males aged 45 plus": {
+                "votes": 44,
+                "rating": 8.6
+            },
+            "females": {
+                "votes": 61,
+                "rating": 8.8
+            },
+            "females aged 18 29": {
+                "votes": 12,
+                "rating": 9.3
+            },
+            "females aged 30 44": {
+                "votes": 19,
+                "rating": 8.5
+            },
+            "females aged 45 plus": {
+                "votes": 27,
+                "rating": 8.7
+            },
+            "top 1000 voters": {
+                "votes": 14,
+                "rating": 7.6
+            },
+            "us users": {
+                "votes": 70,
+                "rating": 8.5
+            },
+            "non us users": {
+                "votes": 40,
+                "rating": 8.5
+            }
+        },
+        "number of votes": {
+            "10": 54,
+            "9": 37,
+            "8": 48,
+            "7": 9,
+            "6": 5,
+            "5": 0,
+            "4": 1,
+            "3": 0,
+            "2": 2,
+            "1": 3
+        },
+        "arithmetic mean": 8.6,
+        "median": 9
+    }
+}

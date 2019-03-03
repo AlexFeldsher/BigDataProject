@@ -1,0 +1,851 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "28 May 2015"
+            },
+            {
+                "country": "UK\n",
+                "date": "11 August 2015"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "21 August 2015"
+            },
+            {
+                "country": "Japan\n",
+                "date": "19 November 2015"
+            },
+            {
+                "country": "Germany\n",
+                "date": "7 January 2016"
+            },
+            {
+                "country": "Poland\n",
+                "date": "4 April 2016"
+            }
+        ],
+        "release dates": [
+            "USA::28 May 2015",
+            "UK::11 August 2015",
+            "Sweden::21 August 2015",
+            "Japan::19 November 2015",
+            "Germany::7 January 2016",
+            "Poland::4 April 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Aquarius"
+            },
+            {
+                "countries": "Germany",
+                "title": "Aquarius"
+            },
+            {
+                "countries": "Poland",
+                "title": "Era Wodnika"
+            },
+            {
+                "countries": "Russia",
+                "title": "Водолей"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Vodolija"
+            },
+            {
+                "countries": "USA",
+                "title": "Aquarius"
+            }
+        ],
+        "akas": [
+            "Aquarius (original title)",
+            "Aquarius Germany",
+            "Era Wodnika Poland",
+            "Водолей Russia",
+            "Vodolija Serbia",
+            "Aquarius USA"
+        ],
+        "akas from release info": [
+            "Aquarius (original title)",
+            "Aquarius Germany",
+            "Era Wodnika Poland",
+            "Водолей Russia",
+            "Vodolija Serbia",
+            "Aquarius USA"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Helter Skelter",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 178,
+                    "original air date": "16 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Charlie is visited by a former cell mate; Charmaine is questioned about her motives; Grace informs Ken that Hal has been hospitalized; Brian and Sam find Guapo. (#14)    "
+                },
+                "2": {
+                    "title": "Happiness Is a Warm Gun",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 159,
+                    "original air date": "16 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Detective Hodiak begins receiving packages with photographs of missing girls; Charmain's undercover operation yields valuable information, but it also risks her safety; the Manson family moves into their new home. (#15)    "
+                },
+                "3": {
+                    "title": "Why Don't We Do It in the Road",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 154,
+                    "original air date": "16 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Charlie bonds with a Beach Boy, while Tex joins the Manson Family; Grace and Sam tread familiar territory as Brian takes a stab at a killer and gets rewarded for his sharp work. (#16)    "
+                },
+                "4": {
+                    "title": "Revolution 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 143,
+                    "original air date": "23 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Sam investigates a murder in a black neighborhood on the same day of Dr. Martin Luther King Jr.'s assassination; Kristin's involvement with the Black Panthers divides her and Brian. (#17)    "
+                },
+                "5": {
+                    "title": "Everybody's Got Something to Hide Except Me and My Monkey",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 138,
+                    "original air date": "30 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Charles becomes jealous about Dennis and Emma's courtship; Dennis takes Charles and Emma to meet a record producer; and tragedy interrupts when Internal Affairs is investigating Sam. (#18)    "
+                },
+                "6": {
+                    "title": "Revolution 9",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 129,
+                    "original air date": "7 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    While Shafe's addiction problems mount, Hodiak helps an old war buddy find his blackmailer. Meanwhile, Karn gathers information to use against Bobby Kennedy and Grace finds a new love for politics.    "
+                },
+                "7": {
+                    "title": "Piggies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 124,
+                    "original air date": "14 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Charles and the family receive a blessing and a threat; Grace makes plans for Emma; Sam takes a proactive measure to investigate a new clue in the case of the photographer killer. (#20)    "
+                },
+                "8": {
+                    "title": "While My Guitar Gently Weeps",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 123,
+                    "original air date": "27 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Manson's search for the missing Emma Karn leads him to Hodiak's doorstep and the two spend some unexpected time together. Hodiak pieces together a unique set of clues leading him to some unlikely murder suspects.    "
+                },
+                "9": {
+                    "title": "Sexy Sadie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 122,
+                    "original air date": "27 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Hodiak finds Emma in a sanatorium but will need some help to get her out. Shafe struggles to kick his worsening heroin habit before it's too late.    "
+                },
+                "10": {
+                    "title": "Blackbird",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 123,
+                    "original air date": "3 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Ken Karn and Emma come to terms. Emma still wants to find Manson. Hodiak's investigation of the truth behind Bunchy's murder might jeopardize Charmain's career. Shafe runs into an old friend at rehab.    "
+                },
+                "11": {
+                    "title": "Can You Take Me Back",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 127,
+                    "original air date": "3 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Hodiak gets into trouble again with Internal Affairs, which changes his position in the precinct. Things are looking up for The Family when a music producer arrives to record Charlie's music.    "
+                },
+                "12": {
+                    "title": "Mother Nature's Son",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 117,
+                    "original air date": "10 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Hodiak's actions get him close to a mysterious serial killer. Charlie has Bobby, Mary and Sadie get money from Gary Hinman.    "
+                },
+                "13": {
+                    "title": "I Will",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 144,
+                    "original air date": "10 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    A newly \"retired\" Hodiak hunts for the serial killer who's been tormenting him. Charlie sends Tex, Sadie, Emma and Patty on a mission.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Everybody's Been Burned",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 549,
+                    "original air date": "28 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Detective Sam Hodiak and an undercover officer, Brian Shafe, search for a missing teen.    "
+                },
+                "2": {
+                    "title": "The Hunter Gets Captured by the Game",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 443,
+                    "original air date": "28 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Detective Sam Hodiak and an undercover officer, Brian Shafe, search for a missing teen.    "
+                },
+                "3": {
+                    "title": "Never Say Never to Always",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 358,
+                    "original air date": "4 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    Shafe's snitch, Mike, becomes the prime suspect when a drug dealer is murdered.    "
+                },
+                "4": {
+                    "title": "Home Is Where You're Happy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 325,
+                    "original air date": "11 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    Hodiak investigates Art Gladner's death through his late wife Lucille.    "
+                },
+                "5": {
+                    "title": "A Change Is Gonna Come",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 319,
+                    "original air date": "18 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    A South Central murder investigation ratchets up tension with the Black Panthers; Emma goes MIA; Hodiak loses control... and Shafe comes to the rescue.    "
+                },
+                "6": {
+                    "title": "A Whiter Shade of Pale",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 307,
+                    "original air date": "25 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    Manson recovers from his beating; Hodiak helps Shafe figure out who is tormenting his family.    "
+                },
+                "7": {
+                    "title": "Cease to Resist",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 281,
+                    "original air date": "2 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    Hodiak investigates a celebrity's murder; Sadie and Emma meet someone special from Manson's past.    "
+                },
+                "8": {
+                    "title": "Sick City",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 275,
+                    "original air date": "9 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    Hodiak turns to two people from his past -- a priest and a prostitute -- for help.    "
+                },
+                "9": {
+                    "title": "Why?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 276,
+                    "original air date": "18 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    Charmain's first ride-along is cut short when her fellow officers are shot.    "
+                },
+                "10": {
+                    "title": "It's Alright Ma (I'm Only Bleeding)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 257,
+                    "original air date": "25 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    Charlie puts Emma's loyalty to the test; Shafe proves himself on the Guapo case.    "
+                },
+                "11": {
+                    "title": "Your Mother Should Know",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 253,
+                    "original air date": "1 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    Bunchy turns to Hodiak for help solving his brother's murder; Guapo has a job for Shafe.    "
+                },
+                "12": {
+                    "title": "(Please Let Me Love You And) It Won't Be Wrong",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 249,
+                    "original air date": "8 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    The Manson family feels Emma's absence as they make a documentary.    "
+                },
+                "13": {
+                    "title": "Old Ego Is a Too Much Thing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Aquarius (TV Series 2015–2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 249,
+                    "original air date": "22 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    Emma returns as Mary goes into labor; Hodiak's deal for Walt goes pear-shaped; Hodiak and Shafe's investigation has unexpected consequences; Karn addresses an old problem.    "
+                }
+            }
+        },
+        "number of episodes": 26,
+        "cast": [
+            {
+                "name": "Duchovny, David"
+            },
+            {
+                "name": "Damon, Grey"
+            },
+            {
+                "name": "Anthony, Gethin"
+            },
+            {
+                "name": "Dumont, Emma"
+            },
+            {
+                "name": "Holt, Claire"
+            },
+            {
+                "name": "Kelly, Chance"
+            },
+            {
+                "name": "O'Byrne, Brían F."
+            },
+            {
+                "name": "Childers, Ambyr"
+            },
+            {
+                "name": "McManus, Michaela"
+            },
+            {
+                "name": "Pynn, Whitney Rose"
+            },
+            {
+                "name": "Jackson, Milauna"
+            },
+            {
+                "name": "Meunier, David"
+            },
+            {
+                "name": "Harris, Jodi"
+            },
+            {
+                "name": "Garrett, Spencer"
+            },
+            {
+                "name": "Sheffield, Chris"
+            },
+            {
+                "name": "Beaty, Madisen"
+            },
+            {
+                "name": "Stewart, Cameron Deane"
+            },
+            {
+                "name": "Barr, Tara Lynne"
+            },
+            {
+                "name": "Ralph, Jason"
+            },
+            {
+                "name": "Brooks, Amanda"
+            },
+            {
+                "name": "Rood, Alison"
+            },
+            {
+                "name": "Famiglietti, Mark"
+            },
+            {
+                "name": "Carey, Clare"
+            },
+            {
+                "name": "Charles, Gaius"
+            },
+            {
+                "name": "Favreau, Andy"
+            },
+            {
+                "name": "Beckel, Graham"
+            },
+            {
+                "name": "Miller, Abby"
+            },
+            {
+                "name": "Griffin, Tim"
+            },
+            {
+                "name": "Sebastian, Lobo"
+            },
+            {
+                "name": "Goodman, Brian"
+            },
+            {
+                "name": "Bateman, Leah"
+            },
+            {
+                "name": "Simpson, Doug"
+            },
+            {
+                "name": "Dudley, Olivia Taylor"
+            },
+            {
+                "name": "Dorsey, Omar J."
+            },
+            {
+                "name": "Lacamara, Carlos"
+            },
+            {
+                "name": "Murray, Christopher"
+            },
+            {
+                "name": "Kostrey, Johnny"
+            },
+            {
+                "name": "Warner, Dan"
+            },
+            {
+                "name": "Dove, Alixzandra"
+            },
+            {
+                "name": "Getz, John"
+            },
+            {
+                "name": "Quijano, Alex"
+            },
+            {
+                "name": "Marsala, Jennifer"
+            },
+            {
+                "name": "Sikes, Cynthia"
+            },
+            {
+                "name": "Duke, Shaun"
+            },
+            {
+                "name": "McGill, Michael Patrick"
+            },
+            {
+                "name": "McClellan, Morgan"
+            },
+            {
+                "name": "Silzer, Chris"
+            },
+            {
+                "name": "Drayer, Michael"
+            },
+            {
+                "name": "Mirchoff, Beau"
+            },
+            {
+                "name": "Cummins, Gregory Scott"
+            }
+        ],
+        "locations": [
+            "Los Angeles, California, USA",
+            "Paramount Ranch - 2813 Cornell Road, Agoura, California, USA::(Western town & open landscape as the Spahn Movie Ranch, Season 2)",
+            "Stage 5, Paramount Studios - 5555 Melrose Avenue, Hollywood, Los Angeles, California, USA::(studio)"
+        ],
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "42"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Australia:MA15+",
+            "Canada:14A::(Manitoba/Ontario)",
+            "Canada:13+::(Québec)",
+            "Denmark:15",
+            "Germany:16",
+            "New Zealand:R16",
+            "Norway:15",
+            "Russia:18+",
+            "South Korea:18",
+            "Sweden:15",
+            "United Kingdom:18",
+            "United States:TV-14::(LSV)"
+        ],
+        "number of seasons": 2,
+        "rating": 7.1,
+        "votes": 9725,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTU5MTE3ODIxOF5BMl5BanBnXkFtZTgwMzA2Nzc4NTE@._V1_SY150_CR4,0,101,150_.jpg",
+        "plot outline": "Los Angeles, 1967. Welcome to the Summer of Love. Aquarius stars David Duchovny as Sam Hodiak, a seasoned homicide detective whose investigations dovetail with the activities of real life cult leader Charles Manson in the years before he masterminded the most notorious killings of a generation, the Tate-LaBianca murders. A small time but charismatic leader with big plans, Manson has begun to build up his \"family\", recruiting vulnerable young men and women to join his cause. Teaming up with a young cop who will help him infiltrate Manson's circle, Hodiak is forced to see things through the questioning eyes of someone who came of age amongst the current anti-establishment counterculture. Edgy, addictive and visually stunning, the Age of Aquarius is here.",
+        "languages": [
+            "English"
+        ],
+        "title": "Aquarius",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-2016",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "McNamara, John"
+            },
+            {
+                "name": "Yglesias, Rafael"
+            },
+            {
+                "name": "Cunningham, Alexandra"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "King Baby"
+            },
+            {
+                "name": "McNamara Moving Company"
+            },
+            {
+                "name": "Tomorrow Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "National Broadcasting Company (NBC)"
+            },
+            {
+                "name": "New KSM"
+            },
+            {
+                "name": "New KSM"
+            },
+            {
+                "name": "OTE Cinema"
+            },
+            {
+                "name": "Super! Drama TV"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Clairmont Camera Film & Digital"
+            },
+            {
+                "name": "Mad Old Nut Productions"
+            },
+            {
+                "name": "Mad Old Nut Productions"
+            },
+            {
+                "name": "Momentous Insurance Brokerage"
+            },
+            {
+                "name": "Reel Security"
+            }
+        ],
+        "plot": [
+            "A gritty 1960s cop drama about LAPD detective Sam Hodiak and his trainee, who must deal with gangs, brutal crimes, changing times, family crises and unhinged manipulative small-time crook Charles Manson, who's slowly building his cult.::Paul",
+            "Los Angeles, 1967. Welcome to the Summer of Love. _Aquarius_ (qv) stars David Duchovny as Sam Hodiak, a seasoned homicide detective whose investigations dovetail with the activities of real life cult leader Charles Manson in the years before he masterminded the most notorious killings of a generation, the Tate-LaBianca murders. A small time but charismatic leader with big plans, Manson has begun to build up his \"family\", recruiting vulnerable young men and women to join his cause. Teaming up with a young cop who will help him infiltrate Manson's circle, Hodiak is forced to see things through the questioning eyes of someone who came of age amongst the current anti-establishment counterculture. Edgy, addictive and visually stunning, the Age of _Aquarius_ (qv) is here.",
+            "Los Angeles of 1967 is only 2 years after the Watts Riots and in the midst of the Vietnam War. Street violence, curfews, counterculture, anti-Establishment protest, hippies, riots and tear gas, sit-ins, illegal drugs (and those yet to be scheduled), free love, anarchy and a deep, abiding hatred of \"pigs\" were a few of the issues faced by fictitional Detective Sam Hodiak and the harried LAPD. Then, in March, Charles Milles Manson was paroled from jail for the very last time to enjoy a reign of terror that has not been equaled in the annals of American crime.::LA-Lawyer"
+        ],
+        "tech": {
+            "runtime": [
+                "42 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Arri Alexa, Panavision Super Speed MKII, PCZ and Bausch & Lomb Super Baltar Lenses"
+            ],
+            "negative format": [
+                "SxS Pro"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (2K) (master format)",
+                "ProRes 4:2:2 HQ (1080p/24) (source format)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 9725,
+                "rating": 7.1
+            },
+            "aged under 18": {
+                "votes": 4,
+                "rating": 7.2
+            },
+            "aged 18 29": {
+                "votes": 1361,
+                "rating": 7.3
+            },
+            "aged 30 44": {
+                "votes": 3438,
+                "rating": 6.9
+            },
+            "aged 45 plus": {
+                "votes": 2190,
+                "rating": 7.0
+            },
+            "males": {
+                "votes": 5095,
+                "rating": 7.0
+            },
+            "males aged under 18": {
+                "votes": 3,
+                "rating": 7.3
+            },
+            "males aged 18 29": {
+                "votes": 915,
+                "rating": 7.3
+            },
+            "males aged 30 44": {
+                "votes": 2354,
+                "rating": 6.9
+            },
+            "males aged 45 plus": {
+                "votes": 1413,
+                "rating": 6.8
+            },
+            "females": {
+                "votes": 2382,
+                "rating": 7.2
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "females aged 18 29": {
+                "votes": 426,
+                "rating": 7.3
+            },
+            "females aged 30 44": {
+                "votes": 1026,
+                "rating": 7.0
+            },
+            "females aged 45 plus": {
+                "votes": 744,
+                "rating": 7.4
+            },
+            "top 1000 voters": {
+                "votes": 170,
+                "rating": 5.8
+            },
+            "us users": {
+                "votes": 1832,
+                "rating": 7.1
+            },
+            "non us users": {
+                "votes": 3554,
+                "rating": 6.9
+            }
+        },
+        "number of votes": {
+            "10": 1572,
+            "9": 1184,
+            "8": 2435,
+            "7": 2066,
+            "6": 1053,
+            "5": 553,
+            "4": 279,
+            "3": 159,
+            "2": 130,
+            "1": 294
+        },
+        "arithmetic mean": 7.4,
+        "median": 8
+    }
+}

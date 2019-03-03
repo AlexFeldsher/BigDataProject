@@ -1,0 +1,112 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "  2012"
+            },
+            {
+                "country": "Germany\n",
+                "date": "28 June 2012",
+                "notes": "                            (HDM Stuttgart Media Night)"
+            },
+            {
+                "country": "Romania\n",
+                "date": "27 October 2012",
+                "notes": "                            (Kinofest Film Festival, Bucharest, Romania)"
+            }
+        ],
+        "release dates": [
+            "Germany::2012",
+            "Germany::28 June 2012                            (HDM Stuttgart Media Night)",
+            "Romania::27 October 2012                            (Kinofest Film Festival, Bucharest, Romania)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Slimy Ventures (TV Mini-Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "genres": [
+            "Animation"
+        ],
+        "runtimes": [
+            "4"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "country codes": [
+            "de"
+        ],
+        "color info": [
+            "Color::(HD)"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo::(Stereo)"
+        ],
+        "original air date": "2012 (Germany)",
+        "number of seasons": 1,
+        "title": "Slimy Ventures",
+        "year": 2012,
+        "kind": "tv mini series",
+        "series years": "2012-",
+        "akas": [
+            "Slimy Ventures (Germany)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "director": [
+            {
+                "name": "Arlt, Christian"
+            },
+            {
+                "name": "Dengler, Verena"
+            },
+            {
+                "name": "Hauck, Tobias"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Hochschule der Medien"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CF-Studios"
+            }
+        ],
+        "plot": [
+            "The most intelligent and inventive creatures on earth - snails! What is it they invent? See for yourself.::Christian Arlt"
+        ],
+        "tech": {
+            "runtime": [
+                "4 min"
+            ],
+            "sound mix": [
+                "Stereo (Stereo)"
+            ],
+            "color": [
+                "Color (HD)"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

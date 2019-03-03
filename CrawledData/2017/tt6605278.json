@@ -1,0 +1,203 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "15 February 2017"
+            },
+            {
+                "country": "USA\n",
+                "date": "22 February 2017"
+            }
+        ],
+        "release dates": [
+            "USA::15 February 2017",
+            "USA::22 February 2017"
+        ],
+        "episodes": {
+            "1": {
+                "0": {
+                    "title": "Preview",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Crash Course: Computer Science (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 0,
+                    "original air date": "15 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "1": {
+                    "title": "Early Computing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Crash Course: Computer Science (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "22 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Electronic Computing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Crash Course: Computer Science (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "1 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Boolean Logic & Logic Gates",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Crash Course: Computer Science (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "8 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Philbin, Carrie Ann"
+            }
+        ],
+        "genres": [
+            "Documentary",
+            "Animation",
+            "History"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 7.9,
+        "votes": 7,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNTFjZmE1ZmQtZTBiNi00M2U3LWFhZjktMDM2NThlYTA3OTJiXkEyXkFqcGdeQXVyODQyNDI4ODg@._V1_SY150_CR87,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Crash Course: Computer Science",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-",
+        "akas": [
+            "Crash Course: Computer Science (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Harrison, Chris"
+            },
+            {
+                "name": "Ogan, Amy"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "PBS Digital Studios"
+            }
+        ],
+        "plot": [
+            "The elements of computer science and technology are explored.::Kenneth Chisholm"
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 7,
+                "rating": 7.9
+            },
+            "aged 18 29": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "aged 30 44": {
+                "votes": 2,
+                "rating": 9.5
+            },
+            "aged 45 plus": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "males": {
+                "votes": 3,
+                "rating": 9.0
+            },
+            "males aged 18 29": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "males aged 30 44": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "males aged 45 plus": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "females": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 30 44": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "top 1000 voters": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "non us users": {
+                "votes": 3,
+                "rating": 9.3
+            }
+        },
+        "number of votes": {
+            "10": 1,
+            "9": 3,
+            "8": 0,
+            "7": 0,
+            "6": 3,
+            "5": 0,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 0
+        },
+        "arithmetic mean": 7.9,
+        "median": 9
+    }
+}

@@ -1,0 +1,564 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Spain\n",
+                "date": "12 October 2017",
+                "notes": "                            (Sitges Film Festival)"
+            },
+            {
+                "country": "Spain\n",
+                "date": "27 October 2017"
+            },
+            {
+                "country": "Italy\n",
+                "date": "21 September 2018",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "Spain::12 October 2017                            (Sitges Film Festival)",
+            "Spain::27 October 2017",
+            "Italy::21 September 2018                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "La zona"
+            },
+            {
+                "countries": "Italy",
+                "title": "La zona"
+            },
+            {
+                "countries": "Russia",
+                "title": "Зона"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "The Zone"
+            }
+        ],
+        "akas": [
+            "La zona (original title)",
+            "La zona Italy",
+            "Зона Russia",
+            "The Zone World-wide (English title)"
+        ],
+        "akas from release info": [
+            "La zona (original title)",
+            "La zona Italy",
+            "Зона Russia",
+            "The Zone World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "En tierra de nadie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Zone (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 82,
+                    "original air date": "27 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Hace tres años, un reactor nuclear en el norte de España explotó y provocó la muerte de cientos de personas y la creación de una zona de exclusión. En el aniversario del accidente, un hombre es encontrado asesinado.    "
+                },
+                "2": {
+                    "title": "Control animal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Zone (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 56,
+                    "original air date": "2 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Héctor and his partner Martín aren't thrilled when a federal agent is assigned to their case. Is he there to cover up what they increasingly think the local government is trying to hide, or to help solve the killings?    "
+                },
+                "3": {
+                    "title": "El Balneario",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Zone (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 51,
+                    "original air date": "9 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Llena de culpa tras los errores cometidos durante el accidente nuclear hace tres años, sin autorización de sus superiores, Julia decide cerrar un colegio cuando los niveles de contaminación aumentan súbitamente.    "
+                },
+                "4": {
+                    "title": "Insomnio",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Zone (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 45,
+                    "original air date": "16 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Al tornarse más aparente que la empresa ARV, a cargo de la descontaminación de la zona, está involucrada en tratos turbios, Héctor y Alfredo están convencidos que esto es una pieza clave de la investigación.    "
+                },
+                "5": {
+                    "title": "La lluvia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Zone (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 37,
+                    "original air date": "23 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    While solving the murders, Héctor, Martín and Zoe for a pact to keep important information secret. Héctor, continues to uncover the conspiracy behind the decontamination of the zone.    "
+                },
+                "6": {
+                    "title": "El mal necesario",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Zone (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 36,
+                    "original air date": "30 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Héctor and Julia continue to close in on the answer to the question of why the decontamination company has been hunting down five of its workers who fled from their corporate apartments just before the first killing.    "
+                },
+                "7": {
+                    "title": "Pérdida accidental de refrigerante",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Zone (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 43,
+                    "original air date": "7 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    La verdadera historia de la fuga radioactiva en el reactor nuclear que provocó todas las muertes es revelada.    "
+                },
+                "8": {
+                    "title": "El último lobo",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Zone (TV Series 2017–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 30,
+                    "original air date": "14 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    Julia busca a los dos ingenieros que evitaron un segundo accidente nuclear al exponerse a dosis letales de radioactividad.    "
+                }
+            }
+        },
+        "number of episodes": 8,
+        "cast": [
+            {
+                "name": "Fernández, Eduard"
+            },
+            {
+                "name": "Cervantes, Álvaro"
+            },
+            {
+                "name": "Jiménez, Alexandra"
+            },
+            {
+                "name": "Galocha, Alba"
+            },
+            {
+                "name": "Solo, Manolo"
+            },
+            {
+                "name": "Salas, Marina"
+            },
+            {
+                "name": "Cantuel, María"
+            },
+            {
+                "name": "Zahera, Luis"
+            },
+            {
+                "name": "Sastre, Karlos"
+            },
+            {
+                "name": "Suárez, Emma"
+            },
+            {
+                "name": "Prada, Daniel Pérez"
+            },
+            {
+                "name": "Durà, Pau"
+            },
+            {
+                "name": "Kricunova, Oleg"
+            },
+            {
+                "name": "Novas, Tamar"
+            },
+            {
+                "name": "De los, Ana Riscos"
+            },
+            {
+                "name": "Peris-Mencheta, Sergio"
+            },
+            {
+                "name": "Echanove, Juan"
+            },
+            {
+                "name": "Bengoetxea, Josean"
+            },
+            {
+                "name": "Codina, Juan"
+            },
+            {
+                "name": "Bardem, Carlos"
+            },
+            {
+                "name": "Reina, Salva"
+            },
+            {
+                "name": "del Estal, Tomás"
+            },
+            {
+                "name": "Cuevas, Inma"
+            },
+            {
+                "name": "Gracia, Ana"
+            },
+            {
+                "name": "Palacios, Emilio"
+            },
+            {
+                "name": "Ramos, Gonzalo"
+            },
+            {
+                "name": "Brik, Maite"
+            },
+            {
+                "name": "Sánchez-Cabezudo, Fernando"
+            },
+            {
+                "name": "Vellido, Juan Carlos"
+            },
+            {
+                "name": "Jumillas, Daniel"
+            },
+            {
+                "name": "Gómez, Kike"
+            },
+            {
+                "name": "Elvira, Peio"
+            },
+            {
+                "name": "Aldanondo, Ainhoa"
+            },
+            {
+                "name": "Olmo, Francisco"
+            },
+            {
+                "name": "Velado, Óscar"
+            },
+            {
+                "name": "Lara, Juanma"
+            },
+            {
+                "name": "Bermejo, Luis"
+            },
+            {
+                "name": "Reixach, Fermí"
+            },
+            {
+                "name": "Gómez, Pilar"
+            },
+            {
+                "name": "Baeza, Fátima"
+            },
+            {
+                "name": "Lobato, José Antonio"
+            },
+            {
+                "name": "Lyczko, Maurycy"
+            },
+            {
+                "name": "Rodríguez, Alicia"
+            },
+            {
+                "name": "Toffana, Elio"
+            },
+            {
+                "name": "Alcarazu, Germán"
+            },
+            {
+                "name": "Benedicto, Sonsoles"
+            },
+            {
+                "name": "Torres, Leticia"
+            },
+            {
+                "name": "Arcarazo, Félix"
+            },
+            {
+                "name": "Olalla, Carlos"
+            },
+            {
+                "name": "Muriel, Jorge"
+            }
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime",
+            "Drama",
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "country codes": [
+            "es"
+        ],
+        "language codes": [
+            "es"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Spain:16",
+            "United States:TV-MA"
+        ],
+        "number of seasons": 1,
+        "rating": 6.8,
+        "votes": 532,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOWU1ZjRhYjAtOGUzYi00MDg5LTk1MWItNzRlOGFhZjk4MDBhXkEyXkFqcGdeQXVyNzg3NzY0NDk@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "After a nuclear accident in the north of Spain, a vast exclusion zone was set up to contain the risk of radioactive propagation. A series of murders leads Héctor, the police chief who survived the catastrophe, to embark on an investigation to find the culprit.",
+        "languages": [
+            "Spanish"
+        ],
+        "title": "The Zone",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-2018",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Sánchez-Cabezudo, Alberto"
+            },
+            {
+                "name": "Sánchez-Cabezudo, Jorge"
+            },
+            {
+                "name": "Pallarés, Laura Sarmiento"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Movistar+"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Movistar+"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Carger"
+            },
+            {
+                "name": "Cherokee Luz Lighting"
+            },
+            {
+                "name": "Cinevent"
+            },
+            {
+                "name": "Comesa Catering"
+            },
+            {
+                "name": "Eclair"
+            },
+            {
+                "name": "Efe-X"
+            },
+            {
+                "name": "El Cañonazo Transmedia"
+            },
+            {
+                "name": "Elamedia Estudios"
+            },
+            {
+                "name": "Energy Services"
+            },
+            {
+                "name": "Iván Armesto"
+            },
+            {
+                "name": "Legiscine"
+            },
+            {
+                "name": "Menos Doce"
+            },
+            {
+                "name": "Mundo Crane S.L."
+            },
+            {
+                "name": "Personal 7"
+            },
+            {
+                "name": "Risc XXI"
+            },
+            {
+                "name": "Sound Troop"
+            },
+            {
+                "name": "Sound Troop"
+            },
+            {
+                "name": "Toboggan"
+            },
+            {
+                "name": "Twin Pines"
+            },
+            {
+                "name": "Un Burro de Cine"
+            },
+            {
+                "name": "WhyOnSet"
+            }
+        ],
+        "plot": [
+            "After a nuclear accident in the north of Spain, a vast exclusion zone was set up to contain the risk of radioactive propagation. A series of murders leads Héctor, the police chief who survived the catastrophe, to embark on an investigation to find the culprit.::Movistar+",
+            "After a nuclear accident in the north of Spain, a vast exclusion zone was set up to contain the risk of radioactive propagation. Survivors have been rehoused in a new city 50 km away from the power plant. A series of murders lead Héctor, the police chief who survived the catastrophe to embark on an investigation to find the culprit. The problem is that, while doing this, he discovers many other things. After the disaster, reality changes forever.",
+            "What would happen if there were a nuclear accident in Spain? This is what 'La zona', the Movistar + series, tells us about what happens to people who live inside the exclusion zone around a nuclear power plant where an incident has occurred. This crime genre fiction happens nowadays and takes place in the north of the country. Hector, played by Eduard Fernández, begins an investigation as a result of a crime in the exclusion zone and will travel the universe from the terrible accident. The researcher has experienced the nuclear disaster in the first person. Hector was unharmed, but his son did not have the same luck, as he was demonstrating against nuclear power."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 532,
+                "rating": 6.8
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 10.0
+            },
+            "aged 18 29": {
+                "votes": 48,
+                "rating": 7.4
+            },
+            "aged 30 44": {
+                "votes": 189,
+                "rating": 6.7
+            },
+            "aged 45 plus": {
+                "votes": 117,
+                "rating": 6.5
+            },
+            "males": {
+                "votes": 317,
+                "rating": 6.7
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 18 29": {
+                "votes": 34,
+                "rating": 7.1
+            },
+            "males aged 30 44": {
+                "votes": 155,
+                "rating": 6.6
+            },
+            "males aged 45 plus": {
+                "votes": 94,
+                "rating": 6.6
+            },
+            "females": {
+                "votes": 53,
+                "rating": 7.1
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 18 29": {
+                "votes": 12,
+                "rating": 8.2
+            },
+            "females aged 30 44": {
+                "votes": 19,
+                "rating": 7.7
+            },
+            "females aged 45 plus": {
+                "votes": 18,
+                "rating": 6.0
+            },
+            "top 1000 voters": {
+                "votes": 13,
+                "rating": 6.3
+            },
+            "us users": {
+                "votes": 19,
+                "rating": 6.5
+            },
+            "non us users": {
+                "votes": 272,
+                "rating": 6.7
+            }
+        },
+        "number of votes": {
+            "10": 88,
+            "9": 44,
+            "8": 98,
+            "7": 132,
+            "6": 84,
+            "5": 50,
+            "4": 11,
+            "3": 11,
+            "2": 4,
+            "1": 10
+        },
+        "arithmetic mean": 7.2,
+        "median": 7
+    }
+}

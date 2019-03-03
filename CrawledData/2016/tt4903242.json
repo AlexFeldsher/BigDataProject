@@ -1,0 +1,984 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "11 April 2016"
+            },
+            {
+                "country": "Germany\n",
+                "date": "3 June 2016"
+            }
+        ],
+        "release dates": [
+            "USA::11 April 2016",
+            "Germany::3 June 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Detour"
+            },
+            {
+                "countries": "Poland",
+                "title": "Objazd"
+            },
+            {
+                "countries": "Russia",
+                "title": "В объезд"
+            },
+            {
+                "countries": "Spain",
+                "title": "Desviados"
+            },
+            {
+                "countries": "USA",
+                "title": "The Detour"
+            }
+        ],
+        "akas": [
+            "The Detour (original title)",
+            "Objazd Poland",
+            "В объезд Russia",
+            "Desviados Spain",
+            "The Detour USA"
+        ],
+        "akas from release info": [
+            "The Detour (original title)",
+            "Objazd Poland",
+            "В объезд Russia",
+            "Desviados Spain",
+            "The Detour USA"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "The Run",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 90,
+                    "original air date": "23 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    After a year on the lam across the continental US, the Parkers finally settle into the last place anyone will be looking for them. Alaska. But their lies and deceits soon come back to haunt them.    "
+                },
+                "2": {
+                    "title": "The Stop",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 75,
+                    "original air date": "30 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Between the children hitting puberty and Robin's long work hours and incessant partying, Nate struggles with his new role as stay-at-home father.    "
+                },
+                "3": {
+                    "title": "The Mark",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 74,
+                    "original air date": "6 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Edie continues to surveil the Parkers and is looking for the stupidest member of the family to get close to.    "
+                },
+                "4": {
+                    "title": "The Goal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 66,
+                    "original air date": "13 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Edie goes undercover as an assistant coach to Nate on the kids hockey team. Delilah finds Edie's investigation notes and interprets them incorrectly.    "
+                },
+                "5": {
+                    "title": "The Boat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 70,
+                    "original air date": "20 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Nate wants to provide the family a new house, and works on a fishing trawler for the money. The work is hard, experienced fishermen bully him as the new guy, and the pay is less than great. So, he has to get creative.    "
+                },
+                "6": {
+                    "title": "The Vows",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 64,
+                    "original air date": "27 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Nate returns from seven grueling, smelly months on the fishing boat to find his new home and preparations for his wedding.    "
+                },
+                "7": {
+                    "title": "The Water",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 67,
+                    "original air date": "6 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    A look back at Robin and Nate's first vacation together. A trip to the tropics and their first time alone since the kids were born. Spoiler Alert. They have an awful time.    "
+                },
+                "8": {
+                    "title": "The Plane",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 62,
+                    "original air date": "13 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Nate uncovers Edie's investigation and gathers his family, plus a pilot, to escape. The pilot becomes incapacitated during the flight.    "
+                },
+                "9": {
+                    "title": "The Funeral",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 60,
+                    "original air date": "20 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    The plane crashes in the Alaskan wilderness, forcing the family to cooperate to survive. Edie mounts a mission to rescue them and complete her investigation successfully.    "
+                },
+                "10": {
+                    "title": "The Escape",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 62,
+                    "original air date": "27 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    The Parkers finally happen upon help in an abandoned Ghost town which is filled with deadly serious Pacific Rim LARPERS.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "The Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 249,
+                    "original air date": "11 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Family skips plane ride and drives to vacation spot. Big mistake.    "
+                },
+                "2": {
+                    "title": "The Hotel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 200,
+                    "original air date": "11 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Having driven their van, 'Blue Thunder', into a ditch, it has to be repaired over-night. The Parkers stay at a nearby motel, Swift Stay Suites. What could possibly go right?    "
+                },
+                "3": {
+                    "title": "The Tank",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 165,
+                    "original air date": "18 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Nate gets pulled over for driving under the influence, even though he's completely sober.    "
+                },
+                "4": {
+                    "title": "The Restaurant",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 187,
+                    "original air date": "25 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    The Parkers begrudgingly stop to eat at a culturally insensitive roadside restaurant and dinner theater.    "
+                },
+                "5": {
+                    "title": "The B&B",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 169,
+                    "original air date": "2 May 2016",
+                    "year": "2016",
+                    "plot": "\n    The kids recover from food poisoning at a bed and breakfast with southern hospitality and Russian vodka.    "
+                },
+                "6": {
+                    "title": "The Wedding",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 148,
+                    "original air date": "9 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Robin agrees to marry the southern gentleman Dr. Rob and his Russian bride, but she realizes something is very wrong.    "
+                },
+                "7": {
+                    "title": "The Road",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 135,
+                    "original air date": "16 May 2016",
+                    "year": "2016",
+                    "plot": "\n    While stuck in traffic, Nate and Robin reminisce about when they met.    "
+                },
+                "8": {
+                    "title": "The Drop",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 136,
+                    "original air date": "23 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Nate takes a detour to Salvation, Florida, where it's Christmas year-round; the family discovers Nate has been lying to them.    "
+                },
+                "9": {
+                    "title": "The Track",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 123,
+                    "original air date": "30 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Nate's plan to get his job back unravels once they arrive; a nearby race track offers hope.    "
+                },
+                "10": {
+                    "title": "The Beach",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 119,
+                    "original air date": "30 May 2016",
+                    "year": "2016",
+                    "plot": "\n    The Parkers try to take down Nate's company through whistle blowing.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "The City",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 115,
+                    "original air date": "21 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Nate is offered a new job in New York City, so the family moves from Syracuse to the Big Apple. Robin isn't thrilled about the idea. And of course, getting there will be way harder than it should be.    "
+                },
+                "2": {
+                    "title": "The Club",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 106,
+                    "original air date": "21 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Robin's ex Carlos lures her back into their wild past with a visit to the club where they used to party, and Nate gets jealous. The kids meet Nate's new boss.    "
+                },
+                "3": {
+                    "title": "The Tub",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 116,
+                    "original air date": "28 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    As Nate and Robin contemplate having another baby, a neighbor's casual get-together turns into a home birth. And Delilah learns what it means to be a third wheel.    "
+                },
+                "4": {
+                    "title": "The Court",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 98,
+                    "original air date": "7 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Robin attempts to get a divorce from Carlos, but he has other ideas. She's also forced to come clean about her past in the city.    "
+                },
+                "5": {
+                    "title": "The Birth",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 94,
+                    "original air date": "14 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Ever wondered what happened the night the twins were born? Here's a taste: Halloween, drunk Nate, unhappy Robin and Gene dressed as Napoleon Dynamite.    "
+                },
+                "6": {
+                    "title": "The Tournament",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 86,
+                    "original air date": "21 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    At Delilah's taekwondo tournament, Nate has to have a tough conversation with Jared and an even tougher one with Carlos.    "
+                },
+                "7": {
+                    "title": "The Heat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 93,
+                    "original air date": "28 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    The Parkers settle into a seemingly normal New York City routine, but they're being surveilled by Federal agents who see much more than they intended to.    "
+                },
+                "8": {
+                    "title": "The Job",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 83,
+                    "original air date": "4 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Faced with the threat of losing his job, Nate tries to land a new customer and brings the family along.    "
+                },
+                "9": {
+                    "title": "The Dilemma",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 73,
+                    "original air date": "11 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Robin confronts her past and makes a decision about her future, while Jared and Delilah perform in a talent show.    "
+                },
+                "10": {
+                    "title": "The Trip",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 73,
+                    "original air date": "18 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    New York to Florida in a janky van? This sounds familiar. But this time there's no stopping as Robin and Nate make record time to get to the kids.    "
+                },
+                "11": {
+                    "title": "The Mule",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 72,
+                    "original air date": "25 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Robin and Nate live out their (mostly Nate's) action movie fantasies as they make their way to the kids, who are actually doing just fine without them.    "
+                },
+                "12": {
+                    "title": "The Ass",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 74,
+                    "original air date": "25 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    The family is reunited, but this time it's Robin who makes a huge mistake.    "
+                }
+            },
+            "4": {
+                "1": {
+                    "title": "Episode #4.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Episode #4.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Episode #4.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "The BJ",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 4,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Episode #4.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 5,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Episode #4.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 6,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "The Entertainer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 7,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "The Same",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 8,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "The Bride",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 9,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "The Groom",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Detour (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 10,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 42,
+        "cast": [
+            {
+                "name": "Jones, Jason"
+            },
+            {
+                "name": "Zea, Natalie"
+            },
+            {
+                "name": "Gerasimovich, Ashley"
+            },
+            {
+                "name": "Carroll, Liam"
+            },
+            {
+                "name": "Pineda, Daniella"
+            },
+            {
+                "name": "Benanti, Laura"
+            },
+            {
+                "name": "Casella, Max"
+            },
+            {
+                "name": "Grill, Mary"
+            },
+            {
+                "name": "Athie, Mamoudou"
+            },
+            {
+                "name": "Reeves, Phil"
+            },
+            {
+                "name": "Cromwell, James"
+            },
+            {
+                "name": "Parise, Jeffrey Vincent"
+            },
+            {
+                "name": "Koon, Rebecca"
+            },
+            {
+                "name": "Cooper, Darin"
+            },
+            {
+                "name": "Foster, Vince"
+            },
+            {
+                "name": "Shivji, Jameel"
+            },
+            {
+                "name": "Korey, Tinsel"
+            },
+            {
+                "name": "Blumenkrantz, Jeff"
+            },
+            {
+                "name": "Dee, Deja"
+            },
+            {
+                "name": "Glick, Gideon"
+            },
+            {
+                "name": "Amandes, Tom"
+            },
+            {
+                "name": "Pressman, Sally"
+            },
+            {
+                "name": "Kowalski, Taylor"
+            },
+            {
+                "name": "Hopkins, Donshea"
+            },
+            {
+                "name": "Hugot, Marceline"
+            },
+            {
+                "name": "McGough, Heath"
+            },
+            {
+                "name": "Ganey, Catrina"
+            },
+            {
+                "name": "Greene, Graham"
+            },
+            {
+                "name": "Cañez, Teddy"
+            },
+            {
+                "name": "Boyer, Adam"
+            },
+            {
+                "name": "Isler, Denitra"
+            },
+            {
+                "name": "Kraft, Mary"
+            },
+            {
+                "name": "Kopsa, Michael"
+            },
+            {
+                "name": "McCulloch, Paige"
+            },
+            {
+                "name": "Corrigan, Sarah"
+            },
+            {
+                "name": "Handerhan, Meredith"
+            },
+            {
+                "name": "Bee-Jones, Fletcher"
+            },
+            {
+                "name": "Shiels, Amy"
+            },
+            {
+                "name": "Gatsby, Petar"
+            },
+            {
+                "name": "Klassen, Stass"
+            },
+            {
+                "name": "Zere, Robel"
+            },
+            {
+                "name": "Jobrani, Maz"
+            },
+            {
+                "name": "Reinhold, Judge"
+            },
+            {
+                "name": "King, Erik"
+            },
+            {
+                "name": "Rosati, Weronika"
+            },
+            {
+                "name": "Pinsent, Gordon"
+            },
+            {
+                "name": "Lewis, Angelina"
+            },
+            {
+                "name": "Guerra, Saverio"
+            },
+            {
+                "name": "Caparas, Wayne"
+            },
+            {
+                "name": "Cuneo, Paul"
+            }
+        ],
+        "locations": [
+            "Georgia, USA",
+            "Atlanta, Georgia, USA::(season 1)",
+            "New York City, New York, USA::(season 2)"
+        ],
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Spain:12",
+            "United States:TV-MA"
+        ],
+        "number of seasons": 4,
+        "rating": 7.8,
+        "votes": 4671,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjEwNjc4MzY4NF5BMl5BanBnXkFtZTgwOTY2NjA0NDM@._V1_SY150_CR1,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Detour",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "writer": [
+            {
+                "name": "Bee, Samantha"
+            },
+            {
+                "name": "Jones, Jason"
+            },
+            {
+                "name": "Lacher, Jess"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "TBS Productions Inc."
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Turner Broadcasting System (TBS)"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Mechanism Digital"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Brauer & Co."
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Diving Services Dominican Republic"
+            },
+            {
+                "name": "Hanna Brothers Film & Event Catering"
+            },
+            {
+                "name": "Lantica Media"
+            },
+            {
+                "name": "Pinewood Dominican Republic Studios"
+            },
+            {
+                "name": "Post Production Inc."
+            },
+            {
+                "name": "Production Services of GA aka: Event Services of GA"
+            }
+        ],
+        "plot": [
+            "A contemporary father takes his family on a road trip across America, but a set of crazy, unforeseen circumstances causes them to end up on the run from the FBI."
+        ],
+        "tech": {
+            "runtime": [
+                "30 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 4671,
+                "rating": 7.8
+            },
+            "aged under 18": {
+                "votes": 4,
+                "rating": 6.5
+            },
+            "aged 18 29": {
+                "votes": 648,
+                "rating": 7.9
+            },
+            "aged 30 44": {
+                "votes": 1660,
+                "rating": 7.7
+            },
+            "aged 45 plus": {
+                "votes": 899,
+                "rating": 7.5
+            },
+            "males": {
+                "votes": 2720,
+                "rating": 7.8
+            },
+            "males aged under 18": {
+                "votes": 3,
+                "rating": 5.3
+            },
+            "males aged 18 29": {
+                "votes": 497,
+                "rating": 7.9
+            },
+            "males aged 30 44": {
+                "votes": 1281,
+                "rating": 7.7
+            },
+            "males aged 45 plus": {
+                "votes": 697,
+                "rating": 7.5
+            },
+            "females": {
+                "votes": 746,
+                "rating": 7.7
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 18 29": {
+                "votes": 141,
+                "rating": 8.0
+            },
+            "females aged 30 44": {
+                "votes": 357,
+                "rating": 7.6
+            },
+            "females aged 45 plus": {
+                "votes": 190,
+                "rating": 7.4
+            },
+            "top 1000 voters": {
+                "votes": 86,
+                "rating": 6.4
+            },
+            "us users": {
+                "votes": 1455,
+                "rating": 7.8
+            },
+            "non us users": {
+                "votes": 1156,
+                "rating": 7.5
+            }
+        },
+        "number of votes": {
+            "10": 1075,
+            "9": 997,
+            "8": 1249,
+            "7": 641,
+            "6": 227,
+            "5": 121,
+            "4": 55,
+            "3": 43,
+            "2": 46,
+            "1": 217
+        },
+        "arithmetic mean": 7.9,
+        "median": 8
+    }
+}

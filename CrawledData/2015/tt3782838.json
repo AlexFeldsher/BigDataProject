@@ -1,0 +1,484 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "25 January 2015"
+            },
+            {
+                "country": "Italy\n",
+                "date": "3 March 2015"
+            },
+            {
+                "country": "UK\n",
+                "date": "2 June 2015"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "4 January 2016",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "11 January 2016",
+                "notes": "                            (part 2)"
+            }
+        ],
+        "release dates": [
+            "USA::25 January 2015",
+            "Italy::3 March 2015",
+            "UK::2 June 2015",
+            "Netherlands::4 January 2016                            (part 1)",
+            "Netherlands::11 January 2016                            (part 2)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Sons of Liberty"
+            },
+            {
+                "countries": "Brazil (Portuguese title)",
+                "title": "Filhos da Liberdade"
+            },
+            {
+                "countries": "Russia",
+                "title": "Сыны свободы"
+            },
+            {
+                "countries": "USA",
+                "title": "Sons of Liberty"
+            }
+        ],
+        "akas": [
+            "Sons of Liberty (original title)",
+            "Filhos da Liberdade Brazil (Portuguese title)",
+            "Сыны свободы Russia",
+            "Sons of Liberty USA"
+        ],
+        "akas from release info": [
+            "Sons of Liberty (original title)",
+            "Filhos da Liberdade Brazil (Portuguese title)",
+            "Сыны свободы Russia",
+            "Sons of Liberty USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "A Dangerous Game",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Liberty (TV Mini-Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 185,
+                    "original air date": "25 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Sam Adams angers the British after his actions lead to the destruction of the royal governor's mansion; Sam and John Hancock establish a black-market smuggling operation; the conflict escalates following a boy's murder.    "
+                },
+                "2": {
+                    "title": "The Uprising",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Liberty (TV Mini-Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 162,
+                    "original air date": "26 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    British troops battle American colonists. Paul Revere sets off on his legendary midnight ride.    "
+                },
+                "3": {
+                    "title": "Independence",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Liberty (TV Mini-Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 168,
+                    "original air date": "27 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    As Sam Adams and John Hancock barely manage to escape, the superior British Royal Army massacres the rest of colonial militia at the famed Battle of Lexington. The two forces clash again at Concord, forcing the British to retreat back to Boston. While both sides prepare for an inevitable war, Sam and Hancock work with Ben Franklin to desperately convince the rest of the colonial representatives in Congress to support their cause--independence. When General Thomas Gage learns of his wife Margaret's affair with Sam's friend, Dr. Joseph Warren, Gage launches a full-out ...    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Barnes, Ben"
+            },
+            {
+                "name": "Csokas, Marton"
+            },
+            {
+                "name": "Eggold, Ryan"
+            },
+            {
+                "name": "Thomas, Henry"
+            },
+            {
+                "name": "Raymond-James, Michael"
+            },
+            {
+                "name": "Spall, Rafe"
+            },
+            {
+                "name": "O'Mara, Jason"
+            },
+            {
+                "name": "Norris, Dean"
+            },
+            {
+                "name": "Taylor, Shane"
+            },
+            {
+                "name": "Berrington, Emily"
+            },
+            {
+                "name": "Ryan, Kevin"
+            },
+            {
+                "name": "Murtagh, Diarmaid"
+            },
+            {
+                "name": "Connolly, Darren"
+            },
+            {
+                "name": "Heffernan, John"
+            },
+            {
+                "name": "Iacoban, Radu"
+            },
+            {
+                "name": "Lipper, David"
+            },
+            {
+                "name": "Pleavin, Andrew"
+            },
+            {
+                "name": "Stefan, Denis"
+            },
+            {
+                "name": "Gilder, Sean"
+            },
+            {
+                "name": "Fraser, Hadley"
+            },
+            {
+                "name": "Lewis, Daisy"
+            },
+            {
+                "name": "Sciueref, Christopher"
+            },
+            {
+                "name": "Shrapnel, Lex"
+            },
+            {
+                "name": "Grama, Ionut"
+            },
+            {
+                "name": "Akingbola, Jimmy"
+            },
+            {
+                "name": "Bottomley, Samuel"
+            },
+            {
+                "name": "Carter, Billy"
+            },
+            {
+                "name": "Clancy, Matthew"
+            },
+            {
+                "name": "Dandenault, Edith"
+            },
+            {
+                "name": "Fox, Grahame"
+            },
+            {
+                "name": "Fredenburgh, Dan"
+            },
+            {
+                "name": "Guttenberg, Steve"
+            },
+            {
+                "name": "Jenn, Michael"
+            },
+            {
+                "name": "Lewis, Daisy"
+            },
+            {
+                "name": "Marinescu, Alexandra"
+            },
+            {
+                "name": "Micu, Radu Andrei"
+            },
+            {
+                "name": "Nita, Olivia"
+            },
+            {
+                "name": "Olteanu, Claudiu"
+            },
+            {
+                "name": "Redford, Sam"
+            },
+            {
+                "name": "Sherwood, Richard"
+            },
+            {
+                "name": "Trandafir, Claudiu"
+            },
+            {
+                "name": "Visan, Daniel"
+            }
+        ],
+        "locations": [
+            "Romania",
+            "MediaPro Studios, Bucharest, Romania"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "runtimes": [
+            "270"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Netherlands:16",
+            "Norway:15::(TV rating)",
+            "United States:TV-14"
+        ],
+        "original air date": "25 Jan 2015 (USA)",
+        "number of seasons": 1,
+        "rating": 7.6,
+        "votes": 3523,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BODMzMTM5MzAyNl5BMl5BanBnXkFtZTgwNjQ3MDUxNDE@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Sons of Liberty",
+        "year": 2015,
+        "kind": "tv mini series",
+        "series years": "2015-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "David, Stephen"
+            },
+            {
+                "name": "Ellis, Kirk"
+            },
+            {
+                "name": "Herrmann, Zachary"
+            }
+        ],
+        "director": [
+            {
+                "name": "Skogland, Kari"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Stephen David Entertainment"
+            },
+            {
+                "name": "History Channel"
+            },
+            {
+                "name": "A+E Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "History Channel"
+            },
+            {
+                "name": "FOX"
+            },
+            {
+                "name": "History"
+            },
+            {
+                "name": "Special Broadcasting Service (SBS)"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Brainstorm Digital"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Bleeding Fingers Custom Music Shop"
+            },
+            {
+                "name": "Stillking Films"
+            },
+            {
+                "name": "A+E Studios"
+            },
+            {
+                "name": "International Alliance of Theatrical Stage Employees (IATSE)"
+            },
+            {
+                "name": "New York State Governor's Office for Motion Picture & Television Development"
+            },
+            {
+                "name": "Central Casting Romania"
+            },
+            {
+                "name": "Digital Cube"
+            },
+            {
+                "name": "Digital Cube"
+            },
+            {
+                "name": "Pegasus Supply-chain Solutions"
+            },
+            {
+                "name": "Pivotal Post"
+            },
+            {
+                "name": "Trevanna Post"
+            }
+        ],
+        "plot": [
+            "The story of a group of very different men fighting in the American Colonies for freedom, and how they will shape the future for the United States of America. Based on true stories."
+        ],
+        "tech": {
+            "runtime": [
+                "4 hr 30 min (270 min) (approx)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Arri Alexa XT",
+                "Black Magic 2K",
+                "Black Magic 4K"
+            ],
+            "negative format": [
+                "SxS Pro"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (2K) (master format)",
+                "ProRes 422 (1080/23.976p) (source format)"
+            ],
+            "printed film format": [
+                "Digital (HD)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3523,
+                "rating": 7.6
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "aged 18 29": {
+                "votes": 541,
+                "rating": 7.7
+            },
+            "aged 30 44": {
+                "votes": 1087,
+                "rating": 7.5
+            },
+            "aged 45 plus": {
+                "votes": 926,
+                "rating": 7.5
+            },
+            "males": {
+                "votes": 1929,
+                "rating": 7.4
+            },
+            "males aged 18 29": {
+                "votes": 362,
+                "rating": 7.5
+            },
+            "males aged 30 44": {
+                "votes": 784,
+                "rating": 7.4
+            },
+            "males aged 45 plus": {
+                "votes": 629,
+                "rating": 7.2
+            },
+            "females": {
+                "votes": 797,
+                "rating": 8.0
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "females aged 18 29": {
+                "votes": 171,
+                "rating": 8.0
+            },
+            "females aged 30 44": {
+                "votes": 286,
+                "rating": 7.8
+            },
+            "females aged 45 plus": {
+                "votes": 284,
+                "rating": 8.1
+            },
+            "top 1000 voters": {
+                "votes": 63,
+                "rating": 6.6
+            },
+            "us users": {
+                "votes": 1208,
+                "rating": 7.6
+            },
+            "non us users": {
+                "votes": 751,
+                "rating": 7.2
+            }
+        },
+        "number of votes": {
+            "10": 859,
+            "9": 561,
+            "8": 820,
+            "7": 597,
+            "6": 203,
+            "5": 124,
+            "4": 74,
+            "3": 72,
+            "2": 63,
+            "1": 150
+        },
+        "arithmetic mean": 7.7,
+        "median": 8
+    }
+}

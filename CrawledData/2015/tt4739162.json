@@ -1,0 +1,528 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Australia\n",
+                "date": "August 2015"
+            },
+            {
+                "country": "Australia\n",
+                "date": "26 August 2015"
+            },
+            {
+                "country": "Italy\n",
+                "date": "November 2015"
+            },
+            {
+                "country": "India\n",
+                "date": "January 2016"
+            },
+            {
+                "country": "USA\n",
+                "date": "January 2016"
+            },
+            {
+                "country": "UK\n",
+                "date": "February 2016"
+            },
+            {
+                "country": "Romania\n",
+                "date": "April 2016"
+            }
+        ],
+        "release dates": [
+            "Australia::August 2015",
+            "Australia::26 August 2015",
+            "Italy::November 2015",
+            "India::January 2016",
+            "USA::January 2016",
+            "UK::February 2016",
+            "Romania::April 2016"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Queen Margaret",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "16 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    \"Was't you that revell'd in our parliament, and made a preachment of your high descent?\" Meet Shakespeare Republic's \"Margaret\", played by Stephen Costan, as he revels in his defeat of the rebel York in a dystopian near future, complete with kingly feast. \"Off with the crown, and with the crown his head\"    "
+                },
+                "2": {
+                    "title": "Edmund",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "original air date": "11 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    \"Thou, nature, art my goddess; to thy law My services are bound.\" Meet Shakespeare Republic's \"Edmund\", played by Falon Ryan, as she wrests with the complexities of the word \"legitimate\" as a woman looking for her place in a male-dominated world.    "
+                },
+                "3": {
+                    "title": "Thomas More",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "18 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    \"Imagine that you see the wretched strangers, their babies at their backs ...\" Meet Shakespeare Republic's \"Thomas More\", played by Christopher Kirby, as he tries to convince a group of parliamentary peers the errors of their ways. \"What do you do to your souls in doing this?\"    "
+                },
+                "4": {
+                    "title": "Viola",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "original air date": "25 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    \"I left no ring with her. What means this lady?\" Meet Shakespeare Republic's \"Viola\", played by Nadine Garner, as she navigates the world of love and gender fluidity in Shakespeare's \"Twelfth Night\". \"O time, thou must untangle this, not I. It is too hard a knot for me t'untie\"    "
+                },
+                "5": {
+                    "title": "Katherina",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "original air date": "1 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Meet Shakespeare Republic's \"Katherina\", played by Wahibe Moussa, as she faces the realities of being a woman in a man's world and who has learned to dance to the tune of politics to get what she most desires.    "
+                },
+                "6": {
+                    "title": "Henry V",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "original air date": "8 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    \"Once more unto the breach, dear friends, once more ...\" Meet Shakespeare Republic's \"Henry V\", played by Billy Smedley, as he faces not just the enemy, but the anxieties of his men at a time when he needs them most. \"The game's afoot ...\"    "
+                },
+                "7": {
+                    "title": "Hamlet",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "original air date": "15 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    \"I have of late, though know not why, lost all my mirth ...\" Meet Shakespeare Republic's \"Hamlet\", played by Michala Banas, as she faces the realization that no matter how much you appear to have, you are, in the end, only human. \"What is this quintessence of dust?\"    "
+                },
+                "8": {
+                    "title": "Jaques",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "original air date": "22 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    \"All the world's a stage and all the men and women merely players ...\" Meet Shakespeare Republic's \"Jaques\" played by Alan Fletcher as he discovers that being the life of the party isn't always as easy as it appears. \" - one man in his time plays many parts, His acts being seven ages.\"    "
+                },
+                "9": {
+                    "title": "Cleopatra",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "original air date": "1 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    \"All's but naught ...\" Meet Shakespeare Republic's \"Cleopatra\" played by Tariro Mavondo as she faces the loss of the man who gave her strength and was taken too soon from her side. \" - This case of that huge spirit now is cold ...\"    "
+                },
+                "10": {
+                    "title": "Helena",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "original air date": "8 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    \"I love your son\". Meet Shakespeare Republic's \"Helena\" played by Shane Savage as he is forced into a confession of love for a man he knows may never love him back to the woman who is both the object of his affections' mother and his direct employer. \"Do not hate me for loving where you do ...\"    "
+                },
+                "11": {
+                    "title": "Sebastian",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "original air date": "15 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    \"My stars shine darkly over me ...\" Meet Shakespeare Republic's \"Sebastian\" played by Phoebe Anne Taylor as she faces the loss of her sister and the consequences of now being all alone in the world. \" - mine eyes will tell tales of me.\"    "
+                },
+                "12": {
+                    "title": "Beatrice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "original air date": "22 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    \"Too cursed is more than cursed ...\" Meet Shakespeare Republic's \"Beatrice\" played by Sally McLean - a rebel with a love of life and penchant for parties, who, despite her fine dresses, high heels and glamourous lifestyle knows a woman is more than the sum of her parts. \" - Father, as it please me.\"    "
+                },
+                "13": {
+                    "title": "Iago",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "original air date": "29 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    \"I follow him to serve my turn upon him ...\" Meet Shakespeare Republic's \"Iago\" played by Dean Haglund as he plots his revenge - scheming in plain sight like the viper in the blossom. \" - I am not what I am.\"    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Macbeth",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "26 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    \"If it were done when 'tis done, then 'twere well it were done quickly ...\" Come on a journey into the darker recesses of human ambition as we meet a modern day, but equally murderous Macbeth as he wrestles with his conscience in a dilemma all too familiar to the Australian public. \"I have no spur to prick the sides of my intent, only vaulting ambition ...\"    "
+                },
+                "2": {
+                    "title": "Hamlet",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "2 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    Hamlet suspects his uncle has murdered his father to claim the throne of Denmark and the hand of Hamlet's mother, but the prince cannot decide whether or not he should take vengeance.    "
+                },
+                "3": {
+                    "title": "Hamlet",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "9 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    \"Speak the speech, I pray you ...\" An imagined meeting behind the scenes at the highest level as we meet Hamlet played by Billy Smedley (Miss Fisher's Murder Mysteries) giving us a taste of what it must be like to be a political media adviser in the current climate. \" - to show virtue her own feature, scorn her own image, and the very age and body of the time his form and pressure.\"    "
+                },
+                "4": {
+                    "title": "Juliet",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "16 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    \"O Romeo, Romeo. Wherefore art thou, Romeo?\" Meet our \"Jules\" played by Ben Steel (Home and Away, Winners and Losers) who gives us an insight into how modern romance operates, glitches and all, in a digital age. \"Deny thy father and refuse thy name.\"    "
+                },
+                "5": {
+                    "title": "Phebe",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "23 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    \"Think not I love him though I ask for him ...\" Meet Phebe, played by Michala Banas (Upper Middle Bogan, Nowhere Boys), as she gives us an uncomfortable insight into unrequited romantic obsession and the dangers of having access to modern communication devices when one too many alcoholic drinks have been imbibed. \"I will write to him a very taunting letter ...\"    "
+                },
+                "6": {
+                    "title": "Billie",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Shakespeare Republic (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "30 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    \"Shall I compare thee to a summer's day?\" And so, all good things must come to an end. In our final episode for Season One of Shakespeare Republic, meet Billie, played by Sally McLean (Utopia), as she shares with us arguably Shakespeare's most famous sonnet in a truly Australian setting - with a factual twist. \"But thy eternal summer shall not fade ...\"    "
+                }
+            }
+        },
+        "number of episodes": 19,
+        "cast": [
+            {
+                "name": "Smedley, Billy"
+            },
+            {
+                "name": "Fletcher, Alan"
+            },
+            {
+                "name": "Kirby, Christopher"
+            },
+            {
+                "name": "Moussa, Wahibe"
+            },
+            {
+                "name": "Banas, Michala"
+            },
+            {
+                "name": "McLean, Sally"
+            },
+            {
+                "name": "Haglund, Dean"
+            },
+            {
+                "name": "Jackson, Ethan"
+            },
+            {
+                "name": "Ryan, Falon"
+            },
+            {
+                "name": "Savage, Shane"
+            },
+            {
+                "name": "Schansemma, Jahran"
+            },
+            {
+                "name": "Hutson, Rowena"
+            },
+            {
+                "name": "Steel, Ben"
+            },
+            {
+                "name": "Costan, Stephen"
+            },
+            {
+                "name": "Garner, Nadine"
+            },
+            {
+                "name": "Hannah, Jamie"
+            },
+            {
+                "name": "Loko, Vuyo"
+            },
+            {
+                "name": "Malcolm, Troy"
+            },
+            {
+                "name": "Mann, Amjinder"
+            },
+            {
+                "name": "Martin, Faran"
+            },
+            {
+                "name": "Martin, Jessica"
+            },
+            {
+                "name": "Mavondo, Tariro"
+            },
+            {
+                "name": "McLean, Taylah"
+            },
+            {
+                "name": "Penn, Sarah"
+            },
+            {
+                "name": "Sarell, Richard"
+            },
+            {
+                "name": "Taylor, Phoebe"
+            },
+            {
+                "name": "Tunks, Marissa"
+            },
+            {
+                "name": "Wise, Tayla"
+            }
+        ],
+        "locations": [
+            "Melbourne, Victoria, Australia"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "country codes": [
+            "au"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "number of seasons": 2,
+        "rating": 7.2,
+        "votes": 10,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZDg2ZTBjYzUtMTczMi00NGFmLWI2MTktZGIxNDFkNGZjMDJmXkEyXkFqcGdeQXVyMTg5OTg2NzQ@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "Shakespeare Republic is a collective of Australian-based actors who have come together to celebrate Shakespeare, his works and his enduring legacy, through sharing their interpretation of his words and thoughts, via settings and circumstances that are familiar to a 21st Century audience.",
+        "languages": [
+            "English"
+        ],
+        "title": "Shakespeare Republic",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "akas": [
+            "Shakespeare Republic (Australia)"
+        ],
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "McLean, Sally"
+            },
+            {
+                "name": "Shakespeare, William"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Incognita Enterprises"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Incognita Enterprises"
+            },
+            {
+                "name": "Seeka TV"
+            }
+        ],
+        "plot": [
+            "Celebrating the brilliance of the Bard - this is _Shakespeare Republic_ (qv). All the world's a stage.::Incognita Enterprises",
+            "_Shakespeare Republic_ (qv) is a collective of Australian-based actors who have come together to celebrate Shakespeare, his works and his enduring legacy, through sharing their interpretation of his words and thoughts, via settings and circumstances that are familiar to a 21st Century audience.::Incognita Enterprises",
+            "Using some of Shakespeare's most famous monologues and sonnets, each episode is a 'snapshot' of a piece of modern life performed by members of an ensemble made up of a mix of established and up-and-coming actors - all filmed in Melbourne, Australia. Each piece stands as an individual 'moment in time' that highlights how Shakespeare (and his fellow Elizabethan playwrights) were talking about issues and ideas that we are still debating and experiencing today. The takeaway? This series shows that Shakespeare speaks to us now just as strongly as he did 400 years ago when he first put quill to parchment. _Shakespeare Republic_ (qv) - all the world's a stage .::Incognita Enterprises"
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 10,
+                "rating": 7.2
+            },
+            "aged 18 29": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "aged 30 44": {
+                "votes": 3,
+                "rating": 6.7
+            },
+            "aged 45 plus": {
+                "votes": 4,
+                "rating": 6.5
+            },
+            "males": {
+                "votes": 4,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "males aged 30 44": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "males aged 45 plus": {
+                "votes": 2,
+                "rating": 6.0
+            },
+            "females": {
+                "votes": 4,
+                "rating": 7.0
+            },
+            "females aged 30 44": {
+                "votes": 2,
+                "rating": 7.0
+            },
+            "females aged 45 plus": {
+                "votes": 2,
+                "rating": 7.0
+            },
+            "top 1000 voters": {
+                "votes": 2,
+                "rating": 5.0
+            },
+            "us users": {
+                "votes": 5,
+                "rating": 4.2
+            },
+            "non us users": {
+                "votes": 3,
+                "rating": 6.7
+            }
+        },
+        "number of votes": {
+            "10": 5,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 2,
+            "5": 0,
+            "4": 2,
+            "3": 0,
+            "2": 1,
+            "1": 0
+        },
+        "arithmetic mean": 7.2,
+        "median": 8
+    }
+}

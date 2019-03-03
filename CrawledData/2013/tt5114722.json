@@ -1,0 +1,116 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2013"
+            },
+            {
+                "country": "UK\n",
+                "date": "10 June 2014"
+            }
+        ],
+        "release dates": [
+            "USA::2013",
+            "UK::10 June 2014"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Building Invincible: Earthquake Bridge (TV Mini-Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Frey, Jeffrey"
+            }
+        ],
+        "locations": [
+            "San Francisco, California, USA::(San Francisco Bay Bridge)"
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "42"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "original air date": "2013 (USA)",
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Building Invincible: Earthquake Bridge",
+        "year": 2013,
+        "kind": "tv mini series",
+        "series years": "2013-",
+        "akas": [
+            "Building Invincible: Earthquake Bridge (United Kingdom)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "director": [
+            {
+                "name": "Twinch, Oliver"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "TipTop Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "National Geographic Television International"
+            },
+            {
+                "name": "The Weather Channel"
+            }
+        ],
+        "plot": [
+            "Spanning 3.5kms of water, San Francisco's Bay Bridge is one of the most earthquake-proof bridges in the world. Built between America's most active earthquake faults it's under constant attack.::National Geographic"
+        ],
+        "tech": {
+            "runtime": [
+                "42 min (UK)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

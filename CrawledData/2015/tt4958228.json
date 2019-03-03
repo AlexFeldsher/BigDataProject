@@ -1,0 +1,55 @@
+{
+    "imdb": {
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Color Blind (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Newton, Christopher"
+            },
+            {
+                "name": "Paderewski, Anthony"
+            }
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "number of seasons": 1,
+        "title": "Color Blind",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Newton, Christopher"
+            }
+        ],
+        "plot": [
+            "A comedy that exposes the ridiculousness of racial prejudice. Three different middle aged men who find out they're brothers when their mother died and left an inheritance but must live together for 5 years to receive it.::Christopher Newton"
+        ],
+        "tech": {
+            "runtime": [
+                "30 min"
+            ]
+        }
+    }
+}

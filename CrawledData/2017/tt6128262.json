@@ -1,0 +1,538 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "21 October 2017"
+            },
+            {
+                "country": "USA\n",
+                "date": "18 December 2017"
+            },
+            {
+                "country": "Spain\n",
+                "date": "19 December 2017"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "19 December 2017"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "18 January 2018",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "21 January 2018"
+            },
+            {
+                "country": "Italy\n",
+                "date": "19 March 2018"
+            },
+            {
+                "country": "Japan\n",
+                "date": "22 March 2018"
+            }
+        ],
+        "release dates": [
+            "UK::21 October 2017",
+            "USA::18 December 2017",
+            "Spain::19 December 2017",
+            "Sweden::19 December 2017",
+            "Netherlands::18 January 2018                            (limited)",
+            "Hungary::21 January 2018",
+            "Italy::19 March 2018",
+            "Japan::22 March 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Gunpowder"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Барутният заговор"
+            },
+            {
+                "countries": "Canada (French title)",
+                "title": "La conspiration des poudres"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Lőpor"
+            },
+            {
+                "countries": "Poland",
+                "title": "Spisek prochowy"
+            },
+            {
+                "countries": "Russia",
+                "title": "Порох"
+            },
+            {
+                "countries": "Spain",
+                "title": "Gunpowder"
+            },
+            {
+                "countries": "USA",
+                "title": "Gunpowder"
+            }
+        ],
+        "akas": [
+            "Gunpowder (original title)",
+            "Барутният заговор Bulgaria (Bulgarian title)",
+            "La conspiration des poudres Canada (French title)",
+            "Lőpor Hungary",
+            "Spisek prochowy Poland",
+            "Порох Russia",
+            "Gunpowder Spain",
+            "Gunpowder USA"
+        ],
+        "akas from release info": [
+            "Gunpowder (original title)",
+            "Барутният заговор Bulgaria (Bulgarian title)",
+            "La conspiration des poudres Canada (French title)",
+            "Lőpor Hungary",
+            "Spisek prochowy Poland",
+            "Порох Russia",
+            "Gunpowder Spain",
+            "Gunpowder USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gunpowder (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 574,
+                    "original air date": "18 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    Following the death of Elizabeth I in 1603, King James VI of Scotland succeeds to the English throne. Catholic Robert Catesby devises a treasonous plot to assassinate James, but he needs allies.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gunpowder (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 369,
+                    "original air date": "19 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    As the King's network of spies close in on them Catesby and Wintour try to raise an army for their plot across mainland Europe. The plotters then gather in London and a plan is formed.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gunpowder (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 328,
+                    "original air date": "20 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    On the eve of the State Opening of Parliament the plotters load the barrels of gunpowder into the tunnels beneath the Palace of Westminster. Father Garnet is under pressure to reveal the plot.    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Harington, Kit"
+            },
+            {
+                "name": "Tyler, Liv"
+            },
+            {
+                "name": "Holcroft, Edward"
+            },
+            {
+                "name": "Dooley, Shaun"
+            },
+            {
+                "name": "Gatiss, Mark"
+            },
+            {
+                "name": "Mullan, Peter"
+            },
+            {
+                "name": "Riddell, Derek"
+            },
+            {
+                "name": "Emms, Robert"
+            },
+            {
+                "name": "Broughton, Luke"
+            },
+            {
+                "name": "Cullen, Tom"
+            },
+            {
+                "name": "Neal, Luke"
+            },
+            {
+                "name": "Alexander, Hugh"
+            },
+            {
+                "name": "Sweet, Tom"
+            },
+            {
+                "name": "Bamber, David"
+            },
+            {
+                "name": "Glover, Richard"
+            },
+            {
+                "name": "Moran, Josh"
+            },
+            {
+                "name": "Kunz, Simon"
+            },
+            {
+                "name": "Lucas, Andy"
+            },
+            {
+                "name": "Casablanc, Pedro"
+            },
+            {
+                "name": "West, Daniel"
+            },
+            {
+                "name": "Hill-Pearson, Philip"
+            },
+            {
+                "name": "Haynes, Karl"
+            },
+            {
+                "name": "Wood, Kate"
+            },
+            {
+                "name": "Gwyllim, Robert"
+            },
+            {
+                "name": "Rigby, Sean"
+            },
+            {
+                "name": "Jarvis, Andrew"
+            },
+            {
+                "name": "Comins, Beatrice"
+            },
+            {
+                "name": "Walters, Ewart James"
+            },
+            {
+                "name": "Gil, Yolanda Calzado"
+            },
+            {
+                "name": "O'Donnell, Fergus"
+            },
+            {
+                "name": "Berry, Scott"
+            },
+            {
+                "name": "Neal, Matthew"
+            },
+            {
+                "name": "Webber, Sian"
+            },
+            {
+                "name": "Ashley, Thom"
+            },
+            {
+                "name": "Inglis, Eleanor"
+            },
+            {
+                "name": "Mounsey, Gordon"
+            },
+            {
+                "name": "Draper, Shelley"
+            },
+            {
+                "name": "Hand, Richard"
+            },
+            {
+                "name": "Eldon, Kevin"
+            },
+            {
+                "name": "Soan, Vivienne"
+            },
+            {
+                "name": "Taylor, Murray"
+            },
+            {
+                "name": "Fox, William"
+            },
+            {
+                "name": "Douglas, Richard"
+            },
+            {
+                "name": "Redshaw, Jason"
+            },
+            {
+                "name": "Ringwood, Joseph"
+            },
+            {
+                "name": "Coombs, Colin"
+            },
+            {
+                "name": "Park, Leo"
+            },
+            {
+                "name": "Barlow, Antony"
+            },
+            {
+                "name": "Burns, Mark"
+            },
+            {
+                "name": "Lindley, Martin"
+            }
+        ],
+        "locations": [
+            "East Riddlesden Hall, Keighley, West Yorkshire, England, UK",
+            "Bradford College, Bradford, West Yorkshire, England, UK",
+            "Dalton Mills, Keighley, Bradford, West Yorkshire, England, UK",
+            "Ilkley Moor, Bradford, West Yorkshire, England, UK",
+            "Bradford, West Yorkshire, England, UK"
+        ],
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "runtimes": [
+            "59"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Germany:16",
+            "Spain:18",
+            "United Kingdom:18",
+            "United States:TV-MA"
+        ],
+        "original air date": "18 Dec 2017 (USA)",
+        "number of seasons": 1,
+        "rating": 6.7,
+        "votes": 7433,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTc4MTI0MDI5OV5BMl5BanBnXkFtZTgwNzczMDYzNDM@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Gunpowder",
+        "year": 2017,
+        "kind": "tv mini series",
+        "series years": "2017-2017",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Bennett, Ronan"
+            },
+            {
+                "name": "Harington, Kit"
+            },
+            {
+                "name": "West, Daniel"
+            }
+        ],
+        "director": [
+            {
+                "name": "Blakeson, J"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Kudos Film and Television"
+            },
+            {
+                "name": "Thriker Films"
+            },
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Endemol Shine International"
+            },
+            {
+                "name": "BBC iPlayer"
+            },
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "BBC First"
+            },
+            {
+                "name": "HBO Nordic"
+            },
+            {
+                "name": "HBO"
+            },
+            {
+                "name": "Home Box Office (HBO)"
+            },
+            {
+                "name": "Justbridge Entertainment Germany"
+            },
+            {
+                "name": "Justbridge Entertainment Germany"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "The Flying Colour Co."
+            }
+        ],
+        "other companies": [
+            {
+                "name": "80 HERTZ Studios"
+            },
+            {
+                "name": "Onset Extras Casting"
+            },
+            {
+                "name": "Panavision London"
+            },
+            {
+                "name": "Sony Music Entertainment"
+            },
+            {
+                "name": "The Look"
+            },
+            {
+                "name": "Universal Extras"
+            }
+        ],
+        "plot": [
+            "British activist Guy Fawkes and a group of provincial English Catholics plan to blow up the House of Lords and kill King James I in the early 17th century."
+        ],
+        "tech": {
+            "runtime": [
+                "59 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "camera": [
+                "Arri Alexa (Master Prime Lenses)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 7433,
+                "rating": 6.7
+            },
+            "aged under 18": {
+                "votes": 36,
+                "rating": 7.1
+            },
+            "aged 18 29": {
+                "votes": 1626,
+                "rating": 6.8
+            },
+            "aged 30 44": {
+                "votes": 2143,
+                "rating": 6.5
+            },
+            "aged 45 plus": {
+                "votes": 1102,
+                "rating": 6.7
+            },
+            "males": {
+                "votes": 4031,
+                "rating": 6.6
+            },
+            "males aged under 18": {
+                "votes": 30,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 1226,
+                "rating": 6.8
+            },
+            "males aged 30 44": {
+                "votes": 1572,
+                "rating": 6.5
+            },
+            "males aged 45 plus": {
+                "votes": 791,
+                "rating": 6.7
+            },
+            "females": {
+                "votes": 1379,
+                "rating": 6.8
+            },
+            "females aged under 18": {
+                "votes": 5,
+                "rating": 7.3
+            },
+            "females aged 18 29": {
+                "votes": 387,
+                "rating": 6.8
+            },
+            "females aged 30 44": {
+                "votes": 533,
+                "rating": 6.7
+            },
+            "females aged 45 plus": {
+                "votes": 296,
+                "rating": 6.8
+            },
+            "top 1000 voters": {
+                "votes": 90,
+                "rating": 6.1
+            },
+            "us users": {
+                "votes": 803,
+                "rating": 6.6
+            },
+            "non us users": {
+                "votes": 3021,
+                "rating": 6.6
+            }
+        },
+        "number of votes": {
+            "10": 922,
+            "9": 543,
+            "8": 1204,
+            "7": 1947,
+            "6": 1379,
+            "5": 677,
+            "4": 272,
+            "3": 164,
+            "2": 114,
+            "1": 211
+        },
+        "arithmetic mean": 6.9,
+        "median": 7
+    }
+}

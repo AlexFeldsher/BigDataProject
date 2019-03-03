@@ -1,0 +1,536 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "11 May 2014"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "18 September 2014",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "1 April 2015",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "1 April 2015",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "1 June 2015",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "25 October 2015",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "25 October 2015",
+                "notes": "                            (part 2)"
+            },
+            {
+                "country": "France\n",
+                "date": "29 November 2015"
+            }
+        ],
+        "release dates": [
+            "USA::11 May 2014",
+            "Netherlands::18 September 2014                            (limited)",
+            "Belgium::1 April 2015                            (internet)",
+            "Netherlands::1 April 2015                            (internet)",
+            "Germany::1 June 2015                            (internet)",
+            "Japan::25 October 2015                            (part 1)",
+            "Japan::25 October 2015                            (part 2)",
+            "France::29 November 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Rosemary's Baby"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Бебето на Роузмари"
+            },
+            {
+                "countries": "Canada (French title)",
+                "title": "Le bébé de Rosemary"
+            },
+            {
+                "countries": "Poland",
+                "title": "Dziecko Rosemary"
+            },
+            {
+                "countries": "Portugal",
+                "title": "A Semente do Diabo"
+            },
+            {
+                "countries": "Russia",
+                "title": "Ребенок Розмари"
+            },
+            {
+                "countries": "Spain",
+                "title": "La semilla del diablo"
+            },
+            {
+                "countries": "USA",
+                "title": "Rosemary's Baby"
+            }
+        ],
+        "akas": [
+            "Rosemary's Baby (original title)",
+            "Бебето на Роузмари Bulgaria (Bulgarian title)",
+            "Le bébé de Rosemary Canada (French title)",
+            "Dziecko Rosemary Poland",
+            "A Semente do Diabo Portugal",
+            "Ребенок Розмари Russia",
+            "La semilla del diablo Spain",
+            "Rosemary's Baby USA"
+        ],
+        "akas from release info": [
+            "Rosemary's Baby (original title)",
+            "Бебето на Роузмари Bulgaria (Bulgarian title)",
+            "Le bébé de Rosemary Canada (French title)",
+            "Dziecko Rosemary Poland",
+            "A Semente do Diabo Portugal",
+            "Ребенок Розмари Russia",
+            "La semilla del diablo Spain",
+            "Rosemary's Baby USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Night One",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rosemary's Baby (TV Mini-Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 197,
+                    "original air date": "11 May 2014",
+                    "year": "2014",
+                    "plot": "\n    After a personal tragedy leaves Rosemary and Guy Woodhouse anxious for a fresh start, the young married couple departs for Paris where Guy has landed a job teaching at The Sorbonne. Upon arrival a series of unfortunate events occur, and soon Rosemary and Guy are presented with an offer they can't refuse - an apartment with the most prestigious address in the city. They find comfort in this strange city among their new friends and neighbors, Roman and Margaux Castevet, but soon find the apartment comes with a haunted past. This well-to-do successful older couple take ...    "
+                },
+                "2": {
+                    "title": "Night Two",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rosemary's Baby (TV Mini-Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 149,
+                    "original air date": "15 May 2014",
+                    "year": "2014",
+                    "plot": "\n    In this 2-hour conclusion Rosemary's health rapidly declines with her pregnancy while Guy's career takes off with the successful completion of his book. At the same time Roman and Margaux each take a peculiar and very intimate interest in the young couple. Untimely and gruesome deaths seem prevalent and we soon learn why. As Rosemary's due date approaches the truth about her baby becomes clear and everyone's true colors come to light.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Saldana, Zoe"
+            },
+            {
+                "name": "Adams, Patrick J."
+            },
+            {
+                "name": "Bouquet, Carole"
+            },
+            {
+                "name": "Cole, Christina"
+            },
+            {
+                "name": "Isaacs, Jason"
+            },
+            {
+                "name": "Rabourdin, Olivier"
+            },
+            {
+                "name": "Civil, François"
+            },
+            {
+                "name": "La Vaullée, Rosemarie"
+            },
+            {
+                "name": "Lutz, Eva"
+            },
+            {
+                "name": "Pszoniak, Wojciech"
+            },
+            {
+                "name": "Uchiyama, Hiro"
+            },
+            {
+                "name": "Malerba, Joseph"
+            },
+            {
+                "name": "Coppet, Stany"
+            },
+            {
+                "name": "Cassetti, Stefano"
+            },
+            {
+                "name": "Bélézy, Victoire"
+            },
+            {
+                "name": "Casmèze, Cyril"
+            },
+            {
+                "name": "Boucher, Stéphane"
+            },
+            {
+                "name": "Vincent, Franck"
+            },
+            {
+                "name": "Anquez, Agathe"
+            },
+            {
+                "name": "Cardona, Hélène"
+            },
+            {
+                "name": "Dabinpons, Guillaume"
+            },
+            {
+                "name": "Atkine, Féodor"
+            },
+            {
+                "name": "Stern, Sarah"
+            },
+            {
+                "name": "Stack, Oisín"
+            },
+            {
+                "name": "Pierrot, Frédéric"
+            },
+            {
+                "name": "Djavdan, Hamidreza"
+            },
+            {
+                "name": "Sauvegrain, Didier"
+            },
+            {
+                "name": "Bertish, Jane"
+            },
+            {
+                "name": "Gravelle, Matthew"
+            },
+            {
+                "name": "McCamy, Ian"
+            },
+            {
+                "name": "Aussedat, Pierre"
+            },
+            {
+                "name": "Sheridan, Joe"
+            },
+            {
+                "name": "Fouassier, Dominique"
+            },
+            {
+                "name": "Piémontèse, Marie"
+            },
+            {
+                "name": "Ross, Olivia"
+            },
+            {
+                "name": "Rosati, Weronika"
+            },
+            {
+                "name": "Fouassier, Sébastien"
+            },
+            {
+                "name": "Pulido, Dylan"
+            },
+            {
+                "name": "Grelier, Aurélien"
+            },
+            {
+                "name": "Seyvecou, Chrystel"
+            },
+            {
+                "name": "Merdy, Édith Le"
+            },
+            {
+                "name": "Meyer, Estelle"
+            },
+            {
+                "name": "Verbeeck, Sophie"
+            },
+            {
+                "name": "Kuhn, Hélène"
+            },
+            {
+                "name": "Paschall, Tony Frank"
+            },
+            {
+                "name": "Beckmann, Tim"
+            },
+            {
+                "name": "Marquardt, Charlotte"
+            },
+            {
+                "name": "Harcourt, Thierry"
+            },
+            {
+                "name": "Petit, Aurélia"
+            },
+            {
+                "name": "Crossen, Sabine"
+            }
+        ],
+        "genres": [
+            "Drama",
+            "Horror",
+            "Mystery"
+        ],
+        "runtimes": [
+            "170"
+        ],
+        "countries": [
+            "United States",
+            "France",
+            "Canada"
+        ],
+        "country codes": [
+            "us",
+            "fr",
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Australia:R18+",
+            "Canada:13+::(Quebec)",
+            "Germany:16",
+            "Netherlands:16",
+            "United Kingdom:18",
+            "United States:TV-14"
+        ],
+        "original air date": "11 May 2014 (USA)",
+        "number of seasons": 1,
+        "rating": 5.5,
+        "votes": 4641,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTQ3OTI5NzIzNF5BMl5BanBnXkFtZTgwNTc4NTQ0MTE@._V1_SY150_CR7,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Rosemary's Baby",
+        "year": 2014,
+        "kind": "tv mini series",
+        "series years": "2014-2014",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Abbott, Scott"
+            },
+            {
+                "name": "Levin, Ira"
+            },
+            {
+                "name": "Wong, James"
+            }
+        ],
+        "director": [
+            {
+                "name": "Holland, Agnieszka"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "City Entertainment"
+            },
+            {
+                "name": "KippSter Entertainment"
+            },
+            {
+                "name": "Liaison Films"
+            },
+            {
+                "name": "Federation Entertainment"
+            },
+            {
+                "name": "Cinestar Pictures"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "National Broadcasting Company (NBC)"
+            },
+            {
+                "name": "Access A"
+            },
+            {
+                "name": "Amazing D.C."
+            },
+            {
+                "name": "Film1"
+            },
+            {
+                "name": "Lionsgate Home Entertainment"
+            },
+            {
+                "name": "Lionsgate Home Entertainment"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "StudioCanal"
+            },
+            {
+                "name": "StudioCanal"
+            },
+            {
+                "name": "WOWOW Prime"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "ArsenalFX Color"
+            },
+            {
+                "name": "De Lane Lea"
+            },
+            {
+                "name": "The Picture Mill"
+            },
+            {
+                "name": "Wildfire Studios"
+            }
+        ],
+        "plot": [
+            "Modern 4 hour mini-series adaptation of the classic novel by Ira Levin focusing on young Rosemary Woodhouse's suspicions that her neighbors may belong to a Satanic cult who are hell bent on getting one thing: the baby she is carrying.::Andrew Frye"
+        ],
+        "synopsis": [
+            "A young couple move into a new apartment only to be surrounded by peculiar neighbors and occurrences. When the wife becomes mysteriously pregnant, paranoia over the safety of her unborn child begins controlling her life."
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr 50 min (170 min) (4 parts)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Sony CineAlta PMW-F55, Cooke S4 and Angenieux Optimo Lenses"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 4641,
+                "rating": 5.5
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 1.0
+            },
+            "aged 18 29": {
+                "votes": 964,
+                "rating": 6.1
+            },
+            "aged 30 44": {
+                "votes": 1950,
+                "rating": 5.4
+            },
+            "aged 45 plus": {
+                "votes": 822,
+                "rating": 5.2
+            },
+            "males": {
+                "votes": 2340,
+                "rating": 5.4
+            },
+            "males aged 18 29": {
+                "votes": 469,
+                "rating": 6.1
+            },
+            "males aged 30 44": {
+                "votes": 1220,
+                "rating": 5.3
+            },
+            "males aged 45 plus": {
+                "votes": 540,
+                "rating": 5.2
+            },
+            "females": {
+                "votes": 1568,
+                "rating": 5.8
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 1.0
+            },
+            "females aged 18 29": {
+                "votes": 488,
+                "rating": 6.2
+            },
+            "females aged 30 44": {
+                "votes": 706,
+                "rating": 5.7
+            },
+            "females aged 45 plus": {
+                "votes": 260,
+                "rating": 5.5
+            },
+            "top 1000 voters": {
+                "votes": 104,
+                "rating": 5.4
+            },
+            "us users": {
+                "votes": 952,
+                "rating": 5.3
+            },
+            "non us users": {
+                "votes": 2047,
+                "rating": 5.5
+            }
+        },
+        "number of votes": {
+            "10": 387,
+            "9": 170,
+            "8": 378,
+            "7": 724,
+            "6": 943,
+            "5": 786,
+            "4": 450,
+            "3": 279,
+            "2": 191,
+            "1": 333
+        },
+        "arithmetic mean": 5.7,
+        "median": 6
+    }
+}

@@ -1,0 +1,796 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "29 September 2010"
+            },
+            {
+                "country": "USA\n",
+                "date": "29 September 2010"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "17 January 2011"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "7 February 2011"
+            },
+            {
+                "country": "Finland\n",
+                "date": "28 March 2011"
+            },
+            {
+                "country": "Japan\n",
+                "date": "6 October 2011"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "5 January 2012"
+            }
+        ],
+        "release dates": [
+            "Canada::29 September 2010",
+            "USA::29 September 2010",
+            "Netherlands::17 January 2011",
+            "Belgium::7 February 2011",
+            "Finland::28 March 2011",
+            "Japan::6 October 2011",
+            "Hungary::5 January 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Law & Order: Los Angeles"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Lei & Ordem: Los Angeles"
+            },
+            {
+                "countries": "Croatia",
+                "title": "Zakon i red: Los Angeles"
+            },
+            {
+                "countries": "Estonia",
+                "title": "Seaduse nimel: Los Angeles"
+            },
+            {
+                "countries": "Finland",
+                "title": "Kova laki: Los Angeles"
+            },
+            {
+                "countries": "France",
+                "title": "Los Angeles, police judiciaire"
+            },
+            {
+                "countries": "Greece",
+                "title": "Law and Order: L.A."
+            },
+            {
+                "countries": "Hungary",
+                "title": "Esküdt ellenségek: Los Angeles"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Lei & Ordem: Los Angeles"
+            },
+            {
+                "countries": "Russia",
+                "title": "Закон и порядок: Лос-Анджелес"
+            },
+            {
+                "countries": "Spain",
+                "title": "Los Ángeles: Distrito criminal"
+            },
+            {
+                "countries": "USA (new title)",
+                "title": "Law & Order: LA"
+            }
+        ],
+        "akas": [
+            "Law & Order: Los Angeles (original title)",
+            "Lei & Ordem: Los Angeles Brazil",
+            "Zakon i red: Los Angeles Croatia",
+            "Seaduse nimel: Los Angeles Estonia",
+            "Kova laki: Los Angeles Finland",
+            "Los Angeles, police judiciaire France",
+            "Law and Order: L.A. Greece",
+            "Esküdt ellenségek: Los Angeles Hungary",
+            "Lei & Ordem: Los Angeles Portugal",
+            "Закон и порядок: Лос-Анджелес Russia",
+            "Los Ángeles: Distrito criminal Spain",
+            "Law & Order: LA USA (new title)"
+        ],
+        "akas from release info": [
+            "Law & Order: Los Angeles (original title)",
+            "Lei & Ordem: Los Angeles Brazil",
+            "Zakon i red: Los Angeles Croatia",
+            "Seaduse nimel: Los Angeles Estonia",
+            "Kova laki: Los Angeles Finland",
+            "Los Angeles, police judiciaire France",
+            "Law and Order: L.A. Greece",
+            "Esküdt ellenségek: Los Angeles Hungary",
+            "Lei & Ordem: Los Angeles Portugal",
+            "Закон и порядок: Лос-Анджелес Russia",
+            "Los Ángeles: Distrito criminal Spain",
+            "Law & Order: LA USA (new title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Hollywood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 126,
+                    "original air date": "29 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    Detectives suspect a spoiled young actress is involved in a burglary ring that targets celebrities' homes. But when the suspect becomes the victim and an assailant is killed, an unlikely new suspect begins to emerge.    "
+                },
+                "2": {
+                    "title": "Echo Park",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 82,
+                    "original air date": "6 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    A woman wrongly convicted in an arson case that killed her two young children is now on trial for murdering her abusive cellmate, and the case could have an embarrassing toll on detective Winters' wife, a retired police officer.    "
+                },
+                "3": {
+                    "title": "Harbor City",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 75,
+                    "original air date": "13 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    The homicide of a well-known surfer leads detectives to a middle class gang that resorts to violence to keep citizens off the beach that borders their property.    "
+                },
+                "4": {
+                    "title": "Sylmar",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 69,
+                    "original air date": "20 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    A.D.A. Dekker faces the difficult task of prosecuting a group of white American Muslim extremists for the murder of two children, without allowing the case to spiral out of control and become a political soapbox for the defense.    "
+                },
+                "5": {
+                    "title": "Pasadena",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 67,
+                    "original air date": "3 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    An unborn child is killed in a hit-and-run case, and the investigation could expose a scandal that may potentially bring down an ambitious U.S. congressman.    "
+                },
+                "6": {
+                    "title": "Hondo Field",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 64,
+                    "original air date": "10 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    A female oil rig supervisor is accused of murdering one of her male workers, but her celebrity defense attorney argues that she was the victim of constant sexual harassment, and that she was raped.    "
+                },
+                "7": {
+                    "title": "Ballona Creek",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 67,
+                    "original air date": "17 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    The death of a city engineer helps uncover clues that could help catch a serial killer responsible for a series of slashings in South Central Los Angeles 20 years earlier.    "
+                },
+                "8": {
+                    "title": "Playa Vista",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 70,
+                    "original air date": "1 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    The murder of a female professional golfer helps expose a male golfer's numerous infidelities, as well as the people who hold a financial interest in keeping them secret.    "
+                },
+                "9": {
+                    "title": "Zuma Canyon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 74,
+                    "original air date": "11 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    Detective Winters is killed while investigating a Mexican cartel responsible for a massacre at a Quinceanera, and Morales tries to get the DA's office to cash in every favor possible to guarantee justice.    "
+                },
+                "10": {
+                    "title": "Silver Lake",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 71,
+                    "original air date": "11 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    Morales' first case back on the police force involves a decorated Secret Service agent suspected of committing a number of crimes including rape and murder.    "
+                },
+                "11": {
+                    "title": "East Pasadena",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 56,
+                    "original air date": "18 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    Detectives Morales (Alfred Molina) and Jaruszalski (Corey Stoll) investigate the murder of a city worker.    "
+                },
+                "12": {
+                    "title": "Benedict Canyon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 68,
+                    "original air date": "25 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    When successful Hollywood stylist Lily Walker is gunned down while driving, the seemingly random murder sends shock waves throughout the city. Following leads, the detectives uncover an unlikely twist that forces them to delve deep into Lily's past for clues to help solve the murder. Meanwhile, DDA's Dekker and Rubirosa must navigate their way through the details in hopes of bringing the real culprit to justice.    "
+                },
+                "13": {
+                    "title": "Reseda",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 51,
+                    "original air date": "2 May 2011",
+                    "year": "2011",
+                    "plot": "\n    District Attorney Hardin pushes Dekker to manipulate California's \"Three Strike\" law to put away a bank robber, but the action may have some unexpected consequences.    "
+                },
+                "14": {
+                    "title": "Runyon Canyon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 50,
+                    "original air date": "9 May 2011",
+                    "year": "2011",
+                    "plot": "\n    Dekker is bent on prosecuting a co-ed after one of her classmates is killed after a night of rough sex in an abandoned mansion, even though the evidence is slim and the police are encouraged to pursue other leads.    "
+                },
+                "15": {
+                    "title": "Hayden Tract",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 55,
+                    "original air date": "16 May 2011",
+                    "year": "2011",
+                    "plot": "\n    A mentally disturbed man goes on a shooting spree that kills a state senator and several onlookers. But did he do it because of a mental defect, or was he aware of his actions?    "
+                },
+                "16": {
+                    "title": "Big Rock Mesa",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 46,
+                    "original air date": "23 May 2011",
+                    "year": "2011",
+                    "plot": "\n    When three homicide victims are found after a wildfire near Big Rock Mesa, detectives uncover a long-standing, bitter feud between the residents of that community and the homeless.    "
+                },
+                "17": {
+                    "title": "Angel's Knoll",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 54,
+                    "original air date": "25 May 2011",
+                    "year": "2011",
+                    "plot": "\n    After a mutilated dead body is found in a hotel room bathtub, detectives later connect the murder to a casino heist involving the daughter of an imprisoned con artist who stole millions from his clients.    "
+                },
+                "18": {
+                    "title": "Plummer Park",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 48,
+                    "original air date": "30 May 2011",
+                    "year": "2011",
+                    "plot": "\n    Two people are kidnapped from homes, rather clumsily, for ransom from rich Moscow relatives. The team identifies the culprits but has endless trouble with victims/witnesses, as the latest couple are Russian spies, which even their daughter ignored, and she'll do anything to avoid deportation when her parents are exchanged to Moscow.    "
+                },
+                "19": {
+                    "title": "Carthay Circle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 55,
+                    "original air date": "6 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    PR professional Derrick Joyner seems abducted from his home, where his Korean fiancée Kim Ho Lee was murdered. The detectives discover his corpse and suspect his faked kidnapping to cover up some fraud, notably in the controversial anti-gay-marriage campaign conducted by state senator Ben Corrigan, black rights-champion reverend Davidson and his son and heir Roland. they find not only money missing, with political and legal ramifications complicating the trial options greatly, as do changing pleas and contradictory testimonies.    "
+                },
+                "20": {
+                    "title": "El Sereno",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 49,
+                    "original air date": "20 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    An African American man accused of killing his Hispanic co-workers accuses the LAPD of a racially-motivated investigation, and a shocking video of lieutenant Gonzalez may confirm his theory.    "
+                },
+                "21": {
+                    "title": "Van Nuys",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "votes": 53,
+                    "original air date": "27 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Detectives Winters and Jaruszalski's investigation into a birthday party where all the guests were beaten to death leads them to believe the killings were drug related.    "
+                },
+                "22": {
+                    "title": "Westwood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Law & Order: LA (TV Series 2010–2011)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "votes": 41,
+                    "original air date": "11 Jul. 2011",
+                    "year": "2011",
+                    "plot": "\n    Detectives believe that the brother of a UCLA women's soccer player from East L.A. was killed because a private investigator was investigating his sister's eligibility, but a new theory emerges after interviewing her boyfriend's father.    "
+                }
+            }
+        },
+        "number of episodes": 22,
+        "cast": [
+            {
+                "name": "Stoll, Corey"
+            },
+            {
+                "name": "Ticotin, Rachel"
+            },
+            {
+                "name": "Molina, Alfred"
+            },
+            {
+                "name": "Howard, Terrence"
+            },
+            {
+                "name": "Ulrich, Skeet"
+            },
+            {
+                "name": "Tomita, Tamlyn"
+            },
+            {
+                "name": "La Garza, Alana De"
+            },
+            {
+                "name": "Coyote, Peter"
+            },
+            {
+                "name": "Hall, Regina"
+            },
+            {
+                "name": "Boone, Megan"
+            },
+            {
+                "name": "Polo, Teri"
+            },
+            {
+                "name": "Long, Jodi"
+            },
+            {
+                "name": "Roberts, Francesca P."
+            },
+            {
+                "name": "Huang, Tina"
+            },
+            {
+                "name": "Kagan, Elaine"
+            },
+            {
+                "name": "Parra, Mark"
+            },
+            {
+                "name": "Graham, Currie"
+            },
+            {
+                "name": "O'Farrell, Conor"
+            },
+            {
+                "name": "Umberger, Andy"
+            },
+            {
+                "name": "Kusatsu, Clyde"
+            },
+            {
+                "name": "Bullock, Angela"
+            },
+            {
+                "name": "Bade, Kathleen"
+            },
+            {
+                "name": "Sanchez, Roberto 'Sanz'"
+            },
+            {
+                "name": "Payne, Elizabeth"
+            },
+            {
+                "name": "Pugliese, Al"
+            },
+            {
+                "name": "Ringor, Erika"
+            },
+            {
+                "name": "Pasqualini, Tony"
+            },
+            {
+                "name": "Wong, Genevieve"
+            },
+            {
+                "name": "Webb, Gerald"
+            },
+            {
+                "name": "Gerety, Joe"
+            },
+            {
+                "name": "Daniel, Chic"
+            },
+            {
+                "name": "De Jesus, Wanda"
+            },
+            {
+                "name": "Blucas, Marc"
+            },
+            {
+                "name": "Fischler, Patrick"
+            },
+            {
+                "name": "Morrison, James"
+            },
+            {
+                "name": "Smith, Shawnee"
+            },
+            {
+                "name": "Zea, Natalie"
+            },
+            {
+                "name": "Collins, Jessica"
+            },
+            {
+                "name": "DeKay, Tim"
+            },
+            {
+                "name": "DiPillo, Rachel"
+            },
+            {
+                "name": "Hatosy, Shawn"
+            },
+            {
+                "name": "Pankow, John"
+            },
+            {
+                "name": "Plana, Tony"
+            },
+            {
+                "name": "Sbarge, Raphael"
+            },
+            {
+                "name": "Tergesen, Lee"
+            },
+            {
+                "name": "Williams, JoBeth"
+            },
+            {
+                "name": "Brown, Sophina"
+            },
+            {
+                "name": "Dent, Catherine"
+            },
+            {
+                "name": "Fehr, Oded"
+            },
+            {
+                "name": "Grayden, Sprague"
+            }
+        ],
+        "locations": [
+            "Los Angeles, California, USA"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Netherlands:9",
+            "South Korea:15"
+        ],
+        "number of seasons": 1,
+        "rating": 6.7,
+        "votes": 2108,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTQzNjQ2MzU0MF5BMl5BanBnXkFtZTcwNzU2NjU5Mw@@._V1_SY150_CR8,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Law & Order: LA",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-2011",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Masters, Blake"
+            },
+            {
+                "name": "Wolf, Dick"
+            },
+            {
+                "name": "Blauner, Peter"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Wolf Films"
+            },
+            {
+                "name": "Universal Media Studios"
+            },
+            {
+                "name": "Gangtackle Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "National Broadcasting Company (NBC)"
+            },
+            {
+                "name": "Canadian Television (CTV)"
+            },
+            {
+                "name": "2BE"
+            },
+            {
+                "name": "Geneon Universal Entertainment"
+            },
+            {
+                "name": "RTL Entertainment"
+            },
+            {
+                "name": "Super! Drama TV"
+            },
+            {
+                "name": "TV2"
+            },
+            {
+                "name": "Universal Pictures Home Entertainment (UPHE)"
+            },
+            {
+                "name": "Viasat3"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Direct Tools & Fasteners"
+            },
+            {
+                "name": "Go For Locations"
+            },
+            {
+                "name": "Reel Security"
+            },
+            {
+                "name": "The Camera House"
+            }
+        ],
+        "plot": [
+            "Los Angeles police detectives investigate crimes and district attorneys prosecute the offenders.::fernandoricce"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (USA)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2108,
+                "rating": 6.7
+            },
+            "aged 18 29": {
+                "votes": 268,
+                "rating": 6.9
+            },
+            "aged 30 44": {
+                "votes": 874,
+                "rating": 6.5
+            },
+            "aged 45 plus": {
+                "votes": 640,
+                "rating": 6.9
+            },
+            "males": {
+                "votes": 1146,
+                "rating": 6.5
+            },
+            "males aged 18 29": {
+                "votes": 166,
+                "rating": 6.9
+            },
+            "males aged 30 44": {
+                "votes": 558,
+                "rating": 6.2
+            },
+            "males aged 45 plus": {
+                "votes": 387,
+                "rating": 6.7
+            },
+            "females": {
+                "votes": 672,
+                "rating": 7.1
+            },
+            "females aged 18 29": {
+                "votes": 98,
+                "rating": 6.9
+            },
+            "females aged 30 44": {
+                "votes": 303,
+                "rating": 7.0
+            },
+            "females aged 45 plus": {
+                "votes": 244,
+                "rating": 7.3
+            },
+            "top 1000 voters": {
+                "votes": 93,
+                "rating": 5.9
+            },
+            "us users": {
+                "votes": 866,
+                "rating": 6.7
+            },
+            "non us users": {
+                "votes": 701,
+                "rating": 6.6
+            }
+        },
+        "number of votes": {
+            "10": 370,
+            "9": 207,
+            "8": 352,
+            "7": 437,
+            "6": 263,
+            "5": 158,
+            "4": 74,
+            "3": 62,
+            "2": 48,
+            "1": 137
+        },
+        "arithmetic mean": 6.9,
+        "median": 7
+    }
+}

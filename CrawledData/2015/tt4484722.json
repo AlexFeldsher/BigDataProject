@@ -1,0 +1,597 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "15 June 2015"
+            },
+            {
+                "country": "USA\n",
+                "date": "11 July 2016"
+            }
+        ],
+        "release dates": [
+            "USA::15 June 2015",
+            "USA::11 July 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Making of the Mob"
+            },
+            {
+                "countries": "Russia",
+                "title": "Рождение мафии: Нью-Йорк"
+            },
+            {
+                "countries": " (first season title)",
+                "title": "The Making of the Mob: New York"
+            },
+            {
+                "countries": " (second season title)",
+                "title": "The Making of the Mob: Chicago"
+            }
+        ],
+        "akas": [
+            "The Making of the Mob (original title)",
+            "Рождение мафии: Нью-Йорк Russia",
+            "The Making of the Mob: New York (first season title)",
+            "The Making of the Mob: Chicago (second season title)"
+        ],
+        "akas from release info": [
+            "The Making of the Mob (original title)",
+            "Рождение мафии: Нью-Йорк Russia",
+            "The Making of the Mob: New York (first season title)",
+            "The Making of the Mob: Chicago (second season title)"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Chicago: Capone's First Kill",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 54,
+                    "original air date": "11 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Al Capone has his first taste of the underworld in Brooklyn with Johnny Torrio; they reunite in Chicago and start bootlegging, earning the ire of local Irish gangsters.    "
+                },
+                "2": {
+                    "title": "Chicago: A Death in the Family",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 47,
+                    "original air date": "18 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    \"A Death in the Family\" After the killing of \"Big Jim\" Colosimo, Capone and Torrio expand their criminal empire into bootlegging but are forced to make a truce with the Irish North Side gangster Dion O'Banion. When a new Chicago mayor is elected, Capone and Torrio are forced to move their headquarters to the working class suburb of Cicero. Torrio is forced to take a leave of absence in Italy, and Capone assumes temporary control of the Outfit with the help of his brothers Frank and Ralph. When Cicero holds its own mayoral election, however, Capone orders his brother ...    "
+                },
+                "3": {
+                    "title": "Chicago: Blood Filled Streets",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 42,
+                    "original air date": "25 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    A betrayal destroys peace in Chicago. Torrio and Capone seek revenge against the Irish gangs. Meanwhile, the Beer Wars make Capone Chicago's top gangster.    "
+                },
+                "4": {
+                    "title": "Chicago: St. Valentine's Day Massacre",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 40,
+                    "original air date": "1 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Capone uses the St. Valentine's Day Massacre to assert his power over his enemies. Meanwhile, President Hoover takes notice; and dispatches Elliot Ness to take on Capone.    "
+                },
+                "5": {
+                    "title": "Chicago: Judgment Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 33,
+                    "original air date": "8 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Al Capone outwits Eliot Ness, but Capone's criminal empire remains in jeopardy when the IRS plants an undercover agent in his gang.    "
+                },
+                "6": {
+                    "title": "Chicago: New Blood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 34,
+                    "original air date": "15 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    With Capone in jail, Frank Nitti, Paul Ricca and Joe Accardo take over. Meanwhile, a Hollywood scandal presents Sam Giancana with a chance to prove himself.    "
+                },
+                "7": {
+                    "title": "Chicago: Sin City",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 33,
+                    "original air date": "22 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Joe Accardo sets his sights on Las Vegas, but when Sam Giancana incurs the wrath of young attorney Robert F. Kennedy, The Outfit is threatened.    "
+                },
+                "8": {
+                    "title": "Chicago: Last Man Standing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 35,
+                    "original air date": "29 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    In the second-season finale, Joe Accardo and Sam Giancana have a falling out and the fate of the Outfit rests on the outcome. Meanwhile, Joe Accardo cleans up loose ends before retiring.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "New York: The Education of Lucky Luciano",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 104,
+                    "original air date": "15 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    \"The Education of Lucky Luciano\" Charles \"Lucky\" Luciano arrives in New YorkCity, teaming with Meyer Lansky and Bugsy Siegel, in the opener of this docudrama chronicling the roots of organized crime in America.    "
+                },
+                "2": {
+                    "title": "New York: Equal Opportunity Gangster",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 90,
+                    "original air date": "22 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    \"Equal Opportunity Gangster\" \"Lucky\" Luciano gains power in the New York underworld during Prohibition. When two bosses start a mob war, Luciano plans to kill them both.    "
+                },
+                "3": {
+                    "title": "New York: King of New York",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 63,
+                    "original air date": "29 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    \"King of New York\" \"Lucky\" Luciano takes over the New York mob, organizing the Five Families. As Luciano's power grows, so does the attention from the Feds.    "
+                },
+                "4": {
+                    "title": "New York: A Rising Threat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 62,
+                    "original air date": "6 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    \"A Rising Threat\" Luciano's decision to enter the prostitution business gives Thomas Dewey the chance to arrest him and put him on trial.    "
+                },
+                "5": {
+                    "title": "New York: Exit Strategy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 54,
+                    "original air date": "13 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    \"Exit Strategy\" Luciano is found guilty of running a prostitution ring and goes to prison, leaving Vito Genovese as acting boss.    "
+                },
+                "6": {
+                    "title": "New York: The Mob at War",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 62,
+                    "original air date": "20 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    \"The Mob at War\" World War II begins, and the military asks Luciano to aid in the invasion of Sicily. Thomas Dewey considers letting him go.    "
+                },
+                "7": {
+                    "title": "New York: New Frontiers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 52,
+                    "original air date": "27 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    \"New Frontiers\" Luciano takes over Vito Genovese's heroin ring in Italy, then rejoins Meyer Lansky at a mob summit in Cuba. Meanwhile, Genovese and Carlo Gambino plot against the mob leadership, and Bugsy Siegel's dream of Las Vegas turns deadly.    "
+                },
+                "8": {
+                    "title": "New York: End Game",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Making of the Mob (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 61,
+                    "original air date": "3 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    Vito Genovese and Carlo Gambino finally make their move. When Genovese becomes a liability, Luciano must choose an heir to lead the mob.    "
+                }
+            }
+        },
+        "number of episodes": 16,
+        "cast": [
+            {
+                "name": "Bell, Ian"
+            },
+            {
+                "name": "Rivela, Craig Thomas"
+            },
+            {
+                "name": "Graff, Rich"
+            },
+            {
+                "name": "Binder, John"
+            },
+            {
+                "name": "Kotsohilis, Michael"
+            },
+            {
+                "name": "Fitch, Jason"
+            },
+            {
+                "name": "Barry, Jack"
+            },
+            {
+                "name": "Rotondo, Paolo"
+            },
+            {
+                "name": "Valente, Christopher"
+            },
+            {
+                "name": "Black, Owen"
+            },
+            {
+                "name": "Lovatt, Stephen"
+            },
+            {
+                "name": "Chapman, Kip"
+            },
+            {
+                "name": "Robertt, Andrew"
+            },
+            {
+                "name": "Kerr, Robin"
+            },
+            {
+                "name": "Skilton, Emmett"
+            },
+            {
+                "name": "Reynolds, Amelia"
+            },
+            {
+                "name": "Xanthis, George Harrison"
+            },
+            {
+                "name": "Harriman, Josh"
+            },
+            {
+                "name": "King, Andre"
+            },
+            {
+                "name": "Leigh, John"
+            },
+            {
+                "name": "Leach, Toby"
+            },
+            {
+                "name": "Grainger, Andrew"
+            },
+            {
+                "name": "Drent, Ido"
+            },
+            {
+                "name": "Holloway, Cohen"
+            },
+            {
+                "name": "Lansky, Meyer"
+            },
+            {
+                "name": "Boymel, Evan"
+            },
+            {
+                "name": "DiCarlo, Anthony"
+            },
+            {
+                "name": "Drake, Carl"
+            },
+            {
+                "name": "Graham, Taylor M."
+            },
+            {
+                "name": "Zucco, Gus"
+            },
+            {
+                "name": "Jr., Frank Calabrese"
+            },
+            {
+                "name": "Bergreen, Laurence"
+            },
+            {
+                "name": "Forsythe, William"
+            },
+            {
+                "name": "Montano, Ricky"
+            },
+            {
+                "name": "Stewart, Jonathan C."
+            },
+            {
+                "name": "Twigg, Brad"
+            },
+            {
+                "name": "Eig, Jonathan"
+            },
+            {
+                "name": "Kacey, James"
+            },
+            {
+                "name": "English, T.J."
+            },
+            {
+                "name": "Lombardo, Robert M."
+            },
+            {
+                "name": "Davidson, Jeremy"
+            },
+            {
+                "name": "Bisciello, Anthony"
+            },
+            {
+                "name": "Di Giuseppe, Marco"
+            },
+            {
+                "name": "Segaller, Adam Jonas"
+            },
+            {
+                "name": "Sr., Richard Walz"
+            },
+            {
+                "name": "Eisenbach, David"
+            },
+            {
+                "name": "Levin, Hillel"
+            },
+            {
+                "name": "Kass, John"
+            },
+            {
+                "name": "Forrest, Noah"
+            },
+            {
+                "name": "Decicco, Erik"
+            }
+        ],
+        "locations": [
+            "Martinsburg, West Virginia, USA"
+        ],
+        "genres": [
+            "Documentary",
+            "Crime",
+            "History"
+        ],
+        "runtimes": [
+            "343"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1 / (high definition)",
+        "number of seasons": 2,
+        "rating": 7.9,
+        "votes": 1873,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTQ1ODM1NDkxNV5BMl5BanBnXkFtZTgwMTcyMjYyNTE@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "Making of the Mob, is an eight-part docudrama that begins in 1905 and spans more than 50 years, tracing the original five families that led to the modern American Mafia, including the rise of Charles Lucky Luciano, Meyer Lansky and Benjamin Bugsy Siegel.",
+        "languages": [
+            "English"
+        ],
+        "title": "The Making of the Mob",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Brandeis, Jonathan"
+            },
+            {
+                "name": "Burstein, Brian"
+            },
+            {
+                "name": "Coates, Chelsea"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Stephen David Entertainment"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "American Movie Classics (AMC)"
+            },
+            {
+                "name": "Studio Hamburg Enterprises"
+            },
+            {
+                "name": "Studio Hamburg Enterprises"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Brauer & Co."
+            },
+            {
+                "name": "HOBO"
+            }
+        ],
+        "plot": [
+            "Making of the Mob, is an eight-part docudrama that begins in 1905 and spans more than 50 years, tracing the original five families that led to the modern American Mafia, including the rise of Charles Lucky Luciano, Meyer Lansky and Benjamin Bugsy Siegel.::Niels Bouckenooghe",
+            "Follow the story of Al Capone, from his start in New York and his move to Chicago to follow and join Johnny Torrio. Learn how their work for Big Jim Colosimo and the decisions they made stemmed from changing times and helped shape the history of crime in Depression-era Chicago.::writermaia"
+        ],
+        "tech": {
+            "runtime": [
+                "5 hr 43 min (343 min)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1 / (high definition)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1873,
+                "rating": 7.9
+            },
+            "aged 18 29": {
+                "votes": 324,
+                "rating": 8.2
+            },
+            "aged 30 44": {
+                "votes": 717,
+                "rating": 7.8
+            },
+            "aged 45 plus": {
+                "votes": 344,
+                "rating": 7.7
+            },
+            "males": {
+                "votes": 1273,
+                "rating": 7.9
+            },
+            "males aged 18 29": {
+                "votes": 284,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 621,
+                "rating": 7.8
+            },
+            "males aged 45 plus": {
+                "votes": 283,
+                "rating": 7.6
+            },
+            "females": {
+                "votes": 185,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 38,
+                "rating": 8.6
+            },
+            "females aged 30 44": {
+                "votes": 81,
+                "rating": 7.8
+            },
+            "females aged 45 plus": {
+                "votes": 55,
+                "rating": 7.8
+            },
+            "top 1000 voters": {
+                "votes": 43,
+                "rating": 6.5
+            },
+            "us users": {
+                "votes": 371,
+                "rating": 8.0
+            },
+            "non us users": {
+                "votes": 675,
+                "rating": 7.7
+            }
+        },
+        "number of votes": {
+            "10": 460,
+            "9": 357,
+            "8": 533,
+            "7": 296,
+            "6": 100,
+            "5": 39,
+            "4": 26,
+            "3": 18,
+            "2": 12,
+            "1": 32
+        },
+        "arithmetic mean": 8.1,
+        "median": 8
+    }
+}

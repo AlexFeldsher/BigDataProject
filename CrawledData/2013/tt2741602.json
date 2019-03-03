@@ -1,0 +1,2701 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "23 September 2013"
+            },
+            {
+                "country": "USA\n",
+                "date": "23 September 2013"
+            },
+            {
+                "country": "Australia\n",
+                "date": "30 September 2013"
+            },
+            {
+                "country": "UK\n",
+                "date": "4 October 2013"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "17 October 2013"
+            },
+            {
+                "country": "Japan\n",
+                "date": "20 November 2013",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "24 November 2013"
+            },
+            {
+                "country": "Germany\n",
+                "date": "26 November 2013",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Italy\n",
+                "date": "6 December 2013"
+            },
+            {
+                "country": "Spain\n",
+                "date": "15 December 2013"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "6 January 2014"
+            },
+            {
+                "country": "Germany\n",
+                "date": "21 January 2014"
+            },
+            {
+                "country": "Japan\n",
+                "date": "28 January 2014"
+            },
+            {
+                "country": "Finland\n",
+                "date": "4 March 2014"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "16 April 2014"
+            },
+            {
+                "country": "Hong Kong\n",
+                "date": "8 July 2014"
+            },
+            {
+                "country": "France\n",
+                "date": "27 August 2014"
+            }
+        ],
+        "release dates": [
+            "Canada::23 September 2013",
+            "USA::23 September 2013",
+            "Australia::30 September 2013",
+            "UK::4 October 2013",
+            "Sweden::17 October 2013",
+            "Japan::20 November 2013                            (limited)",
+            "Belgium::24 November 2013",
+            "Germany::26 November 2013                            (limited)",
+            "Italy::6 December 2013",
+            "Spain::15 December 2013",
+            "Netherlands::6 January 2014",
+            "Germany::21 January 2014",
+            "Japan::28 January 2014",
+            "Finland::4 March 2014",
+            "Hungary::16 April 2014",
+            "Hong Kong::8 July 2014",
+            "France::27 August 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Blacklist"
+            },
+            {
+                "countries": "Afghanistan",
+                "title": "Czarna lista"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Lista Negra"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Черният списък"
+            },
+            {
+                "countries": "Croatia (alternative title)",
+                "title": "Crna lista"
+            },
+            {
+                "countries": "Czech Republic (new title)",
+                "title": "Cerná listina"
+            },
+            {
+                "countries": "Estonia",
+                "title": "Must nimekiri"
+            },
+            {
+                "countries": "Finland",
+                "title": "Blacklist"
+            },
+            {
+                "countries": "France",
+                "title": "Blacklist"
+            },
+            {
+                "countries": "Germany",
+                "title": "The Blacklist"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Feketelista"
+            },
+            {
+                "countries": "Italy",
+                "title": "The Blacklist"
+            },
+            {
+                "countries": "Latvia",
+                "title": "Melnais Saraksts"
+            },
+            {
+                "countries": "Lithuania",
+                "title": "Juodasis sarasas"
+            },
+            {
+                "countries": "Poland",
+                "title": "Czarna lista"
+            },
+            {
+                "countries": "Republic of Macedonia",
+                "title": "Црна Листа"
+            },
+            {
+                "countries": "Romania",
+                "title": "Lista neagra"
+            },
+            {
+                "countries": "Russia",
+                "title": "Чёрный список"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Crna lista"
+            },
+            {
+                "countries": "Slovakia",
+                "title": "Cierny zoznam"
+            },
+            {
+                "countries": "Spain",
+                "title": "The Blacklist"
+            },
+            {
+                "countries": "USA",
+                "title": "The Blacklist"
+            },
+            {
+                "countries": "Uruguay (dubbed version)",
+                "title": "The Blacklist"
+            }
+        ],
+        "akas": [
+            "The Blacklist (original title)",
+            "Czarna lista Afghanistan",
+            "Lista Negra Brazil",
+            "Черният списък Bulgaria (Bulgarian title)",
+            "Crna lista Croatia (alternative title)",
+            "Cerná listina Czech Republic (new title)",
+            "Must nimekiri Estonia",
+            "Blacklist Finland",
+            "Blacklist France",
+            "The Blacklist Germany",
+            "Feketelista Hungary",
+            "The Blacklist Italy",
+            "Melnais Saraksts Latvia",
+            "Juodasis sarasas Lithuania",
+            "Czarna lista Poland",
+            "Црна Листа Republic of Macedonia",
+            "Lista neagra Romania",
+            "Чёрный список Russia",
+            "Crna lista Serbia",
+            "Cierny zoznam Slovakia",
+            "The Blacklist Spain",
+            "The Blacklist USA",
+            "The Blacklist Uruguay (dubbed version)"
+        ],
+        "akas from release info": [
+            "The Blacklist (original title)",
+            "Czarna lista Afghanistan",
+            "Lista Negra Brazil",
+            "Черният списък Bulgaria (Bulgarian title)",
+            "Crna lista Croatia (alternative title)",
+            "Cerná listina Czech Republic (new title)",
+            "Must nimekiri Estonia",
+            "Blacklist Finland",
+            "Blacklist France",
+            "The Blacklist Germany",
+            "Feketelista Hungary",
+            "The Blacklist Italy",
+            "Melnais Saraksts Latvia",
+            "Juodasis sarasas Lithuania",
+            "Czarna lista Poland",
+            "Црна Листа Republic of Macedonia",
+            "Lista neagra Romania",
+            "Чёрный список Russia",
+            "Crna lista Serbia",
+            "Cierny zoznam Slovakia",
+            "The Blacklist Spain",
+            "The Blacklist USA",
+            "The Blacklist Uruguay (dubbed version)"
+        ],
+        "episodes": {
+            "6": {
+                "1": {
+                    "title": "Dr. Hans Koehler (No. 33)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 1,
+                    "votes": 486,
+                    "original air date": "3 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    Red gives the Task Force a Blacklister case, who creates new identities for criminals. Liz and her sister secretly investigate the events that took place the night the real Raymond Reddington died.    "
+                },
+                "2": {
+                    "title": "The Corsican (No. 20)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 2,
+                    "votes": 508,
+                    "original air date": "4 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    As Liz and the Task Force race to stop an imminent bombing by a Blacklister, Red encounters a life changing situation.    "
+                },
+                "3": {
+                    "title": "The Pharmacist (No. 124)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 3,
+                    "votes": 385,
+                    "original air date": "11 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    As the Task Force track a notorious underground biohacker, Red initiates a plan to escape a problematic position. Meanwhile, Cooper's integrity is put on test.    "
+                },
+                "4": {
+                    "title": "The Pawnbrokers (No. 146/147)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 4,
+                    "votes": 340,
+                    "original air date": "18 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    Red tries to adapt in federal prison. Samar goes undercover to stop a black market organization. Meanwhile, Liz and Jennifer continue their search into Red's past.    "
+                },
+                "5": {
+                    "title": "Alter Ego (No. 131)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 5,
+                    "votes": 272,
+                    "original air date": "1 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    While Red holds his place in court for his immunity agreement, the Task Force questions a suspicious inheritance and Dembe tries to advise Red.    "
+                },
+                "6": {
+                    "title": "The Ethicist (No. 91)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 6,
+                    "votes": 209,
+                    "original air date": "8 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    When Red is sent to a federal medical institution following his request to the court for a psychiatric evaluation, Liz and Jennifer use his time away to search for a Blacklister they believe may have valuable information about Red's past.    "
+                },
+                "7": {
+                    "title": "General Shiro (No. 116)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 7,
+                    "votes": 157,
+                    "original air date": "15 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    While Red and Dembe enlist Glenn's help is stacking the jury to Red's advantage for his upcoming trial, the Task Force investigates a series of mysterious deaths resulting from weaponized insects.    "
+                },
+                "8": {
+                    "title": "Marko Jankowics",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 8,
+                    "original air date": "22 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    Liz and Jennifer's pursuit of a lead on the truth about Reddington puts them in unexpected danger. Red steps in to help mediate a brewing prison gang war.    "
+                },
+                "9": {
+                    "title": "Minister D",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 9,
+                    "original air date": "22 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    As his trial begins, Red puts Liz and the task force on the case of a Blacklister who uses incriminating evidence to extort people, and who Red believes can prove his innocence.    "
+                },
+                "10": {
+                    "title": "The Cryptobanker",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 10,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n    The Task Force delves into the unregulated world of cryptocurrency in order to stop an impending attack, while Red undertakes a risky endeavor in order to secure his freedom.    "
+                },
+                "11": {
+                    "title": "Episode #6.11",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 11,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "Episode #6.12",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 12,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "13": {
+                    "title": "Episode #6.13",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 13,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "14": {
+                    "title": "Episode #6.14",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 14,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "15": {
+                    "title": "Episode #6.15",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 15,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "16": {
+                    "title": "Episode #6.16",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 16,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "17": {
+                    "title": "Episode #6.17",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 17,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "18": {
+                    "title": "Episode #6.18",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 18,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "19": {
+                    "title": "Episode #6.19",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 19,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "20": {
+                    "title": "Episode #6.20",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 20,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "21": {
+                    "title": "Episode #6.21",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 21,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "22": {
+                    "title": "Episode #6.22",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 22,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 3225,
+                    "original air date": "23 Sep. 2013",
+                    "year": "2013",
+                    "plot": "\n    Ex-government agent and one of the FBI's Most Wanted fugitives, Raymond \"Red\" Reddington (James Spader) mysteriously turns himself in to the FBI and offers to give up everyone he has ever worked with including a long-thought-dead terrorist but under one condition - he'll only talk to newly-minted female FBI profiler, Elizabeth Keen (Megan Boone) with whom he seemingly has no connection. For Liz, it's going to be one hell of a first day on the job and what follows is a twisting series of events as the race to stop a terrorist begins.    "
+                },
+                "2": {
+                    "title": "The Freelancer (No. 145)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 2373,
+                    "original air date": "30 Sep. 2013",
+                    "year": "2013",
+                    "plot": "\n    Red predicts an impending catastrophe rooted by the work of an assassin called \"The Freelancer.\" Together Liz and Red go undercover to prevent his next target, Floriana Campo, from being killed. Elsewhere, Ressler and newly re-hired CIA agent, Meera Malik, who's been added to Red's private security detail, keep an eye on them from a distance. Meanwhile Liz considers what she should do next concerning Tom and the mysterious box she found hidden under the floorboards.    "
+                },
+                "3": {
+                    "title": "Wujing (No. 84)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 2088,
+                    "original air date": "7 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    Red (James Spader) takes Liz (Megan Boone) on an undercover assignment to bring down a freelance Chinese spy who's targeting CIA agents.    "
+                },
+                "4": {
+                    "title": "The Stewmaker (No. 161)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 2116,
+                    "original air date": "14 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    When a witness in the murder trial of a ruthless cartel boss disappears, Red (James Spader) leads Liz (Megan Boone) and Ressler (Diego Klattenhoff) on a search for the Blacklist's No. 161, a gruesome hit man known as the Stewmaker.    "
+                },
+                "5": {
+                    "title": "The Courier (No. 85)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 1901,
+                    "original air date": "21 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    Red (James Spader) leads Liz (Megan Boone) and Ressler (Diego Klattenhoff) in a hunt for a kidnap victim and his abductor - The Blacklist No. 85, a secretive criminal courier whose inability to feel pain makes him impossible to stop. Liz uncovers evidence linking Tom (Ryan Eggold) to a Russian defector's unsolved murder.    "
+                },
+                "6": {
+                    "title": "Gina Zanetakos (No. 152)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 1794,
+                    "original air date": "28 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    After Tom confronts Liz about the box - he claims he's innocent and insists that they turn it into the FBI so his name can be cleared. Elsewhere, Red informs Liz and the FBI that the next name on the Blacklist is beautiful and deadly corporate terrorist, Gina Zanetakos.    "
+                },
+                "7": {
+                    "title": "Frederick Barnes (No. 47)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 1745,
+                    "original air date": "4 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    Red (James Spader) leads Liz (Megan Boone) in the search for a deranged chemical weapons expert who unleashed a rare but fatal disease in the Washington, DC subway.    "
+                },
+                "8": {
+                    "title": "General Ludd (No. 109)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 1707,
+                    "original air date": "11 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    Red (James Spader) demands a deal from Cooper (Harry Lennix) before he'll agree to stop an anti-capitalist terrorist network's next deadly attack, while her dad's failing health reveals secrets in Liz's (Megan Boone) past.    "
+                },
+                "9": {
+                    "title": "Anslo Garrick (No. 16)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 2444,
+                    "original air date": "25 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    The Team's Headquarters (Post Office Black Site) is attacked in an effort to assassinate Red (James Spader).    "
+                },
+                "10": {
+                    "title": "Anslo Garrick (No. 16): Conclusion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 2116,
+                    "original air date": "2 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    Red is kidnapped by terrorist Anslo Garrick. Will Elizabeth find him? What other secrets will be unveiled?    "
+                },
+                "11": {
+                    "title": "The Good Samaritan (No. 106)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 1753,
+                    "original air date": "13 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    A serial killer from Liz's past strikes again while Red hunts for his betrayer.    "
+                },
+                "12": {
+                    "title": "The Alchemist (No. 101)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 1569,
+                    "original air date": "20 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    As Red (James Spader) enlists activist whistleblowers in his search for the mole, Liz (Megan Boone) pursues a deranged scientist who's helped dozens of criminals escape by engineering and killing their genetic doubles.    "
+                },
+                "13": {
+                    "title": "The Cyprus Agency (No. 64)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 1576,
+                    "original air date": "27 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    As Liz (Megan Boone) heads up an investigation that exposes an adoption agency's shocking secret, Red's (James Spader) pursuit of the FBI mole identifies a surprising new suspect.    "
+                },
+                "14": {
+                    "title": "Madeline Pratt (No. 73)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 1548,
+                    "original air date": "24 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Liz helps Tom adjust to the impending adoption; Red reveals a woman from his past is a target; Red convinces Liz to pull off a heist at the Syrian Embassy.    "
+                },
+                "15": {
+                    "title": "The Judge (No. 57)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 1537,
+                    "original air date": "3 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Red investigates Jolene's life; Liz and Ressler go after a criminal known as The Judge, who incarcerates the ones that put innocent men away.    "
+                },
+                "16": {
+                    "title": "Mako Tanida (No. 83)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 1521,
+                    "original air date": "17 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Tom struggles to keep his secret safe. Ressler goes after the man who's taking down his old team one by one, Mako Tanida.    "
+                },
+                "17": {
+                    "title": "Ivan (No. 88)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 1498,
+                    "original air date": "24 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Liz investigates the disappearance of Jolene. The team hunts a young boy posing as Ivan, the infamous hacker.    "
+                },
+                "18": {
+                    "title": "Milton Bobbit (No. 135)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 1454,
+                    "original air date": "31 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Now aware that Tom is not whom he pretends to be, Liz uses a case to distract the team as she investigates her husband's true intentions.    "
+                },
+                "19": {
+                    "title": "The Pavlovich Brothers (Nos. 119-122)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 1503,
+                    "original air date": "21 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    The Pavlovich brothers specialize in abductions of high value targets and according to Red, they are planning their next hit. While the team tries to protect the next target, Red has a job of his own for the Pavlovich Brothers. Elsewhere, Liz patiently tries to uncover the truth about Tom.    "
+                },
+                "20": {
+                    "title": "The Kingmaker (No. 42)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 1429,
+                    "original air date": "28 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    After a politician in Prague is framed for a murder, Red suspects it's the work of The Kingmaker - a strategist behind the rise of some of the world's most powerful politicians. While Red helps Liz and the FBI catch him, Liz uncovers a secret that Red's been keeping from her.    "
+                },
+                "21": {
+                    "title": "Berlin (No. 8)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "votes": 1533,
+                    "original air date": "5 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Liz refuses to work with Red after discovering the truth about the death of her father. Seeking to make amends and force Liz to see him, Red brings the FBI a case they can't ignore. Meanwhile, Liz reveals what she knows about Tom's secret life to the FBI.    "
+                },
+                "22": {
+                    "title": "Berlin (No. 8): Conclusion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "votes": 1868,
+                    "original air date": "12 May 2014",
+                    "year": "2014",
+                    "plot": "\n    With the crashing of the mysterious prisoner transport plane, the city is on lock down as the authorities are on the hunt for all the escapees. Meanwhile, with Red in custody, Liz uses her power to get him out since he is their best chance at finding all the suspects. Elsewhere, their main objective is to track down Berlin, a prisoner on the plane who is somehow involved.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Lord Baltimore (No. 104)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 1677,
+                    "original air date": "22 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    Red continues to battle Berlin and faces a new threat from a man named Lord Baltimore. An important person comes back from the past into Red's world. Meanwhile, Liz tries to move forward with her life after her showdown with Tom.    "
+                },
+                "2": {
+                    "title": "Monarch Douglas Bank (No. 112)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 1387,
+                    "original air date": "29 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    When the Monarch Douglas Bank is robbed, Red seizes the opportunity to try and take the money-laundering bank down. Liz questions Red's intentions as she investigates the crime. Meanwhile, a new member joins Cooper's taskforce after impressing everyone on the team.    "
+                },
+                "3": {
+                    "title": "Dr. James Covington (No. 89)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 1308,
+                    "original air date": "6 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    When a man is found with his heart cut out, Agents Keen and Ressler team up with agent Samar Navabi to uncover the intricacies of Dr. Covington's black-market operation. Meanwhile, Red and his associate try to capitalize on a new opportunity in Indonesia, leaving Reddington in a vulnerable position.    "
+                },
+                "4": {
+                    "title": "Dr. Linus Creel (No. 82)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 1280,
+                    "original air date": "13 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    After a series of seemingly nonviolent citizens become killers, Red tips off Liz that a dangerous social-psychological experiment may be underway. Elsewhere, Red tries to convince Naomi and her husband into accepting a complicated proposition.    "
+                },
+                "5": {
+                    "title": "The Front (No. 74)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 1308,
+                    "original air date": "20 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Agents Keen, Ressler and Cooper pursue an eco-terrorist cell in search of a destructive weapon. Meanwhile, Liz tries to lose her guardian. Elsewhere, Red uses manipulation to pursue someone close to his heart.    "
+                },
+                "6": {
+                    "title": "The Mombasa Cartel (No. 114)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 1342,
+                    "original air date": "27 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    When a mutilated corpse washes ashore, Agent Liz Keen consults Red over what he knows about the deadly underworld of wildlife poachers. Meanwhile Agent Donald Ressler develops a dangerous habit.    "
+                },
+                "7": {
+                    "title": "The Scimitar (No. 22)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 1275,
+                    "original air date": "3 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    When an Iranian nuclear scientist is suspiciously assassinated, a revenge ploy begins against a valued American. Red informs agents Keen and Navabi that a dangerously conniving hitman \"The Scimitar\" has been sent to the job. Liz and Ressler find themselves in a tricky predicament as they investigate a surveillance lead. Agent Keen attempts to gather information on Berlin, while Red finds company with a woman working at a food truck.    "
+                },
+                "8": {
+                    "title": "The Decembrist (No. 12)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 1373,
+                    "original air date": "10 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Liz struggles to keep her secret from unraveling.    "
+                },
+                "9": {
+                    "title": "Luther Braxton (No. 21)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 1634,
+                    "original air date": "1 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    The task force tries to save Red when he's arrested and taken to a secret detention facility. At the facility, Red tangles with a thief with whom he shared a complicated history.    "
+                },
+                "10": {
+                    "title": "Luther Braxton (No. 21): Conclusion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 1406,
+                    "original air date": "5 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    FBI boss Cooper tries to rescue his team in the wake of chaos at a detention facility. Elsewhere, thief Luther Braxton attempts to attain confidential information.    "
+                },
+                "11": {
+                    "title": "Ruslan Denisov (No. 67)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 1162,
+                    "original air date": "12 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    The task force must rescue an undercover CIA agent who was kidnapped by separatists in Uzbekistan; Red thinks they are up against a dangerous past associate known as Ruslan Denisov.    "
+                },
+                "12": {
+                    "title": "The Kenyon Family (No. 71)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 1180,
+                    "original air date": "19 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    When Red tips Liz off on the disappearance of Justin Kenyon, a polygamous cult leader with dangerous shipping containers buried on his property, the task force sets out to investigate. Meanwhile, Red utilizes his sources to appease Fitch's last words and travels to track down his hidden safe.    "
+                },
+                "13": {
+                    "title": "The Deer Hunter (No. 93)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 1145,
+                    "original air date": "26 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    When Liz learns of a serial killer known as \"The Deer Hunter\" who tracks his victims down like prey, Red helps the task force search for the killer. Meanwhile, the local DC police suspect the city Harbormaster was murdered as Liz struggles to keep her secret from unraveling.    "
+                },
+                "14": {
+                    "title": "T. Earl King VI (No. 94)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "votes": 1213,
+                    "original air date": "5 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    A former paramour involves Reddington in a deadly game with a wealthy and powerful family dynasty whose ill-begotten fortune was amassed from an underground auction of human and material contraband. Meanwhile, Tom takes on a new mission.    "
+                },
+                "15": {
+                    "title": "The Major (No. 75)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "votes": 1334,
+                    "original air date": "12 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    When Agent Keen is questioned in court as a suspect in the murder of the DC Harbormaster, her unusual relationship with Red and their task force falls under scrutiny. Meanwhile, Red enlists Cooper and Ressler to locate \"The Major\", a dangerous former associate who is key in keeping Liz out of prison.    "
+                },
+                "16": {
+                    "title": "Tom Keen (No. 7)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 16,
+                    "votes": 1274,
+                    "original air date": "19 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    As evidence mounts against Liz in the case of the murdered DC Harbormaster, a federal judge makes it clear to her that she will face severe criminal charges. Reddington and Ressler jump into high gear to exonerate Liz but the only solution is to find the recently vanished Tom Keen - wherever he may be operating in the world.    "
+                },
+                "17": {
+                    "title": "The Longevity Initiative (No. 97)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 17,
+                    "votes": 1100,
+                    "original air date": "26 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    The task force tracks a scientist who abducts disabled patients to conduct experiments on immortality. Now back in Washington, DC, Tom scrambles to save himself from new enemies.    "
+                },
+                "18": {
+                    "title": "Vanessa Cruz (No. 117)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 18,
+                    "votes": 1244,
+                    "original air date": "2 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    The task force tracks a provocative female Blacklister (guest star Ana de la Reguera), a frame-up artist who targets the wealthy elite. Tom (Ryan Eggold) pleads for Liz's (Megan Boone) help. Red (James Spader) pressures Liz for the Fulcrum, claiming it's now a matter of life and death.    "
+                },
+                "19": {
+                    "title": "Leonard Caul (No. 62)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 19,
+                    "votes": 1391,
+                    "original air date": "23 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    As Red fights for his life, he pleads with Liz to track down a key figure from his past with knowledge of the Fulcrum.    "
+                },
+                "20": {
+                    "title": "Quon Zhang (No. 87)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 20,
+                    "votes": 1084,
+                    "original air date": "30 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    After decoding the information embedded in the Fulcrum, Red is determined to stop the imminent threat. Meanwhile, the task force discovers that deceased bodies of Chinese-American women are being smuggled out of the country under false identities. Liz continues to search for answers about her past after discovering a picture hidden in Red's secret flat.    "
+                },
+                "21": {
+                    "title": "Karakurt (No. 55)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 21,
+                    "votes": 1281,
+                    "original air date": "7 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Following intel from Red, the FBI find themselves one-step behind the most dangerous Russian Assassin, Karakurt, an enemy on U.S. soil. To avoid catastrophe, Liz and Ressler meet with Russian Counter-Intelligence who offer insight not only on Karakurt, but also on the identity of Liz's mother. Cooper finds himself in a compromising position.    "
+                },
+                "22": {
+                    "title": "Tom Connolly (No. 11)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 22,
+                    "votes": 1766,
+                    "original air date": "14 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Liz discovers she's been framed by The Cabal, prompting Red to tap into his connections to clear her name. Also: Cooper receives stunning news; and the task force is plagued by trust issues.    "
+                }
+            },
+            "3": {
+                "1": {
+                    "title": "The Troll Farmer (No. 38)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 1627,
+                    "original air date": "1 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Agent Keen and Red are on the run from the FBI, while Dembe receives contact that will jeopardise his future.    "
+                },
+                "2": {
+                    "title": "Marvin Gerard (No. 80)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 1334,
+                    "original air date": "8 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    As Liz pleads for her safety in the Russian Embassy, Red discovers a new plan devised by the Cabal to kill her. A familiar face reaches out to Ressler.    "
+                },
+                "3": {
+                    "title": "Eli Matchett (No.72)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 1125,
+                    "original air date": "15 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Dembe continues at Solomon's mercy. Red and Keen head to Iowa to investigate a corporation connected to the Cabal, with Ressler and Navabi on their tail. Cooper and Tom join forces.    "
+                },
+                "4": {
+                    "title": "The Djinn (No. 43)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 1133,
+                    "original air date": "22 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Red enlists a task force to locate the Djinn, an enigmatic woman who fulfills revenge fantasies. Red and Liz believe the Djinn can lead them to the Cabal and help them exonerate Liz.    "
+                },
+                "5": {
+                    "title": "Arioch Cain (No. 50)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 1148,
+                    "original air date": "29 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Red and the FBI come together to protect Liz when a huge reward for her capture attracts attention from assassins.    "
+                },
+                "6": {
+                    "title": "Sir Crispin Crandall (No. 86)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 1133,
+                    "original air date": "5 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Red and Liz catch wind that Andras Halmi, a trusted advisor of The Director, has gone missing. In pursuit of Halmi, Red and Liz narrowly escape a violent confrontation. Meanwhile, Tom ends up in a brutal \"Fight Club\" to find the one man he thinks will be able to exonerate Liz.    "
+                },
+                "7": {
+                    "title": "Zal Bin Hasaan (No. 31)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 1095,
+                    "original air date": "12 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    A family tragedy in Samar's past resurfaces when the Task Force hunt for an elusive international terrorist. The FBI and the Cabal gain significant ground in their search for Liz and Red. Meanwhile, Tom encounters complications in his plan to exonerate Liz.    "
+                },
+                "8": {
+                    "title": "Kings of the Highway (No. 108)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 1168,
+                    "original air date": "19 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Red and Liz are separated when Red falls into a perilous situation. Elsewhere, Samar makes a risky choice to help Liz, and Tom and Cooper continue their quest to exonerate Liz.    "
+                },
+                "9": {
+                    "title": "The Director (No. 24)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 1678,
+                    "original air date": "7 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    While Red creates a crime scene to retrieve his care package, friends of the truth rally around Liz, whose life is in danger now that she's in custody.    "
+                },
+                "10": {
+                    "title": "The Director (No. 24): Conclusion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 1771,
+                    "original air date": "14 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    As the Cabal prepares to assassinate Liz, Red calls upon the task force to combine efforts to outmaneuver The Cabal to exonerate her. Red delivers a final ultimatum.    "
+                },
+                "11": {
+                    "title": "Mr. Gregory Devry (No. 95)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 11,
+                    "votes": 1163,
+                    "original air date": "21 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    With her name finally cleared, Liz attempts to reclaim her former life. Red works with the task force to infiltrate an assembly of high-level criminals at large in a rare, risky opportunity to capture the heads of the world's most lethal organized crime syndicates.    "
+                },
+                "12": {
+                    "title": "The Vehm (No. 132)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 12,
+                    "votes": 985,
+                    "original air date": "28 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    A rare medieval device is used in a murder, prompting Red to warn the task force that a lethal vigilante group from the Middle Ages is now in operation. Meanwhile, Liz receives startling news and cautiously plans her next move.    "
+                },
+                "13": {
+                    "title": "Alistair Pitt (No. 103)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 13,
+                    "votes": 990,
+                    "original air date": "4 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Red and Liz work with the taskforce to stop a negotiator who has resurfaced to unite two rival crime families. Tom reconnects with a former flame.    "
+                },
+                "14": {
+                    "title": "Lady Ambrosia (No. 77)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 14,
+                    "votes": 975,
+                    "original air date": "11 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    A child who had been missing and presumed dead reappears, prompting Red and Liz to hunt down a woman who is known to abduct children; Tom puts himself in a consequential position after aiding Gina.    "
+                },
+                "15": {
+                    "title": "Drexel (No. 113)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 15,
+                    "votes": 945,
+                    "original air date": "18 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    The owner of a tech startup is murdered in his own home by a man known only as \"Drexel\". He takes his time staging the body. Meanwhile Tom is rushed to hospital after sustaining two bullet wounds following the jewelry heist.    "
+                },
+                "16": {
+                    "title": "The Caretaker (No. 78)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 16,
+                    "votes": 918,
+                    "original air date": "25 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    A State Department official is killed in Beijing, leading Red and Liz to \"The Caretaker,\" a shadowy keeper who maintains a safety-deposit vault for criminals. Also, Tom makes a risky decision, and Liz continues her quest to learn more about her mother.    "
+                },
+                "17": {
+                    "title": "Mr. Solomon (No. 32)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 17,
+                    "votes": 1082,
+                    "original air date": "7 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    After Red learns that a tactical nuclear weapon is being targeted by thieves, it's a race against the clock as the task force struggles to stop them - and prevent an imminent nuclear disaster. Meanwhile, Tom and Liz make a decision that will change their relationship forever.    "
+                },
+                "18": {
+                    "title": "Mr. Solomon (No. 32): Conclusion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 18,
+                    "votes": 1633,
+                    "original air date": "14 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Solomon is still after Elizabeth Keen and she is running against the clock to have her baby. An unexpected turn of events will happen to change everything.    "
+                },
+                "19": {
+                    "title": "Cape May",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 19,
+                    "votes": 1438,
+                    "original air date": "21 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    A mysterious beauty on the run from unknown assailants accidentally crosses paths with Reddington and enlists his help to fight back against her attackers.    "
+                },
+                "20": {
+                    "title": "The Artax Network (No. 41)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 20,
+                    "votes": 956,
+                    "original air date": "28 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    After an unexpected loss devastates the FBI task force, they must track down their assailants; a mysterious group whose agents operate using a worldwide satellite network. Meanwhile, Reddington is forced to confront a ghost from his past -- one who knows many of Red's secrets.    "
+                },
+                "21": {
+                    "title": "Susan Hargrave (No. 18)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 21,
+                    "votes": 949,
+                    "original air date": "5 May 2016",
+                    "year": "2016",
+                    "plot": "\n    When Reddington links an elegant, powerful and extremely dangerous Romanian woman to the recent tragic events, the task force is forced to play a deadly cat and mouse game to stop her before she strikes again.    "
+                },
+                "22": {
+                    "title": "Alexander Kirk (No. 14)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 22,
+                    "votes": 1007,
+                    "original air date": "12 May 2016",
+                    "year": "2016",
+                    "plot": "\n    The FBI task force's hunt for revenge nears its endgame. As Reddington and the team close in on the mysterious arch-criminal responsible for recent tragic events, they're forced to operate outside their comfort zone - and outside the law - in order to take down their enemy once and for all.    "
+                },
+                "23": {
+                    "title": "Alexander Kirk (No. 14): Conclusion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 23,
+                    "votes": 1436,
+                    "original air date": "19 May 2016",
+                    "year": "2016",
+                    "plot": "\n    As Reddington and the task force close in on the person responsible for Liz's death, a shocking betrayal leaves them racing to save one of their own.    "
+                }
+            },
+            "4": {
+                "1": {
+                    "title": "Esteban (No. 79)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "votes": 984,
+                    "original air date": "22 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Liz is abducted by a man claiming to be her father, prompting Red's desperate efforts to find her.    "
+                },
+                "2": {
+                    "title": "Mato (No. 66)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "votes": 873,
+                    "original air date": "29 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Red enlists Tom and the Task Force to help track a notorious bounty hunter who may know Alexander Kirk's next move. Meanwhile, Liz struggles to decide if Kirk is trustworthy.    "
+                },
+                "3": {
+                    "title": "Miles McGrath (No. 65)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "votes": 794,
+                    "original air date": "6 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    Red and the Task Force take extreme measures to hunt down one of Alexander Kirk's allies, Miles McGrath, a \"criminal incubator\" who finances crimes for profit. Meanwhile, Liz learns more about her family.    "
+                },
+                "4": {
+                    "title": "Gaia (No. 81)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 4,
+                    "votes": 793,
+                    "original air date": "13 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    As Red sets Liz and the Task Force on the trail of an eco-terrorist with a mysterious connection to Alexander Kirk, Tom takes matters into his own hands.    "
+                },
+                "5": {
+                    "title": "The Lindquist Concern (No. 105)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 5,
+                    "votes": 756,
+                    "original air date": "20 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    Liz's loyalties are tested as Red takes action on an operation to intercept Alexander Kirk. Meanwhile the Task Force races to find a killer who targets inventors of revolutionary technology.    "
+                },
+                "6": {
+                    "title": "The Thrushes (No. 53)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 6,
+                    "votes": 772,
+                    "original air date": "27 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    When Alexander Kirk contracts a mysterious group that specializes in hacking the world's most secure computer systems, Red and Liz see an opportunity to make a move on Kirk's organization.    "
+                },
+                "7": {
+                    "title": "Dr. Adrian Shaw (No. 98)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 7,
+                    "votes": 750,
+                    "original air date": "3 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Red directs the Task Force to track down an individual who provides new identities to criminals on the run. Meanwhile, as Alexander Kirk's medical condition worsens, Liz seeks guidance from Cooper on a crucial decision.    "
+                },
+                "8": {
+                    "title": "Dr. Adrian Shaw (No. 98): Conclusion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 8,
+                    "votes": 797,
+                    "original air date": "10 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Red pressures Dr. Shaw to locate a former patient. Liz contemplates the implications of her ties to an increasingly desperate and dangerous Alexander Kirk. Mr. Kaplan comes to a critical realization about her future.    "
+                },
+                "9": {
+                    "title": "Lipet's Seafood Company (No. 111)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 9,
+                    "votes": 747,
+                    "original air date": "5 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Liz is trying to rebuild her life with Tom and Red is trying to get Liz a pardon so she can be reinstated. When there's some kind of mass shooting at a Seafood Company it is believed it's about drugs but Red tells them the Company is a front for terrorists who are planning something. They try to find out what happened and they discover that somehow the security system was neutralized with tech from an American Company. One of the company's officers tells them to check out one of their former employees who was fired. When they find the man he claims he's been framed. ...    "
+                },
+                "10": {
+                    "title": "The Forecaster (No. 163)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 10,
+                    "votes": 692,
+                    "original air date": "12 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    A new case arrives at Liz's doorstep, where someone has left a diorama depicting a crime soon to be committed. Meanwhile, Red explores a new business opportunity.    "
+                },
+                "11": {
+                    "title": "The Harem (No. 102)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 11,
+                    "votes": 728,
+                    "original air date": "19 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Liz infiltrates an elite gang of female thieves as they prepare for their next heist, but she must first prove herself to the group's leader. Meanwhile, unexpected problems plague Red's operations, and Tom focuses on fatherly duties.    "
+                },
+                "12": {
+                    "title": "Natalie Luca (No. 184)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 12,
+                    "votes": 707,
+                    "original air date": "2 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    The team tracks down a killer who imparts a fatal disease on her victims.    "
+                },
+                "13": {
+                    "title": "Isabella Stone (No. 34)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 13,
+                    "votes": 679,
+                    "original air date": "9 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    The task force targets a sophisticated criminal who's been aiming at Red's businesses. Meanwhile, Tom goes on the hunt for information about his past.    "
+                },
+                "14": {
+                    "title": "The Architect (No. 107)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 14,
+                    "votes": 677,
+                    "original air date": "16 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Aram goes undercover to find a criminal who makes crimes for a profit; Tom continues to look for details about his past; Red attempts to find the source of his compromised business operations.    "
+                },
+                "15": {
+                    "title": "The Apothecary (No. 59)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 15,
+                    "votes": 885,
+                    "original air date": "23 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Red has to figure out who betrayed him when he's poisoned; Liz and the task force look for the toxin's designer to save Red's life.    "
+                },
+                "16": {
+                    "title": "Dembe Zuma (No. 10)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 16,
+                    "votes": 811,
+                    "original air date": "20 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    After weeks of hunting for Dembe, Reddington and the Task Force finally get a lead on his location when Aram goes missing. Meanwhile, Dembe takes a calculated risk as Reddington closes in.    "
+                },
+                "17": {
+                    "title": "Requiem",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 17,
+                    "votes": 1181,
+                    "original air date": "20 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    Memories of the past set Red (James Spader) on a dangerous collision course with an enemy determined to destroy his criminal empire.    "
+                },
+                "18": {
+                    "title": "Philomena (No. 61)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 18,
+                    "votes": 655,
+                    "original air date": "27 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    The task force chases an artful bounty hunter employed to target Red's closest associates. Meanwhile, Ressler faces a moral dilemma while taking on a new assignment with a former colleague.    "
+                },
+                "19": {
+                    "title": "Dr. Bogdan Krilov (No. 29)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 19,
+                    "votes": 626,
+                    "original air date": "4 May 2017",
+                    "year": "2017",
+                    "plot": "\n    Red sets the Task Force to trace a Blacklister with tools to manipulate memories, causing Liz to questions her own experience. When Gale intensifies his investigation, Ressler gets a new lead on a case.    "
+                },
+                "20": {
+                    "title": "The Debt Collector (No. 46)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 20,
+                    "votes": 629,
+                    "original air date": "11 May 2017",
+                    "year": "2017",
+                    "plot": "\n    When Liz becomes the target of a mercenary, the Debt Collector, Red turns to an unlikely source for help. Meanwhile, Ressler faces a complication in his efforts to stay ahead of Gale's investigation.    "
+                },
+                "21": {
+                    "title": "Mr. Kaplan (No. 4)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 21,
+                    "votes": 678,
+                    "original air date": "18 May 2017",
+                    "year": "2017",
+                    "plot": "\n    Facing a crippling siege on his organization, Red tracks a thief enlisted by Mr Kaplan for a mysterious assignment. Agent Gale takes extreme measures in his investigation into the conduct of his Task Force.    "
+                },
+                "22": {
+                    "title": "Mr. Kaplan (No. 4): Conclusion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 22,
+                    "votes": 970,
+                    "original air date": "18 May 2017",
+                    "year": "2017",
+                    "plot": "\n    Red sets a risky plan in motion to save the Task Force. With the future of the Task Force in jeopardy, Liz confronts the biggest questions about her past.    "
+                }
+            },
+            "5": {
+                "1": {
+                    "title": "Smokey Putnum (No. 30)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 1,
+                    "votes": 785,
+                    "original air date": "27 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    With his criminal empire in ruins, Red enlists Liz in a plan to earn cash and deliver a new Blacklister to the Task Force.    "
+                },
+                "2": {
+                    "title": "Greyson Blaise (No. 37)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 2,
+                    "votes": 717,
+                    "original air date": "4 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    The team pursues a billionaire high end art thief. Tom seeks to identify the remains in the suitcase.    "
+                },
+                "3": {
+                    "title": "Miss Rebecca Thrall (No. 76)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 3,
+                    "votes": 632,
+                    "original air date": "11 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    The team investigates a number of suspicious police shootings. Ressler is distracted by his outside issues. Red needs Tom's help to re-establish his criminal empire.    "
+                },
+                "4": {
+                    "title": "The Endling (No. 44)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 4,
+                    "votes": 617,
+                    "original air date": "18 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Liz and the Task Force hunt for an elusive criminal who is destroying the world's precious treasures. Meanwhile, a surprise encounter leads Red toward a new business opportunity, as Tom investigates the bones in the suitcase.    "
+                },
+                "5": {
+                    "title": "Ilyas Surkov (No. 54)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 5,
+                    "votes": 594,
+                    "original air date": "25 Oct. 2017",
+                    "year": "2017",
+                    "plot": "\n    Red provides intel on an international terrorist, putting the Task Force on a collision course with another unit from the CIA. Meanwhile, Red and Hawkins lay the groundwork for new business venture. Tom goes undercover in search of information.    "
+                },
+                "6": {
+                    "title": "The Travel Agency (No. 90)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 6,
+                    "votes": 607,
+                    "original air date": "1 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    While Cooper enlists Red on a case of personal importance, Ressler leads the Task Force to stop the resurgence of once-dormant murder-for-hire. Tom continues to investigate the suitcase despite a warning.    "
+                },
+                "7": {
+                    "title": "The Kilgannon Corporation (No. 48)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 7,
+                    "votes": 661,
+                    "original air date": "8 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Red and the Task Force place Dembe undercover to infiltrate an international human smuggling organization, but when communication is lost, they must intervene. Meanwhile, Tom's investigation into the suitcase lands him in grave danger.    "
+                },
+                "8": {
+                    "title": "Ian Garvey (No. 13)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 8,
+                    "votes": 1622,
+                    "original air date": "15 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Tom goes missing and Liz desperately retraces his steps to find him; Red's hunt for the suitcase of bones leads to lives being changed forever.    "
+                },
+                "9": {
+                    "title": "Ruin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 9,
+                    "votes": 840,
+                    "original air date": "3 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Liz abandons her old life for a fresh start in a new place, but she is forced to draw on her emotional and physical strength in a brutal fight when a threat finds her.    "
+                },
+                "10": {
+                    "title": "The Informant (No. 118)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 10,
+                    "votes": 592,
+                    "original air date": "10 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    When Red directs the Task Force to find a Blacklister who sells sensitive information; Ressler finds himself at risk of exposure; Liz plans her next move.    "
+                },
+                "11": {
+                    "title": "Abraham Stern (No. 100)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 11,
+                    "votes": 671,
+                    "original air date": "17 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Red goes on the hunt for a legendary treasure; Liz studies the methods of one of the Blacklist's most dangerous criminals.    "
+                },
+                "12": {
+                    "title": "The Cook (No. 56)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 12,
+                    "votes": 537,
+                    "original air date": "31 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    As Liz works with Red to hunt for Tom's killers, she begins to question his motives. Meanwhile, the Task Force enlists the help of one arsonist to catch another.    "
+                },
+                "13": {
+                    "title": "The Invisible Hand (No. 63)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 13,
+                    "votes": 537,
+                    "original air date": "7 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    Red points the Task Force toward a group that targets people with reprehensible but legal actions. As Red helps one of his employees, Liz discovers a clue about Tom's investigation.    "
+                },
+                "14": {
+                    "title": "Mr. Raleigh Sinclair III (No. 51)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 14,
+                    "votes": 540,
+                    "original air date": "28 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    The Task Force tracks a Blacklister who develops airtight alibis for murderous clients. Meanwhile, Liz's reinstatement at the FBI hinges on evaluation.    "
+                },
+                "15": {
+                    "title": "Pattie Sue Edwards (No. 68)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 15,
+                    "votes": 519,
+                    "original air date": "7 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    As Liz continues tracking Tom's killers, Red tries to solve a tax issue in his money laundering. Meanwhile, Aram goes out to the field when the Task Force investigates a viral outbreak.    "
+                },
+                "16": {
+                    "title": "The Capricorn Killer (No. 19)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 16,
+                    "votes": 561,
+                    "original air date": "14 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Liz investigates new details in a cold case from her early work as an FBI profiler. The Task Force takes action to bring down Tom's killers within the legal system, while Red takes an opposite approach.    "
+                },
+                "17": {
+                    "title": "Anna-Gracia Duerte (No. 25)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 17,
+                    "votes": 537,
+                    "original air date": "4 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    After a member of the Nash Syndicate is murdered, Liz and the Task Force must secure crucial evidence to bring down Ian Garvey. Meanwhile, Aram contemplates taking his relationship with Samar to the next level.    "
+                },
+                "18": {
+                    "title": "Zarak Mosadek (No. 23)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 18,
+                    "votes": 549,
+                    "original air date": "11 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Red and the Task Force head to Paris in hopes of pressuring Garvey by taking down a prominent heroin supplier to the Nash Syndicate. Liz doesn't trust Red and takes her own path to find Garvey.    "
+                },
+                "19": {
+                    "title": "Ian Garvey (No. 13): Conclusion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 19,
+                    "votes": 651,
+                    "original air date": "25 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    Liz uses intel from an unexpected source to force a race with Red to uncover the secrets he holds, as Red initiates a plan to retrieve the duffel bag of bones.    "
+                },
+                "20": {
+                    "title": "Nicholas T. Moore (No. 110)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 20,
+                    "votes": 507,
+                    "original air date": "2 May 2018",
+                    "year": "2018",
+                    "plot": "\n    The mysterious appearance of an unidentified young girl sends Liz and the Task Force on a hunt to discover her connection to the secret Red is hiding. However, when her family steps in to protect their own secrets, the investigation turns into a race to save the little girl's life.    "
+                },
+                "21": {
+                    "title": "Lawrence Dane Devlin (No. 26)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 21,
+                    "votes": 526,
+                    "original air date": "9 May 2018",
+                    "year": "2018",
+                    "plot": "\n    When Samar lands in the crosshairs of an unconventional Blacklister, Aram and the Task Force spring into action to find her before it's too late. Meanwhile, Red journeys to Costa Rica to prevent the duffel bag of bones from being sold to the highest bidder at an underground auction.    "
+                },
+                "22": {
+                    "title": "Sutton Ross (No. 17)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Blacklist (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 22,
+                    "votes": 994,
+                    "original air date": "16 May 2018",
+                    "year": "2018",
+                    "plot": "\n    Liz and Red face off in a climactic race to find a Blacklister in possession of the duffle bag of bones, forcing the truth about the bones to finally come to light.    "
+                }
+            }
+        },
+        "number of episodes": 133,
+        "cast": [
+            {
+                "name": "Boone, Megan"
+            },
+            {
+                "name": "Spader, James"
+            },
+            {
+                "name": "Klattenhoff, Diego"
+            },
+            {
+                "name": "Lennix, Harry"
+            },
+            {
+                "name": "Tawfiq, Hisham"
+            },
+            {
+                "name": "Arison, Amir"
+            },
+            {
+                "name": "Marnò, Mozhan"
+            },
+            {
+                "name": "Eggold, Ryan"
+            },
+            {
+                "name": "Blommaert, Susan"
+            },
+            {
+                "name": "Baz"
+            },
+            {
+                "name": "Nagra, Parminder"
+            },
+            {
+                "name": "Lenox, Adriane"
+            },
+            {
+                "name": "Gathegi, Edi"
+            },
+            {
+                "name": "Strathairn, David"
+            },
+            {
+                "name": "Coyne, Jonny"
+            },
+            {
+                "name": "Pettiford, Valarie"
+            },
+            {
+                "name": "Lovejoy, Deirdre"
+            },
+            {
+                "name": "Coluca, Teddy"
+            },
+            {
+                "name": "Thomsen, Ulrich"
+            },
+            {
+                "name": "Middleton, Clark"
+            },
+            {
+                "name": "Lahti, Christine"
+            },
+            {
+                "name": "Birney, Reed"
+            },
+            {
+                "name": "Craig, Deborah S."
+            },
+            {
+                "name": "Dourif, Fiona"
+            },
+            {
+                "name": "Marek, Piter"
+            },
+            {
+                "name": "Heise, Annie"
+            },
+            {
+                "name": "Nero, Dante"
+            },
+            {
+                "name": "Blimline, Genson"
+            },
+            {
+                "name": "Kim, Jennifer"
+            },
+            {
+                "name": "Brosnahan, Rachel"
+            },
+            {
+                "name": "Stevens, Fisher"
+            },
+            {
+                "name": "Aronov, Michael"
+            },
+            {
+                "name": "Divoff, Andrew"
+            },
+            {
+                "name": "Stormare, Peter"
+            },
+            {
+                "name": "Druckenmiller, Michael-Scott"
+            },
+            {
+                "name": "Alda, Alan"
+            },
+            {
+                "name": "Levieva, Margarita"
+            },
+            {
+                "name": "Murciano, Enrique"
+            },
+            {
+                "name": "Baker, Charles"
+            },
+            {
+                "name": "Parke, Evan"
+            },
+            {
+                "name": "Ozsan, Hal"
+            },
+            {
+                "name": "Malcolm, Graeme"
+            },
+            {
+                "name": "Henriksen, Lance"
+            },
+            {
+                "name": "Sriram, Annapurna"
+            },
+            {
+                "name": "Miller, Karl"
+            },
+            {
+                "name": "Reubens, Paul"
+            },
+            {
+                "name": "Kearns, Shane Patrick"
+            },
+            {
+                "name": "Leung, Ken"
+            },
+            {
+                "name": "Janssen, Famke"
+            },
+            {
+                "name": "Parker, Mary-Louise"
+            }
+        ],
+        "locations": [
+            "Pleasantville, New York, USA",
+            "Long Beach, Long Island, New York, USA",
+            "Tottenville, Staten Island, New York, USA::(The Blacklist)",
+            "Pearl River, New York, USA"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo",
+            "DTS::(HD MA)::(blu-ray)"
+        ],
+        "certificates": [
+            "Australia:MA15+::(DVD rating)",
+            "Australia:M::(TV rating)",
+            "Brazil:16",
+            "France:10",
+            "Germany:16::(most episodes)",
+            "Germany:12::(some episodes)",
+            "Italy:VM12",
+            "New Zealand:R16::(DVD rating)",
+            "Norway:16::(Netflix self-rating)",
+            "Portugal:12AP",
+            "Russia:16+",
+            "Singapore:PG13",
+            "Singapore:NC16::(season 1)",
+            "South Korea:15",
+            "Spain:16::(Netflix)",
+            "United States:TV-14"
+        ],
+        "number of seasons": 6,
+        "rating": 8.1,
+        "votes": 152264,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMGYyZDFjOGMtNDE2Zi00ODg3LWJiZjktMWFiYjUwOTVmNjBkXkEyXkFqcGdeQXVyNjMxNzcwOTI@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "A highly articulate, erudite and intelligent businessman and mastermind, \"Red\" Reddington, has allegedly been on the \"10 Most Wanted List\" of various U.S. law enforcement agencies for over 20 years. The legend is that Red is as elusive as he is clever, controlling a labyrinth of creative enterprises, coupled with uncanny ability to gather and finesse information at the drop of a hat. On the first day at FBI for a new female profiler fresh out of Quantico, Red offers to bandy wits with the FBI. Red promises to deliver various criminals and plots previously unknown to any branch of law enforcement... and all Red requests in return is to choose his muse.",
+        "languages": [
+            "English"
+        ],
+        "title": "The Blacklist",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "writer": [
+            {
+                "name": "Bokenkamp, Jon"
+            },
+            {
+                "name": "Margolis, Brandon"
+            },
+            {
+                "name": "Sonnier, Brandon"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Davis Entertainment"
+            },
+            {
+                "name": "Universal Television"
+            },
+            {
+                "name": "Sony Pictures Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "National Broadcasting Company (NBC)"
+            },
+            {
+                "name": "Global"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "Amazon Instant Video"
+            },
+            {
+                "name": "British Sky Broadcasting (BSkyB)"
+            },
+            {
+                "name": "Canal+ España"
+            },
+            {
+                "name": "Fox Crime"
+            },
+            {
+                "name": "Monte Carlo Televisión - Canal 4"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "RTL Crime"
+            },
+            {
+                "name": "RTL Entertainment"
+            },
+            {
+                "name": "RTL Entertainment"
+            },
+            {
+                "name": "RTL"
+            },
+            {
+                "name": "Seven Network"
+            },
+            {
+                "name": "Shaw On Demand"
+            },
+            {
+                "name": "Sky Living"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Star World India Pvt. Ltd."
+            },
+            {
+                "name": "Star World Premiere"
+            },
+            {
+                "name": "Super! Drama TV"
+            },
+            {
+                "name": "TF1"
+            },
+            {
+                "name": "TV3 Danmark"
+            },
+            {
+                "name": "TV3 Norge"
+            },
+            {
+                "name": "TV3"
+            },
+            {
+                "name": "TV5"
+            },
+            {
+                "name": "TVB Pearl"
+            },
+            {
+                "name": "VIER"
+            },
+            {
+                "name": "Viasat3"
+            },
+            {
+                "name": "Vudu"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Zoic Studios"
+            },
+            {
+                "name": "Rampage VFX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Panavision"
+            },
+            {
+                "name": "Sony ColorWorks"
+            },
+            {
+                "name": "Sony Pictures Studios"
+            },
+            {
+                "name": "NBC Universal Archives"
+            },
+            {
+                "name": "Sony Pictures Television"
+            },
+            {
+                "name": "Mercedes Benz USA"
+            },
+            {
+                "name": "Open 4 Business Productions"
+            },
+            {
+                "name": "New York State Governor's Office for Motion Picture & Television Development"
+            },
+            {
+                "name": "Brauer & Co."
+            },
+            {
+                "name": "ARRI / Camera Service Center"
+            },
+            {
+                "name": "Big A Solutions"
+            },
+            {
+                "name": "BriteShot"
+            },
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Cinema Mechanics"
+            },
+            {
+                "name": "Gotham Sound and Communications"
+            },
+            {
+                "name": "Henry's International Cuisine"
+            },
+            {
+                "name": "LCW Props"
+            },
+            {
+                "name": "Lost Soul Entertainment Picture Cars"
+            },
+            {
+                "name": "Madison Gate Records"
+            },
+            {
+                "name": "Prop Movie Money"
+            },
+            {
+                "name": "Soundtrack New York"
+            },
+            {
+                "name": "Sync OnSet"
+            },
+            {
+                "name": "Truck Brokers"
+            }
+        ],
+        "plot": [
+            "A new FBI profiler, Elizabeth Keen, has her entire life uprooted when a mysterious criminal, Raymond Reddington, who has eluded capture for decades, turns himself in and insists on speaking only to her.::zrfootball",
+            "A highly articulate, erudite and intelligent businessman and mastermind, \"Red\" Reddington, has allegedly been on the \"10 Most Wanted List\" of various U.S. law enforcement agencies for over 20 years. The legend is that Red is as elusive as he is clever, controlling a labyrinth of creative enterprises, coupled with uncanny ability to gather and finesse information at the drop of a hat. On the first day at FBI for a new female profiler fresh out of Quantico, Red offers to bandy wits with the FBI. Red promises to deliver various criminals and plots previously unknown to any branch of law enforcement... and all Red requests in return is to choose his muse.::LA-Lawyer",
+            "Elizabeth Keen lives a happy live with her husband Tom. They are even planning to adopt a baby. Elizabeth wants to go to her new job at the FBI when she is picked up by them and driven to a black-site to meet Raymond Reddington, a master criminal who vanished a long time ago and came back as the concierge of crime. After eluding capture for decades, he turns himself in, but only agrees to speak to Elizabeth Keen. He wants to help the FBI capture dangerous criminals, some of them unknown to the FBI. A task force is created. However, there remains some questions. What is Reddington's connection to Elizabeth? Why does he want to solve cases with the FBI? Is Elizabeth's husband Tom who he pretends to be? These questions are slowly resolved when the team go through people on Reddington's Blacklist.::CPDE",
+            "Former government agent Raymond \"Red\" Reddington (James Spader) has eluded capture for decades. But he suddenly surrenders to the FBI with an offer to help catch a terrorist under the condition that he speaks only to Elizabeth \"Liz\" Keen (Megan Boone), a young FBI profiler who's just barely out of Quantico.::NBC"
+        ],
+        "tech": {
+            "runtime": [
+                "43 min (approx)"
+            ],
+            "sound mix": [
+                "Stereo",
+                "DTS (HD MA) (blu-ray)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Sony CineAlta PMW-F55, Panavision Primo and Angenieux Optimo Lenses"
+            ],
+            "negative format": [
+                "Digital"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (2K) (master format)",
+                "F55 RAW (4K) (source format)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 152264,
+                "rating": 8.1
+            },
+            "aged under 18": {
+                "votes": 149,
+                "rating": 8.5
+            },
+            "aged 18 29": {
+                "votes": 33231,
+                "rating": 8.2
+            },
+            "aged 30 44": {
+                "votes": 46574,
+                "rating": 7.9
+            },
+            "aged 45 plus": {
+                "votes": 19589,
+                "rating": 8.1
+            },
+            "males": {
+                "votes": 81021,
+                "rating": 8.0
+            },
+            "males aged under 18": {
+                "votes": 106,
+                "rating": 8.3
+            },
+            "males aged 18 29": {
+                "votes": 24397,
+                "rating": 8.2
+            },
+            "males aged 30 44": {
+                "votes": 33707,
+                "rating": 7.8
+            },
+            "males aged 45 plus": {
+                "votes": 13230,
+                "rating": 8.0
+            },
+            "females": {
+                "votes": 29926,
+                "rating": 8.3
+            },
+            "females aged under 18": {
+                "votes": 28,
+                "rating": 8.7
+            },
+            "females aged 18 29": {
+                "votes": 8332,
+                "rating": 8.3
+            },
+            "females aged 30 44": {
+                "votes": 12117,
+                "rating": 8.1
+            },
+            "females aged 45 plus": {
+                "votes": 6023,
+                "rating": 8.4
+            },
+            "top 1000 voters": {
+                "votes": 361,
+                "rating": 6.9
+            },
+            "us users": {
+                "votes": 19683,
+                "rating": 8.2
+            },
+            "non us users": {
+                "votes": 49785,
+                "rating": 7.8
+            }
+        },
+        "number of votes": {
+            "10": 44907,
+            "9": 36340,
+            "8": 35704,
+            "7": 18091,
+            "6": 7915,
+            "5": 3720,
+            "4": 1790,
+            "3": 1154,
+            "2": 826,
+            "1": 1817
+        },
+        "arithmetic mean": 8.3,
+        "median": 9
+    }
+}

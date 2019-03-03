@@ -1,0 +1,720 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "12 September 2016"
+            },
+            {
+                "country": "Australia\n",
+                "date": "13 February 2017"
+            },
+            {
+                "country": "New Zealand\n",
+                "date": "13 February 2017"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "6 March 2017"
+            },
+            {
+                "country": "Greece\n",
+                "date": "6 March 2017"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "6 March 2017"
+            },
+            {
+                "country": "Bulgaria\n",
+                "date": "13 March 2017"
+            },
+            {
+                "country": "Czech Republic\n",
+                "date": "13 March 2017"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "13 March 2017"
+            },
+            {
+                "country": "Poland\n",
+                "date": "13 March 2017"
+            },
+            {
+                "country": "Romania\n",
+                "date": "13 March 2017"
+            },
+            {
+                "country": "Russia\n",
+                "date": "22 April 2017"
+            },
+            {
+                "country": "Germany\n",
+                "date": "8 May 2017",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "UK\n",
+                "date": "10 May 2017",
+                "notes": "                            (segment \"Happy Bounciversary\")"
+            },
+            {
+                "country": "Ireland\n",
+                "date": "10 May 2017",
+                "notes": "                            (segment \"Happy Bounciversary\")"
+            },
+            {
+                "country": "UK\n",
+                "date": "19 May 2017",
+                "notes": "                            (segment \"Say It Don't Spray It\")"
+            },
+            {
+                "country": "Ireland\n",
+                "date": "19 May 2017",
+                "notes": "                            (segment \"Say It Don't Spray It\")"
+            },
+            {
+                "country": "Germany\n",
+                "date": "2 June 2017"
+            },
+            {
+                "country": "Brazil\n",
+                "date": "5 June 2017"
+            },
+            {
+                "country": "France\n",
+                "date": "19 June 2017"
+            }
+        ],
+        "release dates": [
+            "USA::12 September 2016",
+            "Australia::13 February 2017",
+            "New Zealand::13 February 2017",
+            "Belgium::6 March 2017",
+            "Greece::6 March 2017",
+            "Netherlands::6 March 2017",
+            "Bulgaria::13 March 2017",
+            "Czech Republic::13 March 2017",
+            "Hungary::13 March 2017",
+            "Poland::13 March 2017",
+            "Romania::13 March 2017",
+            "Russia::22 April 2017",
+            "Germany::8 May 2017                            (internet)",
+            "UK::10 May 2017                            (segment \"Happy Bounciversary\")",
+            "Ireland::10 May 2017                            (segment \"Happy Bounciversary\")",
+            "UK::19 May 2017                            (segment \"Say It Don't Spray It\")",
+            "Ireland::19 May 2017                            (segment \"Say It Don't Spray It\")",
+            "Germany::2 June 2017",
+            "Brazil::5 June 2017",
+            "France::19 June 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The ZhuZhus"
+            },
+            {
+                "countries": "Brazil (working title)",
+                "title": "Polly e os Zhu Zhu Pets"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Зу Зу"
+            },
+            {
+                "countries": "Canada (French title)",
+                "title": "Frankie et les ZhuZhu Pets"
+            },
+            {
+                "countries": "Czech Republic",
+                "title": "Zhu Zhu"
+            },
+            {
+                "countries": "Germany",
+                "title": "Die ZhuZhus"
+            },
+            {
+                "countries": "Greece",
+                "title": "Τα Ζου Ζου"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Zhu Zhu"
+            },
+            {
+                "countries": "Netherlands (Dutch title)",
+                "title": "De ZhuZhu's"
+            },
+            {
+                "countries": "Poland",
+                "title": "Zhu Zhu"
+            },
+            {
+                "countries": "Romania",
+                "title": "Zhu Zhu"
+            },
+            {
+                "countries": "Russia",
+                "title": "Жужики"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "Polly and the ZhuZhu Pets"
+            },
+            {
+                "countries": "World-wide (English title) (alternative title)",
+                "title": "Frankie and the Zhu Zhu Pets"
+            }
+        ],
+        "akas": [
+            "The ZhuZhus (original title)",
+            "Polly e os Zhu Zhu Pets Brazil (working title)",
+            "Зу Зу Bulgaria (Bulgarian title)",
+            "Frankie et les ZhuZhu Pets Canada (French title)",
+            "Zhu Zhu Czech Republic",
+            "Die ZhuZhus Germany",
+            "Τα Ζου Ζου Greece",
+            "Zhu Zhu Hungary",
+            "De ZhuZhu's Netherlands (Dutch title)",
+            "Zhu Zhu Poland",
+            "Zhu Zhu Romania",
+            "Жужики Russia",
+            "Polly and the ZhuZhu Pets USA (working title)",
+            "Frankie and the Zhu Zhu Pets World-wide (English title) (alternative title)"
+        ],
+        "akas from release info": [
+            "The ZhuZhus (original title)",
+            "Polly e os Zhu Zhu Pets Brazil (working title)",
+            "Зу Зу Bulgaria (Bulgarian title)",
+            "Frankie et les ZhuZhu Pets Canada (French title)",
+            "Zhu Zhu Czech Republic",
+            "Die ZhuZhus Germany",
+            "Τα Ζου Ζου Greece",
+            "Zhu Zhu Hungary",
+            "De ZhuZhu's Netherlands (Dutch title)",
+            "Zhu Zhu Poland",
+            "Zhu Zhu Romania",
+            "Жужики Russia",
+            "Polly and the ZhuZhu Pets USA (working title)",
+            "Frankie and the Zhu Zhu Pets World-wide (English title) (alternative title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Happy Bounciversary/Say It Don't Spray It",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "12 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Frankie and the Zhus try to make Ellen and Stanley's anniversary a blast by planning their own./The Zhus get stuck in the wild after a skunk shows up in their house.    "
+                },
+                "2": {
+                    "title": "Home Run Hamsters/Chip Off the Old Chunk",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "13 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    The Zhus try to return Frankie's glove back to her before the big game starts after she accidentally leaves them at home./Ellen tells the Zhus that they can't go to the grocery store, but they break the rule after Chunk eats all of the chocolate chips.    "
+                },
+                "3": {
+                    "title": "Walter-Gate/Janitor Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "14 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    When Polly asks the Zhus to dog-sit Walter while she gets him a snack, the Zhus accidentally let him out the backyard.    "
+                },
+                "4": {
+                    "title": "Goldfish Fingers/Skate-lebrity",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "15 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Polly is told she can't plumb with her parents, but when the Zhus give Polly something to do, a pipe snaps and the house floods.    "
+                },
+                "5": {
+                    "title": "Zombie Sleep Over/The No-Kart Race",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "16 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Polly is sick, and can't go to the Go-Kart race, so the Zhus try to help her get better in time.    "
+                },
+                "6": {
+                    "title": "Storming the Cat Castle/Ha Ha Hamsters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "7 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    When Num Nums gets taken by Madge's cat, Princess Tickyboo, the Zhus try to rescue her while Polly distracts Madge.    "
+                },
+                "7": {
+                    "title": "Fur-Vivor/Zhuper Girl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "21 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    A rainy day prevents the Zhus from doing the Iron Hamster Games, until Polly decides to do it inside.    "
+                },
+                "8": {
+                    "title": "Wingin' It/Friendship Friend-zy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "15 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Frankie and the Zhus take care of a baby bird and teach it to fly./When Aunt Zia gives Frankie two friendship bracelets, the Zhus compete to see who is Frankie's best friend.    "
+                },
+                "9": {
+                    "title": "Dreams O'Clock/Badge to the Bone",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "21 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Frankie's parents get an emergency plumbing call from Frankie's favorite pop star Jessica Beeker./Frankie and the Zhus try to help Ellen get her last Power Badge Girls badge, the camping badge, when they learn she's afraid of the dark.    "
+                },
+                "10": {
+                    "title": "Full Groan/The Shell Game",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "22 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    The Zhus help Frankie decide what she wants to be when she grows up for a school project./When Frankie breaks her fourth skateboard, her parents cut a deal that if she goes a week without breaking an egg, she can get another one.    "
+                },
+                "11": {
+                    "title": "If Wishes Were Rainbows/Deja Zhu",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "28 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Chunk accidentally uses Frankie's present for Ellen as a letter for the Rainbow Roo./Frankie and the Zhus each tell Ellen their stories of what happened when the lamp broke.    "
+                },
+                "12": {
+                    "title": "A Total Bust a Move/The Grand ZhuZhu Pets Hotel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "29 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    The Zhus try to stop Frankie from dancing in the school talent show after seeing her moves./Frankie gives the Zhus their first vacation experience by running a hotel in the backyard.    "
+                },
+                "13": {
+                    "title": "Zhu Years Eve/Lookies for Cookies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "original air date": "7 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    After Frankie's desires for another treasure hunt are ruined, Mr. Squiggles hides a cookie jar which has Frankie's parents tickets in it, only to forget where he hid it.    "
+                },
+                "14": {
+                    "title": "The Pumpkin Whisperers/Zhuper Zhide Kicks",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "plot": "\n    Frankie enters a pumpkin contest. / Zhuper Girl and her hamster sidekicks battle evil.    "
+                },
+                "15": {
+                    "title": "The Wrong Stuff/Chunklette's Web",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "plot": "\n    Chunk is blasted from a cannon. / Chunk is afraid of spiders.    "
+                },
+                "16": {
+                    "title": "Story Book It/Hairible Mistake",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "original air date": "25 Jul. 2017",
+                    "year": "2017",
+                    "plot": "\n    Frankie tries to write a book. / Frankie gets a haircut.    "
+                },
+                "17": {
+                    "title": "Weathering Heights/The Trashing of Zhuper Girl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "18": {
+                    "title": "Zhurassic Park/Hamster a la Kart",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "plot": "\n    The Zhus make cave paintings. / Frankie and the Zhus work together!    "
+                },
+                "19": {
+                    "title": "Zhu and Improved/The Unfortunate Cookie Crumbles",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "plot": "\n    Squiggles quits science. / Frankie and the Zhus have an unlucky day.    "
+                },
+                "21": {
+                    "title": "Zhu Got Game/And the Hammy Goes To",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "plot": "\n    Frankie and the Zhus find a board game. / Frankie creates her own Awards show.    "
+                },
+                "22": {
+                    "title": "Pranksters' Paradise",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "23": {
+                    "title": "Ball in a Day's Work/How Zhu Get Ahead in Advertising",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The ZhuZhus (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 23,
+                    "plot": "\n    Frankie and the Zhus daydream. / Frankie and the Zhus shoot a commercial.    "
+                }
+            }
+        },
+        "number of episodes": 22,
+        "cast": [
+            {
+                "name": "Isen, Tajja"
+            },
+            {
+                "name": "Binsley, Richard"
+            },
+            {
+                "name": "Seki, Stephany"
+            },
+            {
+                "name": "Tinkler, Rob"
+            },
+            {
+                "name": "Warren, Jenna"
+            },
+            {
+                "name": "Bennett, Zachary"
+            },
+            {
+                "name": "DePass, Stacey"
+            },
+            {
+                "name": "Daguanno, Brianna"
+            },
+            {
+                "name": "Holley, Addison"
+            },
+            {
+                "name": "King, Helen"
+            },
+            {
+                "name": "Brenner, Rebecca"
+            },
+            {
+                "name": "McKenna, Patrick"
+            },
+            {
+                "name": "Weinstein, Samantha"
+            },
+            {
+                "name": "Stamp, Nicole"
+            },
+            {
+                "name": "Vacratsis, Maria"
+            },
+            {
+                "name": "Rubin, Ron"
+            }
+        ],
+        "locations": [
+            "Toronto, Ontario, Canada::(location)"
+        ],
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy",
+            "Family"
+        ],
+        "runtimes": [
+            "22"
+        ],
+        "countries": [
+            "Canada",
+            "United States"
+        ],
+        "country codes": [
+            "ca",
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color::(HD)"
+        ],
+        "aspect ratio": "16:9 HD",
+        "certificates": [
+            "United States:TV-G::(TV rating)"
+        ],
+        "number of seasons": 1,
+        "rating": 5.2,
+        "votes": 47,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYzEyMWQ0MjYtMWQ1Yi00ZmRmLTkzYzAtYjc0Nzg0ZDEwNmI4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ4Mzc0NDU@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The ZhuZhus",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Jefferson, Eric"
+            },
+            {
+                "name": "McGurrin, Terry"
+            },
+            {
+                "name": "Duffy, Hugh"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Cepia"
+            },
+            {
+                "name": "Corus Entertainment"
+            },
+            {
+                "name": "Nelvana"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Boomerang"
+            },
+            {
+                "name": "Discovery Kids Latin America"
+            },
+            {
+                "name": "Disney Channel Australia"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "France 3 (FR 3)"
+            },
+            {
+                "name": "Nelvana"
+            },
+            {
+                "name": "YTV"
+            }
+        ],
+        "plot": [
+            "Frankie Pamplemousse, an energetic 8-year-old girl, lives in Anytown with her four talking, extraordinary hamsters; Pipsqueak, Mr. Squiggles, Num Nums, and Chunk.::Palettepony895"
+        ],
+        "tech": {
+            "runtime": [
+                "22 min"
+            ],
+            "color": [
+                "Color (HD)"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 47,
+                "rating": 5.2
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 5.5
+            },
+            "aged 18 29": {
+                "votes": 13,
+                "rating": 4.5
+            },
+            "aged 30 44": {
+                "votes": 8,
+                "rating": 4.1
+            },
+            "aged 45 plus": {
+                "votes": 3,
+                "rating": 7.3
+            },
+            "males": {
+                "votes": 21,
+                "rating": 5.5
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 5.5
+            },
+            "males aged 18 29": {
+                "votes": 6,
+                "rating": 5.8
+            },
+            "males aged 30 44": {
+                "votes": 6,
+                "rating": 4.7
+            },
+            "males aged 45 plus": {
+                "votes": 3,
+                "rating": 7.3
+            },
+            "females": {
+                "votes": 10,
+                "rating": 3.1
+            },
+            "females aged 18 29": {
+                "votes": 7,
+                "rating": 3.3
+            },
+            "females aged 30 44": {
+                "votes": 2,
+                "rating": 3.0
+            },
+            "top 1000 voters": {
+                "votes": 4,
+                "rating": 7.0
+            },
+            "us users": {
+                "votes": 6,
+                "rating": 3.7
+            },
+            "non us users": {
+                "votes": 15,
+                "rating": 5.0
+            }
+        },
+        "number of votes": {
+            "10": 11,
+            "9": 0,
+            "8": 1,
+            "7": 3,
+            "6": 6,
+            "5": 5,
+            "4": 2,
+            "3": 5,
+            "2": 7,
+            "1": 7
+        },
+        "arithmetic mean": 5.2,
+        "median": 5
+    }
+}

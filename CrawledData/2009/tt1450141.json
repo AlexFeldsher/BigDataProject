@@ -1,0 +1,206 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "1 June 2009"
+            },
+            {
+                "country": "USA\n",
+                "date": "10 August 2010"
+            }
+        ],
+        "release dates": [
+            "USA::1 June 2009",
+            "USA::10 August 2010"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Animal Planet's Most Outrageous"
+            },
+            {
+                "countries": "Greece",
+                "title": "Ta pio apithana zoa tou planiti"
+            }
+        ],
+        "akas": [
+            "Animal Planet's Most Outrageous (original title)",
+            "Ta pio apithana zoa tou planiti Greece"
+        ],
+        "akas from release info": [
+            "Animal Planet's Most Outrageous (original title)",
+            "Ta pio apithana zoa tou planiti Greece"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Overwhelmed: Cape Cod",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Animal Planet's Most Outrageous (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "10 Aug. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "Talented Pets",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Animal Planet's Most Outrageous (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Andrew, Dane"
+            },
+            {
+                "name": "Ball, Ray"
+            },
+            {
+                "name": "Dog, Rascal The World's Ugliest"
+            },
+            {
+                "name": "Pazsitzky, Christina"
+            }
+        ],
+        "locations": [
+            "Del Mar, California, USA"
+        ],
+        "genres": [
+            "Family"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 6.6,
+        "votes": 12,
+        "languages": [
+            "English"
+        ],
+        "title": "Animal Planet's Most Outrageous",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Rotter, Jeff"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Sharp Entertainment"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Animal Planet"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (including commercials) (USA)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 12,
+                "rating": 6.6
+            },
+            "aged 18 29": {
+                "votes": 2,
+                "rating": 8.0
+            },
+            "aged 30 44": {
+                "votes": 6,
+                "rating": 7.8
+            },
+            "aged 45 plus": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "males": {
+                "votes": 3,
+                "rating": 6.7
+            },
+            "males aged 30 44": {
+                "votes": 3,
+                "rating": 6.7
+            },
+            "females": {
+                "votes": 6,
+                "rating": 8.7
+            },
+            "females aged 18 29": {
+                "votes": 2,
+                "rating": 8.0
+            },
+            "females aged 30 44": {
+                "votes": 3,
+                "rating": 9.0
+            },
+            "females aged 45 plus": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "top 1000 voters": {
+                "votes": 6,
+                "rating": 6.2
+            },
+            "us users": {
+                "votes": 4,
+                "rating": 8.0
+            },
+            "non us users": {
+                "votes": 4,
+                "rating": 7.8
+            }
+        },
+        "number of votes": {
+            "10": 1,
+            "9": 4,
+            "8": 1,
+            "7": 1,
+            "6": 1,
+            "5": 2,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 2
+        },
+        "arithmetic mean": 6.6,
+        "median": 7
+    }
+}

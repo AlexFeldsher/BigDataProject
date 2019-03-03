@@ -1,0 +1,111 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "1 January 2007"
+            },
+            {
+                "country": "USA\n",
+                "date": "1 October 2015",
+                "notes": "                            (restored version)"
+            }
+        ],
+        "release dates": [
+            "USA::1 January 2007",
+            "USA::1 October 2015                            (restored version)"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "A Dead World",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Castle 3 (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "original air date": "2007",
+                    "year": "2007",
+                    "plot": "\n    Etrius faces an illnesses that causes him to have nightmares about the battle of the Second Castle, then ends off with the General's Briefing with Etrius.    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Tomar, Joshua"
+            },
+            {
+                "name": "Calverley, Harry"
+            },
+            {
+                "name": "Calverley, James"
+            },
+            {
+                "name": "Johansson, Oscar"
+            },
+            {
+                "name": "Tomar, Joshua"
+            },
+            {
+                "name": "Vinter, Aleksander"
+            }
+        ],
+        "genres": [
+            "Action",
+            "Horror",
+            "Mystery"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "country codes": [
+            "se"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "number of seasons": 3,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BODA4NjZkYjktM2I1MS00YzRhLTk0NDEtYmY2MTc3YTc5MmQ5XkEyXkFqcGdeQXVyODQ3NjcwODM@._V1_SY150_CR43,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Castle 3",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-2009",
+        "akas": [
+            "Castle 3 (Sweden)"
+        ],
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "writer": [
+            {
+                "name": "Berglund, Fabian"
+            },
+            {
+                "name": "Johansson, Oscar"
+            },
+            {
+                "name": "Westin, Victor"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

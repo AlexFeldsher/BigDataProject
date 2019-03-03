@@ -1,0 +1,555 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "4 June 2008"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "28 August 2009"
+            },
+            {
+                "country": "Australia\n",
+                "date": "17 October 2009"
+            }
+        ],
+        "release dates": [
+            "USA::4 June 2008",
+            "Sweden::28 August 2009",
+            "Australia::17 October 2009"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "She's Got the Look"
+            },
+            {
+                "countries": "Greece",
+                "title": "She's Got the Look"
+            }
+        ],
+        "akas": [
+            "She's Got the Look (original title)",
+            "She's Got the Look Greece"
+        ],
+        "akas from release info": [
+            "She's Got the Look (original title)",
+            "She's Got the Look Greece"
+        ],
+        "episodes": {
+            "3": {
+                "0": {
+                    "title": "She's Got the Look Behind the Scenes Special",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 0,
+                    "original air date": "8 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    Ten aspiring models are chosen from thousands of beautiful hopefuls to compete in this over-35 modeling reality competition.    "
+                },
+                "1": {
+                    "title": "Bikini Beauties",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "original air date": "25 Aug. 2010",
+                    "year": "2010",
+                    "plot": "\n    Season 3 kicks off in a new city with a fresh crop of ten gorgeous models who, after settling into their LA loft, face their first elimination challenge: a photo shoot, where they must pair up and strip down - to their bikinis!    "
+                },
+                "2": {
+                    "title": "Getting the Look",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "original air date": "1 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    The nine remaining models receive world-class makeovers - some of them dramatic. But one model refuses to make a change, causing friction with the other women and jeopardizing her standing with the judges.    "
+                },
+                "3": {
+                    "title": "High Fashion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "original air date": "8 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    The eight remaining models take confidence and courage to new heights in the first ever flying fashion show. One model collapses under the pressure, while another model's excuses could get her eliminated.    "
+                },
+                "4": {
+                    "title": "The Models Face Off",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "original air date": "15 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    Nerves bubble to the surface during an underwater photo shoot when a model admits she can't swim. And, conflict between two models sends a ripple of tension through the group, threatening to sink everyone's chances.    "
+                },
+                "5": {
+                    "title": "Booking the Job",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "original air date": "22 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    The final five models meet with actual clients, including model/actress, Lisa Rinna, and get a shot at booking real work. The catch? There are just four potential jobs - whoever doesn't land one will face elimination!    "
+                },
+                "6": {
+                    "title": "Winner Bares All",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "original air date": "29 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    The remaining four dare to go bare in their last photo shoot. Then, the final three battle it out in four-inch heels on a dangerous moving runway. The last model standing takes home the title as winner of \"She's Got the Look.\"    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "The New York 10",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "4 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n    The competition begins with a nationwide search, and 20 semifinalists are flown to New York.    "
+                },
+                "2": {
+                    "title": "Dare to Bare",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "11 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n    The 10 finalists undergo amazing transformations, face six of the toughest agents at Wilhelmina Models    "
+                },
+                "3": {
+                    "title": "Down the Runway",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "18 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n    The competition intensifies and emotions run high. The eight remaining ladies receive modeling tips from a surprise guest and then strut their stuff at a live runway show!    "
+                },
+                "4": {
+                    "title": "Flying High",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "25 Jun. 2008",
+                    "year": "2008",
+                    "plot": "\n    The competition soars to new heights as the seven finalists face their fears on the flying trapeze.    "
+                },
+                "5": {
+                    "title": "A Commercial with Taste",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "2 Jul. 2008",
+                    "year": "2008",
+                    "plot": "\n    The five remaining ladies get a taste for acting with a surprise celebrity guest.    "
+                },
+                "6": {
+                    "title": "The Lady with the Look",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "9 Jul. 2008",
+                    "year": "2008",
+                    "plot": "\n    Only four lucky finalists remain, and they must use everything they've learned to make it to the top.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "The Perfect... Ten?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "11 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    After a nationwide search, twenty semifinalists fly to New York and face an unexpected runway challenge that ends with a major surprise at elimination. The remaining finalists stay to compete for the opportunity of a lifetime.    "
+                },
+                "2": {
+                    "title": "Picture Im-Perfect",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "original air date": "18 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    The finalists undergo dramatic makeovers, face tough casting agents, and participate in their first professional photo shoot. The pressure proves to be too much for one model who lets loose in a wild stunt at elimination.    "
+                },
+                "3": {
+                    "title": "Fit for the Job",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "25 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    The remaining models endure extreme weather conditions in a bare-it-all photo shoot in Central Park. Supermodel Frederique is a mentor and guest judge for their first in-motion photo shoot on trampolines!    "
+                },
+                "4": {
+                    "title": "Strike a Pose",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "original air date": "2 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    After celebrity stylist Robert Verdi trashes their wardrobes, the remaining models go on a whirlwind shopping spree. Later, the women struggle to master'C;mannequin modeling'D; and two bitter rivals are forced to work together.    "
+                },
+                "5": {
+                    "title": "Fear",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "original air date": "9 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    The remaining ladies are pushed to their limits physically in a fitness photo shoot, then mentally in a challenge that forces them to confront their deepest fears. As the competition intensifies, tensions run high at the loft.    "
+                },
+                "6": {
+                    "title": "Jane of All Trades",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "original air date": "16 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    The remaining finalists face a messy ?working mom? leg-up challenge to win immunity from elimination, but a steamy lingerie shoot with one of Wilhelmina?s top male models will burn the models in the end.    "
+                },
+                "7": {
+                    "title": "Cover Girls",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "original air date": "23 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    The remaining finalists must prove their versatility and longevity as models by competing as television hosts. Later, the models play undercover agents in a high-octane action film scene. Ultimately who will be sent packing?    "
+                },
+                "8": {
+                    "title": "And the Winner is...",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "She's Got the Look (TV Series 2008–2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "original air date": "30 Jul. 2009",
+                    "year": "2009",
+                    "plot": "\n    The remaining models jet set to Miami for their final two photo shoots and must walk the runway with professional Wilhelmina models at a fashion show. In the end, one model is named the winner of \"She's Got the Look.\"    "
+                }
+            }
+        },
+        "number of episodes": 21,
+        "cast": [
+            {
+                "name": "Patterson, Sean"
+            },
+            {
+                "name": "Verdi, Robert"
+            },
+            {
+                "name": "Day, Cindy"
+            },
+            {
+                "name": "De Vega, Dolores"
+            },
+            {
+                "name": "Johnson, Beverly"
+            },
+            {
+                "name": "Kalnins, Theresa"
+            },
+            {
+                "name": "Locken, LeeAnne"
+            },
+            {
+                "name": "Marks, Shelly"
+            },
+            {
+                "name": "Penrod, Jamie"
+            },
+            {
+                "name": "Young, Sandy"
+            },
+            {
+                "name": "Alexis, Kim"
+            },
+            {
+                "name": "Paget, Rachel"
+            },
+            {
+                "name": "Riley-Thomas, Raquel"
+            },
+            {
+                "name": "Siebert, Jacqueline"
+            },
+            {
+                "name": "Burke, Brooke"
+            },
+            {
+                "name": "Danziger, Lucy"
+            },
+            {
+                "name": "Stern, Beth"
+            },
+            {
+                "name": "Hutchinson, Tanya"
+            },
+            {
+                "name": "Williams, Roshumba"
+            },
+            {
+                "name": "Hunter, Rachel"
+            },
+            {
+                "name": "Haifi, Bahia"
+            },
+            {
+                "name": "Hallén, Karin"
+            },
+            {
+                "name": "Kita, Candace"
+            },
+            {
+                "name": "Lannin, Natasha"
+            },
+            {
+                "name": "Thomas, Paula"
+            },
+            {
+                "name": "Daveta, Francine"
+            },
+            {
+                "name": "Kelahan, Edward M."
+            },
+            {
+                "name": "Wharton, Paul"
+            },
+            {
+                "name": "Nave, Nancy"
+            },
+            {
+                "name": "Boco, Anthony"
+            },
+            {
+                "name": "Boudreau, Carla"
+            }
+        ],
+        "genres": [
+            "Reality-TV"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 3,
+        "rating": 6.1,
+        "votes": 75,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNjI2MDU1ODMxOF5BMl5BanBnXkFtZTcwNjUwODQzOA@@._V1_SY150_CR6,0,101,150_.jpg",
+        "plot outline": "Ten women over age 35 contend to be the next great supermodel. While living together in a New York City loft, they compete on the runway and in photo shoots. These women have experience and depth. They have stories to tell. Bahia, 37, was raised in a conservative Muslim family and is finally embracing her beauty. Celeste, 50, once walked the runways in Europe. Hope, 35, is a mom of three who never gave up her dream of modeling. Karin, 40, is a striking Swede who was once shy and awkward. Kathy, 39, gave up her modeling career to stay home with her kids. Melissa, 38, says she looks better now than ever before. Paula, 37, put herself through college on a sports scholarship. Roxanne, 40, is a redheaded, spiritual beauty. Sharon is a recently widowed 63-year-old stunner. Tanya, 45, overcame a difficult childhood and is committed to her family and community. Only one will win a contract with Wilhelmina Models, Inc. and a photo spread in SELF magazine.",
+        "languages": [
+            "English"
+        ],
+        "title": "She's Got the Look",
+        "year": 2008,
+        "kind": "tv series",
+        "series years": "2008-2010",
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "production companies": [
+            {
+                "name": "Allison Grodner Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "TV Land"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Gallagher Entertainment"
+            }
+        ],
+        "plot": [
+            "Ten women over age 35 contend to be the next great supermodel. While living together in a New York City loft, they compete on the runway and in photo shoots. These women have experience and depth. They have stories to tell. Bahia, 37, was raised in a conservative Muslim family and is finally embracing her beauty. Celeste, 50, once walked the runways in Europe. Hope, 35, is a mom of three who never gave up her dream of modeling. Karin, 40, is a striking Swede who was once shy and awkward. Kathy, 39, gave up her modeling career to stay home with her kids. Melissa, 38, says she looks better now than ever before. Paula, 37, put herself through college on a sports scholarship. Roxanne, 40, is a redheaded, spiritual beauty. Sharon is a recently widowed 63-year-old stunner. Tanya, 45, overcame a difficult childhood and is committed to her family and community. Only one will win a contract with Wilhelmina Models, Inc. and a photo spread in SELF magazine."
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 75,
+                "rating": 6.1
+            },
+            "aged 18 29": {
+                "votes": 19,
+                "rating": 5.5
+            },
+            "aged 30 44": {
+                "votes": 28,
+                "rating": 6.6
+            },
+            "aged 45 plus": {
+                "votes": 23,
+                "rating": 4.9
+            },
+            "males": {
+                "votes": 26,
+                "rating": 4.5
+            },
+            "males aged 18 29": {
+                "votes": 9,
+                "rating": 5.6
+            },
+            "males aged 30 44": {
+                "votes": 8,
+                "rating": 4.1
+            },
+            "males aged 45 plus": {
+                "votes": 9,
+                "rating": 3.9
+            },
+            "females": {
+                "votes": 44,
+                "rating": 6.5
+            },
+            "females aged 18 29": {
+                "votes": 10,
+                "rating": 5.3
+            },
+            "females aged 30 44": {
+                "votes": 20,
+                "rating": 7.7
+            },
+            "females aged 45 plus": {
+                "votes": 14,
+                "rating": 5.7
+            },
+            "top 1000 voters": {
+                "votes": 4,
+                "rating": 4.0
+            },
+            "us users": {
+                "votes": 48,
+                "rating": 5.7
+            },
+            "non us users": {
+                "votes": 16,
+                "rating": 6.1
+            }
+        },
+        "number of votes": {
+            "10": 17,
+            "9": 4,
+            "8": 8,
+            "7": 8,
+            "6": 7,
+            "5": 6,
+            "4": 8,
+            "3": 3,
+            "2": 1,
+            "1": 13
+        },
+        "arithmetic mean": 6.1,
+        "median": 6
+    }
+}

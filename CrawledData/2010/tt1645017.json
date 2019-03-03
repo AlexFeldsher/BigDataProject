@@ -1,0 +1,101 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Spain\n",
+                "date": "  2010"
+            },
+            {
+                "country": "Spain\n",
+                "date": "12 April 2010"
+            }
+        ],
+        "release dates": [
+            "Spain::2010",
+            "Spain::12 April 2010"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tengo 20 años (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Campos, María Teresa"
+            },
+            {
+                "name": "García, Emma"
+            },
+            {
+                "name": "González, Goyo"
+            },
+            {
+                "name": "González, Jordi"
+            },
+            {
+                "name": "Jiménez, Rocío"
+            },
+            {
+                "name": "Milá, Mercedes"
+            },
+            {
+                "name": "Piqueras, Pedro"
+            },
+            {
+                "name": "Vázquez, Jesús"
+            },
+            {
+                "name": "Vázquez, Jorge Javier"
+            }
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "country codes": [
+            "es"
+        ],
+        "language codes": [
+            "es"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "Spanish"
+        ],
+        "title": "Tengo 20 años",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-",
+        "akas": [
+            "Tengo 20 años (Spain)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "distributors": [
+            {
+                "name": "Telecinco"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

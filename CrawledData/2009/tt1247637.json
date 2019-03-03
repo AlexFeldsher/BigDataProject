@@ -1,0 +1,624 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "4 January 2009"
+            },
+            {
+                "country": "UK\n",
+                "date": "5 January 2009"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "31 May 2009"
+            },
+            {
+                "country": "Australia\n",
+                "date": "9 December 2009"
+            },
+            {
+                "country": "France\n",
+                "date": "25 January 2010"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "10 May 2010"
+            },
+            {
+                "country": "Japan\n",
+                "date": "19 September 2010",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "19 September 2010",
+                "notes": "                            (part 2)"
+            },
+            {
+                "country": "UK\n",
+                "date": "  2012"
+            }
+        ],
+        "release dates": [
+            "UK::4 January 2009",
+            "UK::5 January 2009",
+            "Netherlands::31 May 2009",
+            "Australia::9 December 2009",
+            "France::25 January 2010",
+            "Sweden::10 May 2010",
+            "Japan::19 September 2010                            (part 1)",
+            "Japan::19 September 2010                            (part 2)",
+            "UK::2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Above Suspicion"
+            },
+            {
+                "countries": "France",
+                "title": "Insoupçonnable"
+            },
+            {
+                "countries": "France",
+                "title": "un silence assourdissant"
+            },
+            {
+                "countries": "Russia",
+                "title": "Вне подозрений"
+            },
+            {
+                "countries": "Sweden",
+                "title": "Kommissarie Anna Travis"
+            },
+            {
+                "title": "Silent Scream"
+            }
+        ],
+        "akas": [
+            "Above Suspicion (original title)",
+            "Insoupçonnable France",
+            "un silence assourdissant France",
+            "Вне подозрений Russia",
+            "Kommissarie Anna Travis Sweden",
+            "Silent Scream "
+        ],
+        "akas from release info": [
+            "Above Suspicion (original title)",
+            "Insoupçonnable France",
+            "un silence assourdissant France",
+            "Вне подозрений Russia",
+            "Kommissarie Anna Travis Sweden",
+            "Silent Scream "
+        ],
+        "episodes": {
+            "4": {
+                "1": {
+                    "title": "Silent Scream Part 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Above Suspicion (TV Series 2009–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "votes": 52,
+                    "original air date": "9 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    Langton suspects that the reasons he lost out on a promotion to commander is affirmative action and someone resurrecting the Fitzpatrick Case. He takes on the murder of a young actress in order to resolve these questions.    "
+                },
+                "2": {
+                    "title": "Silent Scream Part 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Above Suspicion (TV Series 2009–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "votes": 51,
+                    "original air date": "16 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    Three of Amanda's lovers fall under suspicion, and Lamgton confronts Anna to find out if she is the one who cost him his promotion.    "
+                },
+                "3": {
+                    "title": "Silent Scream Part 3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Above Suspicion (TV Series 2009–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "votes": 47,
+                    "original air date": "23 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    Felicity's dead body is found in the mirror and it's revealed that Jeanie Bale was blackmailing Amanda's parents with her diary.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Part 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Above Suspicion (TV Series 2009–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 65,
+                    "original air date": "4 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    For eight years, some has been murdering women, following the same brutal ritual each time. The most recent victim doesn't fit the profile, but evidence links her to the others. Anna volunteers to go undercover to crack the case.    "
+                },
+                "2": {
+                    "title": "Part 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Above Suspicion (TV Series 2009–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 65,
+                    "original air date": "5 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Langton permits rookie Anna Travis to go on a date to the ballet with actor Alan Daniels, the prime suspect in serial killings involving low-rent prostitutes to gain information and mislead him.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "The Red Dahlia: Part 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Above Suspicion (TV Series 2009–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 648,
+                    "original air date": "4 Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    The discovery of the mutilated body of a young woman seems to echo that of the notorious unsolved Los Angeles 'Black Dahlia' murder of the 1940s.    "
+                },
+                "2": {
+                    "title": "The Red Dahlia: Part 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Above Suspicion (TV Series 2009–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 68,
+                    "original air date": "5 Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    Anna becomes involved romantically with the tabloid journalist covering the murder, and an anonymous phone call leads LBangton to an aristocratic ex-army surgeon as the chief suspect in the murders.    "
+                },
+                "3": {
+                    "title": "The Red Dahlia: Part 3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Above Suspicion (TV Series 2009–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 65,
+                    "original air date": "6 Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    Langton is sure arrogant, aristocratic Charles Wickenham , aided and abetted by his incestuous family is guilty of the horrific copycat murders.    "
+                }
+            },
+            "3": {
+                "1": {
+                    "title": "Deadly Intent Part 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Above Suspicion (TV Series 2009–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 43,
+                    "original air date": "3 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    In Mexico someone is having plastic surgery. On a London estate disgraced ex-cop Frank Brandon is found shot dead in a crack den and Anna,now an inspector,joins the hunt for the killer. Frank had a girl-friend but had recently married Julia Larson,a wealthy Danish woman for whom he has briefly worked as her chauffeur. She is evasive in interview and seemingly fearful. Evidence suggests that somebody was with Frank when he died and although only two bullets entered Frank residents heard three shots fired.Jeremy,an autistic youth,proves an enormous help as he has noted ...    "
+                },
+                "2": {
+                    "title": "Deadly Intent Part 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Above Suspicion (TV Series 2009–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 41,
+                    "original air date": "4 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    Whilst Roache admits to shooting Frank in a panic he denies killing Danny. Middle-class drop-out and user Julian D'Anton's prints are on Danny's car though Langton considers him too small-time to be a murderer. From a photograph Anna identifies Julia's ex-husband Collingwood as an international criminal and asks Sam Power to contact the FBI for details of his crimes in America,though Julia denies all knowledge,even after her accountant,Rushton,is found dead. Anna and Langton visit Julia's homely sister Helga and her husband Damian,an Oxford professor,at their remote ...    "
+                },
+                "3": {
+                    "title": "Deadly Intent Part 3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Above Suspicion (TV Series 2009–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 40,
+                    "original air date": "5 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    Julia's husband Anthony Collingwood is an alternate identity for international drug dealer Alexander Fitzpatrick, who only seems to care about his son.    "
+                }
+            }
+        },
+        "number of episodes": 11,
+        "cast": [
+            {
+                "name": "Reilly, Kelly"
+            },
+            {
+                "name": "Hinds, Ciarán"
+            },
+            {
+                "name": "Dingwall, Shaun"
+            },
+            {
+                "name": "Lawrence, Amanda"
+            },
+            {
+                "name": "Jones, Celyn"
+            },
+            {
+                "name": "Holmes, Michelle"
+            },
+            {
+                "name": "Jayasundera, Thusitha"
+            },
+            {
+                "name": "Cameron-Blakey, Nadia"
+            },
+            {
+                "name": "Brake, Richard"
+            },
+            {
+                "name": "Bell, Geoff"
+            },
+            {
+                "name": "Clothier, Richard"
+            },
+            {
+                "name": "Clyde, James"
+            },
+            {
+                "name": "Devaney, Dara"
+            },
+            {
+                "name": "Grainger, Holliday"
+            },
+            {
+                "name": "Fortune, Jack"
+            },
+            {
+                "name": "Glaser, Ty"
+            },
+            {
+                "name": "Hannah, Bryony"
+            },
+            {
+                "name": "Stengade, Stine"
+            },
+            {
+                "name": "Price, Alex"
+            },
+            {
+                "name": "Stewart, Sara"
+            },
+            {
+                "name": "Vanderham, Joanna"
+            },
+            {
+                "name": "Whybrow, Lucy"
+            },
+            {
+                "name": "Fearon, Ray"
+            },
+            {
+                "name": "O'Flynn, Kate"
+            },
+            {
+                "name": "Durr, Jason"
+            },
+            {
+                "name": "Caltagirone, Daniel"
+            },
+            {
+                "name": "Blackwood, Tilly"
+            },
+            {
+                "name": "Coughlan, Samantha"
+            },
+            {
+                "name": "Williams, Simon"
+            },
+            {
+                "name": "Syms, Sylvia"
+            },
+            {
+                "name": "Gee, Robbie"
+            },
+            {
+                "name": "Storry, Malcolm"
+            },
+            {
+                "name": "Gregory, Leo"
+            },
+            {
+                "name": "Bennett, Edward"
+            },
+            {
+                "name": "MacLiam, Edward"
+            },
+            {
+                "name": "George, Ashley"
+            },
+            {
+                "name": "Hansen, Benedikte"
+            },
+            {
+                "name": "Grove, Victoria"
+            },
+            {
+                "name": "Murray, Hannah"
+            },
+            {
+                "name": "MacAllan, Ray"
+            },
+            {
+                "name": "Pollard, Emma"
+            },
+            {
+                "name": "Rømer, Kim"
+            },
+            {
+                "name": "Riviere, Kirris"
+            },
+            {
+                "name": "Sands, Julian"
+            },
+            {
+                "name": "Miller, William"
+            },
+            {
+                "name": "Prevost, Nicholas Le"
+            },
+            {
+                "name": "Ryan, Jack"
+            },
+            {
+                "name": "Jr., Enzo Squillino"
+            },
+            {
+                "name": "Tepina, Aliash"
+            },
+            {
+                "name": "Simkins, Michael"
+            }
+        ],
+        "locations": [
+            "London, England, UK",
+            "Portugal::(seedy Spanish villa)"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "46"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16 : 9",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Netherlands:12",
+            "New Zealand:R18"
+        ],
+        "number of seasons": 4,
+        "rating": 7.1,
+        "votes": 1791,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNDg4ZTc2MzAtZjM0YS00ZjljLWIxMzUtMWEwMjM0M2M0NThkXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SY150_CR3,0,101,150_.jpg",
+        "plot outline": "Young Detective Constable Anna Travis joins the team led by D.C.I. Langton to investigate a series of gruesome murders of young women, which first began eight years previously. All the victims were prostitutes and all killed in the same way. Then a seventh body is found but this is the corpse of a student, though a vital piece of evidence links her death to the others, involving a house in Manchester where Alan Daniels, a popular young actor, grew up. Anna goes undercover to get to know him better but finds herself getting emotionally involved.",
+        "languages": [
+            "English"
+        ],
+        "title": "Above Suspicion",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-2012",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "writer": [
+            {
+                "name": "La Plante, Lynda"
+            },
+            {
+                "name": "Farragher, Noel"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "La Plante Productions"
+            },
+            {
+                "name": "RLJ Entertainment"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "ITV - Independent Television"
+            },
+            {
+                "name": "Katholieke Radio Omroep (KRO)"
+            },
+            {
+                "name": "WOWOW"
+            },
+            {
+                "name": "Acorn Media Group"
+            },
+            {
+                "name": "WOWOW Prime"
+            },
+            {
+                "name": "WOWOW"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "ARRI Media"
+            },
+            {
+                "name": "Casting Collective"
+            },
+            {
+                "name": "Compuhire"
+            },
+            {
+                "name": "Molinare Studio"
+            },
+            {
+                "name": "Molinare Studio"
+            },
+            {
+                "name": "Production Copier Company"
+            },
+            {
+                "name": "Scallywag Travel"
+            },
+            {
+                "name": "Soundtrack New York"
+            },
+            {
+                "name": "Yacinsky Design"
+            }
+        ],
+        "plot": [
+            "The murder of a young actress starts an investigation that uncovers on-screen tensions, a complex private life, controversial memoirs, and suspected abuse.::Anonymous",
+            "Young Detective Constable Anna Travis joins the team led by D.C.I. Langton to investigate a series of gruesome murders of young women, which first began eight years previously. All the victims were prostitutes and all killed in the same way. Then a seventh body is found but this is the corpse of a student, though a vital piece of evidence links her death to the others, involving a house in Manchester where Alan Daniels, a popular young actor, grew up. Anna goes undercover to get to know him better but finds herself getting emotionally involved.::don @ minifie-1",
+            "DI Anna Travis reunited with DCS James Langton as they investigate the fatal shooting of Frank Brandon, an ex-police officer from the drug squad, whose body is found in a drug dealer s squat. Travis begins to uncover suspicious links between Brandon and the notorious drug-trafficker, Alexander Fitzpatrick, one of the most wanted men in the Western world who has eluded arrest for 20 years and has not been sighted until now. No one involved with the case can be trusted; witnesses, suspects, victims all appear to be lying. What can be so precious, valued, loved, that it s worth dying for? The answer lies behind a Deadly Intent.::Bye"
+        ],
+        "tech": {
+            "runtime": [
+                "46 min",
+                "1 hr (60 min) (2 parts) (Sweden)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16 : 9"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1791,
+                "rating": 7.1
+            },
+            "aged 18 29": {
+                "votes": 115,
+                "rating": 7.3
+            },
+            "aged 30 44": {
+                "votes": 525,
+                "rating": 6.9
+            },
+            "aged 45 plus": {
+                "votes": 791,
+                "rating": 7.2
+            },
+            "males": {
+                "votes": 812,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 52,
+                "rating": 7.3
+            },
+            "males aged 30 44": {
+                "votes": 264,
+                "rating": 6.7
+            },
+            "males aged 45 plus": {
+                "votes": 467,
+                "rating": 7.1
+            },
+            "females": {
+                "votes": 657,
+                "rating": 7.3
+            },
+            "females aged 18 29": {
+                "votes": 62,
+                "rating": 7.2
+            },
+            "females aged 30 44": {
+                "votes": 256,
+                "rating": 7.1
+            },
+            "females aged 45 plus": {
+                "votes": 316,
+                "rating": 7.4
+            },
+            "top 1000 voters": {
+                "votes": 81,
+                "rating": 6.4
+            },
+            "us users": {
+                "votes": 317,
+                "rating": 7.1
+            },
+            "non us users": {
+                "votes": 932,
+                "rating": 7.0
+            }
+        },
+        "number of votes": {
+            "10": 194,
+            "9": 175,
+            "8": 449,
+            "7": 535,
+            "6": 223,
+            "5": 76,
+            "4": 37,
+            "3": 22,
+            "2": 27,
+            "1": 53
+        },
+        "arithmetic mean": 7.2,
+        "median": 7
+    }
+}

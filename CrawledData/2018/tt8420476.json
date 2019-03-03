@@ -1,0 +1,386 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "10 March 2018",
+                "notes": "                            (German premiere)"
+            },
+            {
+                "country": "USA\n",
+                "date": "19 March 2018"
+            },
+            {
+                "country": "USA\n",
+                "date": "19 March 2018",
+                "notes": "                            (USA premiere)"
+            }
+        ],
+        "release dates": [
+            "Germany::10 March 2018                            (German premiere)",
+            "USA::19 March 2018",
+            "USA::19 March 2018                            (USA premiere)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Epic Warrior Women"
+            },
+            {
+                "countries": "Sweden",
+                "title": "Historiens kvinnliga krigare"
+            }
+        ],
+        "akas": [
+            "Epic Warrior Women (original title)",
+            "Historiens kvinnliga krigare Sweden"
+        ],
+        "akas from release info": [
+            "Epic Warrior Women (original title)",
+            "Historiens kvinnliga krigare Sweden"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Amazons",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Epic Warrior Women (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "19 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    The drama driven episode follows the life of Scythian orphan girl Alkaya who grows up to become a skilled and fearless horse warrior. As the new Chief, Alkaya leads her tribe into a defining battle against the Persians in 6th Century BC.    "
+                },
+                "2": {
+                    "title": "Gladiatrix",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Epic Warrior Women (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "26 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Celt warrior woman Ardala is sold into a Mediterranean gladiator school in 2nd Century AD. In the gladiator school she transforms from rebellious recruit to ruthless fighter wanting to avenge the death of her friend and mentor Zonena.    "
+                },
+                "3": {
+                    "title": "Africa's Amazons",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Epic Warrior Women (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "2 Apr. 2018",
+                    "year": "2018",
+                    "plot": "\n    The all-female Agooji regiments were the terrifying elite force of the Kingdom of Dahomey that was feared for its slave raids in West Africa. We recreate the life of young recruit Sukeoun who fights French colonial forces.    "
+                },
+                "4": {
+                    "title": "Vikings",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Epic Warrior Women (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Hughes, Bettany"
+            },
+            {
+                "name": "Mayor, Adrienne"
+            },
+            {
+                "name": "Toulan, Aimee Akapo"
+            },
+            {
+                "name": "Dimech, Rebecca"
+            },
+            {
+                "name": "Stefansdotter, Moa Enqvist"
+            },
+            {
+                "name": "Tleubay, Gaziza"
+            },
+            {
+                "name": "Abissi, Ceciline"
+            },
+            {
+                "name": "Baktybaeva, Dinara"
+            },
+            {
+                "name": "Zammit, Anthea"
+            },
+            {
+                "name": "Chuluun, Khulan"
+            },
+            {
+                "name": "Lopez, Sandra Cabrera"
+            },
+            {
+                "name": "Yekpe, Nathalie Hounvo"
+            },
+            {
+                "name": "Houenou, Nicolas Dravo"
+            },
+            {
+                "name": "Kubeeva, Aida"
+            },
+            {
+                "name": "Vanlint, Alisa"
+            },
+            {
+                "name": "Besikbasov, Ondas"
+            },
+            {
+                "name": "Coulon, Jean Michel"
+            },
+            {
+                "name": "Cordina, Henry Zammit"
+            },
+            {
+                "name": "Blier, Suzanne"
+            },
+            {
+                "name": "Buhagiar, Sean"
+            },
+            {
+                "name": "Togymbet, Olzhas"
+            },
+            {
+                "name": "Ochiagha, Terri"
+            },
+            {
+                "name": "Vella, Marilu"
+            },
+            {
+                "name": "Zhappasbayeva, Zhibek"
+            },
+            {
+                "name": "Behanzin, Susuji"
+            },
+            {
+                "name": "Bonnici, Bryan"
+            },
+            {
+                "name": "D'Souza, Martine"
+            },
+            {
+                "name": "Tabone, Michael"
+            },
+            {
+                "name": "Parzinger, Hermann"
+            },
+            {
+                "name": "Samare, Yahara"
+            },
+            {
+                "name": "Refalo, Neville"
+            },
+            {
+                "name": "Samashev, Zeinolla"
+            },
+            {
+                "name": "Degabriele, Ray"
+            },
+            {
+                "name": "Ordabayev, Almas"
+            },
+            {
+                "name": "Briffa, Ron"
+            },
+            {
+                "name": "Carter, Michael"
+            },
+            {
+                "name": "Junkelmann, Marcus"
+            },
+            {
+                "name": "Yerlan, Amina"
+            },
+            {
+                "name": "Hogendoorn, Jaap"
+            }
+        ],
+        "locations": [
+            "Kazakhstan::(location)",
+            "Malta::(location)",
+            "Benin::(location)",
+            "Kazakhstan::(studio)",
+            "Malta::(studio)",
+            "Turkey::(location)",
+            "Mongolia::(location)",
+            "UK::(interview)",
+            "Germany::(interview)",
+            "USA::(interview)"
+        ],
+        "genres": [
+            "History"
+        ],
+        "runtimes": [
+            "153"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color::(4K)"
+        ],
+        "aspect ratio": "16:9 HD (4K)",
+        "sound mix": [
+            "Stereo::(Dolby 5.1)"
+        ],
+        "number of seasons": 1,
+        "rating": 7.3,
+        "votes": 6,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYzA5YmRlZTEtZDE0MS00ODU5LWE0NzUtMzNkMTdiZWNlNjIwXkEyXkFqcGdeQXVyNDAyMjMzMDc@._V1_SY150_CR2,0,101,150_.jpg",
+        "budget": "EUR950,000 (estimated)",
+        "plot outline": "The three-part series chronicles the military achievements of the original Amazon nomad warriors of the Central Asian grasslands in 6th century BC, examines the highly trained female gladiators of Ancient Rome in 2nd Century AD, and discovers the terrifying all-female slave raiding regiments of Dahomey, who shaped African history at the end of the 19th century.",
+        "languages": [
+            "English"
+        ],
+        "title": "Epic Warrior Women",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Peiter, Sebastian"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Compact Media Group"
+            },
+            {
+                "name": "Malta Film Commission"
+            },
+            {
+                "name": "ORF Universum"
+            },
+            {
+                "name": "Planète +"
+            },
+            {
+                "name": "Smithsonian Channel"
+            },
+            {
+                "name": "The Creative Europe Programme of the European Union"
+            },
+            {
+                "name": "Urban Canyons"
+            },
+            {
+                "name": "Viasat World"
+            },
+            {
+                "name": "ZDF (II)"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Urban Canyons"
+            }
+        ],
+        "plot": [
+            "The drama led documentary series presents history's most iconic female fighters. Each extraordinary tale of blood, sacrifice and endurance centres on the life of one young woman warrior caught up in the bloody struggles of her time.::Sebastian Peiter",
+            "The three-part series chronicles the military achievements of the original Amazon nomad warriors of the Central Asian grasslands in 6th century BC, examines the highly trained female gladiators of Ancient Rome in 2nd Century AD, and discovers the terrifying all-female slave raiding regiments of Dahomey, who shaped African history at the end of the 19th century.::Sebastian Peiter"
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr 33 min (153 min) (3 episodes)"
+            ],
+            "sound mix": [
+                "Stereo (Dolby 5.1)"
+            ],
+            "color": [
+                "Color (4K)"
+            ],
+            "aspect ratio": [
+                "16:9 HD (4K)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 6,
+                "rating": 7.3
+            },
+            "aged 18 29": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "aged 30 44": {
+                "votes": 2,
+                "rating": 5.5
+            },
+            "aged 45 plus": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "males": {
+                "votes": 3,
+                "rating": 6.3
+            },
+            "males aged 30 44": {
+                "votes": 2,
+                "rating": 5.5
+            },
+            "males aged 45 plus": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "females": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 18 29": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "top 1000 voters": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "non us users": {
+                "votes": 4,
+                "rating": 7.2
+            }
+        },
+        "number of votes": {
+            "10": 2,
+            "9": 1,
+            "8": 1,
+            "7": 0,
+            "6": 1,
+            "5": 0,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 1
+        },
+        "arithmetic mean": 7.3,
+        "median": 8
+    }
+}

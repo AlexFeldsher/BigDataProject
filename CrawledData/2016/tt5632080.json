@@ -1,0 +1,123 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Australia\n",
+                "date": "15 March 2016"
+            },
+            {
+                "country": "Australia\n",
+                "date": "15 March 2016",
+                "notes": "                            (TV premiere)"
+            }
+        ],
+        "release dates": [
+            "Australia::15 March 2016",
+            "Australia::15 March 2016                            (TV premiere)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Cradle to Grave",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Keeping Australia Alive (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "15 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    The Australian health system in one snapshot. From the thin blue line on the pregnancy test to the flat line on the ECG, this week we look at the role of our health system in our lives from cradle to grave.    "
+                },
+                "7": {
+                    "title": "The Costs, the Challenges and the Future",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Keeping Australia Alive (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "26 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "The Front Line - GP v Emergency Department",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Keeping Australia Alive (TV Mini-Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "19 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "58"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "country codes": [
+            "au"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Australia:M"
+        ],
+        "original air date": "15 Mar 2016 (Australia)",
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYTM0MWE1MTUtYTkzMS00ZTc5LWJkN2QtZmM2ODY0Njk1ZDZmXkEyXkFqcGdeQXVyMzAwNTMwNjA@._V1_SY150_CR55,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Keeping Australia Alive",
+        "year": 2016,
+        "kind": "tv mini series",
+        "series years": "2016-",
+        "akas": [
+            "Keeping Australia Alive (Australia)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "ITV Studios Australia"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Australian Broadcasting Commission"
+            }
+        ],
+        "plot": [
+            "A landmark documentary event capturing the Australian health system in one snapshot. The story of who we are, what we value and how we live and die."
+        ],
+        "tech": {
+            "runtime": [
+                "58 min (Australia)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

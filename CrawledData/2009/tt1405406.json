@@ -1,0 +1,3279 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "10 September 2009"
+            },
+            {
+                "country": "USA\n",
+                "date": "10 September 2009"
+            },
+            {
+                "country": "Australia\n",
+                "date": "28 September 2009"
+            },
+            {
+                "country": "Norway\n",
+                "date": "6 January 2010"
+            },
+            {
+                "country": "Germany\n",
+                "date": "20 January 2010"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "23 January 2010",
+                "notes": "                            (Flemish speaking region)"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "31 January 2010"
+            },
+            {
+                "country": "UK\n",
+                "date": "2 February 2010"
+            },
+            {
+                "country": "Italy\n",
+                "date": "3 February 2010"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "11 February 2010"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "25 June 2010"
+            },
+            {
+                "country": "Ireland\n",
+                "date": "4 August 2010"
+            },
+            {
+                "country": "France\n",
+                "date": "29 August 2010"
+            },
+            {
+                "country": "USA\n",
+                "date": "31 August 2010",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "8 January 2011",
+                "notes": "                            (Flemish speaking region) (re-release)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "17 August 2011",
+                "notes": "                            (Blu-ray and DVD premiere)"
+            },
+            {
+                "country": "Serbia\n",
+                "date": "14 November 2011"
+            },
+            {
+                "country": "Croatia\n",
+                "date": "16 November 2013"
+            }
+        ],
+        "release dates": [
+            "Canada::10 September 2009",
+            "USA::10 September 2009",
+            "Australia::28 September 2009",
+            "Norway::6 January 2010",
+            "Germany::20 January 2010",
+            "Belgium::23 January 2010                            (Flemish speaking region)",
+            "Netherlands::31 January 2010",
+            "UK::2 February 2010",
+            "Italy::3 February 2010",
+            "Sweden::11 February 2010",
+            "Hungary::25 June 2010",
+            "Ireland::4 August 2010",
+            "France::29 August 2010",
+            "USA::31 August 2010                            (DVD premiere)",
+            "Belgium::8 January 2011                            (Flemish speaking region) (re-release)",
+            "Japan::17 August 2011                            (Blu-ray and DVD premiere)",
+            "Serbia::14 November 2011",
+            "Croatia::16 November 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Vampire Diaries"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Diários de um Vampiro"
+            },
+            {
+                "countries": "Brazil (cable TV title)",
+                "title": "The Vampire Diaries"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Дневниците на вампира"
+            },
+            {
+                "countries": "Croatia",
+                "title": "Vampirski dnevnici"
+            },
+            {
+                "countries": "Czech Republic",
+                "title": "Upírí deníky"
+            },
+            {
+                "countries": "Estonia",
+                "title": "Vampiiripäevikud"
+            },
+            {
+                "countries": "Finland",
+                "title": "Vampyyripäiväkirjat"
+            },
+            {
+                "countries": "France",
+                "title": "Vampire Diaries"
+            },
+            {
+                "countries": "Germany",
+                "title": "The Vampire Diaries"
+            },
+            {
+                "countries": "Greece",
+                "title": "The Vampire Diaries"
+            },
+            {
+                "countries": "Greece",
+                "title": "Τα ημερολόγια ενος βρικόλακα"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Vámpírnaplók"
+            },
+            {
+                "countries": "Iran (Persian title)",
+                "title": "Khaterate khoonasham"
+            },
+            {
+                "countries": "Italy",
+                "title": "The Vampire Diaries"
+            },
+            {
+                "countries": "Lithuania",
+                "title": "Vampyro dienorasciai"
+            },
+            {
+                "countries": "Poland",
+                "title": "Pamietniki wampirów"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Diários do Vampiro"
+            },
+            {
+                "countries": "Romania",
+                "title": "Jurnalele vampirilor"
+            },
+            {
+                "countries": "Russia",
+                "title": "Дневники вампира"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Vampirski dnevnici"
+            },
+            {
+                "countries": "Slovenia",
+                "title": "Vampirski dnevniki"
+            },
+            {
+                "countries": "Spain",
+                "title": "Crónicas vampíricas"
+            },
+            {
+                "countries": "Turkey (Turkish title)",
+                "title": "Vampir Gunlukleri"
+            },
+            {
+                "countries": "USA",
+                "title": "The Vampire Diaries"
+            },
+            {
+                "countries": "Venezuela",
+                "title": "Diarios de vampiros"
+            },
+            {
+                "countries": "Vietnam",
+                "title": "Nhat Ky Ma Ca Rong"
+            }
+        ],
+        "akas": [
+            "The Vampire Diaries (original title)",
+            "Diários de um Vampiro Brazil",
+            "The Vampire Diaries Brazil (cable TV title)",
+            "Дневниците на вампира Bulgaria (Bulgarian title)",
+            "Vampirski dnevnici Croatia",
+            "Upírí deníky Czech Republic",
+            "Vampiiripäevikud Estonia",
+            "Vampyyripäiväkirjat Finland",
+            "Vampire Diaries France",
+            "The Vampire Diaries Germany",
+            "The Vampire Diaries Greece",
+            "Τα ημερολόγια ενος βρικόλακα Greece",
+            "Vámpírnaplók Hungary",
+            "Khaterate khoonasham Iran (Persian title)",
+            "The Vampire Diaries Italy",
+            "Vampyro dienorasciai Lithuania",
+            "Pamietniki wampirów Poland",
+            "Diários do Vampiro Portugal",
+            "Jurnalele vampirilor Romania",
+            "Дневники вампира Russia",
+            "Vampirski dnevnici Serbia",
+            "Vampirski dnevniki Slovenia",
+            "Crónicas vampíricas Spain",
+            "Vampir Gunlukleri Turkey (Turkish title)",
+            "The Vampire Diaries USA",
+            "Diarios de vampiros Venezuela",
+            "Nhat Ky Ma Ca Rong Vietnam"
+        ],
+        "akas from release info": [
+            "The Vampire Diaries (original title)",
+            "Diários de um Vampiro Brazil",
+            "The Vampire Diaries Brazil (cable TV title)",
+            "Дневниците на вампира Bulgaria (Bulgarian title)",
+            "Vampirski dnevnici Croatia",
+            "Upírí deníky Czech Republic",
+            "Vampiiripäevikud Estonia",
+            "Vampyyripäiväkirjat Finland",
+            "Vampire Diaries France",
+            "The Vampire Diaries Germany",
+            "The Vampire Diaries Greece",
+            "Τα ημερολόγια ενος βρικόλακα Greece",
+            "Vámpírnaplók Hungary",
+            "Khaterate khoonasham Iran (Persian title)",
+            "The Vampire Diaries Italy",
+            "Vampyro dienorasciai Lithuania",
+            "Pamietniki wampirów Poland",
+            "Diários do Vampiro Portugal",
+            "Jurnalele vampirilor Romania",
+            "Дневники вампира Russia",
+            "Vampirski dnevnici Serbia",
+            "Vampirski dnevniki Slovenia",
+            "Crónicas vampíricas Spain",
+            "Vampir Gunlukleri Turkey (Turkish title)",
+            "The Vampire Diaries USA",
+            "Diarios de vampiros Venezuela",
+            "Nhat Ky Ma Ca Rong Vietnam"
+        ],
+        "episodes": {
+            "8": {
+                "1": {
+                    "title": "Hello, Brother",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 1,
+                    "votes": 1107,
+                    "original air date": "21 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    Stefan searches tirelessly for Damon and Enzo months after their mysterious disappearance.    "
+                },
+                "2": {
+                    "title": "Today Will Be Different",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 2,
+                    "votes": 664,
+                    "original air date": "28 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    No one can accept the loss of Damons humanity that Enzo hopes for too, Damon carelessly tries to prove everyone wrong.    "
+                },
+                "3": {
+                    "title": "You Decided That I Was Worth Saving",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 3,
+                    "votes": 616,
+                    "original air date": "4 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    As Enzo continues to fight the control over him, Bonnie finds herself at the center of a deadly game and forced to make a heart wrenching decision involving two of the most important people in her life. At the Armory, Alaric researches a mysterious artifact that he hopes will help in their fight to get Damon and Enzo back. Finally, Damon's downward spiral leads him to Tyler Lockwood who attempts to talk some sense into him before it's too late.    "
+                },
+                "4": {
+                    "title": "An Eternity of Misery",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 4,
+                    "votes": 592,
+                    "original air date": "11 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Meanwhile Alaric and Stefan try to find out about the origins of what they are up to, Damon is searching for an artifact so he travels to Texas where he encounters Peter Maxwell who leads him to a new revelation.    "
+                },
+                "5": {
+                    "title": "Coming Home Was a Mistake",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 5,
+                    "votes": 551,
+                    "original air date": "18 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Stefan and the others remember what matters most when tragedy strikes close to home.    "
+                },
+                "6": {
+                    "title": "Detoured on Some Random Backwoods Path to Hell",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 6,
+                    "votes": 549,
+                    "original air date": "2 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    When her children become the focus of the Siren's latest plan, Caroline (Candice King) takes drastic measures to ensure nothing gets in the way of keeping her family safe. In a race against the clock, Stefan (Paul Wesley) pledges to do everything he can to save the twins, while tensions between Alaric (Matt Davis) and Caroline boil over, leading them to face some harsh realities about the future of their family. Meanwhile, when Enzo (Michael Malarkey) finds himself unable to fight off Sybil's (guest star Nathalie Kelley) latest move, Stefan dives into his subconscious...    "
+                },
+                "7": {
+                    "title": "The Next Time I Hurt Somebody, It Could Be You",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 7,
+                    "votes": 549,
+                    "original air date": "9 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    Faced with the fallout from his interaction with Cade (guest star Wole Parks), Stefan (Paul Wesley) is determined to have one thing go right - Christmas Eve with Caroline. However, when Damon (Ian Somerhalder) and Sybil (guest star Nathalie Kelley) crash their Christmas Eve dinner, which had been joined by Alaric (Matt Davis), Matt (Zach Roerig) and Peter (guest star Joel Gretsch), things quickly take a dark and twisted turn. Meanwhile, in a series of flashbacks to Stefan's past, Cade's attempt to entice him with his mysterious agenda leaves Stefan faced with an ...    "
+                },
+                "8": {
+                    "title": "We Have History Together",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 8,
+                    "votes": 524,
+                    "original air date": "13 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Stefan and Damon attend an anger management support group looking for their next victim. Sybil is still alive and teaching a group of high school students who she'll later use as leverage to get Caroline to locate a historical artifact that can be used against her. Meanwhile, Stefan and Damon continue their commitment to Cade as they test the morals of a young doctor, Tara.    "
+                },
+                "9": {
+                    "title": "The Simple Intimacy of the Near Touch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 9,
+                    "votes": 513,
+                    "original air date": "20 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Mystic falls is greeted by a traditional celebration and also two reckless brothers. Caroline remains in denial about the future.    "
+                },
+                "10": {
+                    "title": "Nostalgia's a Bitch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 10,
+                    "votes": 725,
+                    "original air date": "27 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n    Sybill puts Damon in a catatonic state for revenge. Caroline and Bonnie enter Damon's mind and realize Stefan is the key to his fate. Sybill competes with her sister for control of the bell.    "
+                },
+                "11": {
+                    "title": "You Made a Choice to Be Good",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 11,
+                    "votes": 995,
+                    "original air date": "3 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Cade returns to Mystic Falls with new assignments for Damon and Stefan that each lead to unthinkable consequences.    "
+                },
+                "12": {
+                    "title": "What Are You?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 12,
+                    "votes": 580,
+                    "original air date": "10 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Damon makes a deal with Cade to retrieve the Maxwell journal in exchange for Stefan's soul.    "
+                },
+                "13": {
+                    "title": "The Lies Will Catch Up to You",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 13,
+                    "votes": 538,
+                    "original air date": "17 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Damon and Alaric face an old enemy after finding a weapon that might kill Cade. Stefan is captured by someone from his past. Bonnie tries to reach out to Enzo through Cade.    "
+                },
+                "14": {
+                    "title": "It's Been a Hell of a Ride",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 14,
+                    "votes": 749,
+                    "original air date": "24 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Damon and Stefan join forces against Cade to protect Elena's casket, while Caroline and Alaric cope with their daughters' growing powers.    "
+                },
+                "15": {
+                    "title": "We're Planning a June Wedding",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 15,
+                    "votes": 729,
+                    "original air date": "3 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    A wedding is quickly planned in order for Damon and Stefan to lure a dangerous enemy out into the open.    "
+                },
+                "16": {
+                    "title": "I Was Feeling Epic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 8,
+                    "episode": 16,
+                    "votes": 2647,
+                    "original air date": "10 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    With the fate of Mystic Falls at stake, Stefan and Damon must fight their greatest enemy for one last battle.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 2775,
+                    "original air date": "10 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    Nina Dobrev, Paul Wesley and Ian Somerhalder star in this series, based on the best-selling book series, of two vampire brothers at war for the soul of 17-year-old Elena.    "
+                },
+                "2": {
+                    "title": "The Night of the Comet",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 1814,
+                    "original air date": "17 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    Elena goes to the Salvatore house to talk to Stefan, but finds Damon there instead, who reveals surprising information about Stefan's past. Vicki begins to remember the attack.    "
+                },
+                "3": {
+                    "title": "Friday Night Bites",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 1621,
+                    "original air date": "24 Sep. 2009",
+                    "year": "2009",
+                    "plot": "\n    Elena invites Stefan and Bonnie to dinner, hoping that the two will bond, but the evening is disrupted by the unexpected and unwelcome arrival of Damon and Caroline.    "
+                },
+                "4": {
+                    "title": "Family Ties",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 1517,
+                    "original air date": "1 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    Stefan escorts Elena to the town's Founder's Party. At the party, Damon tells Elena a story about the Salvatore family, leaving Elena with questions Stefan refuses to answer.    "
+                },
+                "5": {
+                    "title": "You're Undead to Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 1520,
+                    "original air date": "8 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    Stefan is hopeful of his plan to get rid of Damon, and decides to reveal parts of his past to Elena. Bonnie seeks advice from her grandmother (Jasmine Guy - A Different World).    "
+                },
+                "6": {
+                    "title": "Lost Girls",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 1539,
+                    "original air date": "15 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    In flashbacks, Stefan reveals to Elena the Salvatore family history, including how his rivalry with Damon began. In the present, Damon impulsively takes control of Vicki's future.    "
+                },
+                "7": {
+                    "title": "Haunted",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 1426,
+                    "original air date": "29 Oct. 2009",
+                    "year": "2009",
+                    "plot": "\n    Bonnie's abilities surprise Damon. Elena asks Jeremy not to see Vicki. Matt takes Vicki to the high school Halloween dance, but the night takes a terrifying turn.    "
+                },
+                "8": {
+                    "title": "162 Candles",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 1459,
+                    "original air date": "5 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    Stefen gets a surprise visit from old friend Lexi. Caroline tries to get Damon's Medallion back from Bonnie.    "
+                },
+                "9": {
+                    "title": "History Repeating",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 1377,
+                    "original air date": "12 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    Jeremy gets a break from the mysterious new history teacher, Alaric Saltzman (Matt Davis - Blue Crush). Damon reveals to Stefan the stunning reason he returned to Mystic Falls.    "
+                },
+                "10": {
+                    "title": "The Turning Point",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 1417,
+                    "original air date": "19 Nov. 2009",
+                    "year": "2009",
+                    "plot": "\n    When Sheriff Forbes (Marguerite Macintyre) tells Damon of another attack, he offers to track down the killer, learning startling information about the town's founding families.    "
+                },
+                "11": {
+                    "title": "Bloodlines",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 1419,
+                    "original air date": "21 Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    Damon goes to Georgia to suprise an old flame, Bree (Gina Torres - Standoff, Firefly), and enlist her help. Meanwhile, Stefan uncovers a startling clue to the past.    "
+                },
+                "12": {
+                    "title": "Unpleasantville",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 1344,
+                    "original air date": "28 Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    The Mystic Grill's Ben (Sean Faris) comes to Bonnie's aid. Damon and Stefan accompany Elena to a school dance with a 1950s theme. Alaric (Matt Davis) introduces himself to Damon    "
+                },
+                "13": {
+                    "title": "Children of the Damned",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 1347,
+                    "original air date": "4 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    Stefan and Damon recall the incidents that led to the rift in their relationship.    "
+                },
+                "14": {
+                    "title": "Fool Me Once",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 1360,
+                    "original air date": "11 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n    Jeremy asks Anna (Malse Jow) to a party in the woods. Stefan, Damon and Elena work with Bonnie and Grams (Jasmine Guy) to open the tomb, and are shocked by what they discover.    "
+                },
+                "15": {
+                    "title": "A Few Good Men",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 1277,
+                    "original air date": "25 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Recurring guest star Melinda Clarke appears as Kelly, Matt's long - lost mother. Damon is ask by Sheriff Forbes (Marguerite Macintrye) to be part of a fundraising bachelor auction.    "
+                },
+                "16": {
+                    "title": "There Goes the Neighborhood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 1252,
+                    "original air date": "1 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Anna (Malse Jow) brings a surprising guest to pay a visit to Damon. Elena and Stefan go on an awkward date with Caroline and Matt. Melinda Clarke appears as Kelly.    "
+                },
+                "17": {
+                    "title": "Let the Right One In",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 1315,
+                    "original air date": "8 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Stefan is forced to make a frightening decision. Matt is hopeful that his mom, Kelly (Melinda Clarke) will stay. And, after Caroline's car breaks down in a storm, she makes a horrific discovery that shocks everyone on town    "
+                },
+                "18": {
+                    "title": "Under Control",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 1296,
+                    "original air date": "15 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Stefan displays a rare party attitude and Damon's attempt to find out why Elena's uncle, John Gilbert (David Anders - Alias, 24) has returned to town an ugly turn.    "
+                },
+                "19": {
+                    "title": "Miss Mystic Falls",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 1390,
+                    "original air date": "22 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Elena and Caroline compete in a beauty pageant. Spencer Locke appears as one of the contestants. John Gilbert tries to scare Damo    "
+                },
+                "20": {
+                    "title": "Blood Brothers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 1324,
+                    "original air date": "29 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Elena learns what happened when Damon and Stefan were turned. Pearl has an ugly confrontation with John Gilbert. Jeremy and Anna get closer.    "
+                },
+                "21": {
+                    "title": "Isobel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "votes": 1379,
+                    "original air date": "6 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Isobel returns to town and stuns Alaric with her attitude and her demands that he arrange a meeting with Elena.    "
+                },
+                "22": {
+                    "title": "Founder's Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "votes": 2132,
+                    "original air date": "13 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Damon and Alaric try to stop John Gilbert from setting a plan in motion to brin Founder's Day to an end amid chaos, destruction and death.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "The Return",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 1763,
+                    "original air date": "9 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    Elena arrives home to a nightmare. Damon is the first to realize Katherine has returned.    "
+                },
+                "2": {
+                    "title": "Brave New World",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 1279,
+                    "original air date": "16 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    When a confused and desperate Caroline leaves the hospital and joins her friends at the Mystic Falls Carnival, Damon wants to take immediate action.    "
+                },
+                "3": {
+                    "title": "Bad Moon Rising",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 1240,
+                    "original air date": "23 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    Elena, Damon and Alaric go to Duke University to search through Isobel's research, hoping to uncover any clues surrounding the Lockwood family    "
+                },
+                "4": {
+                    "title": "Memory Lane",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 1230,
+                    "original air date": "30 Sep. 2010",
+                    "year": "2010",
+                    "plot": "\n    Stefan is shocked when Katherine reveals new secrets about what really happened in 1864. Damon tries a new tactic to resolve his issues with Mason    "
+                },
+                "5": {
+                    "title": "Kill or Be Killed",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 1239,
+                    "original air date": "7 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    Tyler learns more about the Lockwood family curse from Mason, and Sheriff Forbes receives startling information.    "
+                },
+                "6": {
+                    "title": "Plan B",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 1257,
+                    "original air date": "21 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    Katherine chooses a new victim. Bonnie discovers new information about Mason and shares it with Stefan.    "
+                },
+                "7": {
+                    "title": "Masquerade",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 1480,
+                    "original air date": "28 Oct. 2010",
+                    "year": "2010",
+                    "plot": "\n    Stefan and Damon decide on a new plan to deal with Katherine at the masquerade ball. Things take an ugly turn when Matt and Tyler start doing shots.    "
+                },
+                "8": {
+                    "title": "Rose",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 1464,
+                    "original air date": "4 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    Stefan and Damon come to Elena's assistance and, in the process, learn surprising new information.    "
+                },
+                "9": {
+                    "title": "Katerina",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 1268,
+                    "original air date": "11 Nov. 2010",
+                    "year": "2010",
+                    "plot": "\n    Elena puts herself in a dangerous position as she searches for the truth about Katherine's past and what her own future may hold. Knowing that Stefan would never agree to her plan, Elena swears Caroline to secrecy. Damon uses a new-found confidant to help him try to discover the real purpose and power of the moonstone. Jeremy and Bonnie meet Luka, a new student with a surprising family history.    "
+                },
+                "10": {
+                    "title": "The Sacrifice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 1112,
+                    "original air date": "2 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    Elena decides to take matters into her own hands and offers a tempting incentive to Rose for her help. When things take an unexpected turn, however, Rose calls on Damon to deal with the plan Elena has set in motion. Jeremy's reckless attempt to help Bonnie retrieve the moonstone lands him in a life-threatening position and forces Stefan to put himself in danger. Bonnie and Luka form a closer connection. Tyler shows Caroline the Lockwood cellar, where she makes a discovery that leaves them both terrified.    "
+                },
+                "11": {
+                    "title": "By the Light of the Moon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 1177,
+                    "original air date": "9 Dec. 2010",
+                    "year": "2010",
+                    "plot": "\n    As the full moon nears, Caroline helps Tyler prepare for transformation. Damon and Alaric are suspicious when a stranger shows looking for Mason.    "
+                },
+                "12": {
+                    "title": "The Descent",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 1279,
+                    "original air date": "27 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    While Damon tries to get the truth out of Jules, he asks Elena to keep an eye on Rose, a situation that turns unexpectedly dangerous.    "
+                },
+                "13": {
+                    "title": "Daddy Issues",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 1101,
+                    "original air date": "3 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    Johnathan Gilbert's return to Mystic Falls is an unhappy suprise to Elena, Jenna and Damon. Stefan does his best to reach out to a confused Tyler.    "
+                },
+                "14": {
+                    "title": "Crying Wolf",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "votes": 1131,
+                    "original air date": "10 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    Stefan and Elena attempt a romantic weekend getaway, not realizing that they've been followed. Damon attends a tea at the Historical Society.    "
+                },
+                "15": {
+                    "title": "The Dinner Party",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "votes": 1093,
+                    "original air date": "17 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    Stefan tells Elena about his darkest days. Trying to catch Elijah off guard, Damon arranges a dinner party for him with Jenna, Alaric and Andie    "
+                },
+                "16": {
+                    "title": "The House Guest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 16,
+                    "votes": 1100,
+                    "original air date": "24 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    The Salvatore brothers are unpleasantly surprised that killing Elijah didn't harm, but instead released Katherine. Damon indignantly rejects her flirtation. Dr. Jonas Martin uses invisible astral projection to enable his son Luka to retrieve the ash dagger and thus revive Elijah, but Damon notices and fights back and thus kills the invisible Luka. Grieved, Jonas attacks Jeremy, Bonnie, Caroline and Elena, but ends up dead and surprisingly restores Bonnie's powers. Alaric refuses to keep lying to Jenna, who refuses to be protected by secrecy, so they stop dating until ...    "
+                },
+                "17": {
+                    "title": "Know Thy Enemy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 17,
+                    "votes": 1135,
+                    "original air date": "7 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    Jeremy is delighted to have Bonnie restored to her powers, yet worried when accompanying her and Damon to the house where a 100 witches were burned to gather enough power to undo the moonstone's curse. Elena's mother Isobel Flemming's return startles her and even Katherine, as turns out doing Klaus's bidding for a gruesome 'prize'. John Gilbert confesses more wrong choices, also at Jenna's expense, yet unlike furious Alaric, Elena ends up choosing to keep her father in her life. The Salvatore brothers piece together from the Gilbert diaries what they believe equals a ...    "
+                },
+                "18": {
+                    "title": "The Last Dance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 18,
+                    "votes": 1213,
+                    "original air date": "14 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    Original vampire Klaus forces captured Katherine to torture herself. Meanwhile Klaus takes henchman witch Maddox's advice to possess Alaric's body and use his history teacher job as cover to work on the school-kids and attend the high-school 1960s theme dance, where he hopes to tempt Bonnie to overexert her hundredfold witch powers against an unbreakable charm until she dies. Jeremy mistrusts Bonnie's assurance she can cope and consults Damon, who doesn't even confide in Stefan, to brilliantly mount an elaborate trap. Matt teams up with the sheriff for Caroline's sake.    "
+                },
+                "19": {
+                    "title": "Klaus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 19,
+                    "votes": 1330,
+                    "original air date": "21 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    Resuscitated by Elena, who even hands him the dagger as proof of alliance, Elijah explain to her how his Bulgarian family became the first, still most powerful vampires, but witches prevented them becoming invulnerable. He loved Niklaus 'Klaus', being his brother, but has to turn against him in the end. They ingeniously staged the moon curse in order to get vampires and werewolves to help look for a cure for Klaus's real curse, doubly monstrous genes. Alari-Klaus toys further with Katherina and instruct Maddocks to fetch a new body so he can leave Rick's. Stefan ...    "
+                },
+                "20": {
+                    "title": "The Last Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 20,
+                    "votes": 1213,
+                    "original air date": "28 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    Klaus completes his preparations to break the moon curse but luring Tyler home to visit his mother after a non-accidental fall. The Salvatore brothers bicker worse then ever over how to protect Elena, who wants to take risks by doing things Elijah's way, which will kill her but relies on an ancient resuscitation elixir. Stefano takes her away on a 'last day' excursion. Matt finds helping the sheriff with Caroline about unbearable. Alaric's secret is finally discovered by Jenna, who takes it well but runs into tragic trouble. Klaus refuses to wait until the next full ...    "
+                },
+                "21": {
+                    "title": "The Sun Also Rises",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 21,
+                    "votes": 1426,
+                    "original air date": "5 May 2011",
+                    "year": "2011",
+                    "plot": "\n    Damon sees the bite on his arm with the growing wound. Meanwhile Matt shoots Tyler and then he tells to Caroline that neither her mother nor he is compelled and they know that she is a vampire. Jenna finds that she is a vampire; Greta completes her transformation and Klaus brings Jules and kills her. Damon tells Stefan that Klaus transformed Jenna into a vampire and John returns and meets Damon. Jeremy and Bonnie study the journals and the grimoire to see if they can save Elena. Stefan offers himself as the substitute for Jenna. Caroline brings Tyler home and Matt ...    "
+                },
+                "22": {
+                    "title": "As I Lay Dying",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 22,
+                    "votes": 1546,
+                    "original air date": "12 May 2011",
+                    "year": "2011",
+                    "plot": "\n    Damon asks Elena to forgive him for forcing her to drink his blood but she does not accept his apologies. Soon Damon is raving and he has daydreams with his life with Katherine in the past and Elena in the present. Stefan tells Elena Damon's condition and she decides to seek him out. Stefan meets Bonnie and discovers that Klaus might save his brother and he looks for Klaus. Meanwhile Jeremy finds Damon and brings him to the Grill; however Sheriff Forbes shoots Damon but hits Jeremy instead and he dies. Alaric brings Jeremy's body and Bonnie tries to resurrect him ...    "
+                }
+            },
+            "3": {
+                "1": {
+                    "title": "The Birthday",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 1843,
+                    "original air date": "15 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    It's Elena's 18th birthday, and as she searches for Stefan, Damon tries to keep her from doing anything that might draw Klaus's attention.    "
+                },
+                "2": {
+                    "title": "The Hybrid",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 1355,
+                    "original air date": "22 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Damon and Alaric reluctantly go along with Elena's new strategy to find Stefan, leading Damonintl a dangerous fight with an unexpected enemy.    "
+                },
+                "3": {
+                    "title": "The End of the Affair",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 1479,
+                    "original air date": "29 Sep. 2011",
+                    "year": "2011",
+                    "plot": "\n    Klaus takes Stefan to Chicago, where he wants to resuscitate his sister Rebekah, who might hold the key to breaking the curse. Gradually, Stefan is reminded of his Prohibition period affair with her her while still bloodthirsty himself, and its tragic end. Tyler is rightly worried, turning for an ally to her mother sheriff Forbes, about the whereabouts of Caroline, whose bully father Bill actually holds her in a dungeon for 'vampire aversion therapy' of the most flagrant kind. Katherine puts Damon on feared Klaus's trail, so he can mount a rescue with Elena after ...    "
+                },
+                "4": {
+                    "title": "Disturbing Behavior",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 1211,
+                    "original air date": "6 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    In Chicago, Katherine meets Stefan in front of a store and she tells that Elena has the necklace that belongs to Rebekah. She also feels that Stefan is plotting a scheme against Klaus, but he does not share his plan with her. Meanwhile, in Mystic Falls, Anna shows up to Jeremy and talks to him that she is alone in the afterlife. Gloria seeks out the necklace using a spell while Bonnie and Caroline visit Elena; out of the blue, her necklace burns her chest. Damon is upset with people trying to change him to be Mr. Nice Guy. Sheriff Forbes asks him to compel Bill to ...    "
+                },
+                "5": {
+                    "title": "The Reckoning",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 1610,
+                    "original air date": "13 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    Despite all that has happened, Caroline is determined to see that Elena, Bonnie, Matt and Tyler all enjoy a traditional Senior Prank Night before the school year begins at Mystic Falls High School. However, when uninvited guests show up, it doesn't take long for the evening to take a deadly turn. Damon convinces Jeremy that he can use his new connection to the other side to help find a way to defeat Klaus. Finally, Klaus deepens his hold on Stefan and uses him for increasingly violent and dangerous purposes.    "
+                },
+                "6": {
+                    "title": "Smells Like Teen Spirit",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 1254,
+                    "original air date": "20 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    Elena meets Stefan at the high school and he tells that he is watching her following Klaus's order. Rebekah, who is staying at the Salvatore's house, is in the same class as Elena. Elena plots with Alaric and Damon to lock Stephan in the dungeon of the Salvatore house. Tyler is fascinated and reveling in his sire bond to Klaus. Vicky convinces Matt to bring her back from the dead. Anna tells to Jeremy that darkness is surrounding Vicky, and that she has made a pact with an original witch. Vicky hits Matt on the head and seeks out Elena as part of her agreement with ...    "
+                },
+                "7": {
+                    "title": "Ghost World",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 1251,
+                    "original air date": "27 Oct. 2011",
+                    "year": "2011",
+                    "plot": "\n    On the day of the Night of the Illumination in Mystic Falls, Mason ties Damon to a chair and the vampire believes that it is a prank of his brother Stephan. Later Mason tells that he is seeking redemption and wants to destroy Klaus to help Tyler. He goes with Damon to a cave with tunnels where it is supposed to have a weapon to destroy the Original Vampire. Elena asks Jeremy whether he may contact Lexi to learn how she can bring humanity back to Stephan, but her brother explains that he has no connection with Lexi. Bonnie goes with Caroline to the place where the ...    "
+                },
+                "8": {
+                    "title": "Ordinary People",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 1295,
+                    "original air date": "3 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    Damon, Alaric and Elena reach a hidden cage in the secret tunnel beneath the Lockwood mansion. Alaric studies the runes and primitive pictures, which indicate it was the home of an ancient Viking family, who interacted with the first werewolf, vampire and witch. They confront Rebekah, who is shocked to tie it up with her memories of their youth, when their father Mikael, now the only hunter they truly dread, bullied his sons, especially Niklaus, leading in interaction with the originally friendly werewolf neighbors to family drama and the origin of vampires. Adter ...    "
+                },
+                "9": {
+                    "title": "Homecoming",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 1477,
+                    "original air date": "10 Nov. 2011",
+                    "year": "2011",
+                    "plot": "\n    The homecoming dance becomes the backdrop for a battle of lethal wits between Damon's party, including Mikael and Rebeka although not at all reconciled, and Klaus's, which fields the hybrids by diverting the party to the Lockwood mansion. Tyler surprises Caroline by stating he doesn't really mind being under Klaus's spell as hybrid, it's not worse then monthly lunatic agony as pure werewolf. Fearing even with the eternal oak stake in Mikael's hand Klaus may outsmart them, Damon secretly enlisted Katherine, but Klaus prepared the most stunning surprise.    "
+                },
+                "10": {
+                    "title": "The New Deal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 1232,
+                    "original air date": "5 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    Bonnie has weird dreams with four coffins. Jeremy hangs around with Tyler and invites him in his house. Stephan meets Bonnie and asks her to hide the coffins of Klaus's family. Klaus tries to force Damon and Elena to seek out Stephan and compels Jeremy to stand up in front of a pick-up driven by a hybrid in high speed without his ring; however Alaric saves him but has difficulties to recover. Jeremy kills the hybrid and he takes Alaric to the hospital with Elena. Damon meets Stephan and he tells that he saved Klaus to save Damon's life. Then Damon asks to participate ...    "
+                },
+                "11": {
+                    "title": "Our Town",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 11,
+                    "votes": 1125,
+                    "original air date": "12 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    Bonnie tries to open the coffin and overhears something, but Damon and Stephan arrive in the house and Damon kills the hybrid. Elena and Bonnie are preparing a birthday party for Caroline at school and Jeremy says goodbye for them. Tyler meets Caroline to tell that he would never hurt her since he loves her, but Klaus controls him. Stephan threatens Klaus and asks him to send his hybrids out of Mystic Falls and beheads one hybrid in front of Klaus to prove that he is not kidding. Klaus summons Tyler and compels him to bite Caroline, but Tyler reacts telling that he ...    "
+                },
+                "12": {
+                    "title": "The Ties That Bind",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 12,
+                    "votes": 1174,
+                    "original air date": "19 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    Prophetic dreams about the mysterious fourth coffin lead Bonnie and Elena to a surprising source, while Tyler seeks help to break free from Klaus' bond so he can be with Caroline. Alaric's new friend Dr. Fell has a secret no one sees coming, and Stefan's interference in Elena's life reveals something that surprises even him.    "
+                },
+                "13": {
+                    "title": "Bringing Out the Dead",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 13,
+                    "votes": 1236,
+                    "original air date": "2 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Now Klaus has Elijah back, they host a dinner party to negotiate a future with the Salvatore brothers, who actually procrastinate. Meanwhile combined witchcraft finally opens the mystery coffin, from which a scary surprise guest is released, but both families will be shocked. Alaric has been wounded dangerously by lover Dr. Fell, who happens to be supernatural, which makes saving him problematic, but Elena steps up. Caroline's father Bill Forbes refuses to survive his vampire bite by allowing Caroline to turn him into one like her.    "
+                },
+                "14": {
+                    "title": "Dangerous Liaisons",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 14,
+                    "votes": 1189,
+                    "original air date": "9 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    Now Klaus's original family's coffins are open, he's supplanted as family head by their sorceress-maker, mother Esther, who holds a grand ball in their splendidly restored mansion. Invitations with gifts and where needed other persuades go to the Salavtore brothers, Alaric, Matt, Caroline and especially Elena, who is asked for a private meeting. After Stefan prevents Damon from stopping her, she learns that Esther, aided by son Finn, needs Doppleganger blood to put a fatal spell on her children, the others being an 'abomination' except Elijah, firstly binding their ...    "
+                },
+                "15": {
+                    "title": "All My Children",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 15,
+                    "votes": 1210,
+                    "original air date": "16 Feb. 2012",
+                    "year": "2012",
+                    "plot": "\n    After starting her day with a startling discovery of Damons' latest indiscretion, Elena is frustrated to find that none of her friends agree with her on how they should react to the Original family's internal power struggle. Once again caught up in the destiny of the Bennett witches, Bonnie and Abby find themselves playing a part in a ritual to appease the spirits of nature. When Elijah gives Damon and Stefan a dangerous ultimatum that puts Elena in danger, they turn to Alaric and Meredith for help with a plan that leads them to a terrible choice.    "
+                },
+                "16": {
+                    "title": "1912",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 16,
+                    "votes": 1075,
+                    "original air date": "15 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    The present-day murders in Mystic Falls remind Damon of a similar crime spree a century earlier. Flashing back to 1912, Damon recalls a beautiful vampire.    "
+                },
+                "17": {
+                    "title": "Break on Through",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 17,
+                    "votes": 1043,
+                    "original air date": "22 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Stefan still struggles desperately to get his blood-lust back under control. Damon keeps an eye on him, but has other priorities. Damon's former teacher Sage returns as his lover, in a secret pact against Rebekah, whom he seduces to keep an eye on her quest for the original white oak's sole known shoot. The old vampires are actually in league and torch the bridge made from its wood, fearing the weapon that could be made from it, but Damon stayed a step ahead. Dr. Fell tries to treat Alaric medically while Bonnie attempts to undo the curse which caused his hereditary ...    "
+                },
+                "18": {
+                    "title": "The Murder of One",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 18,
+                    "votes": 1148,
+                    "original air date": "29 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Stefan's emotional turmoil leads him to a dangerous confrontation with Klaus and, later to a heartbreaking moment with Elena. Claire Holt and Casper Zafer guest star    "
+                },
+                "19": {
+                    "title": "Heart of Darkness",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 19,
+                    "votes": 1539,
+                    "original air date": "19 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Caroline is thrilled when Tyler returns to town, but Tyler soon suspects that something has been going on between Caroline and Klaus. Matt tries to keep Rebecca (CLAIRE HOLT) busy.    "
+                },
+                "20": {
+                    "title": "Do Not Go Gentle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 20,
+                    "votes": 1184,
+                    "original air date": "26 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    The 1920s Decade Dance takes a deadly turn when Damon and Stefan realize they need the help of Matt, Jeremy and Bonnie to undo a spell that could be devastating for everyone.    "
+                },
+                "21": {
+                    "title": "Before Sunset",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 21,
+                    "votes": 1152,
+                    "original air date": "3 May 2012",
+                    "year": "2012",
+                    "plot": "\n    Klaus acts on his intentions to leave town with Elena, but finds resistance from a surprising new enemy. Damon and Stefan have a surprisingly candid conversation about the future.    "
+                },
+                "22": {
+                    "title": "The Departed",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 22,
+                    "votes": 2823,
+                    "original air date": "10 May 2012",
+                    "year": "2012",
+                    "plot": "\n    In the third season finale, determined to protect his sister, Jeremy makes a decision that will change everything. Bonnie makes a secret deal that has heartbreaking consequences.    "
+                }
+            },
+            "4": {
+                "1": {
+                    "title": "Growing Pains",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 1,
+                    "votes": 2470,
+                    "original air date": "11 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    In the fourth season premiere, Elena awakens after the accident to find the thing she dreaded most has come true. Damon is furious with Stefan, and takes out his rage on Matt.    "
+                },
+                "2": {
+                    "title": "Memorial",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 2,
+                    "votes": 1556,
+                    "original air date": "18 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Stefan and Damon argue about what is best for Elena. Jeremy and Matt are surprised to see a girl they used to know, April (GRACE PHIPPS), enrolling at Mystic Falls High.    "
+                },
+                "3": {
+                    "title": "The Rager",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 3,
+                    "votes": 1299,
+                    "original air date": "25 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Elena learns confronting Rebekah (CLAIRE HOLT) can be dangerous. Tyler gets a surprise visit from Hayley (PHOEBE TONKIN - The Secret Circle), a werewolf who helped him with Klaus.    "
+                },
+                "4": {
+                    "title": "The Five",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 4,
+                    "votes": 1282,
+                    "original air date": "1 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    At a fraternity costume party, Damon gives Elena a lesson in choosing a victim. Klaus reveals an encounter with a group of vampire hunters - flashing back to 12th century Italy.    "
+                },
+                "5": {
+                    "title": "The Killer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 5,
+                    "votes": 1144,
+                    "original air date": "8 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Stefan and Klaus form an uneasy alliance to try and contain the danger that Connor (TODD WILLIAMS) has unleashed. Professor Shane (DAVID ALPAY) works with Bonnie.    "
+                },
+                "6": {
+                    "title": "We All Go a Little Mad Sometimes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 6,
+                    "votes": 1240,
+                    "original air date": "15 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Terrifying hallucinations leave Elena shaken and confused and she makes a painful confession to Stefan. Matt gives Damon startling information about Professor Shane (DAVID ALPAY).    "
+                },
+                "7": {
+                    "title": "My Brother's Keeper",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 7,
+                    "votes": 1696,
+                    "original air date": "29 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    At the annual Miss Mystic Falls Pageant, Elena and Caroline give April (GRACE PHIPPS) advice, while Tyler and Hayley (PHOEBE TONKIN) work together on a secret project.    "
+                },
+                "8": {
+                    "title": "We'll Always Have Bourbon Street",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 8,
+                    "votes": 1236,
+                    "original air date": "6 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n    Damon and Stefan visit New Orleans in hopes of finding someone who remembers their last visit in 1942. MADELINE ZIMA (Californication) guest stars as one of Damon's former flames.    "
+                },
+                "9": {
+                    "title": "O Come, All Ye Faithful",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 9,
+                    "votes": 1274,
+                    "original air date": "13 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n    It's a winter wonderland in Mystic Falls. Plus, Professor Shane (DAVID ALPAY) reveals a piece of ancient history that leaves everyone speechless.    "
+                },
+                "10": {
+                    "title": "After School Special",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 10,
+                    "votes": 1234,
+                    "original air date": "17 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Rebekah (CLAIRE HOLT) is back with a vengeance. Bonnie is uncomfortable when her father, Rudy Hopkins (RICK WORTHY - Supernatural), accepts the role of Interim Mayor.    "
+                },
+                "11": {
+                    "title": "Catch Me If You Can",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 11,
+                    "votes": 1069,
+                    "original air date": "24 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Jeremy is furious when Klaus tries to control him by putting Matt's life in danger. Damon coaches Jeremy as he prepares to take on Klaus' new vampires, but they find that Kol has beaten them to it. Kol makes it clear that he will stop at nothing to convince everyone to give up the search for the cure. Looking for a new ally, Rebekah reminds Stefan that they were once close friends. When Sheriff Forbes and Mayor Hopkins question Shane about his involvement in the Founders' Council deaths, Bonnie steps in with questions of her own, and Shane's responses push Bonnie to ...    "
+                },
+                "12": {
+                    "title": "A View to a Kill",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 12,
+                    "votes": 1140,
+                    "original air date": "31 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    When the 1980s Decade Dance at the high school is cancelled by Mayor Hopkins (RICK WORTHY), Stefan finds a charming way to make it up to a disappointed Rebekah (CLAIRE HOLT).    "
+                },
+                "13": {
+                    "title": "Into the Wild",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 13,
+                    "votes": 1090,
+                    "original air date": "7 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Shane (DAVID ALPAY) leads an expedition to a desolate island, where he believes the secret of the cure lies hidden. Rebekah (CLAIRE HOLT) and Elena continue their bitter rivalry.    "
+                },
+                "14": {
+                    "title": "Down the Rabbit Hole",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 14,
+                    "votes": 1144,
+                    "original air date": "14 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Damon has an ugly run-in with a Hunter, Vaughn (CHARLIE BEWLEY - The Twilight Saga), and realizes he is one of the Five. Stefan admits his feelings about possibly becoming human.    "
+                },
+                "15": {
+                    "title": "Stand by Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 15,
+                    "votes": 1247,
+                    "original air date": "21 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Damon and Rebekah (CLAIRE HOLT) learn an unexpected bit of recent history from Vaughn (CHARLIE BEWLEY). Bonnie reveals the rest of Shane's (DAVID ALPAY) plan.    "
+                },
+                "16": {
+                    "title": "Bring It On",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 16,
+                    "votes": 1091,
+                    "original air date": "14 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Elena's new outlook has everyone concerned. Damon and Rebekah (CLAIRE HOLT) work together, but his unwanted advice catches her off-guard. Klaus tries to use Hayley (PHOEBE TONKIN).    "
+                },
+                "17": {
+                    "title": "Because the Night",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 17,
+                    "votes": 983,
+                    "original air date": "21 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Realizing that Elena needs some time away from Mystic Falls, Damon takes her to New York City. Flashbacks reveal Damon's hedonistic life there in the 1970s.    "
+                },
+                "18": {
+                    "title": "American Gothic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 18,
+                    "votes": 1076,
+                    "original air date": "28 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    While in a small town in Pennsylvania with Rebekah (CLAIRE HOLT), Elena has a surprising encounter with Elijah (DANIEL GILLIES). Klaus receives Caroline's reluctant help.    "
+                },
+                "19": {
+                    "title": "Pictures of You",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 19,
+                    "votes": 1070,
+                    "original air date": "18 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    When Caroline's plans for the perfect Senior Prom night are disrupted by Elena, she turns to an amused Klaus for a solution. Bonnie makes a terrifying discovery.    "
+                },
+                "20": {
+                    "title": "The Originals",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 20,
+                    "votes": 1516,
+                    "original air date": "25 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    Klaus returns to his past in New Orleans and meets with his former protégé, Marcel (CHARLES MICHAEL DAVIS), a charismatic vampire with control over the city's inhabitants.    "
+                },
+                "21": {
+                    "title": "She's Come Undone",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 21,
+                    "votes": 1036,
+                    "original air date": "2 May 2013",
+                    "year": "2013",
+                    "plot": "\n    The Salvatore brothers ask for backup from a surprising source when Elena calls their bluff. Katherine is suspicious when Bonnie makes her an offer.    "
+                },
+                "22": {
+                    "title": "The Walking Dead",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 22,
+                    "votes": 1166,
+                    "original air date": "9 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Someone has been attacking patients at the hospital. A violent wind storm causes a power outage and ghosts suddenly appear - some with good intentions and some bent on revenge.    "
+                },
+                "23": {
+                    "title": "Graduation",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 4,
+                    "episode": 23,
+                    "votes": 1947,
+                    "original air date": "16 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Season finale: It's Graduation Day. Damon's life is in danger and Elena faces an epic confrontation. Plus, Stefan discovers a horrifying clue to the mystery surrounding Silas.    "
+                }
+            },
+            "5": {
+                "1": {
+                    "title": "I Know What You Did Last Summer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 1,
+                    "votes": 1900,
+                    "original air date": "3 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    As the fifth season opens, Elena, after a passionate summer with Damon, heads to college nearby with Caroline as her roommate. Plus, a terrifying appearance by Silas (PAUL WESLEY).    "
+                },
+                "2": {
+                    "title": "True Lies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 2,
+                    "votes": 1111,
+                    "original air date": "10 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    A fellow Whitmore student named Jesse (KENDRICK SAMPSON) gives Elena some intriguing information about Professor Wes Maxfield (RICK COSNETT). Damon asks for help finding Stefan.    "
+                },
+                "3": {
+                    "title": "Original Sin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 3,
+                    "votes": 1172,
+                    "original air date": "17 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    When Elena and Katherine have the same dream that Stefan is in danger and desperately needs their help, they convince Damon to help them find Stefan. However, their plans are thwarted by a mysterious young woman named Tessa who seems to know everything about Stefan's history. In flashbacks to a distant time and place, Tessa reveals the shocking secrets in her past and what she has planned for the future. She also has a disturbing message for Damon about his own future. Silas forces an unwilling accomplice to help him search for Katherine, leading to a confusing and ...    "
+                },
+                "4": {
+                    "title": "For Whom the Bell Tolls",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 4,
+                    "votes": 1086,
+                    "original air date": "24 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    Damon and Elena try to help Stefan through a confusing time, which ends up taking Elena on an emotional journey. Caroline makes an effort to know Jesse (KENDRICK SAMPSON) better.    "
+                },
+                "5": {
+                    "title": "Monster's Ball",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 5,
+                    "votes": 1008,
+                    "original air date": "31 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    On campus, Elena is touched by a sad and secretive student named Aaron. Elena and Damon attend the Whitmore Historical Ball dressed as Anne Boleyn and Henry VIII. At the ball, Elena shares a dance with Dr. Maxfield, who has a disturbing message for her. Caroline's evening at the ball takes her from happiness to heartbreak. Meanwhile, Nadia reveals her surprising history to Katherine, and Damon tries to make a deal with Silas. But when Silas demands that Damon commit an unthinkable act, it leads to a violent confrontation.    "
+                },
+                "6": {
+                    "title": "Handle with Care",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 6,
+                    "votes": 985,
+                    "original air date": "7 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    Silas happily announces his new goal to Damon and Elena, but they are skeptical when he promises to accomplish one important task in return for their help. Tessa confidently tells Stefan about her next move, then realizes that Silas has managed to outsmart her. A desperate Katherine discovers a new and unexpected consequence of becoming human again, and realizes she needs a new place to stay. In exchange for a spot in the dorm room, she offers to show Caroline how to get answers from Dr. Maxfield. Bonnie is touched by Jeremy's strength and determination to stand by ...    "
+                },
+                "7": {
+                    "title": "Death and the Maiden",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 7,
+                    "votes": 976,
+                    "original air date": "14 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    The power of doppelgangers.... While Elena and Damon try to explain Amara's situation to Stefan, Dr. Wes Maxfield gives Katherine some deeply disturbing news. Nadia shows up at Caroline's dorm room searching for Katherine. After a surprising conversation with Amara, Jeremy and Bonnie share a glimmer of hope. Silas fails to keep a promise, causing Damon to turn to Tessa for help with his new plan, and Stefan makes a heartbreaking confession to Damon and Elena.    "
+                },
+                "8": {
+                    "title": "Dead Man on Campus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 8,
+                    "votes": 949,
+                    "original air date": "21 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    At Whitmore College, Elena and Caroline decide it's time to throw a big party, but their plans are interrupted when Jesse suddenly needs Caroline's help. At Elena's request, Damon comes up with an effective method to get Wes to answer his questions. At the party, Elena finds that she and Aaron have a lot in common, and Caroline grows more concerned about Jesse. Meanwhile, Katherine does a favor for Matt and manages to get through to Stefan, who is still struggling to overcome the events of the summer. Finally, Bonnie does her best to cope with her new reality, and ...    "
+                },
+                "9": {
+                    "title": "The Cell",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 9,
+                    "votes": 963,
+                    "original air date": "5 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    Damon is trapped by Dr. Wes, and realizes scary things about his past.    "
+                },
+                "10": {
+                    "title": "Fifty Shades of Grayson",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 10,
+                    "votes": 962,
+                    "original air date": "12 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    Damon realizes Elena is in danger and enlists Stefan's help to find her. The brothers pay a visit to Aaron, and Damon shocks Stefan by revealing his first-hand knowledge of Aaron's family. In an attempt to stop Damon, Dr. Wes unleashes his secret weapon, forcing Damon to deal with a part of his past he thought was gone forever, as well as the consequences of his decades-long plan for revenge. Meanwhile, Elena is horrified by Dr. Wes' confessions about the dark history of Whitmore College and his own ultimate goal. Finally, a frantic Katherine turns to Matt for help, ...    "
+                },
+                "11": {
+                    "title": "500 Years of Solitude",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 11,
+                    "votes": 1407,
+                    "original air date": "23 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Back to Katherine's early life 1490, Nadia helps her mom with a fighting plan.    "
+                },
+                "12": {
+                    "title": "The Devil Inside",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 12,
+                    "votes": 946,
+                    "original air date": "30 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Damon tries to get back together with Elena, however, Katherine has a plan and attempts to take Elena's body permanently. Tyler is upset with Caroline and Matt is used by Katherine. Enzo finds Damon and they decide to become a team again.    "
+                },
+                "13": {
+                    "title": "Total Eclipse of the Heart",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 13,
+                    "votes": 883,
+                    "original air date": "6 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Hoping to help everyone move past recent traumatic events, Caroline convinces Elena and Bonnie to attend Whitmore College's \"Bitter Ball\" for broken-hearted students. Bonnie is intrigued with a fellow student named Liv, who appears to be dabbling in witchcraft. Tyler starts to worry about Matt's relationship with Nadia. After making a disturbing discovery, Stefan has a frustrating conversation with Damon and Enzo. Dr. Wes struggles to continue his research project with help from a new benefactor named Sloan. Still bent on revenge, Damon and Enzo resort to violence to ...    "
+                },
+                "14": {
+                    "title": "No Exit",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 14,
+                    "votes": 862,
+                    "original air date": "27 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    As Damon's behavior escalates from destructive to deadly, Stefan begins to regret their last conversation and decides to track Damon down and intervene. For reasons of her own, Elena volunteers to come along. Dr. Wes enlists the Travelers to set a trap that will once again test Damon's friendship with Enzo. After a heart-to-heart talk with Nadia, Matt enlists Caroline and Tyler's help to protect Elena, leading to a violent confrontation. Later, when Stefan tries to comfort a dejected Caroline, their conversation leads to a horrifying realization.    "
+                },
+                "15": {
+                    "title": "Gone Girl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 15,
+                    "votes": 1109,
+                    "original air date": "6 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    While Nadia remembers her centuries-long search for her mother, Stefan, Caroline and Matt come up with a desperate new plan to save Elena's life. For the second time, Bonnie and Jeremy must turn to Liv for help. Damon baits Tyler into a nasty confrontation, then takes off to seek revenge on Dr. Wes. Caroline and Tyler come to a new understanding. Finally, Bonnie learns of a terrifying secret that will threaten the lives of all her friends.    "
+                },
+                "16": {
+                    "title": "While You Were Sleeping",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 16,
+                    "votes": 870,
+                    "original air date": "20 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    When Stefan tries to explain recent events to a very sick Elena, her first instinct is to call Damon. At the same time, Damon is trying to figure out how to make a disturbing confession to Elena. While going through Dr. Wes' files, Caroline discovers a frightening secret, and is surprised when Enzo appears, claiming to have the solution everyone is searching for. At Enzo's insistence, Caroline asks Stefan to meet her at a mysterious location where they are joined by a group of Travelers, including Sloan, who reveals new information on the importance of doppelgangers.    "
+                },
+                "17": {
+                    "title": "Rescue Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 17,
+                    "votes": 827,
+                    "original air date": "27 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Bonnie has an unsettling encounter with Luke (CHRIS BROCHU), and learns more about his family history. The Travelers' leader, Markos (RAFFI BARSOUMIAN), arrives in Mystic Falls.    "
+                },
+                "18": {
+                    "title": "Resident Evil",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 18,
+                    "votes": 893,
+                    "original air date": "17 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Both Stefan and Elena are suddenly having unsettling dreams of an alternate version of the life they might have had together. Bonnie has a disturbing encounter with Grams, who warns her about frightening changes on the Other Side. Enzo gives Damon unwanted relationship advice, then admits he is searching for a woman he loved decades before while he was held captive by the Augustines. Liv enlists Matt, Jeremy and Tyler to help track the Travelers and keep them from taking control of Mystic Falls. Bonnie is hurt and angry when she learns that Jeremy is working with Liv ...    "
+                },
+                "19": {
+                    "title": "Man on Fire",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 19,
+                    "votes": 800,
+                    "original air date": "24 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Enzo holds Elena, Stefan and Bonnie hostage to uncover the truth about the love of his life. Markos performs a ritual to undo witch's magic.    "
+                },
+                "20": {
+                    "title": "What Lies Beneath",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 20,
+                    "votes": 791,
+                    "original air date": "1 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Damon and Caroline suspect Stefan and Elena of keeping a secret while they hide from the travelers, unaware of the dead man out for revenge. Meanwhile Matt, Jeremy and Bonnie help Tyler get rid of Julian.    "
+                },
+                "21": {
+                    "title": "Promised Land",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 21,
+                    "votes": 1071,
+                    "original air date": "8 May 2014",
+                    "year": "2014",
+                    "plot": "\n    When Stefan and Elena escape from Markos' control, only to find themselves Stranded in a remote location, Stefan gets philosophical with Elena about her relationship with Damon. After their attempt to protect the doppelgangers goes badly, Liv and Luke come up with a dangerous new strategy. Damon recruits Matt and Jeremy to help him set a trap for Markos, who turns out to have a devastating surprise of his own. Bonnie finally admits to Caroline that she's been keeping the truth about the Other Side from everyone. Finally, while Bonnie searches desperately for a way to ...    "
+                },
+                "22": {
+                    "title": "Home",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 5,
+                    "episode": 22,
+                    "votes": 1666,
+                    "original air date": "15 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Damon's plan causes a huge explosion in Mystic Falls, and everyone is caught up in the confusion, leaving a trail of heroism, sacrifice, relief and despair.    "
+                }
+            },
+            "6": {
+                "1": {
+                    "title": "I'll Remember",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 1,
+                    "votes": 1253,
+                    "original air date": "2 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Four months have gone by since the Other Side broke down and Bonnie and Damon were lost. Mystic Falls is still a supernatural-free area. Everyone is grieving in their own ways, and some worse than others.    "
+                },
+                "2": {
+                    "title": "Yellow Ledbetter",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 2,
+                    "votes": 1075,
+                    "original air date": "9 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Knowing she needs to come to terms with the loss of Damon, Elena turns to Alaric to help her move on with her life. Enzo convinces Caroline to join him as he tracks down a lead to get Damon and Bonnie back, but Caroline is shocked when they make an unexpected detour and uncover what Stefan has been up to. Meanwhile, Matt worries about Jeremy who is spending time with Sarah, a mysterious girl who has recently arrived in Mystic Falls. Elsewhere, Tripp, leader of the community protection program, makes an interesting confession to Matt about his connection to the town. ...    "
+                },
+                "3": {
+                    "title": "Welcome to Paradise",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 3,
+                    "votes": 940,
+                    "original air date": "16 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Caroline admits that she has feelings for Stefan.    "
+                },
+                "4": {
+                    "title": "Black Hole Sun",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 4,
+                    "votes": 878,
+                    "original air date": "23 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Damon and Bonnie are trying to come up with a way to come back from the otherside, while Stefan tries to help Elena start fresh.    "
+                },
+                "5": {
+                    "title": "The World Has Turned and Left Me Here",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 5,
+                    "votes": 1109,
+                    "original air date": "30 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Homecoming is around the corner! There is a party in a corn maze but a devastating accident turns things around quickly which makes things go from fun to bad in an instant.    "
+                },
+                "6": {
+                    "title": "The More You Ignore Me, the Closer I Get",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 6,
+                    "votes": 891,
+                    "original air date": "6 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Now that Damon is back, Elena is deciding whether or not to have her memories of him back. Things go south very quickly.    "
+                },
+                "7": {
+                    "title": "Do You Remember the First Time?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 7,
+                    "votes": 897,
+                    "original air date": "13 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Elena is forced to confront her problems; Liv and Tyler get closer; Damon finds a surprising clue that renews his hope.    "
+                },
+                "8": {
+                    "title": "Fade Into You",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 8,
+                    "votes": 842,
+                    "original air date": "20 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Elena gets some hopeful news from Alaric and Stefan regarding the Gemini Coven; Tyler tries to help Liv and Luke after learning of disturbing plans the coven has for them; dinner takes a drastic turn for Jo; Kai makes a dangerous discovery.    "
+                },
+                "9": {
+                    "title": "I Alone",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 9,
+                    "votes": 758,
+                    "original air date": "4 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    Matt figures out Enzo is still a threat. Jo and Alaric get closer, while Stefan and Caroline have their own issues.    "
+                },
+                "10": {
+                    "title": "Christmas Through Your Eyes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 10,
+                    "votes": 782,
+                    "original air date": "11 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    Bonnie tries to replicate her favorite traditions, while reminiscing about happier times with her friends; Sheriff Forbes brings holiday cheer to Caroline at Whitmore College; Alaric turns to Damon and Elena for help when Jo goes missing; Tyler approaches Liv and Luke with a risky plan; Jeremy helps Matt carry out a plan to take down Enzo; Stefan is forced to break some devastating news to Caroline.    "
+                },
+                "11": {
+                    "title": "Woke Up with a Monster",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 11,
+                    "votes": 799,
+                    "original air date": "22 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    As Kai learns how to control his magic, he holds Elena captive; Caroline and Stefan go to North Carolina in search of a cure for Sheriff Forbes; Damon realizes Elena has been kidnapped.    "
+                },
+                "12": {
+                    "title": "Prayer for the Dying",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 12,
+                    "votes": 762,
+                    "original air date": "29 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    When Liv and Luke's father arrives to town to celebrate their birthday, they try and convince him to let Jo and Kai take their place in the merge ceremony. After Tyler finds out that the merge is happening sooner than he expected, he urges Liv to let him talk to her father. Meanwhile, after Caroline's plan to cure her mother takes an unexpected and devastating turn, Elena, Stefan and Damon gather at the hospital, while Jo attempts to save Sheriff Forbes' life. Lastly, with the merge set to take place, Damon's risky plan quickly sends things spiraling out of control, ...    "
+                },
+                "13": {
+                    "title": "The Day I Tried to Live",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 13,
+                    "votes": 766,
+                    "original air date": "5 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Elena is determined to celebrate Bonnie's birthday; after learning Stefan's secret, Enzo wants to interfere in Sarah Salvatore's life; Caroline struggles to cope with everything going on around her.    "
+                },
+                "14": {
+                    "title": "Stay",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 14,
+                    "votes": 882,
+                    "original air date": "12 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Elena and Jeremy reminisce about their past; Caroline and Stefan grow closer; Sheriff Forbes asks Damon for help with a case involving Elena's parents; Enzo lures Matt and Sarah into his plan.    "
+                },
+                "15": {
+                    "title": "Let Her Go",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 15,
+                    "votes": 1024,
+                    "original air date": "19 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Everybody gathers for the funeral of Liz Forbes. Elena is worried Caroline isn't coping as well as everyone believes.    "
+                },
+                "16": {
+                    "title": "The Downward Spiral",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 16,
+                    "votes": 1027,
+                    "original air date": "12 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Stefan blames himself for Care turning off her emotions. Damon needs to tell his brother their mom's alive. Enzo starts having feelings for Sarah.    "
+                },
+                "17": {
+                    "title": "A Bird in a Gilded Cage",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 17,
+                    "votes": 748,
+                    "original air date": "19 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Elena and Damon try to save his mom. Stefan and Caroline still have no humanity and Bonnie deals with her issues with Ki.    "
+                },
+                "18": {
+                    "title": "I Could Never Love Like That",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 18,
+                    "votes": 710,
+                    "original air date": "16 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Damon concocts a risky plan to stop Caroline and Stefan from wreaking havoc.    "
+                },
+                "19": {
+                    "title": "Because",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 19,
+                    "votes": 693,
+                    "original air date": "23 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Damon tries to decide if he should tell Elena about the cure; Bonnie learns that she was betrayed.    "
+                },
+                "20": {
+                    "title": "I'd Leave My Happy Home for You",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 20,
+                    "votes": 705,
+                    "original air date": "30 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Damon and Elena talk about the consequences of Damon's offer; Enzo asks Stefan to help with Lily.    "
+                },
+                "21": {
+                    "title": "I'll Wed You in the Golden Summertime",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 21,
+                    "votes": 872,
+                    "original air date": "7 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Elena and Bonnie help Jo with last minute wedding preparations.    "
+                },
+                "22": {
+                    "title": "I'm Thinking of You All the While",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 6,
+                    "episode": 22,
+                    "votes": 1327,
+                    "original air date": "14 May 2015",
+                    "year": "2015",
+                    "plot": "\n    In the aftermath of Jo, and Alarics wedding, an unexpected guest shows up, putting Elena's life in jeopardy. Despite Matt's attempt to leave town to save himself, Bonnie takes matters into her own hands after finding herself on the receiving end of a twisted plan...    "
+                }
+            },
+            "7": {
+                "1": {
+                    "title": "Day One of Twenty-Two Thousand, Give or Take",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 1,
+                    "votes": 994,
+                    "original air date": "8 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Damon is faced with a new reality without the love of his life; Bonnie decides to be Damon's moral compass, and look out for Alaric, who lost his fiancé. Stefan protects the town from Lily; Enzo must decide Who he is loyal to.    "
+                },
+                "2": {
+                    "title": "Never Let Me Go",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 2,
+                    "votes": 734,
+                    "original air date": "15 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Damon makes a decision that could ruin Lily and Stefan's deal; Alraic needs Bonnie's help with an artifact; Caroline discovers a shocking secret.    "
+                },
+                "3": {
+                    "title": "Age of Innocence",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 3,
+                    "votes": 693,
+                    "original air date": "22 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    In the aftermath of a clever plan orchestrated by Lily, Damon sets off on a road trip with Bonnie and Alaric in search of leverage they can use against his mother. Meanwhile, Caroline, who is being held hostage by the Heretics, learns some shocking information about Valerie's past, while Stefan learns a few unexpected details about his own past from Lily. Finally, Alaric turns to Bonnie for her help after coming clean about a secret he's been keeping.    "
+                },
+                "4": {
+                    "title": "I Carry Your Heart with Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 4,
+                    "votes": 704,
+                    "original air date": "29 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Just as Damon thinks he's gained the upper hand in his fight against Lily, an unexpected turn of events leaves him scrambling for a plan B.    "
+                },
+                "5": {
+                    "title": "Live Through This",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 5,
+                    "votes": 674,
+                    "original air date": "5 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Bonnie, Damon, and Alaric go through a tough shock with the Phoenix stone, while Caroline sent Stefan to spend the day with his ex, Valerie.    "
+                },
+                "6": {
+                    "title": "Best Served Cold",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 6,
+                    "votes": 646,
+                    "original air date": "12 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    After being reunited with her former love Julian, Lily hosts a dinner party to introduce him to Damon and Stefan and to declare peace between her family of Heretics and the residents of Mystic Falls. Damon and Stefan find themselves at an impasse when they realize they have differing views on how to handle Julian's arrival. At the party, Bonnie and Matt uncover a strange mystery involving some unsuspecting residents, while a devastating revelation causes Alaric to reach his breaking point.    "
+                },
+                "7": {
+                    "title": "Mommie Dearest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 7,
+                    "votes": 635,
+                    "original air date": "19 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Damon and Stefan conspire to kill Julian, while Caroline struggles with the fact that she's pregnant with Ric's kids.    "
+                },
+                "8": {
+                    "title": "Hold Me, Thrill Me, Kiss Me, Kill Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 8,
+                    "votes": 662,
+                    "original air date": "3 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    It's Nora and Mary Louise's anniversary and Julian has big plans for the night, however, Lily and her sons have even bigger plans for Julian.    "
+                },
+                "9": {
+                    "title": "Cold as Ice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 9,
+                    "votes": 696,
+                    "original air date": "10 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    In the events following their mother's passing, Stefan and Damon try to engage in the holiday spirit.    "
+                },
+                "10": {
+                    "title": "Hell Is Other People",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 10,
+                    "votes": 944,
+                    "original air date": "29 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    Damon's soul is stuck in the phoenix stone, the world of the phoenix stone is trying to break Damon emotionally and at the same time Damon's family and friend are trying to bring him back.    "
+                },
+                "11": {
+                    "title": "Things We Lost in the Fire",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 11,
+                    "votes": 613,
+                    "original air date": "5 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Caroline throws a baby shower for Alaric's twins, and the Salvatore brothers face the hallucinations caused by the Phoenix Stone.    "
+                },
+                "12": {
+                    "title": "Postcards from the Edge",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 12,
+                    "votes": 605,
+                    "original air date": "12 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Stefan uncovers the reason behind Damon's dark descent following his experience in the Phoenix stone.    "
+                },
+                "13": {
+                    "title": "This Woman's Work",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 13,
+                    "votes": 638,
+                    "original air date": "19 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Vampire hunter Rayna Cruz is on the loose and Damon has to make things right when his actions inadvertently put his loved ones in her path.    "
+                },
+                "14": {
+                    "title": "Moonlight on the Bayou",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 14,
+                    "votes": 740,
+                    "original air date": "26 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Stefan goes to New Orleans to lure Rayna Cruz away from his friends and comes face to face with Klaus Mikaelson, who's suspicious of his old friend's arrival.    "
+                },
+                "15": {
+                    "title": "I Would for You",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 15,
+                    "votes": 602,
+                    "original air date": "4 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Tired of having everyone sacrifice themselves for him, Damon decides to leave the group. Meanwhile, Bonnie's new discovery threatens Damon's plans to stop Rayna.    "
+                },
+                "16": {
+                    "title": "Days of Future Past",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 16,
+                    "votes": 671,
+                    "original air date": "1 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Stefan will find himself with a choice to make and his decision will determine the fates of everyone he cares about, especially Damon.    "
+                },
+                "17": {
+                    "title": "I Went to the Woods",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 17,
+                    "votes": 614,
+                    "original air date": "8 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    In the aftermath of his brother's fateful decision, Stefan awakens to find himself thrown into a life or death situation with only his basic instincts to rely on. With time working against him, he sets off on a journey of survival while forced to confront a lifetime of irreversible damage Damon has done to their relationship. Meanwhile, desperate to save his brother, Damon follows an unusual lead he has come across, while Matt sends Valerie to Dallas to enlist Alaric's help in the search for Stefan. Finally, when Rayna discovers the emergence of a new threat, she sets...    "
+                },
+                "18": {
+                    "title": "One Way or Another",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 18,
+                    "votes": 518,
+                    "original air date": "15 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    Determined to capture an escaped vampire named Ambrose, who may be the key to getting Stefan back safely, Damon heads to Memphis with Alaric in tow. However, reluctant to step back into his former vampire-hunting ways, Alaric makes his unwillingness to participate clear, while revealing the truth about the past three years of his life without Damon. Meanwhile, in the psych ward, Bonnie meets a young woman named Virginia, who provides her with some valuable information about why The Armory may be after her. Finally, Enzo takes matters into his own hands when he learns ...    "
+                },
+                "19": {
+                    "title": "Somebody That I Used to Know",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 19,
+                    "votes": 524,
+                    "original air date": "22 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    When Enzo's efforts to protect Bonnie end up putting her life in jeopardy, they learn that Rayna may hold the key to her survival. With time running out and Rayna at the reins, Enzo and Bonnie reluctantly team up with Damon, who is desperate to save Bonnie's life and to repair their broken friendship. Elsewhere, when Stefan travels to Dallas and comes face to face with Alaric, tensions escalate and they are forced to confront the fallout from Stefan's absence in Caroline's life. Finally, Enzo learns The Armory's true motives behind their search for Bonnie.    "
+                },
+                "20": {
+                    "title": "Kill 'Em All",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 20,
+                    "votes": 504,
+                    "original air date": "29 Apr. 2016",
+                    "year": "2016",
+                    "plot": "\n    With Bonnie's life at stake and an uphill battle ahead of them, Damon and Enzo lead the charge to save Bonnie before her condition worsens. Stefan reluctantly teams up with Matt for the sake of Bonnie and uncovers the truth behind Matt's anger towards him. Elsewhere, determined to help her best friend, Caroline joins Alaric on a mission and quickly realizes how much she's missed her former supernatural lifestyle. Finally, after their plan takes an unexpected turn, Damon makes a fateful decision that will forever change his relationship with Bonnie.    "
+                },
+                "21": {
+                    "title": "Requiem for a Dream",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 21,
+                    "votes": 549,
+                    "original air date": "6 May 2016",
+                    "year": "2016",
+                    "plot": "\n    When Damon's risky attempt to save Bonnie takes an unexpected turn, the consequences of his actions forces everyone to band together to help her pull through. Meanwhile, when a new threat leaves Caroline's life in jeopardy, Stefan makes a rash decision that ultimately forces them to face the fallout from their relationship. Elsewhere, Enzo tries to hold it together as he painfully watches Bonnie in the fight of her life, while Matt takes matters into his own hands to save one of his closest friends. Alaric also appears.    "
+                },
+                "22": {
+                    "title": "Gods and Monsters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Vampire Diaries (TV Series 2009–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 7,
+                    "episode": 22,
+                    "votes": 690,
+                    "original air date": "13 May 2016",
+                    "year": "2016",
+                    "plot": "\n    Despite their best efforts to help Bonnie through the harrowing predicament she now faces, Damon, Enzo and Caroline realize their options are running out and drastic measures need to be taken. With their only chance of saving their friend lying inside the Armory, Stefan breaks the news to Caroline that they may need help from an unlikely source - her and Alaric's twin daughters. Elsewhere, Enzo keeps Bonnie preoccupied by bringing her back to their cabin but when his plan takes an unexpected turn, it'll be up to Damon to make the ultimate sacrifice to save his closest...    "
+                }
+            }
+        },
+        "number of episodes": 171,
+        "cast": [
+            {
+                "name": "Wesley, Paul"
+            },
+            {
+                "name": "Somerhalder, Ian"
+            },
+            {
+                "name": "Graham, Kat"
+            },
+            {
+                "name": "King, Candice"
+            },
+            {
+                "name": "Roerig, Zach"
+            },
+            {
+                "name": "Trevino, Michael"
+            },
+            {
+                "name": "Dobrev, Nina"
+            },
+            {
+                "name": "McQueen, Steven R."
+            },
+            {
+                "name": "Davis, Matthew"
+            },
+            {
+                "name": "Malarkey, Michael"
+            },
+            {
+                "name": "Morgan, Joseph"
+            },
+            {
+                "name": "MacIntyre, Marguerite"
+            },
+            {
+                "name": "Canning, Sara"
+            },
+            {
+                "name": "Holt, Claire"
+            },
+            {
+                "name": "Walters, Susan"
+            },
+            {
+                "name": "Gillies, Daniel"
+            },
+            {
+                "name": "O'Keefe, Jodi Lyn"
+            },
+            {
+                "name": "Mitchell, Penelope"
+            },
+            {
+                "name": "Wood, Chris"
+            },
+            {
+                "name": "Ewell, Kayla"
+            },
+            {
+                "name": "Melise"
+            },
+            {
+                "name": "Wersching, Annie"
+            },
+            {
+                "name": "Smith, Tierney"
+            },
+            {
+                "name": "Blackmore, Elizabeth"
+            },
+            {
+                "name": "Smith, Lily Rose"
+            },
+            {
+                "name": "Guy, Jasmine"
+            },
+            {
+                "name": "Anders, David"
+            },
+            {
+                "name": "Brochu, Chris"
+            },
+            {
+                "name": "Fonda, Olga"
+            },
+            {
+                "name": "Byrne, Scarlett"
+            },
+            {
+                "name": "DeVitto, Torrey"
+            },
+            {
+                "name": "Alpay, David"
+            },
+            {
+                "name": "Cosnett, Rick"
+            },
+            {
+                "name": "Kelley, Nathalie"
+            },
+            {
+                "name": "Liane, Teressa"
+            },
+            {
+                "name": "Lasance, Todd"
+            },
+            {
+                "name": "Gillam, Gracie"
+            },
+            {
+                "name": "Buzolic, Nathaniel"
+            },
+            {
+                "name": "Kinney, Taylor"
+            },
+            {
+                "name": "Bridges, Demetrius"
+            },
+            {
+                "name": "Gutoskie, Kristen"
+            },
+            {
+                "name": "Huff, Leslie-Anne"
+            },
+            {
+                "name": "Kebbel, Arielle"
+            },
+            {
+                "name": "Parks, Wolé"
+            },
+            {
+                "name": "Sipos, Shaun"
+            },
+            {
+                "name": "Tonkin, Phoebe"
+            },
+            {
+                "name": "Hu, Kelly"
+            },
+            {
+                "name": "Pralgo, Robert"
+            },
+            {
+                "name": "Ferguson, Colin"
+            },
+            {
+                "name": "Gretsch, Joel"
+            }
+        ],
+        "locations": [
+            "598 Abernathy Road, NE, Atlanta, Georgia, USA::(Salvatore Boarding House)",
+            "Vancouver, British Columbia, Canada::(pilot)",
+            "Chicago, Illinois, USA",
+            "Castleberry Hill, Atlanta, Georgia, USA",
+            "2104 Floyd Street NE, Covington, Georgia, USA::(the gilbert house)",
+            "2136 Conyers Street SE, Covington, Georgia, USA::(Grams's House)",
+            "2129 East Street SE, Covington, Georgia, USA::(Tyler's House)",
+            "Covington, Georgia, USA",
+            "Conyers, Georgia, USA",
+            "Atlanta, Georgia, USA",
+            "Monroe, Georgia, USA",
+            "6741 224th Street, Langley, British Columbia, Canada::(Salvatore Boarding House) (pilot)"
+        ],
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Horror",
+            "Mystery",
+            "Romance",
+            "Thriller"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Australia:MA15+",
+            "Brazil:16",
+            "Canada:18A",
+            "Canada:G::(Québec)",
+            "Denmark:15",
+            "Finland:K-16",
+            "France:10",
+            "Germany:16",
+            "Hungary:16",
+            "Ireland:15",
+            "Italy:VM12",
+            "Malaysia:P13",
+            "Mexico:B-15",
+            "Netherlands:16",
+            "New Zealand:R13",
+            "Norway:15",
+            "Russia:16+",
+            "Singapore:M18",
+            "South Africa:16",
+            "South Korea:18",
+            "Spain:16::(HBO)",
+            "Sweden:15",
+            "Thailand:18",
+            "United Kingdom:15",
+            "United States:TV-14"
+        ],
+        "number of seasons": 8,
+        "rating": 7.7,
+        "votes": 258924,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMDk3YzgxNDQtNTEzOS00NDMyLWFlYmYtYTZlMDk1NDkxNmMyXkEyXkFqcGdeQXVyNzA5NjUyNjM@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "After centuries of quarreling, Stefan and Damon Salvatore return to their original town of Mystic Fall Virginia. Stefan, the selfless, brave, guilt ridden brothers meets a high school girl named Elena Gilbert who he instantly falls in love with. While Damon the gorgeous, dangerous, and selfish vampire is after his brothers girl to pay him back for making him turn into a vampire in 1864.",
+        "languages": [
+            "English"
+        ],
+        "title": "The Vampire Diaries",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-2017",
+        "seasons": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "writer": [
+            {
+                "name": "Plec, Julie"
+            },
+            {
+                "name": "Williamson, Kevin"
+            },
+            {
+                "name": "Smith, L.J."
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Alloy Entertainment"
+            },
+            {
+                "name": "Bonanza Productions"
+            },
+            {
+                "name": "Warner Bros. Television"
+            },
+            {
+                "name": "CBS Television Studios"
+            },
+            {
+                "name": "Outerbanks Entertainment"
+            },
+            {
+                "name": "Warner Home Video"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "The CW Network (The CW)"
+            },
+            {
+                "name": "Canadian Television (CTV)"
+            },
+            {
+                "name": "CNBC-e"
+            },
+            {
+                "name": "DiziMax"
+            },
+            {
+                "name": "GO!"
+            },
+            {
+                "name": "ITV - Independent Television"
+            },
+            {
+                "name": "Net5"
+            },
+            {
+                "name": "Net5"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "ProSieben Fun"
+            },
+            {
+                "name": "ProSieben Television"
+            },
+            {
+                "name": "RTL Klub Televízió"
+            },
+            {
+                "name": "RTL Plusz"
+            },
+            {
+                "name": "Radio Télévision Suisse (RTS)"
+            },
+            {
+                "name": "SBS9"
+            },
+            {
+                "name": "Schweizer Fernsehen (SF)"
+            },
+            {
+                "name": "Sixx"
+            },
+            {
+                "name": "Star Channel"
+            },
+            {
+                "name": "Super! Drama TV"
+            },
+            {
+                "name": "VIJF"
+            },
+            {
+                "name": "VT4"
+            },
+            {
+                "name": "Vijftv"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Entity FX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Crawford Media Services"
+            },
+            {
+                "name": "Goldbug Motion Picture Services"
+            },
+            {
+                "name": "Lightnin' Production Rentals"
+            },
+            {
+                "name": "Playback Technologies"
+            },
+            {
+                "name": "Reel Chefs Catering"
+            },
+            {
+                "name": "Silver Screen Rentals"
+            },
+            {
+                "name": "Sim"
+            },
+            {
+                "name": "Soundtrack New York"
+            },
+            {
+                "name": "Studio Line"
+            },
+            {
+                "name": "Technicolor"
+            },
+            {
+                "name": "Transportation Resources"
+            },
+            {
+                "name": "Virgin Records"
+            }
+        ],
+        "plot": [
+            "The lives, loves, dangers and disasters in the town, Mystic Falls, Virginia. Creatures of unspeakable horror lurk beneath this town as a teenage girl is suddenly torn between two vampire brothers.::Mohammed Zainal",
+            "After centuries of quarreling, Stefan and Damon Salvatore return to their original town of Mystic Fall Virginia. Stefan, the selfless, brave, guilt ridden brothers meets a high school girl named Elena Gilbert who he instantly falls in love with. While Damon the gorgeous, dangerous, and selfish vampire is after his brothers girl to pay him back for making him turn into a vampire in 1864.",
+            "145 years after they are turned into vampires, during a vampire hunt, Stefan and Damon Salvatore return home, a small town called Mystic Falls. Stefan returns to meet Elena Gilbert who has an uncanny resemblance to his (and his brother's) old love, Katherine Pierce. Damon returns to follow his brother and give him the eternity of misery that he promised him; they soon discover the war is not over.::ahmetkozan",
+            "Vampire brothers, Stefan and Damon Salvatore, battle for the affection of selfless teenager, Elena Gilbert. Stefan is the good and kind hearted brother that feeds on animal blood to keep from killing anybody, and Damon is the selfish and dangerous older brother that feeds on human blood carelessly. Elena is brought into the supernatrual world that she was hidden from as a girl, and surrounds herself with a circle of human AND supernatrual friends, ready to fight the hunters and enemies that wait for them in the shadows.",
+            "As Elena a doppelganger suffers from the death of her parents, she soon starts to think that she will never be happy again. Soon after a hot new student show up Stefan Salvatore. Elena and Stefan soon starts dating and Stefan makes Elena happy but she doesn't know anything about his past and as he comes into town his big brother Damon Salvatore follows he promised him a. Entrity of misery and soon later Damon falls in love with Elena too. On Elena birthday Damon's gives Elena back her necklace and that's the moment she realized she loved him. Towards season 4 her and Stefan break up and she spends 8 seasons worth love for Damon and Damon makes her happy and be able to believe in herself he challenges her to her becoming her best self let's see what happens next....."
+        ],
+        "synopsis": [
+            "Episode 2.9Bulgaria 1490Katerina Petrova gives birth to a little girl and immediately has the baby taken away from her by her father, who says she has brought shame on her family.In present day, Elena visits the boys. Rose is there. She tells them about Klaus, one of the original vampires, Elijah is his foot soldier. They're after Elena. Rose assures them Klaus won't quit until he gets what he wants. Elena excuses herself to go to school.Arriving at school Jeremy casually asks Bonnie if she wants to play pool later. A new guy introduces himself as Luka to both of them and Bonnie seems to like what she sees.Trudging through the woods, Elena is lugging a giant suitcase and telling Caroline to cover for her, especially with Stefan.Elena goes down into the tomb, hoping to ask Katherine about Klaus. Caroline opens the giant stone tomb door. Katherine is weak and emaciated inside.Elena urges Caroline to leave, saying she'll be fine as long as she doesn't cross into the tomb where Katherine is held by the spell.She asks about Klaus. She brought the Petrova family history and a bottle of blood. She pours some in a cup and scoots it across the threshold for Katherine.The story of her and Klaus goes back to England in 1492, after she was thrown out of Bulgaria by her family. They disowned her for having a baby out of wedlock. She met Klaus the nobleman but ran when she learned what he was.Cut to Katherine running through the woods away from Elijah. One of the group diverts him away. Then he finds Katherine -- we see that it's Trevor, the vampire Elijah beheaded - and tells her to run.Klaus wanted her blood.Damon finds Rose crying over Trevor. He asks her how to find Klaus. She found Elijah through Slater in Richmond.At school, Caroline stops Stefan on his way to check on Elena, who he thinks went home sick. She tells him she told Tyler she was a vampire.Elena feds Katherine more blood and she explains that the curse was bound by Petrova blood. The doppelganger was created as a way to undo the spell.Cut to Katherine running through the woods to a cabin. She finds an old woman and Rose inside. She shows her the moonstone. Rose doesn't want to go against Klaus and tells her she's bringing her back to him.Rose and Damon arrive at an office building. He threatens her, warning her not to double cross him. She turns him around, reminding him she's older and stronger. But she says he can trust her.Slater recognizes Damon, and knows about the tomb under the church.Katherine continues her story...Rose checks on Katherine, who has hurt herself, saying she'd rather die than be sacrificed. Rose tries to feed her some blood. Trevor comes back, saying he loves Katherine and they can run from Klaus. They see that Katherine has hung herself.Katherine explains to Elena that Klaus needed a human sacrifice so she turned. She draws some of her own blood and offers it to Elena, taunting her.Back in 1492, Rose realizes that Katherine used Trevor to escape and her to turn. She knows Klaus will be after them.Katherine is unmoved when Elena points out she ruined their lives.Caroline and Stefan eat at the grill. He says she reminds him of his best friend Lexie. She says Tyler is freaking out about the upcoming full moon.At another table in the Grill, Luka sees Bonnie and introduces her to his dad, Dr. Jonas Martin. She agrees to join them, waiting for Jeremy.They moved from Louisiana. Jonas says he knew some Bennetts from his residency and asks if she has family in Salem.Jeremy arrives. She says good bye, touching Luka on the shoulder and feeling something.Slater says the way to get in touch with Klaus was Craigslist, but that only leads to Elijah, who they think is dead.Outside, a man in a black suit scoops coins from a guitar players tip case. It's Elijah. He's standing outside the coffee shop Rose and Damon are in.Bonnie plays some very bad pool with Jeremy. Luka joins them.Stefan figures out Caroline is stalling and asks where Elena is. She refuses to tell him. He leaves.Back in the tomb, Elena guesses that Katherine was planning to turn her over to Klaus to gain her freedom.Elena puts together what else is needed to break the spell: a werewolf and a witch. Also, Katherine tells her, she needs a vampire: Caroline.Back in the coffee shop, Slater explains that if a werewolf breaks the curse first, vampires are stuck and vice versa.Elijah listens outside. Then he throws the coins through the tempered glass. It shatters and Rose and Slater are burned by the sun.Damon covers her with a jacket and helps her out. She's sure Klaus was behind it.Bonnie watches Jeremy play pool, Luka joins her, apologizing for his dad asking about the Bennetts of Salem. He says he doesn't like anyone to know, but they were both worried she'd out them. They're warlocks.In the tomb, Elena is ready to go and Stefan finds her. He tells her Katherine is a liar.She finishes her story...Bulgaria 1492\nKatherine returns to her house to find her family slaughtered.She tells Stefan that Klaus will have vengeance. She says Elena is doomed, unless they have the moonstone -- which she's holding.She says she'll be safe in her tomb when Klaus comes to town.At the house, Rose apologizes to Damon. They share a drink. Rose says Damon is right to fight the way he feels about Elena because if they're going to survive, they can't care. She says it's time to turn the switch off on their emotions.Which apparently they do by making out.Jeremy plays pool and sees Bonnie talking to Luka, hitting it off. He seems to know he missed his shot. He leaves.Stefan walks Elena home, she tells him Bonnie, Tyler and Caroline are in danger. She says it's not because he came into town, it's because of her. He holds her as she cries.In her tomb, Katherine reads her family history. She sees an old drawing of her parents.Back at the house, half naked, Rose tells Damon there's no emotional switch to turn off. Her phone rings. It's Slater. He tells her they need the moonstone to destroy the curse, and a witch. He wishes her luck and gets off the phone.Elijah compliments him for his performance. He was able to compel Slater because he's an original. He hands Slater a stake to drive through his own heart. He does it.We see that Elijah is not alone: Dr. Jonas Martin is there. Elijah says Slater delivered his message and it won't be long now.\n"
+        ],
+        "tech": {
+            "runtime": [
+                "43 min"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Arri Alexa (season 3)",
+                "Sony CineAlta F35, Zeiss Master Prime Lenses"
+            ],
+            "negative format": [
+                "HDCAM-SR",
+                "SxS Pro"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (2K) (master format)",
+                "HDCAM SR (1080p/24) (source format)",
+                "ProRes 4:4:4 (1080/24p) (source format)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 258924,
+                "rating": 7.7
+            },
+            "aged under 18": {
+                "votes": 670,
+                "rating": 8.4
+            },
+            "aged 18 29": {
+                "votes": 104204,
+                "rating": 8.0
+            },
+            "aged 30 44": {
+                "votes": 65060,
+                "rating": 7.4
+            },
+            "aged 45 plus": {
+                "votes": 11194,
+                "rating": 6.9
+            },
+            "males": {
+                "votes": 84823,
+                "rating": 7.2
+            },
+            "males aged under 18": {
+                "votes": 159,
+                "rating": 7.4
+            },
+            "males aged 18 29": {
+                "votes": 42274,
+                "rating": 7.6
+            },
+            "males aged 30 44": {
+                "votes": 29221,
+                "rating": 6.9
+            },
+            "males aged 45 plus": {
+                "votes": 5448,
+                "rating": 6.4
+            },
+            "females": {
+                "votes": 112608,
+                "rating": 8.2
+            },
+            "females aged under 18": {
+                "votes": 456,
+                "rating": 8.8
+            },
+            "females aged 18 29": {
+                "votes": 60508,
+                "rating": 8.2
+            },
+            "females aged 30 44": {
+                "votes": 34907,
+                "rating": 8.0
+            },
+            "females aged 45 plus": {
+                "votes": 5566,
+                "rating": 7.8
+            },
+            "top 1000 voters": {
+                "votes": 353,
+                "rating": 5.5
+            },
+            "us users": {
+                "votes": 27524,
+                "rating": 7.7
+            },
+            "non us users": {
+                "votes": 90621,
+                "rating": 7.5
+            }
+        },
+        "number of votes": {
+            "10": 106382,
+            "9": 37807,
+            "8": 41329,
+            "7": 29090,
+            "6": 15113,
+            "5": 8088,
+            "4": 4361,
+            "3": 3146,
+            "2": 2747,
+            "1": 10861
+        },
+        "arithmetic mean": 8.2,
+        "median": 9
+    }
+}

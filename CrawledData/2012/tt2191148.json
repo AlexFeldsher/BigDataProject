@@ -1,0 +1,943 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "11 June 2012"
+            },
+            {
+                "country": "USA\n",
+                "date": "11 June 2012",
+                "notes": "                            (Los Angeles, California)"
+            }
+        ],
+        "release dates": [
+            "USA::11 June 2012",
+            "USA::11 June 2012                            (Los Angeles, California)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Blue"
+            },
+            {
+                "countries": "Russia",
+                "title": "Блю"
+            },
+            {
+                "countries": "USA (alternative title)",
+                "title": "Blue: A Secret Life"
+            }
+        ],
+        "akas": [
+            "Blue (original title)",
+            "Блю Russia",
+            "Blue: A Secret Life USA (alternative title)"
+        ],
+        "akas from release info": [
+            "Blue (original title)",
+            "Блю Russia",
+            "Blue: A Secret Life USA (alternative title)"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "Call Me Francine",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 16,
+                    "original air date": "28 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Blue's sister Lara and her friend Satya pay an unexpected visit and take over the apartment just as Josh & Francine's relationship gets serious. Meanwhile, Blue meets a new client with an odd request but she recognizes its lucrative potential.    "
+                },
+                "2": {
+                    "title": "Planets Colliding",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 12,
+                    "original air date": "28 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Blue sees a very different side of Arthur. At home, it's Josh's turn to keep a secret from Blue while Lara and Satya get themselves into a dangerous situation they might not escape.    "
+                },
+                "3": {
+                    "title": "A History of Anxiety",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 9,
+                    "original air date": "28 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Blue pays a visit to the therapist to discuss her recent panic attacks. Lara gives Satya an ultimatum regarding their future after Satya performs a few songs for tips. Josh reveals his life changing secret.    "
+                },
+                "4": {
+                    "title": "Make Me Feel Good",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 16,
+                    "original air date": "28 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Jessica confronts Olsen about his past relationship with Blue. Francesca disappoints Josh who turns to Blue for support. Blue and Arthur discuss their future as things become more personal. Olsen shares some shocking information.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Mom",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 35,
+                    "original air date": "11 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Blue's secret life threatens to collide with her life as a mom when she gets a phone call from her son.    "
+                },
+                "2": {
+                    "title": "Son",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 23,
+                    "original air date": "11 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Blue finds Josh watching porn, leading to a candid conversation.    "
+                },
+                "3": {
+                    "title": "You Rule",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 27,
+                    "original air date": "13 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    At her day job at an accounting firm, Blue comforts Lavinia, who begs her for advice.    "
+                },
+                "4": {
+                    "title": "Long Day, Blue?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 20,
+                    "original air date": "15 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Blue's mother extends an invitation that seems to unsettle her.    "
+                },
+                "5": {
+                    "title": "You're Good",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 21,
+                    "original air date": "18 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Blue meets with a regular client who has a very unusual fetish. He finds her fascinating, and wonders what her real life is like.    "
+                },
+                "6": {
+                    "title": "Jack the Ripper",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 22,
+                    "original air date": "20 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Blue gets angry when Josh invites Cooper over without asking her permission.    "
+                },
+                "7": {
+                    "title": "Paying for Sex",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 21,
+                    "original air date": "22 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Cooper opens up to Blue about his intimacy issues.    "
+                },
+                "8": {
+                    "title": "A Decent Girl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 20,
+                    "original air date": "25 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Blue meets a client who has a business proposition.    "
+                },
+                "9": {
+                    "title": "That's My Drug",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 19,
+                    "original air date": "27 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Blue is alarmed to learn that an older man tried to stop by the office to see her.    "
+                },
+                "10": {
+                    "title": "Star Student",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 18,
+                    "original air date": "29 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Josh's principal calls Blue in for a meeting about her son's troubling behavior.    "
+                },
+                "11": {
+                    "title": "You Lie to Me Too",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 17,
+                    "original air date": "2 Jul. 2012",
+                    "year": "2012",
+                    "plot": "\n    Josh defends his behavior and accuses Blue of lying to him.    "
+                },
+                "12": {
+                    "title": "Give an Old Man a Break",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 21,
+                    "original air date": "2 Jul. 2012",
+                    "year": "2012",
+                    "plot": "\n    Blue has an uninvited visitor from a past she'd rather forget.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "See and Be Seen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 16,
+                    "original air date": "15 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue recovers from her encounter with Olsen. At a lunch date, Blue and her mother struggle to connect.    "
+                },
+                "2": {
+                    "title": "What Kind of a Name is Blue?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 18,
+                    "original air date": "15 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue and Josh meet with the family of the boy Josh insulted.    "
+                },
+                "3": {
+                    "title": "It's Just a Crutch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 18,
+                    "original air date": "15 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    It's decided that Josh must attend therapy to remain at his current school. Josh wants to meet his grandfather.    "
+                },
+                "4": {
+                    "title": "Everything Is a Test",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 16,
+                    "original air date": "15 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    While Blue waits for a client she gets a visit from her madam, Cynthia.    "
+                },
+                "5": {
+                    "title": "How Do You Do?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 15,
+                    "original air date": "15 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue is surprised when she meets the student Josh is tutoring: a pretty, older girl named Francesca.    "
+                },
+                "6": {
+                    "title": "Glue and Lubricant",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 14,
+                    "original air date": "15 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue and a co-worker, Rose, discuss a job opening and the personal life of a colleague.    "
+                },
+                "7": {
+                    "title": "Wow, Wow, Wow",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 13,
+                    "original air date": "15 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue has her own private meeting with the father of the boy Josh insulted.    "
+                },
+                "8": {
+                    "title": "On My Own",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 16,
+                    "original air date": "22 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    In the first therapy session, Josh is upset to discover another of Blue's little secrets.    "
+                },
+                "9": {
+                    "title": "The Truth Hurts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 13,
+                    "original air date": "22 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue opens up to Will, the therapist, about her troubled past.    "
+                },
+                "10": {
+                    "title": "A Man's Permission",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 15,
+                    "original air date": "22 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue consults a lawyer regarding paternity testing.    "
+                },
+                "11": {
+                    "title": "Make Yourself at Home",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 14,
+                    "original air date": "22 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    When Francesca shows up early for a tutoring session, she and Blue get to know each other.    "
+                },
+                "12": {
+                    "title": "Old Habits Die Hard",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 14,
+                    "original air date": "22 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue asks Olsen to stop contacting her.    "
+                },
+                "13": {
+                    "title": "Doubling the Equation",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 12,
+                    "original air date": "22 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Josh and Francesca have the house to themselves for a tutoring session and things get romantic.    "
+                },
+                "14": {
+                    "title": "Are You Clean?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "votes": 13,
+                    "original air date": "29 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue's meeting with a short-tempered client turns violent.    "
+                },
+                "15": {
+                    "title": "In the Running",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "votes": 13,
+                    "original air date": "29 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue's boss encourages her to apply for the open job.    "
+                },
+                "16": {
+                    "title": "Hard Time",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 16,
+                    "votes": 12,
+                    "original air date": "29 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue visits her father in prison.    "
+                },
+                "17": {
+                    "title": "The Details",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 17,
+                    "votes": 12,
+                    "original air date": "29 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    In the next therapy session, Josh is upset to hear about Blue's life before him.    "
+                },
+                "18": {
+                    "title": "You're Not a Freak, Are You?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 18,
+                    "votes": 12,
+                    "original air date": "29 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    A plumber comes to check out the garbage disposal and finds a condom stuck inside.    "
+                },
+                "19": {
+                    "title": "Getting to the Point",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 19,
+                    "votes": 12,
+                    "original air date": "29 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue confronts Josh about the condom in the garbage disposal. Blue tells Rose that she was offered the job.    "
+                },
+                "20": {
+                    "title": "I'm Not a Stalker",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 20,
+                    "votes": 14,
+                    "original air date": "29 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    The plumber stops by to ask Blue on a date.    "
+                },
+                "21": {
+                    "title": "Savages",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 21,
+                    "votes": 12,
+                    "original air date": "5 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue picks up a client at a bar.    "
+                },
+                "22": {
+                    "title": "Role Play",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 22,
+                    "votes": 13,
+                    "original air date": "5 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    Olsen meets Josh.    "
+                },
+                "23": {
+                    "title": "Winning With",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 23,
+                    "votes": 12,
+                    "original air date": "5 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue and Roy have an awkward first date.    "
+                },
+                "24": {
+                    "title": "A Straight Answer",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 24,
+                    "votes": 13,
+                    "original air date": "5 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue tells Josh about her date.    "
+                },
+                "25": {
+                    "title": "Choices Add Up",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 25,
+                    "votes": 14,
+                    "original air date": "5 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue and Jessica surprise Josh and Francesca. A fight erupts over dinner.    "
+                },
+                "26": {
+                    "title": "Where Were You?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Blue (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 26,
+                    "votes": 16,
+                    "original air date": "5 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    Blue and Jessica get into a fight about the past, which Josh overhears.    "
+                }
+            }
+        },
+        "number of episodes": 42,
+        "cast": [
+            {
+                "name": "Stiles, Julia"
+            },
+            {
+                "name": "Shelton, Uriah"
+            },
+            {
+                "name": "Lowe, Brooklyn"
+            },
+            {
+                "name": "Quinlan, Kathleen"
+            },
+            {
+                "name": "Gallo, Carla"
+            },
+            {
+                "name": "Morrison, James"
+            },
+            {
+                "name": "Shortall, Brian"
+            },
+            {
+                "name": "Johnson, Alexz"
+            },
+            {
+                "name": "Vargas, Jacob"
+            },
+            {
+                "name": "Stiles, Jane"
+            },
+            {
+                "name": "Stoltz, Eric"
+            },
+            {
+                "name": "Arison, Amir"
+            },
+            {
+                "name": "Harbour, David"
+            },
+            {
+                "name": "Nichols, Taylor"
+            },
+            {
+                "name": "Carroll, Rocky"
+            },
+            {
+                "name": "Custer, Kendall"
+            },
+            {
+                "name": "Hyatt, Michael"
+            },
+            {
+                "name": "Kagasoff, Daren"
+            },
+            {
+                "name": "Lindberg, Chad"
+            },
+            {
+                "name": "Stoecker, Sarah"
+            },
+            {
+                "name": "Miller, Joel McKinnon"
+            },
+            {
+                "name": "Paulson, Sarah"
+            },
+            {
+                "name": "Spencer, Laura"
+            },
+            {
+                "name": "Schumann, Carolina"
+            },
+            {
+                "name": "Cacia, J.R."
+            },
+            {
+                "name": "Consuelos, Mark"
+            },
+            {
+                "name": "De Jesus, Wanda"
+            },
+            {
+                "name": "Petersen, William"
+            },
+            {
+                "name": "Quan, Samantha"
+            },
+            {
+                "name": "Forbes, Michelle"
+            },
+            {
+                "name": "Pagano, Richard"
+            },
+            {
+                "name": "Peete, Holly Robinson"
+            },
+            {
+                "name": "Boyd, Cassidy"
+            },
+            {
+                "name": "Heames, Darin"
+            },
+            {
+                "name": "Manwiller, Debi"
+            },
+            {
+                "name": "Jr., Manny Jimenez"
+            },
+            {
+                "name": "Gonzalez, JC"
+            },
+            {
+                "name": "Jordan, James"
+            },
+            {
+                "name": "Meltzer, Julia"
+            },
+            {
+                "name": "Jr., Angel Roché"
+            },
+            {
+                "name": "Roché, Zoë"
+            },
+            {
+                "name": "Swetland, Paul"
+            },
+            {
+                "name": "Echeverri, William"
+            },
+            {
+                "name": "Plana, Tony"
+            },
+            {
+                "name": "Smith, Mark Rhino"
+            },
+            {
+                "name": "Tripplehorn, Jeanne"
+            },
+            {
+                "name": "Yeager, Michael Robert"
+            },
+            {
+                "name": "Biscione, Vincent M."
+            },
+            {
+                "name": "Baughman, I. Elijah"
+            }
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 3,
+        "rating": 7.9,
+        "votes": 1090,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTQ3MTUyODIxOF5BMl5BanBnXkFtZTgwMzMwODY0MTE@._V1_SY150_CR6,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Blue",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "writer": [
+            {
+                "name": "García, Rodrigo"
+            },
+            {
+                "name": "Graci, Karen"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "WIGSCO"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "WIGSCO"
+            }
+        ],
+        "plot": [
+            "_Blue_ (qv) is a mother with a secret life. She'll do anything to keep it from her son. But her past has other plans.::WIGS"
+        ],
+        "synopsis": [
+            "BLUE focuses on the double-life story of an escort, ie. Call Girl. Blue is a single mother who works at a vaguely defined cubicle job during the day and moonlights as a prostitute at night to make ends meet. She keeps her sex work carefully segregated from the rest of her existence. She does not tell her family nor her co-workers. But she also, has, apparently, no friends or confidants, and though she mentions other girls and a madam with whom she could presumably talk about her bifurcated life as a whole, we never see them. From the first episode, in which Blue discovers that the man she just had sex with is a childhood acquaintance, through the end of the series, when her 13-year-old son Josh tearfully accuses her of lying to him."
+        ],
+        "tech": {
+            "runtime": [
+                "30 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1090,
+                "rating": 7.9
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 7.0
+            },
+            "aged 18 29": {
+                "votes": 153,
+                "rating": 8.5
+            },
+            "aged 30 44": {
+                "votes": 387,
+                "rating": 7.6
+            },
+            "aged 45 plus": {
+                "votes": 247,
+                "rating": 7.6
+            },
+            "males": {
+                "votes": 342,
+                "rating": 7.6
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 57,
+                "rating": 8.5
+            },
+            "males aged 30 44": {
+                "votes": 151,
+                "rating": 7.2
+            },
+            "males aged 45 plus": {
+                "votes": 116,
+                "rating": 7.6
+            },
+            "females": {
+                "votes": 486,
+                "rating": 8.0
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 93,
+                "rating": 8.4
+            },
+            "females aged 30 44": {
+                "votes": 229,
+                "rating": 7.9
+            },
+            "females aged 45 plus": {
+                "votes": 126,
+                "rating": 7.5
+            },
+            "top 1000 voters": {
+                "votes": 31,
+                "rating": 6.4
+            },
+            "us users": {
+                "votes": 373,
+                "rating": 7.7
+            },
+            "non us users": {
+                "votes": 224,
+                "rating": 7.3
+            }
+        },
+        "number of votes": {
+            "10": 377,
+            "9": 199,
+            "8": 265,
+            "7": 119,
+            "6": 41,
+            "5": 27,
+            "4": 17,
+            "3": 4,
+            "2": 9,
+            "1": 32
+        },
+        "arithmetic mean": 8.3,
+        "median": 9
+    }
+}

@@ -1,0 +1,758 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "7 September 2017"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "12 September 2017"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "14 September 2017",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "USA\n",
+                "date": "29 September 2017",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "6 November 2017"
+            },
+            {
+                "country": "Argentina\n",
+                "date": "19 May 2018"
+            }
+        ],
+        "release dates": [
+            "UK::7 September 2017",
+            "Sweden::12 September 2017",
+            "Netherlands::14 September 2017                            (limited)",
+            "USA::29 September 2017                            (internet)",
+            "Germany::6 November 2017",
+            "Argentina::19 May 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Tin Star"
+            },
+            {
+                "countries": "Argentina",
+                "title": "Tin Star"
+            },
+            {
+                "countries": "Germany",
+                "title": "Tin Star"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A bosszú csillaga"
+            },
+            {
+                "countries": "Poland",
+                "title": "Gwiazda szeryfa"
+            },
+            {
+                "countries": "Romania",
+                "title": "Seriful"
+            },
+            {
+                "countries": "Russia",
+                "title": "Стальная звезда"
+            },
+            {
+                "countries": "Spain",
+                "title": "Tin Star"
+            },
+            {
+                "countries": "USA",
+                "title": "Tin Star"
+            }
+        ],
+        "akas": [
+            "Tin Star (original title)",
+            "Tin Star Argentina",
+            "Tin Star Germany",
+            "A bosszú csillaga Hungary",
+            "Gwiazda szeryfa Poland",
+            "Seriful Romania",
+            "Стальная звезда Russia",
+            "Tin Star Spain",
+            "Tin Star USA"
+        ],
+        "akas from release info": [
+            "Tin Star (original title)",
+            "Tin Star Argentina",
+            "Tin Star Germany",
+            "A bosszú csillaga Hungary",
+            "Gwiazda szeryfa Poland",
+            "Seriful Romania",
+            "Стальная звезда Russia",
+            "Tin Star Spain",
+            "Tin Star USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Fun and (S)Laughter",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 411,
+                    "original air date": "29 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    An alcoholic small-town police chief's life is shattered by unspeakable tragedy.    "
+                },
+                "2": {
+                    "title": "The Kid",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 278,
+                    "original air date": "29 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Wracked with guilt, Jim attempts to bury his grief by continuing with the murder investigation of Dr Susan Bouchard. Instinctively believing it's connected to his own tragic loss.    "
+                },
+                "3": {
+                    "title": "Comfort of Strangers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 246,
+                    "original air date": "29 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Jim wakes up after a drunken blackout to find his daughter, Anna, has disappeared. Elsewhere, Whitey decides to tidy up a loose end.    "
+                },
+                "4": {
+                    "title": "Jack",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 228,
+                    "original air date": "29 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    The Worth family reunite to say farewell to a loved one. Mrs Bradshaw faces a difficult decision after learning that a damaging story has been leaked to the press.    "
+                },
+                "5": {
+                    "title": "Bait",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 221,
+                    "original air date": "29 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Jim is banished from the family home and Angela takes the family's safety into her own hands. To lure Jim into his sights, Whitey executes a ruthless plan.    "
+                },
+                "6": {
+                    "title": "Cuckoo",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 214,
+                    "original air date": "29 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Whitey visits the Worth home to exact his revenge but finds himself suddenly on the back foot. Gagnon is confronted by Elizabeth regarding his interest in bringing Jim down.    "
+                },
+                "7": {
+                    "title": "Exposure",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 196,
+                    "original air date": "29 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Anna and Whitey grow even closer, as Angels calls on Jack to finish what she asked for. Elizabeth uncovers a dreadful event at a nearby reserve.    "
+                },
+                "8": {
+                    "title": "This Be the Verse",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 196,
+                    "original air date": "29 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Jack looks to interrogate Frank, all the while Anna tries to escape from Little Big Bear. Elizabeth discovers a key witness but Gagnon exploits her weakness.    "
+                },
+                "9": {
+                    "title": "Fortunate Boy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 227,
+                    "original air date": "29 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    The truth is finally revealed. Somewhere in the English countryside, Jack Devlin works a case that will, ultimately, have tragic repercussions.    "
+                },
+                "10": {
+                    "title": "My Love Is Vengeance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 224,
+                    "original air date": "29 Sep. 2017",
+                    "year": "2017",
+                    "plot": "\n    Leaving a trail of broken promises in his wake, Jack sets out to take his revenge, while Angela seeks to bring Anna home.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Prairie Gothic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 81,
+                    "original air date": "7 Mar. 2019",
+                    "year": "2019",
+                    "plot": "\n    Anna flees to an Ammonite community; Jim fights back for his family; Elizabeth attempts to forget her traumatic ordeal.    "
+                },
+                "2": {
+                    "title": "Something Wicked This Way Comes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 40,
+                    "original air date": "7 Mar. 2019",
+                    "year": "2019",
+                    "plot": "\n    Anna takes refuge with the Ammonite Nickel family in their strict religious community.    "
+                },
+                "3": {
+                    "title": "Resist Not Evil",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 24,
+                    "original air date": "7 Mar. 2019",
+                    "year": "2019",
+                    "plot": "\n    Jonah is plunged into crisis; Ross reveals her plans for the future to Anna.    "
+                },
+                "4": {
+                    "title": "Jack and Coke",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 17,
+                    "original air date": "7 Mar. 2019",
+                    "year": "2019",
+                    "plot": "\n    Jack attempts to burn his past by drinking whiskey on the mountainside.    "
+                },
+                "5": {
+                    "title": "Consequences",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 16,
+                    "original air date": "7 Mar. 2019",
+                    "year": "2019",
+                    "plot": "\n    The story of the Nickel family's lives in Mexico is revealed.    "
+                },
+                "6": {
+                    "title": "The Bagman Cometh",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 16,
+                    "original air date": "7 Mar. 2019",
+                    "year": "2019",
+                    "plot": "\n    Jack hunts the cartel bagman Estuardo, but what he finds is worse than he could have ever imagined.    "
+                },
+                "7": {
+                    "title": "Metanoia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 17,
+                    "original air date": "7 Mar. 2019",
+                    "year": "2019",
+                    "plot": "\n    As Jack and Angela are forced to face the consequences of their actions, a discovery prompts Jack to formulate a plan.    "
+                },
+                "8": {
+                    "title": "Wild Flower",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 18,
+                    "original air date": "7 Mar. 2019",
+                    "year": "2019",
+                    "plot": "\n    After a shocking tragedy, tensions run high as Jack and Angela are forced to reveal a devastating secret to Anna.    "
+                },
+                "9": {
+                    "title": "The Unseen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Tin Star (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 24,
+                    "original air date": "7 Mar. 2019",
+                    "year": "2019",
+                    "plot": "\n    Jack puts his plan into action as his family's ultimate threat arrives on his doorstep.    "
+                }
+            }
+        },
+        "number of episodes": 19,
+        "cast": [
+            {
+                "name": "Puleston-Davies, Ian"
+            },
+            {
+                "name": "Roth, Tim"
+            },
+            {
+                "name": "O'Reilly, Genevieve"
+            },
+            {
+                "name": "Lawrie, Abigail"
+            },
+            {
+                "name": "Hendricks, Christina"
+            },
+            {
+                "name": "Coopersmith, Oliver"
+            },
+            {
+                "name": "Podemski, Sarah"
+            },
+            {
+                "name": "Boyd, Lynda"
+            },
+            {
+                "name": "Kennedy, Ryan"
+            },
+            {
+                "name": "Heyerdahl, Christopher"
+            },
+            {
+                "name": "Marinca, Anamaria"
+            },
+            {
+                "name": "Lynch, John"
+            },
+            {
+                "name": "Skagen, Peter"
+            },
+            {
+                "name": "Thrush, Michelle"
+            },
+            {
+                "name": "Peterman, Myles"
+            },
+            {
+                "name": "Willis, Matt"
+            },
+            {
+                "name": "Bamtefa, Tobi"
+            },
+            {
+                "name": "Tchortov, George"
+            },
+            {
+                "name": "McCabe-Lokos, Maxwell"
+            },
+            {
+                "name": "Kovac, Mike"
+            },
+            {
+                "name": "Turnbull, Rupert"
+            },
+            {
+                "name": "Francisco, Kara"
+            },
+            {
+                "name": "Whitebird, Joseph"
+            },
+            {
+                "name": "Sunderland, Brenden"
+            },
+            {
+                "name": "Martin, Chad Stanley"
+            },
+            {
+                "name": "Grant, Jenessa"
+            },
+            {
+                "name": "Hanchard, Kevin"
+            },
+            {
+                "name": "Walters, Stephen"
+            },
+            {
+                "name": "Critchlow, Roark"
+            },
+            {
+                "name": "Auger, Gerald"
+            },
+            {
+                "name": "Thunderchild, Ray G."
+            },
+            {
+                "name": "Crowshoe, Owen"
+            },
+            {
+                "name": "Klasky, Bud"
+            },
+            {
+                "name": "Best, Leanne"
+            },
+            {
+                "name": "Bennett, Nigel"
+            },
+            {
+                "name": "Chahley, Jay"
+            },
+            {
+                "name": "Rumpel, Peter Strand"
+            },
+            {
+                "name": "Zamprogna, Dominic"
+            },
+            {
+                "name": "Guillaume, Sheryl"
+            },
+            {
+                "name": "Planche, Valerie"
+            },
+            {
+                "name": "Cardinal, Lorne"
+            },
+            {
+                "name": "Campbell, Nicholas"
+            },
+            {
+                "name": "Starlight, Bernard"
+            },
+            {
+                "name": "Alexis, Nathan"
+            },
+            {
+                "name": "Veal, Jack"
+            },
+            {
+                "name": "Atelevich, Victor"
+            },
+            {
+                "name": "Collard, CJ"
+            },
+            {
+                "name": "McDougall, Dan"
+            },
+            {
+                "name": "Ryan, Karen"
+            },
+            {
+                "name": "Laurie, Angela"
+            }
+        ],
+        "locations": [
+            "High River, Alberta, Canada::(location)",
+            "Calgary, Alberta, Canada::(location)",
+            "Bragg Creek, Alberta, Canada::(location)",
+            "Dorothy, Alberta, Canada::(location)"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom",
+            "Canada",
+            "United States"
+        ],
+        "country codes": [
+            "gb",
+            "ca",
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo",
+            "Dolby Atmos"
+        ],
+        "certificates": [
+            "Argentina:16",
+            "Australia:MA15+",
+            "New Zealand:R18",
+            "Norway:15::(TV rating)",
+            "Russia:18+",
+            "Spain:18",
+            "United Kingdom:18",
+            "United States:TV-14",
+            "United States:TV-MA"
+        ],
+        "number of seasons": 2,
+        "rating": 7.3,
+        "votes": 7763,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTY1MTEwOTIwMF5BMl5BanBnXkFtZTgwMDc0ODM0NzM@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "A British Police Officer becomes the New Chief of Police and moves his family to the Canadian Rockies. But as new faces appear around the sleepy town and a sudden big Oil Company and the promise of big money coming in, the small Canadian town begins to see violence and crime erupt. After tragedy strikes, secrets emerge and the fight begins. Welcome to Little Big Bear.",
+        "languages": [
+            "English"
+        ],
+        "title": "Tin Star",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Joffe, Rowan"
+            },
+            {
+                "name": "Butterworth, Tom"
+            },
+            {
+                "name": "Hurford, Chris"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Kudos Film and Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Sky Broadcasting (BSkyB)"
+            },
+            {
+                "name": "British Sky Broadcasting (BSkyB)"
+            },
+            {
+                "name": "Amazon Prime Video"
+            },
+            {
+                "name": "BBC First"
+            },
+            {
+                "name": "C More"
+            },
+            {
+                "name": "C More"
+            },
+            {
+                "name": "SFR Play"
+            },
+            {
+                "name": "TNT Series"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Outpost VFX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Entertainment Partners Canada"
+            },
+            {
+                "name": "Entertainment Partners Canada"
+            },
+            {
+                "name": "Halo Post Production"
+            },
+            {
+                "name": "Ray Knight Casting"
+            }
+        ],
+        "plot": [
+            "Ex undercover UK cop turned police chief of a small town in the Canadian Rockies does what he must to defend his family from those in power whether it's the oilmen, the preachers or the gangsters.",
+            "A British Police Officer becomes the New Chief of Police and moves his family to the Canadian Rockies. But as new faces appear around the sleepy town and a sudden big Oil Company and the promise of big money coming in, the small Canadian town begins to see violence and crime erupt. After tragedy strikes, secrets emerge and the fight begins. Welcome to Little Big Bear.::tejasfiredawg"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Stereo",
+                "Dolby Atmos"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 7763,
+                "rating": 7.3
+            },
+            "aged under 18": {
+                "votes": 4,
+                "rating": 7.2
+            },
+            "aged 18 29": {
+                "votes": 564,
+                "rating": 7.3
+            },
+            "aged 30 44": {
+                "votes": 2281,
+                "rating": 7.2
+            },
+            "aged 45 plus": {
+                "votes": 2126,
+                "rating": 7.3
+            },
+            "males": {
+                "votes": 4161,
+                "rating": 7.2
+            },
+            "males aged under 18": {
+                "votes": 3,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 408,
+                "rating": 7.2
+            },
+            "males aged 30 44": {
+                "votes": 1691,
+                "rating": 7.1
+            },
+            "males aged 45 plus": {
+                "votes": 1581,
+                "rating": 7.2
+            },
+            "females": {
+                "votes": 1355,
+                "rating": 7.6
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 147,
+                "rating": 7.7
+            },
+            "females aged 30 44": {
+                "votes": 548,
+                "rating": 7.5
+            },
+            "females aged 45 plus": {
+                "votes": 509,
+                "rating": 7.5
+            },
+            "top 1000 voters": {
+                "votes": 102,
+                "rating": 6.1
+            },
+            "us users": {
+                "votes": 970,
+                "rating": 7.2
+            },
+            "non us users": {
+                "votes": 2968,
+                "rating": 7.2
+            }
+        },
+        "number of votes": {
+            "10": 1156,
+            "9": 1196,
+            "8": 2212,
+            "7": 1484,
+            "6": 656,
+            "5": 368,
+            "4": 199,
+            "3": 165,
+            "2": 116,
+            "1": 211
+        },
+        "arithmetic mean": 7.5,
+        "median": 8
+    }
+}

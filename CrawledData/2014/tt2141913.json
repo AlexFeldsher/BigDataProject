@@ -1,0 +1,742 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "27 February 2014"
+            },
+            {
+                "country": "USA\n",
+                "date": "6 March 2014"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "7 December 2014"
+            }
+        ],
+        "release dates": [
+            "USA::27 February 2014",
+            "USA::6 March 2014",
+            "Sweden::7 December 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Review"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Az életkritikus"
+            },
+            {
+                "countries": "Russia",
+                "title": "Обзор"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "Review with Forrest MacNeil"
+            }
+        ],
+        "akas": [
+            "Review (original title)",
+            "Az életkritikus Hungary",
+            "Обзор Russia",
+            "Review with Forrest MacNeil USA (working title)"
+        ],
+        "akas from release info": [
+            "Review (original title)",
+            "Az életkritikus Hungary",
+            "Обзор Russia",
+            "Review with Forrest MacNeil USA (working title)"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "Locorito, Pet Euthanasia, Dream",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 65,
+                    "original air date": "16 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    After surviving last season's big fall, Forrest gets back to work by reviewing a Mexican restaurant's new product, the experience of putting a pet to sleep and what it's like to live his dream.    "
+                },
+                "2": {
+                    "title": "Co-Host, Ass-Slap, Helen Keller, Forgiveness",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 60,
+                    "original air date": "23 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Forrest swaps roles with A.J., tries to live like Helen Keller and visits Suzanne to review forgiveness.    "
+                },
+                "3": {
+                    "title": "Cryogenics, Lightning, Not Reviewing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 74,
+                    "original air date": "30 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Forrest sets out to cryogenically freeze himself and get struck by lightning, then receives a surprising message from Suzanne.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Stealing; Addiction; Prom",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 178,
+                    "original air date": "6 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Critic Forrest MacNeil reviews real-life experiences that include stealing, addiction, and the prom.    "
+                },
+                "2": {
+                    "title": "Making a Sex Tape; Being a Racist; Hunting",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 131,
+                    "original air date": "13 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Critic Forrest MacNeil reviews real-life experiences that include making a sex tape, being a racist, and hunting.    "
+                },
+                "3": {
+                    "title": "Pancakes; Divorce; Pancakes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 178,
+                    "original air date": "20 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Critic Forrest MacNeil reviews real-life experiences that include eating pancakes and getting a divorce.    "
+                },
+                "4": {
+                    "title": "Celebrity; Batman",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 117,
+                    "original air date": "27 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Critic Forrest MacNeil reviews real-life experiences that include sleeping with a celebrity and being Batman.    "
+                },
+                "5": {
+                    "title": "Best Friend; Space",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 126,
+                    "original air date": "3 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Critic Forrest MacNeil reviews real-life experiences that include having a best friend and going to space.    "
+                },
+                "6": {
+                    "title": "Road Rage; Orgy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 114,
+                    "original air date": "10 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Critic Forrest MacNeil reviews real-life experiences that include road rage and going to an orgy.    "
+                },
+                "7": {
+                    "title": "Revenge; Getting Rich; Aching",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 108,
+                    "original air date": "17 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Forrest seeks revenge on a classmate from middle school, attends a self-actualization seminar and struggles with the meaning of an incomprehensible request.    "
+                },
+                "8": {
+                    "title": "Marry; Run; Party",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 104,
+                    "original air date": "24 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Critic Forrest MacNeil reviews real-life experiences that include getting married, running from the law, and being the life of the party.    "
+                },
+                "9": {
+                    "title": "Quitting; Last Day; Irish",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 123,
+                    "original air date": "1 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Critic Forrest MacNeil reviews real-life experiences that include quitting your job, Carpe Diem, and being Irish.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Brawl, Blackmail, Gloryhole",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 111,
+                    "original air date": "30 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    Forrest gets into a fight with a stranger, blackmails his new girlfriend and discovers the pleasures of a glory hole.    "
+                },
+                "2": {
+                    "title": "Curing Homosexuality, Mile High Club",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 88,
+                    "original air date": "6 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    Forrest attempts to turn a young gay man straight and finds that having sex on an airplane is surprisingly difficult.    "
+                },
+                "3": {
+                    "title": "Falsely Accused, Sleep with Your Teacher, Little Person",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 94,
+                    "original air date": "13 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    Forrest has Josh frame him for a crime, has sex with a high school teacher and experiences the everyday struggles of being a little person.    "
+                },
+                "4": {
+                    "title": "Cult, Perfect Body",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 109,
+                    "original air date": "20 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    Forrest gathers followers for his new cult and employs a regimen of bodily enhancements in the pursuit of perfection.    "
+                },
+                "5": {
+                    "title": "Catfish, Haunted House",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 71,
+                    "original air date": "27 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    Forrest reconnects with an old flame on his first foray into catfishing and discovers different kinds of ghosts while sleeping in a haunted house.    "
+                },
+                "6": {
+                    "title": "William Tell, Grant a Wish, Rowboat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 82,
+                    "original air date": "3 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    Forrest wrangles his father into recreating William Tell's bow-and-arrow feat, reluctantly makes his son's birthday wish comes true and spends time in a rowboat.    "
+                },
+                "7": {
+                    "title": "Buried Alive, 6 Star Review, Public Speaking",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 73,
+                    "original air date": "10 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    Forrest spends 24 hours in a coffin, faces a dilemma when a viewer asks him to rate something with six stars and makes a public speaking appearance.    "
+                },
+                "8": {
+                    "title": "Murder, Magic 8 Ball, Procrastination",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 91,
+                    "original air date": "17 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    Forrest allows a Magic 8-Ball to dictate his decisions for a day, runs into a paradox when faced with the task of procrastinating and faces his toughest review yet.    "
+                },
+                "9": {
+                    "title": "Happiness, Pillow Fight, Imaginary Friend",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 73,
+                    "original air date": "24 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    Forrest reviews always being happy (\"Happiness\"), \"Pillow Fights\" and having an \"Imaginary Friend\"    "
+                },
+                "10": {
+                    "title": "Conspiracy Theory",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Review (TV Series 2014–2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 99,
+                    "original air date": "1 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Forrest makes a disconcerting discovery while researching conspiracy theories and finds himself on the run from a man-hunter.    "
+                }
+            }
+        },
+        "number of episodes": 22,
+        "cast": [
+            {
+                "name": "Daly, Andrew"
+            },
+            {
+                "name": "Clair, Jessica St."
+            },
+            {
+                "name": "Stevenson, Megan"
+            },
+            {
+                "name": "Croner, Michael"
+            },
+            {
+                "name": "Karsian, Tara"
+            },
+            {
+                "name": "Gibson, Kaden"
+            },
+            {
+                "name": "Urbaniak, James"
+            },
+            {
+                "name": "Huntley, Hayley"
+            },
+            {
+                "name": "Gail, Max"
+            },
+            {
+                "name": "Shean, Darcy"
+            },
+            {
+                "name": "Willard, Fred"
+            },
+            {
+                "name": "Lamar, Sean"
+            },
+            {
+                "name": "McKay, Antoine"
+            },
+            {
+                "name": "D'Agosto, Nicholas"
+            },
+            {
+                "name": "Brister, Julie"
+            },
+            {
+                "name": "Wolfe, Christopher"
+            },
+            {
+                "name": "Blitz, Jeffrey"
+            },
+            {
+                "name": "Young, Nate"
+            },
+            {
+                "name": "Lafleur, Jennifer"
+            },
+            {
+                "name": "Womack, Gabreon"
+            },
+            {
+                "name": "Gieb, Joe"
+            },
+            {
+                "name": "Parham, Lennon"
+            },
+            {
+                "name": "Mantzoukas, Jason"
+            },
+            {
+                "name": "Allen, Leo"
+            },
+            {
+                "name": "Boone, J.J."
+            },
+            {
+                "name": "Cochrane, Mike"
+            },
+            {
+                "name": "Oliver, Bruno"
+            },
+            {
+                "name": "Levinson, Carri"
+            },
+            {
+                "name": "Tisdale, Ashley"
+            },
+            {
+                "name": "Bass, Lance"
+            },
+            {
+                "name": "Richter, Andy"
+            },
+            {
+                "name": "Blitz, Andy"
+            },
+            {
+                "name": "Fisher, Miles"
+            },
+            {
+                "name": "Fulcher, Rich"
+            },
+            {
+                "name": "Thayer, Maria"
+            },
+            {
+                "name": "Dorff, Kevin"
+            },
+            {
+                "name": "Philips, Emo"
+            },
+            {
+                "name": "Burton, Warren"
+            },
+            {
+                "name": "Cilli, Sergio"
+            },
+            {
+                "name": "Sanz, Carlos"
+            },
+            {
+                "name": "Saunders, Blaine"
+            },
+            {
+                "name": "Bertani, Madeline"
+            },
+            {
+                "name": "Gorskaya, Yana"
+            },
+            {
+                "name": "II, Emory Ogletree"
+            },
+            {
+                "name": "Allen, Lizabeth"
+            },
+            {
+                "name": "Dassie, Robert"
+            },
+            {
+                "name": "Guttman, Franky"
+            },
+            {
+                "name": "Kataoka, Kevin"
+            },
+            {
+                "name": "Abrams, Phil"
+            },
+            {
+                "name": "Birdsong, Mary"
+            }
+        ],
+        "locations": [
+            "Los Angeles, California, USA"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "certificates": [
+            "Netherlands:12",
+            "United States:TV-14"
+        ],
+        "number of seasons": 3,
+        "rating": 8.3,
+        "votes": 4481,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTQ3NTc1MDQ0OF5BMl5BanBnXkFtZTgwNDc0Nzc0MTE@._V1_SX101_CR0,0,101,150_.jpg",
+        "budget": "$800,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Review",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-2017",
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "writer": [
+            {
+                "name": "Blitz, Jeffrey"
+            },
+            {
+                "name": "Daly, Andrew"
+            },
+            {
+                "name": "Lloyd, Phil"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Abso Lutely Productions"
+            },
+            {
+                "name": "Andrew Daly Productions"
+            },
+            {
+                "name": "Comedy Central"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Comedy Central"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Ingenuity Studios"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Across the Board Talent Agency"
+            },
+            {
+                "name": "Australian Broadcasting Corporation (ABC)"
+            },
+            {
+                "name": "Brainbow"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Dastoli Digital"
+            },
+            {
+                "name": "Full Moon Pickles Catering"
+            },
+            {
+                "name": "Margarita Mix"
+            },
+            {
+                "name": "Method Design"
+            },
+            {
+                "name": "Method Studios"
+            },
+            {
+                "name": "Performing Animal Troupe"
+            },
+            {
+                "name": "Sessions Payroll Management"
+            },
+            {
+                "name": "ShowBiz Studios"
+            },
+            {
+                "name": "Starchild Productions"
+            },
+            {
+                "name": "Wild Wild West Catering"
+            }
+        ],
+        "plot": [
+            "A critic takes aim at intense real-life experiences in lieu of food or cinema. Fair game includes divorce, anonymous sex, and all manner of criminal activity.::Comedy Central"
+        ],
+        "tech": {
+            "runtime": [
+                "30 min (including commercials)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Red Epic"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 4481,
+                "rating": 8.3
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "aged 18 29": {
+                "votes": 1239,
+                "rating": 8.6
+            },
+            "aged 30 44": {
+                "votes": 1869,
+                "rating": 8.2
+            },
+            "aged 45 plus": {
+                "votes": 345,
+                "rating": 7.6
+            },
+            "males": {
+                "votes": 3142,
+                "rating": 8.4
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "males aged 18 29": {
+                "votes": 1075,
+                "rating": 8.6
+            },
+            "males aged 30 44": {
+                "votes": 1624,
+                "rating": 8.3
+            },
+            "males aged 45 plus": {
+                "votes": 270,
+                "rating": 7.6
+            },
+            "females": {
+                "votes": 450,
+                "rating": 7.8
+            },
+            "females aged 18 29": {
+                "votes": 142,
+                "rating": 8.1
+            },
+            "females aged 30 44": {
+                "votes": 218,
+                "rating": 7.7
+            },
+            "females aged 45 plus": {
+                "votes": 70,
+                "rating": 7.4
+            },
+            "top 1000 voters": {
+                "votes": 70,
+                "rating": 5.8
+            },
+            "us users": {
+                "votes": 1433,
+                "rating": 8.5
+            },
+            "non us users": {
+                "votes": 1462,
+                "rating": 8.0
+            }
+        },
+        "number of votes": {
+            "10": 1345,
+            "9": 1206,
+            "8": 1037,
+            "7": 426,
+            "6": 159,
+            "5": 98,
+            "4": 53,
+            "3": 28,
+            "2": 29,
+            "1": 100
+        },
+        "arithmetic mean": 8.4,
+        "median": 9
+    }
+}

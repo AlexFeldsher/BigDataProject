@@ -1,0 +1,151 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "4 December 2018"
+            },
+            {
+                "country": "Germany\n",
+                "date": "4 December 2018",
+                "notes": "                            (TV)"
+            }
+        ],
+        "release dates": [
+            "Germany::4 December 2018",
+            "Germany::4 December 2018                            (TV)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Aufbruch in eine neue Zeit",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Die Steinkohle (TV Mini-Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "4 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Ende einer Ära",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Die Steinkohle (TV Mini-Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "5 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Hartmann, Jörg"
+            },
+            {
+                "name": "Fleischer, Oliver"
+            },
+            {
+                "name": "Heidelbach, Moritz"
+            },
+            {
+                "name": "Kalisch, Enno"
+            },
+            {
+                "name": "Klaus, Moritz"
+            },
+            {
+                "name": "Samsel, Anna-Katharina"
+            }
+        ],
+        "genres": [
+            "Documentary",
+            "History"
+        ],
+        "runtimes": [
+            "90"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "country codes": [
+            "de"
+        ],
+        "language codes": [
+            "de",
+            "fr",
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "original air date": "04 Dec 2018 (Germany)",
+        "number of seasons": 1,
+        "languages": [
+            "German",
+            "French",
+            "English"
+        ],
+        "title": "Die Steinkohle",
+        "year": 2018,
+        "kind": "tv mini series",
+        "series years": "2018-2018",
+        "akas": [
+            "Die Steinkohle (Germany)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Knigge, Jobst"
+            },
+            {
+                "name": "Oldenburg, Manfred"
+            }
+        ],
+        "director": [
+            {
+                "name": "Knigge, Jobst"
+            },
+            {
+                "name": "Okroy, Schoko"
+            },
+            {
+                "name": "Oldenburg, Manfred"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Broadview TV"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr 30 min (90 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color",
+                "Black and White"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

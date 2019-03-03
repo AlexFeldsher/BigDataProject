@@ -1,0 +1,545 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Australia\n",
+                "date": "14 November 2018"
+            },
+            {
+                "country": "Germany\n",
+                "date": "14 November 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Spain\n",
+                "date": "14 November 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "UK\n",
+                "date": "14 November 2018"
+            },
+            {
+                "country": "USA\n",
+                "date": "14 November 2018"
+            }
+        ],
+        "release dates": [
+            "Australia::14 November 2018",
+            "Germany::14 November 2018                            (internet)",
+            "Spain::14 November 2018                            (internet)",
+            "UK::14 November 2018",
+            "USA::14 November 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Origin"
+            },
+            {
+                "countries": "Germany",
+                "title": "Origin"
+            },
+            {
+                "countries": "Russia",
+                "title": "Происхождение"
+            },
+            {
+                "countries": "Spain",
+                "title": "Origin"
+            },
+            {
+                "countries": "Ukraine",
+                "title": "Початок"
+            },
+            {
+                "countries": "USA",
+                "title": "Origin"
+            }
+        ],
+        "akas": [
+            "Origin (original title)",
+            "Origin Germany",
+            "Происхождение Russia",
+            "Origin Spain",
+            "Початок Ukraine",
+            "Origin USA"
+        ],
+        "akas from release info": [
+            "Origin (original title)",
+            "Origin Germany",
+            "Происхождение Russia",
+            "Origin Spain",
+            "Початок Ukraine",
+            "Origin USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Road Not Taken",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Origin (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 256,
+                    "original air date": "14 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    The passengers wake up on board the Origin, abandoned in space. They search for other survivors, but find something else entirely.    "
+                },
+                "2": {
+                    "title": "Lost on Both Sides",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Origin (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 154,
+                    "original air date": "14 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    A tense showdown prompts a difficult decision. Shun and Lana realise that the threat could be nearer than any of them thought.    "
+                },
+                "3": {
+                    "title": "Bright Star",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Origin (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 132,
+                    "original air date": "14 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    A survivor's life hangs in the balance - and they hold the key. A new discovery threatens to tear the group apart.    "
+                },
+                "4": {
+                    "title": "God's Grandeur",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Origin (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 124,
+                    "original air date": "14 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Weakness leads to danger, as our passengers truly begin to understand what they're up against. But who can they trust?    "
+                },
+                "5": {
+                    "title": "Remember Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Origin (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 119,
+                    "original air date": "14 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    An object from Earth threatens to blow SIREN's mission wide open, while suspicion boils over into full blown paranoia.    "
+                },
+                "6": {
+                    "title": "Fire and Ice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Origin (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 117,
+                    "original air date": "14 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    An unexpected find prompts a life or death dilemma, while reminders of home lead to a brutal revelation.    "
+                },
+                "7": {
+                    "title": "The Wasteland",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Origin (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 116,
+                    "original air date": "14 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    The stakes are raised when the ship takes control, and our passengers are forced to attempt the impossible.    "
+                },
+                "8": {
+                    "title": "Funeral Blues",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Origin (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 125,
+                    "original air date": "14 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Tension and paranoia abounds in the wake of a shocking discovery. Anyone could be a suspect.    "
+                },
+                "9": {
+                    "title": "A Total Stranger",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Origin (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 109,
+                    "original air date": "14 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    A surprise visitor threatens to plunge the ship into chaos. Drastic measures are taken, but death continues to haunt the Origin.    "
+                },
+                "10": {
+                    "title": "I Am",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Origin (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 132,
+                    "original air date": "14 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    A chilling revelation changes everything, while SIREN itself is called into question.    "
+                }
+            }
+        },
+        "number of episodes": 10,
+        "cast": [
+            {
+                "name": "Tena, Natalia"
+            },
+            {
+                "name": "Felton, Tom"
+            },
+            {
+                "name": "Mitsuji, Sen"
+            },
+            {
+                "name": "Arnezeder, Nora"
+            },
+            {
+                "name": "James, Fraser"
+            },
+            {
+                "name": "Christopher, Philipp"
+            },
+            {
+                "name": "Horcher, Madalyn"
+            },
+            {
+                "name": "Cullen, Siobhán"
+            },
+            {
+                "name": "Adedayo, Adelayo"
+            },
+            {
+                "name": "Coban, Wil"
+            },
+            {
+                "name": "Jóhannesson, Jóhannes Haukur"
+            },
+            {
+                "name": "Wadia, Nina"
+            },
+            {
+                "name": "Carpede, Maurice"
+            },
+            {
+                "name": "Whytock, Aidan"
+            },
+            {
+                "name": "Sakurai, David"
+            },
+            {
+                "name": "Ida, Hiromoto"
+            },
+            {
+                "name": "Evertson, Clayton"
+            },
+            {
+                "name": "Beccaro, Angela"
+            },
+            {
+                "name": "Drea, Gavin"
+            },
+            {
+                "name": "Kluge, Martin"
+            },
+            {
+                "name": "Rasenti, Nic"
+            },
+            {
+                "name": "Boden, Alana"
+            },
+            {
+                "name": "Byrne, Catherine"
+            },
+            {
+                "name": "Carrie-Wilson, Bronwyn"
+            },
+            {
+                "name": "Fearon, Ray"
+            },
+            {
+                "name": "Jackson, Craig"
+            },
+            {
+                "name": "Szyszkowitz, Aglaia"
+            },
+            {
+                "name": "Bonke, Peter"
+            },
+            {
+                "name": "Crowley, David"
+            },
+            {
+                "name": "Davis, Millie"
+            },
+            {
+                "name": "Flanagan, Fionnula"
+            },
+            {
+                "name": "Paul, Anthony"
+            },
+            {
+                "name": "Ruygrok, Sven"
+            },
+            {
+                "name": "Igawa, Togo"
+            },
+            {
+                "name": "Masoud, Zino"
+            },
+            {
+                "name": "Ntshegang, Gontse"
+            },
+            {
+                "name": "Pienaar, Amelie"
+            },
+            {
+                "name": "Sherwood, David"
+            },
+            {
+                "name": "Soubeyrand, Héléna"
+            },
+            {
+                "name": "Teplitsky, Jean"
+            },
+            {
+                "name": "Boltt, Nathalie"
+            },
+            {
+                "name": "Skellern, Anna"
+            },
+            {
+                "name": "Unno, Kyoji"
+            },
+            {
+                "name": "Fabra, Belén"
+            },
+            {
+                "name": "Horibe, Cole"
+            },
+            {
+                "name": "Wagner, Sharon Spiegel"
+            },
+            {
+                "name": "Werner, Gavin"
+            },
+            {
+                "name": "Chouler, Francis"
+            },
+            {
+                "name": "Fitzgerald, Tara"
+            },
+            {
+                "name": "Phillips, Chad"
+            }
+        ],
+        "locations": [
+            "Cape Town, South Africa",
+            "South Africa"
+        ],
+        "genres": [
+            "Horror",
+            "Sci-Fi"
+        ],
+        "runtimes": [
+            "45"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "certificates": [
+            "Germany:13::(self-applied)",
+            "South Korea:15",
+            "Spain:13::(self-applied)",
+            "United States:TV-MA"
+        ],
+        "number of seasons": 1,
+        "rating": 7.2,
+        "votes": 4058,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNzMzNDgyNDkzM15BMl5BanBnXkFtZTgwOTAzNzk1NjM@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Origin",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Watkins, Mika"
+            },
+            {
+                "name": "Harbottle, Jon"
+            },
+            {
+                "name": "Iqbal, Melissa"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Left Bank Pictures"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "YouTube Premium"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Dynamic International Freight Services"
+            },
+            {
+                "name": "Madison Gate Records"
+            },
+            {
+                "name": "Momoco"
+            }
+        ],
+        "plot": [
+            "A group of strangers struggle for survival aboard a spaceship heading to a distant planet."
+        ],
+        "tech": {
+            "runtime": [
+                "45 min"
+            ],
+            "camera": [
+                "Red Weapon Helium"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 4058,
+                "rating": 7.2
+            },
+            "aged under 18": {
+                "votes": 5,
+                "rating": 7.6
+            },
+            "aged 18 29": {
+                "votes": 605,
+                "rating": 7.6
+            },
+            "aged 30 44": {
+                "votes": 1561,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 605,
+                "rating": 6.9
+            },
+            "males": {
+                "votes": 2493,
+                "rating": 7.1
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 435,
+                "rating": 7.5
+            },
+            "males aged 30 44": {
+                "votes": 1274,
+                "rating": 7.1
+            },
+            "males aged 45 plus": {
+                "votes": 508,
+                "rating": 6.9
+            },
+            "females": {
+                "votes": 552,
+                "rating": 7.6
+            },
+            "females aged under 18": {
+                "votes": 3,
+                "rating": 7.7
+            },
+            "females aged 18 29": {
+                "votes": 155,
+                "rating": 8.0
+            },
+            "females aged 30 44": {
+                "votes": 260,
+                "rating": 7.5
+            },
+            "females aged 45 plus": {
+                "votes": 83,
+                "rating": 7.2
+            },
+            "top 1000 voters": {
+                "votes": 43,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 382,
+                "rating": 7.2
+            },
+            "non us users": {
+                "votes": 1745,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 820,
+            "9": 560,
+            "8": 1014,
+            "7": 698,
+            "6": 316,
+            "5": 207,
+            "4": 112,
+            "3": 106,
+            "2": 77,
+            "1": 148
+        },
+        "arithmetic mean": 7.5,
+        "median": 8
+    }
+}

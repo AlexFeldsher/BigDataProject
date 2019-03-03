@@ -1,0 +1,509 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "8 January 2008",
+                "notes": "                            (Beverly Hills, California)"
+            },
+            {
+                "country": "Canada\n",
+                "date": "13 January 2008"
+            },
+            {
+                "country": "USA\n",
+                "date": "13 January 2008"
+            },
+            {
+                "country": "Australia\n",
+                "date": "2 January 2010"
+            }
+        ],
+        "release dates": [
+            "USA::8 January 2008                            (Beverly Hills, California)",
+            "Canada::13 January 2008",
+            "USA::13 January 2008",
+            "Australia::2 January 2010"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Comanche Moon"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Komancsok holdja"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Komancsok holdja"
+            },
+            {
+                "countries": "Poland",
+                "title": "Czas Komanczów"
+            },
+            {
+                "countries": "Russia",
+                "title": "Луна команчей"
+            },
+            {
+                "countries": "USA",
+                "title": "Comanche Moon"
+            }
+        ],
+        "akas": [
+            "Comanche Moon (original title)",
+            "Komancsok holdja Hungary",
+            "Komancsok holdja Hungary",
+            "Czas Komanczów Poland",
+            "Луна команчей Russia",
+            "Comanche Moon USA"
+        ],
+        "akas from release info": [
+            "Comanche Moon (original title)",
+            "Komancsok holdja Hungary",
+            "Komancsok holdja Hungary",
+            "Czas Komanczów Poland",
+            "Луна команчей Russia",
+            "Comanche Moon USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Comanche Moon (TV Mini-Series 2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 43,
+                    "original air date": "13 Jan. 2008",
+                    "year": "2008",
+                    "plot": "\n    In 1855 the Texas Rangers have been fighting a war with the Comanche nation since the first Americans colonized Texas.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Comanche Moon (TV Mini-Series 2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 42,
+                    "original air date": "15 Jan. 2008",
+                    "year": "2008",
+                    "plot": "\n    Buffalo Hump wages all out war against whites while the Rangers fail to raise the ransom for Captain Scull, prisoner of Mexican bandit Ahumado.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Comanche Moon (TV Mini-Series 2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 45,
+                    "original air date": "16 Jan. 2008",
+                    "year": "2008",
+                    "plot": "\n    With the Civil War over, the Comanche Wars come to an end-with the illness of Buffalo Hump, and circumstances free Captai Scull from capture.    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Zahn, Steve"
+            },
+            {
+                "name": "Merriman, Ryan"
+            },
+            {
+                "name": "Robinson, Keith"
+            },
+            {
+                "name": "Studi, Wes"
+            },
+            {
+                "name": "Beach, Adam"
+            },
+            {
+                "name": "Rebhorn, James"
+            },
+            {
+                "name": "Lynskey, Melanie"
+            },
+            {
+                "name": "Griffiths, Rachel"
+            },
+            {
+                "name": "Baker, Troy"
+            },
+            {
+                "name": "Midthunder, David"
+            },
+            {
+                "name": "Shiver, Arron"
+            },
+            {
+                "name": "Metcalf, Toby"
+            },
+            {
+                "name": "Reevis, Steve"
+            },
+            {
+                "name": "Welch, Wally"
+            },
+            {
+                "name": "Kilmer, Val"
+            },
+            {
+                "name": "Urban, Karl"
+            },
+            {
+                "name": "Cardellini, Linda"
+            },
+            {
+                "name": "Banks, Elizabeth"
+            },
+            {
+                "name": "McKinnon, Ray"
+            },
+            {
+                "name": "Lopez, Sal"
+            },
+            {
+                "name": "Westerman, Floyd 'Red Crow'"
+            },
+            {
+                "name": "Sutherland, Kristine"
+            },
+            {
+                "name": "Berry, Josh"
+            },
+            {
+                "name": "Joss, Jonathan"
+            },
+            {
+                "name": "Flynn, Bill"
+            },
+            {
+                "name": "Coleman, Brady"
+            },
+            {
+                "name": "Rose, Savion"
+            },
+            {
+                "name": "Coulson, Grover"
+            },
+            {
+                "name": "Means, Tatanka"
+            },
+            {
+                "name": "Lopez, Fredrick"
+            },
+            {
+                "name": "Augare, Scotty"
+            },
+            {
+                "name": "Keams, Geraldine"
+            },
+            {
+                "name": "Rondeaux, Rod"
+            },
+            {
+                "name": "Burning, Jack"
+            },
+            {
+                "name": "Busey, Jake"
+            },
+            {
+                "name": "Ratchford, Jeremy"
+            },
+            {
+                "name": "Schellenberg, August"
+            },
+            {
+                "name": "Butz, Norbert Leo"
+            },
+            {
+                "name": "McClarnon, Zahn"
+            },
+            {
+                "name": "Castanon, Joseph"
+            },
+            {
+                "name": "Varma, Indira"
+            },
+            {
+                "name": "Brock, Brett"
+            },
+            {
+                "name": "Evans, Mary"
+            },
+            {
+                "name": "Price, Gene Raye"
+            },
+            {
+                "name": "McLaughlin, Bobby"
+            },
+            {
+                "name": "Montoya, Aldred"
+            },
+            {
+                "name": "Tafoya, Alan"
+            },
+            {
+                "name": "Taylor, Buck"
+            },
+            {
+                "name": "Kenin, Dylan"
+            },
+            {
+                "name": "Garfield, J.D."
+            }
+        ],
+        "locations": [
+            "New Mexico, USA",
+            "Pecos River, New Mexico, USA"
+        ],
+        "genres": [
+            "Drama",
+            "Western"
+        ],
+        "runtimes": [
+            "360"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en",
+            "shh",
+            "es",
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.33 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Australia:M",
+            "Norway:15::(DVD rating)",
+            "Singapore:M18",
+            "United States:TV-14::(TV rating)"
+        ],
+        "original air date": "13 Jan 2008 (USA)",
+        "number of seasons": 1,
+        "rating": 7.2,
+        "votes": 2573,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMzk3MzIzNTE5NF5BMl5BanBnXkFtZTcwMDY5MTE2MQ@@._V1_SY150_CR7,0,101,150_.jpg",
+        "budget": "$27,000,000 (estimated)",
+        "languages": [
+            "English",
+            "Shoshoni",
+            "Spanish",
+            "French"
+        ],
+        "title": "Comanche Moon",
+        "year": 2008,
+        "kind": "tv mini series",
+        "series years": "2008-2008",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "McMurtry, Larry"
+            },
+            {
+                "name": "Ossana, Diana"
+            }
+        ],
+        "director": [
+            {
+                "name": "Wincer, Simon"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "CBS Paramount Network Television"
+            },
+            {
+                "name": "Sony Pictures Television"
+            },
+            {
+                "name": "The Firm"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CBS"
+            },
+            {
+                "name": "A Channel"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Fernsehjuwelen"
+            },
+            {
+                "name": "Fernsehjuwelen"
+            },
+            {
+                "name": "Nelonen"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "TV2"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Great FX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aquila Travel"
+            },
+            {
+                "name": "Brock / Allen Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "NovaStar Digital"
+            },
+            {
+                "name": "Serious Grippage & Light"
+            },
+            {
+                "name": "Soundtrack New York"
+            }
+        ],
+        "plot": [
+            "The adventures and love lives of young Texas Rangers Woodrow Call and Augustus McRae leading up to their retirement to the city of Lonesome Dove.::Beezus"
+        ],
+        "synopsis": [
+            "The adventures and love lives of young Texas Rangers Woodrow Call and Augustus McRae leading up to their retirement to the city of Lonesome Dove"
+        ],
+        "tech": {
+            "runtime": [
+                "6 hr (360 min)",
+                "4 hr 12 min (252 min) (Italy)",
+                "4 hr 44 min (284 min) (DVD)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.33 : 1",
+                "1.78 : 1 (DVD)"
+            ],
+            "camera": [
+                "Panavision Panaflex Gold II, Panavision Primo Lenses",
+                "Panavision Panaflex Lightweight, Panavision Primo Lenses"
+            ],
+            "negative format": [
+                "35 mm (Fuji Eterna 400T 8583)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2573,
+                "rating": 7.2
+            },
+            "aged 18 29": {
+                "votes": 169,
+                "rating": 7.5
+            },
+            "aged 30 44": {
+                "votes": 951,
+                "rating": 7.2
+            },
+            "aged 45 plus": {
+                "votes": 1021,
+                "rating": 7.2
+            },
+            "males": {
+                "votes": 1702,
+                "rating": 7.2
+            },
+            "males aged 18 29": {
+                "votes": 117,
+                "rating": 7.6
+            },
+            "males aged 30 44": {
+                "votes": 753,
+                "rating": 7.2
+            },
+            "males aged 45 plus": {
+                "votes": 788,
+                "rating": 7.1
+            },
+            "females": {
+                "votes": 470,
+                "rating": 7.5
+            },
+            "females aged 18 29": {
+                "votes": 49,
+                "rating": 7.6
+            },
+            "females aged 30 44": {
+                "votes": 186,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 220,
+                "rating": 7.5
+            },
+            "top 1000 voters": {
+                "votes": 103,
+                "rating": 6.9
+            },
+            "us users": {
+                "votes": 1347,
+                "rating": 7.2
+            },
+            "non us users": {
+                "votes": 671,
+                "rating": 7.2
+            }
+        },
+        "number of votes": {
+            "10": 465,
+            "9": 304,
+            "8": 543,
+            "7": 585,
+            "6": 258,
+            "5": 137,
+            "4": 82,
+            "3": 48,
+            "2": 49,
+            "1": 102
+        },
+        "arithmetic mean": 7.3,
+        "median": 8
+    }
+}

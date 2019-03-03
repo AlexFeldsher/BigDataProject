@@ -1,0 +1,452 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Spain\n",
+                "date": "23 April 2013",
+                "notes": "                            (Málaga Film Festival)"
+            },
+            {
+                "country": "Spain\n",
+                "date": "10 November 2014"
+            }
+        ],
+        "release dates": [
+            "Spain::23 April 2013                            (Málaga Film Festival)",
+            "Spain::10 November 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Cuéntame un cuento"
+            },
+            {
+                "countries": "Russia",
+                "title": "Расскажи мне сказку"
+            },
+            {
+                "countries": "Spain (working title)",
+                "title": "Cuentos del siglo XXI"
+            }
+        ],
+        "akas": [
+            "Cuéntame un cuento (original title)",
+            "Расскажи мне сказку Russia",
+            "Cuentos del siglo XXI Spain (working title)"
+        ],
+        "akas from release info": [
+            "Cuéntame un cuento (original title)",
+            "Расскажи мне сказку Russia",
+            "Cuentos del siglo XXI Spain (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Los tres cerditos",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cuéntame un cuento (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 44,
+                    "original air date": "10 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Blancanieves",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cuéntame un cuento (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 32,
+                    "original air date": "17 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Caperucita Roja",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cuéntame un cuento (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 27,
+                    "original air date": "24 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Hansel y Gretel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cuéntame un cuento (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 26,
+                    "original air date": "1 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "La bella y la bestia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cuéntame un cuento (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 19,
+                    "original air date": "8 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 5,
+        "cast": [
+            {
+                "name": "Adán, Pablo"
+            },
+            {
+                "name": "Alonso, Alba"
+            },
+            {
+                "name": "Almarcha, Sonia"
+            },
+            {
+                "name": "Clavijo, Víctor"
+            },
+            {
+                "name": "Costa, Laia"
+            },
+            {
+                "name": "Delgado, Priscilla"
+            },
+            {
+                "name": "Luna, Aitor"
+            },
+            {
+                "name": "Plazas, Cristina"
+            },
+            {
+                "name": "Ballesteros, Elena"
+            },
+            {
+                "name": "Coronado, Nicolás"
+            },
+            {
+                "name": "Hercal, Aitana"
+            },
+            {
+                "name": "Moreno, Gorka"
+            },
+            {
+                "name": "Méndez, Sergi"
+            },
+            {
+                "name": "Gil, Antonio"
+            },
+            {
+                "name": "Borràs, Marcel"
+            },
+            {
+                "name": "Godino, Javier"
+            },
+            {
+                "name": "Pamplona, Laura"
+            },
+            {
+                "name": "Vellido, Juan Carlos"
+            },
+            {
+                "name": "Valls, Arturo"
+            },
+            {
+                "name": "Abaitua, Susana"
+            },
+            {
+                "name": "Apilánez, Blanca"
+            },
+            {
+                "name": "Saura, Mar"
+            },
+            {
+                "name": "Font, Iñaki"
+            },
+            {
+                "name": "Casares, Tacuara"
+            },
+            {
+                "name": "Díaz, Ruth"
+            },
+            {
+                "name": "Fernández, Adolfo"
+            },
+            {
+                "name": "Soto, Fernando"
+            },
+            {
+                "name": "Zahera, Luis"
+            },
+            {
+                "name": "Casalduero, Jorge"
+            },
+            {
+                "name": "Massán, Víctor"
+            },
+            {
+                "name": "Portillo, Blanca"
+            },
+            {
+                "name": "Caro, Manolo"
+            },
+            {
+                "name": "Cordón, Lola"
+            },
+            {
+                "name": "Gómez, Félix"
+            },
+            {
+                "name": "Regueiro, Manuel"
+            },
+            {
+                "name": "Guimaré, Yaiza"
+            },
+            {
+                "name": "Martínez, Carlos"
+            },
+            {
+                "name": "González, María"
+            },
+            {
+                "name": "Luppi, Juan"
+            },
+            {
+                "name": "Mata, Sara"
+            },
+            {
+                "name": "Velasco, Eduardo"
+            },
+            {
+                "name": "Martínez, Carlos"
+            },
+            {
+                "name": "Buale, Emilio"
+            },
+            {
+                "name": "del Río, Andrea"
+            },
+            {
+                "name": "Solo, Manolo"
+            },
+            {
+                "name": "Berzal, Alberto"
+            },
+            {
+                "name": "Jenner, Michelle"
+            },
+            {
+                "name": "Luque, Dani"
+            },
+            {
+                "name": "Segarra, Cristina"
+            },
+            {
+                "name": "Abad, Joaquín"
+            }
+        ],
+        "genres": [
+            "Fantasy"
+        ],
+        "countries": [
+            "Spain"
+        ],
+        "country codes": [
+            "es"
+        ],
+        "language codes": [
+            "es"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "rating": 6.7,
+        "votes": 108,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZjJmNDJkODgtOGU2NC00NWI5LWFlNGEtZjdkY2U0MjYxYmY5XkEyXkFqcGdeQXVyNTc5MTM5MTI@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "Spanish"
+        ],
+        "title": "Cuéntame un cuento",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Malajovich, Gustavo"
+            },
+            {
+                "name": "Vidal, Marcos Osorio"
+            },
+            {
+                "name": "Ruano, Carlos"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Cuatro Cabezas TV"
+            },
+            {
+                "name": "Resonant TV"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Antena 3 Televisión"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Armas Magnum 44"
+            },
+            {
+                "name": "Behind the Movies"
+            },
+            {
+                "name": "Cinelux"
+            },
+            {
+                "name": "Efe-X"
+            },
+            {
+                "name": "Rafael Catering"
+            },
+            {
+                "name": "Santiago Mediano Abogados"
+            },
+            {
+                "name": "Steadycam Factory"
+            },
+            {
+                "name": "Tecnicine"
+            },
+            {
+                "name": "The Monos Sound"
+            },
+            {
+                "name": "Transportes Cine y TV Mendieta"
+            },
+            {
+                "name": "Videoreport Grupo Vértice 360"
+            }
+        ],
+        "plot": [
+            "Spanish TV series where the old classic tales are told in a very different way.::Guille Zeta"
+        ],
+        "tech": {
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 108,
+                "rating": 6.7
+            },
+            "aged 18 29": {
+                "votes": 15,
+                "rating": 6.4
+            },
+            "aged 30 44": {
+                "votes": 35,
+                "rating": 6.4
+            },
+            "aged 45 plus": {
+                "votes": 15,
+                "rating": 5.5
+            },
+            "males": {
+                "votes": 50,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 8,
+                "rating": 5.0
+            },
+            "males aged 30 44": {
+                "votes": 26,
+                "rating": 6.5
+            },
+            "males aged 45 plus": {
+                "votes": 11,
+                "rating": 5.3
+            },
+            "females": {
+                "votes": 25,
+                "rating": 6.8
+            },
+            "females aged 18 29": {
+                "votes": 7,
+                "rating": 8.1
+            },
+            "females aged 30 44": {
+                "votes": 7,
+                "rating": 5.9
+            },
+            "females aged 45 plus": {
+                "votes": 4,
+                "rating": 7.8
+            },
+            "top 1000 voters": {
+                "votes": 10,
+                "rating": 7.0
+            },
+            "us users": {
+                "votes": 4,
+                "rating": 8.0
+            },
+            "non us users": {
+                "votes": 46,
+                "rating": 5.6
+            }
+        },
+        "number of votes": {
+            "10": 20,
+            "9": 3,
+            "8": 19,
+            "7": 24,
+            "6": 17,
+            "5": 13,
+            "4": 6,
+            "3": 3,
+            "2": 2,
+            "1": 1
+        },
+        "arithmetic mean": 7.0,
+        "median": 7
+    }
+}

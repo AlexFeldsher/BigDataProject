@@ -1,0 +1,112 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "19 January 2016"
+            },
+            {
+                "country": "USA\n",
+                "date": "19 January 2016",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::19 January 2016",
+            "USA::19 January 2016                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Portlandia Presents: Talkative Driver"
+            },
+            {
+                "countries": " (short title)",
+                "title": "Talkative Driver"
+            }
+        ],
+        "akas": [
+            "Portlandia Presents: Talkative Driver (original title)",
+            "Talkative Driver (short title)"
+        ],
+        "akas from release info": [
+            "Portlandia Presents: Talkative Driver (original title)",
+            "Talkative Driver (short title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Talkative Driver: Conversation Inspector",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Portlandia Presents: Talkative Driver (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "19 Jan. 2016",
+                    "year": "2016",
+                    "plot": "\n    A talkative driver must know the rules of the gab.    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Armisen, Fred"
+            },
+            {
+                "name": "Brownstein, Carrie"
+            }
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Portlandia Presents: Talkative Driver",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Armisen, Fred"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Broadway Video"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "IFC TV"
+            }
+        ],
+        "plot": [
+            "In Portlandia's 4-part web series \"Talkative Driver\" Fred Armisen is a driver for a ride-app that provides customers with great conversation."
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

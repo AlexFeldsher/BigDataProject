@@ -1,0 +1,75 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "1 January 2017"
+            },
+            {
+                "country": "Turkey\n",
+                "date": "16 December 2017"
+            }
+        ],
+        "release dates": [
+            "USA::1 January 2017",
+            "Turkey::16 December 2017"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Occupy Wallstreet",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Inside the Lens (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "1 Jan. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "genres": [
+            "Documentary"
+        ],
+        "countries": [
+            "Turkey"
+        ],
+        "country codes": [
+            "tr"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Inside the Lens",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-",
+        "akas": [
+            "Inside the Lens (Turkey)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "distributors": [
+            {
+                "name": "TRT World"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

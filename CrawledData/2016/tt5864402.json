@@ -1,0 +1,101 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "25 June 2016"
+            },
+            {
+                "country": "USA\n",
+                "date": "25 June 2016",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::25 June 2016",
+            "USA::25 June 2016                            (internet)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The First Show",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unleashed! With Matthew Winstead (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "25 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    In this episode, host Matthew Winstead introduces himself and breaks down how the show is going to go.    "
+                },
+                "2": {
+                    "title": "Brad Kevins",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unleashed! With Matthew Winstead (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "10 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Matt sits down with Chicago indy wrestler \"Beautiful\" Brad Kevins to discuss his career.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Winstead, Matthew"
+            },
+            {
+                "name": "Sievers, Brad"
+            }
+        ],
+        "genres": [
+            "Talk-Show"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYjNhMmU3YjctNWU1Yi00OTRlLWIyMzQtN2Q0YTQ0NDgzYTkwXkEyXkFqcGdeQXVyNDA2NDIxNzk@._V1_SY150_CR10,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Unleashed! With Matthew Winstead",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "akas": [
+            "Unleashed! With Matthew Winstead (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "LoneWolf Productions"
+            }
+        ],
+        "plot": [
+            "Listen in as Matt interviews the guests that he finds most interesting. He cuts it straight down the middle and doesn't hold anything back when it comes to his questions.::Lonewolf Productions"
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

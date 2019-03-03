@@ -1,0 +1,160 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "France\n",
+                "date": "30 September 2017"
+            }
+        ],
+        "release dates": [
+            "France::30 September 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "La case en +"
+            },
+            {
+                "countries": " (working title)",
+                "title": "Canal +"
+            }
+        ],
+        "akas": [
+            "La case en + (original title)",
+            "Canal + (working title)"
+        ],
+        "akas from release info": [
+            "La case en + (original title)",
+            "Canal + (working title)"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Episode dated 5 May 2018",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "La case en + (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "5 May 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Eldin, Cyrille"
+            },
+            {
+                "name": "Baffie, Laurent"
+            },
+            {
+                "name": "Candeloro, Philippe"
+            },
+            {
+                "name": "Caron, Aymeric"
+            },
+            {
+                "name": "Célarié, Clémentine"
+            },
+            {
+                "name": "Duléry, Antoine"
+            },
+            {
+                "name": "Jardin, Alexandre"
+            },
+            {
+                "name": "Légitimus, Pascal"
+            },
+            {
+                "name": "Mitterrand, Frédéric"
+            },
+            {
+                "name": "Morel, François"
+            },
+            {
+                "name": "Payet, Manu"
+            },
+            {
+                "name": "Plantu"
+            },
+            {
+                "name": "Roumanoff, Anne"
+            },
+            {
+                "name": "Bigard, Jean-Marie"
+            },
+            {
+                "name": "Darmon, Gérard"
+            },
+            {
+                "name": "De Fontenay, Geneviève"
+            },
+            {
+                "name": "Doutey, Mélanie"
+            },
+            {
+                "name": "Dray, Julien"
+            },
+            {
+                "name": "Dupond-Moretti, Eric"
+            },
+            {
+                "name": "Fau, Michel"
+            },
+            {
+                "name": "Huster, Francis"
+            },
+            {
+                "name": "Leconte, Patrice"
+            },
+            {
+                "name": "Mezrahi, Raphaël"
+            },
+            {
+                "name": "Noguerra, Héléna"
+            },
+            {
+                "name": "d'Arvor, Patrick Poivre"
+            },
+            {
+                "name": "Reichmann, Jean-Luc"
+            },
+            {
+                "name": "Rénier, Yves"
+            },
+            {
+                "name": "Solo, Bruno"
+            },
+            {
+                "name": "Teulé, Jean"
+            }
+        ],
+        "countries": [
+            "France"
+        ],
+        "country codes": [
+            "fr"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "languages": [
+            "French"
+        ],
+        "title": "La case en +",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-",
+        "production companies": [
+            {
+                "name": "Canal+"
+            }
+        ],
+        "tech": {}
+    }
+}

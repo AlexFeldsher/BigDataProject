@@ -1,0 +1,695 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2013"
+            },
+            {
+                "country": "USA\n",
+                "date": "17 July 2013",
+                "notes": "                            (San Diego Comic-Con)"
+            },
+            {
+                "country": "USA\n",
+                "date": "11 August 2013"
+            },
+            {
+                "country": "USA\n",
+                "date": "17 November 2013"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "20 February 2014"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "3 April 2014"
+            },
+            {
+                "country": "UK\n",
+                "date": "6 May 2014"
+            },
+            {
+                "country": "Finland\n",
+                "date": "9 June 2014"
+            },
+            {
+                "country": "Japan\n",
+                "date": "17 July 2014"
+            },
+            {
+                "country": "Germany\n",
+                "date": "6 October 2014"
+            }
+        ],
+        "release dates": [
+            "USA::2013",
+            "USA::17 July 2013                            (San Diego Comic-Con)",
+            "USA::11 August 2013",
+            "USA::17 November 2013",
+            "Hungary::20 February 2014",
+            "Sweden::3 April 2014",
+            "UK::6 May 2014",
+            "Finland::9 June 2014",
+            "Japan::17 July 2014",
+            "Germany::6 October 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Almost Human"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Emberi tényező"
+            },
+            {
+                "countries": "Romania",
+                "title": "Aproape oameni"
+            },
+            {
+                "countries": "Russia",
+                "title": "Почти человек"
+            },
+            {
+                "countries": "Spain",
+                "title": "Almost Human"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "Inhuman"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "Human"
+            },
+            {
+                "countries": "Vietnam",
+                "title": "Ky Nguyen Nhan Tao"
+            },
+            {
+                "countries": " (working title)",
+                "title": "Untitled J.J. Abrams/Wyman Project"
+            }
+        ],
+        "akas": [
+            "Almost Human (original title)",
+            "Emberi tényező Hungary",
+            "Aproape oameni Romania",
+            "Почти человек Russia",
+            "Almost Human Spain",
+            "Inhuman USA (working title)",
+            "Human USA (working title)",
+            "Ky Nguyen Nhan Tao Vietnam",
+            "Untitled J.J. Abrams/Wyman Project (working title)"
+        ],
+        "akas from release info": [
+            "Almost Human (original title)",
+            "Emberi tényező Hungary",
+            "Aproape oameni Romania",
+            "Почти человек Russia",
+            "Almost Human Spain",
+            "Inhuman USA (working title)",
+            "Human USA (working title)",
+            "Ky Nguyen Nhan Tao Vietnam",
+            "Untitled J.J. Abrams/Wyman Project (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Almost Human (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 1376,
+                    "original air date": "11 Aug. 2013",
+                    "year": "2013",
+                    "plot": "\n    A part-machine cop must pair with a part-human robot as they fight crime and investigate a deeper cover-up in a futuristic new world.    "
+                },
+                "2": {
+                    "title": "Skin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Almost Human (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 1063,
+                    "original air date": "18 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    In night two of the series premiere, Detective John Kennex and Dorian are dispatched to investigate a murder and high-profile missing persons case that lead them into the highly profitable world of IRCs - Intimate Robot Companions - also known as sexbots. Meanwhile, Kennex looks to reconcile a part of his troubled past.    "
+                },
+                "3": {
+                    "title": "Are You Receiving?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Almost Human (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 942,
+                    "original air date": "25 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    A gang of criminals try to get their demands by taking some hostages. But as it turns out, this was just a diversion to take away police attention from the real crime scene - palladium robbery.    "
+                },
+                "4": {
+                    "title": "The Bends",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Almost Human (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 768,
+                    "original air date": "2 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    When a colleague gets shot in a drug related situation, John is the only one who believes in the innocence of his old classmate. Rudy sees an opportunity for his fifteen minutes of fame when a drug cook is needed for an undercover operation.    "
+                },
+                "5": {
+                    "title": "Blood Brothers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Almost Human (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 747,
+                    "original air date": "9 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    Detective John Kennex and Dorian are tasked with protecting the only remaining witness in a major murder trial, while Captain Maldonado faces off with the defendant.    "
+                },
+                "6": {
+                    "title": "Arrhythmia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Almost Human (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 706,
+                    "original air date": "16 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    Kennex and Dorian respond to a suspicious death at a hospital where - before having a fatal cardiac arrest - a man claimed someone was trying to kill him, and inexplicably knew his exact time of death. As the investigation unfolds, a black market for vital organs is uncovered in which bio-mechanical hearts can be resold and remotely \"shut off.\" As the team fights to find the pulse of this 2048 tech-centric crime, Dorian reconnects with a decommissioned DRN.    "
+                },
+                "7": {
+                    "title": "Simon Says",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Almost Human (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 690,
+                    "original air date": "6 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Det. Kennex and Dorian investigate Simon, a psychopathic killer who is strapping bombs to his victims' neck and broadcasting their final moments over the internet. Meanwhile, a power deficiency affects Dorian's energy level, causing him to have unexpected outbursts.    "
+                },
+                "8": {
+                    "title": "You Are Here",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Almost Human (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 650,
+                    "original air date": "13 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Detective Kennex and Dorian have to deal a mysterious murder case. The victim is murdered mysteriously by a new technically innovated bullet.    "
+                },
+                "9": {
+                    "title": "Unbound",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Almost Human (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 709,
+                    "original air date": "3 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    The mystery item stored in police evidence is revealed, and an action packed bot hunt ensues, with John and Dorian pulling off some enthusiastic moves in an effort to reel in the rampaging renegade. The resulting adventure prompts Dorian to question the stability of his own personality and his reliability within the force, as he literally gets to meet his maker.    "
+                },
+                "10": {
+                    "title": "Perception",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Almost Human (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 571,
+                    "original air date": "10 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    When Kennex and Dorian investigate the simultaneous and sudden deaths of two genetically-enhanced - or \"chrome\" - children, a fatal dose of the perfect designer drug appears to be the cause. As the investigation unfolds and a recent drowning victim is mysteriously connected, the case takes an unexpected turn. Meanwhile, Kennex endures painful flashes from the past and pays a visit to the recollectionist.    "
+                },
+                "11": {
+                    "title": "Disrupt",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Almost Human (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 557,
+                    "original air date": "17 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    A deadly crime from the future occurs when a \"smart home\" goes terribly bad and turns on its occupants. Detective Kennex and Dorian lead the investigation that forces them to interface with a house that is represented by a mysterious hologram character.    "
+                },
+                "12": {
+                    "title": "Beholder",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Almost Human (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 579,
+                    "original air date": "24 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    When a Chrome appears to have died young, Valerie recognizes it as a murder and begins an investigation. Kennex and Dorian realize that the murderer is a serial killer who is using outlawed nanobot plastic surgery to become beautiful.    "
+                },
+                "13": {
+                    "title": "Straw Man",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Almost Human (TV Series 2013–2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 572,
+                    "original air date": "3 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Detective Kennex and Dorian investigate a string of murders by a copycat of a serial killer whom Kennex's father put in jail. As the investigation unfolds, biotechnology from the future sheds light on crimes of the past. Meanwhile, Dorian receives his performance evaluation since being reactivated.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Urban, Karl"
+            },
+            {
+                "name": "Ealy, Michael"
+            },
+            {
+                "name": "Kelly, Minka"
+            },
+            {
+                "name": "Crook, Mackenzie"
+            },
+            {
+                "name": "Irby, Michael"
+            },
+            {
+                "name": "Taylor, Lili"
+            },
+            {
+                "name": "Scott, Darren E."
+            },
+            {
+                "name": "Konechny, Anthony"
+            },
+            {
+                "name": "Wilson, Garfield"
+            },
+            {
+                "name": "Smith, Joe"
+            },
+            {
+                "name": "Callica, Jaime M."
+            },
+            {
+                "name": "Kelleher, Tim"
+            },
+            {
+                "name": "Riley, Chad"
+            },
+            {
+                "name": "Kanagawa, Hiro"
+            },
+            {
+                "name": "Mahe, Kristi"
+            },
+            {
+                "name": "Cox, Mekia"
+            },
+            {
+                "name": "Everett, Troy"
+            },
+            {
+                "name": "Cofsky, Kristine"
+            },
+            {
+                "name": "Holmes, Jonathan"
+            },
+            {
+                "name": "Sabongui, Patrick"
+            },
+            {
+                "name": "Kahlone, Roman"
+            },
+            {
+                "name": "Yeoh, Sharmaine"
+            },
+            {
+                "name": "Hayter, Rob"
+            },
+            {
+                "name": "MacNeil, Donnie"
+            },
+            {
+                "name": "Bancroft, Yoshié"
+            },
+            {
+                "name": "Sullivan, James"
+            },
+            {
+                "name": "McKnight, Kara"
+            },
+            {
+                "name": "Angeli, Jennifer-Juniper"
+            },
+            {
+                "name": "Walsh, Vanessa"
+            },
+            {
+                "name": "Chiang, Leo"
+            },
+            {
+                "name": "Riemer, Melissa"
+            },
+            {
+                "name": "Ferguson, Megan"
+            },
+            {
+                "name": "Herriman, Damon"
+            },
+            {
+                "name": "Martinez, Benito"
+            },
+            {
+                "name": "Thomas, Ella"
+            },
+            {
+                "name": "Belcher, Iain"
+            },
+            {
+                "name": "Carano, Gina"
+            },
+            {
+                "name": "Cox, Tony"
+            },
+            {
+                "name": "Dastmalchian, David"
+            },
+            {
+                "name": "Diehl, John"
+            },
+            {
+                "name": "Mathew, Suleka"
+            },
+            {
+                "name": "Blacker, Josh"
+            },
+            {
+                "name": "Miller, Alex"
+            },
+            {
+                "name": "Rios, Emily"
+            },
+            {
+                "name": "Viramontes, Jos"
+            },
+            {
+                "name": "Eklund, Michael"
+            },
+            {
+                "name": "Juliani, Alessandro"
+            },
+            {
+                "name": "Larroquette, John"
+            },
+            {
+                "name": "Monroe, Annie"
+            },
+            {
+                "name": "Smyth, Shaun"
+            }
+        ],
+        "locations": [
+            "Coquitlam, British Columbia, Canada",
+            "Vancouver, British Columbia, Canada"
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 8.0,
+        "votes": 45158,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMzQ1NDQ3MjUxOF5BMl5BanBnXkFtZTgwMTY2MDczMDE@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "Is friendship between a human and an android even possible? When a police detective John Kennex gets a new partner, an android of a DRN model or Dorian, he never thought it was possible to become a friend with a human-like walking machine. Could he be wrong?",
+        "languages": [
+            "English"
+        ],
+        "title": "Almost Human",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-2014",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Wyman, J.H."
+            },
+            {
+                "name": "Maliska, Cole"
+            },
+            {
+                "name": "Schapker, Alison"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Frequency Films"
+            },
+            {
+                "name": "Bad Robot"
+            },
+            {
+                "name": "Warner Bros. Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "20th Century Fox Television"
+            },
+            {
+                "name": "Fox Network"
+            },
+            {
+                "name": "Global"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "Viasat3"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Watch"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aion Art Gallery"
+            },
+            {
+                "name": "Artifex Studios"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "De Lane Lea"
+            },
+            {
+                "name": "Encore Vancouver"
+            },
+            {
+                "name": "Entertainment Partners Canada"
+            },
+            {
+                "name": "Framepool"
+            },
+            {
+                "name": "GOPOGO"
+            },
+            {
+                "name": "Level 3 Post"
+            },
+            {
+                "name": "Marc Graue Recording Studios: Voiceover and Post"
+            },
+            {
+                "name": "Rex Post"
+            }
+        ],
+        "plot": [
+            "In a not-so-distant future, a human cop and an android partner up to protect and serve.::ahmetkozan",
+            "Is friendship between a human and an android even possible? When a police detective John Kennex gets a new partner, an android of a DRN model or Dorian, he never thought it was possible to become a friend with a human-like walking machine. Could he be wrong?::ahmetkozan",
+            "_Almost Human_ (qv) is an action-packed police drama set 35 years in the future, when police officers are partnered with highly evolved human-like androids. The year is 2048. Meet John Kennex a cop who survived one of the most catastrophic attacks ever made against the police department. After waking up from a 17-month coma, he can't remember much - except that his partner was killed; his girlfriend, Anna Moore, left him after the attack; and he lost one of his legs and is now outfitted with a highly sophisticated synthetic appendage. Suffering from depression, mental atrophy, trauma-onset OCD, PTSD and the \"psychological rejection of his synthetic body part,\" John returns to work at the behest of longtime ally Captain Sandra Maldonado. By mandate, every cop must partner with a robot. And despite his passionate aversion to androids, John is paired up with a battle-ready MX-43. But he abruptly terminates his partnership after the robot discovers incriminating information about him. So technician Rudy Lom introduces John to Dorian, a discontinued android with unexpected emotional responses. Although such responses were deemed flaws, it is in these \"flaws\" that John relates to Dorian most. After all, John is part-machine now, and Dorian is part-human. John and Dorian's understanding of each other not only complements them, it connects them. As he adjusts to working with his new partner, John also must learn to get along with his new colleagues, including the eager and somewhat starstruck Detective Valerie Stahl and the distrustful Detective Richard Paul, who does not welcome John back with open arms. _Almost Human_ (qv) will follow the week-to-week missions of John and Dorian, as they fight crime across this futuristic landscape, while the mysteries surrounding his attack and the larger mythology of this new world unfold.::ahmetkozan"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 45158,
+                "rating": 8.0
+            },
+            "aged under 18": {
+                "votes": 6,
+                "rating": 8.9
+            },
+            "aged 18 29": {
+                "votes": 9901,
+                "rating": 8.2
+            },
+            "aged 30 44": {
+                "votes": 18010,
+                "rating": 8.0
+            },
+            "aged 45 plus": {
+                "votes": 6463,
+                "rating": 8.0
+            },
+            "males": {
+                "votes": 27381,
+                "rating": 8.0
+            },
+            "males aged under 18": {
+                "votes": 3,
+                "rating": 8.0
+            },
+            "males aged 18 29": {
+                "votes": 7270,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 13671,
+                "rating": 7.9
+            },
+            "males aged 45 plus": {
+                "votes": 4484,
+                "rating": 7.9
+            },
+            "females": {
+                "votes": 9188,
+                "rating": 8.2
+            },
+            "females aged under 18": {
+                "votes": 3,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 2513,
+                "rating": 8.2
+            },
+            "females aged 30 44": {
+                "votes": 4096,
+                "rating": 8.2
+            },
+            "females aged 45 plus": {
+                "votes": 1888,
+                "rating": 8.4
+            },
+            "top 1000 voters": {
+                "votes": 241,
+                "rating": 7.5
+            },
+            "us users": {
+                "votes": 7524,
+                "rating": 8.2
+            },
+            "non us users": {
+                "votes": 17540,
+                "rating": 7.9
+            }
+        },
+        "number of votes": {
+            "10": 11568,
+            "9": 10799,
+            "8": 11550,
+            "7": 6164,
+            "6": 2554,
+            "5": 1074,
+            "4": 479,
+            "3": 274,
+            "2": 175,
+            "1": 521
+        },
+        "arithmetic mean": 8.3,
+        "median": 8
+    }
+}

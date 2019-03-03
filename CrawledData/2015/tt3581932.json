@@ -1,0 +1,480 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "26 December 2015"
+            },
+            {
+                "country": "Italy\n",
+                "date": "6 November 2016"
+            },
+            {
+                "country": "Japan\n",
+                "date": "27 November 2016"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "17 December 2016"
+            },
+            {
+                "country": "France\n",
+                "date": "20 December 2016"
+            },
+            {
+                "country": "Finland\n",
+                "date": "26 December 2016"
+            },
+            {
+                "country": "Germany\n",
+                "date": "1 January 2019",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "UK::26 December 2015",
+            "Italy::6 November 2016",
+            "Japan::27 November 2016",
+            "Sweden::17 December 2016",
+            "France::20 December 2016",
+            "Finland::26 December 2016",
+            "Germany::1 January 2019                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "And Then There Were None"
+            },
+            {
+                "countries": "Brazil",
+                "title": "E Não Sobrou Nenhum"
+            },
+            {
+                "countries": "Denmark",
+                "title": "En af os er morderen"
+            },
+            {
+                "countries": "Finland",
+                "title": "Agatha Christie: Eikä yksikään pelastunut"
+            },
+            {
+                "countries": "France",
+                "title": "Agatha Christie: Dix petits nègres"
+            },
+            {
+                "countries": "Germany",
+                "title": "Und dann gab es keines mehr"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Tíz kicsi katona"
+            },
+            {
+                "countries": "Italy",
+                "title": "Dieci piccoli indiani"
+            },
+            {
+                "countries": "Poland",
+                "title": "I nie bylo juz nikogo"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Convite Para a Morte de Agatha Christie"
+            },
+            {
+                "countries": "Russia",
+                "title": "И никого не стало"
+            },
+            {
+                "countries": "Sweden",
+                "title": "Och så var de bara en"
+            },
+            {
+                "countries": "UK (complete title)",
+                "title": "Agatha Christie's And Then There Were None"
+            },
+            {
+                "countries": "USA",
+                "title": "And Then There Were None"
+            }
+        ],
+        "akas": [
+            "And Then There Were None (original title)",
+            "E Não Sobrou Nenhum Brazil",
+            "En af os er morderen Denmark",
+            "Agatha Christie: Eikä yksikään pelastunut Finland",
+            "Agatha Christie: Dix petits nègres France",
+            "Und dann gab es keines mehr Germany",
+            "Tíz kicsi katona Hungary",
+            "Dieci piccoli indiani Italy",
+            "I nie bylo juz nikogo Poland",
+            "Convite Para a Morte de Agatha Christie Portugal",
+            "И никого не стало Russia",
+            "Och så var de bara en Sweden",
+            "Agatha Christie's And Then There Were None UK (complete title)",
+            "And Then There Were None USA"
+        ],
+        "akas from release info": [
+            "And Then There Were None (original title)",
+            "E Não Sobrou Nenhum Brazil",
+            "En af os er morderen Denmark",
+            "Agatha Christie: Eikä yksikään pelastunut Finland",
+            "Agatha Christie: Dix petits nègres France",
+            "Und dann gab es keines mehr Germany",
+            "Tíz kicsi katona Hungary",
+            "Dieci piccoli indiani Italy",
+            "I nie bylo juz nikogo Poland",
+            "Convite Para a Morte de Agatha Christie Portugal",
+            "И никого не стало Russia",
+            "Och så var de bara en Sweden",
+            "Agatha Christie's And Then There Were None UK (complete title)",
+            "And Then There Were None USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "And Then There Were None (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 1099,
+                    "original air date": "26 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    Ten strangers are persuaded to retreat from their troubled lives and travel to Soldier Island, an isolated rock off the Devon coast, where all is not as it seems.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "And Then There Were None (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 980,
+                    "original air date": "27 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    As the guests make plans to combat the killer, the body count rises, and dreadful secrets are brought to light.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "And Then There Were None (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 981,
+                    "original air date": "28 Dec. 2015",
+                    "year": "2015",
+                    "plot": "\n    With their numbers dwindling, the remaining guests have very different reactions to their situation as everything becomes a fight for survival.    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Dermody, Maeve"
+            },
+            {
+                "name": "Dance, Charles"
+            },
+            {
+                "name": "Stephens, Toby"
+            },
+            {
+                "name": "Gorman, Burn"
+            },
+            {
+                "name": "Turner, Aidan"
+            },
+            {
+                "name": "Gallacher, Harley"
+            },
+            {
+                "name": "Richardson, Miranda"
+            },
+            {
+                "name": "Chahidi, Paul"
+            },
+            {
+                "name": "Neill, Sam"
+            },
+            {
+                "name": "Russell, Charlie"
+            },
+            {
+                "name": "Clegg, Tom"
+            },
+            {
+                "name": "Taylor, Noah"
+            },
+            {
+                "name": "Bailey, Catherine"
+            },
+            {
+                "name": "Deery, Ben"
+            },
+            {
+                "name": "Heaps, Rob"
+            },
+            {
+                "name": "Booth, Douglas"
+            },
+            {
+                "name": "Henebury, Celia"
+            },
+            {
+                "name": "Prowen, Joseph"
+            },
+            {
+                "name": "Hansell, Richard"
+            },
+            {
+                "name": "Waterstone, Daisy"
+            },
+            {
+                "name": "Hatherall, Christopher"
+            },
+            {
+                "name": "Martin, Anna Maxwell"
+            },
+            {
+                "name": "Edwards, Margot"
+            }
+        ],
+        "locations": [
+            "Mullion Island, Cornwall, England, UK::(Soldier Island distant shots: house added by CGI)",
+            "Newquay, Cornwall, England, UK",
+            "Harefield House, High Street, Harefield, London, England, UK::(mansion scenes)",
+            "Kynance Cove, Lizard, Cornwall, England, UK::(beach scenes)",
+            "South Devon Railway, Devon, England, UK::(Railway scenes)",
+            "Mullion Cove, Mullion, Cornwall, England, UK::(harbour scene)"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "58"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Australia:MA15+",
+            "Canada:14A::(Manitoba/Ontario)",
+            "France:10",
+            "Singapore:NC16",
+            "United Kingdom:15",
+            "United States:TV-14"
+        ],
+        "original air date": "26 Dec 2015 (UK)",
+        "number of seasons": 1,
+        "rating": 8.0,
+        "votes": 24305,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNjIzZDg2YWUtZGEwOS00OGM5LTgwZTgtMGVhMTFiZDhjMjExXkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SY150_CR3,0,101,150_.jpg",
+        "plot outline": "It's 1939 and Europe teeters on the brink of war. Ten strangers are invited to Soldier Island an isolated rock near the Devon coast in southern England. Cut off from the mainland, with their generous hosts Mr and Mrs U.N. Owen mysteriously absent, they are each accused of a terrible crime. As members of the party start to die one by one, the survivors realize that one of them is a killer and start to turn on each other.",
+        "languages": [
+            "English"
+        ],
+        "title": "And Then There Were None",
+        "year": 2015,
+        "kind": "tv mini series",
+        "series years": "2015-2015",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Christie, Agatha"
+            },
+            {
+                "name": "Phelps, Sarah"
+            }
+        ],
+        "director": [
+            {
+                "name": "Viveiros, Craig"
+            },
+            {
+                "name": "Akpabio, Basi"
+            },
+            {
+                "name": "Keane, Rebecca"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Mammoth Screen"
+            },
+            {
+                "name": "Agatha Christie Productions"
+            },
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "A&E Television Networks"
+            },
+            {
+                "name": "Acorn Media Enterprises"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "Acorn Media Group"
+            },
+            {
+                "name": "Lifetime Television"
+            },
+            {
+                "name": "MTV3"
+            },
+            {
+                "name": "NHK BS Premium"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "The Helicopter Girls"
+            }
+        ],
+        "plot": [
+            "Ten strangers are invited to an island by a mysterious host, and start to get killed one by one. Could one of them be the killer?::Anonymous",
+            "It's 1939 and Europe teeters on the brink of war. Ten strangers are invited to Soldier Island an isolated rock near the Devon coast in southern England. Cut off from the mainland, with their generous hosts Mr and Mrs U.N. Owen mysteriously absent, they are each accused of a terrible crime. As members of the party start to die one by one, the survivors realize that one of them is a killer and start to turn on each other.::BBC",
+            "It's 1939 and Europe teeters on the brink of war. Ten strangers are invited to Soldier Island, an isolated rock near the Devon coast in southern England. Cut off from the mainland, with their generous hosts Mr and Mrs U.N. Owen mysteriously absent, they are each accused of a terrible crime. As members of the party start to die one by one, the survivors realize that one of them is a killer and start to turn on each other.",
+            "August 1939. Ten people find themselves on Soldier Island, off the Devon coast. They have been invited there or hired to work there by Mr and Mrs Owen. The Owens are nowhere to be found. At dinner on the first evening a recording announces that they are all murderers, lists their victims, and says that they have been sentenced to death. Then, somebody starts murdering them, one by one.::grantss"
+        ],
+        "tech": {
+            "runtime": [
+                "58 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Arri Alexa",
+                "RED DRAGON",
+                "Sony F-55"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 24305,
+                "rating": 8.0
+            },
+            "aged under 18": {
+                "votes": 49,
+                "rating": 8.6
+            },
+            "aged 18 29": {
+                "votes": 7529,
+                "rating": 8.2
+            },
+            "aged 30 44": {
+                "votes": 7219,
+                "rating": 7.8
+            },
+            "aged 45 plus": {
+                "votes": 2501,
+                "rating": 7.7
+            },
+            "males": {
+                "votes": 11989,
+                "rating": 7.9
+            },
+            "males aged under 18": {
+                "votes": 35,
+                "rating": 8.3
+            },
+            "males aged 18 29": {
+                "votes": 4725,
+                "rating": 8.2
+            },
+            "males aged 30 44": {
+                "votes": 4752,
+                "rating": 7.7
+            },
+            "males aged 45 plus": {
+                "votes": 1676,
+                "rating": 7.6
+            },
+            "females": {
+                "votes": 6399,
+                "rating": 8.2
+            },
+            "females aged under 18": {
+                "votes": 11,
+                "rating": 9.3
+            },
+            "females aged 18 29": {
+                "votes": 2708,
+                "rating": 8.4
+            },
+            "females aged 30 44": {
+                "votes": 2365,
+                "rating": 8.0
+            },
+            "females aged 45 plus": {
+                "votes": 793,
+                "rating": 7.9
+            },
+            "top 1000 voters": {
+                "votes": 191,
+                "rating": 7.1
+            },
+            "us users": {
+                "votes": 2002,
+                "rating": 7.9
+            },
+            "non us users": {
+                "votes": 11704,
+                "rating": 7.9
+            }
+        },
+        "number of votes": {
+            "10": 4013,
+            "9": 5593,
+            "8": 8056,
+            "7": 4269,
+            "6": 1431,
+            "5": 455,
+            "4": 197,
+            "3": 85,
+            "2": 78,
+            "1": 128
+        },
+        "arithmetic mean": 8.1,
+        "median": 8
+    }
+}

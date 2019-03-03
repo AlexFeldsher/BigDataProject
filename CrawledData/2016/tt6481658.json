@@ -1,0 +1,122 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "10 January 2016"
+            },
+            {
+                "country": "Canada\n",
+                "date": "1 February 2016"
+            }
+        ],
+        "release dates": [
+            "Canada::10 January 2016",
+            "Canada::1 February 2016"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Grizzly Bear Rain Forest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Expedition Earth (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "1 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Take a spectacular journey from Telegraph Cove into the Knight Inlet to the Great Bear Rainforest - a delicate natural habitat where grizzly bears come every year to feed on spawning salmon.    "
+                },
+                "2": {
+                    "title": "The Great Ice Bear",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Expedition Earth (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "7 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Escape to the most remote reaches of Churchill Manitoba. Every October, majestic polar bears make their pilgrimage to the edge of Hudson Bay. There they wait for the ice to freeze so they can use the ice floes to hunt the seal that will sustain them through the year.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "locations": [
+            "Churchill, Manitoba, Canada::(Churchill, Manitoba, Canada)",
+            "Prince Rupert, British Columbia, Canada::(Great Bear Rainforest)"
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "45"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "country codes": [
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYzNmOTg4MDctMTc1OS00MWFmLTgyNzQtOGY2OTczZDQ1MmZiXkEyXkFqcGdeQXVyNDE3MjcxODA@._V1_SY150_CR90,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Expedition Earth",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "akas": [
+            "Expedition Earth (Canada)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Day, Geordie"
+            },
+            {
+                "name": "Lewis, Jason"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Pyramid Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Nat Geo Wild"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "45 min (Canada)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

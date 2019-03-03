@@ -1,0 +1,164 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "France\n",
+                "date": "28 November 2018"
+            },
+            {
+                "country": "Austria\n",
+                "date": "1 December 2018"
+            },
+            {
+                "country": "Germany\n",
+                "date": "1 December 2018"
+            },
+            {
+                "country": "France\n",
+                "date": "1 December 2018"
+            }
+        ],
+        "release dates": [
+            "France::28 November 2018",
+            "Austria::1 December 2018",
+            "Germany::1 December 2018",
+            "France::1 December 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Paroles d'animaux"
+            },
+            {
+                "countries": "Austria",
+                "title": "Die Eloquenz der Tiere"
+            },
+            {
+                "countries": "Germany",
+                "title": "Die Eloquenz der Tiere"
+            }
+        ],
+        "akas": [
+            "Paroles d'animaux (original title)",
+            "Die Eloquenz der Tiere Austria",
+            "Die Eloquenz der Tiere Germany"
+        ],
+        "akas from release info": [
+            "Paroles d'animaux (original title)",
+            "Die Eloquenz der Tiere Austria",
+            "Die Eloquenz der Tiere Germany"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Quand les animaux parlent aux animaux",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paroles d'animaux (TV Mini-Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "28 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Quand les animaux parlent aux humains",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paroles d'animaux (TV Mini-Series 2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "1 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Carlier, Benjamin"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "52"
+        ],
+        "countries": [
+            "France"
+        ],
+        "country codes": [
+            "fr"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "original air date": "28 Nov 2018 (France)",
+        "number of seasons": 1,
+        "languages": [
+            "French"
+        ],
+        "title": "Paroles d'animaux",
+        "year": 2018,
+        "kind": "tv mini series",
+        "series years": "2018-2018",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Matignon, Karine Lou"
+            },
+            {
+                "name": "Matignon, Karine Lou"
+            },
+            {
+                "name": "Auffret, Jérôme-Cecil"
+            }
+        ],
+        "director": [
+            {
+                "name": "Auffret, Jérôme-Cecil"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Via Découvertes Production"
+            },
+            {
+                "name": "ARTE France"
+            },
+            {
+                "name": "CNRS Images"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "ARTE"
+            },
+            {
+                "name": "ARTE"
+            },
+            {
+                "name": "ARTE"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "52 min (2 parts)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

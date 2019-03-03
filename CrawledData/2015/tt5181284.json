@@ -1,0 +1,527 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "3 April 2015"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "25 February 2017",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "UK::3 April 2015",
+            "Netherlands::25 February 2017                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Secrets of Great British Castles"
+            },
+            {
+                "countries": "Spain",
+                "title": "Secrets of Great British Castles"
+            }
+        ],
+        "akas": [
+            "Secrets of Great British Castles (original title)",
+            "Secrets of Great British Castles Spain"
+        ],
+        "akas from release info": [
+            "Secrets of Great British Castles (original title)",
+            "Secrets of Great British Castles Spain"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Edinburgh Castle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secrets of Great British Castles (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 37,
+                    "original air date": "28 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    Historian Dan Jones continues his exploration of the turbulent history of some of Britain's most famous castles, commencing with Edinburgh Castle. He explores the history of the site from the Iron Age up to the present day.    "
+                },
+                "2": {
+                    "title": "Cardiff Castle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secrets of Great British Castles (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 29,
+                    "original air date": "4 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Dan Jones explores the history of the Welsh capital's famous landmark, learning abut the many different incarnations of the castle over time and the many famous figures throughout history who've spent time within its walls.    "
+                },
+                "3": {
+                    "title": "York Castle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secrets of Great British Castles (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 25,
+                    "original air date": "18 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Built on the orders of William the Conquerer, York Castle has housed a regional seat of government, a royal mint and an infamous jail. It was the scene of the worst Jewish pogrom in British history and the martyrdom of Margaret Clitherow.    "
+                },
+                "4": {
+                    "title": "Leeds Castle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secrets of Great British Castles (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 28,
+                    "original air date": "25 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Lancaster Castle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secrets of Great British Castles (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 25,
+                    "original air date": "2 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Arundel Castle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secrets of Great British Castles (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 25,
+                    "original air date": "9 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    Dan concludes the second series with a visit to Arundel Castle in West Sussex, which has been the seat of the Dukes of Norfolk for over 850 years. He gains an insight into how Arundel prepared for the visit of Queen Victoria in 1846.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Dover Castle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secrets of Great British Castles (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 69,
+                    "original air date": "3 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Dan goes behind the battlements of Dover Castle, where he descends into an underground lair to discover how a vast network of tunnels has been used to defend both the castle and the country for centuries.    "
+                },
+                "2": {
+                    "title": "The Tower of London",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secrets of Great British Castles (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 61,
+                    "original air date": "10 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Built by William the Conqueror, the Tower of London has been a military fortress, a palace, a royal mint, a prison, a zoo and a place of execution, a silent witness to some of the most momentous events in our history. Dan Jones reveals some of its secrets and tells the stories of the traitors, rebels and royalty who met their end inside its imposing walls.    "
+                },
+                "3": {
+                    "title": "Warwick Castle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secrets of Great British Castles (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 52,
+                    "original air date": "17 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Today Warwick Castle is a popular tourist attraction, but for centuries its walls echoed with the sounds of betrayal, bloodshed, murder and financial ruin. Dan Jones reveals the turbulent history which took place within the well-preserved walls of this imposing castle and the tales of the earls of Warwick who lived there.    "
+                },
+                "4": {
+                    "title": "Caernarfon Castle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secrets of Great British Castles (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 47,
+                    "original air date": "24 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Historian Dan Jones explores the turbulent history of one of Britain's most famous castles, Caernarfon. Dan is in the heart of Snowdonia exploring a stronghold built not only as an impenetrable fortress but also as a lavish royal palace fit for a fairy tale - Caernarfon Castle.    "
+                },
+                "5": {
+                    "title": "Stirling Castle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secrets of Great British Castles (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 44,
+                    "original air date": "1 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Perched high on a volcanic crag overlooking the River Forth, Stirling has long been one of the most strategically important castles in Britain. Guarding the gateway to the Highlands, its battle-scarred walls have witnessed savagery and chivalry, intrigue, alchemy, adultery and murder. With the aid of location filming, aerial shots and dramatic reconstructions, Dan Jones examines the history of this stronghold and relates the stories of some of the powerful characters who have owned it over the centuries.    "
+                },
+                "6": {
+                    "title": "Carrickfergus Castle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secrets of Great British Castles (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 35,
+                    "original air date": "8 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Dan Jones explores the history of Carrickfergus Castle in Co Antrim, one of the most ancient castles in Northern Ireland and a stronghold key to understanding the tempestuous relationship between Britain and Ireland. Dan travels to Rathlin island, where he reveals how hundreds of women and children were massacred in the name of Elizabeth I, and visits the tomb of former governor Arthur Chichester, who began a new colonization strategy using scorched earth tactics and laid waste to much of the land surrounding the town.    "
+                }
+            }
+        },
+        "number of episodes": 12,
+        "cast": [
+            {
+                "name": "Jones, Dan"
+            },
+            {
+                "name": "Lombardi, Christophe"
+            },
+            {
+                "name": "Dee, Jay"
+            },
+            {
+                "name": "Hutton, Ronald"
+            },
+            {
+                "name": "Morris, Marc"
+            },
+            {
+                "name": "Prior, Stuart"
+            },
+            {
+                "name": "Cusack, Kenneth"
+            },
+            {
+                "name": "Davies, Ciaron"
+            },
+            {
+                "name": "Capwell, Tobias"
+            },
+            {
+                "name": "Selwood, Dominic"
+            },
+            {
+                "name": "Tregorran-Herriett, Colin"
+            },
+            {
+                "name": "Childs, Jessie"
+            },
+            {
+                "name": "Rankin, Boyd"
+            },
+            {
+                "name": "Dempsey, Karen"
+            },
+            {
+                "name": "Collier, Tóla"
+            },
+            {
+                "name": "Davis, Spike"
+            },
+            {
+                "name": "Bonnici, Sabina"
+            },
+            {
+                "name": "Davis, Mark"
+            },
+            {
+                "name": "McDonagh, Edward"
+            },
+            {
+                "name": "McCormick, Andrew"
+            },
+            {
+                "name": "Batts, Kathy"
+            },
+            {
+                "name": "McAllister, Madeleine"
+            },
+            {
+                "name": "Caldwell, David"
+            },
+            {
+                "name": "Norton, Elizabeth"
+            },
+            {
+                "name": "Boreham, Edward"
+            },
+            {
+                "name": "Clément, Nathalie"
+            },
+            {
+                "name": "Greene, Jack"
+            },
+            {
+                "name": "Kenny, Gillian"
+            },
+            {
+                "name": "McCoy, Peter"
+            },
+            {
+                "name": "Ashbee, Jeremy"
+            },
+            {
+                "name": "Lewis, Mary"
+            },
+            {
+                "name": "Penny, Colin"
+            },
+            {
+                "name": "Gladman, Gareth"
+            },
+            {
+                "name": "Kelly, Peter"
+            },
+            {
+                "name": "Marren, Conor"
+            },
+            {
+                "name": "Meltonville, Marc"
+            },
+            {
+                "name": "Bracebridge, George"
+            },
+            {
+                "name": "Crudgington, Tom"
+            },
+            {
+                "name": "Pycroft, Ian"
+            },
+            {
+                "name": "Wickham, Paul"
+            },
+            {
+                "name": "Doran, Susan"
+            },
+            {
+                "name": "Pollard, Alison"
+            },
+            {
+                "name": "Robinson, Wendy"
+            },
+            {
+                "name": "Pattison, Paul"
+            },
+            {
+                "name": "Goodman, Ruth"
+            },
+            {
+                "name": "Minn, Ian"
+            },
+            {
+                "name": "Tabraham, Chris"
+            },
+            {
+                "name": "Blevins, Ross"
+            },
+            {
+                "name": "Cockerill, Sara"
+            },
+            {
+                "name": "Whal, Mandy"
+            }
+        ],
+        "genres": [
+            "Documentary",
+            "History"
+        ],
+        "runtimes": [
+            "45"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Netherlands:9",
+            "Norway:7::(Netflix self-rating)",
+            "Singapore:PG",
+            "South Korea:12",
+            "United States:TV-PG"
+        ],
+        "number of seasons": 2,
+        "rating": 7.9,
+        "votes": 548,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZmVhMzcwZDctMzYxNi00MTMxLTljNWItYTZmZmIzNmJhNGE2XkEyXkFqcGdeQXVyMjU1OTc2MTc@._V1_SY150_CR6,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Secrets of Great British Castles",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Dyke, Vandra"
+            },
+            {
+                "name": "Jones, Dan"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Sideline Productions"
+            },
+            {
+                "name": "GroupM Entertainment"
+            },
+            {
+                "name": "Channel 5 Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Channel 5 Television"
+            },
+            {
+                "name": "Netflix"
+            }
+        ],
+        "plot": [
+            "Historian 'Dan Jones' (qv) explores the millennium of history behind six of Great Britain's most famous castles: Warwick, Dover, Caernarfon, the Tower of London, Carrickfergus, and Stirling."
+        ],
+        "tech": {
+            "runtime": [
+                "45 min (6 episodes)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 548,
+                "rating": 7.9
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 5.0
+            },
+            "aged 18 29": {
+                "votes": 108,
+                "rating": 8.1
+            },
+            "aged 30 44": {
+                "votes": 197,
+                "rating": 7.8
+            },
+            "aged 45 plus": {
+                "votes": 101,
+                "rating": 7.8
+            },
+            "males": {
+                "votes": 269,
+                "rating": 7.8
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 5.0
+            },
+            "males aged 18 29": {
+                "votes": 60,
+                "rating": 7.8
+            },
+            "males aged 30 44": {
+                "votes": 122,
+                "rating": 7.7
+            },
+            "males aged 45 plus": {
+                "votes": 64,
+                "rating": 7.9
+            },
+            "females": {
+                "votes": 166,
+                "rating": 8.1
+            },
+            "females aged 18 29": {
+                "votes": 46,
+                "rating": 8.4
+            },
+            "females aged 30 44": {
+                "votes": 72,
+                "rating": 8.1
+            },
+            "females aged 45 plus": {
+                "votes": 36,
+                "rating": 7.8
+            },
+            "top 1000 voters": {
+                "votes": 21,
+                "rating": 7.7
+            },
+            "us users": {
+                "votes": 100,
+                "rating": 8.0
+            },
+            "non us users": {
+                "votes": 228,
+                "rating": 7.7
+            }
+        },
+        "number of votes": {
+            "10": 99,
+            "9": 90,
+            "8": 194,
+            "7": 107,
+            "6": 36,
+            "5": 7,
+            "4": 8,
+            "3": 2,
+            "2": 3,
+            "1": 2
+        },
+        "arithmetic mean": 8.0,
+        "median": 8
+    }
+}

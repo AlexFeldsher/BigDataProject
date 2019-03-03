@@ -1,0 +1,446 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "6 August 2008"
+            },
+            {
+                "country": "Australia\n",
+                "date": "23 January 2009"
+            }
+        ],
+        "release dates": [
+            "USA::6 August 2008",
+            "Australia::23 January 2009"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "NextWorld"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A jövő világa"
+            },
+            {
+                "countries": "Slovakia",
+                "title": "Svet budúcnosti"
+            },
+            {
+                "countries": "Spain",
+                "title": "El mundo del mañana"
+            }
+        ],
+        "akas": [
+            "NextWorld (original title)",
+            "A jövő világa Hungary",
+            "Svet budúcnosti Slovakia",
+            "El mundo del mañana Spain"
+        ],
+        "akas from release info": [
+            "NextWorld (original title)",
+            "A jövő világa Hungary",
+            "Svet budúcnosti Slovakia",
+            "El mundo del mañana Spain"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Future Life on Earth",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "NextWorld (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 16,
+                    "original air date": "6 Aug. 2008",
+                    "year": "2008",
+                    "plot": "\n    This explores the many ways technology is going to change our lives in the next 30 years. We will build cities that float, commute to work at the touch of a button, fly automated vehicles, and double our lifespans. Meet the scientists and see the technologies that will bring us to the edge of a whole new way of life: NextWorld.    "
+                },
+                "2": {
+                    "title": "Future Intelligence",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "NextWorld (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 17,
+                    "original air date": "30 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    Soon, we will be able to build computers with artificial intelligence and processing power that rivals the human brain. Intelligence will be everywhere, embedded in our clothing, our vehicles and homes. Intelligent robots will serve us - until they don't feel like doing so anymore. And what happens then...?    "
+                },
+                "3": {
+                    "title": "Future Cars",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "NextWorld (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 11,
+                    "original air date": "3 Sep. 2008",
+                    "year": "2008",
+                    "plot": "\n    Future Cars puts you in the driver's seat of super-charged vehicles that can go faster than the speed of sound, morph from a streamlined roadster to a luxury sedan on voice command, and cruise over land or underwater.    "
+                },
+                "4": {
+                    "title": "Extreme Tomorrow",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "NextWorld (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 10,
+                    "original air date": "11 Sep. 2008",
+                    "year": "2008",
+                    "plot": "\n    Venture to the farthest edges of science, where invisibility, teleportation and super-strength will give us seemingly impossible powers and capabilities.    "
+                },
+                "5": {
+                    "title": "Future SuperHuman",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "NextWorld (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 12,
+                    "original air date": "15 Sep. 2008",
+                    "year": "2008",
+                    "plot": "\n    Future Superhuman explores how the coming convergence of bio-engineering, genetics, and microchip informatics will result in a new human body of the future. One that will allow us to grow back limbs, manufacture organs, attain the mental powers of a super-genius and live to 150 and beyond.    "
+                },
+                "6": {
+                    "title": "FutureShips",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "NextWorld (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 8,
+                    "original air date": "18 Sep. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "FutureFlight",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "NextWorld (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 7,
+                    "original air date": "19 Sep. 2008",
+                    "year": "2008",
+                    "plot": "\n    Future Flight explores the world of flying to come, with a look at shape-shifting planes, top-secret military aircraft, jets with self-healing wings, and flying craft based on jellyfish.    "
+                },
+                "8": {
+                    "title": "Future Metro",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "NextWorld (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 8,
+                    "original air date": "13 Feb. 2009",
+                    "year": "2009",
+                    "plot": "\n    Go inside the networked intelligence of tomorrow's urban transportation systems. We'll examine personal rapid transit, stackable cars and underground automated highways.    "
+                },
+                "9": {
+                    "title": "Future Danger",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "NextWorld (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "16 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    The world of tomorrow holds many new dangers that will threaten our lives: population explosion will stretch our natural resources, creating food and water shortages on a global scale; terrorism will reach new levels that will test our security systems like never before; and even technology designed to help us could end up hurting us, when machines reach human intelligence levels and begin to think for themselves. From robot revolutions to asteroid attacks, we'll need a whole new arsenal of smart tools and strategies to battle these deadly threats. Technology is ...    "
+                },
+                "10": {
+                    "title": "Future Trains",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "NextWorld (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 8,
+                    "original air date": "6 Mar. 2009",
+                    "year": "2009",
+                    "plot": "\n    Most people think of the train as a 19th century relic -but for visionaries around the world, the potential of trains is unlimited, and may be the key to solving our most stubborn problems. New designs and technologies will bring us trains that travel at jet speed, that float above tracks made from pure air, and that tunnel right through the planet. Meet the innovators who are creating hydrogen-powered trains, magnetic levitation trains, fluffy tracks, and tubular rails. And in the distant future, you may even ride a gravity train that cuts though the earth to get you...    "
+                },
+                "11": {
+                    "title": "Future Megatropolis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "NextWorld (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "5 Jan. 2009",
+                    "year": "2009",
+                    "plot": "\n    In the future, will the Earth become one giant city? By the year 2050, it's projected that 75% of the population will be living in urban areas. And that number will go up further. But these future megacities will be radically different. They will generate their own power locally, without burning fossil fuels. Sky Farms will feed the urban population. And building surfaces will become digital, becoming a new form of interactive media. Roads and structures will be paved with miniature networked sensors, creating a city alive with computer intelligence. New construction ...    "
+                },
+                "12": {
+                    "title": "Future Radical Vehicles",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "NextWorld (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 8,
+                    "original air date": "20 Mar. 2009",
+                    "year": "2009",
+                    "plot": "\n    The 20th century gave us cars, planes and spaceships. But the next generation of vehicles will defy our expectations in every way. We'll commute to work in boat-cars. Our cars will stretch to fit more people, get 3,000 miles per gallon and protect us from accidents with infrared sensors. Imagine vehicles so fast, the speed limit will become 300 miles per hour. These amazing innovations will even re-define how many wheels we need to stay mobile: four, three, two, one... even none at all. Buckle up - because tomorrow's radical designs will take you on the ride of your ...    "
+                },
+                "13": {
+                    "title": "Future Home",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "NextWorld (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 10,
+                    "original air date": "27 Mar. 2009",
+                    "year": "2009",
+                    "plot": "\n    In the future, technology will transform our homes into dynamic living spaces that adapt to our every need. Intelligent home managers will monitor everything from the children to the morning traffic. The mailbox will screen your incoming packages, and your fridge will reorder its own groceries. You'll never have to worry about cleaning the floors or even cooking a meal, because robots will do it for you. Worried about the environment or economy? Green homes will purify their own air and generate their own power. Future homes will be marvels of design, constantly ...    "
+                },
+                "14": {
+                    "title": "Future Fun",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "NextWorld (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "plot": "\n    The future is going to be fun. An explosion of new forms of entertainment is on the horizon, from virtual vacations to supercharged thrill rides. You'll watch television in three-dimension, or step into a holodeck, where you'll participate in movies alongside digital actors. You'll play games using your brainwaves and step into virtual worlds that will feel just as real as you want them to. But your fun won't only be digital. New technologies will let even ordinary people explore the sea floor or climb the worlds' highest peaks. You'll even be able to check into a ...    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "Body",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "NextWorld (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 15,
+        "cast": [
+            {
+                "name": "Pettit, Mason"
+            },
+            {
+                "name": "Warwick, Kevin"
+            },
+            {
+                "name": "Branson, Richard"
+            },
+            {
+                "name": "de Grey, Aubrey"
+            },
+            {
+                "name": "Carmack, John"
+            },
+            {
+                "name": "Flanagan, John"
+            },
+            {
+                "name": "Ken, Lex"
+            },
+            {
+                "name": "Levine, Joel"
+            },
+            {
+                "name": "Newson, Marc"
+            },
+            {
+                "name": "Raburn, Vern"
+            },
+            {
+                "name": "Searfoss, Rick"
+            },
+            {
+                "name": "Whitehorn, Will"
+            },
+            {
+                "name": "Whitelaw, Granger"
+            },
+            {
+                "name": "Jones, Michael T."
+            },
+            {
+                "name": "Kurzweil, Raymond"
+            },
+            {
+                "name": "Lovegrove, Ross"
+            },
+            {
+                "name": "Penalosa, Enrique"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 8.0,
+        "votes": 79,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMDY3YzQ4Y2YtODU0Zi00YzJlLWEyZjctYWI2OGFkY2Y2NTYzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SY150_CR49,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "NextWorld",
+        "year": 2008,
+        "kind": "tv series",
+        "series years": "2008-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Hirsch, Lee"
+            },
+            {
+                "name": "Kennedy, Bruce"
+            },
+            {
+                "name": "Paragas, Diane"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "CBS News Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Discovery Channel International (DCI)"
+            },
+            {
+                "name": "Discovery Channel"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (including commercials) (USA)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 79,
+                "rating": 8.0
+            },
+            "aged 18 29": {
+                "votes": 16,
+                "rating": 8.2
+            },
+            "aged 30 44": {
+                "votes": 39,
+                "rating": 8.0
+            },
+            "aged 45 plus": {
+                "votes": 13,
+                "rating": 7.5
+            },
+            "males": {
+                "votes": 66,
+                "rating": 7.9
+            },
+            "males aged 18 29": {
+                "votes": 16,
+                "rating": 8.2
+            },
+            "males aged 30 44": {
+                "votes": 37,
+                "rating": 7.9
+            },
+            "males aged 45 plus": {
+                "votes": 12,
+                "rating": 7.7
+            },
+            "females": {
+                "votes": 2,
+                "rating": 8.0
+            },
+            "females aged 30 44": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 45 plus": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "top 1000 voters": {
+                "votes": 6,
+                "rating": 7.2
+            },
+            "us users": {
+                "votes": 11,
+                "rating": 8.6
+            },
+            "non us users": {
+                "votes": 53,
+                "rating": 7.8
+            }
+        },
+        "number of votes": {
+            "10": 27,
+            "9": 11,
+            "8": 12,
+            "7": 15,
+            "6": 5,
+            "5": 3,
+            "4": 2,
+            "3": 3,
+            "2": 0,
+            "1": 1
+        },
+        "arithmetic mean": 8.0,
+        "median": 8
+    }
+}

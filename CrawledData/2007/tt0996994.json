@@ -1,0 +1,528 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "France\n",
+                "date": "22 May 2007",
+                "notes": "                            (Cannes Film Festival)"
+            },
+            {
+                "country": "USA\n",
+                "date": "23 September 2007"
+            },
+            {
+                "country": "Germany\n",
+                "date": "27 February 2009",
+                "notes": "                            (DVD premiere)"
+            }
+        ],
+        "release dates": [
+            "France::22 May 2007                            (Cannes Film Festival)",
+            "USA::23 September 2007",
+            "Germany::27 February 2009                            (DVD premiere)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The War"
+            },
+            {
+                "countries": "Finland",
+                "title": "Amerikkalaiset sodassa"
+            },
+            {
+                "countries": "France",
+                "title": "The War"
+            },
+            {
+                "countries": "Germany",
+                "title": "The War"
+            },
+            {
+                "countries": "Germany",
+                "title": "The War - Die Gesichter des Krieges"
+            },
+            {
+                "countries": "Russia",
+                "title": "Война"
+            },
+            {
+                "countries": "USA",
+                "title": "The War"
+            }
+        ],
+        "akas": [
+            "The War (original title)",
+            "Amerikkalaiset sodassa Finland",
+            "The War France",
+            "The War Germany",
+            "The War - Die Gesichter des Krieges Germany",
+            "Война Russia",
+            "The War USA"
+        ],
+        "akas from release info": [
+            "The War (original title)",
+            "Amerikkalaiset sodassa Finland",
+            "The War France",
+            "The War Germany",
+            "The War - Die Gesichter des Krieges Germany",
+            "Война Russia",
+            "The War USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "A Necessary War: December 1941 - December 1942",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The War (TV Mini-Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 135,
+                    "original air date": "23 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    This series profiles World War II as seen primarily through the eyes of people living in just four U.S. Cities. This episode details an antebellum period before the attack on Pearl Harbor, that attack, the fall of the Phillipines, the Bataan Death March and the fighting at Guadalcanal.    "
+                },
+                "2": {
+                    "title": "When Things Get Tough: January 1943 - December 1943",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The War (TV Mini-Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 115,
+                    "original air date": "24 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    Americans mobilize for total war at home and overseas. Factories hum around the clock, while in North Africa and then Italy, inexperienced GIs learn how to fight. Meanwhile, in the skies over Europe, thousands of American airmen gamble their lives against preposterous odds on daylight bombing missions.    "
+                },
+                "3": {
+                    "title": "A Deadly Calling: November 1943 - June 1944",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The War (TV Mini-Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 110,
+                    "original air date": "25 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    Americans are shocked by terrible losses on the Pacific atoll of Tarawa, while in Italy Allied forces are stalled for months at Monte Cassino and a risky landing at Anzio fails utterly. At home, as overcrowded \"war towns\" boom, economic transformation leads to confrontation and ugly racial violence.    "
+                },
+                "4": {
+                    "title": "Pride of Our Nation: June 1944 - August 1944",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The War (TV Mini-Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 112,
+                    "original air date": "26 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    On June 6, 1944, D-Day, 1.5 million Allied troops take part in the greatest invasion in history, but then bog down in the Norman hedgerows for weeks. Saipan proves the costliest Pacific battle to date, while back home dreaded telegrams from the War Department begin arriving at an inconceivable rate.    "
+                },
+                "5": {
+                    "title": "FUBAR: September 1944 - December 1944",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The War (TV Mini-Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 102,
+                    "original air date": "30 Sep. 2007",
+                    "year": "2007",
+                    "plot": "\n    Victory in Europe seems imminent, but in Holland, the Vosges Mountains, and the Hurtgen Forest, GIs learn painful lessons as old as war itself--that generals make plans, plans go wrong and soldiers die. Meanwhile, on the island of Peleliu, the Marines fight one of the most brutal, and unnecessary, battles of the Pacific.    "
+                },
+                "6": {
+                    "title": "The Ghost Front: December 1944 - March 1945",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The War (TV Mini-Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 101,
+                    "original air date": "1 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n    Americans are shocked by Hitler's massive counterattack in the Ardennes Forest--but by mid March, 1945, they are across the Rhine, while the Russians are 50 miles from Berlin. In the Pacific, after weeks of desperate fighting, Iwo Jima is secured, and American bombers begin a full-fledged air assault on Japan.    "
+                },
+                "7": {
+                    "title": "A World Without War: March 1945 - September 1945",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The War (TV Mini-Series 2007)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 98,
+                    "original air date": "2 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n    A few weeks after the death of President Roosevelt shocks the country, Germany surrenders. Meanwhile, American sailors, soldiers and Marines endure the worst battle of the Pacific--Okinawa. In August, American planes drop atomic bombs on Hiroshima and Nagasaki, and the Japanese, too, surrender. Millions return home--to try to learn how to live in a world without war.    "
+                }
+            }
+        },
+        "number of episodes": 7,
+        "cast": [
+            {
+                "name": "David, Keith"
+            },
+            {
+                "name": "Phillips, Katharine"
+            },
+            {
+                "name": "Hanks, Tom"
+            },
+            {
+                "name": "Fussell, Paul"
+            },
+            {
+                "name": "Aanenson, Quentin"
+            },
+            {
+                "name": "Wilson, Burt"
+            },
+            {
+                "name": "Weinzheimer, Sascha"
+            },
+            {
+                "name": "Hynes, Sam"
+            },
+            {
+                "name": "Inouye, Daniel"
+            },
+            {
+                "name": "Holtz, Rebecca"
+            },
+            {
+                "name": "Frazier, Glenn D."
+            },
+            {
+                "name": "Pelcher, Emma Belle"
+            },
+            {
+                "name": "Ciarlo, Olga"
+            },
+            {
+                "name": "Bell, Maurice"
+            },
+            {
+                "name": "Luce, Dwain"
+            },
+            {
+                "name": "Gray, John"
+            },
+            {
+                "name": "Phillips, Sidney"
+            },
+            {
+                "name": "Satow, Susumu"
+            },
+            {
+                "name": "Sherman, Jim"
+            },
+            {
+                "name": "Kashiwagi, Robert"
+            },
+            {
+                "name": "Conway, Kevin"
+            },
+            {
+                "name": "Miller, Burnett"
+            },
+            {
+                "name": "Leopold, Ray"
+            },
+            {
+                "name": "Burke, Earl"
+            },
+            {
+                "name": "Tokuno, Asako"
+            },
+            {
+                "name": "Galloway, Tom"
+            },
+            {
+                "name": "Greer, Jackie"
+            },
+            {
+                "name": "Lucas, Josh"
+            },
+            {
+                "name": "Vaghi, Joseph"
+            },
+            {
+                "name": "Odum, Clyde"
+            },
+            {
+                "name": "Chamberlin, Ward"
+            },
+            {
+                "name": "Pittman, Ray"
+            },
+            {
+                "name": "Lewis, Emily"
+            },
+            {
+                "name": "Goldberg, Leo"
+            },
+            {
+                "name": "Covington, Barbara"
+            },
+            {
+                "name": "Perkins, William"
+            },
+            {
+                "name": "Rushton, Willie"
+            },
+            {
+                "name": "Tokuno, Tim"
+            },
+            {
+                "name": "Thompson, Walter"
+            },
+            {
+                "name": "DeVico, Anne"
+            },
+            {
+                "name": "Arias, Pete"
+            },
+            {
+                "name": "Arkin, Adam"
+            },
+            {
+                "name": "Jackson, Samuel L."
+            },
+            {
+                "name": "Cannavale, Bobby"
+            },
+            {
+                "name": "Franklin, John Hope"
+            },
+            {
+                "name": "Mann, Charles"
+            },
+            {
+                "name": "Schmid, Harry"
+            },
+            {
+                "name": "Ehlers, Walter"
+            },
+            {
+                "name": "Inge, Herndon"
+            },
+            {
+                "name": "Silva, Dolores"
+            }
+        ],
+        "locations": [
+            "Sacramento, California, USA",
+            "Luverne, Minnesota, USA",
+            "Mobile, Alabama, USA",
+            "Waterbury, Connecticut, USA"
+        ],
+        "genres": [
+            "Documentary",
+            "History",
+            "War"
+        ],
+        "runtimes": [
+            "124"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Singapore:PG13",
+            "South Korea:18",
+            "United States:TV-14"
+        ],
+        "original air date": "23 Sep 2007 (USA)",
+        "number of seasons": 1,
+        "rating": 9.1,
+        "votes": 3887,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTUzOTgzMzEzMF5BMl5BanBnXkFtZTgwMjIxNTcwMzE@._V1_SY150_CR38,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The War",
+        "year": 2007,
+        "kind": "tv mini series",
+        "series years": "2007-2007",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Ward, Geoffrey C."
+            }
+        ],
+        "director": [
+            {
+                "name": "Burns, Ken"
+            },
+            {
+                "name": "Novick, Lynn"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Florentine Films"
+            },
+            {
+                "name": "WETA"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "PBS Distribution"
+            },
+            {
+                "name": "PBS International"
+            },
+            {
+                "name": "Polyband"
+            },
+            {
+                "name": "Public Broadcasting Service (PBS)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Arthur Vining Davis Foundations"
+            },
+            {
+                "name": "Bank of America"
+            },
+            {
+                "name": "Corporation for Public Broadcasting (CPB)"
+            },
+            {
+                "name": "General Motors Corporation"
+            },
+            {
+                "name": "Lilly Endowment"
+            },
+            {
+                "name": "Park Foundation"
+            },
+            {
+                "name": "Pew Charitable Trust"
+            },
+            {
+                "name": "Public Broadcasting Service (PBS)"
+            },
+            {
+                "name": "The Longaberger Foundation"
+            },
+            {
+                "name": "The National Endowment for the Humanities"
+            }
+        ],
+        "plot": [
+            "A seven-part series focusing on the many ways in which the Second World War impacted the lives of American families.::IMDb editor"
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr 4 min (124 min) (7 parts) (France)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3887,
+                "rating": 9.1
+            },
+            "aged 18 29": {
+                "votes": 408,
+                "rating": 9.1
+            },
+            "aged 30 44": {
+                "votes": 1512,
+                "rating": 9.1
+            },
+            "aged 45 plus": {
+                "votes": 1163,
+                "rating": 9.0
+            },
+            "males": {
+                "votes": 2787,
+                "rating": 9.0
+            },
+            "males aged 18 29": {
+                "votes": 365,
+                "rating": 9.1
+            },
+            "males aged 30 44": {
+                "votes": 1334,
+                "rating": 9.1
+            },
+            "males aged 45 plus": {
+                "votes": 996,
+                "rating": 9.0
+            },
+            "females": {
+                "votes": 362,
+                "rating": 9.3
+            },
+            "females aged 18 29": {
+                "votes": 37,
+                "rating": 8.7
+            },
+            "females aged 30 44": {
+                "votes": 162,
+                "rating": 9.3
+            },
+            "females aged 45 plus": {
+                "votes": 151,
+                "rating": 9.4
+            },
+            "top 1000 voters": {
+                "votes": 101,
+                "rating": 7.8
+            },
+            "us users": {
+                "votes": 1893,
+                "rating": 9.2
+            },
+            "non us users": {
+                "votes": 909,
+                "rating": 8.8
+            }
+        },
+        "number of votes": {
+            "10": 1939,
+            "9": 1034,
+            "8": 494,
+            "7": 167,
+            "6": 82,
+            "5": 45,
+            "4": 26,
+            "3": 14,
+            "2": 10,
+            "1": 76
+        },
+        "arithmetic mean": 8.9,
+        "median": 9
+    }
+}

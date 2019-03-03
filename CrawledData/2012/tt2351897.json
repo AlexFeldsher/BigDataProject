@@ -1,0 +1,202 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "12 March 2012"
+            },
+            {
+                "country": "UK\n",
+                "date": "19 March 2012"
+            }
+        ],
+        "release dates": [
+            "UK::12 March 2012",
+            "UK::19 March 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "China: Triumph and Turmoil"
+            },
+            {
+                "countries": "Brazil",
+                "title": "China: Triunfo e Tumulto"
+            },
+            {
+                "countries": "Greece",
+                "title": "Καπιταλισμός και κομμουνισμός, μια σύζευξη"
+            },
+            {
+                "countries": "Ukraine",
+                "title": "Китай: Трiумф i потрясiння"
+            }
+        ],
+        "akas": [
+            "China: Triumph and Turmoil (original title)",
+            "China: Triunfo e Tumulto Brazil",
+            "Καπιταλισμός και κομμουνισμός, μια σύζευξη Greece",
+            "Китай: Трiумф i потрясiння Ukraine"
+        ],
+        "akas from release info": [
+            "China: Triumph and Turmoil (original title)",
+            "China: Triunfo e Tumulto Brazil",
+            "Καπιταλισμός και κομμουνισμός, μια σύζευξη Greece",
+            "Китай: Трiумф i потрясiння Ukraine"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Emperors",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "China: Triumph and Turmoil (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "12 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Maostalgia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "China: Triumph and Turmoil (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "19 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Superpower",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "China: Triumph and Turmoil (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "26 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "genres": [
+            "Documentary"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 7.1,
+        "votes": 37,
+        "languages": [
+            "English"
+        ],
+        "title": "China: Triumph and Turmoil",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Chimerica Media"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 37,
+                "rating": 7.1
+            },
+            "aged 18 29": {
+                "votes": 5,
+                "rating": 7.3
+            },
+            "aged 30 44": {
+                "votes": 18,
+                "rating": 7.2
+            },
+            "aged 45 plus": {
+                "votes": 9,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 29,
+                "rating": 7.2
+            },
+            "males aged 18 29": {
+                "votes": 5,
+                "rating": 7.3
+            },
+            "males aged 30 44": {
+                "votes": 15,
+                "rating": 7.2
+            },
+            "males aged 45 plus": {
+                "votes": 8,
+                "rating": 7.4
+            },
+            "females": {
+                "votes": 4,
+                "rating": 7.8
+            },
+            "females aged 30 44": {
+                "votes": 3,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "top 1000 voters": {
+                "votes": 2,
+                "rating": 7.0
+            },
+            "us users": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "non us users": {
+                "votes": 26,
+                "rating": 7.4
+            }
+        },
+        "number of votes": {
+            "10": 4,
+            "9": 5,
+            "8": 7,
+            "7": 11,
+            "6": 4,
+            "5": 4,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 2
+        },
+        "arithmetic mean": 7.1,
+        "median": 7
+    }
+}

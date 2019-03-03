@@ -1,0 +1,390 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "  2017"
+            },
+            {
+                "country": "Ireland\n",
+                "date": "24 May 2017"
+            },
+            {
+                "country": "UK\n",
+                "date": "25 May 2017"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "20 July 2017",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "17 August 2017"
+            }
+        ],
+        "release dates": [
+            "UK::2017",
+            "Ireland::24 May 2017",
+            "UK::25 May 2017",
+            "Netherlands::20 July 2017                            (limited)",
+            "Sweden::17 August 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Paula"
+            },
+            {
+                "countries": "Russia",
+                "title": "Паула"
+            },
+            {
+                "countries": "USA",
+                "title": "Paula"
+            }
+        ],
+        "akas": [
+            "Paula (original title)",
+            "Паула Russia",
+            "Paula USA"
+        ],
+        "akas from release info": [
+            "Paula (original title)",
+            "Паула Russia",
+            "Paula USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paula (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 69,
+                    "original air date": "25 May 2017",
+                    "year": "2017",
+                    "plot": "\n    Paula and James are world's apart. She's a respected teacher, he does odd jobs. The two come together when Paula hires him to get rid of the rats in her basement, leading to a one-night-stand.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paula (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 57,
+                    "original air date": "1 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    Struggling to come to terms with Philip's death, Paula suspects James was involved and enlists the aid of Mac. After Crystal and Morgan fight James goes on the run.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Paula (TV Mini-Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 58,
+                    "original air date": "8 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    As Mac tries to recover from the attack he continues to probe James' past. Paula faces the possibility that Callum may never recover and she is haunted by the danger James poses.    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Gough, Denise"
+            },
+            {
+                "name": "Hughes, Tom"
+            },
+            {
+                "name": "Cullen, Siobhán"
+            },
+            {
+                "name": "McGinley, Sean"
+            },
+            {
+                "name": "McGinnity, Aoibhinn"
+            },
+            {
+                "name": "Brennan, Jane"
+            },
+            {
+                "name": "McDonnell, Owen"
+            },
+            {
+                "name": "Taaffe, Emily"
+            },
+            {
+                "name": "Holden, Jonny"
+            },
+            {
+                "name": "Metcalfe, Amelie"
+            },
+            {
+                "name": "Herlihy, David"
+            },
+            {
+                "name": "MacLiam, Edward"
+            },
+            {
+                "name": "McMenamin, Ciarán"
+            },
+            {
+                "name": "McGuckin, Aislín"
+            },
+            {
+                "name": "Dowling, Rachael"
+            },
+            {
+                "name": "Maguire, Marty"
+            },
+            {
+                "name": "Breen, Dylan"
+            },
+            {
+                "name": "McClenaghan, Skye"
+            },
+            {
+                "name": "Feron, Olivia"
+            },
+            {
+                "name": "Carroll, Una"
+            },
+            {
+                "name": "Lilburn, Gary"
+            },
+            {
+                "name": "Pearse, David"
+            },
+            {
+                "name": "Crotty, Derbhle"
+            },
+            {
+                "name": "Crawford, Joanne"
+            },
+            {
+                "name": "Lynch, Aaron"
+            },
+            {
+                "name": "Bruce, Aoibhe"
+            },
+            {
+                "name": "Dearden, Julia"
+            },
+            {
+                "name": "Ford, Alexandra"
+            },
+            {
+                "name": "McClelland, Rosie"
+            },
+            {
+                "name": "Livingstone, Conn"
+            },
+            {
+                "name": "Yare, Michael"
+            },
+            {
+                "name": "FitzSymons, Patrick"
+            },
+            {
+                "name": "Harris, Chrissie"
+            },
+            {
+                "name": "Kinkead, Christopher"
+            },
+            {
+                "name": "Quigley, Mark"
+            }
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Ireland:18",
+            "Norway:15::(TV rating)",
+            "United Kingdom:18"
+        ],
+        "original air date": "2017 (UK)",
+        "number of seasons": 1,
+        "rating": 6.3,
+        "votes": 1072,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYmEyNDA4OTgtYjAwMS00MGI5LWFlYzAtMDM4MzY2NjY4MWY3XkEyXkFqcGdeQXVyMjExMjk0ODk@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "The fallout in a young chemistry teacher's life, after her one-night stand with a good-looking but dangerous ducker and diver. There is an instant, animalistic, spark of attraction before they become locked in a dance of mutual destruction. Only one can survive, but their actions will take a terrifying toll on all those around them.",
+        "languages": [
+            "English"
+        ],
+        "title": "Paula",
+        "year": 2017,
+        "kind": "tv mini series",
+        "series years": "2017-2017",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "McPherson, Conor"
+            }
+        ],
+        "director": [
+            {
+                "name": "Holmes, Alex"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "BBC Northern Ireland Drama Productions"
+            },
+            {
+                "name": "Cuba Pictures"
+            },
+            {
+                "name": "Northern Ireland Screen"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Raidió Teilifís Éireann (RTÉ)"
+            },
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "BBC First"
+            }
+        ],
+        "plot": [
+            "The fallout in a chemistry teacher's life after her one-night stand with a good-looking but dangerous ducker and diver.",
+            "The fallout in a young chemistry teacher's life, after her one-night stand with a good-looking but dangerous ducker and diver. There is an instant, animalistic, spark of attraction before they become locked in a dance of mutual destruction. Only one can survive, but their actions will take a terrifying toll on all those around them.::BBC Two"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1072,
+                "rating": 6.3
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 6.5
+            },
+            "aged 18 29": {
+                "votes": 102,
+                "rating": 6.2
+            },
+            "aged 30 44": {
+                "votes": 319,
+                "rating": 6.1
+            },
+            "aged 45 plus": {
+                "votes": 340,
+                "rating": 6.4
+            },
+            "males": {
+                "votes": 443,
+                "rating": 6.3
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "males aged 18 29": {
+                "votes": 43,
+                "rating": 6.1
+            },
+            "males aged 30 44": {
+                "votes": 156,
+                "rating": 6.1
+            },
+            "males aged 45 plus": {
+                "votes": 218,
+                "rating": 6.5
+            },
+            "females": {
+                "votes": 365,
+                "rating": 6.2
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 5.0
+            },
+            "females aged 18 29": {
+                "votes": 59,
+                "rating": 6.1
+            },
+            "females aged 30 44": {
+                "votes": 151,
+                "rating": 6.1
+            },
+            "females aged 45 plus": {
+                "votes": 116,
+                "rating": 6.3
+            },
+            "top 1000 voters": {
+                "votes": 38,
+                "rating": 6.1
+            },
+            "us users": {
+                "votes": 71,
+                "rating": 6.4
+            },
+            "non us users": {
+                "votes": 547,
+                "rating": 6.2
+            }
+        },
+        "number of votes": {
+            "10": 71,
+            "9": 66,
+            "8": 160,
+            "7": 247,
+            "6": 228,
+            "5": 125,
+            "4": 69,
+            "3": 23,
+            "2": 30,
+            "1": 53
+        },
+        "arithmetic mean": 6.3,
+        "median": 7
+    }
+}

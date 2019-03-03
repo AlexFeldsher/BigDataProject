@@ -1,0 +1,495 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "12 October 2008"
+            },
+            {
+                "country": "Germany\n",
+                "date": "1 July 2009"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "19 July 2009"
+            },
+            {
+                "country": "Australia\n",
+                "date": "9 August 2009"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "15 December 2009"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "8 July 2012"
+            }
+        ],
+        "release dates": [
+            "UK::12 October 2008",
+            "Germany::1 July 2009",
+            "Netherlands::19 July 2009",
+            "Australia::9 August 2009",
+            "Belgium::15 December 2009",
+            "Sweden::8 July 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Stephen Fry in America"
+            },
+            {
+                "countries": "Finland",
+                "title": "Matka halki USA:n"
+            },
+            {
+                "countries": "Germany",
+                "title": "Stephen Fry in Amerika"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Amerika, egy angol szemével"
+            },
+            {
+                "countries": "Russia",
+                "title": "Стивен Фрай в Америке"
+            }
+        ],
+        "akas": [
+            "Stephen Fry in America (original title)",
+            "Matka halki USA:n Finland",
+            "Stephen Fry in Amerika Germany",
+            "Amerika, egy angol szemével Hungary",
+            "Стивен Фрай в Америке Russia"
+        ],
+        "akas from release info": [
+            "Stephen Fry in America (original title)",
+            "Matka halki USA:n Finland",
+            "Stephen Fry in Amerika Germany",
+            "Amerika, egy angol szemével Hungary",
+            "Стивен Фрай в Америке Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "New World",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stephen Fry in America (TV Mini-Series 2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 66,
+                    "original air date": "12 Oct. 2008",
+                    "year": "2008",
+                    "plot": "\n    Erudite British actor and stand-up comedian Stephen Fry starts his idiosyncratic tour of the USA like mainstream immigration and pioneering, on the East Coast, in New York. He tastes both the capital Washington D.C. and the Yankee countryside. He searches for vestiges of the Civil War but also meets Jimmy Wales, founder of Wikipedia and similar worldwide-user-run websites.    "
+                },
+                "2": {
+                    "title": "Deep South",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stephen Fry in America (TV Mini-Series 2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 60,
+                    "original air date": "19 Oct. 2008",
+                    "year": "2008",
+                    "plot": "\n    Stephen visits the US region most appealing to him, traditional Dixieland south of the Mason Dixie line, which he physically finds between Pennsylvania and Virginia. In the Virgianias he visits the coal mines which power half of US electric current. In Kentucky, horse breeding, whiskey distilling and Bluegrass, also the link to Tennessee and an angle to break his British tongue on the Dixie accent. Forensics for real prove gruesome. Trough Smokey Mountains into the Carolinas, for a balloon flight and Southern hospitality in Georgia. South of Dixie to 'Yankee-like' ...    "
+                },
+                "3": {
+                    "title": "Mississippi",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stephen Fry in America (TV Mini-Series 2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 49,
+                    "original air date": "26 Oct. 2008",
+                    "year": "2008",
+                    "plot": "\n    Stephen travels through the basin of Old Man River, Northern America's greatest. This spans the Rockies to Appalachians and from the Great Lake to its Gulf of Mexico delta. Stephen starts in Louisiana, visiting New Orleans, site of Mardi Grass frivolity and superstition as well as the paternalistic Angola state penitentiary. Meditations about river-love, the restless nature of the American dream and immigration alter with visits to towns and cities in the vast Midwest plains and Minnesota sources. Included are the San Louis homeless, Vedic 'trans-meditational yoga' ...    "
+                },
+                "4": {
+                    "title": "Mountains and Plains",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stephen Fry in America (TV Mini-Series 2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 46,
+                    "original air date": "2 Nov. 2008",
+                    "year": "2008",
+                    "plot": "\n    Steven explores from Canadian to Mexican border the spine of North America: the Rocky Mountains, which also constitute the continental divide between river systems flowing West to the Pacific or east, to the Atlantic, where he also visits the prairie plains. Stops include nature reserves and media magnate Ted Turner's bison farming as well as the German immigrants in North Dakota, a virtual ghost town, Texan socialites at a Houston benefit dinner.    "
+                },
+                "5": {
+                    "title": "True West",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stephen Fry in America (TV Mini-Series 2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 50,
+                    "original air date": "24 Feb. 2009",
+                    "year": "2009",
+                    "plot": "\n    On a tour of the Southwestern US, Stephen Fry visits Los Alamos National Lab, speaks with architect Michael Reynolds, dines with a Navajo family, attends a Mormon calendar shoot, and learns about legal prostitution.    "
+                },
+                "6": {
+                    "title": "Pacific",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Stephen Fry in America (TV Mini-Series 2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 46,
+                    "original air date": "16 Nov. 2008",
+                    "year": "2008",
+                    "plot": "\n    In California, Steven adores the old-new and social melting pot San Francisco. In the same state, which would be the world's 7th economy, stops include marijuana growing and bust, a forest reserve, as in Oregon. In Washington, innovative Seattle and a seal care center, end of the London cab's tour of 48 contiguous states. In Alaska, the northernmost and largest, the stories of sea otters, natives, Russian orthodox missionaries. On Hawaii, the southernmost and youngest state, a real P.I., Polynesians, shark cage swimming, astronomy and the 29 volcanic islands.    "
+                }
+            }
+        },
+        "number of episodes": 6,
+        "cast": [
+            {
+                "name": "Fry, Stephen"
+            },
+            {
+                "name": "Means, Russell"
+            },
+            {
+                "name": "Turner, Ted"
+            },
+            {
+                "name": "Allman, Tom"
+            },
+            {
+                "name": "Austin, Susan"
+            },
+            {
+                "name": "Biern, Bari"
+            },
+            {
+                "name": "Horse, Rob Big"
+            },
+            {
+                "name": "Cabot, Laurie"
+            },
+            {
+                "name": "Cain, Burl"
+            },
+            {
+                "name": "Charles, Oatsie"
+            },
+            {
+                "name": "Compton, Mike"
+            },
+            {
+                "name": "Cordero, Ramiro"
+            },
+            {
+                "name": "del Papa, Bob"
+            },
+            {
+                "name": "Faber, Daniel"
+            },
+            {
+                "name": "Filippenko, Alex"
+            },
+            {
+                "name": "Freeman, Morgan"
+            },
+            {
+                "name": "Getty, Jim"
+            },
+            {
+                "name": "Glassman, Sally Ann"
+            },
+            {
+                "name": "Gomes, Peter J."
+            },
+            {
+                "name": "Guy, Buddy"
+            },
+            {
+                "name": "Hodge, Shelby"
+            },
+            {
+                "name": "Isaiah"
+            },
+            {
+                "name": "Ive, Jonathan"
+            },
+            {
+                "name": "Jensen, Brenda"
+            },
+            {
+                "name": "Johnson, Matt"
+            },
+            {
+                "name": "King, Carmen"
+            },
+            {
+                "name": "Kinimaka, Titus"
+            },
+            {
+                "name": "Lesmeister, Tim"
+            },
+            {
+                "name": "Manoogian, John"
+            },
+            {
+                "name": "McPhail, Angus"
+            },
+            {
+                "name": "Morris, Chris"
+            },
+            {
+                "name": "Moua, Mee"
+            },
+            {
+                "name": "Pavsek, Joe"
+            },
+            {
+                "name": "Peden, Diana"
+            },
+            {
+                "name": "Peden, Ed"
+            },
+            {
+                "name": "Pennington, Terry"
+            },
+            {
+                "name": "Reynolds, Michael"
+            },
+            {
+                "name": "Robinson, Lee"
+            },
+            {
+                "name": "Romney, Mitt"
+            },
+            {
+                "name": "Ruskie, John"
+            },
+            {
+                "name": "Singleton-Prather, Anita"
+            },
+            {
+                "name": "Snell, Christoph"
+            },
+            {
+                "name": "Sting"
+            },
+            {
+                "name": "Travis, Fred"
+            },
+            {
+                "name": "Van Meter, Griff"
+            },
+            {
+                "name": "Van Meter, Tom"
+            },
+            {
+                "name": "Wales, Jimmy"
+            },
+            {
+                "name": "Wallace, Terry"
+            },
+            {
+                "name": "Weatherly, Velinda"
+            },
+            {
+                "name": "Weeks, Hannah"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Australia:PG::(some episodes)",
+            "Australia:M::(some episodes)",
+            "Netherlands:9"
+        ],
+        "original air date": "12 Oct 2008 (UK)",
+        "number of seasons": 1,
+        "rating": 8.0,
+        "votes": 1548,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTQ1OTEyNTI3Nl5BMl5BanBnXkFtZTcwMjE0NDAwMg@@._V1_SY150_CR3,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Stephen Fry in America",
+        "year": 2008,
+        "kind": "tv mini series",
+        "series years": "2008-2008",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Fry, Stephen"
+            }
+        ],
+        "director": [
+            {
+                "name": "Davidson, John-Paul"
+            },
+            {
+                "name": "Waldman, Michael"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Sprout Pictures"
+            },
+            {
+                "name": "West Park Pictures"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "Australian Broadcasting Corporation (ABC)"
+            },
+            {
+                "name": "Digital Classics"
+            },
+            {
+                "name": "Eén"
+            },
+            {
+                "name": "RTL Living"
+            },
+            {
+                "name": "Vrijzinnig Protestantse Radio Omroep (VPRO)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Access Bookings"
+            },
+            {
+                "name": "Aimimage / Ice Film"
+            },
+            {
+                "name": "Framestore"
+            },
+            {
+                "name": "HireWorks"
+            }
+        ],
+        "plot": [
+            "English actor-comedian Stephen Fry travels through the US regions by London cab.::KGF Vissers"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1548,
+                "rating": 8.0
+            },
+            "aged 18 29": {
+                "votes": 303,
+                "rating": 8.1
+            },
+            "aged 30 44": {
+                "votes": 704,
+                "rating": 8.0
+            },
+            "aged 45 plus": {
+                "votes": 267,
+                "rating": 7.7
+            },
+            "males": {
+                "votes": 1014,
+                "rating": 8.0
+            },
+            "males aged 18 29": {
+                "votes": 240,
+                "rating": 8.2
+            },
+            "males aged 30 44": {
+                "votes": 533,
+                "rating": 8.1
+            },
+            "males aged 45 plus": {
+                "votes": 207,
+                "rating": 7.6
+            },
+            "females": {
+                "votes": 285,
+                "rating": 7.9
+            },
+            "females aged 18 29": {
+                "votes": 61,
+                "rating": 7.9
+            },
+            "females aged 30 44": {
+                "votes": 161,
+                "rating": 7.9
+            },
+            "females aged 45 plus": {
+                "votes": 57,
+                "rating": 8.0
+            },
+            "top 1000 voters": {
+                "votes": 42,
+                "rating": 7.1
+            },
+            "us users": {
+                "votes": 354,
+                "rating": 7.8
+            },
+            "non us users": {
+                "votes": 802,
+                "rating": 8.0
+            }
+        },
+        "number of votes": {
+            "10": 275,
+            "9": 307,
+            "8": 545,
+            "7": 244,
+            "6": 104,
+            "5": 27,
+            "4": 10,
+            "3": 11,
+            "2": 6,
+            "1": 19
+        },
+        "arithmetic mean": 8.0,
+        "median": 8
+    }
+}

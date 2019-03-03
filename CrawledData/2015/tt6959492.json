@@ -1,0 +1,488 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Australia\n",
+                "date": "1 June 2015"
+            },
+            {
+                "country": "Australia\n",
+                "date": "3 June 2015"
+            }
+        ],
+        "release dates": [
+            "Australia::1 June 2015",
+            "Australia::3 June 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Emma!"
+            },
+            {
+                "countries": "Australia (alternative title)",
+                "title": "The Wiggles: Emma!"
+            },
+            {
+                "countries": " (working title)",
+                "title": "The Wiggles, Emma!"
+            }
+        ],
+        "akas": [
+            "Emma! (original title)",
+            "The Wiggles: Emma! Australia (alternative title)",
+            "The Wiggles, Emma! (working title)"
+        ],
+        "akas from release info": [
+            "Emma! (original title)",
+            "The Wiggles: Emma! Australia (alternative title)",
+            "The Wiggles, Emma! (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Ballerina, Ballerina",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "3 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "ABC",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "4 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Sur Le Pont D'Avignon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "2 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Brush Your Pet's Hair",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "5 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Miss Polly Had a Dolly",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "6 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Say the Dance, Do the Dance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "25 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Balla Balla Bambina",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "7 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "I'll Tell Me Ma When I Go Home",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "8 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "Rock-a-Bye Your Bear",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "9 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "This Little Piggy Went to Market",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "original air date": "10 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "11": {
+                    "title": "Frére Jacques",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "11 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "Stille Nacht",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "12 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "13": {
+                    "title": "Emma's Country Garden",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "original air date": "13 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "14": {
+                    "title": "Michaud",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "original air date": "14 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "15": {
+                    "title": "I Love It When It Rains",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "original air date": "15 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "16": {
+                    "title": "Open, Shut Them",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "original air date": "16 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "17": {
+                    "title": "Emma's Di Dicki Do Dum",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "original air date": "17 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "18": {
+                    "title": "Where Is Thumbkin?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "original air date": "18 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "19": {
+                    "title": "Incy Wincy Spider",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "original air date": "19 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "20": {
+                    "title": "The Giraffe",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "original air date": "20 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "21": {
+                    "title": "Twinkling Star",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "original air date": "21 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "22": {
+                    "title": "Two Polite Gentlemen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "original air date": "22 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "23": {
+                    "title": "Galloping Ballet",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 23,
+                    "original air date": "23 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "24": {
+                    "title": "Emma with the Bow in Her Hair",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 24,
+                    "original air date": "24 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "25": {
+                    "title": "The Corroboree Frog",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 25,
+                    "original air date": "1 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "26": {
+                    "title": "La, La, La Lilou",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 26,
+                    "original air date": "26 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "27": {
+                    "title": "I've Got My Glasses On",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 27,
+                    "original air date": "27 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "28": {
+                    "title": "Take a Trip Out on the Sea",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 28,
+                    "original air date": "28 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "29": {
+                    "title": "Je Suis Danseuse",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 29,
+                    "original air date": "29 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "30": {
+                    "title": "I Like Goats",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Emma! (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 30,
+                    "original air date": "30 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 30,
+        "cast": [
+            {
+                "name": "Watkins, Emma"
+            }
+        ],
+        "genres": [
+            "Family",
+            "Music"
+        ],
+        "runtimes": [
+            "3"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "country codes": [
+            "au"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Australia:G",
+            "Singapore:G"
+        ],
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOGU0YTFlZWQtMjU2MC00ODcyLTg2ZTQtMmViOTZhMDE4ZDIyXkEyXkFqcGdeQXVyNzI0NjYyNzY@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Emma!",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-2015",
+        "seasons": [
+            "1"
+        ],
+        "plot": [
+            "The '_Emma!_ (qv)' TV Series is a series of episodes of Emma solo."
+        ],
+        "tech": {
+            "runtime": [
+                "3 min (Australia)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

@@ -1,0 +1,544 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2016"
+            },
+            {
+                "country": "Canada\n",
+                "date": "5 September 2016",
+                "notes": "                            (YTV)"
+            },
+            {
+                "country": "USA\n",
+                "date": "6 February 2017"
+            }
+        ],
+        "release dates": [
+            "USA::2016",
+            "Canada::5 September 2016                            (YTV)",
+            "USA::6 February 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Ride"
+            },
+            {
+                "countries": "Denmark",
+                "title": "Op på hesten, Kit"
+            },
+            {
+                "countries": "Norway",
+                "title": "På hesteryggen"
+            },
+            {
+                "countries": "Sweden",
+                "title": "Ridtur"
+            }
+        ],
+        "akas": [
+            "Ride (original title)",
+            "Op på hesten, Kit Denmark",
+            "På hesteryggen Norway",
+            "Ridtur Sweden"
+        ],
+        "akas from release info": [
+            "Ride (original title)",
+            "Op på hesten, Kit Denmark",
+            "På hesteryggen Norway",
+            "Ridtur Sweden"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Arrival",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 9,
+                    "original air date": "6 Feb. 2017",
+                    "year": "2017",
+                    "plot": "\n    Kit is thrilled to be at The Covington Academy until she realizes she'll be expected to conquer her biggest fear - riding a horse. But after bonding with TK, a difficult horse at the Academy, she'll do whatever it takes to stay.    "
+                },
+                "2": {
+                    "title": "Dresses and Dressage",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "6 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Kit must find a way to ride TK - or else he'll be gone from Covington for good. Elaine will do whatever it takes to win in the first competition of the year. And Will and Nav both want to ask Kit to the Gala.    "
+                },
+                "3": {
+                    "title": "Hippophobia and Ophidiophobia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "7 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    After Lady Covington doubles down on her threat to send TK away, Kit realizes she is running out of time to conquer her fear of riding. Anya tries to become more independent while Will and Nav engage in a series of competitions.    "
+                },
+                "4": {
+                    "title": "Three's a Crowd",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "plot": "\n    Kit blames Elaine when she almost misses an important teatime appointment with Lady Covington. Anya and Nav go overboard when working on their joint architecture project.    "
+                },
+                "5": {
+                    "title": "Gone Guy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "plot": "\n    Elaine preps for the bonfire but finds it hard to balance her duties and Kit's training. The boys devise a plan to ensure their house wins this year's Guy Fawkes competition. Anya panics when the Rose Cottage Guy goes missing.    "
+                },
+                "6": {
+                    "title": "Wild Horses",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "plot": "\n    Kit struggles to regain TK's trust after an accident. Elaine vows to find out who caused the barn incident. Anya reveals her secret to Josh.    "
+                },
+                "7": {
+                    "title": "One Lump or Two",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "plot": "\n    Kit has a hard time forgiving Will; Kit wants to throw an American tea party for Lady Covington.    "
+                },
+                "8": {
+                    "title": "Happy Unbirthday",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "plot": "\n    Will tries to mend fences with Kit by designing something special for TK. Anya worries her secret may be revealed after her parents insist she attend a royal ball.    "
+                },
+                "9": {
+                    "title": "After the Ball",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "plot": "\n    Kit is hurt after discovering Anya's secret, and the girls get into their first fight. Will trains Josh for the House Cup.    "
+                },
+                "10": {
+                    "title": "The Cup",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "plot": "\n    When most of Rose Cottage is taken down by a bout of food poisoning, can Kit and TK step in and secure a win in the House Cup? At the same time, Kit discovers who has been leaving mysterious notes for her.    "
+                },
+                "11": {
+                    "title": "Stalled",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "plot": "\n    When TK is taken away, Nav, Josh and Peaches scheme to help Kit get him back. Will misunderstands Elaine's advice and makes things worse with Kit.    "
+                },
+                "12": {
+                    "title": "Who Rules the School?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "plot": "\n    Lady Covington tells Kit that she must ride -- or risk being expelled from Covington. A family tree project leads Kit to question everything she knows about her mother. Meanwhile, Rudy takes the boys on a camping trip.    "
+                },
+                "13": {
+                    "title": "We Need to Talk About Covington",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "plot": "\n    A journalist arrives at Covington and Kit winds up revealing more than she should. Will is facing expulsion due to his poor grades, and Nav tries to fix his horrible roommate problem.    "
+                },
+                "14": {
+                    "title": "Come Horse or High Water",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "plot": "\n    Kit and Nav leave Covington to search for TK. Anya and Josh plan a surprise party to cheer Kit up, but things do not go as planned.    "
+                },
+                "15": {
+                    "title": "Tk Returns",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "plot": "\n    Kit must convince Lady Covington to let her compete in the gall race. Josh and Anya try to improve their ratings. Nav's cousin comes to visit.    "
+                },
+                "16": {
+                    "title": "Pros and Cons",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "plot": "\n    Rudy is offered a job back home. Kit is tempted to leave Covington after a magazine article comes out in which she unintentionally, but very publicly, criticizes the school. Elaine makes a devastating discovery.    "
+                },
+                "17": {
+                    "title": "Trading Horses",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "plot": "\n    Kit asks Elaine for help when she finds out that it was her great-Aunt that made her Moms dress. And Kit helps Elaine when her horse is still ill and not ready yet to be ridden in the upcoming Gala.    "
+                },
+                "18": {
+                    "title": "Distractions and Deceptions",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "plot": "\n    Elaine uncovers a treasure map that leads to further clues about Kit's mother. Always competitive, Nav tries to hide a re-surfaced knee injury.    "
+                },
+                "19": {
+                    "title": "Let It Ride",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "plot": "\n    Lady Covington strikes an interesting bargain with Kit. One of the students faces disastrous consequences while competing in the League Gala race.    "
+                },
+                "20": {
+                    "title": "Dark Horse",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "plot": "\n    Will goes missing right before the Gala dance. And Kit finally discovers the truth about her mother.    "
+                },
+                "21": {
+                    "title": "Episode #1.21",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Ride (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 21,
+        "cast": [
+            {
+                "name": "Timmins, Kendra Leigh"
+            },
+            {
+                "name": "Boden, Alana"
+            },
+            {
+                "name": "Dench, Oliver"
+            },
+            {
+                "name": "Gray, Jonny"
+            },
+            {
+                "name": "Lisinska, Natalie"
+            },
+            {
+                "name": "Pacific, Manuel"
+            },
+            {
+                "name": "Rauli, Rameet"
+            },
+            {
+                "name": "Shara, Mike"
+            },
+            {
+                "name": "Botsford, Sara"
+            },
+            {
+                "name": "Duka, Mirsa"
+            },
+            {
+                "name": "Patnaik, Ellora"
+            },
+            {
+                "name": "Braunstein, Alex"
+            },
+            {
+                "name": "Ward, Jamie"
+            },
+            {
+                "name": "Young, Jenny"
+            },
+            {
+                "name": "Matmor, Daniel"
+            },
+            {
+                "name": "Gore, Marnie"
+            },
+            {
+                "name": "Levy, Sophie Khan"
+            },
+            {
+                "name": "Andre, Marlaina"
+            },
+            {
+                "name": "Castillo, Alexandra"
+            },
+            {
+                "name": "Gomes, Canute"
+            },
+            {
+                "name": "Johns, Helen"
+            },
+            {
+                "name": "Schelling-Tisza, Connor"
+            },
+            {
+                "name": "Clarkin, Richard"
+            },
+            {
+                "name": "Nelles, John"
+            },
+            {
+                "name": "Musselman, Andrew"
+            },
+            {
+                "name": "Tran, Vinson"
+            },
+            {
+                "name": "Davis, Diane C."
+            },
+            {
+                "name": "Faria, Grace"
+            }
+        ],
+        "genres": [
+            "Action",
+            "Family"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "United States:TV-G"
+        ],
+        "number of seasons": 1,
+        "rating": 6.7,
+        "votes": 226,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNWY2MjU4NzYtN2MxOC00OGVmLWIxY2MtNDVkZTE4YWQwYzNlL2ltYWdlXkEyXkFqcGdeQXVyNzE1MTQ1MDY@._V1_SY150_CR11,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Ride",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Dillabough, Dan"
+            },
+            {
+                "name": "Girling, Jill"
+            },
+            {
+                "name": "Mather-Welch, Lori"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Breakthrough Entertainment"
+            },
+            {
+                "name": "Buccaneer Media"
+            },
+            {
+                "name": "Nickelodeon Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Nickelodeon Network"
+            },
+            {
+                "name": "Nickelodeon"
+            }
+        ],
+        "plot": [
+            "The adventures of Katherine ' Kit' Bridges who relocates to England when her father joins the faculty at Covington Academy, an elite equestrian boarding school.::vhavnal"
+        ],
+        "tech": {
+            "runtime": [
+                "30 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 226,
+                "rating": 6.7
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "aged 18 29": {
+                "votes": 30,
+                "rating": 6.4
+            },
+            "aged 30 44": {
+                "votes": 37,
+                "rating": 6.2
+            },
+            "aged 45 plus": {
+                "votes": 45,
+                "rating": 6.1
+            },
+            "males": {
+                "votes": 50,
+                "rating": 5.9
+            },
+            "males aged 18 29": {
+                "votes": 8,
+                "rating": 5.9
+            },
+            "males aged 30 44": {
+                "votes": 14,
+                "rating": 5.5
+            },
+            "males aged 45 plus": {
+                "votes": 25,
+                "rating": 6.0
+            },
+            "females": {
+                "votes": 79,
+                "rating": 7.4
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 18 29": {
+                "votes": 22,
+                "rating": 6.9
+            },
+            "females aged 30 44": {
+                "votes": 23,
+                "rating": 7.2
+            },
+            "females aged 45 plus": {
+                "votes": 19,
+                "rating": 6.5
+            },
+            "top 1000 voters": {
+                "votes": 9,
+                "rating": 4.7
+            },
+            "us users": {
+                "votes": 52,
+                "rating": 7.1
+            },
+            "non us users": {
+                "votes": 41,
+                "rating": 5.1
+            }
+        },
+        "number of votes": {
+            "10": 115,
+            "9": 13,
+            "8": 23,
+            "7": 16,
+            "6": 13,
+            "5": 6,
+            "4": 9,
+            "3": 3,
+            "2": 9,
+            "1": 19
+        },
+        "arithmetic mean": 7.8,
+        "median": 1
+    }
+}

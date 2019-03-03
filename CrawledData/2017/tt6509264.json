@@ -1,0 +1,152 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "1 August 2017"
+            },
+            {
+                "country": "USA\n",
+                "date": "7 August 2017"
+            },
+            {
+                "country": "USA\n",
+                "date": "28 December 2018"
+            }
+        ],
+        "release dates": [
+            "USA::1 August 2017",
+            "USA::7 August 2017",
+            "USA::28 December 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Average"
+            },
+            {
+                "countries": "USA (new title)",
+                "title": "Vonnell"
+            }
+        ],
+        "akas": [
+            "Average (original title)",
+            "Vonnell USA (new title)"
+        ],
+        "akas from release info": [
+            "Average (original title)",
+            "Vonnell USA (new title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Distant Brother",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Vonnell (TV Mini-Series 2017–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "1 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Wanna Have Fun",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Vonnell (TV Mini-Series 2017–2019)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "5 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    A family comes together to assist one of their family members who is going through a major crisis.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Echols, Tamara"
+            },
+            {
+                "name": "Freeman, Reginal"
+            },
+            {
+                "name": "Hicks, Phildicer"
+            },
+            {
+                "name": "Jamal"
+            },
+            {
+                "name": "Luster, Diane"
+            },
+            {
+                "name": "Moore, Kris"
+            },
+            {
+                "name": "Sienna, Shontion"
+            },
+            {
+                "name": "Tureaud, Tre"
+            }
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "original air date": "01 Aug 2017 (USA)",
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMzQ1MzYwZmEtMmYyNS00ODA5LWIxMDAtNjVkM2FmOTAzMDc4XkEyXkFqcGdeQXVyNDU1NDQ0NzE@._V1_SY150_CR47,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Vonnell",
+        "year": 2017,
+        "kind": "tv mini series",
+        "series years": "2017-2019",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Tureaud, Tre"
+            }
+        ],
+        "director": [
+            {
+                "name": "Lee, Andrew B."
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Comedic Prince Entertainment"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "30 min (USA)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

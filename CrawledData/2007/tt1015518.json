@@ -1,0 +1,521 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "  2007"
+            },
+            {
+                "country": "USA\n",
+                "date": "  2007"
+            }
+        ],
+        "release dates": [
+            "Canada::2007",
+            "USA::2007"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Ancient Megastructures"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Az antik világ építészeti remekei"
+            },
+            {
+                "countries": "Spain",
+                "title": "Antiguas superestructuras"
+            },
+            {
+                "countries": "USA",
+                "title": "National Geographic: Engineering the Impossible"
+            }
+        ],
+        "akas": [
+            "Ancient Megastructures (original title)",
+            "Az antik világ építészeti remekei Hungary",
+            "Antiguas superestructuras Spain",
+            "National Geographic: Engineering the Impossible USA"
+        ],
+        "akas from release info": [
+            "Ancient Megastructures (original title)",
+            "Az antik világ építészeti remekei Hungary",
+            "Antiguas superestructuras Spain",
+            "National Geographic: Engineering the Impossible USA"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Petra",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "National Geographic: Engineering the Impossible (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 15,
+                    "original air date": "2008",
+                    "year": "2008",
+                    "plot": "\n    Carved into the side of a narrow gorge in the unforgiving deserts of Petra in modern day Jordan, the ancient Nabataeans turned engineering on its head to create their glorious royal city, Khazneh.    "
+                },
+                "2": {
+                    "title": "Machu Picchu",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "National Geographic: Engineering the Impossible (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "plot": "\n    Built to celebrate Emperor Pachacuti, creator of the Inca Empire, Machu Picchu is regarded as one of the planet's most awe-inspiring monuments.    "
+                },
+                "3": {
+                    "title": "St. Paul's Cathedral",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "National Geographic: Engineering the Impossible (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 11,
+                    "original air date": "2008",
+                    "year": "2008",
+                    "plot": "\n    From the ashes of London's Great Fire in 1666 rises Christopher Wren's daring architectural vision. As England's first Baroque cathedral, St Paul's is an icon to rival the grandeur of ancient Rome.    "
+                },
+                "4": {
+                    "title": "Angkor Wat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "National Geographic: Engineering the Impossible (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "plot": "\n    Hidden deep in Cambodia's jungles, the temple of Angkor Wat is a towering monument to the Hindu god Vishnu, belying its origins as the mausoleum for a usurper king who murdered his great uncle.    "
+                },
+                "5": {
+                    "title": "The Alhambra",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "National Geographic: Engineering the Impossible (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "plot": "\n    The Alhambra is the greatest example of Islamic military architecture in Europe. Sultan Muhammad I constructed this ingenious, impregnable fortress in 1238 amid treacherous political betrayals.    "
+                },
+                "6": {
+                    "title": "Istanbul's Hagia Sophia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "National Geographic: Engineering the Impossible (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "plot": "\n    Fiery Roman Emperor Justinian ordered the rebuilding of the great church of Hagia Sophia in Istanbul almost 1500 years ago. Modern science now uncovers the secret to this vast golden dome's longevity.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "The Great Pyramid",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "National Geographic: Engineering the Impossible (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 26,
+                    "original air date": "2007",
+                    "year": "2007",
+                    "plot": "\n    How the greatest pyramid in Egypt was built to provide a launch pad to the afterlife for its enigmatic Pharoah.    "
+                },
+                "2": {
+                    "title": "The Colosseum",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "National Geographic: Engineering the Impossible (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 17,
+                    "original air date": "2007",
+                    "year": "2007",
+                    "plot": "\n    The story behind Rome's greatest gladiatorial arena and the imperial dynasty which made it happen.    "
+                },
+                "3": {
+                    "title": "Chartres Cathedral",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "National Geographic: Engineering the Impossible (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 11,
+                    "original air date": "2007",
+                    "year": "2007",
+                    "plot": "\n    Church clashes with state in this 66 year long saga of one of the greatest cathedrals in the world.    "
+                },
+                "4": {
+                    "title": "Istanbul's Hagia Sophia",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "National Geographic: Engineering the Impossible (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "2007",
+                    "year": "2007",
+                    "plot": "\n    Fiery Roman Emperor Justinian ordered the rebuilding of the great church of Hagia Sophia in Istanbul almost 1500 years ago. Modern science now uncovers the secret to this vast golden dome's longevity.    "
+                },
+                "5": {
+                    "title": "Machu Picchu",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "National Geographic: Engineering the Impossible (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "2007",
+                    "year": "2007",
+                    "plot": "\n    Built using techniques that surpass modern ones, the temples, altars and residences of Machu Picchu have resisted torrential rains, landslides and earth tremors since being abandoned by the Incas.    "
+                },
+                "6": {
+                    "title": "Angkor Wat",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "National Geographic: Engineering the Impossible (TV Series 2007– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "2007",
+                    "year": "2007",
+                    "plot": "\n    Hidden deep in Cambodia's jungles, the temple of Angkor Wat is a towering monument to the Hindu god Vishnu, belying its origins as the mausoleum for a usurper king who murdered his great uncle.    "
+                }
+            }
+        },
+        "number of episodes": 12,
+        "cast": [
+            {
+                "name": "McCann, Eddie"
+            },
+            {
+                "name": "Simpson, Alisdair"
+            },
+            {
+                "name": "Harlowe, Peter"
+            },
+            {
+                "name": "Dobson, Brian"
+            },
+            {
+                "name": "Davis, Michael"
+            },
+            {
+                "name": "Frisby, Dominic"
+            },
+            {
+                "name": "Arya, Darius"
+            },
+            {
+                "name": "Ball, Philip"
+            },
+            {
+                "name": "Brennan, Corey"
+            },
+            {
+                "name": "Bruzelius, Caroline"
+            },
+            {
+                "name": "Carpenter, David"
+            },
+            {
+                "name": "Dodson, Aidan"
+            },
+            {
+                "name": "Harvey, Stephen"
+            },
+            {
+                "name": "Ikram, Salima"
+            },
+            {
+                "name": "Laurence, Ray"
+            },
+            {
+                "name": "Livingstone, Amy"
+            },
+            {
+                "name": "Roth, Ann Macy"
+            },
+            {
+                "name": "Wilkinson, Toby"
+            },
+            {
+                "name": "Amr, Khairieh"
+            },
+            {
+                "name": "Campbell, James W.P."
+            },
+            {
+                "name": "Douek, Nicole"
+            },
+            {
+                "name": "Farajat, Suleiman"
+            },
+            {
+                "name": "Hollis, Leo"
+            },
+            {
+                "name": "Lacey, Andrew"
+            },
+            {
+                "name": "Ortloff, Charles R."
+            },
+            {
+                "name": "Rababe'h, Shaher"
+            },
+            {
+                "name": "Bennett, Julian"
+            },
+            {
+                "name": "Bennison, Amira"
+            },
+            {
+                "name": "Cakmak, Ahmet"
+            },
+            {
+                "name": "Evans, Damian"
+            },
+            {
+                "name": "Frost, Peter"
+            },
+            {
+                "name": "Goodson, Caroline"
+            },
+            {
+                "name": "Higham, Charles"
+            },
+            {
+                "name": "Lee, Vince"
+            },
+            {
+                "name": "Malpica, Antonio"
+            },
+            {
+                "name": "Niles, Susan"
+            },
+            {
+                "name": "Orihuela, Antonio"
+            },
+            {
+                "name": "Ruggles, Fairchild"
+            },
+            {
+                "name": "Stubbs, John"
+            },
+            {
+                "name": "Taylor, Rabun"
+            },
+            {
+                "name": "Warrack, Simon"
+            },
+            {
+                "name": "George, Sean Francis"
+            },
+            {
+                "name": "Kidd, Stuart"
+            }
+        ],
+        "locations": [
+            "Chichester, West Sussex, England, UK",
+            "France",
+            "Giza, Egypt",
+            "New York, USA",
+            "The Colosseum, Rome, Lazio, Italy",
+            "Tunisia"
+        ],
+        "genres": [
+            "Documentary",
+            "Action",
+            "History"
+        ],
+        "countries": [
+            "United Kingdom",
+            "United States",
+            "Canada"
+        ],
+        "country codes": [
+            "gb",
+            "us",
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "certificates": [
+            "Australia:PG::(some episodes)",
+            "Australia:M::(some episodes)",
+            "Australia:G::(some episodes)"
+        ],
+        "number of seasons": 2,
+        "rating": 8.0,
+        "votes": 98,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZTk5NzcwNzQtNTRlNy00NDMwLWI2NWQtM2M3MDdkYjRiNGE4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SY150_CR49,0,101,150_.jpg",
+        "plot outline": "The incredible engineering stories behind three iconic ancient buildings: the Colosseum, the Great Pyramid of Giza and Chartres Cathedral. We tell the history of the people who built them: where they came from, how they lived, and how they managed to erect some of the greatest structures ever built by man. Using ground-breaking computer graphics and dramatic construction, this series shows in intimate detail how these buildings were conceived and constructed in an age before modern technology.",
+        "languages": [
+            "English"
+        ],
+        "title": "National Geographic: Engineering the Impossible",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Leivo, Maija"
+            },
+            {
+                "name": "Reid, Gilbert"
+            },
+            {
+                "name": "Haddock, Kate"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Darlow Smithson Productions"
+            },
+            {
+                "name": "Parallax Film Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "History Television"
+            },
+            {
+                "name": "National Geographic Television"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Bullseye Post & Animation"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Post Modern Sound"
+            }
+        ],
+        "plot": [
+            "The incredible engineering stories behind three iconic ancient buildings: the Colosseum, the Great Pyramid of Giza and Chartres Cathedral. We tell the history of the people who built them: where they came from, how they lived, and how they managed to erect some of the greatest structures ever built by man. Using ground-breaking computer graphics and dramatic construction, this series shows in intimate detail how these buildings were conceived and constructed in an age before modern technology.::Darlow Smithson Productions"
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Sony HDW-750",
+                "Sony HDW-F900 CineAlta, Canon HD Lenses"
+            ],
+            "negative format": [
+                "HDCAM (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 98,
+                "rating": 8.0
+            },
+            "aged 18 29": {
+                "votes": 21,
+                "rating": 8.3
+            },
+            "aged 30 44": {
+                "votes": 41,
+                "rating": 7.5
+            },
+            "aged 45 plus": {
+                "votes": 20,
+                "rating": 7.5
+            },
+            "males": {
+                "votes": 77,
+                "rating": 7.7
+            },
+            "males aged 18 29": {
+                "votes": 17,
+                "rating": 8.2
+            },
+            "males aged 30 44": {
+                "votes": 39,
+                "rating": 7.6
+            },
+            "males aged 45 plus": {
+                "votes": 17,
+                "rating": 7.5
+            },
+            "females": {
+                "votes": 8,
+                "rating": 7.8
+            },
+            "females aged 18 29": {
+                "votes": 4,
+                "rating": 8.2
+            },
+            "females aged 30 44": {
+                "votes": 1,
+                "rating": 5.0
+            },
+            "females aged 45 plus": {
+                "votes": 2,
+                "rating": 8.0
+            },
+            "top 1000 voters": {
+                "votes": 8,
+                "rating": 6.5
+            },
+            "us users": {
+                "votes": 5,
+                "rating": 6.3
+            },
+            "non us users": {
+                "votes": 68,
+                "rating": 7.7
+            }
+        },
+        "number of votes": {
+            "10": 25,
+            "9": 14,
+            "8": 18,
+            "7": 27,
+            "6": 6,
+            "5": 4,
+            "4": 4,
+            "3": 0,
+            "2": 0,
+            "1": 0
+        },
+        "arithmetic mean": 8.0,
+        "median": 8
+    }
+}

@@ -1,0 +1,364 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "2 March 2016"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "1 March 2017"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "21 February 2019",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::2 March 2016",
+            "Netherlands::1 March 2017",
+            "Sweden::21 February 2019                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Gaycation"
+            },
+            {
+                "countries": "Russia",
+                "title": "Гей-каникулы"
+            }
+        ],
+        "akas": [
+            "Gaycation (original title)",
+            "Гей-каникулы Russia"
+        ],
+        "akas from release info": [
+            "Gaycation (original title)",
+            "Гей-каникулы Russia"
+        ],
+        "episodes": {
+            "2": {
+                "0": {
+                    "title": "Orlando",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gaycation (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 0,
+                    "votes": 34,
+                    "original air date": "24 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    In this special presentation from Gaycation, Ellen Page and Ian Daniel travel to Orlando in the wake of the massacre at Pulse nightclub.    "
+                },
+                "1": {
+                    "title": "Ukraine",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gaycation (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 34,
+                    "original air date": "7 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Ellen and Ian head to Ukraine two years after the revolution and meet with the LGBTQ activists fighting for visibility and equality in a post-Soviet nation.    "
+                },
+                "2": {
+                    "title": "India",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gaycation (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 22,
+                    "original air date": "14 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Ellen and Ian explore India with guides from the local LGBTQ+ community to try and understand how the country can evolve and still maintain its' deep-rooted traditions.    "
+                },
+                "3": {
+                    "title": "France",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gaycation (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 20,
+                    "original air date": "21 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Ian travels to France, a city he once lived in as a student, to look at what it's like for LGBTQ persons whose stories and struggles are often hidden.    "
+                },
+                "4": {
+                    "title": "Deep South",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gaycation (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 19,
+                    "original air date": "28 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Ian sets out on a road trip across the Deep South to explore the culture of local homosexual communities as well as the serious issues and stigmas that they still face.    "
+                },
+                "6": {
+                    "title": "United We Stand",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gaycation (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 7,
+                    "original air date": "30 Apr. 2017",
+                    "year": "2017",
+                    "plot": "\n    In this special presentation of GAYCATION, Ellen Page and Ian Daniel go beyond the headlines and take a look into what the Trump administration could mean for the LGBTQ community.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Japan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gaycation (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 169,
+                    "original air date": "2 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Ellen and Ian are in Japan, on a journey which includes getting friend-married at a Buddhist temple, working at a rent-a-friend agency and partying in the world's smallest gay bar.    "
+                },
+                "2": {
+                    "title": "Brazil",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gaycation (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 132,
+                    "original air date": "9 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Ellen and Ian are visiting Brazil during carnival, exploring Brazil's underground and gay culture and public cultural stances on LGBTQ equality. They also explore some leaders and a vigilante who are pro intolerance and hate crime culture.    "
+                },
+                "3": {
+                    "title": "Jamaica",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gaycation (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 95,
+                    "original air date": "16 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Ellen and Ian travel to Jamaica, a country notorious for its homophobia, and explore how the area's gay community is perceived.    "
+                },
+                "4": {
+                    "title": "USA",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Gaycation (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 94,
+                    "original air date": "23 Mar. 2016",
+                    "year": "2016",
+                    "plot": "\n    Ellen and Ian go on a road trip from Iowa to New York City, during which they explore both the progress and setbacks of the LGBTQ movement in the United States.    "
+                }
+            }
+        },
+        "number of episodes": 10,
+        "cast": [
+            {
+                "name": "Daniel, Ian"
+            },
+            {
+                "name": "Page, Ellen"
+            },
+            {
+                "name": "Bolsonaro, Jair"
+            },
+            {
+                "name": "Diamond, Ashley"
+            },
+            {
+                "name": "Garofalo, Robert"
+            },
+            {
+                "name": "Livingston, JoshuaDaniel"
+            },
+            {
+                "name": "Marra, Carol"
+            },
+            {
+                "name": "Wyllys, Jean"
+            },
+            {
+                "name": "Moore, Michael"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "certificates": [
+            "United States:TV-14"
+        ],
+        "number of seasons": 2,
+        "rating": 7.1,
+        "votes": 1195,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNzhjMTBiYTEtN2ZhMS00MzY4LWEzM2EtOTM0OWJiODU0NjA1L2ltYWdlXkEyXkFqcGdeQXVyNzEyMTk4Mzk@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Gaycation",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "distributors": [
+            {
+                "name": "Viceland"
+            },
+            {
+                "name": "SBS Viceland"
+            },
+            {
+                "name": "Viceland"
+            }
+        ],
+        "plot": [
+            "Ellen Page and Ian Daniel set off on a journey to explore the multiplicity of LGBTQ experiences around the world, getting up close with moving stories of struggle and triumph.::Viceland"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1195,
+                "rating": 7.1
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 1.0
+            },
+            "aged 18 29": {
+                "votes": 332,
+                "rating": 8.4
+            },
+            "aged 30 44": {
+                "votes": 413,
+                "rating": 6.2
+            },
+            "aged 45 plus": {
+                "votes": 96,
+                "rating": 6.7
+            },
+            "males": {
+                "votes": 477,
+                "rating": 7.1
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 1.0
+            },
+            "males aged 18 29": {
+                "votes": 161,
+                "rating": 8.4
+            },
+            "males aged 30 44": {
+                "votes": 224,
+                "rating": 6.2
+            },
+            "males aged 45 plus": {
+                "votes": 64,
+                "rating": 6.4
+            },
+            "females": {
+                "votes": 401,
+                "rating": 7.4
+            },
+            "females aged 18 29": {
+                "votes": 157,
+                "rating": 8.4
+            },
+            "females aged 30 44": {
+                "votes": 182,
+                "rating": 6.0
+            },
+            "females aged 45 plus": {
+                "votes": 29,
+                "rating": 7.6
+            },
+            "top 1000 voters": {
+                "votes": 26,
+                "rating": 4.8
+            },
+            "us users": {
+                "votes": 220,
+                "rating": 6.7
+            },
+            "non us users": {
+                "votes": 470,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 376,
+            "9": 178,
+            "8": 240,
+            "7": 104,
+            "6": 40,
+            "5": 18,
+            "4": 3,
+            "3": 8,
+            "2": 10,
+            "1": 218
+        },
+        "arithmetic mean": 7.2,
+        "median": 8
+    }
+}

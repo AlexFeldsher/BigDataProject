@@ -1,0 +1,618 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "17 April 2015"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "16 September 2015"
+            },
+            {
+                "country": "Germany\n",
+                "date": "4 April 2016"
+            }
+        ],
+        "release dates": [
+            "USA::17 April 2015",
+            "Hungary::16 September 2015",
+            "Germany::4 April 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Messengers"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A hírnökök"
+            },
+            {
+                "countries": "Poland",
+                "title": "Poslancy"
+            },
+            {
+                "countries": "Russia",
+                "title": "Посланники"
+            }
+        ],
+        "akas": [
+            "The Messengers (original title)",
+            "A hírnökök Hungary",
+            "Poslancy Poland",
+            "Посланники Russia"
+        ],
+        "akas from release info": [
+            "The Messengers (original title)",
+            "A hírnökök Hungary",
+            "Poslancy Poland",
+            "Посланники Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Awakening",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Messengers (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 454,
+                    "original air date": "17 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    A mysterious object plummets to Earth, sending out a shock wave that causes five strangers to perish, only to miraculously come back to life moments later. The group includes Vera, a struggling radio-astronomer searching for her missing son; Erin, a young mother desperate to protect her seven year old daughter from an abusive ex-husband; Peter, a troubled high school student; Raul, a federal agent looking to escape his dangerous and violent undercover assignment; and Joshua, a charismatic second-generation televangelist. Most mysterious of all is the figure known only...    "
+                },
+                "2": {
+                    "title": "Strange Magic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Messengers (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 333,
+                    "original air date": "24 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Drawn together by destiny, Vera, Erin, Joshua, Raul and Peter convene together where they meet the mysterious Rose. Rose reveals that they are angels and their mission is to find and stop the Four Horsemen of the Apocalypse from bringing about the Rapture. Meanwhile, The Man's real identity is revealed and he continues to tempt Vera with clues about her missing son.    "
+                },
+                "3": {
+                    "title": "Path to Paradise",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Messengers (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 285,
+                    "original air date": "1 May 2015",
+                    "year": "2015",
+                    "plot": "\n    On the hunt for the Horseman of War, Joshua, Erin and Peter make great strides for the group. Raul and Vera are more hesitant to believe and when they stray, there are unforeseen consequences. But when Vera discovers her gift, she finally starts to re-think her purpose.    "
+                },
+                "4": {
+                    "title": "Drums of War",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Messengers (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 244,
+                    "original air date": "8 May 2015",
+                    "year": "2015",
+                    "plot": "\n    The heroes must identify the Horseman of War and his victim at an international energy summit.    "
+                },
+                "5": {
+                    "title": "Eye in the Sky",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Messengers (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 218,
+                    "original air date": "15 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Erin tries to celebrate Amy's birthday in peace; Joshua attempts to jumpstart his visions.    "
+                },
+                "6": {
+                    "title": "Metamorphosis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Messengers (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 207,
+                    "original air date": "22 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Vera and Alan continue their investigation into the genesis stone's secrets.    "
+                },
+                "7": {
+                    "title": "Deus Ex Machina",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Messengers (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 197,
+                    "original air date": "29 May 2015",
+                    "year": "2015",
+                    "plot": "\n    The messengers uncover a cyber scheme to kill thousands; Joshua learns he can not escape his past.    "
+                },
+                "8": {
+                    "title": "A House Divided",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Messengers (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 186,
+                    "original air date": "5 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    An unexpected setback causes the Messengers to question the value of being an angel.    "
+                },
+                "9": {
+                    "title": "Death Becomes Her",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Messengers (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 234,
+                    "original air date": "12 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    The Messengers learn that they have been betrayed by one of their own and that another is in danger.    "
+                },
+                "10": {
+                    "title": "Why We Fight",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Messengers (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 164,
+                    "original air date": "19 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    The team travels to California to stop two brothers, one of whom may be the Horseman of Famine.    "
+                },
+                "11": {
+                    "title": "Harvest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Messengers (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 142,
+                    "original air date": "10 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    Conflicting clues result in a disagreement; Vera gets close to uncovering the master plan.    "
+                },
+                "12": {
+                    "title": "Spark of Hope",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Messengers (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 150,
+                    "original air date": "17 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    The group works together to free the 7th Messenger from a secret government facility. Joshua's latest visions indicate a new threat is underway.    "
+                },
+                "13": {
+                    "title": "Houston, We Have a Problem",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Messengers (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 167,
+                    "original air date": "24 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    In a heart-pounding series finale, The Messengers face off against the Four Horsemen of the Apocalypse, whose plan to break the fifth seal could destroy everything our heroes hold dear. It's up to The Messengers to stop the Horsemen once and for all... at any cost. Diogo Morgado, Shantel VanSanten, Craig Frank, JD Pardo, Sofia Black D'Elia, Anna Diop, Jon Fletcher and Joel Courtney star.    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Messengers (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 14,
+        "cast": [
+            {
+                "name": "VanSanten, Shantel"
+            },
+            {
+                "name": "Morgado, Diogo"
+            },
+            {
+                "name": "Pardo, JD"
+            },
+            {
+                "name": "Courtney, Joel"
+            },
+            {
+                "name": "Fletcher, Jon"
+            },
+            {
+                "name": "Black-D'Elia, Sofia"
+            },
+            {
+                "name": "Diop, Anna"
+            },
+            {
+                "name": "Frank, Craig"
+            },
+            {
+                "name": "Dellamea, Madison"
+            },
+            {
+                "name": "O'Grady, Brittany"
+            },
+            {
+                "name": "Bowles, Lauren"
+            },
+            {
+                "name": "Van, Jessika"
+            },
+            {
+                "name": "Littlefield, Sam"
+            },
+            {
+                "name": "Griffin, Jennifer"
+            },
+            {
+                "name": "Slezak, Victor"
+            },
+            {
+                "name": "Smith, Riley"
+            },
+            {
+                "name": "Sanders, Zeb"
+            },
+            {
+                "name": "Garrison, Lane"
+            },
+            {
+                "name": "Negahban, Navid"
+            },
+            {
+                "name": "Escandon, Loren"
+            },
+            {
+                "name": "House, David"
+            },
+            {
+                "name": "Duke, Winston"
+            },
+            {
+                "name": "Bruening, Justin"
+            },
+            {
+                "name": "Dohring, Jason"
+            },
+            {
+                "name": "Bamber, Jamie"
+            },
+            {
+                "name": "Rowe, Katy"
+            },
+            {
+                "name": "Bogush, Elizabeth"
+            },
+            {
+                "name": "Martinez-Cunningham, Lora"
+            },
+            {
+                "name": "Cook, Ryan Jason"
+            },
+            {
+                "name": "Delgado, Patricio"
+            },
+            {
+                "name": "Steinig, Eric"
+            },
+            {
+                "name": "Washington, Jermaine"
+            },
+            {
+                "name": "Atkins, Lexi"
+            },
+            {
+                "name": "Saracino, Bernardo"
+            },
+            {
+                "name": "Moreno, Mario"
+            },
+            {
+                "name": "O'Donnell, Jack"
+            },
+            {
+                "name": "Southerland, Boots"
+            },
+            {
+                "name": "Dwyer, Elizabeth"
+            },
+            {
+                "name": "Isgreen, Roberta"
+            },
+            {
+                "name": "Villegas, Diane"
+            },
+            {
+                "name": "Thomas, Jodi Lynn"
+            },
+            {
+                "name": "Christopher, Warren M."
+            },
+            {
+                "name": "Marshall, Hannah"
+            },
+            {
+                "name": "Peper, Tim"
+            },
+            {
+                "name": "Coy, Chris"
+            },
+            {
+                "name": "McMahan, Fawnda"
+            },
+            {
+                "name": "Jr., Robert Henkel"
+            },
+            {
+                "name": "LaTourrette, Todd Lawson"
+            },
+            {
+                "name": "Chavez, David"
+            },
+            {
+                "name": "Curda, Glory"
+            }
+        ],
+        "locations": [
+            "Albuquerque, New Mexico, USA::(Alvarado Transportation Center)"
+        ],
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "rating": 6.6,
+        "votes": 8290,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTEwMjc3MTU5NjleQTJeQWpwZ15BbWU4MDgxNDkxMDUx._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "In the New Mexico desert, scientist, Vera Ivanov (Shantel VanSanten) watches in as a mysterious object falls to Earth. It explodes, and sends out a shockwave which briefly stops her heart. But Vera isn't the only one affected: she's instantly connected to 4 others, all of whom had also collapsed, only to come back to life hours later. A mysterious figure - known only as \"the man\" (Diogo Morgado) comes and offers Vera the chance to be reunited with her kidnapped son, if she helps him with one complicated task. Now, this group might be the only hope for preventing the impending end of civilisation... or causing it.",
+        "languages": [
+            "English"
+        ],
+        "title": "The Messengers",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-2015",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "O'Donnell, Eoghan"
+            },
+            {
+                "name": "Peracchio, Joe"
+            },
+            {
+                "name": "Fishko, Anna"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Thunder Road Pictures"
+            },
+            {
+                "name": "Warner Bros. Television"
+            },
+            {
+                "name": "CBS Television Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "The CW Network (The CW)"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Folks"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aero Mock-Ups"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Daufenbach Camera"
+            },
+            {
+                "name": "Encore"
+            },
+            {
+                "name": "Hula Post"
+            },
+            {
+                "name": "King SoundWorks"
+            }
+        ],
+        "plot": [
+            "A mysterious object crashes on earth and a group of unconnected strangers die from an energy pulse it emits, but then re-awaken to find out that they have been deemed responsible for preventing the impending apocalypse.::vhavnal",
+            "In the New Mexico desert, scientist, Vera Ivanov (Shantel VanSanten) watches in as a mysterious object falls to Earth. It explodes, and sends out a shockwave which briefly stops her heart. But Vera isn't the only one affected: she's instantly connected to 4 others, all of whom had also collapsed, only to come back to life hours later. A mysterious figure - known only as \"the man\" (Diogo Morgado) comes and offers Vera the chance to be reunited with her kidnapped son, if she helps him with one complicated task. Now, this group might be the only hope for preventing the impending end of civilisation... or causing it.::Soumik Ghosh"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "laboratory": [
+                "Encore Hollywood (digital intermediate)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 8290,
+                "rating": 6.6
+            },
+            "aged under 18": {
+                "votes": 5,
+                "rating": 7.1
+            },
+            "aged 18 29": {
+                "votes": 2319,
+                "rating": 7.1
+            },
+            "aged 30 44": {
+                "votes": 2469,
+                "rating": 6.2
+            },
+            "aged 45 plus": {
+                "votes": 1189,
+                "rating": 6.2
+            },
+            "males": {
+                "votes": 4168,
+                "rating": 6.3
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 7.5
+            },
+            "males aged 18 29": {
+                "votes": 1475,
+                "rating": 7.0
+            },
+            "males aged 30 44": {
+                "votes": 1627,
+                "rating": 6.0
+            },
+            "males aged 45 plus": {
+                "votes": 822,
+                "rating": 6.1
+            },
+            "females": {
+                "votes": 2164,
+                "rating": 6.9
+            },
+            "females aged under 18": {
+                "votes": 3,
+                "rating": 7.0
+            },
+            "females aged 18 29": {
+                "votes": 820,
+                "rating": 7.2
+            },
+            "females aged 30 44": {
+                "votes": 818,
+                "rating": 6.6
+            },
+            "females aged 45 plus": {
+                "votes": 354,
+                "rating": 6.7
+            },
+            "top 1000 voters": {
+                "votes": 107,
+                "rating": 5.4
+            },
+            "us users": {
+                "votes": 1093,
+                "rating": 6.6
+            },
+            "non us users": {
+                "votes": 2815,
+                "rating": 6.1
+            }
+        },
+        "number of votes": {
+            "10": 2240,
+            "9": 808,
+            "8": 1203,
+            "7": 1217,
+            "6": 918,
+            "5": 633,
+            "4": 393,
+            "3": 247,
+            "2": 185,
+            "1": 446
+        },
+        "arithmetic mean": 7.2,
+        "median": 8
+    }
+}

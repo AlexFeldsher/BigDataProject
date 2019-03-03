@@ -1,0 +1,823 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "30 September 2017",
+                "notes": "                            (Cologne Film Festival)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "13 October 2017",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Spain\n",
+                "date": "14 October 2017"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "14 October 2017",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "UK\n",
+                "date": "5 November 2017"
+            },
+            {
+                "country": "USA\n",
+                "date": "30 January 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "31 January 2018",
+                "notes": "                            (Göteborg Film Festival)"
+            },
+            {
+                "country": "France\n",
+                "date": "27 August 2018"
+            },
+            {
+                "country": "Germany\n",
+                "date": "22 September 2018",
+                "notes": "                            (theatrical) (limited)"
+            },
+            {
+                "country": "Austria\n",
+                "date": "30 September 2018"
+            },
+            {
+                "country": "Switzerland\n",
+                "date": "30 September 2018",
+                "notes": "                            (German speaking region)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "30 September 2018"
+            },
+            {
+                "country": "Denmark\n",
+                "date": "31 October 2018"
+            },
+            {
+                "country": "Finland\n",
+                "date": "10 November 2018"
+            }
+        ],
+        "release dates": [
+            "Germany::30 September 2017                            (Cologne Film Festival)",
+            "Germany::13 October 2017                            (internet)",
+            "Spain::14 October 2017",
+            "Netherlands::14 October 2017                            (internet)",
+            "UK::5 November 2017",
+            "USA::30 January 2018                            (internet)",
+            "Sweden::31 January 2018                            (Göteborg Film Festival)",
+            "France::27 August 2018",
+            "Germany::22 September 2018                            (theatrical) (limited)",
+            "Austria::30 September 2018",
+            "Switzerland::30 September 2018                            (German speaking region)",
+            "Germany::30 September 2018",
+            "Denmark::31 October 2018",
+            "Finland::10 November 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Babylon Berlin"
+            },
+            {
+                "countries": "Finland",
+                "title": "Babylon Berlin"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Babylon Berlin"
+            },
+            {
+                "countries": "France",
+                "title": "Babylon Berlin"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Babilon Berlin"
+            },
+            {
+                "countries": "Russia",
+                "title": "Вавилон-Берлин"
+            },
+            {
+                "countries": "Spain",
+                "title": "Babylon Berlin"
+            },
+            {
+                "countries": "Ukraine",
+                "title": "Вавилон-Берлiн"
+            },
+            {
+                "countries": "USA",
+                "title": "Babylon Berlin"
+            }
+        ],
+        "akas": [
+            "Babylon Berlin (original title)",
+            "Babylon Berlin Finland",
+            "Babylon Berlin Finland (Swedish title)",
+            "Babylon Berlin France",
+            "Babilon Berlin Hungary",
+            "Вавилон-Берлин Russia",
+            "Babylon Berlin Spain",
+            "Вавилон-Берлiн Ukraine",
+            "Babylon Berlin USA"
+        ],
+        "akas from release info": [
+            "Babylon Berlin (original title)",
+            "Babylon Berlin Finland",
+            "Babylon Berlin Finland (Swedish title)",
+            "Babylon Berlin France",
+            "Babilon Berlin Hungary",
+            "Вавилон-Берлин Russia",
+            "Babylon Berlin Spain",
+            "Вавилон-Берлiн Ukraine",
+            "Babylon Berlin USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 565,
+                    "original air date": "30 Jan. 2018",
+                    "year": "2018",
+                    "plot": "\n    Beneath the decadence of 1929 Berlin, lies an underworld city of sin. Police investigator Gereon Rath has been transferred from Cologne to solve a criminal case - a porn ring run by the Berlin Mafia. He uncovers a dangerous web of shadows.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 517,
+                    "original air date": "30 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Rath attempts to interrogate König further regarding the missing film reel, while the Russian revolutionaries' location is revealed by an informant.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 420,
+                    "original air date": "30 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Kardakow flees after the Soviet attack on The Red Fortress. Rath receives an uninvited guest in his apartment.    "
+                },
+                "4": {
+                    "title": "Episode #1.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 397,
+                    "original air date": "4 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    The May Day stand-off between communist protesters and police erupts in bloody violence.    "
+                },
+                "5": {
+                    "title": "Episode #1.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 373,
+                    "original air date": "4 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    As Berlin becomes increasingly politically charged, those in charge look to change the discourse on the May Day violence.    "
+                },
+                "6": {
+                    "title": "Episode #1.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 355,
+                    "original air date": "4 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Kardakow seeks help in retrieving the Sorokin's gold. Rath faces a moral dilemma and Bruno makes a power play.    "
+                },
+                "7": {
+                    "title": "Episode #1.7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 356,
+                    "original air date": "11 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Lotte's private investigation leads her to the depot where the hijacked train is held. Rath relives painful memories of the front.    "
+                },
+                "8": {
+                    "title": "Episode #1.8",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 363,
+                    "original air date": "11 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Rath and Bruno finally get a lead to the location of the missing film reel but after the truth come the consequences.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Episode #2.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 309,
+                    "original air date": "18 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Rath awakes after a long night to be faced with a new case - the massacre of the Red Fortress.    "
+                },
+                "2": {
+                    "title": "Episode #2.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 304,
+                    "original air date": "18 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Gereon Rath is reunited with Helga, but his joy is short lived. With her mother dead, Lotte's situation at home worsens.    "
+                },
+                "3": {
+                    "title": "Episode #2.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 290,
+                    "original air date": "25 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Rath and Gräf undertake a dangerous mission to recover evidence of the secret German airfield based in Russia.    "
+                },
+                "4": {
+                    "title": "Episode #2.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 283,
+                    "original air date": "25 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    After discovering one of his most trusted colleagues has been murdered, Rath comes to suspect that the killer was someone on the inside.    "
+                },
+                "5": {
+                    "title": "Episode #2.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 282,
+                    "original air date": "1 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Lotte is kidnapped and held in an ominously familiar location, while Rath and Benda's case against the Black Reichswehr stalls.    "
+                },
+                "6": {
+                    "title": "Episode #2.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 292,
+                    "original air date": "17 Nov. 2017",
+                    "year": "2017",
+                    "plot": "\n    Crucial evidence falls into Rath's hands, while Lotte unearths a conspiracy to murder an international envoy.    "
+                },
+                "7": {
+                    "title": "Episode #2.7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 343,
+                    "original air date": "8 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Rath and Lotte race to stop the train robbery in time, while Greta's conscience is torn when she falls into an assassination plot.    "
+                },
+                "8": {
+                    "title": "Episode #2.8",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 342,
+                    "original air date": "8 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Rath faces a stand-off for train carriage TY 23-05, and the truth behind the Sorokins' gold is revealed.    "
+                }
+            },
+            "3": {
+                "1": {
+                    "title": "Episode #3.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Babylon Berlin (TV Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 17,
+        "cast": [
+            {
+                "name": "Bruch, Volker"
+            },
+            {
+                "name": "Fries, Liv Lisa"
+            },
+            {
+                "name": "Kurth, Peter"
+            },
+            {
+                "name": "Brandt, Matthias"
+            },
+            {
+                "name": "Benesch, Leonie"
+            },
+            {
+                "name": "Janusauskaite, Severija"
+            },
+            {
+                "name": "Eidinger, Lars"
+            },
+            {
+                "name": "Maticevic, Misel"
+            },
+            {
+                "name": "Haberlandt, Fritzi"
+            },
+            {
+                "name": "Markovics, Karl"
+            },
+            {
+                "name": "Harzer, Jens"
+            },
+            {
+                "name": "Stötzner, Ernst"
+            },
+            {
+                "name": "Triebel, Jördis"
+            },
+            {
+                "name": "Friedel, Christian"
+            },
+            {
+                "name": "Thieme, Thomas"
+            },
+            {
+                "name": "Burgazliev, Denis"
+            },
+            {
+                "name": "Sol, Pasha"
+            },
+            {
+                "name": "von Lucke, Anton"
+            },
+            {
+                "name": "VanDerMillen, Derrick"
+            },
+            {
+                "name": "Shvedoff, Ivan"
+            },
+            {
+                "name": "Herzsprung, Hannah"
+            },
+            {
+                "name": "Kanischtscheff, Waléra"
+            },
+            {
+                "name": "Alexandrov, Dmitri"
+            },
+            {
+                "name": "Peker, Henning"
+            },
+            {
+                "name": "Urzendowsky, Sebastian"
+            },
+            {
+                "name": "Merten, Thorsten"
+            },
+            {
+                "name": "Klink, Rüdiger"
+            },
+            {
+                "name": "Hersh, Philip"
+            },
+            {
+                "name": "Fürmann, Benno"
+            },
+            {
+                "name": "Matschenz, Jacob"
+            },
+            {
+                "name": "Gruber, Marie"
+            },
+            {
+                "name": "Böhm, Irene"
+            },
+            {
+                "name": "Pietzcker, Ivo"
+            },
+            {
+                "name": "Bukowski, Pit"
+            },
+            {
+                "name": "Fichtner, Lilli"
+            },
+            {
+                "name": "Künster, Frank"
+            },
+            {
+                "name": "Kiehne, Laura"
+            },
+            {
+                "name": "Lustig, Werner"
+            },
+            {
+                "name": "Aranoff, Ronit"
+            },
+            {
+                "name": "Handtke, Holger"
+            },
+            {
+                "name": "Schroedter, Hildegard"
+            },
+            {
+                "name": "Feldmeier, Julius"
+            },
+            {
+                "name": "Lindner, Wolfgang"
+            },
+            {
+                "name": "Pape-Thies, Victor"
+            },
+            {
+                "name": "Zischler, Hanns"
+            },
+            {
+                "name": "Giese, Godehard"
+            },
+            {
+                "name": "Kobus, Waldemar"
+            },
+            {
+                "name": "Hain, Jeanette"
+            },
+            {
+                "name": "Jürgens, Johann"
+            },
+            {
+                "name": "Rattinger, Anton"
+            }
+        ],
+        "locations": [
+            "Studio Babelsberg, Potsdam, Brandenburg, Germany",
+            "Berlin, Germany",
+            "Rathaus Schöneberg, Schöneberg, Berlin, Germany::(many interior scenes as Berlin Police Headquarter, e.g. stairs in the main entrance hall where the female secretaries receive their daily tasks)",
+            "Haus des Rundfunks, Charlottenburg, Berlin, Germany::(interior scenes where paternoster lift is shown)",
+            "Rotes Rathaus, Berlin, Germany::(exterior scenes as Police Headquarter 'Rote Burg' - Polizeipräsidium Alexanderplatz and some interior scenes, e.g. staircases)",
+            "Historic Harbor at Fischerinsel, Mühlendammschleuse, Mitte, Berlin, Germany::(where the Russian train driver is lying dead in the water)",
+            "Germany"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "45"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "country codes": [
+            "de"
+        ],
+        "language codes": [
+            "de"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "France:12",
+            "Germany:12",
+            "Italy:BA",
+            "Netherlands:16",
+            "Norway:15::(TV rating)",
+            "Spain:18",
+            "United States:TV-MA"
+        ],
+        "number of seasons": 3,
+        "rating": 8.4,
+        "votes": 10279,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjQ2MzVhMmMtYWJmNy00NmVlLThmODktOTI5YzBjMTU4N2E3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR1,0,101,150_.jpg",
+        "budget": "EUR40,000,000 (estimated)",
+        "plot outline": "A metropolis in turmoil. From economy to culture, politics to the underworld - everything is in the grip of radical change. Speculation and inflation are already tearing away at the foundations of the still young Weimar Republic. Growing poverty and unemployment stand in stark contrast to the excesses and indulgence of the city's night life and its overflowing creative energy. Gereon Rath, a young police inspector from Cologne, is transferred to Berlin in order to solve a criminal case - a porno ring run by the Berlin Mafia. What at first glance appears to be simply a matter of extortion soon reveals itself to be a scandal that will forever change the lives of both Gereon and his closest associates. Together with stenotypist Charlotte Ritter and his partner Bruno Wolter, Rath is confronted with a tangled web of corruption, drug dealing, and weapons trafficking, forcing him into an existential conflict as he is torn between loyalty and uncovering the truth. And we are left wondering: in this story, who is friend and who is foe? With the political unrest spurred by May Day demonstrations and rising National Socialism, even an institution like the \"Rote Burg,\" Berlin's police headquarters and the center of democracy and the constitutional state, is increasingly becoming the melting pot of a democracy whose days are numbered.",
+        "languages": [
+            "German"
+        ],
+        "title": "Babylon Berlin",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-",
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "writer": [
+            {
+                "name": "Handloegten, Henk"
+            },
+            {
+                "name": "Kutscher, Volker"
+            },
+            {
+                "name": "Tykwer, Tom"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "X-Filme Creative Pool"
+            },
+            {
+                "name": "ARD Degeto Film"
+            },
+            {
+                "name": "Beta Film"
+            },
+            {
+                "name": "Sky"
+            },
+            {
+                "name": "Danmarks Radio (DR)"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Beta Film"
+            },
+            {
+                "name": "Sky"
+            },
+            {
+                "name": "Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD)"
+            },
+            {
+                "name": "Danmarks Radio (DR)"
+            },
+            {
+                "name": "HBO Polska"
+            },
+            {
+                "name": "HBO"
+            },
+            {
+                "name": "HBO"
+            },
+            {
+                "name": "Sky Atlantic"
+            },
+            {
+                "name": "Universum Film (UFA)"
+            },
+            {
+                "name": "Universum Film (UFA)"
+            },
+            {
+                "name": "Videoland"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "RISE Visual Effects Studios"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "BMG"
+            },
+            {
+                "name": "Film- und Medienstiftung NRW"
+            },
+            {
+                "name": "Filmtierschule Telligmann"
+            },
+            {
+                "name": "German Motion Picture Fund"
+            },
+            {
+                "name": "Grafikwerk"
+            },
+            {
+                "name": "MEDIA Programme of the European Union"
+            },
+            {
+                "name": "MMC Movies"
+            },
+            {
+                "name": "MMC Studios"
+            },
+            {
+                "name": "Medienboard Berlin-Brandenburg"
+            },
+            {
+                "name": "Pferde Stunt"
+            },
+            {
+                "name": "Star's Dinner Express"
+            },
+            {
+                "name": "Studio Babelsberg"
+            }
+        ],
+        "plot": [
+            "Colognian commissioner Gereon Rath moves to Berlin, the epicenter of political and social changes in the Golden Twenties.::xesrox",
+            "A metropolis in turmoil. From economy to culture, politics to the underworld - everything is in the grip of radical change. Speculation and inflation are already tearing away at the foundations of the still young Weimar Republic. Growing poverty and unemployment stand in stark contrast to the excesses and indulgence of the city's night life and its overflowing creative energy. Gereon Rath, a young police inspector from Cologne, is transferred to Berlin in order to solve a criminal case - a porno ring run by the Berlin Mafia. What at first glance appears to be simply a matter of extortion soon reveals itself to be a scandal that will forever change the lives of both Gereon and his closest associates. Together with stenotypist Charlotte Ritter and his partner Bruno Wolter, Rath is confronted with a tangled web of corruption, drug dealing, and weapons trafficking, forcing him into an existential conflict as he is torn between loyalty and uncovering the truth. And we are left wondering: in this story, who is friend and who is foe? With the political unrest spurred by May Day demonstrations and rising National Socialism, even an institution like the \"Rote Burg,\" Berlin's police headquarters and the center of democracy and the constitutional state, is increasingly becoming the melting pot of a democracy whose days are numbered.::https://www.babylon-berlin.com/en/about-babylon-berlin/the-story/"
+        ],
+        "tech": {
+            "runtime": [
+                "45 min (original) (Germany)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Arri Alexa Mini, Panavision PVintage Lenses",
+                "Arri Alexa XT"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (4K) (master format)"
+            ],
+            "printed film format": [
+                "DCP (theatrical release)",
+                "Digital (HD)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 10279,
+                "rating": 8.4
+            },
+            "aged under 18": {
+                "votes": 4,
+                "rating": 8.0
+            },
+            "aged 18 29": {
+                "votes": 1487,
+                "rating": 8.6
+            },
+            "aged 30 44": {
+                "votes": 3111,
+                "rating": 8.3
+            },
+            "aged 45 plus": {
+                "votes": 2273,
+                "rating": 8.5
+            },
+            "males": {
+                "votes": 6093,
+                "rating": 8.4
+            },
+            "males aged under 18": {
+                "votes": 4,
+                "rating": 8.0
+            },
+            "males aged 18 29": {
+                "votes": 1159,
+                "rating": 8.5
+            },
+            "males aged 30 44": {
+                "votes": 2490,
+                "rating": 8.3
+            },
+            "males aged 45 plus": {
+                "votes": 1872,
+                "rating": 8.4
+            },
+            "females": {
+                "votes": 1353,
+                "rating": 8.5
+            },
+            "females aged 18 29": {
+                "votes": 306,
+                "rating": 8.6
+            },
+            "females aged 30 44": {
+                "votes": 557,
+                "rating": 8.4
+            },
+            "females aged 45 plus": {
+                "votes": 361,
+                "rating": 8.7
+            },
+            "top 1000 voters": {
+                "votes": 104,
+                "rating": 6.7
+            },
+            "us users": {
+                "votes": 1055,
+                "rating": 8.6
+            },
+            "non us users": {
+                "votes": 4552,
+                "rating": 8.3
+            }
+        },
+        "number of votes": {
+            "10": 2971,
+            "9": 3300,
+            "8": 2342,
+            "7": 848,
+            "6": 256,
+            "5": 146,
+            "4": 67,
+            "3": 58,
+            "2": 44,
+            "1": 247
+        },
+        "arithmetic mean": 8.5,
+        "median": 9
+    }
+}

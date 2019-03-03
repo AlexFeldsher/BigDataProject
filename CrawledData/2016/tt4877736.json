@@ -1,0 +1,631 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "13 June 2016"
+            },
+            {
+                "country": "UK\n",
+                "date": "14 June 2016"
+            },
+            {
+                "country": "Australia\n",
+                "date": "20 June 2016"
+            },
+            {
+                "country": "Finland\n",
+                "date": "4 September 2016"
+            },
+            {
+                "country": "France\n",
+                "date": "5 March 2017"
+            }
+        ],
+        "release dates": [
+            "USA::13 June 2016",
+            "UK::14 June 2016",
+            "Australia::20 June 2016",
+            "Finland::4 September 2016",
+            "France::5 March 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "BrainDead"
+            },
+            {
+                "countries": "France",
+                "title": "BrainDead"
+            },
+            {
+                "countries": "Italy",
+                "title": "BrainDead: Alieni a Washington"
+            },
+            {
+                "countries": "Russia",
+                "title": "Безмозглые"
+            }
+        ],
+        "akas": [
+            "BrainDead (original title)",
+            "BrainDead France",
+            "BrainDead: Alieni a Washington Italy",
+            "Безмозглые Russia"
+        ],
+        "akas from release info": [
+            "BrainDead (original title)",
+            "BrainDead France",
+            "BrainDead: Alieni a Washington Italy",
+            "Безмозглые Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Insanity Principle: How Extremism in Politics Is Threatening Democracy in the 21st Century",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "BrainDead (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 473,
+                    "original air date": "13 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    When Laurel returns to Washington, D.C., to work for her brother, Sen. Luke Healy, she discovers that budgetary disagreements have halted the government, and mysterious bugs are consuming the brains of Congress members and Capitol Hill staffers.    "
+                },
+                "2": {
+                    "title": "Playing Politics: Living Life in the Shadow of the Budget Showdown - A Critique",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "BrainDead (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 399,
+                    "original air date": "20 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Laurel continues her investigation of Dr. Daudier's death, while more citizens are infected by the bugs; Dr. Daudier's daughter and Gustav Triplette begin to question what is happening.    "
+                },
+                "3": {
+                    "title": "Goring Oxes: How You Can Survive the War on Government Through Five Easy Steps",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "BrainDead (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 364,
+                    "original air date": "27 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Agent Onofrio's investigation of a deadly incident on live TV causes Laurel, Gustav and Rochelle to delve deeper into the bug mystery. Luke tries to hide his affair with Scarlett.    "
+                },
+                "4": {
+                    "title": "Wake Up Grassroots: The Nine Virtues of Participatory Democracy, and How We Can Keep America Great by Encouraging an Informed Electorate",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "BrainDead (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 325,
+                    "original air date": "11 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Laurel and Rochelle try to persuade Laurel's friend Abby to get an MRI so they can uncover the real cause of the strange behavior taking over Washington, D.C. Also, Luke attempts to reopen the government through a secret deal with the Republicans.    "
+                },
+                "5": {
+                    "title": "Back to Work: A Behind-the-Scenes Look at Congress and How It Gets Things Done (and Often Doesn't)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "BrainDead (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 308,
+                    "original air date": "24 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Laurel asks her brother, Luke, for his help to get the Centers for Disease Control and Prevention to investigate the bugs, but he insists she first consult Dr. Joanne Alaimo, a leading entomologist, for her perspective on the invasion. Also, Laurel's relationship with Anthony takes a drastic turn.    "
+                },
+                "6": {
+                    "title": "Notes Toward a Post-Reagan Theory of Party Alliance, Tribalist, and Loyalty: Past as Prologue",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "BrainDead (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 354,
+                    "original air date": "31 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    When the Center for Disease Control has its funding temporarily cut, Luke attempts to reach a compromise to have the money reinstated, but Red's political machinations undermine him at every turn.    "
+                },
+                "7": {
+                    "title": "The Power of Euphemism: How Torture Became a Matter of Debate in American Politics",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "BrainDead (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 327,
+                    "original air date": "7 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Laurel comes under investigation about her potential involvement with the bug infestation. Also, Gustav and Rochelle discover a unique way to communicate with those infected by the bugs.    "
+                },
+                "8": {
+                    "title": "The Path to War Part One: The Gathering Political Storm",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "BrainDead (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 263,
+                    "original air date": "14 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Rochelle and Gustav capture and question a man they suspect is infected by the bugs. Also, Luke and Red face off in a Senate Intelligence meeting about a potential war.    "
+                },
+                "9": {
+                    "title": "Taking on Water: How Leaks in D.C. Are Discovered and Patched",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "BrainDead (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 269,
+                    "original air date": "21 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Senator Red Wheatus hires a special investigator to dig into the Healy family's financial and personal history. Also, when Gareth learns some sordid details about Laurel's romantic past, it puts a strain on their budding relationship.    "
+                },
+                "10": {
+                    "title": "The Path to War Part Two: The Impact of Propaganda on Congressional War Votes",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "BrainDead (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 239,
+                    "original air date": "28 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    Laurel must work alongside an old boyfriend, Ben Valderrama, when Luke enlists her help in putting together a political documentary to support his anti-war initiative. Also, Laurel worries about the health of Luke and Germaine's baby.    "
+                },
+                "11": {
+                    "title": "Six Points on the New Congressional Budget: The False Dichotomy of Austerity vs. Expansionary Policies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "BrainDead (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 260,
+                    "original air date": "4 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Luke and Laurel rush to uncover Red's secret agenda, which is buried in a massive new budget bill. Also, Gareth inadvertently witnesses an unsettling bug encounter in Red's office.    "
+                },
+                "12": {
+                    "title": "Talking Points Toward a Wholistic View of Activism in Government: Can the Top Rebel?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "BrainDead (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 245,
+                    "original air date": "11 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    When Laurel discovers that a senate bill is not what it appears, she implores Luke to help, leading to a dramatic Senate sit-in. Also, Red and Ella battle for control of the bug agenda, and Laurel questions whether or not she should leave Washington, D.C. for good    "
+                },
+                "13": {
+                    "title": "The End of All We Hold Dear: What Happens When Democracies Fail: A Brief Synopsis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "BrainDead (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 265,
+                    "original air date": "11 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    Laurel discovers the secret to driving the bugs out of a person's brain and tests the tactic on her father. Armed with new knowledge, Laurel and Gareth attempt to expel the Queen bug out of Red's head once and for all. Laurel and Gareth progress in their romantic relationship.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Winstead, Mary Elizabeth"
+            },
+            {
+                "name": "Pino, Danny"
+            },
+            {
+                "name": "Tveit, Aaron"
+            },
+            {
+                "name": "Shalhoub, Tony"
+            },
+            {
+                "name": "James, Nikki M."
+            },
+            {
+                "name": "Gill, Johnny Ray"
+            },
+            {
+                "name": "Patterson, Paige"
+            },
+            {
+                "name": "Maxwell, Jan"
+            },
+            {
+                "name": "Grenier, Zach"
+            },
+            {
+                "name": "Hilty, Megan"
+            },
+            {
+                "name": "Malone, Beth"
+            },
+            {
+                "name": "Semine, Charlie"
+            },
+            {
+                "name": "Adams, Brooke"
+            },
+            {
+                "name": "Duvall, Wayne"
+            },
+            {
+                "name": "Cowles, Lily"
+            },
+            {
+                "name": "Matthews, Dakin"
+            },
+            {
+                "name": "Breen, Patrick"
+            },
+            {
+                "name": "Mathis, Nikiya"
+            },
+            {
+                "name": "Gold, Natalie"
+            },
+            {
+                "name": "Ho, Marcus"
+            },
+            {
+                "name": "Esper, Michael"
+            },
+            {
+                "name": "Fleshler, Glenn"
+            },
+            {
+                "name": "Carey, Helen"
+            },
+            {
+                "name": "Bloom, Brooke"
+            },
+            {
+                "name": "McKinney, Chris"
+            },
+            {
+                "name": "Faris, Nasser"
+            },
+            {
+                "name": "House, Spencer"
+            },
+            {
+                "name": "McCormick, Michael"
+            },
+            {
+                "name": "Arenas, Alana"
+            },
+            {
+                "name": "Dillon, Mia"
+            },
+            {
+                "name": "Kemp, Tom"
+            },
+            {
+                "name": "Birkelund, Olivia"
+            },
+            {
+                "name": "Vichi, Gerry"
+            },
+            {
+                "name": "Coulton, Jonathan"
+            },
+            {
+                "name": "Dimich, Jack"
+            },
+            {
+                "name": "Potts, Michael"
+            },
+            {
+                "name": "Emond, Linda"
+            },
+            {
+                "name": "Zegen, Michael"
+            },
+            {
+                "name": "Fontana, Santino"
+            },
+            {
+                "name": "Fumusa, Dominic"
+            },
+            {
+                "name": "Gaston, Michael"
+            },
+            {
+                "name": "Guinee, Tim"
+            },
+            {
+                "name": "Martindale, Margo"
+            },
+            {
+                "name": "Sun, Nilaja"
+            },
+            {
+                "name": "Thoms, Tracie"
+            },
+            {
+                "name": "Shamos, Jeremy"
+            },
+            {
+                "name": "Bittner, Dan"
+            },
+            {
+                "name": "Carpenter, Jack"
+            },
+            {
+                "name": "Fuller, Kurt"
+            },
+            {
+                "name": "Barrett, Kelli"
+            }
+        ],
+        "locations": [
+            "Washington, District of Columbia, USA",
+            "New York City, New York, USA"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Horror",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "runtimes": [
+            "44"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Canada:PG::(Manitoba/Ontario)",
+            "France:10",
+            "United Kingdom:PG::(one episode)",
+            "United Kingdom:12::(some episodes)",
+            "United Kingdom:15::(some episodes)",
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 8.1,
+        "votes": 8994,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTg4MzgzOTAyNl5BMl5BanBnXkFtZTgwNzYxNjg0ODE@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "A young, fresh-faced Hill staffer gets her first job in Washington, D.C. to discover two things: The government has stopped working, and alien spawn have come to earth and eaten the brains of a growing number of Congressmen and Hill staffers.",
+        "languages": [
+            "English"
+        ],
+        "title": "BrainDead",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-2016",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "King, Michelle"
+            },
+            {
+                "name": "King, Robert"
+            },
+            {
+                "name": "Tolins, Jonathan"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Scott Free Productions"
+            },
+            {
+                "name": "King Size Productions"
+            },
+            {
+                "name": "CBS Television Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CBS"
+            },
+            {
+                "name": "CBS"
+            },
+            {
+                "name": "FX Network"
+            },
+            {
+                "name": "Sub"
+            },
+            {
+                "name": "Série Club"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "DNegTV"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Big A Solutions"
+            },
+            {
+                "name": "Filmograph (II)"
+            },
+            {
+                "name": "Helen Uffner Vintage Clothing"
+            },
+            {
+                "name": "Hula Post"
+            },
+            {
+                "name": "Pacific Studios II"
+            },
+            {
+                "name": "Plus One Rentals"
+            },
+            {
+                "name": "Plus One Rentals"
+            },
+            {
+                "name": "Sessions Payroll Management"
+            }
+        ],
+        "plot": [
+            "A government employee discovers that the cause of the tensions between the two political parties is a race of extraterrestrial insects eating the brains of the politicians.::Benjamin Rothrock",
+            "A young, fresh-faced Hill staffer gets her first job in Washington, D.C. to discover two things: The government has stopped working, and alien spawn have come to earth and eaten the brains of a growing number of Congressmen and Hill staffers."
+        ],
+        "tech": {
+            "runtime": [
+                "44 min"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 8994,
+                "rating": 8.1
+            },
+            "aged under 18": {
+                "votes": 4,
+                "rating": 8.5
+            },
+            "aged 18 29": {
+                "votes": 1353,
+                "rating": 8.1
+            },
+            "aged 30 44": {
+                "votes": 3172,
+                "rating": 8.0
+            },
+            "aged 45 plus": {
+                "votes": 1945,
+                "rating": 8.1
+            },
+            "males": {
+                "votes": 5097,
+                "rating": 8.0
+            },
+            "males aged under 18": {
+                "votes": 3,
+                "rating": 8.7
+            },
+            "males aged 18 29": {
+                "votes": 961,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 2368,
+                "rating": 7.9
+            },
+            "males aged 45 plus": {
+                "votes": 1390,
+                "rating": 8.0
+            },
+            "females": {
+                "votes": 1824,
+                "rating": 8.3
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 373,
+                "rating": 8.3
+            },
+            "females aged 30 44": {
+                "votes": 743,
+                "rating": 8.2
+            },
+            "females aged 45 plus": {
+                "votes": 526,
+                "rating": 8.3
+            },
+            "top 1000 voters": {
+                "votes": 149,
+                "rating": 6.8
+            },
+            "us users": {
+                "votes": 1713,
+                "rating": 8.1
+            },
+            "non us users": {
+                "votes": 3477,
+                "rating": 8.0
+            }
+        },
+        "number of votes": {
+            "10": 2240,
+            "9": 2287,
+            "8": 2450,
+            "7": 1015,
+            "6": 366,
+            "5": 192,
+            "4": 108,
+            "3": 72,
+            "2": 72,
+            "1": 192
+        },
+        "arithmetic mean": 8.2,
+        "median": 9
+    }
+}

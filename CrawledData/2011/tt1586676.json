@@ -1,0 +1,855 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "20 January 2011"
+            },
+            {
+                "country": "Canada\n",
+                "date": "2 February 2011"
+            },
+            {
+                "country": "Japan\n",
+                "date": "1 April 2011"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "13 April 2011"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "18 April 2011",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "18 April 2011",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "21 May 2011"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "5 September 2011"
+            }
+        ],
+        "release dates": [
+            "USA::20 January 2011",
+            "Canada::2 February 2011",
+            "Japan::1 April 2011",
+            "Hungary::13 April 2011",
+            "Belgium::18 April 2011                            (limited)",
+            "Netherlands::18 April 2011                            (limited)",
+            "Sweden::21 May 2011",
+            "Belgium::5 September 2011"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Fairly Legal"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Почти законно"
+            },
+            {
+                "countries": "Croatia",
+                "title": "Pravedno i prema zakonu"
+            },
+            {
+                "countries": "Czech Republic",
+                "title": "Kauzy podle Kate"
+            },
+            {
+                "countries": "Estonia",
+                "title": "Kate'i õiglus"
+            },
+            {
+                "countries": "France",
+                "title": "Facing Kate"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Békét, bíró!"
+            },
+            {
+                "countries": "Poland",
+                "title": "Paragraf Kate"
+            },
+            {
+                "countries": "Portugal",
+                "title": "As Leis de Kate"
+            },
+            {
+                "countries": "Romania",
+                "title": "Aproape legal"
+            },
+            {
+                "countries": "Russia",
+                "title": "Посредник Кейт"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Sve po zakonu"
+            },
+            {
+                "countries": "Spain",
+                "title": "Kate"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "Facing Kate"
+            }
+        ],
+        "akas": [
+            "Fairly Legal (original title)",
+            "Почти законно Bulgaria (Bulgarian title)",
+            "Pravedno i prema zakonu Croatia",
+            "Kauzy podle Kate Czech Republic",
+            "Kate'i õiglus Estonia",
+            "Facing Kate France",
+            "Békét, bíró! Hungary",
+            "Paragraf Kate Poland",
+            "As Leis de Kate Portugal",
+            "Aproape legal Romania",
+            "Посредник Кейт Russia",
+            "Sve po zakonu Serbia",
+            "Kate Spain",
+            "Facing Kate USA (working title)"
+        ],
+        "akas from release info": [
+            "Fairly Legal (original title)",
+            "Почти законно Bulgaria (Bulgarian title)",
+            "Pravedno i prema zakonu Croatia",
+            "Kauzy podle Kate Czech Republic",
+            "Kate'i õiglus Estonia",
+            "Facing Kate France",
+            "Békét, bíró! Hungary",
+            "Paragraf Kate Poland",
+            "As Leis de Kate Portugal",
+            "Aproape legal Romania",
+            "Посредник Кейт Russia",
+            "Sve po zakonu Serbia",
+            "Kate Spain",
+            "Facing Kate USA (working title)"
+        ],
+        "episodes": {
+            "2": {
+                "1": {
+                    "title": "Satisfaction",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 101,
+                    "original air date": "16 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Kate returns to work to mediate a case between a company and an employee who claims his illness is due to exposure from harmful chemicals on the job.    "
+                },
+                "2": {
+                    "title": "Start Me Up",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 79,
+                    "original air date": "23 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    When Kate is asked to mediate an agreement between a hospital and the FBI over a liver transplant for a key informant, she discovers that the liver was originally promised to a much sicker patient.    "
+                },
+                "3": {
+                    "title": "Bait & Switch",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 79,
+                    "original air date": "30 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Kate mediates a dispute between a fishing boat captain and his injured deckhand, that is more about a family rift than a fishing injury. Lauren begins to date again.    "
+                },
+                "4": {
+                    "title": "Shine a Light",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 64,
+                    "original air date": "6 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    As Kate mediates a severance agreement between an aeronautics company and a dismissed engineer, she discovers that the company may have something to hide. Meanwhile, Lauren babysits Ben as they placate a disgruntled client.    "
+                },
+                "5": {
+                    "title": "Gimme Shelter",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 67,
+                    "original air date": "13 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Kate fights to help a landlord save his building from foreclosure and the resident drug-dealer who is scaring away tenants.    "
+                },
+                "6": {
+                    "title": "What They Seem",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 68,
+                    "original air date": "20 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Kate and Ben go up against Justin and the city while representing a client who claims he was the victim of police brutality. A former client accuses Lauren of committing an ethics violation.    "
+                },
+                "7": {
+                    "title": "Teenage Wasteland",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 67,
+                    "original air date": "27 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Kate returns to her alma mater to mediate a dispute between the school and a student being expelled for cheating.    "
+                },
+                "8": {
+                    "title": "Ripple of Hope",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 71,
+                    "original air date": "4 May 2012",
+                    "year": "2012",
+                    "plot": "\n    When Kate is brought in to resolve a hunger strike at a local women's prison, she becomes obsessed with helping Lea Ferran, a prisoner who claims innocence.    "
+                },
+                "9": {
+                    "title": "Kiss Me, Kate",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 62,
+                    "original air date": "11 May 2012",
+                    "year": "2012",
+                    "plot": "\n    In the midst of trying to prevent a strike by the city transit-workers union, Kate struggles to understand her feelings for Ben.    "
+                },
+                "10": {
+                    "title": "Shattered",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 64,
+                    "original air date": "18 May 2012",
+                    "year": "2012",
+                    "plot": "\n    While mediating a case between a nursing home and a patient, Kate discovers that the only witness who can clear an innocent nurse of negligence is also a fugitive on the lam for 20 years.    "
+                },
+                "11": {
+                    "title": "Borderline",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 62,
+                    "original air date": "1 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Ben and Kate travel to Lake Tahoe to settle a border dispute between two police departments at odds over the recently-discovered remains of a young woman linked to a possible murder investigation.    "
+                },
+                "12": {
+                    "title": "Force Majeure",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 74,
+                    "original air date": "8 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Justin takes Kate to a concert by her favorite Brazilian singer and ends up embroiled in a scandal that puts Justin's political future in jeopardy.    "
+                },
+                "13": {
+                    "title": "Finale",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 90,
+                    "original air date": "15 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    While mediating a case regarding two women who were fired for their sexual orientation, Kate stumbles on evidence of a cover-up and enlists the help of Ben and Lauren to get to the bottom of a dirty land deal.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 152,
+                    "original air date": "20 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    Although her dad, a leading law firm's founder, recently died, Kate Reed's hard to please stepmother prods her mercilessly to keep up the pace in her extraordinary section, out of court arbitration. Kate's ex, public prosecutor Justin Patrick, is crucial in obtaining information, which she handles with conscience, trying to do right for tycoon client Charles Pease and the innocent good son in the car that hit his succession-destined son Doug's. The unexpected full truth proves surprisingly relevant to all. Judge David Nicastro exacts revenge on her by simultaneously ...    "
+                },
+                "2": {
+                    "title": "Priceless",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 113,
+                    "original air date": "27 Jan. 2011",
+                    "year": "2011",
+                    "plot": "\n    Despite resolving her cabbie's coffee-war with a biker on the road, Kate is late for a business client, forcing Lauren to take over, but she dares not enter her late husband's office to retrieve the case file. Justin asks enthusiastic Kate to prevent an embarrassing jury trial on damages the treasury can't afford for Steve Janks, who was released after 22 years of innocent incarceration. It gets even harder once Steve realizes he can't get his social life back anyhow. The Reed family is agonized by the impending reading of the late patriarch's last will.    "
+                },
+                "3": {
+                    "title": "Benched",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 102,
+                    "original air date": "3 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    Kate's nemesis Judge Nicastro assigns her to mediate a case between a high school football coach and the angry parents who claim his old school methods border on abuse. When the videotaped evidence doesn't make sense to her, Kate unearths the real reason for the coach's controversial actions.    "
+                },
+                "4": {
+                    "title": "Bo Me Once",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 101,
+                    "original air date": "10 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    Kate is mediating a dispute between the host of a cooking show who made a very popular barbecue sauce, and the company he made a deal with to manufacture it. Kate eventually learns that the host is not the actual creator but his producer who prefers to stay anonymous. But a man shows up who says he's the producer's father and the true creator of the sauce and demands his share. Kate learns that her father abused her which is why she keeps a low profile. Lauren tries to get all of her late husband's clients to stay with them. And she meets with one who's clearly a ...    "
+                },
+                "5": {
+                    "title": "The Two Richards",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 95,
+                    "original air date": "17 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    Justin Patrick made wonderful sex with Kate, so she's in the mood to 'treat' him. He has his doubts about the how, mediating with his nudist 'neighbor' in the apartment across the street. Richard Neumeier is physically recovered from a car accident, which the company offers more then standard compensation for. However his wife demands much more because it also changed his personality, which undermines the basis of their marriage.    "
+                },
+                "6": {
+                    "title": "Believers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 85,
+                    "original air date": "24 Feb. 2011",
+                    "year": "2011",
+                    "plot": "\n    Kate mediates when a maverick inventor threatens suicide at his termination. Lauren helps finalize a divorce between a wealthy investor and her woodsy ex-spouse. Kim, the sandwich girl volunteers to model for Leo's graphic novel project.    "
+                },
+                "7": {
+                    "title": "Coming Home",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 85,
+                    "original air date": "3 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Kate represents a woman who's parents were illegal immigrants and who assumed someone else's identity in order to enlist in the military. Justin and Kate face signing their divorce papers. Lauren concludes a large case involving a Chinese patent infringement.    "
+                },
+                "8": {
+                    "title": "Ultravinyl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 82,
+                    "original air date": "10 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Kate's juggling two cases. In the first the firm's been engaged to get the music rights to a song from a one hit wonder group that split on bad terms. In getting both sides to agree to mediation she discovers that they created more than just a song together. The second case involves a dispute between two gamers who need their cyberspace dispute mediated.    "
+                },
+                "9": {
+                    "title": "My Best Friend's Prenup",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 85,
+                    "original air date": "17 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Kate's best friend is getting married and Kate's been asked to mediate the signing of a pre-nup. When the girl's father starts making waves Kate gets involved and does some research which leads to some problematic information.    "
+                },
+                "10": {
+                    "title": "Bridges",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fairly Legal (TV Series 2011–2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 79,
+                    "original air date": "24 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Justin is hurt when Kate misses his legal profession award, shocked when she blurts out she's pregnant, furious when that is overruled by the doctor. Devoted stepfather Pete Marshall needs mediation between him and his dead wife's mother, who wants to take his stepdaughter (Vero)nika to her home country of Croatia, but their bickering makes her run away. Stepma Lauren fires 'rebel' Kate after meeting co-heir David Smith, whom she buys out under threat of endless court proceeding. Judge Nicastro commandeers Kate to mediate between the eternally litigious brothers Ralph...    "
+                }
+            }
+        },
+        "number of episodes": 23,
+        "cast": [
+            {
+                "name": "Shahi, Sarah"
+            },
+            {
+                "name": "Trucco, Michael"
+            },
+            {
+                "name": "Williams, Virginia"
+            },
+            {
+                "name": "Vaughn, Baron"
+            },
+            {
+                "name": "Johnson, Ryan"
+            },
+            {
+                "name": "Morales, Esai"
+            },
+            {
+                "name": "McRaney, Gerald"
+            },
+            {
+                "name": "Anderson, Richard Dean"
+            },
+            {
+                "name": "Embry, Ethan"
+            },
+            {
+                "name": "Fellingham, Tim"
+            },
+            {
+                "name": "Weigel, Devon"
+            },
+            {
+                "name": "Owen, Lloyd"
+            },
+            {
+                "name": "Moreno, Belita"
+            },
+            {
+                "name": "Yu, Raugi"
+            },
+            {
+                "name": "Whitaker, Conrad"
+            },
+            {
+                "name": "Weinstein, Elizabeth"
+            },
+            {
+                "name": "Margolis, Mark"
+            },
+            {
+                "name": "Keats, Richard"
+            },
+            {
+                "name": "Switch, Jamie"
+            },
+            {
+                "name": "Rector, Jerry"
+            },
+            {
+                "name": "Mandelcorn, Elliot"
+            },
+            {
+                "name": "Graham, Currie"
+            },
+            {
+                "name": "Ishibashi, Brittany"
+            },
+            {
+                "name": "MacNicol, Peter"
+            },
+            {
+                "name": "Markinson, Brian"
+            },
+            {
+                "name": "Norris, Dean"
+            },
+            {
+                "name": "Podhora, Roman"
+            },
+            {
+                "name": "Vance, Chris"
+            },
+            {
+                "name": "Alpay, David"
+            },
+            {
+                "name": "Gilmore, Patrick"
+            },
+            {
+                "name": "Gummersall, Devon"
+            },
+            {
+                "name": "Holroyd, Scott"
+            },
+            {
+                "name": "McClintock, Eddie"
+            },
+            {
+                "name": "Pedde, Eileen"
+            },
+            {
+                "name": "Potts, Jonathan"
+            },
+            {
+                "name": "Vidal, Christina"
+            },
+            {
+                "name": "Crewson, Wendy"
+            },
+            {
+                "name": "Henley, Barry Shabaka"
+            },
+            {
+                "name": "Hill, Aaron"
+            },
+            {
+                "name": "McGraw, Melinda"
+            },
+            {
+                "name": "Loaf, Meat"
+            },
+            {
+                "name": "Weisman, Kevin"
+            },
+            {
+                "name": "Copping, Jennifer"
+            },
+            {
+                "name": "Cortese, Joe"
+            },
+            {
+                "name": "Hope, Barclay"
+            },
+            {
+                "name": "Kennedy, Ryan"
+            },
+            {
+                "name": "Kusatsu, Clyde"
+            },
+            {
+                "name": "Richmond-Peck, David"
+            },
+            {
+                "name": "Stewart, Malcolm"
+            },
+            {
+                "name": "Amandes, Tom"
+            }
+        ],
+        "locations": [
+            "Vancouver, British Columbia, Canada",
+            "San Francisco, California, USA::(establishing shots, pilot)"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "runtimes": [
+            "41"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Singapore:PG::(season 1)",
+            "Singapore:NC-16::(season 2)",
+            "United States:TV-PG"
+        ],
+        "number of seasons": 2,
+        "rating": 7.4,
+        "votes": 7603,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTc1MDY3MzA0Nl5BMl5BanBnXkFtZTcwNzg4MTA3Nw@@._V1_SY150_CR4,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Fairly Legal",
+        "year": 2011,
+        "kind": "tv series",
+        "series years": "2011-2012",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Sardo, Michael"
+            },
+            {
+                "name": "Adler, Jim"
+            },
+            {
+                "name": "Singer, Blair"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Steve Stark Productions"
+            },
+            {
+                "name": "Garfield St. Productions"
+            },
+            {
+                "name": "Universal Cable Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "USA Network"
+            },
+            {
+                "name": "13th Street Universal"
+            },
+            {
+                "name": "TV2"
+            },
+            {
+                "name": "Universal Channel"
+            },
+            {
+                "name": "Universal Channel"
+            },
+            {
+                "name": "Universal Pictures Home Entertainment (UPHE)"
+            },
+            {
+                "name": "Universal Pictures"
+            },
+            {
+                "name": "Viasat3"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Atmosphere Visual Effects"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aion Art Gallery"
+            },
+            {
+                "name": "Beau Bonneau Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Clairmont Camera Film & Digital"
+            },
+            {
+                "name": "Entertainment Partners Canada"
+            },
+            {
+                "name": "PS Production Services"
+            },
+            {
+                "name": "Post Modern Sound"
+            },
+            {
+                "name": "The Picture Mill"
+            }
+        ],
+        "plot": [
+            "A woman, who quit being an attorney at her father's law firm to become a mediator, copes after her father's death.::Anonymous"
+        ],
+        "synopsis": [
+            "Kate Reed (Sarah Shahi) is a firm believer that justice can always be found--even if it's not always in the courtroom. Once a lawyer at her family's esteemed San Francisco firm, Kate's frustration with the legal system led her to a new career as a mediator. Thanks to her innate understanding of human nature, thorough legal knowledge, and winning smile, Kate is a natural when it comes to dispute resolution. Except, it seems, when it comes to conflicts in her own life.Kate clashes constantly with her partners at Reed & Reed, steely stepmother Lauren (Virginia Williams) and ambitious up-and-coming attorney Ben (Ryan Johnson), the latest addition to the firm. And her personal life is no less complicated, thanks to an on-again, off-again relationship with ex-husband Justin (Michael Trucco), a San Francisco ADA. Luckily, Kate's got her resourceful assistant Leo (Baron Vaughn) to back her up, and enough energy and determination to face just about any conflict, no matter how unconventional--or even impossible--it may seem.\n"
+        ],
+        "tech": {
+            "runtime": [
+                "41 min (USA)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Clairmont Cameras and Lenses",
+                "Cooke Lenses",
+                "RED - Mysterium X"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 7603,
+                "rating": 7.4
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "aged 18 29": {
+                "votes": 1498,
+                "rating": 7.6
+            },
+            "aged 30 44": {
+                "votes": 3190,
+                "rating": 7.2
+            },
+            "aged 45 plus": {
+                "votes": 1752,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 3419,
+                "rating": 7.1
+            },
+            "males aged 18 29": {
+                "votes": 570,
+                "rating": 7.3
+            },
+            "males aged 30 44": {
+                "votes": 1646,
+                "rating": 7.0
+            },
+            "males aged 45 plus": {
+                "votes": 1092,
+                "rating": 7.3
+            },
+            "females": {
+                "votes": 3170,
+                "rating": 7.7
+            },
+            "females aged 18 29": {
+                "votes": 905,
+                "rating": 7.9
+            },
+            "females aged 30 44": {
+                "votes": 1499,
+                "rating": 7.6
+            },
+            "females aged 45 plus": {
+                "votes": 637,
+                "rating": 7.6
+            },
+            "top 1000 voters": {
+                "votes": 99,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 2166,
+                "rating": 7.3
+            },
+            "non us users": {
+                "votes": 2918,
+                "rating": 7.2
+            }
+        },
+        "number of votes": {
+            "10": 1798,
+            "9": 1088,
+            "8": 1687,
+            "7": 1517,
+            "6": 642,
+            "5": 334,
+            "4": 141,
+            "3": 92,
+            "2": 72,
+            "1": 232
+        },
+        "arithmetic mean": 7.7,
+        "median": 8
+    }
+}

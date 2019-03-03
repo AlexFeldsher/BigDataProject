@@ -1,0 +1,644 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "9 September 2012"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "2 February 2014"
+            },
+            {
+                "country": "Finland\n",
+                "date": "26 March 2014"
+            }
+        ],
+        "release dates": [
+            "USA::9 September 2012",
+            "Sweden::2 February 2014",
+            "Finland::26 March 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Breaking Amish"
+            },
+            {
+                "countries": "Russia",
+                "title": "Амиши: Найти новую жизнь"
+            },
+            {
+                "countries": "Spain",
+                "title": "Amish: Rompiendo las reglas"
+            },
+            {
+                "countries": " (second season title)",
+                "title": "Breaking Amish: Brave New World"
+            }
+        ],
+        "akas": [
+            "Breaking Amish (original title)",
+            "Амиши: Найти новую жизнь Russia",
+            "Amish: Rompiendo las reglas Spain",
+            "Breaking Amish: Brave New World (second season title)"
+        ],
+        "akas from release info": [
+            "Breaking Amish (original title)",
+            "Амиши: Найти новую жизнь Russia",
+            "Amish: Rompiendo las reglas Spain",
+            "Breaking Amish: Brave New World (second season title)"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "Road Not Taken",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "original air date": "18 Sep. 2013",
+                    "year": "2013",
+                    "plot": "\n    A group of five young Amish men and woman have decided to make a move that will change their lives forever, risking everything and everyone they've ever known, But the group finds out early, chasing their wildest dreams may be easier said, than done.    "
+                },
+                "2": {
+                    "title": "On the Run",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "original air date": "25 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    Drama ensues as the group prepares to leave the Amish world for New York City. With the reality of leaving home and everything they've ever known setting in, some of them learn the past they are trying to leave behind may be coming along for the ride.    "
+                },
+                "3": {
+                    "title": "Bright Lights, Big City",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "original air date": "2 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Mary heads to NYC to visit Kate and gets a bit more than she bargained for. Katie Ann returns to support Mary and clean the B&B. Chapel visits Andrew and Jeremiah gets into trouble with the law.    "
+                },
+                "4": {
+                    "title": "House Divided",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "original air date": "9 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Matt's lies threaten to tear the group apart unless he comes clean to his wife about his hook up. To move past all the drama the group explores Central Park and the Statue of Liberty, but an unexpected guests arrival pushes things to a boiling point.    "
+                },
+                "5": {
+                    "title": "Forgive and Forget",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "original air date": "16 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Miriam tells Matt's wife the truth about their hookup and the group deals with the fallout. Meanwhile, Bates works on launching his acting career and Vonda tries online dating.    "
+                },
+                "6": {
+                    "title": "Out with the Old",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "original air date": "23 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    The group finally decides to ditch their Amish clothes, but one of them goes missing. Mirium focuses on her dreams, Matt's marriage takes a drastic turn and Bates is blind-sided by his girlfriend back home.    "
+                },
+                "7": {
+                    "title": "Make Things Right",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "original air date": "30 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    Matt and Bates return to the Amish and Mennonite country for the women they love; Bates visits his mother, who he has not seen since he left.    "
+                },
+                "8": {
+                    "title": "What Tomorrow May Bring",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "original air date": "6 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Miriam's return to New York brings the family back together, but the camaraderie doesn't last long. Bates focuses on his acting career but can't shake the fact that he doesn't have his mother's support.    "
+                },
+                "9": {
+                    "title": "Seizing the Moment",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "original air date": "13 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Matt rides high after his first live musical performance, but reality comes crashing down when Venus brings him unexpected news. Vonda finally begins to get past the memory of her late boyfriend while Bates deals with news that could change his life.    "
+                },
+                "10": {
+                    "title": "Episode #3.10",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "original air date": "20 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Having returned home to face their new reality, the group grapples with their decisions to return Amish or stay in the English world.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Jumping the Fence",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 11,
+                    "original air date": "9 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    Four Amish and one Mennonite leave the only home they've ever known to answer one question \"is there more to life\"? Facing being shunned by their families and possible exile from their communities, what will they think about life on the outside world?    "
+                },
+                "2": {
+                    "title": "What Have We Gotten Ourselves Into?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 9,
+                    "original air date": "16 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    The Amish find themselves in chaotic and vibrant New York City. Excited, scared and full of hope, they experience a variety of firsts. But as they adjust to the big city, both tension and romance begins to surface.    "
+                },
+                "3": {
+                    "title": "Breaking All the Rules",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "23 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    The cast breaks Amish & Mennonite rules by buying \"English\" clothes and getting tattoos. Later, Kate and Rebecca decide to pursue a modeling career. And Abe & Rebecca are shocked when both their families suddenly show up in NY to take them home.    "
+                },
+                "4": {
+                    "title": "New Beginnings",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 7,
+                    "original air date": "30 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n    Rebecca comes face to face with a brutal reality from her past, while Sabrina struggles to connect with her ethnic heritage. Kate breaks down under the pressure of being shunned by her family, and romance is blossoming between two cast-mates.    "
+                },
+                "5": {
+                    "title": "What Is Really Happening?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 6,
+                    "original air date": "7 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Kate, Jeremiah, Sabrina, Abe & Rebecca disagree about the good and bad of being Amish. Sabrina realizes she knows nothing about the Puerto Rican culture but desperately wants to connect to it. Kate's DUI past starts to catch up with her.    "
+                },
+                "6": {
+                    "title": "Good vs Evil",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "14 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Kate, Sabrina, Abe & Rebecca visit the Sex Museum. Kate strips down to a bikini for her first photo shoot. Abe gets serious about Rebecca and wants to take things to the next level. And everything comes to a stop when there are allegations of witchcraft.    "
+                },
+                "7": {
+                    "title": "Final Days",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "21 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Kate is cast out of the group. Jeremiah and Sabrina have something to hide. Abe finds out that Rebecca is not being honest. Sabrina finds her biological father. And the group begins to pack for home and must make one of the biggest decisions of their life    "
+                },
+                "8": {
+                    "title": "Decision Time",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "28 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    The group makes their way home to make one of the biggest decisions of their lives. Will they commit to being Amish/Mennonite or will they go English? They face their families and friends and the possibility of being shunned.    "
+                },
+                "9": {
+                    "title": "Party Time",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "original air date": "4 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Sabrina uncovers letters from her birth Mother while Kate gets a dose of reality. Abe and Rebecca struggle to plan their wedding, while Jeremiah and Sabrina plan a bachelor and bachelorette party the two might never forgive or forget in Atlantic City.    "
+                },
+                "10": {
+                    "title": "Finale",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 6,
+                    "original air date": "11 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    The pre-wedding party ends with tempers boiling over, but not before a shocking secret is revealed. Abe and Rebecca realize the difficulty of planning a wedding on their own. Finally, Jermiah confronts Sabrina about the future of their relationship.    "
+                },
+                "11": {
+                    "title": "The Shunning Truth, Part 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "original air date": "11 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    The cast of Breaking Amish: Brave New World are back and ready to set the record straight in an explosive two-part reunion special hosted by NBC's Michelle Beadle. Plus, sparks fly when the cast is come face to face with two mystery guests.    "
+                },
+                "12": {
+                    "title": "The Shunning Truth, Part 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "original air date": "18 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    In Part 2 of this reunion special, the cast clears the air, addressing the rumors and allegations that have surfaced since the series premiered. Are they really Amish or actors? What is the truth behind Abe and Rebecca's relationship?    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Nothing to Lose",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "May 2013",
+                    "year": "2013",
+                    "plot": "\n    Abe, Rebecca, Jeremiah, Sabrina and Kate have all struggled to adapt to their new lives after leaving the Amish and Mennonite communities and going \"English\". Jeremiah hatches a plan to get the gang back together and offers them a chance at redemption.    "
+                },
+                "3": {
+                    "title": "Facing Demons",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "May 2013",
+                    "year": "2013",
+                    "plot": "\n    The cast has great expectations when they finally make it down to Florida, but there's trouble in paradise. Jeremiah's surprise visitor has an ulterior motive for showing up and Kate comes to Sabrina's rescue when she gets caught in the middle.    "
+                },
+                "4": {
+                    "title": "Flirting with Disaster",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "original air date": "Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Lingering sexual tension between Sabrina and Jeremiah raises some eyebrows, and the heat is on when Sabrina has a sudden confrontation with Jeremiah's ex. Hope for a fresh start in Florida takes a turn when more unwanted guests come knocking.    "
+                },
+                "5": {
+                    "title": "What's the Beef?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "original air date": "Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Sabrina gets a call from a private investigator with suprising new information about her biological family, Abe chases his dream of becoming a professional bull rider and Jeremiah bears the consequences of his illicit affair.    "
+                },
+                "6": {
+                    "title": "Forbidden Fruit",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "original air date": "Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    A surprise modeling gig in Miami offers Kate an escape from the others, or so she thinks. Katie Ann has a surprise of her own in store for Mary and a big decision about her future. Jeremiah discovers footage of Kate that leaves everyone in shock.    "
+                },
+                "7": {
+                    "title": "Devil in a Red Dress",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "original air date": "Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Sparks fly when Katie Ann decides to get a makeover and picks Kate over Abe and Rebecca to go with her. Sabrina tries to find her long lost family, and herself, in Puerto Rico with Jeremiah along for the ride. And Abe finally goes bull riding.    "
+                },
+                "8": {
+                    "title": "A Brother's Secret",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "original air date": "Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Jeremiah comes back from Puerto Rico with a heavy heart and Sabrina makes a surprise decision about her future. An unexpected visitor from back home shows up to check on Mary and Katie Ann. And the group finally make decisions about what's next.    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "Shunned on the Run",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Breaking Amish (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "13 May 2013",
+                    "year": "2013",
+                    "plot": "\n    The group reunites for the first time since leaving New York, but they are not prepared for life on the road in close quarters. Meanwhile, when the Bishop shows up back in Punxy, Abe's mother Mary is faced with the most difficult decision of her life.    "
+                }
+            }
+        },
+        "number of episodes": 30,
+        "cast": [
+            {
+                "name": "Raber, Jeremiah"
+            },
+            {
+                "name": "Rebecca"
+            },
+            {
+                "name": "Sabrina"
+            },
+            {
+                "name": "Schmucker, Abe"
+            },
+            {
+                "name": "Stoltz, Kate"
+            },
+            {
+                "name": "Barbie"
+            },
+            {
+                "name": "Bates"
+            },
+            {
+                "name": "Matt"
+            },
+            {
+                "name": "Miriam"
+            },
+            {
+                "name": "Vonda"
+            }
+        ],
+        "locations": [
+            "New York City, New York, USA",
+            "Pennsylvania, USA",
+            "Ohio, USA"
+        ],
+        "genres": [
+            "Documentary",
+            "Reality-TV"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 3,
+        "rating": 5.0,
+        "votes": 973,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMzYxMDE0NDEzN15BMl5BanBnXkFtZTcwMzM5NzE3OA@@._V1_SY150_CR62,0,101,150_.jpg",
+        "plot outline": "Follows five young adults who find the courage to leave their restrictive Amish communities. The group head to New York City, where the somewhat sheltered youths begin experimenting with alcohol, living up the nightlife, and experiencing the drama and heartache of relationships for the first time.",
+        "languages": [
+            "English"
+        ],
+        "title": "Breaking Amish",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "writer": [
+            {
+                "name": "Evangelista, Eric"
+            },
+            {
+                "name": "Evangelista, Shannon"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Hot Snakes Media"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Discovery Communications"
+            },
+            {
+                "name": "TLC Network"
+            },
+            {
+                "name": "The Learning Channel (TLC)"
+            }
+        ],
+        "plot": [
+            "Follows five young adults who find the courage to leave their restrictive Amish communities. The group head to New York City, where the somewhat sheltered youths begin experimenting with alcohol, living up the nightlife, and experiencing the drama and heartache of relationships for the first time.::TLC",
+            "Four Amish and one Mennonite put everything on the line to answer one question \"is there more to life?\" Leaving the only home they've ever known, they move to New York City to try a dramatically different lifestyle on for size. The decision to pack up their bags comes with a lot of risk. Each of them face being shunned by their families and possible exile from their communities. In the end, they will decide if they want to remain Amish and Mennonite or seek a future in the outside world.::TLC"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 973,
+                "rating": 5.0
+            },
+            "aged 18 29": {
+                "votes": 238,
+                "rating": 5.1
+            },
+            "aged 30 44": {
+                "votes": 370,
+                "rating": 4.8
+            },
+            "aged 45 plus": {
+                "votes": 159,
+                "rating": 4.7
+            },
+            "males": {
+                "votes": 386,
+                "rating": 4.4
+            },
+            "males aged 18 29": {
+                "votes": 92,
+                "rating": 4.7
+            },
+            "males aged 30 44": {
+                "votes": 189,
+                "rating": 4.4
+            },
+            "males aged 45 plus": {
+                "votes": 81,
+                "rating": 4.1
+            },
+            "females": {
+                "votes": 434,
+                "rating": 5.5
+            },
+            "females aged 18 29": {
+                "votes": 141,
+                "rating": 5.5
+            },
+            "females aged 30 44": {
+                "votes": 178,
+                "rating": 5.3
+            },
+            "females aged 45 plus": {
+                "votes": 75,
+                "rating": 5.5
+            },
+            "top 1000 voters": {
+                "votes": 29,
+                "rating": 3.5
+            },
+            "us users": {
+                "votes": 365,
+                "rating": 4.7
+            },
+            "non us users": {
+                "votes": 252,
+                "rating": 4.7
+            }
+        },
+        "number of votes": {
+            "10": 162,
+            "9": 52,
+            "8": 85,
+            "7": 117,
+            "6": 111,
+            "5": 101,
+            "4": 58,
+            "3": 58,
+            "2": 58,
+            "1": 171
+        },
+        "arithmetic mean": 5.6,
+        "median": 6
+    }
+}

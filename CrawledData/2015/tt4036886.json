@@ -1,0 +1,431 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "3 May 2015"
+            },
+            {
+                "country": "Ireland\n",
+                "date": "3 May 2015"
+            },
+            {
+                "country": "Switzerland\n",
+                "date": "31 October 2015",
+                "notes": "                            (French speaking region) (German speaking region) (Italian speaking region)"
+            },
+            {
+                "country": "Italy\n",
+                "date": "31 October 2015"
+            },
+            {
+                "country": "Austria\n",
+                "date": "27 October 2016"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "27 October 2016"
+            },
+            {
+                "country": "Germany\n",
+                "date": "27 October 2016"
+            },
+            {
+                "country": "France\n",
+                "date": "27 October 2016"
+            }
+        ],
+        "release dates": [
+            "UK::3 May 2015",
+            "Ireland::3 May 2015",
+            "Switzerland::31 October 2015                            (French speaking region) (German speaking region) (Italian speaking region)",
+            "Italy::31 October 2015",
+            "Austria::27 October 2016",
+            "Belgium::27 October 2016",
+            "Germany::27 October 2016",
+            "France::27 October 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Enfield Haunting"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Случаят Енфийлд"
+            },
+            {
+                "countries": "Germany",
+                "title": "Unsichtbare Besucher"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Enfield szelleme"
+            },
+            {
+                "countries": "Italy",
+                "title": "Enfield: oscure presenze"
+            },
+            {
+                "countries": "Romania",
+                "title": "Fantoma din Enfield"
+            },
+            {
+                "countries": "Russia",
+                "title": "Призраки Энфилда"
+            },
+            {
+                "countries": "USA",
+                "title": "The Enfield Haunting"
+            }
+        ],
+        "akas": [
+            "The Enfield Haunting (original title)",
+            "Случаят Енфийлд Bulgaria (Bulgarian title)",
+            "Unsichtbare Besucher Germany",
+            "Enfield szelleme Hungary",
+            "Enfield: oscure presenze Italy",
+            "Fantoma din Enfield Romania",
+            "Призраки Энфилда Russia",
+            "The Enfield Haunting USA"
+        ],
+        "akas from release info": [
+            "The Enfield Haunting (original title)",
+            "Случаят Енфийлд Bulgaria (Bulgarian title)",
+            "Unsichtbare Besucher Germany",
+            "Enfield szelleme Hungary",
+            "Enfield: oscure presenze Italy",
+            "Fantoma din Enfield Romania",
+            "Призраки Энфилда Russia",
+            "The Enfield Haunting USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Enfield Haunting (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 217,
+                    "original air date": "3 May 2015",
+                    "year": "2015",
+                    "plot": "\n    In 1977 London, a family's home shows signs of poltergeist activity, prompting them to ask Maurice Grosse, a psychic investigator, for help. He is joined by another researcher, Guy Playfair, a skeptic whose beliefs are soon tested.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Enfield Haunting (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 168,
+                    "original air date": "10 May 2015",
+                    "year": "2015",
+                    "plot": "\n    As the investigation into the haunting continues, Janet is further terrorized by the poltergeist, causing Guy - and a reluctant Maurice - to contact a medium to try and communicate with it, before their superiors are called in.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Enfield Haunting (TV Mini-Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 145,
+                    "original air date": "17 May 2015",
+                    "year": "2015",
+                    "plot": "\n    In order to rid themselves of the various investigators disrupting their lives, Janet and Margaret claim that the haunting is a fake before inviting back Maurice and Guy, who attempt to exorcise the spirits from the house for good.    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Spall, Timothy"
+            },
+            {
+                "name": "Worthington-Cox, Eleanor"
+            },
+            {
+                "name": "Stevenson, Juliet"
+            },
+            {
+                "name": "Deacon, Fern"
+            },
+            {
+                "name": "Cavaliero, Rosie"
+            },
+            {
+                "name": "Kerley, Elliot"
+            },
+            {
+                "name": "Macfadyen, Matthew"
+            },
+            {
+                "name": "Rodger, Struan"
+            },
+            {
+                "name": "Furness, Charles"
+            },
+            {
+                "name": "Price, Joey"
+            },
+            {
+                "name": "Chandler, Simon"
+            },
+            {
+                "name": "Lawrence, Amanda"
+            },
+            {
+                "name": "Francis, Sean"
+            },
+            {
+                "name": "Hafner, Eleanor"
+            },
+            {
+                "name": "Grosse, Nick"
+            },
+            {
+                "name": "Grosse, Antonia"
+            },
+            {
+                "name": "Airey, Eliza"
+            },
+            {
+                "name": "Barry, Neal"
+            },
+            {
+                "name": "Boyle, Nigel"
+            },
+            {
+                "name": "Wise, Susannah"
+            },
+            {
+                "name": "McDonnell, Tommy"
+            },
+            {
+                "name": "Henry, Diveen"
+            },
+            {
+                "name": "Stitt, Scarlett"
+            },
+            {
+                "name": "Gerber, Maya"
+            },
+            {
+                "name": "McCabe, Peter"
+            },
+            {
+                "name": "O'Neill, Steven"
+            },
+            {
+                "name": "Bhuchar, Sudha"
+            },
+            {
+                "name": "Hancock, Martin"
+            },
+            {
+                "name": "Lewis-Attenborough, Karen"
+            },
+            {
+                "name": "Bartlett, Nick"
+            },
+            {
+                "name": "Octavia, Alexandra"
+            },
+            {
+                "name": "Banks, Richard"
+            },
+            {
+                "name": "Bristow, Myah"
+            },
+            {
+                "name": "Drew, Paul"
+            },
+            {
+                "name": "Sharpe, Janette"
+            }
+        ],
+        "genres": [
+            "Biography",
+            "Drama",
+            "Horror",
+            "Mystery"
+        ],
+        "runtimes": [
+            "136"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "certificates": [
+            "Germany:16",
+            "United Kingdom:15",
+            "United States:Not Rated"
+        ],
+        "original air date": "03 May 2015 (UK)",
+        "number of seasons": 1,
+        "rating": 7.2,
+        "votes": 3502,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BM2FhOTNiMDktMjJiZi00M2UyLTkyNzMtZTdlMDhjZGEwNmM3XkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_SY150_CR3,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Enfield Haunting",
+        "year": 2015,
+        "kind": "tv mini series",
+        "series years": "2015-2015",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Playfair, Guy Lyon"
+            },
+            {
+                "name": "Johnston, Joshua St"
+            }
+        ],
+        "director": [
+            {
+                "name": "Nyholm, Kristoffer"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Eleven"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Sky Broadcasting (BSkyB)"
+            },
+            {
+                "name": "Sky Living"
+            },
+            {
+                "name": "Rough Trade Distribution"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Panavision London"
+            },
+            {
+                "name": "Production Copier Company"
+            },
+            {
+                "name": "Ray Knight Casting"
+            }
+        ],
+        "plot": [
+            "In August 1977, a series of bizarre and terrifying events begin to take place in a seemingly ordinary house in Enfield, North London.::Frederik Wendelboe Hansen"
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr 16 min (136 min)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3502,
+                "rating": 7.2
+            },
+            "aged under 18": {
+                "votes": 3,
+                "rating": 6.7
+            },
+            "aged 18 29": {
+                "votes": 501,
+                "rating": 7.3
+            },
+            "aged 30 44": {
+                "votes": 1411,
+                "rating": 7.0
+            },
+            "aged 45 plus": {
+                "votes": 751,
+                "rating": 7.3
+            },
+            "males": {
+                "votes": 1989,
+                "rating": 7.1
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 303,
+                "rating": 7.3
+            },
+            "males aged 30 44": {
+                "votes": 1009,
+                "rating": 7.0
+            },
+            "males aged 45 plus": {
+                "votes": 545,
+                "rating": 7.3
+            },
+            "females": {
+                "votes": 856,
+                "rating": 7.2
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 6.0
+            },
+            "females aged 18 29": {
+                "votes": 191,
+                "rating": 7.2
+            },
+            "females aged 30 44": {
+                "votes": 391,
+                "rating": 7.1
+            },
+            "females aged 45 plus": {
+                "votes": 193,
+                "rating": 7.5
+            },
+            "top 1000 voters": {
+                "votes": 73,
+                "rating": 6.4
+            },
+            "us users": {
+                "votes": 322,
+                "rating": 7.2
+            },
+            "non us users": {
+                "votes": 1880,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 361,
+            "9": 434,
+            "8": 919,
+            "7": 924,
+            "6": 489,
+            "5": 186,
+            "4": 83,
+            "3": 47,
+            "2": 20,
+            "1": 39
+        },
+        "arithmetic mean": 7.4,
+        "median": 7
+    }
+}

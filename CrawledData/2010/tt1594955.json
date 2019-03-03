@@ -1,0 +1,400 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "30 January 2010"
+            },
+            {
+                "country": "Australia\n",
+                "date": "19 October 2010"
+            },
+            {
+                "country": "Finland\n",
+                "date": "5 May 2011"
+            }
+        ],
+        "release dates": [
+            "UK::30 January 2010",
+            "Australia::19 October 2010",
+            "Finland::5 May 2011"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Virtual Revolution"
+            },
+            {
+                "countries": "Finland",
+                "title": "Virtuaalivallankumous"
+            }
+        ],
+        "akas": [
+            "The Virtual Revolution (original title)",
+            "Virtuaalivallankumous Finland"
+        ],
+        "akas from release info": [
+            "The Virtual Revolution (original title)",
+            "Virtuaalivallankumous Finland"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Great Levelling?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Virtual Revolution (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 11,
+                    "original air date": "30 Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    In the first in this four-part series, Aleks charts the extraordinary rise of blogs, Wikipedia and YouTube, and traces an ongoing clash between the freedom the technology offers us, and our innate human desire to control and profit. Dr Aleks Krotoski looks at how it is reshaping almost every aspect of our lives. Joined by some of the web's biggest names - including the founders of Facebook, Twitter, Amazon, Apple and Microsoft, and the web's inventor - she explores how far the web has lived up to its early promise.    "
+                },
+                "2": {
+                    "title": "Enemy of the State?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Virtual Revolution (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 7,
+                    "original air date": "6 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "The Cost of Free",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Virtual Revolution (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 7,
+                    "original air date": "13 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Homo Interneticus?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Virtual Revolution (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 7,
+                    "original air date": "20 Feb. 2010",
+                    "year": "2010",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Krotoski, Aleks"
+            },
+            {
+                "name": "Berners-Lee, Tim"
+            },
+            {
+                "name": "Fry, Stephen"
+            },
+            {
+                "name": "Gates, Bill"
+            },
+            {
+                "name": "Bezos, Jeff"
+            },
+            {
+                "name": "Gore, Al"
+            },
+            {
+                "name": "Hurley, Chad"
+            },
+            {
+                "name": "Keen, Andrew"
+            },
+            {
+                "name": "Wozniak, Steve"
+            },
+            {
+                "name": "Fox, Martha Lane"
+            },
+            {
+                "name": "Leadbeater, Charlie"
+            },
+            {
+                "name": "Runciman, David"
+            },
+            {
+                "name": "Rushkoff, Douglas"
+            },
+            {
+                "name": "Shirky, Clay"
+            },
+            {
+                "name": "Siegel, Lee"
+            },
+            {
+                "name": "Stone, Biz"
+            },
+            {
+                "name": "Zuckerberg, Mark"
+            },
+            {
+                "name": "Agbevi, Kudjo"
+            },
+            {
+                "name": "Anderson, Chris"
+            },
+            {
+                "name": "Anderson, Ross"
+            },
+            {
+                "name": "Barlow, John Perry"
+            },
+            {
+                "name": "Battelle, John"
+            },
+            {
+                "name": "Boyd, Dana"
+            },
+            {
+                "name": "Brand, Stewart"
+            },
+            {
+                "name": "Carr, Nicholas"
+            },
+            {
+                "name": "Cerf, Vint"
+            },
+            {
+                "name": "Chakrabarti, Shami"
+            },
+            {
+                "name": "Conti, Greg"
+            },
+            {
+                "name": "Cox, Chris"
+            },
+            {
+                "name": "Dunbar, Robin"
+            },
+            {
+                "name": "Fanning, Shawn"
+            },
+            {
+                "name": "Finch, Bob"
+            },
+            {
+                "name": "Gallagher, David"
+            },
+            {
+                "name": "Gardner, Frank"
+            },
+            {
+                "name": "Geers, Kenneth"
+            },
+            {
+                "name": "Goldstein, Seth"
+            },
+            {
+                "name": "Goloskokov, Konstantin"
+            },
+            {
+                "name": "Greenfield, Susan"
+            },
+            {
+                "name": "Hastings, Reed"
+            },
+            {
+                "name": "Heap, Austin"
+            },
+            {
+                "name": "Huffington, Arianna"
+            },
+            {
+                "name": "Hughes, Chris"
+            },
+            {
+                "name": "Hussain, Ishtiaq"
+            },
+            {
+                "name": "Ilves, Toomas Hendrik"
+            },
+            {
+                "name": "Johnson, Steven"
+            },
+            {
+                "name": "Kapor, Mitch"
+            },
+            {
+                "name": "Khatib, Lina"
+            },
+            {
+                "name": "Kvaran, Einar"
+            },
+            {
+                "name": "Marcus, James"
+            },
+            {
+                "name": "Margolis, Cindy"
+            }
+        ],
+        "genres": [
+            "Documentary"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Australia:PG"
+        ],
+        "number of seasons": 1,
+        "rating": 7.9,
+        "votes": 135,
+        "budget": "GBP400,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "The Virtual Revolution",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-",
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "British Broadcasting Corporation"
+            },
+            {
+                "name": "The Open University"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC) Television"
+            },
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Jellyfish Pictures"
+            },
+            {
+                "name": "Sound Byte Studios"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (UK)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 135,
+                "rating": 7.9
+            },
+            "aged 18 29": {
+                "votes": 20,
+                "rating": 8.2
+            },
+            "aged 30 44": {
+                "votes": 64,
+                "rating": 7.4
+            },
+            "aged 45 plus": {
+                "votes": 33,
+                "rating": 8.0
+            },
+            "males": {
+                "votes": 98,
+                "rating": 7.8
+            },
+            "males aged 18 29": {
+                "votes": 18,
+                "rating": 8.3
+            },
+            "males aged 30 44": {
+                "votes": 52,
+                "rating": 7.4
+            },
+            "males aged 45 plus": {
+                "votes": 25,
+                "rating": 7.7
+            },
+            "females": {
+                "votes": 20,
+                "rating": 8.1
+            },
+            "females aged 18 29": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "females aged 30 44": {
+                "votes": 11,
+                "rating": 7.5
+            },
+            "females aged 45 plus": {
+                "votes": 8,
+                "rating": 8.9
+            },
+            "top 1000 voters": {
+                "votes": 8,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 13,
+                "rating": 7.3
+            },
+            "non us users": {
+                "votes": 92,
+                "rating": 7.8
+            }
+        },
+        "number of votes": {
+            "10": 30,
+            "9": 23,
+            "8": 39,
+            "7": 26,
+            "6": 7,
+            "5": 3,
+            "4": 1,
+            "3": 0,
+            "2": 0,
+            "1": 6
+        },
+        "arithmetic mean": 7.9,
+        "median": 8
+    }
+}

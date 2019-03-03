@@ -1,0 +1,397 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "January 2010"
+            },
+            {
+                "country": "Australia\n",
+                "date": "16 January 2010"
+            }
+        ],
+        "release dates": [
+            "UK::January 2010",
+            "Australia::16 January 2010"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Black Panther"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Pantera Negra"
+            },
+            {
+                "countries": "Russia",
+                "title": "Чёрная Пантера"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Crni Panter"
+            },
+            {
+                "countries": "USA (alternative title)",
+                "title": "Black Panther: Who is the Black Panther?"
+            }
+        ],
+        "akas": [
+            "Black Panther (original title)",
+            "Pantera Negra Brazil",
+            "Чёрная Пантера Russia",
+            "Crni Panter Serbia",
+            "Black Panther: Who is the Black Panther? USA (alternative title)"
+        ],
+        "akas from release info": [
+            "Black Panther (original title)",
+            "Pantera Negra Brazil",
+            "Чёрная Пантера Russia",
+            "Crni Panter Serbia",
+            "Black Panther: Who is the Black Panther? USA (alternative title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Black Panther (TV Mini-Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 60,
+                    "original air date": "Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    An accident at the Vibranium Mound draws the attention of the Black Panther.    "
+                },
+                "2": {
+                    "title": "Black Panther",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Black Panther (TV Mini-Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 55,
+                    "original air date": "Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    Juggernaut and the Black Knight spearhead the attack on Wakanda.    "
+                },
+                "3": {
+                    "title": "Revenge of the Evil",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Black Panther (TV Mini-Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 41,
+                    "original air date": "Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    With Wakanda under siege from Klaw's super-mercenaries, the Black Panther confronts the Black Knight in aerial combat.    "
+                },
+                "4": {
+                    "title": "Death of Father",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Black Panther (TV Mini-Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 41,
+                    "original air date": "Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    The American Military plans a strategic intervention with zombie cyborgs.    "
+                },
+                "5": {
+                    "title": "Black Panther vs. Juggernaut and Black Knight",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Black Panther (TV Mini-Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 40,
+                    "original air date": "Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    Klaw has taken control of Wakanda, and the Black Panther races against time to save his nation from destruction.    "
+                },
+                "6": {
+                    "title": "To the End",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Black Panther (TV Mini-Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 38,
+                    "original air date": "Jan. 2010",
+                    "year": "2010",
+                    "plot": "\n    The Black Panther battles Klaw for the fate of his nation, while the U.S. military takes advantage of the chaos for its own ends.    "
+                }
+            }
+        },
+        "number of episodes": 6,
+        "cast": [
+            {
+                "name": "Hounsou, Djimon"
+            },
+            {
+                "name": "Scott, Jill"
+            },
+            {
+                "name": "Lumbly, Carl"
+            },
+            {
+                "name": "Stanton, Stephen"
+            },
+            {
+                "name": "Washington, Kerry"
+            },
+            {
+                "name": "Woodard, Alfre"
+            },
+            {
+                "name": "Busch, David"
+            },
+            {
+                "name": "Blanc, JB"
+            },
+            {
+                "name": "Lurie, Peter"
+            },
+            {
+                "name": "Marshall, Vanessa"
+            },
+            {
+                "name": "Morris, Phil"
+            },
+            {
+                "name": "Wasserman, Rick D."
+            },
+            {
+                "name": "Perna, Georgette"
+            },
+            {
+                "name": "Richardson, Kevin Michael"
+            },
+            {
+                "name": "LaMarr, Phil"
+            },
+            {
+                "name": "Adams, Jonathan"
+            },
+            {
+                "name": "North, Nolan"
+            },
+            {
+                "name": "Diggs, Taye"
+            },
+            {
+                "name": "Lee, Stan"
+            },
+            {
+                "name": "Pasdar, Adrian"
+            },
+            {
+                "name": "White, Earl"
+            },
+            {
+                "name": "Hudlin, Reginald"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Australia:M",
+            "Russia:12+",
+            "United Kingdom:12",
+            "United States:TV-14"
+        ],
+        "original air date": "Jan 2010 (UK)",
+        "number of seasons": 1,
+        "rating": 7.2,
+        "votes": 1217,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMDM4YzEwNzItMTg2ZS00MWU4LTlkNDgtODMyMmU0OGQyZTBkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SY150_CR4,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Black Panther",
+        "year": 2010,
+        "kind": "tv mini series",
+        "series years": "2010-2010",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Hudlin, Reginald"
+            },
+            {
+                "name": "Jr., John Romita"
+            },
+            {
+                "name": "Kirby, Jack"
+            }
+        ],
+        "director": [
+            {
+                "name": "Brooks, Mark"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "BET Networks/Viacom"
+            },
+            {
+                "name": "Marvel Animation"
+            },
+            {
+                "name": "Marvel Comics"
+            },
+            {
+                "name": "Marvel Knights"
+            },
+            {
+                "name": "Marvel Television"
+            },
+            {
+                "name": "Walt Disney Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Australian Broadcasting Corporation (ABC)"
+            },
+            {
+                "name": "Black Entertainment Television (BET)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Hacienda Post"
+            },
+            {
+                "name": "Main Street Pictures"
+            }
+        ],
+        "plot": [
+            "_Black Panther_ (qv) is the ruler and protector of the African nation of Wakanda. Using technology, wits, and extraordinary fighting ability he must protect his nation from an invasion led by Ulysses Klaw, the man who killed his father.::page8701"
+        ],
+        "tech": {
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1217,
+                "rating": 7.2
+            },
+            "aged 18 29": {
+                "votes": 233,
+                "rating": 7.5
+            },
+            "aged 30 44": {
+                "votes": 509,
+                "rating": 7.2
+            },
+            "aged 45 plus": {
+                "votes": 165,
+                "rating": 6.7
+            },
+            "males": {
+                "votes": 859,
+                "rating": 7.2
+            },
+            "males aged 18 29": {
+                "votes": 202,
+                "rating": 7.5
+            },
+            "males aged 30 44": {
+                "votes": 462,
+                "rating": 7.2
+            },
+            "males aged 45 plus": {
+                "votes": 148,
+                "rating": 6.6
+            },
+            "females": {
+                "votes": 91,
+                "rating": 7.7
+            },
+            "females aged 18 29": {
+                "votes": 31,
+                "rating": 8.1
+            },
+            "females aged 30 44": {
+                "votes": 39,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 16,
+                "rating": 7.8
+            },
+            "top 1000 voters": {
+                "votes": 67,
+                "rating": 6.3
+            },
+            "us users": {
+                "votes": 364,
+                "rating": 7.1
+            },
+            "non us users": {
+                "votes": 377,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 275,
+            "9": 116,
+            "8": 244,
+            "7": 256,
+            "6": 137,
+            "5": 54,
+            "4": 22,
+            "3": 15,
+            "2": 16,
+            "1": 82
+        },
+        "arithmetic mean": 7.3,
+        "median": 8
+    }
+}

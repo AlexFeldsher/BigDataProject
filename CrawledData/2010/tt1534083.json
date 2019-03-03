@@ -1,0 +1,480 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Sweden\n",
+                "date": "March 2010"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "12 April 2010"
+            },
+            {
+                "country": "Germany\n",
+                "date": "22 March 2012"
+            },
+            {
+                "country": "France\n",
+                "date": "22 March 2012"
+            }
+        ],
+        "release dates": [
+            "Sweden::March 2010",
+            "Sweden::12 April 2010",
+            "Germany::22 March 2012",
+            "France::22 March 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Kommissarie Winter"
+            },
+            {
+                "countries": "France",
+                "title": "Les enquêtes du commissaire Winter"
+            },
+            {
+                "countries": "Germany",
+                "title": "Kommissar Winter"
+            }
+        ],
+        "akas": [
+            "Kommissarie Winter (original title)",
+            "Les enquêtes du commissaire Winter France",
+            "Kommissar Winter Germany"
+        ],
+        "akas from release info": [
+            "Kommissarie Winter (original title)",
+            "Les enquêtes du commissaire Winter France",
+            "Kommissar Winter Germany"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Vänaste land: Del 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Kommissarie Winter (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 69,
+                    "original air date": "12 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Erik Winter is called out to a crime scene in Göteborg's suburb where three immigrant men are found killed with their faces were shot of. Winter is struggling to find a motive, but people in the neighborhood are too afraid to talk.    "
+                },
+                "2": {
+                    "title": "Vänaste land: Del 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Kommissarie Winter (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 46,
+                    "original air date": "19 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Erik Winter is investigating the murders of immigrants in the suburb of Göteborg. Soon another immigrant is murdered. Winter is still clueless about the motive and intensify the search of the boy on a bike who is a possible witness.    "
+                },
+                "3": {
+                    "title": "Rum nummer 10: Del 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Kommissarie Winter (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 52,
+                    "original air date": "26 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    A woman is found hanged in a hotel room. Soon Erik Winter realizes that he's been there before, 14 years ago when a woman vanished from exactly the same room. Is it a coincidence or does the two women have something else in common besides room number 10?    "
+                },
+                "4": {
+                    "title": "Rum nummer 10: Del 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Kommissarie Winter (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 35,
+                    "original air date": "3 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Another woman is found hanged in the same creepy hotel, in the same room, number 10. Meanwhile Erik Winter has difficulties forgetting the 18 years old case where a woman vanished from exactly the same room. Soon he learns the horrific truth.    "
+                },
+                "5": {
+                    "title": "Nästan död man: Del 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Kommissarie Winter (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 46,
+                    "original air date": "10 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Almost Dead Man - a young girl goes missing, a car is abandoned on a bridge and two men are murdered....will a connection be found?    "
+                },
+                "6": {
+                    "title": "Nästan död man: Del 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Kommissarie Winter (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 35,
+                    "original air date": "17 May 2010",
+                    "year": "2010",
+                    "plot": "\n    Almost Dead Man - Part 2 - Inspector Winter discovers what happened to the young girl who disappeared and how does the information relate to the current murders?    "
+                },
+                "7": {
+                    "title": "Den sista vintern: Del 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Kommissarie Winter (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 49,
+                    "original air date": "24 May 2010",
+                    "year": "2010",
+                    "plot": "\n    The Last Winter - a woman is found dead in her bed and Ringmar is convinced that the boyfriend is guilty, until it happens again to another young couple. Elsa & Lilly find a body in the snow while Erik and Angela hunt for a house.    "
+                },
+                "8": {
+                    "title": "Den sista vintern: Del 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Kommissarie Winter (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 36,
+                    "original air date": "31 May 2010",
+                    "year": "2010",
+                    "plot": "\n    The Last Winter (Part 2) - Officer Gerda goes missing, her partner goes to Erik and they determine this could be related to the investigation. When the culprit is identified Erik senses a personal threat to his family.    "
+                }
+            }
+        },
+        "number of episodes": 8,
+        "cast": [
+            {
+                "name": "Krepper, Magnus"
+            },
+            {
+                "name": "Andersson, Peter"
+            },
+            {
+                "name": "Ooms, Amanda"
+            },
+            {
+                "name": "Dyall, Sharon"
+            },
+            {
+                "name": "Hultén, Jens"
+            },
+            {
+                "name": "Kamijo, Tilde"
+            },
+            {
+                "name": "Kamijo, Dellie"
+            },
+            {
+                "name": "Trägårdh, Victor"
+            },
+            {
+                "name": "Engström, Stig"
+            },
+            {
+                "name": "Krepper, Sanna"
+            },
+            {
+                "name": "Ekedahl, Peter"
+            },
+            {
+                "name": "Lidén, Anki"
+            },
+            {
+                "name": "Gödicke, Stefan"
+            },
+            {
+                "name": "Crépin, Malin"
+            },
+            {
+                "name": "Richardson, Marie"
+            },
+            {
+                "name": "Segerström, Michael"
+            },
+            {
+                "name": "Di Ponziano, Antonio"
+            },
+            {
+                "name": "Mybrand, Jan"
+            },
+            {
+                "name": "Parvaneh, Ramtin"
+            },
+            {
+                "name": "Blomgren, Mats"
+            },
+            {
+                "name": "Ljung, Cecilia"
+            },
+            {
+                "name": "Kulle, Maria"
+            },
+            {
+                "name": "Nilsson, Frederik"
+            },
+            {
+                "name": "Aspelin, Tobias"
+            },
+            {
+                "name": "Karlge, Meliz"
+            },
+            {
+                "name": "Bodnia, Kim"
+            },
+            {
+                "name": "Hallin, Annika"
+            },
+            {
+                "name": "Berner, Michaela"
+            },
+            {
+                "name": "Carlberg, Peter"
+            },
+            {
+                "name": "Åström, Anna"
+            },
+            {
+                "name": "Svensson, Niklas"
+            },
+            {
+                "name": "Malmberg, Karl"
+            },
+            {
+                "name": "Linnertorp, Karl"
+            },
+            {
+                "name": "Hurtigh, Måns"
+            },
+            {
+                "name": "Weivers, Margreth"
+            },
+            {
+                "name": "Norström, Bertil"
+            },
+            {
+                "name": "Hegnell, Gerd"
+            },
+            {
+                "name": "Larsson, Daniel"
+            },
+            {
+                "name": "Falk, Elisabeth"
+            },
+            {
+                "name": "Wärmländer, Rakel"
+            },
+            {
+                "name": "Svensson, Lennart R."
+            },
+            {
+                "name": "Fiedler, Christian"
+            },
+            {
+                "name": "Öhagen, Per"
+            },
+            {
+                "name": "Ahmad, Evin"
+            },
+            {
+                "name": "Berlander, Göran"
+            },
+            {
+                "name": "Engström, Felix"
+            },
+            {
+                "name": "Högberg, Donald"
+            },
+            {
+                "name": "Karimi, Milad"
+            },
+            {
+                "name": "Karimi, Poyan"
+            },
+            {
+                "name": "Larsson, Anki"
+            }
+        ],
+        "locations": [
+            "Gothenburg, Västra Götalands län, Sweden"
+        ],
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "runtimes": [
+            "58"
+        ],
+        "countries": [
+            "Sweden"
+        ],
+        "country codes": [
+            "se"
+        ],
+        "language codes": [
+            "sv"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital::(5.1)"
+        ],
+        "number of seasons": 1,
+        "rating": 6.4,
+        "votes": 156,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNTI5ZWVkMTQtODU0My00N2Q2LTllNzctMDcwMzA3MzI1MjM3XkEyXkFqcGdeQXVyMTQzMjU1NjE@._V1_SY150_CR3,0,101,150_.jpg",
+        "languages": [
+            "Swedish"
+        ],
+        "title": "Kommissarie Winter",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-2010",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Edwardson, Åke"
+            },
+            {
+                "name": "Lundholm, Lars Bill"
+            },
+            {
+                "name": "Söderberg, Alexander"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "SVT Drama, Göteborg"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Edel Media & Entertainment"
+            },
+            {
+                "name": "SVT Göteborg"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Gothenburg Film Studios"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "58 min (Sweden)"
+            ],
+            "sound mix": [
+                "Dolby Digital (5.1)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 156,
+                "rating": 6.4
+            },
+            "aged 18 29": {
+                "votes": 6,
+                "rating": 7.0
+            },
+            "aged 30 44": {
+                "votes": 52,
+                "rating": 5.9
+            },
+            "aged 45 plus": {
+                "votes": 71,
+                "rating": 6.6
+            },
+            "males": {
+                "votes": 99,
+                "rating": 6.4
+            },
+            "males aged 18 29": {
+                "votes": 3,
+                "rating": 9.0
+            },
+            "males aged 30 44": {
+                "votes": 36,
+                "rating": 5.6
+            },
+            "males aged 45 plus": {
+                "votes": 53,
+                "rating": 6.7
+            },
+            "females": {
+                "votes": 36,
+                "rating": 6.1
+            },
+            "females aged 18 29": {
+                "votes": 2,
+                "rating": 3.0
+            },
+            "females aged 30 44": {
+                "votes": 14,
+                "rating": 6.5
+            },
+            "females aged 45 plus": {
+                "votes": 18,
+                "rating": 6.3
+            },
+            "top 1000 voters": {
+                "votes": 10,
+                "rating": 5.8
+            },
+            "us users": {
+                "votes": 8,
+                "rating": 6.4
+            },
+            "non us users": {
+                "votes": 105,
+                "rating": 6.4
+            }
+        },
+        "number of votes": {
+            "10": 20,
+            "9": 9,
+            "8": 24,
+            "7": 35,
+            "6": 22,
+            "5": 24,
+            "4": 8,
+            "3": 3,
+            "2": 2,
+            "1": 9
+        },
+        "arithmetic mean": 6.6,
+        "median": 7
+    }
+}

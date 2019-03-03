@@ -1,0 +1,443 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Netherlands\n",
+                "date": "13 January 2018"
+            },
+            {
+                "country": "New Zealand\n",
+                "date": "30 January 2018"
+            },
+            {
+                "country": "Australia\n",
+                "date": "3 March 2018"
+            },
+            {
+                "country": "Denmark\n",
+                "date": "14 March 2018"
+            },
+            {
+                "country": "USA\n",
+                "date": "22 March 2018"
+            },
+            {
+                "country": "UK\n",
+                "date": "14 May 2018"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "8 July 2018"
+            },
+            {
+                "country": "Finland\n",
+                "date": "12 August 2018"
+            },
+            {
+                "country": "Spain\n",
+                "date": "20 September 2018"
+            }
+        ],
+        "release dates": [
+            "Netherlands::13 January 2018",
+            "New Zealand::30 January 2018",
+            "Australia::3 March 2018",
+            "Denmark::14 March 2018",
+            "USA::22 March 2018",
+            "UK::14 May 2018",
+            "Sweden::8 July 2018",
+            "Finland::12 August 2018",
+            "Spain::20 September 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Innocent"
+            },
+            {
+                "countries": "Denmark",
+                "title": "Den dømte"
+            },
+            {
+                "countries": "Finland",
+                "title": "Syyttömästi tuomittu"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Oskyldig"
+            },
+            {
+                "countries": "Poland",
+                "title": "Niewinny"
+            },
+            {
+                "countries": "Russia",
+                "title": "Невиновный"
+            },
+            {
+                "countries": "USA",
+                "title": "Innocent"
+            }
+        ],
+        "akas": [
+            "Innocent (original title)",
+            "Den dømte Denmark",
+            "Syyttömästi tuomittu Finland",
+            "Oskyldig Finland (Swedish title)",
+            "Niewinny Poland",
+            "Невиновный Russia",
+            "Innocent USA"
+        ],
+        "akas from release info": [
+            "Innocent (original title)",
+            "Den dømte Denmark",
+            "Syyttömästi tuomittu Finland",
+            "Oskyldig Finland (Swedish title)",
+            "Niewinny Poland",
+            "Невиновный Russia",
+            "Innocent USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Innocent (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 133,
+                    "original air date": "22 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    After seven years in prison for the murder of his wife, David Collins is released on a technicality, leading the police to reopen the investigation.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Innocent (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 114,
+                    "original air date": "15 May 2018",
+                    "year": "2018",
+                    "plot": "\n    The police continue their search for Tara's murderer, as David tries to reconnect with his children.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Innocent (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 111,
+                    "original air date": "16 May 2018",
+                    "year": "2018",
+                    "plot": "\n    The police are still unsure who the killer is. They do, however, learn the initial investigating team kept secrets during the case.    "
+                },
+                "4": {
+                    "title": "Episode #1.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Innocent (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 111,
+                    "original air date": "17 May 2018",
+                    "year": "2018",
+                    "plot": "\n    David grows closer to his children, as the police continue to try to solve the murder.    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Ingleby, Lee"
+            },
+            {
+                "name": "Ryan, Daniel"
+            },
+            {
+                "name": "Rawlins, Adrian"
+            },
+            {
+                "name": "Norris, Hermione"
+            },
+            {
+                "name": "Coulby, Angel"
+            },
+            {
+                "name": "O'Shea, Fionn"
+            },
+            {
+                "name": "Lindsay, Nigel"
+            },
+            {
+                "name": "Webb, Eloise"
+            },
+            {
+                "name": "Edward-Cook, Samuel"
+            },
+            {
+                "name": "Ahmadi, Zahra"
+            },
+            {
+                "name": "Britland, Hannah"
+            },
+            {
+                "name": "Cole, Christine"
+            },
+            {
+                "name": "Gardner, Tony"
+            },
+            {
+                "name": "Cole, Christina"
+            },
+            {
+                "name": "Asbury, Nicholas"
+            },
+            {
+                "name": "Cowan, Elliot"
+            },
+            {
+                "name": "East, Robert"
+            },
+            {
+                "name": "Cowan, Elliot"
+            },
+            {
+                "name": "Verrall, Lynne"
+            },
+            {
+                "name": "Farzad, Leila"
+            },
+            {
+                "name": "Yannas, Hara"
+            },
+            {
+                "name": "Howland, Juliet"
+            },
+            {
+                "name": "Yelda, Sargon"
+            },
+            {
+                "name": "Radford, Soraya"
+            },
+            {
+                "name": "Salinger, Justin"
+            },
+            {
+                "name": "Owora, Ben"
+            },
+            {
+                "name": "Franks, Simon"
+            },
+            {
+                "name": "Lilley, Valerie"
+            },
+            {
+                "name": "Moore, Daniel"
+            },
+            {
+                "name": "White, Charlene"
+            },
+            {
+                "name": "Flynn, Matthew"
+            },
+            {
+                "name": "Kurek, Magdalena"
+            },
+            {
+                "name": "Faraday, Tim"
+            },
+            {
+                "name": "Stafford, Stewart"
+            },
+            {
+                "name": "Weng, Ting"
+            }
+        ],
+        "locations": [
+            "Inn on the Beach, Hayling Island, Hampshire, England, UK::(seaside cafe)",
+            "Bosham Quay, Bosham, Chichester, England, UK::(Boatyard)"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "runtimes": [
+            "45"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Finland:K-12",
+            "Netherlands:12",
+            "Spain:18"
+        ],
+        "original air date": "22 Mar 2018 (USA)",
+        "number of seasons": 1,
+        "rating": 7.4,
+        "votes": 1655,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZjhjOTNhNGQtZDAyMC00MmMwLWE3OTktOGMzOTJlMDk4OGQ2XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_SY150_CR3,0,101,150_.jpg",
+        "plot outline": "After seven years in a high security prison, David Collins' conviction for the murder of his wife, Tara, is overturned due to a technicality, or as his lawyer puts it, an appalling miscarriage of justice. Able to start his life again and begin to repair relationships with his family and friends, David hopes to finally be allowed to mourn his wife's death. As a new investigation is launched, headed by DI Cathy Hudson, dark secrets of abuse, affairs and money troubles rise to the surface. From jealous sisters to disgruntled lovers, these secrets rip fragile relationships apart at the seams. But one question remains: is David Collins truly innocent?",
+        "languages": [
+            "English"
+        ],
+        "title": "Innocent",
+        "year": 2018,
+        "kind": "tv mini series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Arlidge, Matthew"
+            },
+            {
+                "name": "Lang, Chris"
+            }
+        ],
+        "director": [
+            {
+                "name": "Clark, Richard"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "TXTV"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "ITV - Independent Television"
+            },
+            {
+                "name": "KRO-NCRV"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "plot": [
+            "David Collins fights to rebuild his shattered life, when, after spending seven years in a high-security prison, his conviction for the murder of his wife is overturned.",
+            "After seven years in a high security prison, David Collins' conviction for the murder of his wife, Tara, is overturned due to a technicality, or as his lawyer puts it, an appalling miscarriage of justice. Able to start his life again and begin to repair relationships with his family and friends, David hopes to finally be allowed to mourn his wife's death. As a new investigation is launched, headed by DI Cathy Hudson, dark secrets of abuse, affairs and money troubles rise to the surface. From jealous sisters to disgruntled lovers, these secrets rip fragile relationships apart at the seams. But one question remains: is David Collins truly innocent?"
+        ],
+        "tech": {
+            "runtime": [
+                "45 min (4 episodes)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1655,
+                "rating": 7.4
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 7.0
+            },
+            "aged 18 29": {
+                "votes": 130,
+                "rating": 7.4
+            },
+            "aged 30 44": {
+                "votes": 455,
+                "rating": 7.3
+            },
+            "aged 45 plus": {
+                "votes": 562,
+                "rating": 7.6
+            },
+            "males": {
+                "votes": 798,
+                "rating": 7.4
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 76,
+                "rating": 7.3
+            },
+            "males aged 30 44": {
+                "votes": 280,
+                "rating": 7.3
+            },
+            "males aged 45 plus": {
+                "votes": 376,
+                "rating": 7.6
+            },
+            "females": {
+                "votes": 437,
+                "rating": 7.5
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "females aged 18 29": {
+                "votes": 54,
+                "rating": 7.7
+            },
+            "females aged 30 44": {
+                "votes": 165,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 182,
+                "rating": 7.6
+            },
+            "top 1000 voters": {
+                "votes": 48,
+                "rating": 5.8
+            },
+            "us users": {
+                "votes": 102,
+                "rating": 7.0
+            },
+            "non us users": {
+                "votes": 869,
+                "rating": 7.5
+            }
+        },
+        "number of votes": {
+            "10": 151,
+            "9": 223,
+            "8": 539,
+            "7": 487,
+            "6": 141,
+            "5": 47,
+            "4": 23,
+            "3": 9,
+            "2": 7,
+            "1": 28
+        },
+        "arithmetic mean": 7.5,
+        "median": 8
+    }
+}

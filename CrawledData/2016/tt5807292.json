@@ -1,0 +1,518 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "6 June 2016"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "4 September 2016"
+            },
+            {
+                "country": "Germany\n",
+                "date": "9 September 2016"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "11 September 2016",
+                "notes": "                            (Part 2)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "19 September 2016",
+                "notes": "                            (part 1)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "19 September 2016",
+                "notes": "                            (part 2)"
+            }
+        ],
+        "release dates": [
+            "USA::6 June 2016",
+            "Hungary::4 September 2016",
+            "Germany::9 September 2016",
+            "Hungary::11 September 2016                            (Part 2)",
+            "Japan::19 September 2016                            (part 1)",
+            "Japan::19 September 2016                            (part 2)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Barbarians Rising"
+            },
+            {
+                "countries": "Brazil",
+                "title": "A Rebelião dos Bárbaros"
+            },
+            {
+                "countries": "Canada (English title)",
+                "title": "Barbarians Rising"
+            },
+            {
+                "countries": "France",
+                "title": "Révoltes barbares"
+            },
+            {
+                "countries": "Germany",
+                "title": "Aufstand der Barbaren"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A barbárok felemelkedése"
+            },
+            {
+                "countries": "Romania",
+                "title": "Barbarii se revoltă"
+            },
+            {
+                "countries": "Romania",
+                "title": "Vremea barbarilor"
+            },
+            {
+                "countries": "Russia",
+                "title": "Нашествие варваров"
+            },
+            {
+                "countries": "Spain",
+                "title": "Bárbaros, el despertar"
+            }
+        ],
+        "akas": [
+            "Barbarians Rising (original title)",
+            "A Rebelião dos Bárbaros Brazil",
+            "Barbarians Rising Canada (English title)",
+            "Révoltes barbares France",
+            "Aufstand der Barbaren Germany",
+            "A barbárok felemelkedése Hungary",
+            "Barbarii se revoltă Romania",
+            "Vremea barbarilor Romania",
+            "Нашествие варваров Russia",
+            "Bárbaros, el despertar Spain"
+        ],
+        "akas from release info": [
+            "Barbarians Rising (original title)",
+            "A Rebelião dos Bárbaros Brazil",
+            "Barbarians Rising Canada (English title)",
+            "Révoltes barbares France",
+            "Aufstand der Barbaren Germany",
+            "A barbárok felemelkedése Hungary",
+            "Barbarii se revoltă Romania",
+            "Vremea barbarilor Romania",
+            "Нашествие варваров Russia",
+            "Bárbaros, el despertar Spain"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Resistance",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Barbarians Rising (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 116,
+                    "original air date": "6 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    An epic 700-year battle for freedom begins as the barbarians rise against Rome; Hannibal builds a rebel alliance and conquers the Alps; the shepherd Viriathus unleashes a wave of resistance to save his people from destruction.    "
+                },
+                "2": {
+                    "title": "Rebellion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Barbarians Rising (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 84,
+                    "original air date": "13 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Rome brings its enemies inside its borders as the age of Empire begins    "
+                },
+                "3": {
+                    "title": "Revenge",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Barbarians Rising (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 81,
+                    "original air date": "20 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Arminius unites the tribes and engineers an ambush attack to drive Rome out of Germania; Boudica unleashes bloody vengeance on the Empire; Rome's betrayal of the Goths ends in an apocalyptic clash.    "
+                },
+                "4": {
+                    "title": "Ruin",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Barbarians Rising (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 69,
+                    "original air date": "27 Jun. 2016",
+                    "year": "2016",
+                    "plot": "\n    Alaric's Goths sack Rome; Attila the Hun seizes power through chaos and destruction while the barbarians move in for the kill. The Vandal king, Geiseric, masterminds the end of Rome; the Empire falls.    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Ealy, Michael"
+            },
+            {
+                "name": "Strauss, Barry"
+            },
+            {
+                "name": "Riddell, Richard"
+            },
+            {
+                "name": "Kostov, Julian"
+            },
+            {
+                "name": "Mitchell, Kirsty"
+            },
+            {
+                "name": "Hopper, Tom"
+            },
+            {
+                "name": "Beattie, Ian"
+            },
+            {
+                "name": "Bolt, Josh"
+            },
+            {
+                "name": "McKeown, Fintan"
+            },
+            {
+                "name": "Berkoff, Steven"
+            },
+            {
+                "name": "Popov, Stefan"
+            },
+            {
+                "name": "Zlatarev, Georgi"
+            },
+            {
+                "name": "Marinova, Daniela"
+            },
+            {
+                "name": "Alexiev, Dimo"
+            },
+            {
+                "name": "Banenkin, Dimitar"
+            },
+            {
+                "name": "Bitiusca, Victor"
+            },
+            {
+                "name": "Dokle, Leart"
+            },
+            {
+                "name": "Dokle, Leart"
+            },
+            {
+                "name": "Drea, Gavin"
+            },
+            {
+                "name": "Hynes, Louis"
+            },
+            {
+                "name": "Peeva, Antoaneta"
+            },
+            {
+                "name": "Raglan, Alun"
+            },
+            {
+                "name": "Rea, Marty"
+            },
+            {
+                "name": "Remes, George"
+            },
+            {
+                "name": "Waddington, Steven"
+            },
+            {
+                "name": "Batt, Ben"
+            },
+            {
+                "name": "Pinnock, Nicholas"
+            },
+            {
+                "name": "Dimitrova, Diana"
+            },
+            {
+                "name": "Hall, Jefferson"
+            },
+            {
+                "name": "Russell, Clive"
+            },
+            {
+                "name": "McElhinney, Ian"
+            },
+            {
+                "name": "Macmillan, John"
+            },
+            {
+                "name": "Allen, Ben"
+            },
+            {
+                "name": "Moss, Nicholas"
+            },
+            {
+                "name": "Stefan, Denis"
+            },
+            {
+                "name": "Verbintschi, Mihai"
+            },
+            {
+                "name": "Micu, Radu Andrei"
+            },
+            {
+                "name": "Regis, Patrick"
+            },
+            {
+                "name": "Trendafilov, Anton"
+            },
+            {
+                "name": "Radjou-Pujalte, Wilson"
+            },
+            {
+                "name": "Sebastian, Gertrude Nickolalis"
+            },
+            {
+                "name": "Srebrev, Atanas"
+            },
+            {
+                "name": "Andonova, Karina"
+            },
+            {
+                "name": "Petrov, Boyan"
+            },
+            {
+                "name": "Yordanov, Martin"
+            },
+            {
+                "name": "Arya, Darius"
+            },
+            {
+                "name": "Atanasova, Aleksandra"
+            },
+            {
+                "name": "Bowler, John"
+            },
+            {
+                "name": "Brake, Richard"
+            },
+            {
+                "name": "Cranitch, Lorcan"
+            }
+        ],
+        "locations": [
+            "Bulgaria",
+            "UK"
+        ],
+        "genres": [
+            "Documentary",
+            "Action",
+            "Drama",
+            "History"
+        ],
+        "runtimes": [
+            "120"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1 / (high definition)",
+        "sound mix": [
+            "Dolby Digital::(Dolby Digital 2.0)"
+        ],
+        "certificates": [
+            "France:10",
+            "Germany:16",
+            "Spain:12",
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 7.9,
+        "votes": 1536,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYTM3MDE5MGItYjkwNS00ZDY3LTk5NjEtYmM3YzljNWEyMWFhXkEyXkFqcGdeQXVyMTM5ODk3Ng@@._V1_SY150_CR6,0,101,150_.jpg",
+        "plot outline": "As the Roman Empire expands, it encounters local populations that it considers 'barbarians', who fight back, effectively and savagely, dealing Rome one blow after another. Hannibal, Viriathus, Armenius, Spartacus and more strike back against Rome, some from without and some from within. See their struggles, their motivations, and the outcomes as these indigenous people's fight for survival, revenge and justice.",
+        "languages": [
+            "English"
+        ],
+        "title": "Barbarians Rising",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Dench, Elizabeth"
+            },
+            {
+                "name": "Fallon, Chris"
+            },
+            {
+                "name": "George, Simon"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "October Films"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "History Channel"
+            },
+            {
+                "name": "Canal de Historia"
+            },
+            {
+                "name": "History Channel"
+            },
+            {
+                "name": "History"
+            },
+            {
+                "name": "Planete+"
+            },
+            {
+                "name": "Polyband"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Aimimage / Ice Film"
+            }
+        ],
+        "plot": [
+            "Rome. The greatest empire the world has ever known. This docudrama tells the story of Rome through the eyes of the empire's many adversaries who battled to see its destruction.::tompdalt",
+            "As the Roman Empire expands, it encounters local populations that it considers 'barbarians', who fight back, effectively and savagely, dealing Rome one blow after another. Hannibal, Viriathus, Armenius, Spartacus and more strike back against Rome, some from without and some from within. See their struggles, their motivations, and the outcomes as these indigenous people's fight for survival, revenge and justice.::Chester Collins"
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr (120 min)"
+            ],
+            "sound mix": [
+                "Dolby Digital (Dolby Digital 2.0)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1 / (high definition)",
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1536,
+                "rating": 7.9
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 9.0
+            },
+            "aged 18 29": {
+                "votes": 310,
+                "rating": 8.1
+            },
+            "aged 30 44": {
+                "votes": 515,
+                "rating": 7.8
+            },
+            "aged 45 plus": {
+                "votes": 281,
+                "rating": 7.7
+            },
+            "males": {
+                "votes": 1031,
+                "rating": 7.8
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 18 29": {
+                "votes": 267,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 440,
+                "rating": 7.7
+            },
+            "males aged 45 plus": {
+                "votes": 229,
+                "rating": 7.5
+            },
+            "females": {
+                "votes": 163,
+                "rating": 8.2
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 37,
+                "rating": 8.2
+            },
+            "females aged 30 44": {
+                "votes": 66,
+                "rating": 7.9
+            },
+            "females aged 45 plus": {
+                "votes": 47,
+                "rating": 8.4
+            },
+            "top 1000 voters": {
+                "votes": 39,
+                "rating": 7.0
+            },
+            "us users": {
+                "votes": 196,
+                "rating": 7.6
+            },
+            "non us users": {
+                "votes": 636,
+                "rating": 7.7
+            }
+        },
+        "number of votes": {
+            "10": 358,
+            "9": 334,
+            "8": 405,
+            "7": 194,
+            "6": 72,
+            "5": 25,
+            "4": 22,
+            "3": 23,
+            "2": 16,
+            "1": 87
+        },
+        "arithmetic mean": 7.8,
+        "median": 8
+    }
+}

@@ -1,0 +1,385 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "26 February 2018"
+            },
+            {
+                "country": "Germany\n",
+                "date": "17 July 2018"
+            }
+        ],
+        "release dates": [
+            "Canada::26 February 2018",
+            "Germany::17 July 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Caught"
+            },
+            {
+                "countries": "Russia",
+                "title": "Пойманный"
+            },
+            {
+                "countries": "USA",
+                "title": "Caught"
+            }
+        ],
+        "akas": [
+            "Caught (original title)",
+            "Пойманный Russia",
+            "Caught USA"
+        ],
+        "akas from release info": [
+            "Caught (original title)",
+            "Пойманный Russia",
+            "Caught USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Break",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Caught (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 50,
+                    "original air date": "26 Feb. 2018",
+                    "year": "2018",
+                    "plot": "\n    David Slaney breaks out of prison after 5 years under the pretense that he is working undercover for renegade detective Roy Patterson in an effort to help apprehend Slaney's old drug cartel partner Brian Hearn.    "
+                },
+                "2": {
+                    "title": "Old Wounds",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Caught (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 37,
+                    "original air date": "5 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Hearn sends Slaney to Montreal to pick up money for a new deal, but Slaney has more than one reason to visit that city, and an old business acquaintance is up to no good.    "
+                },
+                "3": {
+                    "title": "Just Trust Me",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Caught (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 33,
+                    "original air date": "12 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Slaney arrives at Hearn's home in Cancun, and Patterson and KC go undercover to follow hot on his heels.    "
+                },
+                "4": {
+                    "title": "Like Old Times",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Caught (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 30,
+                    "original air date": "19 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Slaney and Hearn prepare to meet a new supplier. Hearn enlists Ada to uncover what Slaney's real intentions are. Tensions run high as Slaney, Patterson and KC attempt to keep their true identities under wraps.    "
+                },
+                "5": {
+                    "title": "Bone Dog",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Caught (TV Mini-Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 31,
+                    "original air date": "26 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Slaney (Allan Hawco) heads to Colombia with Ada (Tori Anderson) to pick up Hearn's (Eric Johnson) money. With the DEA and the RCMP closing in on them, Slaney and Hearn face off in the explosive season one finale.    "
+                }
+            }
+        },
+        "number of episodes": 5,
+        "cast": [
+            {
+                "name": "Hawco, Allan"
+            },
+            {
+                "name": "Gross, Paul"
+            },
+            {
+                "name": "Johnson, Eric"
+            },
+            {
+                "name": "Anderson, Tori"
+            },
+            {
+                "name": "Okuma, Enuka"
+            },
+            {
+                "name": "Bryk, Greg"
+            },
+            {
+                "name": "Sullivan, Charlotte"
+            },
+            {
+                "name": "MacLellan, Billy"
+            },
+            {
+                "name": "Dopud, Mike"
+            },
+            {
+                "name": "Young, Chris"
+            },
+            {
+                "name": "Rodriguez-Saenz, Manuel"
+            },
+            {
+                "name": "Patrick, Blake"
+            },
+            {
+                "name": "O'Regan, Seamus"
+            },
+            {
+                "name": "Cross, Roger"
+            },
+            {
+                "name": "Antelope, Julian Black"
+            },
+            {
+                "name": "Rubinek, Saul"
+            },
+            {
+                "name": "Pratt, Victoria"
+            },
+            {
+                "name": "Fuentes, Diego"
+            },
+            {
+                "name": "Rose, Chloe"
+            },
+            {
+                "name": "Almonte, Marcos"
+            },
+            {
+                "name": "Guerrero, Josue"
+            },
+            {
+                "name": "Lorella, Cali"
+            },
+            {
+                "name": "Corcoran, Emily"
+            },
+            {
+                "name": "Duarte, Tamara"
+            },
+            {
+                "name": "Dechert, Kachina"
+            },
+            {
+                "name": "Hopkins, Darryl"
+            },
+            {
+                "name": "Salvín, Pedro"
+            },
+            {
+                "name": "Bruno, Antonio"
+            }
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "44"
+        ],
+        "countries": [
+            "Canada"
+        ],
+        "country codes": [
+            "ca"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "original air date": "26 Feb 2018 (Canada)",
+        "number of seasons": 1,
+        "rating": 6.4,
+        "votes": 410,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOTg3NWFlNWEtMTJkZC00OTcxLWJhN2MtODQxNmJmYzFhZmNlXkEyXkFqcGdeQXVyMDI2MjA5MA@@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "It's 1978 in the Canadian Maritimes, five years into David Slaney's fifteen year conviction for drug dealing. RCMP detective Roy Patterson, whose life is deteriorating in all aspects, joins forces with Slaney in an operation to nab who was Slaney's friend and drug partner, Brian Hearn, Slaney who wants payback for Hearn abandoning him. As the US DEA is also after Hearn, Patterson joins forces with DEA agent KC Williams on the case. However, Patterson is keeping information from both Slaney and Williams which may jeopardize and both Slaney and Williams' participation in the case if either finds out, and which may also jeopardize Slaney's life at the hands of the authorities. Hearn, now based in Cancun, is embarking on a new partnership of his own with suppliers in Colombia following the DEA shutting down his US network. In the process, Slaney may find the draw back into the old life in joining forces with Hearn is stronger than the revenge he wants on him. In addition, others in Hearn's sphere may want more than just a small part of the spoils of the new Colombian deal.",
+        "languages": [
+            "English"
+        ],
+        "title": "Caught",
+        "year": 2018,
+        "kind": "tv mini series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Chafe, Perry"
+            },
+            {
+                "name": "Cohen, Julia"
+            },
+            {
+                "name": "Hawco, Allan"
+            }
+        ],
+        "director": [
+            {
+                "name": "Scott, T.J."
+            },
+            {
+                "name": "Vatcher, John"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Canadian Broadcasting Corporation (CBC)"
+            },
+            {
+                "name": "Take the Shot Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Canadian Broadcasting Corporation (CBC)"
+            },
+            {
+                "name": "Entertainment One"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Adrenaline Studios LV"
+            },
+            {
+                "name": "Diving Services Dominican Republic"
+            },
+            {
+                "name": "Entertainment Partners Canada"
+            },
+            {
+                "name": "Pinewood Dominican Republic Studios"
+            },
+            {
+                "name": "William F. White International"
+            }
+        ],
+        "plot": [
+            "David Slaney escapes from prison tries to hook up with his partner for one more drug deal and while being hunted by police. Based on the novel by Lisa Moore.",
+            "It's 1978 in the Canadian Maritimes, five years into David Slaney's fifteen year conviction for drug dealing. RCMP detective Roy Patterson, whose life is deteriorating in all aspects, joins forces with Slaney in an operation to nab who was Slaney's friend and drug partner, Brian Hearn, Slaney who wants payback for Hearn abandoning him. As the US DEA is also after Hearn, Patterson joins forces with DEA agent KC Williams on the case. However, Patterson is keeping information from both Slaney and Williams which may jeopardize and both Slaney and Williams' participation in the case if either finds out, and which may also jeopardize Slaney's life at the hands of the authorities. Hearn, now based in Cancun, is embarking on a new partnership of his own with suppliers in Colombia following the DEA shutting down his US network. In the process, Slaney may find the draw back into the old life in joining forces with Hearn is stronger than the revenge he wants on him. In addition, others in Hearn's sphere may want more than just a small part of the spoils of the new Colombian deal.::Huggo"
+        ],
+        "tech": {
+            "runtime": [
+                "44 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 410,
+                "rating": 6.4
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "aged 18 29": {
+                "votes": 29,
+                "rating": 7.6
+            },
+            "aged 30 44": {
+                "votes": 117,
+                "rating": 5.8
+            },
+            "aged 45 plus": {
+                "votes": 140,
+                "rating": 6.5
+            },
+            "males": {
+                "votes": 221,
+                "rating": 6.3
+            },
+            "males aged 18 29": {
+                "votes": 20,
+                "rating": 7.8
+            },
+            "males aged 30 44": {
+                "votes": 81,
+                "rating": 5.6
+            },
+            "males aged 45 plus": {
+                "votes": 102,
+                "rating": 6.6
+            },
+            "females": {
+                "votes": 85,
+                "rating": 6.7
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "females aged 18 29": {
+                "votes": 9,
+                "rating": 6.6
+            },
+            "females aged 30 44": {
+                "votes": 32,
+                "rating": 6.6
+            },
+            "females aged 45 plus": {
+                "votes": 35,
+                "rating": 6.5
+            },
+            "top 1000 voters": {
+                "votes": 20,
+                "rating": 6.3
+            },
+            "us users": {
+                "votes": 56,
+                "rating": 6.8
+            },
+            "non us users": {
+                "votes": 183,
+                "rating": 6.1
+            }
+        },
+        "number of votes": {
+            "10": 80,
+            "9": 41,
+            "8": 71,
+            "7": 57,
+            "6": 51,
+            "5": 43,
+            "4": 20,
+            "3": 10,
+            "2": 7,
+            "1": 30
+        },
+        "arithmetic mean": 6.9,
+        "median": 7
+    }
+}

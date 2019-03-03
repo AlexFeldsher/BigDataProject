@@ -1,0 +1,150 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "5 March 2014"
+            },
+            {
+                "country": "United Arab Emirates\n",
+                "date": "8 March 2014",
+                "notes": "                            (TV premiere)"
+            },
+            {
+                "country": "USA\n",
+                "date": "8 March 2014",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::5 March 2014",
+            "United Arab Emirates::8 March 2014                            (TV premiere)",
+            "USA::8 March 2014                            (internet)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Ali al-Forsaken",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "O.P.T. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "5 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Host Wahab Alshehri meets with Ali Al-Forsaken from Saudi Arabia a successful O.P.T. student within the United States of America and explores and documents Ali Al-Forsaken's journey. Wahab discusses with Ali Al-Forsaken about the US economy, working in the USA, and how success has helped Ali Al-Forsaken in his work field.    "
+                },
+                "2": {
+                    "title": "Abeer al-Qurashi",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "O.P.T. (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "8 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Host Wahab Alshehri meets with Abeer Al-Qurashi from Saudi Arabia a successful O.P.T. student within the United States of America and explores and documents Abeer Al-Qurashi's journey. Wahab discusses with Abeer Al-Qurashi about the US economy, working in the USA, and how success has helped Abeer Al-Qurashi in her work field.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Alshehri, Wahab"
+            },
+            {
+                "name": "Al-Forsaken, Ali"
+            },
+            {
+                "name": "Al-Qurashi, Abeer"
+            }
+        ],
+        "locations": [
+            "Houston, Texas, USA::(on location)",
+            "Dallas, Texas, USA::(on location)",
+            "Pocatello, Idaho, USA::(on location)"
+        ],
+        "genres": [
+            "Documentary",
+            "Reality-TV"
+        ],
+        "countries": [
+            "United States",
+            "Saudi Arabia"
+        ],
+        "country codes": [
+            "us",
+            "sa"
+        ],
+        "language codes": [
+            "en",
+            "ar"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD (high definition)",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYzE1ZDUzNTYtNWRjYS00OGQ3LTg1ZTMtNDk2NzhlMTRiY2I5XkEyXkFqcGdeQXVyODgwNDMxOQ@@._V1_SY150_CR25,0,101,150_.jpg",
+        "plot outline": "On O.P.T., host Wahab Alshehri takes us across the United States of America to explore and document some of Saudi Arabia's successful O.P.T. students. Wahab discuss with the subjects about the economy, working in the USA, and how success has helped them in their field.",
+        "languages": [
+            "English",
+            "Arabic"
+        ],
+        "title": "O.P.T.",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-",
+        "akas": [
+            "O.P.T. (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Almutairi, Sultan"
+            },
+            {
+                "name": "Mariano, Edwin"
+            },
+            {
+                "name": "Richman, Ron"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Saudi Innovators"
+            },
+            {
+                "name": "MPE Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Aali TV Network"
+            }
+        ],
+        "plot": [
+            "On _O.P.T._ (qv), host Wahab Alshehri takes us across the United States of America to explore and document some of Saudi Arabia's successful _O.P.T._ (qv) students. Wahab discuss with the subjects about the economy, working in the USA, and how success has helped them in their field.::Saudi Innovators"
+        ],
+        "tech": {
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD (high definition)"
+            ]
+        }
+    }
+}

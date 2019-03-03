@@ -1,0 +1,385 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "  2011"
+            },
+            {
+                "country": "UK\n",
+                "date": "24 March 2011"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "14 June 2011"
+            },
+            {
+                "country": "Germany\n",
+                "date": "25 November 2011",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "Finland\n",
+                "date": "1 October 2013"
+            }
+        ],
+        "release dates": [
+            "UK::2011",
+            "UK::24 March 2011",
+            "Sweden::14 June 2011",
+            "Germany::25 November 2011                            (DVD premiere)",
+            "Finland::1 October 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Women in Love"
+            },
+            {
+                "countries": "Finland",
+                "title": "Rakastuneita naisia"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Kvinnor som älskar"
+            },
+            {
+                "countries": "Germany",
+                "title": "Women in Love - Liebende Frauen"
+            },
+            {
+                "countries": "USA",
+                "title": "Women in Love"
+            }
+        ],
+        "akas": [
+            "Women in Love (original title)",
+            "Rakastuneita naisia Finland",
+            "Kvinnor som älskar Finland (Swedish title)",
+            "Women in Love - Liebende Frauen Germany",
+            "Women in Love USA"
+        ],
+        "akas from release info": [
+            "Women in Love (original title)",
+            "Rakastuneita naisia Finland",
+            "Kvinnor som älskar Finland (Swedish title)",
+            "Women in Love - Liebende Frauen Germany",
+            "Women in Love USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Women in Love (TV Mini-Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 32,
+                    "original air date": "24 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Focusing on the lives of two sisters, Ursula and Gudrun Brangwen, as they struggle with love, passion and commitment in the build up to the First World War.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Women in Love (TV Mini-Series 2011– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 23,
+                    "original air date": "31 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Adaptation of D.H. Lawrence classic novels The Rainbow and Women in Love focusing on the lives of two sisters, Ursula and Gudrun and their developing relationships with two friends Rupert Birkin and Gerald Crich in the aftermath of the WW1.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Kinnear, Rory"
+            },
+            {
+                "name": "Stirling, Rachael"
+            },
+            {
+                "name": "Mawle, Joseph"
+            },
+            {
+                "name": "Grant, Olivia"
+            },
+            {
+                "name": "Pike, Rosamund"
+            },
+            {
+                "name": "Lyster, Patrick"
+            },
+            {
+                "name": "Gracie, James"
+            },
+            {
+                "name": "Swanby, Grant"
+            },
+            {
+                "name": "Winter, Iain"
+            },
+            {
+                "name": "Reeves, Saskia"
+            },
+            {
+                "name": "Acker, Shaun"
+            },
+            {
+                "name": "Phillips, Chad"
+            },
+            {
+                "name": "Daniels, Ben"
+            },
+            {
+                "name": "van Wyk, Tinarie Loots"
+            },
+            {
+                "name": "Kennedy, Joseph"
+            },
+            {
+                "name": "Visagie, Tamia"
+            },
+            {
+                "name": "Dunster, Jenna"
+            },
+            {
+                "name": "Bartlett, Victoria"
+            },
+            {
+                "name": "Pauling, Nicholas"
+            },
+            {
+                "name": "Moss, Colin"
+            },
+            {
+                "name": "Burnell, Rory Acton"
+            },
+            {
+                "name": "Tompson, Michael"
+            },
+            {
+                "name": "Kotzen, Daniel"
+            },
+            {
+                "name": "Wessels, Erica"
+            },
+            {
+                "name": "Plaatjies, Edith"
+            },
+            {
+                "name": "Fischhoff, Robyn"
+            },
+            {
+                "name": "Maxwell, Michele"
+            },
+            {
+                "name": "Crutchley, Jeremy"
+            },
+            {
+                "name": "Loring, Natasha"
+            },
+            {
+                "name": "Prentice, Roxanne"
+            },
+            {
+                "name": "Dobson, Sammy T."
+            },
+            {
+                "name": "d'Orthez, Christina"
+            },
+            {
+                "name": "Danford, Susan"
+            },
+            {
+                "name": "Mynhardt, Nikolai"
+            },
+            {
+                "name": "Joubert, Louis"
+            }
+        ],
+        "locations": [
+            "South Africa"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "180"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Finland:K-16::(TV rating)",
+            "United Kingdom:15"
+        ],
+        "original air date": "2011 (UK)",
+        "number of seasons": 1,
+        "rating": 6.1,
+        "votes": 390,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNjkyNDFjNzMtY2JkNy00MjdjLTliZTAtZjcyNzAxNTRhYjU2XkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Women in Love",
+        "year": 2011,
+        "kind": "tv mini series",
+        "series years": "2011-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Ivory, William"
+            },
+            {
+                "name": "Lawrence, D.H."
+            }
+        ],
+        "director": [
+            {
+                "name": "Bowen, Miranda"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Company Pictures"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "Just Bridge Entertainment"
+            },
+            {
+                "name": "Moviemax Family"
+            },
+            {
+                "name": "Polyband"
+            },
+            {
+                "name": "Polyband"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "plot": [
+            "Powerful adaptation of DH Lawrence's novel about the lives of two sisters, Ursula and Gudrun Brangwen, as they struggle with their own desires and passions.::kingnoel_john"
+        ],
+        "tech": {
+            "runtime": [
+                "3 hr (180 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 390,
+                "rating": 6.1
+            },
+            "aged 18 29": {
+                "votes": 52,
+                "rating": 7.0
+            },
+            "aged 30 44": {
+                "votes": 146,
+                "rating": 5.9
+            },
+            "aged 45 plus": {
+                "votes": 139,
+                "rating": 6.0
+            },
+            "males": {
+                "votes": 174,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 20,
+                "rating": 7.3
+            },
+            "males aged 30 44": {
+                "votes": 57,
+                "rating": 5.4
+            },
+            "males aged 45 plus": {
+                "votes": 89,
+                "rating": 6.1
+            },
+            "females": {
+                "votes": 163,
+                "rating": 6.3
+            },
+            "females aged 18 29": {
+                "votes": 32,
+                "rating": 6.8
+            },
+            "females aged 30 44": {
+                "votes": 82,
+                "rating": 6.4
+            },
+            "females aged 45 plus": {
+                "votes": 47,
+                "rating": 5.8
+            },
+            "top 1000 voters": {
+                "votes": 26,
+                "rating": 4.8
+            },
+            "us users": {
+                "votes": 75,
+                "rating": 5.5
+            },
+            "non us users": {
+                "votes": 234,
+                "rating": 6.3
+            }
+        },
+        "number of votes": {
+            "10": 40,
+            "9": 36,
+            "8": 45,
+            "7": 76,
+            "6": 65,
+            "5": 51,
+            "4": 20,
+            "3": 17,
+            "2": 24,
+            "1": 16
+        },
+        "arithmetic mean": 6.3,
+        "median": 7
+    }
+}

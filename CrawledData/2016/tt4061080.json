@@ -1,0 +1,939 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "19 February 2016"
+            },
+            {
+                "country": "Denmark\n",
+                "date": "19 February 2016",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "19 February 2016",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "USA\n",
+                "date": "19 February 2016"
+            }
+        ],
+        "release dates": [
+            "Germany::19 February 2016",
+            "Denmark::19 February 2016                            (internet)",
+            "Japan::19 February 2016                            (internet)",
+            "USA::19 February 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Love"
+            },
+            {
+                "countries": "Russia",
+                "title": "Любовь"
+            },
+            {
+                "countries": "Spain",
+                "title": "Love"
+            },
+            {
+                "countries": "USA",
+                "title": "Love"
+            }
+        ],
+        "akas": [
+            "Love (original title)",
+            "Любовь Russia",
+            "Love Spain",
+            "Love USA"
+        ],
+        "akas from release info": [
+            "Love (original title)",
+            "Любовь Russia",
+            "Love Spain",
+            "Love USA"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "Palm Springs Getaway",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 370,
+                    "original air date": "9 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Randy pressures Mickey, Gus and Bertie into a couples weekend at this cousin's sweet Palm Springs pad. But nothing about the house is as advertised.    "
+                },
+                "2": {
+                    "title": "Winners and Losers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 298,
+                    "original air date": "9 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Arya and Greg",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 299,
+                    "original air date": "9 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Gus helps a stressed-out Arya gear up for a big scene, while Mickey tries to salvage Dr. Greg's disastrous book-signing event.    "
+                },
+                "4": {
+                    "title": "I'm Sick",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 282,
+                    "original air date": "9 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Mickey gets sick which leaves Gus in a tough predicament.    "
+                },
+                "5": {
+                    "title": "Bertie's Birthday",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 349,
+                    "original air date": "9 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    After a disappointing start to her first birthday in America, Bertie winds up on an action-packed LA adventure with a kindered spirit.    "
+                },
+                "6": {
+                    "title": "Directing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 239,
+                    "original air date": "9 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Gus struggles to keep the actors and crew on task as he starts shooting his movie. Mickey sets out to show an old friend she's changed.    "
+                },
+                "7": {
+                    "title": "Sarah from College",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 297,
+                    "original air date": "9 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    When Gus bumps into an ex at a wedding. Mickey realizes there's a lot she doesn't know about his past.    "
+                },
+                "8": {
+                    "title": "Stunt Show",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 235,
+                    "original air date": "9 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    A stunt audition inspires Chris to reconnect with Bertie. Dr. Greg begs for a spot on Stella's show, and Gus asks Arya for a favor.    "
+                },
+                "9": {
+                    "title": "You're My Gran Torino",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 239,
+                    "original air date": "9 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    As Gus prepares for his band's first gig and a trip back home to South Dakota, Mickey wonders if it's time for her to meet the Cruikshank clan.    "
+                },
+                "10": {
+                    "title": "The Cruikshanks",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 286,
+                    "original air date": "9 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Gus scrambles to stop Mickey from skipping town before his parents' party. But the day only yields more embarrassing revelations about his past.    "
+                },
+                "11": {
+                    "title": "Anniversary Party",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 11,
+                    "votes": 385,
+                    "original air date": "9 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    As Mickey and Gus think seriously about their future, a spontaneous trip to Catalina Island brings together a motley group of their friends.    "
+                },
+                "12": {
+                    "title": "Catalina",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 12,
+                    "votes": 343,
+                    "original air date": "9 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Gus and Mickey make a major decision in their lives and decide to go to Catalina island with their close friends to celebrate    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "It Begins",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 866,
+                    "original air date": "19 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    While recovering from nasty breakups with their exes, Mickey makes a scene at a church and Gus seizes the day stumbles into a confusing sexual encounter.    "
+                },
+                "2": {
+                    "title": "One Long Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 734,
+                    "original air date": "19 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    After Gus steps in to help Mickey out of an embarrassing situation, the two end up on a bizarre odyssey through the streets of LA.    "
+                },
+                "3": {
+                    "title": "Tested",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 632,
+                    "original air date": "19 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Gus faces an ethically challenging situation at work, while Mickey navigates a dicey new dynamic with her boss.    "
+                },
+                "4": {
+                    "title": "Party in the Hills",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 632,
+                    "original air date": "19 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Meltdowns and confusion ensues when Mickey invites Gus to a party and comes face-to-face with mistakes from her past.    "
+                },
+                "5": {
+                    "title": "The Date",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 671,
+                    "original air date": "19 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    As Mickey tries to get her life back together, Gus takes his date with Bertie to hilarious extremes.    "
+                },
+                "6": {
+                    "title": "Andy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 592,
+                    "original air date": "19 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    A newly confident Gus gets noticed on the set, while a disturbing day at the radio station precedes an evening of Mickey behaving recklessly.    "
+                },
+                "7": {
+                    "title": "Magic",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 563,
+                    "original air date": "19 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Gus sets out to dazzle Mickey on their first proper date, but the night doesn't go according to plan.    "
+                },
+                "8": {
+                    "title": "Closing Title Song",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 567,
+                    "original air date": "19 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    As Mickey frets over the fallout of her date with Gus, a new guest shakes things up at Gus's movie night jam session.    "
+                },
+                "9": {
+                    "title": "The Table Read",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 540,
+                    "original air date": "19 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Gus gets an exciting opportunity at work, but a surprise visit from Mickey sends the day spiraling in a different direction.    "
+                },
+                "10": {
+                    "title": "The End of the Beginning",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 593,
+                    "original air date": "19 Feb. 2016",
+                    "year": "2016",
+                    "plot": "\n    Troubles keep mounting for Gus as he gets to experience life in the writers' room. Meanwhile, a new crisis pushes Mickey to a breaking point.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "On Lockdown",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 431,
+                    "original air date": "10 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    After coming clean to Gus, Mickey tries to head home to decompress. But an unexpected turn of events keeps them out together late into the night.    "
+                },
+                "2": {
+                    "title": "Friends Night Out",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 384,
+                    "original air date": "10 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    While Gus heads to a bar with his guy friends, a restless Mickey stirs up trouble at a dinner party full of couples.    "
+                },
+                "3": {
+                    "title": "While You Were Sleeping",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 363,
+                    "original air date": "10 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Mickey tries to help her work buddy Truman out of a sticky situation, and an on-set accident rattles the \"Witchita\" cast and crew.    "
+                },
+                "4": {
+                    "title": "Shrooms",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 408,
+                    "original air date": "10 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    A quiet night turns trippy when Mickey convinces Gus, Bertie and Randy to sample her leftover psychedelic mushrooms.    "
+                },
+                "5": {
+                    "title": "A Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 443,
+                    "original air date": "10 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    On a day of spontaneous adventures, Mickey and Gus open up about their pasts and begin to let go of their fears.    "
+                },
+                "6": {
+                    "title": "Forced Hiatus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 341,
+                    "original air date": "10 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Big news on the \"Witchita\" set leaves Gus caught in the middle of a family dispute over Arya's future. Mickey grows suspicious of Randy's motives.    "
+                },
+                "7": {
+                    "title": "The Work Party",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 328,
+                    "original air date": "10 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    While Mickey schmoozes with her new corporate bosses at a radio station party, Gus strikes up an unlikely friendship with Dr. Greg.    "
+                },
+                "8": {
+                    "title": "Marty Dobbs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 329,
+                    "original air date": "10 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    When Mickey's dad comes to visit, things get awkward quickly.    "
+                },
+                "9": {
+                    "title": "Housesitting",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 326,
+                    "original air date": "10 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    While housesitting at a friend's mansion, Gus and Mickey host a \"Witchita\" viewing party. But brewing tensions threaten to spoil the fun.    "
+                },
+                "10": {
+                    "title": "Liberty Down",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 313,
+                    "original air date": "10 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    As Gus heads off to the set of Ary's action film and Mickey dives into a big project at work, new cracks appear in their relationship.    "
+                },
+                "11": {
+                    "title": "The Long D",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 316,
+                    "original air date": "10 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    Mickey bonds with her ex, while Gus makes a desperate bid to patch things up with the film director. Bertie has a revelation.    "
+                },
+                "12": {
+                    "title": "Back in Town",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Love (TV Series 2016–2018)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 338,
+                    "original air date": "10 Mar. 2017",
+                    "year": "2017",
+                    "plot": "\n    With Gus back in town, Mickey realizes she needs to make a decision. But her attempt to straighten out her love life only creates more chaos.    "
+                }
+            }
+        },
+        "number of episodes": 34,
+        "cast": [
+            {
+                "name": "Jacobs, Gillian"
+            },
+            {
+                "name": "Rust, Paul"
+            },
+            {
+                "name": "O'Doherty, Claudia"
+            },
+            {
+                "name": "Mitchell, Mike"
+            },
+            {
+                "name": "Witaske, Chris"
+            },
+            {
+                "name": "Rock, Jordan"
+            },
+            {
+                "name": "Apatow, Iris"
+            },
+            {
+                "name": "Gelman, Brett"
+            },
+            {
+                "name": "Lee, Bobby"
+            },
+            {
+                "name": "Thoms, Tracie"
+            },
+            {
+                "name": "Hanford, Mike"
+            },
+            {
+                "name": "King, Dave"
+            },
+            {
+                "name": "Rushfield, Alexandra"
+            },
+            {
+                "name": "Weitzman, Armen"
+            },
+            {
+                "name": "Kenney, Kerri"
+            },
+            {
+                "name": "Morris, Seth"
+            },
+            {
+                "name": "Howell-Baptiste, Kirby"
+            },
+            {
+                "name": "Allen, Dave"
+            },
+            {
+                "name": "Bannos, Steve"
+            },
+            {
+                "name": "Pell, Paula"
+            },
+            {
+                "name": "Cassady, Michael Daniel"
+            },
+            {
+                "name": "Claret, Chantal"
+            },
+            {
+                "name": "Heelan, Briga"
+            },
+            {
+                "name": "Sommer, Rich"
+            },
+            {
+                "name": "Everett, Mark Oliver"
+            },
+            {
+                "name": "Spade, David"
+            },
+            {
+                "name": "Ennis, Jessie"
+            },
+            {
+                "name": "Sharbino, Saxon"
+            },
+            {
+                "name": "Forrester, Dawn"
+            },
+            {
+                "name": "Kasulka, Hannah"
+            },
+            {
+                "name": "Campbell, Neil"
+            },
+            {
+                "name": "Johnston, Jay"
+            },
+            {
+                "name": "Yi, Charlyne"
+            },
+            {
+                "name": "Amick, Mädchen"
+            },
+            {
+                "name": "Sanz, Horatio"
+            },
+            {
+                "name": "Brown, Jasmin Savoy"
+            },
+            {
+                "name": "Pepitone, Eddie"
+            },
+            {
+                "name": "Povitsky, Esther"
+            },
+            {
+                "name": "Kalpakis, Tim"
+            },
+            {
+                "name": "Vilaysack, Kulap"
+            },
+            {
+                "name": "Femi, Liz"
+            },
+            {
+                "name": "Dill, Jason"
+            },
+            {
+                "name": "Yonemoto, Takato"
+            },
+            {
+                "name": "Pineda, Blanca"
+            },
+            {
+                "name": "Baker, Kathy"
+            },
+            {
+                "name": "Dick, Andy"
+            },
+            {
+                "name": "Jr., Ed Begley"
+            },
+            {
+                "name": "Park, Randall"
+            },
+            {
+                "name": "Allynne, Stephanie"
+            },
+            {
+                "name": "Kinane, Kyle"
+            }
+        ],
+        "locations": [
+            "Sony Pictures Studios - 10202 W. Washington Blvd., Culver City, California, USA::(studio) (as Mar Vista Studios)",
+            "Los Angeles, California, USA"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "runtimes": [
+            "50"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Australia:MA15+",
+            "Germany:12",
+            "Italy:VM14",
+            "Netherlands:16::(season 1)",
+            "Netherlands:12::(season 2)",
+            "Netherlands:9::(season 3)",
+            "New Zealand:R16",
+            "Norway:12::(Netflix self-rating)",
+            "Russia:18+",
+            "Singapore:R21",
+            "South Korea:18",
+            "Spain:13::(Netflix)",
+            "United Kingdom:15",
+            "United States:TV-MA"
+        ],
+        "number of seasons": 3,
+        "rating": 7.7,
+        "votes": 30569,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYzgwMWI4ZGMtOGYyMi00ZmYyLWE0MzUtYmU5MjE1NDQ5MDhmXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Love",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-2018",
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "writer": [
+            {
+                "name": "Apatow, Judd"
+            },
+            {
+                "name": "Arfin, Lesley"
+            },
+            {
+                "name": "Rust, Paul"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Apatow Productions"
+            },
+            {
+                "name": "Legendary Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Ingenuity Studios"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Company 3"
+            },
+            {
+                "name": "Elastic"
+            },
+            {
+                "name": "Elastic"
+            },
+            {
+                "name": "Jukin Media"
+            },
+            {
+                "name": "Lakeshore Records"
+            },
+            {
+                "name": "Ohana Camera Expendables"
+            },
+            {
+                "name": "Soundtrack New York"
+            }
+        ],
+        "plot": [
+            "A program that follows a couple who must navigate the exhilarations and humiliations of intimacy, commitment and other things they were hoping to avoid.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "50 min",
+                "5 hr 31 min (331 min) (Entire season 1)",
+                "4 hr 56 min (296 min) (Entire season 2)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "camera": [
+                "Varicam 35 (Main Camera)"
+            ],
+            "laboratory": [
+                "Company 3 (digital intermediate)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 30569,
+                "rating": 7.7
+            },
+            "aged under 18": {
+                "votes": 27,
+                "rating": 8.0
+            },
+            "aged 18 29": {
+                "votes": 8567,
+                "rating": 7.7
+            },
+            "aged 30 44": {
+                "votes": 10348,
+                "rating": 7.7
+            },
+            "aged 45 plus": {
+                "votes": 1953,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 16499,
+                "rating": 7.8
+            },
+            "males aged under 18": {
+                "votes": 15,
+                "rating": 7.9
+            },
+            "males aged 18 29": {
+                "votes": 5917,
+                "rating": 7.8
+            },
+            "males aged 30 44": {
+                "votes": 7540,
+                "rating": 7.8
+            },
+            "males aged 45 plus": {
+                "votes": 1474,
+                "rating": 7.5
+            },
+            "females": {
+                "votes": 6178,
+                "rating": 7.4
+            },
+            "females aged under 18": {
+                "votes": 11,
+                "rating": 8.2
+            },
+            "females aged 18 29": {
+                "votes": 2496,
+                "rating": 7.5
+            },
+            "females aged 30 44": {
+                "votes": 2629,
+                "rating": 7.4
+            },
+            "females aged 45 plus": {
+                "votes": 433,
+                "rating": 7.3
+            },
+            "top 1000 voters": {
+                "votes": 145,
+                "rating": 6.3
+            },
+            "us users": {
+                "votes": 5039,
+                "rating": 7.8
+            },
+            "non us users": {
+                "votes": 11210,
+                "rating": 7.6
+            }
+        },
+        "number of votes": {
+            "10": 4721,
+            "9": 5621,
+            "8": 9752,
+            "7": 6114,
+            "6": 2096,
+            "5": 935,
+            "4": 384,
+            "3": 243,
+            "2": 184,
+            "1": 519
+        },
+        "arithmetic mean": 7.8,
+        "median": 8
+    }
+}

@@ -1,0 +1,654 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "  2018"
+            },
+            {
+                "country": "USA\n",
+                "date": "26 September 2018"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "26 December 2018",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::2018",
+            "USA::26 September 2018",
+            "Netherlands::26 December 2018                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "A Million Little Things"
+            },
+            {
+                "countries": "Russia",
+                "title": "Миллион мелочей"
+            },
+            {
+                "countries": "USA",
+                "title": "A Million Little Things"
+            }
+        ],
+        "akas": [
+            "A Million Little Things (original title)",
+            "Миллион мелочей Russia",
+            "A Million Little Things USA"
+        ],
+        "akas from release info": [
+            "A Million Little Things (original title)",
+            "Миллион мелочей Russia",
+            "A Million Little Things USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 426,
+                    "original air date": "26 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    After one of the group of friends dies unexpectedly, the others discover that their friends may be the one to save them from themselves.    "
+                },
+                "2": {
+                    "title": "Band of Dads",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 273,
+                    "original air date": "3 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    The group tries to support Sophie for the father-daughter dance recital; Eddie discovers a cryptic voicemail from Jon.    "
+                },
+                "3": {
+                    "title": "Save the Date",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 235,
+                    "original air date": "10 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    A surprise outing for Gary's birthday creates conflict when a major secret is revealed.    "
+                },
+                "4": {
+                    "title": "Friday Night Dinner",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 206,
+                    "original air date": "17 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    The aftermath of Eddie and Delilah's secret takes its toll; Maggie and Gary's bond is tested; Delilah struggles with protecting her children and keeping Jon's memory alive.    "
+                },
+                "5": {
+                    "title": "The Game of Your Life",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 187,
+                    "original air date": "24 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Gary attempts to get Maggie to open up; Eddie begins to understand Katherine's sacrifices; Rome takes steps to consult with a doctor.    "
+                },
+                "6": {
+                    "title": "Unexpected",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 181,
+                    "original air date": "31 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Delilah grapples with her life-changing decision; Maggie and Gary babysit Theo; Regina finds out Rome's big secret.    "
+                },
+                "7": {
+                    "title": "I Dare You",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 177,
+                    "original air date": "7 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Regina discovers she might not know Rome as she thought; Gary tries to convince Maggie he'll be there for her; Katherine discovers she has a new admirer.    "
+                },
+                "8": {
+                    "title": "Fight or Flight",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 160,
+                    "original air date": "28 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Recurring nightmares force Maggie to face a life-altering trauma; Everything comes to a head at Regina and Delilah's tasting party.    "
+                },
+                "9": {
+                    "title": "Perspective",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 163,
+                    "original air date": "5 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    Gary has trouble dealing with Maggie's decision; Rome opens up to his dad; Katherine struggles to cope at home without Eddie.    "
+                },
+                "10": {
+                    "title": "Christmas Wishlist",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 146,
+                    "original air date": "12 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    Delilah struggles with telling Sophie and Danny about her pregnancy; The gang comes together to embrace the Christmas spirit.    "
+                },
+                "11": {
+                    "title": "Secrets and Lies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 109,
+                    "original air date": "17 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    Delilah must rely on Katherine to help her family; Maggie insists on running the Suicide Prevention 5K.    "
+                },
+                "12": {
+                    "title": "The Day Before...",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 106,
+                    "original air date": "24 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    The day before his death, Jon struggles in his personal and work life; Delilah and Eddie plan to tell Jon about their affair.    "
+                },
+                "13": {
+                    "title": "Twelve Seconds",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 94,
+                    "original air date": "31 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    Delilah struggles to find a way to keep the house, but Ashley's secret meeting with someone may help; Maggie receives news about her treatment.    "
+                },
+                "14": {
+                    "title": "Someday",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 87,
+                    "original air date": "7 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    Delilah tracks down a handsome expert to help with the restaurant's last-minute details; Regina's past catches up to her.    "
+                },
+                "15": {
+                    "title": "The Rock",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 58,
+                    "original air date": "14 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    Eddie and Katherine's divorce become complicated; Rome's brother makes an unexpected visit; Gary helps Maggie with her bucket list.    "
+                },
+                "16": {
+                    "title": "The Rosary",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "original air date": "21 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    As her friends anxiously await the outcome of Maggie's surgery, an unexpected arrival from her mother leads to a tense first meeting with Gary.    "
+                },
+                "17": {
+                    "title": "Goodbye",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "original air date": "28 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n    With questions still lingering around Jon's death, his loved ones try to move on, until an unexpected member of the group decides to dig even further into the mystery behind Barbara Morgan.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Episode #2.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "A Million Little Things (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 18,
+        "cast": [
+            {
+                "name": "Giuntoli, David"
+            },
+            {
+                "name": "Malco, Romany"
+            },
+            {
+                "name": "Miller, Allison"
+            },
+            {
+                "name": "Moses, Christina Marie"
+            },
+            {
+                "name": "Park, Grace"
+            },
+            {
+                "name": "Roday, James"
+            },
+            {
+                "name": "Szostak, Stephanie"
+            },
+            {
+                "name": "Byon, Tristan"
+            },
+            {
+                "name": "Greene, Lizzy"
+            },
+            {
+                "name": "Ochoa, Christina"
+            },
+            {
+                "name": "Livingston, Ron"
+            },
+            {
+                "name": "Hurstfield, Chance"
+            },
+            {
+                "name": "Webb, Neil"
+            },
+            {
+                "name": "Wade, Henderson"
+            },
+            {
+                "name": "Sabongui, Bodhi"
+            },
+            {
+                "name": "Crosby, Cameron"
+            },
+            {
+                "name": "Jones, Graham Vincent"
+            },
+            {
+                "name": "Rosemont, Romy"
+            },
+            {
+                "name": "Huntington, Sam"
+            },
+            {
+                "name": "Jr., Lou Beatty"
+            },
+            {
+                "name": "Pancake, Sam"
+            },
+            {
+                "name": "Coleman, Jordan R."
+            },
+            {
+                "name": "Zimmer, Constance"
+            },
+            {
+                "name": "Donovan, Fletcher"
+            },
+            {
+                "name": "Tupper, James"
+            },
+            {
+                "name": "de Matteo, Drea"
+            },
+            {
+                "name": "Winokur, Marissa Jaret"
+            },
+            {
+                "name": "Humphreys, Chris"
+            },
+            {
+                "name": "Basco, Dante"
+            },
+            {
+                "name": "Stine, Tanner"
+            },
+            {
+                "name": "Okuma, Enuka"
+            },
+            {
+                "name": "Frier-Dryden, Rosie"
+            },
+            {
+                "name": "Caldwell, L. Scott"
+            },
+            {
+                "name": "Munro, Lochlyn"
+            },
+            {
+                "name": "Pharoah, Jay"
+            },
+            {
+                "name": "Mwinga, Mizinga"
+            },
+            {
+                "name": "Oberg, Matt"
+            },
+            {
+                "name": "Cook, Brian"
+            },
+            {
+                "name": "Parham, Lennon"
+            },
+            {
+                "name": "Raver-Lampman, Emmy"
+            },
+            {
+                "name": "Sloane, Dylan"
+            },
+            {
+                "name": "Ateah, Scott J."
+            },
+            {
+                "name": "LaBelle, Rob"
+            },
+            {
+                "name": "Leggero, Natasha"
+            },
+            {
+                "name": "Pavlovská, Diana"
+            },
+            {
+                "name": "Yu, Leana"
+            },
+            {
+                "name": "Christopher, Julian"
+            },
+            {
+                "name": "Gort, Lindsey"
+            },
+            {
+                "name": "Beeksma, Sonia"
+            },
+            {
+                "name": "He, Ricky"
+            }
+        ],
+        "locations": [
+            "Pacific Coliseum, Pacific National Exhibition Grounds, Vancouver, British Columbia, Canada::(Hockey Arena)",
+            "Vancouver, British Columbia, Canada"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "runtimes": [
+            "43"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Singapore:NC16",
+            "United States:TV-14"
+        ],
+        "number of seasons": 2,
+        "rating": 7.8,
+        "votes": 4125,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjI4NDkzMzQwNV5BMl5BanBnXkFtZTgwNDk1MDY0NjM@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "A Million Little Things",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Nash, DJ"
+            },
+            {
+                "name": "Maddox, Chris Erric"
+            },
+            {
+                "name": "Grant, David Marshall"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Fee-Fi-Fo Films"
+            },
+            {
+                "name": "Next Thing You Know Productions"
+            },
+            {
+                "name": "Kapital Entertainment"
+            },
+            {
+                "name": "ABC Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "American Broadcasting Company (ABC)"
+            },
+            {
+                "name": "Disney-ABC Domestic Television"
+            },
+            {
+                "name": "DiziMax"
+            },
+            {
+                "name": "Videoland"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Entertainment Partners Canada"
+            },
+            {
+                "name": "Hula Post"
+            }
+        ],
+        "plot": [
+            "A group of friends become motivated to living fuller lives after the unexpected death of a close friend.::ahmetkozan"
+        ],
+        "tech": {
+            "runtime": [
+                "43 min"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 4125,
+                "rating": 7.8
+            },
+            "aged under 18": {
+                "votes": 7,
+                "rating": 8.4
+            },
+            "aged 18 29": {
+                "votes": 550,
+                "rating": 8.0
+            },
+            "aged 30 44": {
+                "votes": 1155,
+                "rating": 7.7
+            },
+            "aged 45 plus": {
+                "votes": 826,
+                "rating": 7.5
+            },
+            "males": {
+                "votes": 1115,
+                "rating": 7.2
+            },
+            "males aged under 18": {
+                "votes": 4,
+                "rating": 8.8
+            },
+            "males aged 18 29": {
+                "votes": 234,
+                "rating": 7.7
+            },
+            "males aged 30 44": {
+                "votes": 420,
+                "rating": 7.0
+            },
+            "males aged 45 plus": {
+                "votes": 323,
+                "rating": 6.9
+            },
+            "females": {
+                "votes": 1751,
+                "rating": 8.2
+            },
+            "females aged under 18": {
+                "votes": 3,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 308,
+                "rating": 8.3
+            },
+            "females aged 30 44": {
+                "votes": 714,
+                "rating": 8.2
+            },
+            "females aged 45 plus": {
+                "votes": 488,
+                "rating": 8.1
+            },
+            "top 1000 voters": {
+                "votes": 59,
+                "rating": 6.2
+            },
+            "us users": {
+                "votes": 1315,
+                "rating": 7.9
+            },
+            "non us users": {
+                "votes": 643,
+                "rating": 7.0
+            }
+        },
+        "number of votes": {
+            "10": 1460,
+            "9": 807,
+            "8": 874,
+            "7": 390,
+            "6": 145,
+            "5": 110,
+            "4": 76,
+            "3": 48,
+            "2": 47,
+            "1": 168
+        },
+        "arithmetic mean": 8.2,
+        "median": 9
+    }
+}

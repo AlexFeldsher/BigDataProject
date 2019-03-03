@@ -1,0 +1,338 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "18 March 2012"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "8 May 2012"
+            }
+        ],
+        "release dates": [
+            "USA::18 March 2012",
+            "Hungary::8 May 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Unchained Reaction"
+            },
+            {
+                "countries": "Spain",
+                "title": "Reacción en cadena"
+            }
+        ],
+        "akas": [
+            "Unchained Reaction (original title)",
+            "Reacción en cadena Spain"
+        ],
+        "akas from release info": [
+            "Unchained Reaction (original title)",
+            "Reacción en cadena Spain"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Heavy vs. Light",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unchained Reaction (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "18 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    In our premiere episode, Judges Adam and Jamie of Mythbusters challenge 2 teams of electronics experts and set carpenters to a build-off. In the end, they determine a winner for the team with the most creative multi-step machines off theme Heavy vs. Light    "
+                },
+                "2": {
+                    "title": "Fire and Ice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unchained Reaction (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 7,
+                    "original air date": "25 Mar. 2012",
+                    "year": "2012",
+                    "plot": "\n    Judges Adam and Jamie of Mythbusters challenge a team of rocket scientists and a family of special effects artists to build a Fire and Ice themed multi-step machine. In the end, they will choose only one machine as the most innovative and creative.    "
+                },
+                "3": {
+                    "title": "Speed",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unchained Reaction (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "1 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    A team of horror movie effects specialists battles a group of motorcycle mechanics to build ingenious multi-step machines interpreting this week's theme: Speed. The pressure is on and all bets are off when one of the teams loses a team member.    "
+                },
+                "4": {
+                    "title": "Take Flight",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unchained Reaction (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "8 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    Adam and Jamie of Mythbusters pit a team of engineers against a group of artists to build the most impressive multi-step machines with this week's theme: flight. Will their machines get off of the ground or will they crash and burn?    "
+                },
+                "5": {
+                    "title": "Jack of All Trades",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unchained Reaction (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "15 Apr. 2012",
+                    "year": "2012",
+                    "plot": "\n    A team of designers and a group of construction workers square off this week to build the most impressive multi-step machines using the theme of Tools. Tensions rise amongst both groups, and one team finds themselves at odds with their machine.    "
+                },
+                "6": {
+                    "title": "Movie Mayhem",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unchained Reaction (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "3 May 2012",
+                    "year": "2012",
+                    "plot": "\n    A team of multi-media artists and a group of metal workers compete against each other to build the most creative multi-step machines interpreting the theme Movie Mayhem. Judges Adam and Jamie add a twist to the competition with a shocking missing link.    "
+                }
+            }
+        },
+        "number of episodes": 6,
+        "cast": [
+            {
+                "name": "Hyneman, Jamie"
+            },
+            {
+                "name": "Savage, Adam"
+            },
+            {
+                "name": "Haine, Charles"
+            },
+            {
+                "name": "Au, Bryan"
+            },
+            {
+                "name": "Baker, Rick"
+            },
+            {
+                "name": "Balzer, Frank Willis"
+            },
+            {
+                "name": "Flynn, James"
+            },
+            {
+                "name": "Gray, Bruce"
+            },
+            {
+                "name": "Greer, Julia"
+            },
+            {
+                "name": "Hightower, Adrian"
+            },
+            {
+                "name": "Link, Christian Ijin"
+            },
+            {
+                "name": "Long, Johnny"
+            },
+            {
+                "name": "Noel, Jesse"
+            },
+            {
+                "name": "Noel, Mark"
+            },
+            {
+                "name": "Rush, Brian"
+            },
+            {
+                "name": "Sadowsky, Adam"
+            }
+        ],
+        "locations": [
+            "Los Angeles, California, USA",
+            "M5 Industries - 1268 Missouri Street, San Francisco, California, USA"
+        ],
+        "genres": [
+            "Reality-TV"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "certificates": [
+            "United States:TV-PG"
+        ],
+        "number of seasons": 1,
+        "rating": 6.1,
+        "votes": 152,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTkwNzgyMzExOV5BMl5BanBnXkFtZTgwMDQ0NTAxMzE@._V1_SY150_CR49,0,101,150_.jpg",
+        "budget": "$60,000,000 (estimated)",
+        "plot outline": "The six-part series, which pits two teams of varying backgrounds - artists, rocket scientists, animatronic specialists, engineers and even your average Joes - against each other to build an elaborate chain reaction contraption on a massive scale. The teams are provided with identical sets of tools and materials and given five days to complete a series of mechanisms based on a specific theme. Per the network, \"refined mechanical movements, pyrotechnics and large-scale destruction are encouraged.\" At the end of the the five days, Savage and Hyneman are joined by a new guest judge to review the installations and pick a winner.",
+        "languages": [
+            "English"
+        ],
+        "title": "Unchained Reaction",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Discovery Studios"
+            },
+            {
+                "name": "BermanBraun"
+            },
+            {
+                "name": "Discovery Channel"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Discovery Channel"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chainsaw"
+            },
+            {
+                "name": "Cornwell Casting"
+            },
+            {
+                "name": "Dirty Robber"
+            },
+            {
+                "name": "Discovery Music Source"
+            },
+            {
+                "name": "Levels"
+            },
+            {
+                "name": "We Three Kings"
+            }
+        ],
+        "plot": [
+            "The six-part series, which pits two teams of varying backgrounds - artists, rocket scientists, animatronic specialists, engineers and even your average Joes - against each other to build an elaborate chain reaction contraption on a massive scale. The teams are provided with identical sets of tools and materials and given five days to complete a series of mechanisms based on a specific theme. Per the network, \"refined mechanical movements, pyrotechnics and large-scale destruction are encouraged.\" At the end of the the five days, Savage and Hyneman are joined by a new guest judge to review the installations and pick a winner.::Brian"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (including commercials)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 152,
+                "rating": 6.1
+            },
+            "aged 18 29": {
+                "votes": 36,
+                "rating": 6.3
+            },
+            "aged 30 44": {
+                "votes": 72,
+                "rating": 5.3
+            },
+            "aged 45 plus": {
+                "votes": 26,
+                "rating": 7.2
+            },
+            "males": {
+                "votes": 123,
+                "rating": 5.8
+            },
+            "males aged 18 29": {
+                "votes": 31,
+                "rating": 6.2
+            },
+            "males aged 30 44": {
+                "votes": 66,
+                "rating": 5.1
+            },
+            "males aged 45 plus": {
+                "votes": 23,
+                "rating": 6.8
+            },
+            "females": {
+                "votes": 13,
+                "rating": 8.7
+            },
+            "females aged 18 29": {
+                "votes": 4,
+                "rating": 10.0
+            },
+            "females aged 30 44": {
+                "votes": 6,
+                "rating": 7.7
+            },
+            "females aged 45 plus": {
+                "votes": 3,
+                "rating": 7.3
+            },
+            "top 1000 voters": {
+                "votes": 3,
+                "rating": 6.3
+            },
+            "us users": {
+                "votes": 48,
+                "rating": 6.3
+            },
+            "non us users": {
+                "votes": 63,
+                "rating": 5.6
+            }
+        },
+        "number of votes": {
+            "10": 39,
+            "9": 10,
+            "8": 14,
+            "7": 14,
+            "6": 22,
+            "5": 15,
+            "4": 7,
+            "3": 10,
+            "2": 8,
+            "1": 13
+        },
+        "arithmetic mean": 6.5,
+        "median": 7
+    }
+}

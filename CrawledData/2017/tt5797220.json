@@ -1,0 +1,427 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "23 November 2017",
+                "notes": "                            (TV)"
+            },
+            {
+                "country": "Spain\n",
+                "date": "19 December 2017"
+            },
+            {
+                "country": "Finland\n",
+                "date": "26 December 2017",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "Canada::23 November 2017                            (TV)",
+            "Spain::19 December 2017",
+            "Finland::26 December 2017                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Indian Detective"
+            },
+            {
+                "countries": "Russia",
+                "title": "Индийский детектив"
+            },
+            {
+                "countries": "USA",
+                "title": "The Indian Detective"
+            }
+        ],
+        "akas": [
+            "The Indian Detective (original title)",
+            "Индийский детектив Russia",
+            "The Indian Detective USA"
+        ],
+        "akas from release info": [
+            "The Indian Detective (original title)",
+            "Индийский детектив Russia",
+            "The Indian Detective USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Indian Detective (TV Mini-Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 101,
+                    "original air date": "19 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    Doug travels to Mumbai to visit his father and meets Priya Sehgal and together they investigate a fake murder confession.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Indian Detective (TV Mini-Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 76,
+                    "original air date": "26 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    Priya introduces Doug to a case of a missing Canadian traveler; Doug learns the location of a missing girl.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Indian Detective (TV Mini-Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 72,
+                    "original air date": "7 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    The violent death of an innocent man at the hands of one of Gopal's henchmen allows Doug and Priya to infiltrate his inner circle.    "
+                },
+                "4": {
+                    "title": "Episode #1.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Indian Detective (TV Mini-Series 2017– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 74,
+                    "original air date": "26 Dec. 2017",
+                    "year": "2017",
+                    "plot": "\n    In a desperate race against time in order to save thousands of lives, Doug and Robyn embark on a dangerous mission on the season finale.    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Peters, Russell"
+            },
+            {
+                "name": "Kher, Anupam"
+            },
+            {
+                "name": "Cole, Christina"
+            },
+            {
+                "name": "Parthiephal, Mishqah"
+            },
+            {
+                "name": "Haq, Hamza"
+            },
+            {
+                "name": "Reddy, Meren"
+            },
+            {
+                "name": "Shatner, William"
+            },
+            {
+                "name": "Cavalheiro, Scott"
+            },
+            {
+                "name": "DeSanto, Daniel"
+            },
+            {
+                "name": "Tsarouchas, Angelo"
+            },
+            {
+                "name": "Valley-Omar, Farouk"
+            },
+            {
+                "name": "Jennings, Stephen"
+            },
+            {
+                "name": "Dales, Nathan"
+            },
+            {
+                "name": "Sandhu, Gia"
+            },
+            {
+                "name": "Maharaj, Pranesh"
+            },
+            {
+                "name": "Kathrada, Khalil"
+            },
+            {
+                "name": "Jajbhay, Rafiq"
+            },
+            {
+                "name": "Govender, Neil"
+            },
+            {
+                "name": "Brijnath, Rahul"
+            },
+            {
+                "name": "Bagwandeen, Kajal"
+            },
+            {
+                "name": "Sood, Veena"
+            },
+            {
+                "name": "Singh, Deepti Jal"
+            },
+            {
+                "name": "Michel, Francesca Varrie"
+            },
+            {
+                "name": "Shetty, Shaun"
+            },
+            {
+                "name": "Aleksandrowa, Natalia"
+            },
+            {
+                "name": "Hubner, Jade"
+            },
+            {
+                "name": "Meyer, Darron"
+            },
+            {
+                "name": "Kumar, Akshay"
+            },
+            {
+                "name": "Singh, Gugun Deep"
+            },
+            {
+                "name": "Badshaw, Aneesa"
+            }
+        ],
+        "locations": [
+            "Cape Town, South Africa::(Various Locations)",
+            "South Africa",
+            "India",
+            "Mumbai, India::(As Mumbai)",
+            "Toronto, Ontario, Canada::(As Toronto)",
+            "Canada"
+        ],
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "runtimes": [
+            "44"
+        ],
+        "countries": [
+            "Canada",
+            "Germany",
+            "South Africa"
+        ],
+        "country codes": [
+            "ca",
+            "de",
+            "za"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital::(5.1)"
+        ],
+        "certificates": [
+            "Canada:14+",
+            "Singapore:PG13",
+            "South Korea:15",
+            "Spain:13"
+        ],
+        "original air date": "19 Dec 2017 (Spain)",
+        "number of seasons": 1,
+        "rating": 6.5,
+        "votes": 2223,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BODQ2NDBmNjUtMWI5My00MjU1LTgwNTctM2Q2NzM5NjY2MzM4XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SY150_CR24,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Indian Detective",
+        "year": 2017,
+        "kind": "tv mini series",
+        "series years": "2017-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Bhide, Smita"
+            },
+            {
+                "name": "Casimiri, Luciano"
+            },
+            {
+                "name": "Spotnitz, Frank"
+            }
+        ],
+        "director": [
+            {
+                "name": "Johnson, Sandy"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Big Light Productions"
+            },
+            {
+                "name": "Blue Ice Pictures"
+            },
+            {
+                "name": "Out of Africa Entertainment"
+            },
+            {
+                "name": "Wonder Worldwide"
+            },
+            {
+                "name": "Wonderfilms"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Canadian Television (CTV)"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "Netflix"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Storm FX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Entertainment Partners Canada"
+            },
+            {
+                "name": "Luxury Event Rentals"
+            },
+            {
+                "name": "Revered Cinema (RVRD)"
+            },
+            {
+                "name": "The Rights Company"
+            }
+        ],
+        "plot": [
+            "A Toronto police officer investigates a murder while visiting his father in India."
+        ],
+        "tech": {
+            "runtime": [
+                "44 min (approx)"
+            ],
+            "sound mix": [
+                "Dolby Digital (5.1)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Red Epic"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2223,
+                "rating": 6.5
+            },
+            "aged under 18": {
+                "votes": 4,
+                "rating": 8.0
+            },
+            "aged 18 29": {
+                "votes": 287,
+                "rating": 6.0
+            },
+            "aged 30 44": {
+                "votes": 673,
+                "rating": 6.1
+            },
+            "aged 45 plus": {
+                "votes": 467,
+                "rating": 7.1
+            },
+            "males": {
+                "votes": 1242,
+                "rating": 6.3
+            },
+            "males aged under 18": {
+                "votes": 4,
+                "rating": 8.0
+            },
+            "males aged 18 29": {
+                "votes": 232,
+                "rating": 5.8
+            },
+            "males aged 30 44": {
+                "votes": 521,
+                "rating": 6.0
+            },
+            "males aged 45 plus": {
+                "votes": 310,
+                "rating": 6.8
+            },
+            "females": {
+                "votes": 393,
+                "rating": 7.2
+            },
+            "females aged 18 29": {
+                "votes": 52,
+                "rating": 6.6
+            },
+            "females aged 30 44": {
+                "votes": 143,
+                "rating": 6.6
+            },
+            "females aged 45 plus": {
+                "votes": 148,
+                "rating": 7.6
+            },
+            "top 1000 voters": {
+                "votes": 35,
+                "rating": 5.3
+            },
+            "us users": {
+                "votes": 461,
+                "rating": 7.0
+            },
+            "non us users": {
+                "votes": 675,
+                "rating": 6.0
+            }
+        },
+        "number of votes": {
+            "10": 409,
+            "9": 218,
+            "8": 455,
+            "7": 454,
+            "6": 220,
+            "5": 112,
+            "4": 67,
+            "3": 54,
+            "2": 51,
+            "1": 183
+        },
+        "arithmetic mean": 7.0,
+        "median": 7
+    }
+}

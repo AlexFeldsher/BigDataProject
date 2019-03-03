@@ -1,0 +1,675 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "12 October 2007"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "13 February 2008"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "14 April 2008"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "30 June 2008"
+            },
+            {
+                "country": "Finland\n",
+                "date": "14 September 2008"
+            },
+            {
+                "country": "Estonia\n",
+                "date": "2 June 2009"
+            }
+        ],
+        "release dates": [
+            "USA::12 October 2007",
+            "Sweden::13 February 2008",
+            "Netherlands::14 April 2008",
+            "Hungary::30 June 2008",
+            "Finland::14 September 2008",
+            "Estonia::2 June 2009"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Women's Murder Club"
+            },
+            {
+                "countries": "Estonia",
+                "title": "Naiste mõrvaklubi"
+            },
+            {
+                "countries": "France",
+                "title": "Women's Murder Club"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Született nyomozók"
+            },
+            {
+                "countries": "Poland",
+                "title": "Kobiecy Klub Zbrodni"
+            },
+            {
+                "countries": "Russia",
+                "title": "Женский клуб расследований убийств"
+            },
+            {
+                "countries": "Spain",
+                "title": "El club contra el crimen"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "Murder Club"
+            },
+            {
+                "countries": "USA (short title)",
+                "title": "wmc"
+            }
+        ],
+        "akas": [
+            "Women's Murder Club (original title)",
+            "Naiste mõrvaklubi Estonia",
+            "Women's Murder Club France",
+            "Született nyomozók Hungary",
+            "Kobiecy Klub Zbrodni Poland",
+            "Женский клуб расследований убийств Russia",
+            "El club contra el crimen Spain",
+            "Murder Club USA (working title)",
+            "wmc USA (short title)"
+        ],
+        "akas from release info": [
+            "Women's Murder Club (original title)",
+            "Naiste mõrvaklubi Estonia",
+            "Women's Murder Club France",
+            "Született nyomozók Hungary",
+            "Kobiecy Klub Zbrodni Poland",
+            "Женский клуб расследований убийств Russia",
+            "El club contra el crimen Spain",
+            "Murder Club USA (working title)",
+            "wmc USA (short title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Welcome to the Club",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Women's Murder Club (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 66,
+                    "original air date": "12 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n    A San Francisco female detective, DA and ME band together to unravel the murder of an investigative reporter.    "
+                },
+                "2": {
+                    "title": "Train in Vain",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Women's Murder Club (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 50,
+                    "original air date": "19 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n    With only six gunshots three persons have been killed in the subway.    "
+                },
+                "3": {
+                    "title": "Blind Dates and Bleeding Hearts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Women's Murder Club (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 49,
+                    "original air date": "26 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n    Emily Sherman had her first date in 5 years. Her dead body was found by a street hooker.    "
+                },
+                "4": {
+                    "title": "Grannies, Guns and Love Mints",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Women's Murder Club (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 43,
+                    "original air date": "2 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    Returning from vacations in Mexico a female resident from an old people's home is found dead with her stomach filled with drugs from a balloon.    "
+                },
+                "5": {
+                    "title": "Maybe Baby",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Women's Murder Club (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 50,
+                    "original air date": "9 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    A missing pregnant woman is the focus of a police hunt.    "
+                },
+                "6": {
+                    "title": "Play Through the Pain",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Women's Murder Club (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 52,
+                    "original air date": "15 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    The death of a star quarterback is investigated.    "
+                },
+                "7": {
+                    "title": "The Past Comes Back to Haunt You",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Women's Murder Club (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 40,
+                    "original air date": "16 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    The murder of a building handyman leads to the re-opening of a murder case in which the victim was a witness.    "
+                },
+                "8": {
+                    "title": "No Opportunity Necessary",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Women's Murder Club (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 40,
+                    "original air date": "23 Nov. 2007",
+                    "year": "2007",
+                    "plot": "\n    The murder of a young illegal immigrant leads to Tom and Lindsay teaming up for some street work.    "
+                },
+                "9": {
+                    "title": "To Drag & to Hold",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Women's Murder Club (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 39,
+                    "original air date": "7 Dec. 2007",
+                    "year": "2007",
+                    "plot": "\n    The murder of a drag queen coincides with (and tends to disrupt) Tom and Heather's wedding.    "
+                },
+                "10": {
+                    "title": "FBI Guy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Women's Murder Club (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 43,
+                    "original air date": "4 Jan. 2008",
+                    "year": "2008",
+                    "plot": "\n    The FBI takes over the serial killer case Lindsay had worked on, and a man is killed and dismembered by a vintage automobile.    "
+                },
+                "11": {
+                    "title": "Father's Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Women's Murder Club (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 37,
+                    "original air date": "29 Apr. 2008",
+                    "year": "2008",
+                    "plot": "\n    The murder of an undercover policeman pushes Lindsay to circumvent department policies to find his killer.    "
+                },
+                "12": {
+                    "title": "And the Truth Will (Sometimes) Set You Free",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Women's Murder Club (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 45,
+                    "original air date": "6 May 2008",
+                    "year": "2008",
+                    "plot": "\n    The murder of a college jock looks like it was connected to his being accused of rape shortly before the crime.    "
+                },
+                "13": {
+                    "title": "Never Tell",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Women's Murder Club (TV Series 2007–2008)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 44,
+                    "original air date": "13 May 2008",
+                    "year": "2008",
+                    "plot": "\n    With only a few days left before Lindsay's new boyfriend Pete leaves for a year abroad, the Kiss-Me-Not Killer seems to have struck again.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Harmon, Angie"
+            },
+            {
+                "name": "Harris, Laura"
+            },
+            {
+                "name": "Newsome, Paula"
+            },
+            {
+                "name": "Dollar, Aubrey"
+            },
+            {
+                "name": "Allen, Tyrees"
+            },
+            {
+                "name": "Estes, Rob"
+            },
+            {
+                "name": "Park, Linda"
+            },
+            {
+                "name": "McLaughlin, Coby Ryan"
+            },
+            {
+                "name": "Adams, Jonathan"
+            },
+            {
+                "name": "Carradine, Ever"
+            },
+            {
+                "name": "Secor, Kyle"
+            },
+            {
+                "name": "Ondrick, Emmanuel"
+            },
+            {
+                "name": "Gretsch, Joel"
+            },
+            {
+                "name": "Choi, Tom"
+            },
+            {
+                "name": "McRaney, Gerald"
+            },
+            {
+                "name": "Flanigan, Joe"
+            },
+            {
+                "name": "Huang, James"
+            },
+            {
+                "name": "Matthews, Drew"
+            },
+            {
+                "name": "Zieff, Rick"
+            },
+            {
+                "name": "Krauser, Chris"
+            },
+            {
+                "name": "Woodley, Alfred F."
+            },
+            {
+                "name": "Baesel, Nathan"
+            },
+            {
+                "name": "Gillette, Anita"
+            },
+            {
+                "name": "Gunton, Bob"
+            },
+            {
+                "name": "Micheaux, Nicki"
+            },
+            {
+                "name": "Randall, Josh"
+            },
+            {
+                "name": "Billingsley, John"
+            },
+            {
+                "name": "Hopkins, Neil"
+            },
+            {
+                "name": "Howe, Tracy"
+            },
+            {
+                "name": "Lentz-Pope, Marcella"
+            },
+            {
+                "name": "Bean, Orson"
+            },
+            {
+                "name": "Franco, Ramón"
+            },
+            {
+                "name": "Hoag, Judith"
+            },
+            {
+                "name": "Mara, Rooney"
+            },
+            {
+                "name": "Moore, Christina"
+            },
+            {
+                "name": "Pellegrino, Mark"
+            },
+            {
+                "name": "Smith, Riley"
+            },
+            {
+                "name": "Bauchau, Patrick"
+            },
+            {
+                "name": "Davis, Matthew Corbett"
+            },
+            {
+                "name": "Leak, Justice"
+            },
+            {
+                "name": "Callen, Bryan"
+            },
+            {
+                "name": "Diehl, John"
+            },
+            {
+                "name": "Hipp, Paul"
+            },
+            {
+                "name": "Tomita, Tamlyn"
+            },
+            {
+                "name": "Victor, Renee"
+            },
+            {
+                "name": "Ward, Susan"
+            },
+            {
+                "name": "Cryer, Suzanne"
+            },
+            {
+                "name": "Kelley, Ryan"
+            },
+            {
+                "name": "O'Neill, Michael"
+            },
+            {
+                "name": "Venditto, Stephanie"
+            }
+        ],
+        "locations": [
+            "Los Angeles Center Studios - 450 S. Bixel Street, Downtown, Los Angeles, California, USA::(studio)",
+            "San Francisco, California, USA"
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "number of seasons": 1,
+        "rating": 7.3,
+        "votes": 2156,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYjhmOTU3YzgtZDUzZi00YjRkLTllNjItOWY4MzFlMTk4NGM4XkEyXkFqcGdeQXVyNjMxODMyODU@._V1_SY150_CR1,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Women's Murder Club",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-2008",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Craft, Elizabeth"
+            },
+            {
+                "name": "Fain, Sarah"
+            },
+            {
+                "name": "Patterson, James"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "20th Century Fox Television"
+            },
+            {
+                "name": "Rat TV"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "American Broadcasting Company (ABC)"
+            },
+            {
+                "name": "RTL Klub Televízió"
+            },
+            {
+                "name": "Prizma"
+            },
+            {
+                "name": "RTL Entertainment"
+            },
+            {
+                "name": "Sorozat Plusz"
+            },
+            {
+                "name": "TV3"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Look Effects"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Beau Bonneau Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Direct Tools & Fasteners"
+            },
+            {
+                "name": "Go For Locations"
+            },
+            {
+                "name": "LCW Props"
+            },
+            {
+                "name": "Location Junkies"
+            },
+            {
+                "name": "Los Angeles Center Studios"
+            },
+            {
+                "name": "ShowBiz Enterprises"
+            },
+            {
+                "name": "Steadicam Rickshaw"
+            },
+            {
+                "name": "Transportation Resources"
+            }
+        ],
+        "plot": [
+            "A homicide detective, a medical examiner, a newspaper reporter and a young assistant district attorney work together to solve homicide investigations.::IMDb editor."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (13 episodes)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Panavision Panaflex Lightweight, Panavision Primo Lenses",
+                "Panavision Panaflex Platinum, Panavision Primo Lenses"
+            ],
+            "laboratory": [
+                "Modern VideoFilm, Burbank (CA), USA"
+            ],
+            "negative format": [
+                "35 mm (Kodak Vision 500T 5279)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2156,
+                "rating": 7.3
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "aged 18 29": {
+                "votes": 308,
+                "rating": 7.6
+            },
+            "aged 30 44": {
+                "votes": 969,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 552,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 718,
+                "rating": 6.6
+            },
+            "males aged 18 29": {
+                "votes": 87,
+                "rating": 6.6
+            },
+            "males aged 30 44": {
+                "votes": 339,
+                "rating": 6.2
+            },
+            "males aged 45 plus": {
+                "votes": 272,
+                "rating": 7.0
+            },
+            "females": {
+                "votes": 1145,
+                "rating": 7.8
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 18 29": {
+                "votes": 219,
+                "rating": 8.0
+            },
+            "females aged 30 44": {
+                "votes": 621,
+                "rating": 7.7
+            },
+            "females aged 45 plus": {
+                "votes": 277,
+                "rating": 7.9
+            },
+            "top 1000 voters": {
+                "votes": 56,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 781,
+                "rating": 7.6
+            },
+            "non us users": {
+                "votes": 882,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 636,
+            "9": 251,
+            "8": 379,
+            "7": 370,
+            "6": 196,
+            "5": 99,
+            "4": 51,
+            "3": 45,
+            "2": 35,
+            "1": 94
+        },
+        "arithmetic mean": 7.6,
+        "median": 8
+    }
+}

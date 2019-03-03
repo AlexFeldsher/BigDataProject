@@ -1,0 +1,404 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "25 September 2012"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "7 October 2012"
+            },
+            {
+                "country": "UK\n",
+                "date": "15 November 2012"
+            },
+            {
+                "country": "Spain\n",
+                "date": "11 December 2012"
+            }
+        ],
+        "release dates": [
+            "UK::25 September 2012",
+            "Sweden::7 October 2012",
+            "UK::15 November 2012",
+            "Spain::11 December 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Falcón"
+            },
+            {
+                "countries": "Greece",
+                "title": "Falcon"
+            },
+            {
+                "countries": "Russia",
+                "title": "Фалькон"
+            }
+        ],
+        "akas": [
+            "Falcón (original title)",
+            "Falcon Greece",
+            "Фалькон Russia"
+        ],
+        "akas from release info": [
+            "Falcón (original title)",
+            "Falcon Greece",
+            "Фалькон Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Blind Man of Seville",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Falcón (TV Mini-Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 85,
+                    "original air date": "7 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Sevillian detective Falcón investigates the murder of a restaurateur. The case triggers uncomfortable memories for Falcón and he is forced to ask difficult questions about his own late father.    "
+                },
+                "2": {
+                    "title": "The Silent and the Damned",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Falcón (TV Mini-Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 44,
+                    "original air date": "18 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n    Falcón continues his pursuit of a killer who seems to know dark secrets about the Falcón family. As a detective he is searching for the truth, but are there things that are too painful to see?    "
+                },
+                "3": {
+                    "title": "The Silent and the Damned Part 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Falcón (TV Mini-Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 11,
+                    "original air date": "25 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n    The brooding and burdened inspector Falcon wades through a string of suicides.    "
+                },
+                "4": {
+                    "title": "The Silent and the Damned Part 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Falcón (TV Mini-Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 11,
+                    "original air date": "1 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Falcon concludes with family history rearing its ugly and deadly enemies drawing closer.    "
+                }
+            }
+        },
+        "number of episodes": 4,
+        "cast": [
+            {
+                "name": "Sánchez, Carla"
+            },
+            {
+                "name": "Atwell, Hayley"
+            },
+            {
+                "name": "Bacon, Rick"
+            },
+            {
+                "name": "Cabrera, Santiago"
+            },
+            {
+                "name": "Creed-Miles, Charlie"
+            },
+            {
+                "name": "Csokas, Marton"
+            },
+            {
+                "name": "Floyd, James"
+            },
+            {
+                "name": "Fox, Emilia"
+            },
+            {
+                "name": "Fox, Kerry"
+            },
+            {
+                "name": "Tena, Natalia"
+            },
+            {
+                "name": "Bautista, Mauricio"
+            },
+            {
+                "name": "Cerqueira, Daniel"
+            },
+            {
+                "name": "Cranham, Kenneth"
+            },
+            {
+                "name": "Elliott, Emun"
+            },
+            {
+                "name": "Fernandez, Karina"
+            },
+            {
+                "name": "Flores, Gael"
+            },
+            {
+                "name": "Goodman, Henry"
+            },
+            {
+                "name": "Grower, Mercedes"
+            },
+            {
+                "name": "Hill, Bernard"
+            },
+            {
+                "name": "Lindsay, Robert"
+            },
+            {
+                "name": "Lorente, Pepe"
+            },
+            {
+                "name": "Marquez, Martin"
+            },
+            {
+                "name": "McCann, Martin"
+            },
+            {
+                "name": "Mirza, Shafiq"
+            },
+            {
+                "name": "Mulhern, Christopher"
+            },
+            {
+                "name": "Paredes, Valentín"
+            },
+            {
+                "name": "Paterson, Bill"
+            },
+            {
+                "name": "Perez, Rosie"
+            },
+            {
+                "name": "Pirrie, Daniel"
+            },
+            {
+                "name": "Quintana, Erika"
+            },
+            {
+                "name": "Quintana, Raquel"
+            },
+            {
+                "name": "Raido, Mel"
+            },
+            {
+                "name": "Ratón"
+            },
+            {
+                "name": "Roëves, Maurice"
+            },
+            {
+                "name": "Rujas, Ana"
+            },
+            {
+                "name": "Siddig, Alexander"
+            },
+            {
+                "name": "Stanton, Sophie"
+            },
+            {
+                "name": "Lombardero, Juan"
+            }
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color::(HD)"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "New Zealand:R18"
+        ],
+        "original air date": "25 Sep 2012 (UK)",
+        "number of seasons": 1,
+        "rating": 6.7,
+        "votes": 689,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOWMyMTE1NjktOWJmOC00Nzg2LTk3N2YtNTVjNTBmNTQ2ZDJhXkEyXkFqcGdeQXVyNzQ5MzY0NjM@._V1_SY150_CR2,0,101,150_.jpg",
+        "budget": "GBP6,000,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Falcón",
+        "year": 2012,
+        "kind": "tv mini series",
+        "series years": "2012-2013",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Butchard, Stephen"
+            },
+            {
+                "name": "Phelps, Sarah"
+            }
+        ],
+        "director": [
+            {
+                "name": "Range, Gabriel"
+            },
+            {
+                "name": "Travis, Pete"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Mammoth Screen"
+            },
+            {
+                "name": "Plural Entertainment"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "ITV Global Entertainment"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Energy Services"
+            },
+            {
+                "name": "Halo Post Production"
+            },
+            {
+                "name": "Halo Post Production"
+            },
+            {
+                "name": "Lipsync Post"
+            },
+            {
+                "name": "Munky"
+            }
+        ],
+        "plot": [
+            "_Falcón_ (qv) is a brilliant detective whose personal and professional life is compromised by dark secrets from the past.::Sky Atlantic (BSkyB)"
+        ],
+        "tech": {
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color (HD)"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 689,
+                "rating": 6.7
+            },
+            "aged 18 29": {
+                "votes": 34,
+                "rating": 7.6
+            },
+            "aged 30 44": {
+                "votes": 214,
+                "rating": 6.7
+            },
+            "aged 45 plus": {
+                "votes": 300,
+                "rating": 6.6
+            },
+            "males": {
+                "votes": 407,
+                "rating": 6.5
+            },
+            "males aged 18 29": {
+                "votes": 21,
+                "rating": 7.2
+            },
+            "males aged 30 44": {
+                "votes": 148,
+                "rating": 6.6
+            },
+            "males aged 45 plus": {
+                "votes": 201,
+                "rating": 6.5
+            },
+            "females": {
+                "votes": 181,
+                "rating": 7.1
+            },
+            "females aged 18 29": {
+                "votes": 13,
+                "rating": 8.2
+            },
+            "females aged 30 44": {
+                "votes": 60,
+                "rating": 6.8
+            },
+            "females aged 45 plus": {
+                "votes": 97,
+                "rating": 7.0
+            },
+            "top 1000 voters": {
+                "votes": 30,
+                "rating": 5.7
+            },
+            "us users": {
+                "votes": 109,
+                "rating": 6.8
+            },
+            "non us users": {
+                "votes": 363,
+                "rating": 6.7
+            }
+        },
+        "number of votes": {
+            "10": 88,
+            "9": 59,
+            "8": 145,
+            "7": 155,
+            "6": 87,
+            "5": 71,
+            "4": 35,
+            "3": 14,
+            "2": 13,
+            "1": 22
+        },
+        "arithmetic mean": 6.9,
+        "median": 7
+    }
+}

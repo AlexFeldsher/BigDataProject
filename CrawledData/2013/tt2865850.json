@@ -1,0 +1,399 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "April 2013"
+            },
+            {
+                "country": "USA\n",
+                "date": "1 May 2013"
+            },
+            {
+                "country": "Germany\n",
+                "date": "1 September 2013"
+            }
+        ],
+        "release dates": [
+            "USA::April 2013",
+            "USA::1 May 2013",
+            "Germany::1 September 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Big Brain Theory"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Mérnökzseni születik"
+            },
+            {
+                "countries": "USA (long title)",
+                "title": "The Big Brain Theory: Pure Genius"
+            }
+        ],
+        "akas": [
+            "The Big Brain Theory (original title)",
+            "Mérnökzseni születik Hungary",
+            "The Big Brain Theory: Pure Genius USA (long title)"
+        ],
+        "akas from release info": [
+            "The Big Brain Theory (original title)",
+            "Mérnökzseni születik Hungary",
+            "The Big Brain Theory: Pure Genius USA (long title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "The Next Great Innovator",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Big Brain Theory (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "1 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Ten of the country's brightest minds begin a competition designed to discover the next great American Innovator.    "
+                },
+                "2": {
+                    "title": "Seek and Destroy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Big Brain Theory (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "8 May 2013",
+                    "year": "2013",
+                    "plot": "\n    The contestants face their toughest challenge yet: stop a missile with a missile. But when Dan storms out of the shop after a heated fight and the opposing team struggles to complete an improbable design, will either team complete their build?    "
+                },
+                "3": {
+                    "title": "Three Little Pigs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Big Brain Theory (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "15 May 2013",
+                    "year": "2013",
+                    "plot": "\n    After Joe and Joel are eliminated, the contestants now face a real-world challenge: build a personal shelter to keep a rescue worker safe from extreme wind, water, and fire. Can the teams keep their cool or will clashes over design derail both builds?    "
+                },
+                "4": {
+                    "title": "Triathalabots",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Big Brain Theory (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "22 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Competitors take on an Olympian challenge: design a robot that can tackle three athletic events. The threat of failure looms when one leader fails to manage his team's talents and later, a shocking elimination leaves one competitor in distress.    "
+                },
+                "5": {
+                    "title": "Waterfall",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Big Brain Theory (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "29 May 2013",
+                    "year": "2013",
+                    "plot": "\n    The competitors must harness the power of a waterfall to build an elevator. While one team works together to get their idea off the ground, the other falls apart when tensions between Gui, Amy and Dan reach an all time high. Can they put aside their diffe    "
+                },
+                "6": {
+                    "title": "The Wildcard",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Big Brain Theory (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "5 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    An explosive wildcard winner is brought back and the contestants are given the challenge of creating an automated machine that can prepare a meal for the masses. Stakes are higher than ever with a double elimination for the losing team, who will survive t    "
+                },
+                "7": {
+                    "title": "Catching Cars",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Big Brain Theory (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "original air date": "12 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Check out new episodes of Property Wars, Thursdays at 10PM E/P. Four semifinalists face off in a contest to bring a speeding car to a safe stop. And in the closest elimination yet, the judges must choose between innovation and simplicity.    "
+                },
+                "8": {
+                    "title": "Bridge Battle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Big Brain Theory (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "original air date": "19 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    In the season finale, the final two contestants go head-to-head in a challenge to build a deployable bridge. While one team goes with complexity and creativity, the other goes with simplicity. Which method will win its team leader the $50,000 grand prize?    "
+                }
+            }
+        },
+        "number of episodes": 8,
+        "cast": [
+            {
+                "name": "Penn, Kal"
+            },
+            {
+                "name": "Caravella, Joe"
+            },
+            {
+                "name": "Cavalcanti, Gui"
+            },
+            {
+                "name": "Elliott, Amy"
+            },
+            {
+                "name": "Fleischer, Cory"
+            },
+            {
+                "name": "Fuller, Mark"
+            },
+            {
+                "name": "Ifill, Joel"
+            },
+            {
+                "name": "Johnson, Tom"
+            },
+            {
+                "name": "Moyers, Dan"
+            },
+            {
+                "name": "Stroup, Andrew"
+            },
+            {
+                "name": "Whitman, Eric"
+            },
+            {
+                "name": "Wong, Alison"
+            },
+            {
+                "name": "Gulbranson, Christine"
+            },
+            {
+                "name": "Massimino, Michael J."
+            },
+            {
+                "name": "Aldrin, Buzz"
+            },
+            {
+                "name": "Bardis, Jason"
+            },
+            {
+                "name": "Clay, Brian"
+            },
+            {
+                "name": "Dalton, Burt"
+            },
+            {
+                "name": "Edwards, Carl"
+            },
+            {
+                "name": "Ferdowsi, Bobak"
+            },
+            {
+                "name": "Johnson, Brian David"
+            },
+            {
+                "name": "Lundequam, Kyle"
+            },
+            {
+                "name": "Molnar, Dezso"
+            }
+        ],
+        "genres": [
+            "Reality-TV"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "certificates": [
+            "United States:TV-PG"
+        ],
+        "number of seasons": 1,
+        "rating": 7.3,
+        "votes": 181,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjc1NTU0MjAxMV5BMl5BanBnXkFtZTgwODUzODAxMzE@._V1_SY150_CR49,0,101,150_.jpg",
+        "plot outline": "THE BIG BRAIN THEORY: PURE GENIUS searches for America's brightest, boldest, out-of-the-box thinkers and pits them against one another in seemingly impossible engineering challenges. Host Kal Penn tasks competitors with building secure yet portable bunkers, triathlon-competing robots, and more. The winner will receive $50,000 and a one-year job contract.",
+        "languages": [
+            "English"
+        ],
+        "title": "The Big Brain Theory",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-",
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Pilgrim Studios"
+            },
+            {
+                "name": "Water Entertainment Technologies"
+            },
+            {
+                "name": "Discovery Channel"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Discovery Channel"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Burr King"
+            },
+            {
+                "name": "Drake"
+            },
+            {
+                "name": "Kaeser Compressors"
+            },
+            {
+                "name": "Machine Studio"
+            },
+            {
+                "name": "Miller Electric Company"
+            },
+            {
+                "name": "Scotchman Industries"
+            },
+            {
+                "name": "Southwestern Industries"
+            },
+            {
+                "name": "Vanacore Music"
+            },
+            {
+                "name": "Vanacore Music"
+            }
+        ],
+        "plot": [
+            "THE BIG BRAIN THEORY: PURE GENIUS searches for America's brightest, boldest, out-of-the-box thinkers and pits them against one another in seemingly impossible engineering challenges. Host Kal Penn tasks competitors with building secure yet portable bunkers, triathlon-competing robots, and more. The winner will receive $50,000 and a one-year job contract."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (including commercials)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 181,
+                "rating": 7.3
+            },
+            "aged 18 29": {
+                "votes": 41,
+                "rating": 8.0
+            },
+            "aged 30 44": {
+                "votes": 76,
+                "rating": 7.5
+            },
+            "aged 45 plus": {
+                "votes": 32,
+                "rating": 5.8
+            },
+            "males": {
+                "votes": 131,
+                "rating": 7.1
+            },
+            "males aged 18 29": {
+                "votes": 36,
+                "rating": 8.0
+            },
+            "males aged 30 44": {
+                "votes": 66,
+                "rating": 7.0
+            },
+            "males aged 45 plus": {
+                "votes": 28,
+                "rating": 5.6
+            },
+            "females": {
+                "votes": 21,
+                "rating": 8.4
+            },
+            "females aged 18 29": {
+                "votes": 5,
+                "rating": 7.0
+            },
+            "females aged 30 44": {
+                "votes": 10,
+                "rating": 9.5
+            },
+            "females aged 45 plus": {
+                "votes": 3,
+                "rating": 9.7
+            },
+            "top 1000 voters": {
+                "votes": 6,
+                "rating": 5.7
+            },
+            "us users": {
+                "votes": 60,
+                "rating": 7.0
+            },
+            "non us users": {
+                "votes": 53,
+                "rating": 7.2
+            }
+        },
+        "number of votes": {
+            "10": 48,
+            "9": 25,
+            "8": 36,
+            "7": 25,
+            "6": 10,
+            "5": 5,
+            "4": 5,
+            "3": 3,
+            "2": 9,
+            "1": 15
+        },
+        "arithmetic mean": 7.3,
+        "median": 8
+    }
+}

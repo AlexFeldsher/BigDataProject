@@ -1,0 +1,113 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "1 January 2015"
+            },
+            {
+                "country": "USA\n",
+                "date": "10 November 2015"
+            }
+        ],
+        "release dates": [
+            "USA::1 January 2015",
+            "USA::10 November 2015"
+        ],
+        "episodes": {
+            "1": {
+                "0": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Mirrors (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 0,
+                    "original air date": "10 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Robert Logan (J.C. Stuart) allows an illegal A.I. program on the streets, while Nicholas Quinn (Danny Chung) hunts down a killer, who may actual be a cybernetic.    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "McNerney, Melissa"
+            },
+            {
+                "name": "Chung, Danny"
+            },
+            {
+                "name": "Stuart, J.C."
+            }
+        ],
+        "genres": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "runtimes": [
+            "45"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color::(HD)"
+        ],
+        "aspect ratio": "16:9 HD",
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMDkzZTc0NTgtZmEzYy00MGEyLTlkY2ItOWRjZjc0ZTc2MmExXkEyXkFqcGdeQXVyMjU0NDA2OTg@._V1_SY150_CR67,0,101,150_.jpg",
+        "budget": "$1,500 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Mirrors",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "akas": [
+            "Mirrors (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Beauregard, Corey"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Reactor Core Films"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Reactor Core Films"
+            }
+        ],
+        "plot": [
+            "Set in a near-dystopic future, where everything from, artificial intelligences, megacorporations, hackers and cybernetic robots know as _Mirrors_ (qv) use technology in ways never anticipated by its creators."
+        ],
+        "tech": {
+            "runtime": [
+                "45 min (USA)"
+            ],
+            "color": [
+                "Color (HD)"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

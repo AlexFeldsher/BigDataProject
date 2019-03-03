@@ -1,0 +1,101 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "19 October 2016"
+            },
+            {
+                "country": "USA\n",
+                "date": "20 October 2016",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "USA::19 October 2016",
+            "USA::20 October 2016                            (internet)"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Yellowing Orchids"
+            },
+            {
+                "countries": " (new title)",
+                "title": "Yellowing Orchards"
+            }
+        ],
+        "akas": [
+            "Yellowing Orchids (original title)",
+            "Yellowing Orchards (new title)"
+        ],
+        "akas from release info": [
+            "Yellowing Orchids (original title)",
+            "Yellowing Orchards (new title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Envoys",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Yellowing Orchids (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "19 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    A young man is stalked by an other worldly creature resembling the \"hat man\" of urban legend.    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Carioscia, Anthony"
+            },
+            {
+                "name": "Colon, Joe"
+            },
+            {
+                "name": "McCausland, Doug"
+            }
+        ],
+        "genres": [
+            "Horror"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color::(Technicolor)"
+        ],
+        "number of seasons": 1,
+        "budget": "$5,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Yellowing Orchids",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1"
+        ],
+        "plot": [
+            "Sinister forces are at work in the beautiful Hudson Valley, affecting the lives of various young adults trying to find their place in the twenty first century."
+        ],
+        "tech": {
+            "color": [
+                "Color (Technicolor)"
+            ]
+        }
+    }
+}

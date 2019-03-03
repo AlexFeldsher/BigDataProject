@@ -1,0 +1,113 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "20 March 2015"
+            },
+            {
+                "country": "USA\n",
+                "date": "21 March 2015",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "UK::20 March 2015",
+            "USA::21 March 2015                            (internet)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Dream State",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Cinema Sketch (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "20 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    A group of university students invent a dream world.    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Fertig, Richelle"
+            },
+            {
+                "name": "Jenkins, Termaine"
+            },
+            {
+                "name": "McCartney, Sarah"
+            }
+        ],
+        "locations": [
+            "Tampa, Florida, USA::(interiors of warehouse)"
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "2"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Cinema Sketch",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "akas": [
+            "Cinema Sketch (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Jenkins, Termaine"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Film Punks"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "YouTube"
+            }
+        ],
+        "plot": [
+            "Film Punks presents \"_Cinema Sketch_ (qv)\" a web-series of cinematic sketches that feature actors continually re-imagined in different lives. Sometimes funny, sometimes sad, but ALWAYS awesome."
+        ],
+        "tech": {
+            "runtime": [
+                "2 min (USA)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

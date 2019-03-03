@@ -1,0 +1,520 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "  2014"
+            },
+            {
+                "country": "USA\n",
+                "date": "5 November 2014"
+            },
+            {
+                "country": "Japan\n",
+                "date": "8 August 2015"
+            },
+            {
+                "country": "Germany\n",
+                "date": "26 August 2015"
+            }
+        ],
+        "release dates": [
+            "UK::2014",
+            "USA::5 November 2014",
+            "Japan::8 August 2015",
+            "Germany::26 August 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Game"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Играта"
+            },
+            {
+                "countries": "Russia",
+                "title": "Игра"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Igra"
+            },
+            {
+                "countries": "Ukraine",
+                "title": "Гра"
+            },
+            {
+                "countries": "USA",
+                "title": "The Game"
+            }
+        ],
+        "akas": [
+            "The Game (original title)",
+            "Играта Bulgaria (Bulgarian title)",
+            "Игра Russia",
+            "Igra Serbia",
+            "Гра Ukraine",
+            "The Game USA"
+        ],
+        "akas from release info": [
+            "The Game (original title)",
+            "Играта Bulgaria (Bulgarian title)",
+            "Игра Russia",
+            "Igra Serbia",
+            "Гра Ukraine",
+            "The Game USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode One",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Game (TV Mini-Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 134,
+                    "original air date": "5 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    London 1972. When a defecting KGB officer, Arkady Malinov, reveals Operation Glass, a devastating Soviet plot that could change the course of the cold war, Daddy, the head of MI5, assembles a secret team to investigate. As the Soviets awaken a list of sleeper agents all over Britain, Daddy's team must move swiftly to gain information about the plot.    "
+                },
+                "2": {
+                    "title": "Episode Two",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Game (TV Mini-Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 102,
+                    "original air date": "12 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    The next agent on the Soviet list, Tom Mallory, is a brutal man currently in prison for assault. Without his freedom, he can't perform his task and bring MI5 one step closer to thwarting Operation Glass - leaving Daddy with a terrible choice. Joe, haunted by events in his past, continues to struggle with his lover's killer's role in the plot.    "
+                },
+                "3": {
+                    "title": "Episode Three",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Game (TV Mini-Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 103,
+                    "original air date": "19 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    The team discovers a sleeper agent with terrifying connections in the US military. Faced with a formidable foe who not only appears to be a traitor, but a trained spy with access to US bases, MI5 may be out of its league. Meanwhile, Daddy is on a mission of his own to secure the safe defection of his favorite Chinese dancer.    "
+                },
+                "4": {
+                    "title": "Episode Four",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Game (TV Mini-Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 92,
+                    "original air date": "26 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    The team wonders if Arkady will risk his life for them while Joe tries to convince the team to run a double scheme. Alan struggles with a discovery that could jeopardize his marriage, and Bobby's world unravels.    "
+                },
+                "5": {
+                    "title": "Episode Five",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Game (TV Mini-Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 94,
+                    "original air date": "3 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    The team is reeling from the shocking discovery of a mole among them, and as the Soviet plot continues unabated, it is up to Wendy to give the team the break they need. Meanwhile, when Sarah finds herself in danger, Alan is forced to make a decision that can make or break their relationship. Joe has trouble of his own when leaked information threatens the investigation and the lives of the team.    "
+                },
+                "6": {
+                    "title": "Episode Six",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Game (TV Mini-Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 101,
+                    "original air date": "10 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    The team is reeling from a KGB bombing and the mole's confession, but with Operation Glass hurtling towards a shocking climax, MI5 is running out of time to piece the puzzle together and avert disaster. Bobby and Wendy make a crucial discovery which could have implications at the highest levels of government.    "
+                }
+            }
+        },
+        "number of episodes": 6,
+        "cast": [
+            {
+                "name": "Hughes, Tom"
+            },
+            {
+                "name": "Aris, Jonathan"
+            },
+            {
+                "name": "Hamilton, Victoria"
+            },
+            {
+                "name": "Dooley, Shaun"
+            },
+            {
+                "name": "Cox, Brian"
+            },
+            {
+                "name": "Ritter, Paul"
+            },
+            {
+                "name": "Pirrie, Chloe"
+            },
+            {
+                "name": "Marjanovic, Zana"
+            },
+            {
+                "name": "Sitokhin, Yevgeni"
+            },
+            {
+                "name": "Parfitt, Judy"
+            },
+            {
+                "name": "Iures, Marcel"
+            },
+            {
+                "name": "Whittaker, Stuart"
+            },
+            {
+                "name": "Chan, Gemma"
+            },
+            {
+                "name": "Stirling, Rachael"
+            },
+            {
+                "name": "Bentinck, Tim"
+            },
+            {
+                "name": "Simpson, Jay"
+            },
+            {
+                "name": "Topic, Velibor"
+            },
+            {
+                "name": "Allen, Taber"
+            },
+            {
+                "name": "Burke, Bartley"
+            },
+            {
+                "name": "Lesser, Anton"
+            },
+            {
+                "name": "Conway, Craig"
+            },
+            {
+                "name": "Handy, Scott"
+            },
+            {
+                "name": "McCabe, Richard"
+            },
+            {
+                "name": "Petrie, Alistair"
+            },
+            {
+                "name": "Verrey, David"
+            },
+            {
+                "name": "Boyde, Jessica"
+            },
+            {
+                "name": "Mackintosh, Steven"
+            },
+            {
+                "name": "Scharnitzky, Gabrielle"
+            },
+            {
+                "name": "Sutherland, Liz"
+            },
+            {
+                "name": "Arsene, Mihai"
+            },
+            {
+                "name": "Bell, Tony"
+            },
+            {
+                "name": "Desseaux, Giselle"
+            },
+            {
+                "name": "Alcock, Victoria"
+            },
+            {
+                "name": "Fielding, Emma"
+            },
+            {
+                "name": "Holder, Nick"
+            },
+            {
+                "name": "Krynke, Julia"
+            },
+            {
+                "name": "Jr., Enzo Squillino"
+            },
+            {
+                "name": "Kinlan, Laurence"
+            },
+            {
+                "name": "Navojec, Goran"
+            },
+            {
+                "name": "Possa, Laurence"
+            },
+            {
+                "name": "Rich, Georgina"
+            },
+            {
+                "name": "Bicknell, Andrew"
+            },
+            {
+                "name": "Egan, Joe"
+            },
+            {
+                "name": "Glover, Jon"
+            },
+            {
+                "name": "Gulliford, Hermione"
+            },
+            {
+                "name": "Northcote, James"
+            },
+            {
+                "name": "Ash, Riky"
+            },
+            {
+                "name": "Blackstock, Doreene"
+            },
+            {
+                "name": "Boehm, Stefan"
+            },
+            {
+                "name": "Boyce, Todd"
+            }
+        ],
+        "locations": [
+            "Birmingham, West Midlands, England, UK",
+            "Wales, UK",
+            "London, England, UK"
+        ],
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Germany:16"
+        ],
+        "original air date": "05 Nov 2014 (USA)",
+        "number of seasons": 1,
+        "rating": 7.8,
+        "votes": 2580,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYTQ2YjVlNzQtZTQzMC00YjcxLTlhMDEtZGI4OTAwMzFlNmRiXkEyXkFqcGdeQXVyMzQ5Njc3OTg@._V1_SX101_CR0,0,101,150_.jpg",
+        "plot outline": "Starring Brian Cox, \"The Game\" is a 1970s Cold War spy thriller set in the world of espionage. It tells the story of the invisible war fought by MI5 as it battles to protect the nation from the threats of the Cold War.",
+        "languages": [
+            "English"
+        ],
+        "title": "The Game",
+        "year": 2014,
+        "kind": "tv mini series",
+        "series years": "2014-2015",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Whithouse, Toby"
+            },
+            {
+                "name": "Dollard, Sarah"
+            },
+            {
+                "name": "O'Malley, Debbie"
+            }
+        ],
+        "director": [
+            {
+                "name": "MacCormick, Niall"
+            },
+            {
+                "name": "O'Hara, Daniel"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "BBC Cymru Wales"
+            },
+            {
+                "name": "BBC Drama Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "BBC One"
+            },
+            {
+                "name": "Kadokawa"
+            },
+            {
+                "name": "Polyband"
+            },
+            {
+                "name": "WDR Fernsehen"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Any Effects"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Access Bookings"
+            },
+            {
+                "name": "Coach House Studios"
+            },
+            {
+                "name": "Molinare Studio"
+            },
+            {
+                "name": "Momoco"
+            },
+            {
+                "name": "Momoco/Maguffin"
+            }
+        ],
+        "plot": [
+            "A Cold War spy thriller that tells the story of invisible wars fought by MI5.",
+            "Starring Brian Cox, \"_The Game_ (qv)\" is a 1970s Cold War spy thriller set in the world of espionage. It tells the story of the invisible war fought by MI5 as it battles to protect the nation from the threats of the Cold War."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (6 parts)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "camera": [
+                "Sony CineAlta F65"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2580,
+                "rating": 7.8
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "aged 18 29": {
+                "votes": 280,
+                "rating": 8.1
+            },
+            "aged 30 44": {
+                "votes": 814,
+                "rating": 7.7
+            },
+            "aged 45 plus": {
+                "votes": 880,
+                "rating": 7.8
+            },
+            "males": {
+                "votes": 1532,
+                "rating": 7.8
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "males aged 18 29": {
+                "votes": 179,
+                "rating": 8.1
+            },
+            "males aged 30 44": {
+                "votes": 607,
+                "rating": 7.7
+            },
+            "males aged 45 plus": {
+                "votes": 659,
+                "rating": 7.8
+            },
+            "females": {
+                "votes": 523,
+                "rating": 7.9
+            },
+            "females aged 18 29": {
+                "votes": 95,
+                "rating": 8.1
+            },
+            "females aged 30 44": {
+                "votes": 190,
+                "rating": 7.8
+            },
+            "females aged 45 plus": {
+                "votes": 204,
+                "rating": 7.8
+            },
+            "top 1000 voters": {
+                "votes": 67,
+                "rating": 6.1
+            },
+            "us users": {
+                "votes": 405,
+                "rating": 8.0
+            },
+            "non us users": {
+                "votes": 1235,
+                "rating": 7.7
+            }
+        },
+        "number of votes": {
+            "10": 424,
+            "9": 562,
+            "8": 868,
+            "7": 401,
+            "6": 153,
+            "5": 72,
+            "4": 30,
+            "3": 19,
+            "2": 13,
+            "1": 38
+        },
+        "arithmetic mean": 8.0,
+        "median": 8
+    }
+}

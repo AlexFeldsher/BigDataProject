@@ -1,0 +1,546 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Belgium\n",
+                "date": "September 2012"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "2 September 2012"
+            },
+            {
+                "country": "Norway\n",
+                "date": "2 September 2012"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "2 September 2012"
+            },
+            {
+                "country": "Germany\n",
+                "date": "3 September 2012"
+            },
+            {
+                "country": "Denmark\n",
+                "date": "3 September 2012"
+            },
+            {
+                "country": "Finland\n",
+                "date": "3 September 2012"
+            },
+            {
+                "country": "France\n",
+                "date": "3 September 2012"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "9 September 2012"
+            }
+        ],
+        "release dates": [
+            "Belgium::September 2012",
+            "Netherlands::2 September 2012",
+            "Norway::2 September 2012",
+            "Sweden::2 September 2012",
+            "Germany::3 September 2012",
+            "Denmark::3 September 2012",
+            "Finland::3 September 2012",
+            "France::3 September 2012",
+            "Belgium::9 September 2012"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Spiral (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 26,
+                    "original air date": "2 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Spiral (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 23,
+                    "original air date": "9 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Spiral (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 23,
+                    "original air date": "16 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Episode #1.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Spiral (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 15,
+                    "original air date": "23 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Episode #1.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Spiral (TV Series 2012– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 18,
+                    "original air date": "30 Sep. 2012",
+                    "year": "2012",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 5,
+        "cast": [
+            {
+                "name": "Henriksen, Paw"
+            },
+            {
+                "name": "Bäck, Elmer"
+            },
+            {
+                "name": "Luijkx, Teun"
+            },
+            {
+                "name": "Ryckewaert, Thomas"
+            },
+            {
+                "name": "Novotny, Tuva"
+            },
+            {
+                "name": "Winge, Viktoria"
+            },
+            {
+                "name": "Leysen, Johan"
+            },
+            {
+                "name": "Lindhardt, Thure"
+            },
+            {
+                "name": "Högberg, Donald"
+            },
+            {
+                "name": "de Kelder, Lien Van"
+            },
+            {
+                "name": "Korpela, Tommi"
+            },
+            {
+                "name": "Kaalstad, Nils Jørgen"
+            },
+            {
+                "name": "Hauch-Fausbøll, Morten"
+            },
+            {
+                "name": "Dupont, Ole"
+            },
+            {
+                "name": "Edholm, Rafael"
+            },
+            {
+                "name": "Abegg, Anne-Louise"
+            },
+            {
+                "name": "Lysdahl, Mette"
+            },
+            {
+                "name": "van Assche, Johan"
+            },
+            {
+                "name": "Lindström, Marika"
+            },
+            {
+                "name": "Wijs, Carly"
+            },
+            {
+                "name": "Mortensen, Maj-Britt"
+            },
+            {
+                "name": "Basse, Claus"
+            },
+            {
+                "name": "Faure, Robin"
+            },
+            {
+                "name": "Hellerup, Lone Jessen"
+            },
+            {
+                "name": "Conrad-Petersen, Jens"
+            },
+            {
+                "name": "Herdigein, Kenneth"
+            },
+            {
+                "name": "Favorin, Jean-Marc"
+            },
+            {
+                "name": "Bondam, Klaus"
+            },
+            {
+                "name": "Hancké, Rik"
+            },
+            {
+                "name": "Luppes, Bert"
+            },
+            {
+                "name": "Flanders, John"
+            },
+            {
+                "name": "Connelly, Peter"
+            },
+            {
+                "name": "Willems, Rik"
+            },
+            {
+                "name": "Abraham, Iris"
+            },
+            {
+                "name": "Demeulemeester, Jan"
+            },
+            {
+                "name": "Evans, Sarah"
+            },
+            {
+                "name": "Willis, Ryan"
+            },
+            {
+                "name": "Vercauteren, Phillipe"
+            },
+            {
+                "name": "Mastronardi, Sandro"
+            },
+            {
+                "name": "Goyvaerts, Charlotte"
+            },
+            {
+                "name": "Madsen, Mads"
+            },
+            {
+                "name": "Raunow, Jannick"
+            },
+            {
+                "name": "Connely, Peter"
+            },
+            {
+                "name": "Pie, Anna Maria"
+            }
+        ],
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "runtimes": [
+            "246"
+        ],
+        "countries": [
+            "Belgium",
+            "Netherlands",
+            "Sweden",
+            "Finland",
+            "Norway",
+            "Denmark",
+            "Germany"
+        ],
+        "country codes": [
+            "be",
+            "nl",
+            "se",
+            "fi",
+            "no",
+            "dk",
+            "de"
+        ],
+        "language codes": [
+            "nl",
+            "en",
+            "da"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Finland:K-16",
+            "Netherlands:12"
+        ],
+        "number of seasons": 1,
+        "rating": 6.0,
+        "votes": 283,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNDkzMDc4NDM2NV5BMl5BanBnXkFtZTgwNzEyNzI1MjE@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "Dutch",
+            "English",
+            "Danish"
+        ],
+        "title": "The Spiral",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-",
+        "akas": [
+            "The Spiral (Belgium)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Bosch, Willem"
+            },
+            {
+                "name": "De Maegd, Peter"
+            },
+            {
+                "name": "Ericsson, Martin"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Caviar Films"
+            },
+            {
+                "name": "Vlaamse Radio en Televisie (VRT)"
+            },
+            {
+                "name": "Sveriges Television (SVT)"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            },
+            {
+                "name": "Norsk Rikskringkasting (NRK)"
+            },
+            {
+                "name": "Verenigde Arbeiders Radio Amateurs (VARA)"
+            },
+            {
+                "name": "ARTE"
+            },
+            {
+                "name": "TV3 Danmark"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Norsk Rikskringkasting (NRK)"
+            },
+            {
+                "name": "Sveriges Television (SVT)"
+            },
+            {
+                "name": "Verenigde Arbeiders Radio Amateurs (VARA)"
+            },
+            {
+                "name": "ARTE"
+            },
+            {
+                "name": "Arte"
+            },
+            {
+                "name": "TV3 Danmark"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            },
+            {
+                "name": "Eén"
+            },
+            {
+                "name": "SF Film Finland"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Vlaams Audiovisueel Fonds"
+            },
+            {
+                "name": "Mediafonds"
+            },
+            {
+                "name": "Wallimage"
+            },
+            {
+                "name": "Bruxellimage"
+            },
+            {
+                "name": "Wallimage Cross Media"
+            },
+            {
+                "name": "Svenska Kulturfonden"
+            },
+            {
+                "name": "CoBo Fonds"
+            },
+            {
+                "name": "Medienboard Berlin-Brandenburg"
+            },
+            {
+                "name": "Belgische Taxshelter voor Filmfinanciering"
+            },
+            {
+                "name": "MEDIA Programme of the European Union"
+            },
+            {
+                "name": "Sonicville"
+            },
+            {
+                "name": "Rubenshuis"
+            },
+            {
+                "name": "Nationalmuseum, Stockholm"
+            },
+            {
+                "name": "Didrichsen Art Museum"
+            },
+            {
+                "name": "Nasjonalmuseet"
+            },
+            {
+                "name": "Van Abbemuseum"
+            },
+            {
+                "name": "Thorvaldsens Museum"
+            },
+            {
+                "name": "Musée Royal de l'Armée, Bruxelles"
+            },
+            {
+                "name": "Stimuleringsfonds voor Architectuur (SfA)"
+            },
+            {
+                "name": "Fintage CAM"
+            }
+        ],
+        "plot": [
+            "The charismatic leader of an artist collective based in Copenhagen plan an art heist. He intends to steal six of the worlds most famous paintings.::Ulf Kjell Gür"
+        ],
+        "tech": {
+            "runtime": [
+                "4 hr 6 min (246 min) (total run time) (Finland)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1",
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 283,
+                "rating": 6.0
+            },
+            "aged 18 29": {
+                "votes": 29,
+                "rating": 6.5
+            },
+            "aged 30 44": {
+                "votes": 122,
+                "rating": 6.2
+            },
+            "aged 45 plus": {
+                "votes": 88,
+                "rating": 6.0
+            },
+            "males": {
+                "votes": 192,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 23,
+                "rating": 6.4
+            },
+            "males aged 30 44": {
+                "votes": 95,
+                "rating": 6.0
+            },
+            "males aged 45 plus": {
+                "votes": 65,
+                "rating": 6.0
+            },
+            "females": {
+                "votes": 55,
+                "rating": 6.5
+            },
+            "females aged 18 29": {
+                "votes": 6,
+                "rating": 6.8
+            },
+            "females aged 30 44": {
+                "votes": 26,
+                "rating": 6.7
+            },
+            "females aged 45 plus": {
+                "votes": 21,
+                "rating": 6.1
+            },
+            "top 1000 voters": {
+                "votes": 16,
+                "rating": 5.1
+            },
+            "us users": {
+                "votes": 8,
+                "rating": 7.0
+            },
+            "non us users": {
+                "votes": 205,
+                "rating": 6.1
+            }
+        },
+        "number of votes": {
+            "10": 19,
+            "9": 13,
+            "8": 45,
+            "7": 62,
+            "6": 59,
+            "5": 29,
+            "4": 18,
+            "3": 10,
+            "2": 11,
+            "1": 17
+        },
+        "arithmetic mean": 6.2,
+        "median": 6
+    }
+}

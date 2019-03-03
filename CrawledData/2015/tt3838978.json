@@ -1,0 +1,401 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "5 April 2015"
+            },
+            {
+                "country": "Spain\n",
+                "date": "14 November 2015"
+            },
+            {
+                "country": "Finland\n",
+                "date": "12 December 2015"
+            }
+        ],
+        "release dates": [
+            "USA::5 April 2015",
+            "Spain::14 November 2015",
+            "Finland::12 December 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Sinatra: All or Nothing at All"
+            },
+            {
+                "countries": "Russia",
+                "title": "Синатра: Все или ничего"
+            },
+            {
+                "countries": "Spain",
+                "title": "Sinatra: todo o nada"
+            },
+            {
+                "countries": "Sweden",
+                "title": "Frank sinatra 100 år"
+            },
+            {
+                "countries": "USA",
+                "title": "Sinatra: All or Nothing at All"
+            }
+        ],
+        "akas": [
+            "Sinatra: All or Nothing at All (original title)",
+            "Синатра: Все или ничего Russia",
+            "Sinatra: todo o nada Spain",
+            "Frank sinatra 100 år Sweden",
+            "Sinatra: All or Nothing at All USA"
+        ],
+        "akas from release info": [
+            "Sinatra: All or Nothing at All (original title)",
+            "Синатра: Все или ничего Russia",
+            "Sinatra: todo o nada Spain",
+            "Frank sinatra 100 år Sweden",
+            "Sinatra: All or Nothing at All USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Part 1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sinatra: All or Nothing at All (TV Mini-Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 91,
+                    "original air date": "5 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    From his birth in 1915 to his Oscar win for \"From Here To Eternity\" in 1953.    "
+                },
+                "2": {
+                    "title": "Part 2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sinatra: All or Nothing at All (TV Mini-Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 80,
+                    "original air date": "6 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Overcoming the booze and regaining control over his career, relations with the mob and political candidates, new marriages and extramarital affairs, Vegas, the Rat Pack - Sinatra \"retires\", never really leaving his timeless music behind.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Jr., Sammy Davis"
+            },
+            {
+                "name": "Hamill, Pete"
+            },
+            {
+                "name": "Kuntz, Phil"
+            },
+            {
+                "name": "Lahr, John"
+            },
+            {
+                "name": "Livingston, Alan"
+            },
+            {
+                "name": "Riddle, Nelson"
+            },
+            {
+                "name": "Sinatra, Nancy"
+            },
+            {
+                "name": "Sinatra, Nancy Barbato"
+            },
+            {
+                "name": "Sinatra, Tina"
+            },
+            {
+                "name": "Stanton, Johanna"
+            },
+            {
+                "name": "Aznavour, Charles"
+            },
+            {
+                "name": "Baranski, Christine"
+            },
+            {
+                "name": "Belafonte, Harry"
+            },
+            {
+                "name": "Bennett, Tony"
+            },
+            {
+                "name": "Berle, Ruth"
+            },
+            {
+                "name": "Bishop, Joey"
+            },
+            {
+                "name": "Cafasso, Rose"
+            },
+            {
+                "name": "Cahn, Sammy"
+            },
+            {
+                "name": "Exner, Judith Campbell"
+            },
+            {
+                "name": "D'Onofrio, Vincent"
+            },
+            {
+                "name": "Dickinson, Angie"
+            },
+            {
+                "name": "Farrow, Mia"
+            },
+            {
+                "name": "Gershon, Gina"
+            },
+            {
+                "name": "Gibney, Alex"
+            },
+            {
+                "name": "Hersh, Seymour"
+            },
+            {
+                "name": "James, Harry"
+            },
+            {
+                "name": "Jones, Quincy"
+            },
+            {
+                "name": "Kelly, Gene"
+            },
+            {
+                "name": "King, Larry"
+            },
+            {
+                "name": "Kuntz, Tom"
+            },
+            {
+                "name": "Lear, Norman"
+            },
+            {
+                "name": "Miller, Mitch"
+            },
+            {
+                "name": "Mottola, Tony"
+            },
+            {
+                "name": "Murrow, Edward R."
+            },
+            {
+                "name": "Ostin, Mo"
+            },
+            {
+                "name": "Russo, Gus"
+            },
+            {
+                "name": "Schuchman, Harry"
+            },
+            {
+                "name": "Schwartz, Jonathan"
+            },
+            {
+                "name": "Silva, Henry"
+            },
+            {
+                "name": "Jr., Frank Sinatra"
+            },
+            {
+                "name": "Sinatra, Frank"
+            },
+            {
+                "name": "Smith, Sandy"
+            },
+            {
+                "name": "Springsteen, Bruce"
+            },
+            {
+                "name": "Stafford, Jo"
+            },
+            {
+                "name": "Taradash, Daniel"
+            },
+            {
+                "name": "Teachout, Terry"
+            },
+            {
+                "name": "Wagner, David"
+            },
+            {
+                "name": "Weintraub, Jerry"
+            },
+            {
+                "name": "Wynn, Steve"
+            }
+        ],
+        "genres": [
+            "Documentary",
+            "Biography",
+            "Music"
+        ],
+        "runtimes": [
+            "240"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Singapore:PG13",
+            "South Korea:15",
+            "United States:TV-14"
+        ],
+        "original air date": "05 Apr 2015 (USA)",
+        "number of seasons": 1,
+        "rating": 8.0,
+        "votes": 1411,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNTY5NDE3MDM4Nl5BMl5BanBnXkFtZTgwODczODIxNTE@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "SINATRA: All or Nothing at All is an up-close and personal examination of the life, music and career of the legendary entertainer. Told in his own words from hours of archived interviews, along with commentary from those closest to him, the documentary weaves the music and images from Sinatra's life together with rarely seen footage of Sinatra's famous 1971 \"Retirement Concert\" in Los Angeles. The film's narrative is shaped by Sinatra's song choices for that concert, which Gibney interprets as the singer's personal guide through his own life.",
+        "languages": [
+            "English"
+        ],
+        "title": "Sinatra: All or Nothing at All",
+        "year": 2015,
+        "kind": "tv mini series",
+        "series years": "2015-",
+        "seasons": [
+            "1"
+        ],
+        "director": [
+            {
+                "name": "Gibney, Alex"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Alcon Television Group"
+            },
+            {
+                "name": "Jigsaw Productions"
+            },
+            {
+                "name": "The Kennedy/Marshall Company"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Home Box Office (HBO)"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "plot": [
+            "SINATRA: All or Nothing at All is an up-close and personal examination of the life, music and career of the legendary entertainer. Told in his own words from hours of archived interviews, along with commentary from those closest to him, the documentary weaves the music and images from Sinatra's life together with rarely seen footage of Sinatra's famous 1971 \"Retirement Concert\" in Los Angeles. The film's narrative is shaped by Sinatra's song choices for that concert, which Gibney interprets as the singer's personal guide through his own life.::HBO"
+        ],
+        "tech": {
+            "runtime": [
+                "4 hr (240 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1411,
+                "rating": 8.0
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 9.5
+            },
+            "aged 18 29": {
+                "votes": 234,
+                "rating": 8.3
+            },
+            "aged 30 44": {
+                "votes": 542,
+                "rating": 7.9
+            },
+            "aged 45 plus": {
+                "votes": 366,
+                "rating": 8.0
+            },
+            "males": {
+                "votes": 973,
+                "rating": 8.0
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 9.5
+            },
+            "males aged 18 29": {
+                "votes": 172,
+                "rating": 8.4
+            },
+            "males aged 30 44": {
+                "votes": 458,
+                "rating": 7.9
+            },
+            "males aged 45 plus": {
+                "votes": 291,
+                "rating": 7.9
+            },
+            "females": {
+                "votes": 217,
+                "rating": 8.2
+            },
+            "females aged 18 29": {
+                "votes": 56,
+                "rating": 8.3
+            },
+            "females aged 30 44": {
+                "votes": 79,
+                "rating": 8.0
+            },
+            "females aged 45 plus": {
+                "votes": 72,
+                "rating": 8.5
+            },
+            "top 1000 voters": {
+                "votes": 57,
+                "rating": 7.7
+            },
+            "us users": {
+                "votes": 325,
+                "rating": 8.1
+            },
+            "non us users": {
+                "votes": 676,
+                "rating": 7.9
+            }
+        },
+        "number of votes": {
+            "10": 218,
+            "9": 273,
+            "8": 546,
+            "7": 238,
+            "6": 84,
+            "5": 27,
+            "4": 9,
+            "3": 4,
+            "2": 3,
+            "1": 9
+        },
+        "arithmetic mean": 8.1,
+        "median": 8
+    }
+}

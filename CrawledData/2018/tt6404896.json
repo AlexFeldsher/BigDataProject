@@ -1,0 +1,382 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "24 March 2018",
+                "notes": "                            (Anaheim, California)"
+            },
+            {
+                "country": "USA\n",
+                "date": "24 March 2018",
+                "notes": "                            (streaming)"
+            },
+            {
+                "country": "USA\n",
+                "date": "9 October 2018"
+            }
+        ],
+        "release dates": [
+            "USA::24 March 2018                            (Anaheim, California)",
+            "USA::24 March 2018                            (streaming)",
+            "USA::9 October 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Constantine: City of Demons"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Constantine: Cidade dos Demônios"
+            },
+            {
+                "countries": "Russia",
+                "title": "Константин: Город демонов"
+            },
+            {
+                "countries": "Turkey (Turkish title)",
+                "title": "Constantine: Iblisler Sehri"
+            },
+            {
+                "countries": "Ukraine",
+                "title": "Костянтин: Мiсто Демонiв"
+            },
+            {
+                "countries": "USA (alternative title)",
+                "title": "Constantine: City of Demons - The Movie"
+            },
+            {
+                "countries": " (working title)",
+                "title": "Constantine"
+            }
+        ],
+        "akas": [
+            "Constantine: City of Demons (original title)",
+            "Constantine: Cidade dos Demônios Brazil",
+            "Константин: Город демонов Russia",
+            "Constantine: Iblisler Sehri Turkey (Turkish title)",
+            "Костянтин: Мiсто Демонiв Ukraine",
+            "Constantine: City of Demons - The Movie USA (alternative title)",
+            "Constantine (working title)"
+        ],
+        "akas from release info": [
+            "Constantine: City of Demons (original title)",
+            "Constantine: Cidade dos Demônios Brazil",
+            "Константин: Город демонов Russia",
+            "Constantine: Iblisler Sehri Turkey (Turkish title)",
+            "Костянтин: Мiсто Демонiв Ukraine",
+            "Constantine: City of Demons - The Movie USA (alternative title)",
+            "Constantine (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Constantine: City of Demons (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 153,
+                    "original air date": "24 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Continuing the events of the 2014-2015 series, John Constantine chases a murderous corpse and runs into an old acquaintance with hidden motives.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Constantine: City of Demons (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 128,
+                    "original air date": "24 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    John summons an old friend to assist with Chas's ailing daughter.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Constantine: City of Demons (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 123,
+                    "original air date": "24 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    John and Chas arrive in Los Angeles while Rachel and Asa watch over Trish.    "
+                },
+                "4": {
+                    "title": "Episode #1.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Constantine: City of Demons (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 125,
+                    "original air date": "24 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    Rachel unknowingly recounts the events of Newcastle.    "
+                },
+                "5": {
+                    "title": "Episode #1.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Constantine: City of Demons (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 121,
+                    "original air date": "24 Mar. 2018",
+                    "year": "2018",
+                    "plot": "\n    John is made a devious offer.    "
+                }
+            }
+        },
+        "number of episodes": 5,
+        "cast": [
+            {
+                "name": "Ryan, Matt"
+            },
+            {
+                "name": "O'Hare, Damian"
+            },
+            {
+                "name": "Bailey, Laura"
+            },
+            {
+                "name": "O'Brien, Emily"
+            },
+            {
+                "name": "Downes, Robin Atkin"
+            },
+            {
+                "name": "Kimsey, Rachel"
+            },
+            {
+                "name": "Meskimen, Jim"
+            },
+            {
+                "name": "Richardson, Kevin Michael"
+            },
+            {
+                "name": "Wasserman, Rick D."
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Fantasy",
+            "Horror"
+        ],
+        "runtimes": [
+            "90"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Australia:MA15+",
+            "Australia:MA15+",
+            "France:10",
+            "Germany:16",
+            "Singapore:M18",
+            "Singapore:PG13::(VOD)",
+            "United Kingdom:18",
+            "United States:R",
+            "United States:R"
+        ],
+        "number of seasons": 1,
+        "rating": 7.6,
+        "votes": 3315,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTY3MTFmM2MtZGE3OC00MzY1LWE0MmItNTQxNGMzNmY2OGRjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "A decade after a tragic mistake, family man Chas and occult investigator John Constantine (voiced by Matt Ryan) set out to cure Chas's daughter Trish from a mysterious supernatural coma. With the help of the mysterious Nightmare Nurse, the influential Queen of Angels, and brutal Aztec God Mictlantecuhtli, the pair just might have a chance at outsmarting the demon Beroul to save Trish's soul. In a world of shadows and dark magic, not everything is what it seems, and there's always a price to pay. The path to redemption is never easy, and if Constantine is to succeed, he must navigate through the dark urban underbelly of Los Angeles, outwit the most cunning spawns of hell, and come face to face with arch-nemesis Nergal - all while battling his own inner demons!",
+        "languages": [
+            "English"
+        ],
+        "title": "Constantine: City of Demons",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Bissette, Steve"
+            },
+            {
+                "name": "Ridgway, John"
+            },
+            {
+                "name": "Totleben, John"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Warner Bros. Animation"
+            },
+            {
+                "name": "DC Comics"
+            },
+            {
+                "name": "DC Entertainment"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "CW Seed"
+            },
+            {
+                "name": "Roadshow Entertainment"
+            },
+            {
+                "name": "Warner Bros. Animation"
+            },
+            {
+                "name": "Warner Bros. Home Entertainment Group"
+            },
+            {
+                "name": "Warner Bros. Television"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Video"
+            },
+            {
+                "name": "Warner Home Vídeo"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Digital eMation"
+            }
+        ],
+        "plot": [
+            "An animated series centering on the adventures of supernatural detective John Constantine.",
+            "A decade after a tragic mistake, family man Chas and occult investigator John Constantine (voiced by Matt Ryan) set out to cure Chas's daughter Trish from a mysterious supernatural coma. With the help of the mysterious Nightmare Nurse, the influential Queen of Angels, and brutal Aztec God Mictlantecuhtli, the pair just might have a chance at outsmarting the demon Beroul to save Trish's soul. In a world of shadows and dark magic, not everything is what it seems, and there's always a price to pay. The path to redemption is never easy, and if Constantine is to succeed, he must navigate through the dark urban underbelly of Los Angeles, outwit the most cunning spawns of hell, and come face to face with arch-nemesis Nergal - all while battling his own inner demons!"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr 30 min (90 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3315,
+                "rating": 7.6
+            },
+            "aged under 18": {
+                "votes": 19,
+                "rating": 8.8
+            },
+            "aged 18 29": {
+                "votes": 916,
+                "rating": 7.9
+            },
+            "aged 30 44": {
+                "votes": 1088,
+                "rating": 7.4
+            },
+            "aged 45 plus": {
+                "votes": 232,
+                "rating": 7.1
+            },
+            "males": {
+                "votes": 2277,
+                "rating": 7.6
+            },
+            "males aged under 18": {
+                "votes": 17,
+                "rating": 9.0
+            },
+            "males aged 18 29": {
+                "votes": 822,
+                "rating": 7.9
+            },
+            "males aged 30 44": {
+                "votes": 992,
+                "rating": 7.4
+            },
+            "males aged 45 plus": {
+                "votes": 208,
+                "rating": 7.1
+            },
+            "females": {
+                "votes": 207,
+                "rating": 8.0
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "females aged 18 29": {
+                "votes": 79,
+                "rating": 8.3
+            },
+            "females aged 30 44": {
+                "votes": 82,
+                "rating": 7.7
+            },
+            "females aged 45 plus": {
+                "votes": 20,
+                "rating": 7.6
+            },
+            "top 1000 voters": {
+                "votes": 63,
+                "rating": 6.8
+            },
+            "us users": {
+                "votes": 410,
+                "rating": 7.8
+            },
+            "non us users": {
+                "votes": 1342,
+                "rating": 7.4
+            }
+        },
+        "number of votes": {
+            "10": 736,
+            "9": 497,
+            "8": 877,
+            "7": 641,
+            "6": 288,
+            "5": 114,
+            "4": 46,
+            "3": 30,
+            "2": 24,
+            "1": 62
+        },
+        "arithmetic mean": 7.8,
+        "median": 8
+    }
+}

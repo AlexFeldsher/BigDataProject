@@ -1,0 +1,606 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "28 May 2012"
+            },
+            {
+                "country": "Spain\n",
+                "date": "7 November 2012"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "24 December 2012",
+                "notes": "                            (limited)"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "26 December 2012"
+            },
+            {
+                "country": "Japan\n",
+                "date": "1 January 2013"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "3 September 2013"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "1 January 2014"
+            }
+        ],
+        "release dates": [
+            "USA::28 May 2012",
+            "Spain::7 November 2012",
+            "Hungary::24 December 2012                            (limited)",
+            "Hungary::26 December 2012",
+            "Japan::1 January 2013",
+            "Netherlands::3 September 2013",
+            "Sweden::1 January 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Hatfields & McCoys"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Хетфийлд и МакКой"
+            },
+            {
+                "countries": "Greece",
+                "title": "Hatfields & McCoys"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A Hatfield-McCoy viszály"
+            },
+            {
+                "countries": "Poland",
+                "title": "Hatfields & McCoys: Wojna klanów"
+            },
+            {
+                "countries": "Russia",
+                "title": "Хэтфилды и МакКои"
+            },
+            {
+                "countries": "Spain",
+                "title": "Hatfields & McCoys"
+            },
+            {
+                "countries": "USA",
+                "title": "Hatfields & McCoys"
+            }
+        ],
+        "akas": [
+            "Hatfields & McCoys (original title)",
+            "Хетфийлд и МакКой Bulgaria (Bulgarian title)",
+            "Hatfields & McCoys Greece",
+            "A Hatfield-McCoy viszály Hungary",
+            "Hatfields & McCoys: Wojna klanów Poland",
+            "Хэтфилды и МакКои Russia",
+            "Hatfields & McCoys Spain",
+            "Hatfields & McCoys USA"
+        ],
+        "akas from release info": [
+            "Hatfields & McCoys (original title)",
+            "Хетфийлд и МакКой Bulgaria (Bulgarian title)",
+            "Hatfields & McCoys Greece",
+            "A Hatfield-McCoy viszály Hungary",
+            "Hatfields & McCoys: Wojna klanów Poland",
+            "Хэтфилды и МакКои Russia",
+            "Hatfields & McCoys Spain",
+            "Hatfields & McCoys USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hatfields & McCoys (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 569,
+                    "original air date": "28 May 2012",
+                    "year": "2012",
+                    "plot": "\n    A Hatfield murders a McCoy, and Randall McCoy's daughter and 'Devil' Anse Hatfield's son begin a tempestuous, forbidden love affair.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hatfields & McCoys (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 481,
+                    "original air date": "29 May 2012",
+                    "year": "2012",
+                    "plot": "\n    When the McCoys murder Anse's younger brother, the Hatfields ride out to get bloody revenge. Soon, friends, neighbors, and outside forces join the feud, and all-out hostilities between the Hatfields and McCoys bring West Virginia and Kentucky to the brink of Civil War.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Hatfields & McCoys (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 436,
+                    "original air date": "30 May 2012",
+                    "year": "2012",
+                    "plot": "\n    Bad Frank's raids force the besieged Hatfields deeper into the mountains; the impulsive Johnse sets his sights on another McCoy woman; the ruthless Nancy McCoy spies on the Hatfields; and the feud leads to a shattering New Year's Day battle.    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Costner, Kevin"
+            },
+            {
+                "name": "Paxton, Bill"
+            },
+            {
+                "name": "Barr, Matt"
+            },
+            {
+                "name": "Berenger, Tom"
+            },
+            {
+                "name": "Boothe, Powers"
+            },
+            {
+                "name": "Howard, Andrew"
+            },
+            {
+                "name": "Malone, Jena"
+            },
+            {
+                "name": "Parish, Sarah"
+            },
+            {
+                "name": "Pulsipher, Lindsay"
+            },
+            {
+                "name": "Vibert, Ronan"
+            },
+            {
+                "name": "Absolom, Joe"
+            },
+            {
+                "name": "Fisher, Noel"
+            },
+            {
+                "name": "Holbrook, Boyd"
+            },
+            {
+                "name": "McKay, Tom"
+            },
+            {
+                "name": "Reid, Sam"
+            },
+            {
+                "name": "Winningham, Mare"
+            },
+            {
+                "name": "Patmore, Greg"
+            },
+            {
+                "name": "Deacon, Max"
+            },
+            {
+                "name": "Bell, John"
+            },
+            {
+                "name": "Dunning, Nick"
+            },
+            {
+                "name": "Griffiths, Katie"
+            },
+            {
+                "name": "McBrinn, Joy"
+            },
+            {
+                "name": "Jones, Adam"
+            },
+            {
+                "name": "Fetty, Darrell"
+            },
+            {
+                "name": "Bloch, Jon"
+            },
+            {
+                "name": "Millsap, Bill"
+            },
+            {
+                "name": "Woods, Michael"
+            },
+            {
+                "name": "Chisolm, Park"
+            },
+            {
+                "name": "Hicks, Stacha"
+            },
+            {
+                "name": "Bowling, Levi"
+            },
+            {
+                "name": "VanOver, Jilon"
+            },
+            {
+                "name": "O'Hare, Damian"
+            },
+            {
+                "name": "Gathergood, Andy"
+            },
+            {
+                "name": "Hatherall, Christopher"
+            },
+            {
+                "name": "Taylor, Noah"
+            },
+            {
+                "name": "Cartwright, Ben"
+            },
+            {
+                "name": "Laskey, Jack"
+            },
+            {
+                "name": "Fredrick, Jonathan"
+            },
+            {
+                "name": "Jibson, Michael"
+            },
+            {
+                "name": "Hugghins, Chad"
+            },
+            {
+                "name": "Jackson, Tyler"
+            },
+            {
+                "name": "von Renner, Alixandra"
+            },
+            {
+                "name": "Hutchinson, Lloyd"
+            },
+            {
+                "name": "Greco, Michael"
+            },
+            {
+                "name": "Calder, Rebecca"
+            },
+            {
+                "name": "Florin, Serbanescu"
+            },
+            {
+                "name": "Viscreanu, Constantin"
+            },
+            {
+                "name": "Alexandru, Ionut"
+            },
+            {
+                "name": "Jordan, James Carroll"
+            },
+            {
+                "name": "Moran, Rob"
+            }
+        ],
+        "locations": [
+            "Castel Film Studios, Bucharest, Romania::(studio)",
+            "Brasov, Romania",
+            "Bucharest, Romania",
+            "Rasnov, Romania",
+            "Zarnesti, Romania",
+            "Transylvania, Romania",
+            "Huntington, West Virginia, USA::(The Herald Dispatch)",
+            "Romania"
+        ],
+        "genres": [
+            "Drama",
+            "History",
+            "Romance",
+            "War",
+            "Western"
+        ],
+        "runtimes": [
+            "290"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Canada:14+",
+            "Finland:K-16",
+            "Netherlands:12",
+            "Singapore:PG13",
+            "South Korea:15",
+            "United States:TV-14::(DLSV)"
+        ],
+        "original air date": "28 May 2012 (USA)",
+        "number of seasons": 1,
+        "rating": 8.0,
+        "votes": 21874,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNDIyNDUzNzQ0Ml5BMl5BanBnXkFtZTcwNzc5Nzg3Nw@@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "The story of the feud that nearly launched a war between Kentucky and West Virginia. Devil Anse Hatfield and Randall McCoy were close friends until near the end of the Civil War, when they return to their homes -- Hatfield in West Virginia and McCoy in Kentucky -- to increasing tensions and misunderstandings that quickly lead to all-out warfare between the clans (partially caused by a stolen pig). As hostilities grow and outside forces become involved in the fight, the states where the families live are brought to the brink of another war as the feud makes international headlines, the states' governors clash and the U.S. Supreme Court eventually intervenes.",
+        "languages": [
+            "English"
+        ],
+        "title": "Hatfields & McCoys",
+        "year": 2012,
+        "kind": "tv mini series",
+        "series years": "2012-2012",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Kerby, Bill"
+            },
+            {
+                "name": "Mann, Ted"
+            },
+            {
+                "name": "Parker, Ronald"
+            }
+        ],
+        "director": [
+            {
+                "name": "Reynolds, Kevin"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Thinkfactory Media"
+            },
+            {
+                "name": "History Channel"
+            },
+            {
+                "name": "Sony Pictures Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "History Channel"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "Channel 5 Television"
+            },
+            {
+                "name": "Fox Crime"
+            },
+            {
+                "name": "RTL Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "WOWOW Prime"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Castel Film Romania"
+            },
+            {
+                "name": "Bapty and Co."
+            },
+            {
+                "name": "Kleinberg Lange Cuddy & Klein"
+            },
+            {
+                "name": "Media Services Production Accounting"
+            },
+            {
+                "name": "DaDa Catering"
+            },
+            {
+                "name": "DeLuxe Laboratories"
+            },
+            {
+                "name": "Biomedica International"
+            },
+            {
+                "name": "Central Casting Romania"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Digital Cube"
+            },
+            {
+                "name": "Division Camera"
+            },
+            {
+                "name": "Fauna a Film Praha"
+            },
+            {
+                "name": "Foley One"
+            },
+            {
+                "name": "Lightnin' Production Rentals"
+            },
+            {
+                "name": "Madison Gate Records"
+            },
+            {
+                "name": "Oana Paunescu's Dada Workshop"
+            },
+            {
+                "name": "Pivotal Post"
+            },
+            {
+                "name": "Tattersall Sound"
+            },
+            {
+                "name": "Tattersall Sound"
+            },
+            {
+                "name": "Urban Post Production"
+            }
+        ],
+        "plot": [
+            "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.::jgp3553@yahoo.com",
+            "The story of the feud that nearly launched a war between Kentucky and West Virginia. Devil Anse Hatfield and Randall McCoy were close friends until near the end of the Civil War, when they return to their homes -- Hatfield in West Virginia and McCoy in Kentucky -- to increasing tensions and misunderstandings that quickly lead to all-out warfare between the clans (partially caused by a stolen pig). As hostilities grow and outside forces become involved in the fight, the states where the families live are brought to the brink of another war as the feud makes international headlines, the states' governors clash and the U.S. Supreme Court eventually intervenes.::Jwelch5742",
+            "A clash of clans that evoked great passion, vengeance, courage, sacrifice, crimes and accusations, which changed the families and the history of the region forever. The Hatfield-McCoy saga begins with 'Devil' Anse Hatfield and Randall McCoy. Close friends and comrades until near the end of the Civil War, they return to their neighboring homes - Hatfield in West Virginia, McCoy just across the Tug River border in Kentucky - to increasing tensions, misunderstandings and resentments that soon explode into all-out warfare between the families. As hostilities grow, friends, neighbors and outside forces join the fight, bringing the two states to the brink of another Civil War.::History Channel Publicity"
+        ],
+        "tech": {
+            "runtime": [
+                "4 hr 50 min (290 min)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "camera": [
+                "Red Epic, Cooke S4 Lenses"
+            ],
+            "laboratory": [
+                "DeLuxe, Hollywood (CA), USA (color)"
+            ],
+            "negative format": [
+                "Redcode RAW"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (2K) (master format)",
+                "Redcode RAW (5K) (source format)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 21874,
+                "rating": 8.0
+            },
+            "aged under 18": {
+                "votes": 5,
+                "rating": 7.2
+            },
+            "aged 18 29": {
+                "votes": 3585,
+                "rating": 8.3
+            },
+            "aged 30 44": {
+                "votes": 9497,
+                "rating": 8.0
+            },
+            "aged 45 plus": {
+                "votes": 4504,
+                "rating": 7.9
+            },
+            "males": {
+                "votes": 15205,
+                "rating": 8.0
+            },
+            "males aged under 18": {
+                "votes": 4,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 2924,
+                "rating": 8.3
+            },
+            "males aged 30 44": {
+                "votes": 7902,
+                "rating": 8.0
+            },
+            "males aged 45 plus": {
+                "votes": 3503,
+                "rating": 7.9
+            },
+            "females": {
+                "votes": 3262,
+                "rating": 8.1
+            },
+            "females aged 18 29": {
+                "votes": 613,
+                "rating": 8.3
+            },
+            "females aged 30 44": {
+                "votes": 1488,
+                "rating": 8.0
+            },
+            "females aged 45 plus": {
+                "votes": 934,
+                "rating": 8.1
+            },
+            "top 1000 voters": {
+                "votes": 241,
+                "rating": 7.5
+            },
+            "us users": {
+                "votes": 6540,
+                "rating": 8.1
+            },
+            "non us users": {
+                "votes": 7865,
+                "rating": 7.9
+            }
+        },
+        "number of votes": {
+            "10": 4222,
+            "9": 4955,
+            "8": 7047,
+            "7": 3441,
+            "6": 1170,
+            "5": 458,
+            "4": 182,
+            "3": 105,
+            "2": 96,
+            "1": 198
+        },
+        "arithmetic mean": 8.1,
+        "median": 8
+    }
+}

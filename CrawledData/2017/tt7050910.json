@@ -1,0 +1,188 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "  2017"
+            },
+            {
+                "country": "UK\n",
+                "date": "11 May 2017"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "25 February 2018"
+            },
+            {
+                "country": "Japan\n",
+                "date": "23 June 2018"
+            }
+        ],
+        "release dates": [
+            "UK::2017",
+            "UK::11 May 2017",
+            "Belgium::25 February 2018",
+            "Japan::23 June 2018"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Morocco to Timbuktu: An Arabian Adventure (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "11 May 2017",
+                    "year": "2017",
+                    "plot": "\n    Alice sets off from Tangier, where she learns about the gold mines of sub-Saharan Africa, and then on to Fes, home to the world's oldest university. Next she takes the Marrakech Express to the great market town before trekking through snow and storms across the mighty Atlas Mountains and exploring forgotten ruins on the edge of the Sahara Desert.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Morocco to Timbuktu: An Arabian Adventure (TV Series 2017)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "18 May 2017",
+                    "year": "2017",
+                    "plot": "\n    Alice embarks on a camel ride across the desert, where she hears a shocking story of modern-day slavery, and then stops in Tamegroute, where she finds a hidden library of ancient books. After a border dispute interrupts her journey along the salt roads, she flies to the capital of Mali before ending her trip in Timbuktu itself.    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Morrison, Alice"
+            }
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "United States:Not Rated"
+        ],
+        "number of seasons": 1,
+        "rating": 7.2,
+        "votes": 16,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMDcyZDA4ZDItODgzOC00Nzg5LTk0NjUtNmEyZWExMjg4NzcyXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SY150_CR49,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Morocco to Timbuktu: An Arabian Adventure",
+        "year": 2017,
+        "kind": "tv series",
+        "series years": "2017-2017",
+        "akas": [
+            "Morocco to Timbuktu: An Arabian Adventure (United Kingdom)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "plot": [
+            "Alice Morrison, Arabist and explorer, journeys beneath the veil along Africa's infamous salt roads from Morocco via the Sahara Desert to the legendary city of Gold, Timbuktu."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (UK)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 16,
+                "rating": 7.2
+            },
+            "aged 18 29": {
+                "votes": 6,
+                "rating": 7.0
+            },
+            "aged 30 44": {
+                "votes": 5,
+                "rating": 8.3
+            },
+            "aged 45 plus": {
+                "votes": 3,
+                "rating": 7.0
+            },
+            "males": {
+                "votes": 12,
+                "rating": 7.2
+            },
+            "males aged 18 29": {
+                "votes": 5,
+                "rating": 6.6
+            },
+            "males aged 30 44": {
+                "votes": 4,
+                "rating": 8.8
+            },
+            "males aged 45 plus": {
+                "votes": 2,
+                "rating": 7.0
+            },
+            "females": {
+                "votes": 3,
+                "rating": 8.3
+            },
+            "females aged 18 29": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "females aged 30 44": {
+                "votes": 1,
+                "rating": 8.0
+            },
+            "females aged 45 plus": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "us users": {
+                "votes": 4,
+                "rating": 8.0
+            },
+            "non us users": {
+                "votes": 9,
+                "rating": 7.5
+            }
+        },
+        "number of votes": {
+            "10": 3,
+            "9": 0,
+            "8": 3,
+            "7": 7,
+            "6": 2,
+            "5": 0,
+            "4": 0,
+            "3": 0,
+            "2": 0,
+            "1": 1
+        },
+        "arithmetic mean": 7.2,
+        "median": 7
+    }
+}

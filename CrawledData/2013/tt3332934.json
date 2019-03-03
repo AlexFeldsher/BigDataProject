@@ -1,0 +1,112 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Mexico\n",
+                "date": "30 October 2013"
+            },
+            {
+                "country": "Mexico\n",
+                "date": "30 October 2013",
+                "notes": "                            (internet)"
+            }
+        ],
+        "release dates": [
+            "Mexico::30 October 2013",
+            "Mexico::30 October 2013                            (internet)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "La Joya",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Malitas (TV Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "30 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Mendoza, Fatima Ibarra"
+            },
+            {
+                "name": "Montellano, Alitzel"
+            },
+            {
+                "name": "Montoya, Sade"
+            },
+            {
+                "name": "Sáinz-Talaia, Bruno"
+            },
+            {
+                "name": "Talaia, Vera"
+            }
+        ],
+        "locations": [
+            "Tijuana, Baja California Norte, Mexico"
+        ],
+        "genres": [
+            "Fantasy"
+        ],
+        "runtimes": [
+            "7"
+        ],
+        "countries": [
+            "Mexico"
+        ],
+        "country codes": [
+            "mx"
+        ],
+        "language codes": [
+            "es"
+        ],
+        "color info": [
+            "Color::(HD)"
+        ],
+        "aspect ratio": "16:9 HD",
+        "number of seasons": 1,
+        "budget": "MXN10,000 (estimated)",
+        "languages": [
+            "Spanish"
+        ],
+        "title": "Malitas",
+        "year": 2013,
+        "kind": "tv series",
+        "series years": "2013-",
+        "akas": [
+            "Malitas (Mexico)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Lewis, Jonny"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Hechizo en México"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "7 min"
+            ],
+            "color": [
+                "Color (HD)"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

@@ -1,0 +1,346 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "3 January 2012"
+            },
+            {
+                "country": "UK\n",
+                "date": "4 January 2012"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "19 August 2013"
+            },
+            {
+                "country": "Finland\n",
+                "date": "28 January 2015"
+            }
+        ],
+        "release dates": [
+            "UK::3 January 2012",
+            "UK::4 January 2012",
+            "Sweden::19 August 2013",
+            "Finland::28 January 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Public Enemies"
+            },
+            {
+                "countries": "Finland",
+                "title": "Pitkä matka vapauteen"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Samhällets fiender"
+            }
+        ],
+        "akas": [
+            "Public Enemies (original title)",
+            "Pitkä matka vapauteen Finland",
+            "Samhällets fiender Finland (Swedish title)"
+        ],
+        "akas from release info": [
+            "Public Enemies (original title)",
+            "Pitkä matka vapauteen Finland",
+            "Samhällets fiender Finland (Swedish title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Public Enemies (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 24,
+                    "original air date": "4 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    Probation officer Paula Radnor is pilloried and suspended when convicted murderer Philip Pointer,on parole to her,kills again. On return to work her senior Marion Sharmer allocates her another lifer,Eddie Mottram,who has served ten years for strangling his girlfriend Georgia when he was seventeen. He is determined to do everything right but finds it hard to adjust to freedom,his married friends not wanting to know him and his sister Kelly being his only family support. He starts work at a garden centre and dates co-worker Jade but keeps his past a secret from her. ...    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Public Enemies (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 19,
+                    "original air date": "5 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    Whilst Kelly unsuccessfully tries to launch an appeal against her brother's sentence Eddie tells Jade he served time for robbery but Paula,pressurised by Marion,tells Jade the truth about him. Consequently she dumps him and he loses his job, causing him to go berserk at a hostel meeting. The hostel manager wants him recalled but Paula refuses,feeling she is to blame. As she begins to doubt his guilt Eddie learns that Georgia two-timed him with a friend,Ben Somers,now a popular G.P. and Eddie attacks Ben,who nonetheless refuses to press charges. As he is released Paula...    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Public Enemies (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 17,
+                    "original air date": "6 Jan. 2012",
+                    "year": "2012",
+                    "plot": "\n    Now convinced of Eddie's innocence Paula helps him and Kelly phrase their petition and gets actively involved when solicitor Dawn Clough agrees to take on the appeal. They discover certain,vital facts in the case notes not mentioned at the trial including the presence of another car near the murder site. However Marion and Paula's boyfriend Will think she is getting too involved and Will attacks Eddie. The appeal is dismissed and a local rag snaps Eddie giving Paula a kiss of gratitude,leading to his recall. Is this the end of the line or will the true killer succumb ...    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Friel, Anna"
+            },
+            {
+                "name": "Mays, Daniel"
+            },
+            {
+                "name": "Ashbourne, Lorraine"
+            },
+            {
+                "name": "Wight, Peter"
+            },
+            {
+                "name": "Marten, Barbara"
+            },
+            {
+                "name": "Rich, Georgina"
+            },
+            {
+                "name": "Maynard, Terence"
+            },
+            {
+                "name": "Fry, Joel"
+            },
+            {
+                "name": "Kay, Barnaby"
+            },
+            {
+                "name": "Gleaves, Nicholas"
+            },
+            {
+                "name": "Armstrong, Joe"
+            },
+            {
+                "name": "Irving, Romy"
+            },
+            {
+                "name": "Fox, Abbie"
+            },
+            {
+                "name": "Davies, Glen"
+            },
+            {
+                "name": "Loftus, Aisling"
+            },
+            {
+                "name": "Blood, Nick"
+            },
+            {
+                "name": "Smiles, Roy"
+            },
+            {
+                "name": "Burfield, Ian"
+            },
+            {
+                "name": "Flanagan, John"
+            },
+            {
+                "name": "Bacon, Joanna"
+            },
+            {
+                "name": "Burford, Priyanga"
+            },
+            {
+                "name": "Constance, Nathan"
+            },
+            {
+                "name": "Mary-James, Bethan"
+            },
+            {
+                "name": "Willis, Grace"
+            },
+            {
+                "name": "Gleeson, Sean"
+            },
+            {
+                "name": "Powell, Sara"
+            },
+            {
+                "name": "Farrimond, Barry"
+            },
+            {
+                "name": "Tanarez, Jennifer"
+            },
+            {
+                "name": "Hole, Joanna"
+            },
+            {
+                "name": "Alliss, Leigh"
+            },
+            {
+                "name": "Austin, Michael"
+            }
+        ],
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Finland:K-12"
+        ],
+        "original air date": "03 Jan 2012 (UK)",
+        "number of seasons": 1,
+        "rating": 7.1,
+        "votes": 475,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNDI3MGM2YzMtYjRkNC00MWMzLWJkOWMtNzk2YmM0MDRkOTViXkEyXkFqcGdeQXVyNjcyMTE2Nw@@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Public Enemies",
+        "year": 2012,
+        "kind": "tv mini series",
+        "series years": "2012-2012",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Marchant, Tony"
+            }
+        ],
+        "director": [
+            {
+                "name": "Walsh, Dearbhla"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Tiger Aspect Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "TLO Film Services"
+            }
+        ],
+        "plot": [
+            "Released from prison after serving 10 years for murder, Eddie tries to adjust to life outside with the help of his probation officer, Paula.::Lizzie Nonesuch"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 475,
+                "rating": 7.1
+            },
+            "aged 18 29": {
+                "votes": 72,
+                "rating": 7.5
+            },
+            "aged 30 44": {
+                "votes": 203,
+                "rating": 7.1
+            },
+            "aged 45 plus": {
+                "votes": 144,
+                "rating": 7.1
+            },
+            "males": {
+                "votes": 314,
+                "rating": 7.2
+            },
+            "males aged 18 29": {
+                "votes": 40,
+                "rating": 7.4
+            },
+            "males aged 30 44": {
+                "votes": 156,
+                "rating": 7.1
+            },
+            "males aged 45 plus": {
+                "votes": 109,
+                "rating": 7.2
+            },
+            "females": {
+                "votes": 111,
+                "rating": 7.1
+            },
+            "females aged 18 29": {
+                "votes": 31,
+                "rating": 7.6
+            },
+            "females aged 30 44": {
+                "votes": 44,
+                "rating": 7.2
+            },
+            "females aged 45 plus": {
+                "votes": 33,
+                "rating": 6.9
+            },
+            "top 1000 voters": {
+                "votes": 25,
+                "rating": 6.3
+            },
+            "us users": {
+                "votes": 53,
+                "rating": 6.3
+            },
+            "non us users": {
+                "votes": 320,
+                "rating": 7.2
+            }
+        },
+        "number of votes": {
+            "10": 74,
+            "9": 59,
+            "8": 105,
+            "7": 116,
+            "6": 63,
+            "5": 23,
+            "4": 13,
+            "3": 7,
+            "2": 7,
+            "1": 8
+        },
+        "arithmetic mean": 7.4,
+        "median": 8
+    }
+}

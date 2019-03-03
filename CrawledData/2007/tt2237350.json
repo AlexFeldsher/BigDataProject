@@ -1,0 +1,82 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "20 October 2007"
+            },
+            {
+                "country": "USA\n",
+                "date": "20 October 2007",
+                "notes": "                            (New York City, New York)"
+            }
+        ],
+        "release dates": [
+            "USA::20 October 2007",
+            "USA::20 October 2007                            (New York City, New York)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Fox Business Morning (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "20 Oct. 2007",
+                    "year": "2007",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "genres": [
+            "News"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color::(HD)"
+        ],
+        "number of seasons": 1,
+        "budget": "$6,000,000 (estimated)",
+        "languages": [
+            "English"
+        ],
+        "title": "Fox Business Morning",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-2009",
+        "akas": [
+            "Fox Business Morning (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Fox News"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Fox"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color (HD)"
+            ]
+        }
+    }
+}

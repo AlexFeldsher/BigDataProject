@@ -1,0 +1,166 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "18 December 2014"
+            },
+            {
+                "country": "Germany\n",
+                "date": "19 July 2015"
+            }
+        ],
+        "release dates": [
+            "Germany::18 December 2014",
+            "Germany::19 July 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "En: Die Serie"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "EN:The Series"
+            }
+        ],
+        "akas": [
+            "En: Die Serie (original title)",
+            "EN:The Series World-wide (English title)"
+        ],
+        "akas from release info": [
+            "En: Die Serie (original title)",
+            "EN:The Series World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "An Underworldly Adventure",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "EN:The Series (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "19 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "Return to the Fire Temple",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "EN:The Series (TV Series 2014– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "31 May 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Medtlek, Alex"
+            },
+            {
+                "name": "Caspers, Joachim"
+            },
+            {
+                "name": "Radon, Phillip"
+            },
+            {
+                "name": "Yard, Tyler"
+            },
+            {
+                "name": "Medtlek, Celine"
+            },
+            {
+                "name": "Frosch, Kunigunde"
+            },
+            {
+                "name": "Lustig, Bernd"
+            },
+            {
+                "name": "Medtlek, Vincent"
+            },
+            {
+                "name": "Norad"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "runtimes": [
+            "25"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "country codes": [
+            "de"
+        ],
+        "language codes": [
+            "de"
+        ],
+        "color info": [
+            "Color::(HD)"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "German"
+        ],
+        "title": "EN:The Series",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Medtlek, Alex"
+            },
+            {
+                "name": "Andreasen, Tommy"
+            },
+            {
+                "name": "Thorogood, William"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Q-Brick"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "BrickMotion"
+            },
+            {
+                "name": "BrickMotionStudeos EINS"
+            },
+            {
+                "name": "BrickMotionStudeos"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "25 min (original)"
+            ],
+            "color": [
+                "Color (HD)"
+            ]
+        }
+    }
+}

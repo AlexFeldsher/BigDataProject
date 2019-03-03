@@ -1,0 +1,481 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Sweden\n",
+                "date": "30 December 2014"
+            },
+            {
+                "country": "Finland\n",
+                "date": "3 November 2015"
+            },
+            {
+                "country": "Austria\n",
+                "date": "30 November 2017"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "30 November 2017"
+            },
+            {
+                "country": "Switzerland\n",
+                "date": "30 November 2017",
+                "notes": "                            (French speaking region) (German speaking region) (Italian speaking region)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "30 November 2017"
+            },
+            {
+                "country": "France\n",
+                "date": "30 November 2017"
+            }
+        ],
+        "release dates": [
+            "Sweden::30 December 2014",
+            "Finland::3 November 2015",
+            "Austria::30 November 2017",
+            "Belgium::30 November 2017",
+            "Switzerland::30 November 2017                            (French speaking region) (German speaking region) (Italian speaking region)",
+            "Germany::30 November 2017",
+            "France::30 November 2017"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Den fjärde mannen"
+            },
+            {
+                "countries": "Finland",
+                "title": "Neljäs mies"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Den fjärde mannen"
+            },
+            {
+                "countries": "France",
+                "title": "Le Quatrième Homme"
+            },
+            {
+                "countries": "Germany",
+                "title": "Der vierte Mann"
+            },
+            {
+                "countries": "USA",
+                "title": "Den fjärde mannen"
+            },
+            {
+                "countries": "World-wide (English title) (working title)",
+                "title": "Another Time, Another Life"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "The Fourth Man"
+            }
+        ],
+        "akas": [
+            "Den fjärde mannen (original title)",
+            "Neljäs mies Finland",
+            "Den fjärde mannen Finland (Swedish title)",
+            "Le Quatrième Homme France",
+            "Der vierte Mann Germany",
+            "Den fjärde mannen USA",
+            "Another Time, Another Life World-wide (English title) (working title)",
+            "The Fourth Man World-wide (English title)"
+        ],
+        "akas from release info": [
+            "Den fjärde mannen (original title)",
+            "Neljäs mies Finland",
+            "Den fjärde mannen Finland (Swedish title)",
+            "Le Quatrième Homme France",
+            "Der vierte Mann Germany",
+            "Den fjärde mannen USA",
+            "Another Time, Another Life World-wide (English title) (working title)",
+            "The Fourth Man World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Den fjärde mannen (TV Mini-Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 53,
+                    "original air date": "30 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    Johansson becomes head of the secret service and start an investigation about the 1975 terrorist attack on the German embassy in Stockholm.    "
+                },
+                "2": {
+                    "title": "Episode #1.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Den fjärde mannen (TV Mini-Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 49,
+                    "original air date": "1 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Johansson and his team find a fourth person that was involved with the 1975 attack on the German embassy in Stockholm.    "
+                },
+                "3": {
+                    "title": "Episode #1.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Den fjärde mannen (TV Mini-Series 2014–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 46,
+                    "original air date": "3 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Johansson and his team has found the link between the 1975 attack on the West German embassy and a 1989 murder.    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Lassgård, Rolf"
+            },
+            {
+                "name": "Sandeberg, Helena Af"
+            },
+            {
+                "name": "Norlén, Henrik"
+            },
+            {
+                "name": "Niavarani, Shima"
+            },
+            {
+                "name": "Ericksson, Jacob"
+            },
+            {
+                "name": "Eriksson, Lena B."
+            },
+            {
+                "name": "Rad, Zardasht"
+            },
+            {
+                "name": "Malmberg, Claes"
+            },
+            {
+                "name": "Svensson, Per"
+            },
+            {
+                "name": "Bergqvist, Kjell"
+            },
+            {
+                "name": "Bergström, Helena"
+            },
+            {
+                "name": "Johannisson, Anders"
+            },
+            {
+                "name": "Ljunggren, Sten"
+            },
+            {
+                "name": "Ahlström, Sven"
+            },
+            {
+                "name": "Brost, Johannes"
+            },
+            {
+                "name": "Hülk, Sebastian"
+            },
+            {
+                "name": "Weil, Anton"
+            },
+            {
+                "name": "Kastner, Nikola"
+            },
+            {
+                "name": "Engvoll, Ida"
+            },
+            {
+                "name": "Ehn, Erik"
+            },
+            {
+                "name": "Karlsson, Jonas"
+            },
+            {
+                "name": "Johansson, Erik"
+            },
+            {
+                "name": "Velander, Meta"
+            },
+            {
+                "name": "Redlaff, Sandra"
+            },
+            {
+                "name": "Ljungmark, Claes"
+            },
+            {
+                "name": "Glaser, Etienne"
+            },
+            {
+                "name": "Guilfoyle, Paul"
+            },
+            {
+                "name": "Olsson, Ingela"
+            },
+            {
+                "name": "Hiller, Fredrik"
+            },
+            {
+                "name": "Berg, Filip"
+            },
+            {
+                "name": "Ehrner, Magnus"
+            },
+            {
+                "name": "Johansson, Douglas"
+            },
+            {
+                "name": "Gustafsson, Pontus"
+            },
+            {
+                "name": "Kabaca, Ayla"
+            },
+            {
+                "name": "Ljung, Cecilia"
+            },
+            {
+                "name": "Pars, Bahar"
+            },
+            {
+                "name": "Löfgren, Claes J.B."
+            },
+            {
+                "name": "Collen, Marcus"
+            },
+            {
+                "name": "Ruzicic, Nikola"
+            },
+            {
+                "name": "Ormandlaky, Gloria"
+            }
+        ],
+        "locations": [
+            "Stockholm, Stockholms län, Sweden"
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "174"
+        ],
+        "countries": [
+            "Sweden",
+            "Denmark",
+            "Norway",
+            "Finland"
+        ],
+        "country codes": [
+            "se",
+            "dk",
+            "no",
+            "fi"
+        ],
+        "language codes": [
+            "sv",
+            "en",
+            "de"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD Letterbox",
+        "sound mix": [
+            "Dolby Digital::(5.1)"
+        ],
+        "certificates": [
+            "Finland:K-12::(TV)",
+            "United States:TV-14"
+        ],
+        "original air date": "30 Dec 2014 (Sweden)",
+        "number of seasons": 1,
+        "rating": 6.7,
+        "votes": 586,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BNTY1NDg2MzYxN15BMl5BanBnXkFtZTgwOTgzMjQwNTE@._V1_SY150_CR2,0,101,150_.jpg",
+        "plot outline": "The year is 1975, and the West German embassy in Stockholm is occupied by German terrorists. It's an attack not only on the embassy, but on Sweden's long-standing pride as a peaceful nation. In the aftermath of the violent occupation, the Swedish Security Police suspects the six terrorists had help from the outside, possibly from a group of Swedish sympathizers. But no leads can be found until fourteen years later.",
+        "languages": [
+            "Swedish",
+            "English",
+            "German"
+        ],
+        "title": "Den fjärde mannen",
+        "year": 2014,
+        "kind": "tv mini series",
+        "series years": "2014-2015",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Heldt, Sara"
+            },
+            {
+                "name": "Persson, Leif G.W."
+            },
+            {
+                "name": "Widerberg, Johan"
+            }
+        ],
+        "director": [
+            {
+                "name": "Petri, Kristian"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Sveriges Television"
+            },
+            {
+                "name": "Danmarks Radio (DR)"
+            },
+            {
+                "name": "Norsk Rikskringkasting (NRK)"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            },
+            {
+                "name": "Nordvisionsfonden"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Sveriges Television (SVT)"
+            },
+            {
+                "name": "Svensk Filmindustri (SF)"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Protoon"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chimney"
+            }
+        ],
+        "plot": [
+            "The year is 1975, and the West German embassy in Stockholm is occupied by German terrorists. It's an attack not only on the embassy, but on Sweden's long-standing pride as a peaceful nation. In the aftermath of the violent occupation, the Swedish Security Police suspects the six terrorists had help from the outside, possibly from a group of Swedish sympathizers. But no leads can be found until fourteen years later.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr 54 min (174 min) (entire series)"
+            ],
+            "sound mix": [
+                "Dolby Digital (5.1)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD Letterbox"
+            ],
+            "negative format": [
+                "35 mm"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 586,
+                "rating": 6.7
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "aged 18 29": {
+                "votes": 51,
+                "rating": 6.4
+            },
+            "aged 30 44": {
+                "votes": 194,
+                "rating": 6.6
+            },
+            "aged 45 plus": {
+                "votes": 221,
+                "rating": 6.9
+            },
+            "males": {
+                "votes": 417,
+                "rating": 6.7
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 7.0
+            },
+            "males aged 18 29": {
+                "votes": 40,
+                "rating": 6.5
+            },
+            "males aged 30 44": {
+                "votes": 169,
+                "rating": 6.5
+            },
+            "males aged 45 plus": {
+                "votes": 185,
+                "rating": 6.9
+            },
+            "females": {
+                "votes": 74,
+                "rating": 6.7
+            },
+            "females aged 18 29": {
+                "votes": 11,
+                "rating": 6.2
+            },
+            "females aged 30 44": {
+                "votes": 25,
+                "rating": 7.1
+            },
+            "females aged 45 plus": {
+                "votes": 35,
+                "rating": 6.6
+            },
+            "top 1000 voters": {
+                "votes": 24,
+                "rating": 6.6
+            },
+            "us users": {
+                "votes": 14,
+                "rating": 6.2
+            },
+            "non us users": {
+                "votes": 388,
+                "rating": 6.7
+            }
+        },
+        "number of votes": {
+            "10": 39,
+            "9": 34,
+            "8": 108,
+            "7": 191,
+            "6": 128,
+            "5": 43,
+            "4": 19,
+            "3": 7,
+            "2": 8,
+            "1": 9
+        },
+        "arithmetic mean": 6.8,
+        "median": 7
+    }
+}

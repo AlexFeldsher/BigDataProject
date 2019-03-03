@@ -1,0 +1,539 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "22 September 2016"
+            },
+            {
+                "country": "USA\n",
+                "date": "22 September 2016"
+            }
+        ],
+        "release dates": [
+            "Canada::22 September 2016",
+            "USA::22 September 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Notorious"
+            },
+            {
+                "countries": "Russia",
+                "title": "Дурная слава"
+            }
+        ],
+        "akas": [
+            "Notorious (original title)",
+            "Дурная слава Russia"
+        ],
+        "akas from release info": [
+            "Notorious (original title)",
+            "Дурная слава Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Notorious (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 223,
+                    "original air date": "22 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    TV news producer Julia George teams with defense attorney Jake Gregorian to control the media, the justice system and each other.    "
+                },
+                "2": {
+                    "title": "The Perp Walk",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Notorious (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 159,
+                    "original air date": "29 Sep. 2016",
+                    "year": "2016",
+                    "plot": "\n    In the aftermath of Sarah's death, Oscar begins to drink again as suspicion of his involvement in her murder grows.    "
+                },
+                "3": {
+                    "title": "Friends and Other Strangers",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Notorious (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 144,
+                    "original air date": "6 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    When a beloved celebrity unexpected falls into a coma, apparently from a stroke, a video comes to light that paints him in a less-than-flattering light.    "
+                },
+                "4": {
+                    "title": "Tell Me a Secret",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Notorious (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 130,
+                    "original air date": "13 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    A young man is accused of killing a college football player via an app which allows users to broadcast anonymous messages.    "
+                },
+                "5": {
+                    "title": "Missing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Notorious (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 127,
+                    "original air date": "20 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    Julia attempts to cope with witnessing a terrible incident; A surrogate mother reaches out to Jake; The truth about Sarah and Jake's relationship is revealed.    "
+                },
+                "6": {
+                    "title": "Kept and Broken",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Notorious (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 120,
+                    "original air date": "27 Oct. 2016",
+                    "year": "2016",
+                    "plot": "\n    Jake's affair with Sarah is revealed on live TV, but he also learns a disturbing secret about her as he's surprised by fresh allegations. Meanwhile, the disappearance of a girl from a wealthy background gets wall-to-wall coverage by the media, so Julia turns her attention to a victim the public barely knows.    "
+                },
+                "7": {
+                    "title": "Chase",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Notorious (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 117,
+                    "original air date": "3 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Jake hides out from the paparazzi after he is arrested for Sarah's murder, while Bradley and Ella try to clear his name.    "
+                },
+                "8": {
+                    "title": "The Burn Book",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Notorious (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 105,
+                    "original air date": "10 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    A former TV news host asks Jake and Julie for help when her daughter ends up being a murder suspect.    "
+                },
+                "9": {
+                    "title": "Choice",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Notorious (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 100,
+                    "original air date": "17 Nov. 2016",
+                    "year": "2016",
+                    "plot": "\n    Jake continues to work different angles of the murder case against the daughter of a disgraced news anchor.    "
+                },
+                "10": {
+                    "title": "Taken",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Notorious (TV Series 2016)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 86,
+                    "original air date": "8 Dec. 2016",
+                    "year": "2016",
+                    "plot": "\n    A Mexican drug kingpin kidnaps Julia and will only release her if she interviews him in a favorable light.    "
+                }
+            }
+        },
+        "number of episodes": 10,
+        "cast": [
+            {
+                "name": "Perabo, Piper"
+            },
+            {
+                "name": "Sunjata, Daniel"
+            },
+            {
+                "name": "Grant, Kate Jennings"
+            },
+            {
+                "name": "Teegarden, Aimee"
+            },
+            {
+                "name": "Richards, J. August"
+            },
+            {
+                "name": "Moafi, Sepideh"
+            },
+            {
+                "name": "Guzman, Ryan"
+            },
+            {
+                "name": "Zegers, Kevin"
+            },
+            {
+                "name": "Rayner, Adam"
+            },
+            {
+                "name": "Walton, Matt"
+            },
+            {
+                "name": "De Ocampo, Ramon"
+            },
+            {
+                "name": "Oberoi, Karan"
+            },
+            {
+                "name": "Vadsaria, Dilshad"
+            },
+            {
+                "name": "Mitchell, Kenneth"
+            },
+            {
+                "name": "Kanakaredes, Melina"
+            },
+            {
+                "name": "Ramm, Haley"
+            },
+            {
+                "name": "Blucas, Marc"
+            },
+            {
+                "name": "Savant, Doug"
+            },
+            {
+                "name": "Walsh, Maiara"
+            },
+            {
+                "name": "Brochu, Chris"
+            },
+            {
+                "name": "Ramos, Rogelio T."
+            },
+            {
+                "name": "Adrian, Bryan"
+            },
+            {
+                "name": "Perez, Sabrina"
+            },
+            {
+                "name": "Ashbaugh, Alex"
+            },
+            {
+                "name": "Kaminsky, Matt"
+            },
+            {
+                "name": "Coronel, Al"
+            },
+            {
+                "name": "Huang, Michelle Farrah"
+            },
+            {
+                "name": "Garrett, Brendon"
+            },
+            {
+                "name": "Johnson, Chad R"
+            },
+            {
+                "name": "Estes, Mike"
+            },
+            {
+                "name": "Combs, Sean 'Diddy'"
+            },
+            {
+                "name": "Jaramillo, Antonio"
+            },
+            {
+                "name": "Pyle, Missi"
+            },
+            {
+                "name": "Zúñiga, José"
+            },
+            {
+                "name": "Bruno, Dylan"
+            },
+            {
+                "name": "J, Ray"
+            },
+            {
+                "name": "Leal, Carlos"
+            },
+            {
+                "name": "Levesque, Elyse"
+            },
+            {
+                "name": "Sanz, Carlos"
+            },
+            {
+                "name": "Breeds, Rebecca"
+            },
+            {
+                "name": "Emery, Julie Ann"
+            },
+            {
+                "name": "Harrington, Adam J."
+            },
+            {
+                "name": "Johnson, Keean"
+            },
+            {
+                "name": "Strong, Brenda"
+            },
+            {
+                "name": "Arrindell, Lisa"
+            },
+            {
+                "name": "Barbaro, Monica"
+            },
+            {
+                "name": "Burke, David"
+            },
+            {
+                "name": "Rogers, Ingrid"
+            },
+            {
+                "name": "Secor, Kyle"
+            },
+            {
+                "name": "Smith, Carolyn Michelle"
+            }
+        ],
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "South Korea:15",
+            "South Korea:18",
+            "United States:TV-PG"
+        ],
+        "number of seasons": 1,
+        "rating": 6.7,
+        "votes": 3932,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BYzM5OWU5YmMtYzQ0ZC00YWQ2LWFmMzUtNTA2YWI2Yzk0ZmMxXkEyXkFqcGdeQXVyMzAzNTY3MDM@._V1_SY150_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Notorious",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-2016",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Berman, Josh"
+            },
+            {
+                "name": "Hagan, Allie"
+            },
+            {
+                "name": "Bensinger, Tyler"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Osprey Productions"
+            },
+            {
+                "name": "ABC Studios"
+            },
+            {
+                "name": "Sony Pictures Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "American Broadcasting Company (ABC)"
+            },
+            {
+                "name": "Canadian Television (CTV)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Animals for Hollywood"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Production Services of GA aka: Event Services of GA"
+            },
+            {
+                "name": "Silly Goose Media"
+            },
+            {
+                "name": "Transportation Resources"
+            },
+            {
+                "name": "Truck Brokers"
+            }
+        ],
+        "plot": [
+            "A charismatic defense attorney and a powerhouse television producer work together to control the media following a high-profile incident.::Noah Orent"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3932,
+                "rating": 6.7
+            },
+            "aged under 18": {
+                "votes": 3,
+                "rating": 6.7
+            },
+            "aged 18 29": {
+                "votes": 672,
+                "rating": 7.0
+            },
+            "aged 30 44": {
+                "votes": 1141,
+                "rating": 6.4
+            },
+            "aged 45 plus": {
+                "votes": 752,
+                "rating": 6.4
+            },
+            "males": {
+                "votes": 1238,
+                "rating": 6.0
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 5.5
+            },
+            "males aged 18 29": {
+                "votes": 250,
+                "rating": 6.6
+            },
+            "males aged 30 44": {
+                "votes": 485,
+                "rating": 5.8
+            },
+            "males aged 45 plus": {
+                "votes": 392,
+                "rating": 5.9
+            },
+            "females": {
+                "votes": 1582,
+                "rating": 7.1
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "females aged 18 29": {
+                "votes": 416,
+                "rating": 7.3
+            },
+            "females aged 30 44": {
+                "votes": 643,
+                "rating": 7.0
+            },
+            "females aged 45 plus": {
+                "votes": 355,
+                "rating": 6.9
+            },
+            "top 1000 voters": {
+                "votes": 89,
+                "rating": 5.8
+            },
+            "us users": {
+                "votes": 829,
+                "rating": 6.5
+            },
+            "non us users": {
+                "votes": 1083,
+                "rating": 6.4
+            }
+        },
+        "number of votes": {
+            "10": 823,
+            "9": 357,
+            "8": 734,
+            "7": 763,
+            "6": 487,
+            "5": 270,
+            "4": 169,
+            "3": 76,
+            "2": 84,
+            "1": 169
+        },
+        "arithmetic mean": 7.2,
+        "median": 7
+    }
+}

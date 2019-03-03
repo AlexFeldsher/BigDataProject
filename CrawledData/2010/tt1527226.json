@@ -1,0 +1,387 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Belgium\n",
+                "date": "28 March 2010"
+            },
+            {
+                "country": "Luxembourg\n",
+                "date": "28 March 2010"
+            },
+            {
+                "country": "Switzerland\n",
+                "date": "13 April 2010",
+                "notes": "                            (French speaking region)"
+            },
+            {
+                "country": "Switzerland\n",
+                "date": "13 April 2010",
+                "notes": "                            (French speaking region) (German speaking region) (Italian speaking region)"
+            },
+            {
+                "country": "Andorra\n",
+                "date": "19 April 2010"
+            },
+            {
+                "country": "France\n",
+                "date": "19 April 2010"
+            },
+            {
+                "country": "Monaco\n",
+                "date": "19 April 2010"
+            }
+        ],
+        "release dates": [
+            "Belgium::28 March 2010",
+            "Luxembourg::28 March 2010",
+            "Switzerland::13 April 2010                            (French speaking region)",
+            "Switzerland::13 April 2010                            (French speaking region) (German speaking region) (Italian speaking region)",
+            "Andorra::19 April 2010",
+            "France::19 April 2010",
+            "Monaco::19 April 2010"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Victor Sauvage"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "Man of the Wild"
+            }
+        ],
+        "akas": [
+            "Victor Sauvage (original title)",
+            "Man of the Wild World-wide (English title)"
+        ],
+        "akas from release info": [
+            "Victor Sauvage (original title)",
+            "Man of the Wild World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "La jeune fille et le lion",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man of the Wild (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "19 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    After 20 years in the bush, Victor returns to France and takes a job in a nature preserve to get closer to his kids and reconquer his ex-wife. As the kids get used to their full-time dad, Victor must readjust to life in the Western world.    "
+                },
+                "2": {
+                    "title": "Poudre aux Yeux",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man of the Wild (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "18 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    While Laurent welcomes a group of teens to the reserve for a nature course, Victor helps the police rescue apes that are being used to smuggle drugs and must confront the traffickers who will stop at nothing to recover their merchandise.    "
+                },
+                "3": {
+                    "title": "La Petite Soeur des Gorilles",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Man of the Wild (TV Series 2010– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "20 Jun. 2011",
+                    "year": "2011",
+                    "plot": "\n    Victor is getting it from all sides. He has to save a baby gorilla whose mother refuses to breastfeed, having been bottle-fed herself. At the same time, the bank is still putting pressure on the reserve for its financial situation. It has sent over a consultant who has no better idea than to transform the reserve into an amusement park. This is unthinkable for Victor, who doesn't want to put the animals' well-being at risk. Luckily he can count on the help of his colleague Florence, who has just returned from Africa. They plan to enter a contest and hope to win first ...    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Reichmann, Jean-Luc"
+            },
+            {
+                "name": "Bonduel, Oriane"
+            },
+            {
+                "name": "Guillo, Dominique"
+            },
+            {
+                "name": "N'Diaye, Fatou"
+            },
+            {
+                "name": "Quatra, Emmanuel"
+            },
+            {
+                "name": "Vitari, Isabelle"
+            },
+            {
+                "name": "Chevallier, Manon"
+            },
+            {
+                "name": "Riquet, Timothé"
+            },
+            {
+                "name": "Gaultier, Tony"
+            },
+            {
+                "name": "Delage, Jan-Luc"
+            },
+            {
+                "name": "Villeleger, Maxime"
+            },
+            {
+                "name": "Collard, Emilie"
+            },
+            {
+                "name": "Prassinot, Zara"
+            },
+            {
+                "name": "Bergman, Louison"
+            },
+            {
+                "name": "Chaulet, Théo"
+            },
+            {
+                "name": "Cavalli, Valéria"
+            },
+            {
+                "name": "Dupont, Charlie"
+            },
+            {
+                "name": "Cantillon, Guillaume"
+            },
+            {
+                "name": "Abraham, Nicolas"
+            },
+            {
+                "name": "Knafo, Sébastien"
+            },
+            {
+                "name": "Gueden, Nicole"
+            },
+            {
+                "name": "Leymans, Renaud"
+            },
+            {
+                "name": "Lhoste, Vanessa"
+            },
+            {
+                "name": "Andréi, Roch-Paul"
+            },
+            {
+                "name": "Gallotte, Jean-François"
+            },
+            {
+                "name": "Mortensen, Sara"
+            },
+            {
+                "name": "Berthelot, Séverine"
+            },
+            {
+                "name": "Faure, Yoann"
+            },
+            {
+                "name": "Martelot, Garlan Le"
+            },
+            {
+                "name": "Kolski, Florence"
+            },
+            {
+                "name": "Dubois, Vincent"
+            },
+            {
+                "name": "Rousselle, Robert Charles"
+            },
+            {
+                "name": "Ledoux, Adrien"
+            },
+            {
+                "name": "Coulon, Hélène"
+            },
+            {
+                "name": "Caubère, Philippe"
+            },
+            {
+                "name": "Bechade, Nadine"
+            },
+            {
+                "name": "Favreau, Gilles"
+            },
+            {
+                "name": "Chastagnol, Sandine"
+            },
+            {
+                "name": "Aumettre, Philippe"
+            },
+            {
+                "name": "Brunet, Patrick"
+            }
+        ],
+        "locations": [
+            "Limoges, Haute-Vienne, France"
+        ],
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "runtimes": [
+            "90"
+        ],
+        "countries": [
+            "France",
+            "Belgium"
+        ],
+        "country codes": [
+            "fr",
+            "be"
+        ],
+        "language codes": [
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "rating": 5.7,
+        "votes": 7,
+        "plot outline": "After 20 years in the bush, caring for wild animals, Victor returns to France and takes a job managing a nature preserve, in hopes of getting closer to his kids and reconquering his ex-wife. As the kids, aged 10 and 15, get used to their full-time dad, Victor must readjust to life in the Western world, with its supermarkets and traffic jams, as he deals with the challenges of his job: whether trying to bust a gibbons trafficking ring, dealing with a budget crisis, saving an endangered baby chimp's life or finding out who is trying to poison the animals - Life is never dull at the nature preserve.",
+        "languages": [
+            "French"
+        ],
+        "title": "Man of the Wild",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Lebrima, Christiane"
+            },
+            {
+                "name": "Roux, Marc"
+            },
+            {
+                "name": "Desplechin, Raphaëlle"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Formidooble"
+            },
+            {
+                "name": "PM SA"
+            },
+            {
+                "name": "AT-Production"
+            },
+            {
+                "name": "Radio Télévision Belge Francophone"
+            },
+            {
+                "name": "TF1"
+            },
+            {
+                "name": "Centre National de la Cinématographie"
+            },
+            {
+                "name": "Pôle Cinéma de la Région Limousin"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "TF1"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "WIP Studio"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Cinésyl"
+            },
+            {
+                "name": "Creative Regie"
+            }
+        ],
+        "plot": [
+            "After 20 years working in the bush, Victor returns home to be a father, a husband and a modern man - if he can.::Happy_Evil_Dude",
+            "After 20 years in the bush, caring for wild animals, Victor returns to France and takes a job managing a nature preserve, in hopes of getting closer to his kids and reconquering his ex-wife. As the kids, aged 10 and 15, get used to their full-time dad, Victor must readjust to life in the Western world, with its supermarkets and traffic jams, as he deals with the challenges of his job: whether trying to bust a gibbons trafficking ring, dealing with a budget crisis, saving an endangered baby chimp's life or finding out who is trying to poison the animals - Life is never dull at the nature preserve.::Happy_Evil_Dude"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr 30 min (90 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 7,
+                "rating": 5.7
+            },
+            "aged 18 29": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "aged 30 44": {
+                "votes": 2,
+                "rating": 4.0
+            },
+            "aged 45 plus": {
+                "votes": 3,
+                "rating": 5.7
+            },
+            "males": {
+                "votes": 6,
+                "rating": 5.8
+            },
+            "males aged 18 29": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 30 44": {
+                "votes": 2,
+                "rating": 4.0
+            },
+            "males aged 45 plus": {
+                "votes": 3,
+                "rating": 5.7
+            },
+            "top 1000 voters": {
+                "votes": 2,
+                "rating": 6.0
+            },
+            "non us users": {
+                "votes": 6,
+                "rating": 5.8
+            }
+        },
+        "number of votes": {
+            "10": 1,
+            "9": 0,
+            "8": 0,
+            "7": 0,
+            "6": 3,
+            "5": 2,
+            "4": 0,
+            "3": 0,
+            "2": 1,
+            "1": 0
+        },
+        "arithmetic mean": 5.7,
+        "median": 6
+    }
+}

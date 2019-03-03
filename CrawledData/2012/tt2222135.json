@@ -1,0 +1,1458 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "12 October 2012"
+            },
+            {
+                "country": "Germany\n",
+                "date": "8 April 2013"
+            },
+            {
+                "country": "Japan\n",
+                "date": "27 July 2013"
+            }
+        ],
+        "release dates": [
+            "USA::12 October 2012",
+            "Germany::8 April 2013",
+            "Japan::27 July 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Dog with a Blog"
+            },
+            {
+                "countries": "France",
+                "title": "#doggyblog"
+            },
+            {
+                "countries": "Germany",
+                "title": "Hund mit Blog"
+            },
+            {
+                "countries": "Greece",
+                "title": "Ένας Σκύλος με Μπλογκ"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Az eb és a web"
+            },
+            {
+                "countries": "Poland",
+                "title": "Blog na cztery łapy"
+            },
+            {
+                "countries": "Portugal",
+                "title": "O Meu Cão Tem Um Blog"
+            },
+            {
+                "countries": "Russia",
+                "title": "Собака точка ком"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Pas Sten i njegov blog"
+            },
+            {
+                "countries": "Spain",
+                "title": "Mi perro tiene un blog"
+            },
+            {
+                "countries": "Turkey (Turkish title)",
+                "title": "Köpek Stan Yaziyor"
+            }
+        ],
+        "akas": [
+            "Dog with a Blog (original title)",
+            "#doggyblog France",
+            "Hund mit Blog Germany",
+            "Ένας Σκύλος με Μπλογκ Greece",
+            "Az eb és a web Hungary",
+            "Blog na cztery łapy Poland",
+            "O Meu Cão Tem Um Blog Portugal",
+            "Собака точка ком Russia",
+            "Pas Sten i njegov blog Serbia",
+            "Mi perro tiene un blog Spain",
+            "Köpek Stan Yaziyor Turkey (Turkish title)"
+        ],
+        "akas from release info": [
+            "Dog with a Blog (original title)",
+            "#doggyblog France",
+            "Hund mit Blog Germany",
+            "Ένας Σκύλος με Μπλογκ Greece",
+            "Az eb és a web Hungary",
+            "Blog na cztery łapy Poland",
+            "O Meu Cão Tem Um Blog Portugal",
+            "Собака точка ком Russia",
+            "Pas Sten i njegov blog Serbia",
+            "Mi perro tiene un blog Spain",
+            "Köpek Stan Yaziyor Turkey (Turkish title)"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "Guess Who Gets Expelled?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 24,
+                    "original air date": "26 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    On Avery's first day of high school, Tyler ropes her into his senior prank that ultimately gets them both expelled.    "
+                },
+                "2": {
+                    "title": "Howloween 2: The Final Reckoning",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 23,
+                    "original air date": "2 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    When Ellen and Bennett overhear Stan talking, the kids go to great lengths to convince their parents the house is haunted to help keep Stan's secret.    "
+                },
+                "3": {
+                    "title": "Avery School's Tyler",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 20,
+                    "original air date": "17 Oct. 2014",
+                    "year": "2014",
+                    "plot": "\n    When Tyler is invited to join a professional freestyle BMX team, he enlists Avery as a tutor to try and help him graduate early.    "
+                },
+                "4": {
+                    "title": "Stan Falls in Love",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 27,
+                    "original air date": "21 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Stan has a crush on the new neighborhood dog, Princess, but he has to figure out how to get past her owner, who is a pretentious schoolmate of Avery's.    "
+                },
+                "5": {
+                    "title": "Avery vs. Teacher",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 21,
+                    "original air date": "28 Nov. 2014",
+                    "year": "2014",
+                    "plot": "\n    Though Avery 's assignments are perfectly executed, she misses the true point in her life skills class and receives a disappointing grade.    "
+                },
+                "6": {
+                    "title": "Stan Steals Christmas",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 18,
+                    "original air date": "5 Dec. 2014",
+                    "year": "2014",
+                    "plot": "\n    In an effort to teach the James-Jennings kids the true meaning behind Christmas, Stan hides all of the holiday presents from the family, ultimately teaching them a greater lesson about giving back to others.    "
+                },
+                "7": {
+                    "title": "Avery Makes Over Max",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 21,
+                    "original air date": "9 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Avery's feelings are hurt when she realizes Max doesn't like her designs. Meanwhile, Stan gets a makeover to impress his new girlfriend.    "
+                },
+                "8": {
+                    "title": "Avery Dreams of Kissing Karl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "votes": 21,
+                    "original air date": "16 Jan. 2015",
+                    "year": "2015",
+                    "plot": "\n    Avery becomes worried when she has a recurring dream that she and Karl are boyfriend and girlfriend. Meanwhile, Chloe wants to give up choir to become a BMX bike rider like Tyler.    "
+                },
+                "9": {
+                    "title": "Dog on a Catwalk",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "votes": 17,
+                    "original air date": "6 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Stan enters a fashion show wearing one of Avery's designs. Meanwhile, Tyler takes an unforeseen trip.    "
+                },
+                "10": {
+                    "title": "Guess Who's a Cheater",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "votes": 17,
+                    "original air date": "20 Feb. 2015",
+                    "year": "2015",
+                    "plot": "\n    Avery, and her best friends, Max and Lindsay, all discover they're dating the same guy. Meanwhile, Tyler is accused of cheating and must prove his innocence.    "
+                },
+                "11": {
+                    "title": "Stan's New BFF",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 11,
+                    "votes": 23,
+                    "original air date": "6 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Avery becomes jealous when Stan spends the night at Karl's house. Meanwhile, Bennett gets Chloe hooked on wrestling.    "
+                },
+                "12": {
+                    "title": "Stan Sleep Talks",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 12,
+                    "votes": 20,
+                    "original air date": "26 Mar. 2015",
+                    "year": "2015",
+                    "plot": "\n    Stan starts to talk in his sleep and the kids are worried that Ellen and Bennett are going to find out about Stans secret!    "
+                },
+                "13": {
+                    "title": "Stan Gets Married",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 13,
+                    "votes": 17,
+                    "original air date": "17 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    Stan is getting married to Princess, and to help fund the event the family submits the wedding to the \"Wacky Jackie\" television show, a reality program in which Jackie, a wealthy teen, spends her own money to pay for wacky and fun stunts.    "
+                },
+                "14": {
+                    "title": "Guess Who Becomes President",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 14,
+                    "votes": 20,
+                    "original air date": "24 Apr. 2015",
+                    "year": "2015",
+                    "plot": "\n    When no one signs-up to run against Avery for President, she convinces Max to run against her.    "
+                },
+                "15": {
+                    "title": "Stan Has Puppies",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 15,
+                    "votes": 27,
+                    "original air date": "8 May 2015",
+                    "year": "2015",
+                    "plot": "\n    Stan is nervous and thrilled to learn that he's becoming a dad after he discovers that Princess is pregnant with puppies.    "
+                },
+                "16": {
+                    "title": "You're Not My Sister Anymore",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 16,
+                    "votes": 18,
+                    "original air date": "12 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    Chloe discovers that Avery uses her to get close to a boy she likes. Meanwhile, Tyler pretends to go to a competition rather than telling the family he didn't qualify.    "
+                },
+                "17": {
+                    "title": "The Puppies Talk",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 17,
+                    "votes": 18,
+                    "original air date": "19 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n    Tyler, Chloe and Avery discover that Gracie and Freddy can talk, just like their dad Stan.    "
+                },
+                "18": {
+                    "title": "Guess Who's Dating Karl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 18,
+                    "votes": 17,
+                    "original air date": "17 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    After becoming a part of Avery's circle of friends, Karl secretly begins dating Max.    "
+                },
+                "19": {
+                    "title": "Murder of the Ornamental Dress",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 19,
+                    "votes": 17,
+                    "original air date": "24 Jul. 2015",
+                    "year": "2015",
+                    "plot": "\n    When Avery's latest design gets ruined before a big fashion show, she must get to the bottom of who destroyed the dress.    "
+                },
+                "20": {
+                    "title": "Stan Rescues His Princess",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 20,
+                    "votes": 16,
+                    "original air date": "7 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    Princess's owner want to take her away to summer camp, but Stan devises a plan to keep his family together.    "
+                },
+                "21": {
+                    "title": "Cat with a Blog",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 21,
+                    "votes": 18,
+                    "original air date": "21 Aug. 2015",
+                    "year": "2015",
+                    "plot": "\n    After accidentally ruining Ellen's new couch, Stan wishes he'd never been a part of the family and wonders what it would have been like if he had been a cat instead.    "
+                },
+                "22": {
+                    "title": "Avery Starts Driving",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 22,
+                    "votes": 16,
+                    "original air date": "18 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    After running over a neighbor's lawn gnome, Avery asks Tyler to help her prep for her driving test. Meanwhile, Chloe's afraid that getting older will jeopardize her title as \"the cute one.\"    "
+                },
+                "23": {
+                    "title": "Stan's Secret Is Out",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 23,
+                    "votes": 36,
+                    "original air date": "25 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    Ellen and Bennett find out that Stan can talk, and shortly after the entire James-Jennings family is taken hostage by the U.S. Space Command's Alien Division.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Stan of the House",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 63,
+                    "original air date": "12 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Tyler and Avery discover their dog Stan can talk.    "
+                },
+                "2": {
+                    "title": "The Fast and the Furriest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 39,
+                    "original air date": "4 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Stan takes the car out and smashes the front end.    "
+                },
+                "3": {
+                    "title": "Dog with a Hog",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 40,
+                    "original air date": "11 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Stan convinces Avery to let him fill in as mascot for the Homecoming Game.    "
+                },
+                "4": {
+                    "title": "WingStan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 31,
+                    "original air date": "18 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    When Tyler goes on a dog walking date with the new girl he likes, Nikki, Stan must deal with her annoying dog, Evita, and be \"wingman\".    "
+                },
+                "5": {
+                    "title": "World of Woofcraft",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 42,
+                    "original air date": "25 Nov. 2012",
+                    "year": "2012",
+                    "plot": "\n    Stan starts playing an on-line role playing game!    "
+                },
+                "6": {
+                    "title": "Bark! The Herald Angels Sing",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 33,
+                    "original air date": "2 Dec. 2012",
+                    "year": "2012",
+                    "plot": "\n    Avery hopes she will finally get a gift she likes.    "
+                },
+                "7": {
+                    "title": "The Parrot Trap",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 34,
+                    "original air date": "13 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Frustrated with her inability to get along with Stan, Ellen buys a parrot that doesn't seem to like her, and Tyler finds out a girl he likes is one of her father's patients.    "
+                },
+                "8": {
+                    "title": "The Bone Identity",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 38,
+                    "original air date": "27 Jan. 2013",
+                    "year": "2013",
+                    "plot": "\n    Avery's nemesis overhears Chloe refer to Stan's secret.    "
+                },
+                "9": {
+                    "title": "Stan Stops Talking",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 38,
+                    "original air date": "17 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    Stan refuses to talk anymore.    "
+                },
+                "10": {
+                    "title": "Dog Loses Girl",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 31,
+                    "original air date": "24 Feb. 2013",
+                    "year": "2013",
+                    "plot": "\n    When Stan is in charge of watching Chloe, she goes missing!    "
+                },
+                "11": {
+                    "title": "Stan-ning Guard",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 23,
+                    "original air date": "24 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n    The family trains Stan to be a guard dog.    "
+                },
+                "12": {
+                    "title": "Freaky Fido",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 35,
+                    "original air date": "7 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    Avery makes a \"Freaky Friday\" type of movie for a class project.    "
+                },
+                "13": {
+                    "title": "Guess Who's a Cheerleader",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 33,
+                    "original air date": "28 Apr. 2013",
+                    "year": "2013",
+                    "plot": "\n    Avery makes the cheerleading squad.    "
+                },
+                "14": {
+                    "title": "Crimes of the Art",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 20,
+                    "original air date": "5 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Tyler enters the same art competition as Avery.    "
+                },
+                "15": {
+                    "title": "Avery's First Crush",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 34,
+                    "original air date": "12 May 2013",
+                    "year": "2013",
+                    "plot": "\n    Avery has her first crush on a boy who idolizes Tyler.    "
+                },
+                "16": {
+                    "title": "The Truck Stops Here",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 28,
+                    "original air date": "8 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Tyler gets a job in food truck but Ellen and Bennett doesn't like his job.    "
+                },
+                "17": {
+                    "title": "Avery's First Breakup",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 34,
+                    "original air date": "23 Jun. 2013",
+                    "year": "2013",
+                    "plot": "\n    Avery breaks up with Dustin and needs her mother to comfort her.    "
+                },
+                "18": {
+                    "title": "A New Baby?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 22,
+                    "original air date": "14 Jul. 2013",
+                    "year": "2013",
+                    "plot": "\n    The kids jump to the conclusion that their parents are having a baby.    "
+                },
+                "19": {
+                    "title": "Stan Talks to Gran",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 25,
+                    "original air date": "21 Jul. 2013",
+                    "year": "2013",
+                    "plot": "\n    When Grandma comes to babysit the kids, she hears Stan talk.    "
+                },
+                "20": {
+                    "title": "Avery's Wild Party",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 19,
+                    "original air date": "28 Jul. 2013",
+                    "year": "2013",
+                    "plot": "\n    Avery must throw a party without her parents' knowledge.    "
+                },
+                "21": {
+                    "title": "My Parents Posted What?!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 21,
+                    "votes": 21,
+                    "original air date": "11 Aug. 2013",
+                    "year": "2013",
+                    "plot": "\n    Bennett and Ellen discover Avery's secret online \"Buddy Bump\" account.    "
+                },
+                "22": {
+                    "title": "Stan's Old Owner",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "votes": 33,
+                    "original air date": "25 Aug. 2013",
+                    "year": "2013",
+                    "plot": "\n    Stan's former owner, Ian, arrives from Spokane, Washington to reclaim him.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Too Short",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 23,
+                    "original air date": "20 Sep. 2013",
+                    "year": "2013",
+                    "plot": "\n    Avery starts to feel self-conscious about her height when everybody else in her class has a growth spurt.    "
+                },
+                "2": {
+                    "title": "Good Girl Gone Bad",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 18,
+                    "original air date": "27 Sep. 2013",
+                    "year": "2013",
+                    "plot": "\n    Avery arrives at school and learns that she's been left out of \"ditch day.\"    "
+                },
+                "3": {
+                    "title": "Howloween",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 28,
+                    "original air date": "4 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    Avery rushes the family to have a perfect haunted house party to impress a boy named Wes    "
+                },
+                "4": {
+                    "title": "Stan Makes His Mark",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 20,
+                    "original air date": "11 Oct. 2013",
+                    "year": "2013",
+                    "plot": "\n    Stan makes a video telling his story to leave as his legacy.    "
+                },
+                "5": {
+                    "title": "Tyler Gets a Grillfriend",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 20,
+                    "original air date": "1 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    Tyler works with The Hawk's niece Emily in the food truck and the two hit it off.    "
+                },
+                "6": {
+                    "title": "Don't Karl Us, We'll Karl You",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 17,
+                    "original air date": "15 Nov. 2013",
+                    "year": "2013",
+                    "plot": "\n    When Ellen and Bennett allow Karl to hang out, the kids devise a plan to keep him away.    "
+                },
+                "7": {
+                    "title": "Twas the Flight Before Christmas",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 19,
+                    "original air date": "6 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    Avery decides to plan the perfect Christmas as a present to her mom.    "
+                },
+                "8": {
+                    "title": "Lost in Stanslation",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 20,
+                    "original air date": "10 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    Avery tutors Wes in Spanish, but she doesn't know Spanish, so she asks Nicki to help her.    "
+                },
+                "9": {
+                    "title": "Avery B. Jealous",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 19,
+                    "original air date": "24 Jan. 2014",
+                    "year": "2014",
+                    "plot": "\n    A silly misunderstanding between Avery and Wes becomes a bigger issue when he invites her best friend Lindsay to the movies.    "
+                },
+                "10": {
+                    "title": "Love Ty-Angle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 18,
+                    "original air date": "21 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    Nicki may like Tyler and Ellen is 'cat sitting' for a friend.    "
+                },
+                "11": {
+                    "title": "Stan Runs Away",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 18,
+                    "original air date": "28 Feb. 2014",
+                    "year": "2014",
+                    "plot": "\n    When the kids and Stan have a big fight, Stan runs away.    "
+                },
+                "12": {
+                    "title": "I Want My Nikki Back, Nikki Back, Nikki Back",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 20,
+                    "original air date": "7 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    When Tyler decides to try and get Nikki back as his girlfriend, Avery is hesitant to help him for fear of being caught between her friend and brother, but ultimately intervenes.    "
+                },
+                "13": {
+                    "title": "Avery-body Dance Now",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "votes": 19,
+                    "original air date": "21 Mar. 2014",
+                    "year": "2014",
+                    "plot": "\n    Avery is excited to attend the school dance with Wes and secretly takes dance lessons Karl. Wes eventually becomes suspicious of Avery spending so much time with Karl.    "
+                },
+                "14": {
+                    "title": "The Green-Eyed Monster",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "votes": 17,
+                    "original air date": "4 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    A jealous Stan spies on Avery's new boyfriend Wes, causing them to break up!    "
+                },
+                "15": {
+                    "title": "Who's Training Who?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "votes": 13,
+                    "original air date": "11 Apr. 2014",
+                    "year": "2014",
+                    "plot": "\n    Ellen hires an animal instructor to train Stan; when he doesn't obey, Ellen makes Stan stay outside.    "
+                },
+                "16": {
+                    "title": "Love, Loss and a Beanbag Toss",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 16,
+                    "votes": 13,
+                    "original air date": "16 May 2014",
+                    "year": "2014",
+                    "plot": "\n    Avery doesn't understand why Wes is keeping his distance, but ultimately learns he is nervous to tell her that he is moving away.    "
+                },
+                "17": {
+                    "title": "How I Met Your Brother and Sister",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 17,
+                    "votes": 19,
+                    "original air date": "13 Jun. 2014",
+                    "year": "2014",
+                    "plot": "\n    Avery, Tyler and Chloe try to plan something special for their parents' upcoming anniversary.    "
+                },
+                "18": {
+                    "title": "Will Sing for Food Truck",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 18,
+                    "votes": 22,
+                    "original air date": "20 Jun. 2014",
+                    "year": "2014",
+                    "plot": "\n    Tyler makes a commercial for his boss' food truck business.    "
+                },
+                "19": {
+                    "title": "Stuck in the Mini with You",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 19,
+                    "votes": 14,
+                    "original air date": "18 Jul. 2014",
+                    "year": "2014",
+                    "plot": "\n    Bennett's tasked with getting Chloe to her dance recital while Avery and Ellen go on a trip.    "
+                },
+                "20": {
+                    "title": "Pod People from Pasedena",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 20,
+                    "votes": 11,
+                    "original air date": "25 Jul. 2014",
+                    "year": "2014",
+                    "plot": "\n    Chloe thinks that her family has been taken over by aliens and that they're building a spaceship.    "
+                },
+                "21": {
+                    "title": "The Mutt and the Mogul",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 21,
+                    "votes": 16,
+                    "original air date": "1 Aug. 2014",
+                    "year": "2014",
+                    "plot": "\n    Wealthy business tycoon Tom Fairbanks wants to buy Stan from the James-Jennings family to use him as a spokes-dog for his animal rescue campaign. Fearful that Bennett and Ellen might say yes, Avery, Tyler and Chloe hire actors to play their parents and turn down the offer before they are approached.    "
+                },
+                "22": {
+                    "title": "Stan Gets Schooled",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 22,
+                    "votes": 16,
+                    "original air date": "15 Aug. 2014",
+                    "year": "2014",
+                    "plot": "\n    Stan uses a computerized robot to go to school with Avery and Tyler where he feels pressured into deciding if he should join Avery or Tyler's social circle.    "
+                },
+                "23": {
+                    "title": "Karl Finds Out Stan's Secret",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 23,
+                    "votes": 14,
+                    "original air date": "22 Aug. 2014",
+                    "year": "2014",
+                    "plot": "\n    Karl, the James-Jennings' family neighbor, reveals to the kids that he knows Stan's secret.    "
+                },
+                "24": {
+                    "title": "The Kids Find Out Stan Blogs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Dog with a Blog (TV Series 2012–2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 24,
+                    "votes": 16,
+                    "original air date": "12 Sep. 2014",
+                    "year": "2014",
+                    "plot": "\n    Stan's blog is accidentally submitted as Bennett's latest book and the kids must work together to protect Stan's secret.    "
+                }
+            }
+        },
+        "number of episodes": 69,
+        "cast": [
+            {
+                "name": "Hannelius, Genevieve"
+            },
+            {
+                "name": "Michael, Blake"
+            },
+            {
+                "name": "Capaldi, Francesca"
+            },
+            {
+                "name": "Full, Stephen"
+            },
+            {
+                "name": "Burns, Regan"
+            },
+            {
+                "name": "Littleford, Beth"
+            },
+            {
+                "name": "Mick"
+            },
+            {
+                "name": "Maisonet, Kayla"
+            },
+            {
+                "name": "Benet, L.J."
+            },
+            {
+                "name": "Soibelman, Danielle"
+            },
+            {
+                "name": "Mello, Bruno"
+            },
+            {
+                "name": "Meyer, Peyton"
+            },
+            {
+                "name": "DiCicco, Jessica"
+            },
+            {
+                "name": "Tontz, Denyse"
+            },
+            {
+                "name": "Herington, Marieve"
+            },
+            {
+                "name": "McGinnis, Paul"
+            },
+            {
+                "name": "Kuma"
+            },
+            {
+                "name": "Kunitz, Griffin"
+            },
+            {
+                "name": "Kulbersh, Adam"
+            },
+            {
+                "name": "Fleming, Brighid"
+            },
+            {
+                "name": "Doucette, Jeff"
+            },
+            {
+                "name": "Newton, Kathryn"
+            },
+            {
+                "name": "Masland, Dexter"
+            },
+            {
+                "name": "Dunn, Teala"
+            },
+            {
+                "name": "Hodge, Stephanie"
+            },
+            {
+                "name": "Manji, Rizwan"
+            },
+            {
+                "name": "Anderson, Ella"
+            },
+            {
+                "name": "Bryant, Kaylee"
+            },
+            {
+                "name": "Butera, Rachel"
+            },
+            {
+                "name": "Campbell, Larry Joe"
+            },
+            {
+                "name": "Sisterhen, Dara"
+            },
+            {
+                "name": "Perine, Kelly"
+            },
+            {
+                "name": "Poelle, Tyler"
+            },
+            {
+                "name": "Ryan, Garrett"
+            },
+            {
+                "name": "Harden, Noah"
+            },
+            {
+                "name": "Bills, Allison"
+            },
+            {
+                "name": "Birt, Christopher"
+            },
+            {
+                "name": "Boucher, Michael"
+            },
+            {
+                "name": "Burke, Joe"
+            },
+            {
+                "name": "Butler, Ron"
+            },
+            {
+                "name": "Emmanuel, Clinton"
+            },
+            {
+                "name": "Guillen, Harvey"
+            },
+            {
+                "name": "Shergalis, Bridget"
+            },
+            {
+                "name": "Suttle, Gabriel"
+            },
+            {
+                "name": "Valencia, Clinton"
+            },
+            {
+                "name": "Whitby, Audrey"
+            },
+            {
+                "name": "Wilkins, Alexis"
+            },
+            {
+                "name": "Angelis, Camden"
+            },
+            {
+                "name": "Avila, Veronnica"
+            },
+            {
+                "name": "Bonner, Dana"
+            }
+        ],
+        "locations": [
+            "Occidental Studios - 201 N. Occidental Boulevard, Los Angeles, California, USA"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family",
+            "Fantasy"
+        ],
+        "runtimes": [
+            "22"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo",
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Portugal:T",
+            "Turkey:G",
+            "United States:TV-G"
+        ],
+        "number of seasons": 3,
+        "rating": 4.7,
+        "votes": 4650,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMjM5ODIwODM4M15BMl5BanBnXkFtZTgwMTk5MDIwMjE@._V1_SY150_CR6,0,101,150_.jpg",
+        "plot outline": "Their family adventure starts when the children's dad adopts a family dog named \"Stan\" so hopefully two fighting step brother and sister will come closer together as a family. It eventually works when the dog runs away and the two must work together to get it back. They bond even more when the kid's find out that the dog can talk and they must keep it a secret from the parents.",
+        "languages": [
+            "English"
+        ],
+        "title": "Dog with a Blog",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-2015",
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "writer": [
+            {
+                "name": "Kaplan, Michael B."
+            },
+            {
+                "name": "Stark, Philip"
+            },
+            {
+                "name": "Jarczak, Steve"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "CBS Television Distribution"
+            },
+            {
+                "name": "Cinema Vehicle Services"
+            },
+            {
+                "name": "Harvey Levin Productions"
+            },
+            {
+                "name": "It's a Laugh Productions"
+            },
+            {
+                "name": "ParaMedia"
+            },
+            {
+                "name": "Stone Stanley Productions"
+            },
+            {
+                "name": "Telepictures Productions"
+            },
+            {
+                "name": "The Stone Group Ltd."
+            },
+            {
+                "name": "Think Entertainment"
+            },
+            {
+                "name": "Universal Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney Channel"
+            },
+            {
+                "name": "Disney-ABC Domestic Television"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Good Dog Animals"
+            },
+            {
+                "name": "Mosquito Productions"
+            },
+            {
+                "name": "RH Factor"
+            }
+        ],
+        "plot": [
+            "A family adopts a dog named Stan in the hope that two feuding step-siblings will bond over the pet. It works when the siblings soon find out that the dog can talk and write.::Anonymous",
+            "Their family adventure starts when the children's dad adopts a family dog named \"Stan\" so hopefully two fighting step brother and sister will come closer together as a family. It eventually works when the dog runs away and the two must work together to get it back. They bond even more when the kid's find out that the dog can talk and they must keep it a secret from the parents.::donahuehannah",
+            "\"Dog With a Blog\" is a sitcom that is told from the pup's perspective. The show is about a newly blended family led by parents Bennett and Ellen, whose kids -- Tyler, Avery and Chloe -- are trying to adjust to life as step-siblings. Tyler and Avery are typical teenagers and are slowly learning to communicate with each other. When they discover a secret about the family's recently adopted pet dog, Stan, they decide to keep it a secret -- even from their parents. What is Stan's secret? He talks and blogs. Complicating their attempt to keep the secret is younger sister Chloe, who thinks it's normal to have a talking pooch after she overhears him. But thankfully the parents just chalk it up to Chloe's overactive imagination. As for Stan, he has a knack for getting himself, Tyler and Avery into sticky situations, which helps teach the kids how important family is and how much they need to work together to keep Stan's secret safe.::Unknown"
+        ],
+        "tech": {
+            "runtime": [
+                "22 min"
+            ],
+            "sound mix": [
+                "Stereo",
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 4650,
+                "rating": 4.7
+            },
+            "aged under 18": {
+                "votes": 56,
+                "rating": 5.1
+            },
+            "aged 18 29": {
+                "votes": 1494,
+                "rating": 4.3
+            },
+            "aged 30 44": {
+                "votes": 762,
+                "rating": 4.4
+            },
+            "aged 45 plus": {
+                "votes": 324,
+                "rating": 5.6
+            },
+            "males": {
+                "votes": 1728,
+                "rating": 4.3
+            },
+            "males aged under 18": {
+                "votes": 34,
+                "rating": 4.5
+            },
+            "males aged 18 29": {
+                "votes": 818,
+                "rating": 4.0
+            },
+            "males aged 30 44": {
+                "votes": 477,
+                "rating": 4.1
+            },
+            "males aged 45 plus": {
+                "votes": 217,
+                "rating": 5.5
+            },
+            "females": {
+                "votes": 1207,
+                "rating": 5.0
+            },
+            "females aged under 18": {
+                "votes": 20,
+                "rating": 6.4
+            },
+            "females aged 18 29": {
+                "votes": 659,
+                "rating": 4.8
+            },
+            "females aged 30 44": {
+                "votes": 279,
+                "rating": 5.0
+            },
+            "females aged 45 plus": {
+                "votes": 102,
+                "rating": 5.9
+            },
+            "top 1000 voters": {
+                "votes": 68,
+                "rating": 4.6
+            },
+            "us users": {
+                "votes": 1118,
+                "rating": 4.4
+            },
+            "non us users": {
+                "votes": 861,
+                "rating": 4.2
+            }
+        },
+        "number of votes": {
+            "10": 1001,
+            "9": 214,
+            "8": 288,
+            "7": 345,
+            "6": 375,
+            "5": 428,
+            "4": 323,
+            "3": 244,
+            "2": 288,
+            "1": 1144
+        },
+        "arithmetic mean": 5.3,
+        "median": 5
+    }
+}

@@ -1,0 +1,960 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "20 July 2018"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "23 September 2018"
+            }
+        ],
+        "release dates": [
+            "USA::20 July 2018",
+            "Netherlands::23 September 2018"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Rise of the Teenage Mutant Ninja Turtles"
+            },
+            {
+                "countries": "Greece",
+                "title": "Χελωνονιντζάκια: Η Άνοδος"
+            },
+            {
+                "countries": "Russia",
+                "title": "Эволюция Черепашек-ниндзя"
+            },
+            {
+                "countries": "Spain",
+                "title": "El ascenso de las Tortugas Ninja"
+            }
+        ],
+        "akas": [
+            "Rise of the Teenage Mutant Ninja Turtles (original title)",
+            "Χελωνονιντζάκια: Η Άνοδος Greece",
+            "Эволюция Черепашек-ниндзя Russia",
+            "El ascenso de las Tortugas Ninja Spain"
+        ],
+        "akas from release info": [
+            "Rise of the Teenage Mutant Ninja Turtles (original title)",
+            "Χελωνονιντζάκια: Η Άνοδος Greece",
+            "Эволюция Черепашек-ниндзя Russia",
+            "El ascenso de las Tortugas Ninja Spain"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Mystic Mayhem",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 151,
+                    "original air date": "20 Jul. 2018",
+                    "year": "2018",
+                    "plot": "\n    The Turtles discover for the first time that they are not the weirdest things in New York.    "
+                },
+                "2": {
+                    "title": "Origami Tsunami (#1.2a)",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 89,
+                    "original air date": "25 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Leo talks the team into tracking down a mysterious paper duo./ the turtles must overcome their bad habits, and mutated chef Meat Sweats.    "
+                },
+                "3": {
+                    "title": "War and Pizza/Newsworthy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 83,
+                    "original air date": "27 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Donnie upgrades an animatronic bear at a pizzeria, but soon the animatronic goes out of control. / News anchorman Warren Stone is turned into a giant, mutated earthworm.    "
+                },
+                "4": {
+                    "title": "Donnie's Gifts",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "17 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    The Turtles have to fight their bad habits and a mutant chef .    "
+                },
+                "6": {
+                    "title": "Repo Mantis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 10,
+                    "original air date": "20 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    After learning that the Jupiter Jim moon buggy has been repossessed, the TMNT need to do a job to get it back. The Turtles must endure Splinter's Rat Flu and the terrible seven stages that come with it.    "
+                },
+                "7": {
+                    "title": "Down with the Sickness",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 15,
+                    "original air date": "18 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "The Fast and the Furriest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 17,
+                    "original air date": "24 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Donnie's newly built Turtle Tank goes missing. In order to get a birthday gift for Splinter, the Turtles have to take on thuggish Times Square Mascots.    "
+                },
+                "9": {
+                    "title": "War and Pizza",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 12,
+                    "original air date": "17 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    War and Pizza The Turtles help April throw a not-so-Happy Birthday party.    "
+                },
+                "10": {
+                    "title": "Shell in a Cell",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 11,
+                    "original air date": "19 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n    Rise up! The Teenage Mutant Ninja Turtles are back and this time they've got awesome new powers! Join Raph, Leo, Donnie and Mikey as they master new weapons, battle absurd mutants, and discover a Hidden City beneath New York. Cowabunga!    "
+                },
+                "11": {
+                    "title": "Minotaur Maze",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 16,
+                    "original air date": "6 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "The Gumbus",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 23,
+                    "original air date": "13 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "13": {
+                    "title": "Mrs. Cuddles",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 19,
+                    "original air date": "20 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "14": {
+                    "title": "Stuck on You",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 14,
+                    "votes": 16,
+                    "original air date": "10 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "15": {
+                    "title": "Bug Busters",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 15,
+                    "votes": 19,
+                    "original air date": "17 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Bugs Busters The Turtles look for a way to eliminate New York City 's oozesquito problem .    "
+                },
+                "16": {
+                    "title": "The Longest Fight",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 16,
+                    "votes": 17,
+                    "original air date": "6 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "17": {
+                    "title": "Hypno! Part Deux!",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 17,
+                    "votes": 20,
+                    "original air date": "27 Sep. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "18": {
+                    "title": "Al Be Back",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 18,
+                    "votes": 13,
+                    "original air date": "2 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "19": {
+                    "title": "The Purple Jacket",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 19,
+                    "votes": 8,
+                    "original air date": "8 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "20": {
+                    "title": "Pizza Pit",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 20,
+                    "votes": 8,
+                    "original air date": "8 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    The Turtles favorite pizza places are going under - literally. Can they stop the mysterious underground \"rock\" force before the last of their dearest pizza joints is taken out?    "
+                },
+                "22": {
+                    "title": "Hot Soup: The Game",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 22,
+                    "original air date": "16 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "23": {
+                    "title": "The Evil League of Mutants",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 23,
+                    "votes": 6,
+                    "original air date": "19 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "24": {
+                    "title": "Smart Lair",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 24,
+                    "original air date": "9 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "26": {
+                    "title": "Late Fee",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 26,
+                    "original air date": "23 Feb. 2019",
+                    "year": "2019",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Episode #2.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Episode #2.2",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Episode #2.3",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "4": {
+                    "title": "Episode #2.4",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Episode #2.5",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Episode #2.6",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "7": {
+                    "title": "Episode #2.7",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "8": {
+                    "title": "Episode #2.8",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "9": {
+                    "title": "Episode #2.9",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "10": {
+                    "title": "Episode #2.10",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "11": {
+                    "title": "Episode #2.11",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "12": {
+                    "title": "Episode #2.12",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "13": {
+                    "title": "Episode #2.13",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 13,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "14": {
+                    "title": "Episode #2.14",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 14,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "15": {
+                    "title": "Episode #2.15",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 15,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "16": {
+                    "title": "Episode #2.16",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 16,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "17": {
+                    "title": "Episode #2.17",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 17,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "18": {
+                    "title": "Episode #2.18",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 18,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "20": {
+                    "title": "Episode #2.20",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 20,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "21": {
+                    "title": "Episode #2.21",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 21,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "22": {
+                    "title": "Episode #2.22",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 22,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "23": {
+                    "title": "Episode #2.23",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 23,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "24": {
+                    "title": "Episode #2.24",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 24,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "25": {
+                    "title": "Episode #2.25",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 25,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "26": {
+                    "title": "Episode #2.26",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Rise of the Teenage Mutant Ninja Turtles (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 26,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 48,
+        "cast": [
+            {
+                "name": "Schwartz, Ben"
+            },
+            {
+                "name": "Smith, Brandon Mychal"
+            },
+            {
+                "name": "Miller, Omar Benson"
+            },
+            {
+                "name": "Brener, Josh"
+            },
+            {
+                "name": "Bauza, Eric"
+            },
+            {
+                "name": "Graham, Kat"
+            },
+            {
+                "name": "LaMarche, Maurice"
+            },
+            {
+                "name": "Tatasciore, Fred"
+            },
+            {
+                "name": "Paulsen, Rob"
+            },
+            {
+                "name": "Marshall, Vanessa"
+            },
+            {
+                "name": "Darby, Rhys"
+            },
+            {
+                "name": "Milo, Candi"
+            },
+            {
+                "name": "Cena, John"
+            },
+            {
+                "name": "Summer, Cree"
+            },
+            {
+                "name": "Lydon, John"
+            },
+            {
+                "name": "Richardson, Sam"
+            },
+            {
+                "name": "Simons, Timothy"
+            },
+            {
+                "name": "Kenny, Tom"
+            },
+            {
+                "name": "Higgins, John Michael"
+            },
+            {
+                "name": "Foley, Alina"
+            },
+            {
+                "name": "Kaufman, Henry"
+            },
+            {
+                "name": "Talley, Jill"
+            },
+            {
+                "name": "Van Orman, Thurop"
+            },
+            {
+                "name": "Gutiérrez, Jorge R."
+            },
+            {
+                "name": "Boat, David"
+            },
+            {
+                "name": "Williams, Zelda"
+            },
+            {
+                "name": "DiMaggio, John"
+            },
+            {
+                "name": "Griffin, Grey"
+            },
+            {
+                "name": "Busch, Ian"
+            },
+            {
+                "name": "Byrd, Eugene"
+            },
+            {
+                "name": "Daily, Elizabeth"
+            },
+            {
+                "name": "Foley, Dave"
+            },
+            {
+                "name": "Gunadi, Tania"
+            },
+            {
+                "name": "Hamilton, Ramone"
+            },
+            {
+                "name": "Headey, Lena"
+            },
+            {
+                "name": "Massey, Kyle"
+            },
+            {
+                "name": "McKellar, Danica"
+            },
+            {
+                "name": "Menville, Scott"
+            },
+            {
+                "name": "North, Nolan"
+            },
+            {
+                "name": "Schneider, Eliza"
+            },
+            {
+                "name": "Sodaro, Betsy"
+            },
+            {
+                "name": "Cipes, Greg"
+            },
+            {
+                "name": "Mantzoukas, Jason"
+            },
+            {
+                "name": "Scheer, Paul"
+            }
+        ],
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "runtimes": [
+            "22"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "United States:TV-Y7-FV"
+        ],
+        "number of seasons": 2,
+        "rating": 5.5,
+        "votes": 1526,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOTkyNDI2MzI3NF5BMl5BanBnXkFtZTgwNDc5NDY5NTM@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Rise of the Teenage Mutant Ninja Turtles",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1",
+            "2"
+        ],
+        "writer": [
+            {
+                "name": "Busch, Ian"
+            },
+            {
+                "name": "Carney, Russ"
+            },
+            {
+                "name": "Corcillo, Ron"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Nickelodeon Animation Studios"
+            },
+            {
+                "name": "Mirage Studios"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Nickelodeon Network"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Boom Box Post"
+            },
+            {
+                "name": "DigiToonz Media & Entertainment"
+            },
+            {
+                "name": "Flying Bark Productions"
+            },
+            {
+                "name": "Warner Bros. Post Production Services"
+            }
+        ],
+        "plot": [
+            "Four mutant turtle brothers go on adventures where they end up tapping into mystic ninja powers."
+        ],
+        "tech": {
+            "runtime": [
+                "22 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1526,
+                "rating": 5.5
+            },
+            "aged under 18": {
+                "votes": 15,
+                "rating": 5.7
+            },
+            "aged 18 29": {
+                "votes": 252,
+                "rating": 6.1
+            },
+            "aged 30 44": {
+                "votes": 220,
+                "rating": 3.6
+            },
+            "aged 45 plus": {
+                "votes": 23,
+                "rating": 4.4
+            },
+            "males": {
+                "votes": 413,
+                "rating": 4.1
+            },
+            "males aged under 18": {
+                "votes": 9,
+                "rating": 5.1
+            },
+            "males aged 18 29": {
+                "votes": 111,
+                "rating": 5.2
+            },
+            "males aged 30 44": {
+                "votes": 175,
+                "rating": 3.4
+            },
+            "males aged 45 plus": {
+                "votes": 19,
+                "rating": 4.5
+            },
+            "females": {
+                "votes": 335,
+                "rating": 7.5
+            },
+            "females aged under 18": {
+                "votes": 4,
+                "rating": 10.0
+            },
+            "females aged 18 29": {
+                "votes": 126,
+                "rating": 7.8
+            },
+            "females aged 30 44": {
+                "votes": 40,
+                "rating": 5.0
+            },
+            "females aged 45 plus": {
+                "votes": 4,
+                "rating": 6.0
+            },
+            "top 1000 voters": {
+                "votes": 14,
+                "rating": 6.5
+            },
+            "us users": {
+                "votes": 230,
+                "rating": 4.3
+            },
+            "non us users": {
+                "votes": 179,
+                "rating": 4.9
+            }
+        },
+        "number of votes": {
+            "10": 837,
+            "9": 69,
+            "8": 56,
+            "7": 45,
+            "6": 35,
+            "5": 33,
+            "4": 23,
+            "3": 34,
+            "2": 48,
+            "1": 346
+        },
+        "arithmetic mean": 7.1,
+        "median": 1
+    }
+}

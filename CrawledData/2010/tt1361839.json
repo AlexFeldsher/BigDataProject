@@ -1,0 +1,684 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "11 March 2010"
+            },
+            {
+                "country": "USA\n",
+                "date": "14 March 2010"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "May 2010"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "4 October 2010"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "6 December 2010"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "25 June 2011",
+                "notes": "                            (Flemish speaking region)"
+            },
+            {
+                "country": "Czech Republic\n",
+                "date": "10 December 2011"
+            },
+            {
+                "country": "Finland\n",
+                "date": "14 December 2012"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "5 January 2013",
+                "notes": "                            (French speaking region)"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "6 February 2014"
+            }
+        ],
+        "release dates": [
+            "Canada::11 March 2010",
+            "USA::14 March 2010",
+            "Hungary::May 2010",
+            "Hungary::4 October 2010",
+            "Sweden::6 December 2010",
+            "Belgium::25 June 2011                            (Flemish speaking region)",
+            "Czech Republic::10 December 2011",
+            "Finland::14 December 2012",
+            "Belgium::5 January 2013                            (French speaking region)",
+            "Netherlands::6 February 2014"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Sons of Tucson"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Os Filhos de Tucson"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Баща под наем"
+            },
+            {
+                "countries": "Finland",
+                "title": "Tucsonin veljekset"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Pótfater"
+            },
+            {
+                "countries": "Italy",
+                "title": "Padre in affitto"
+            },
+            {
+                "countries": "Russia",
+                "title": "Сынки Тусона"
+            },
+            {
+                "countries": "Spain",
+                "title": "Hijos de Tucson"
+            }
+        ],
+        "akas": [
+            "Sons of Tucson (original title)",
+            "Os Filhos de Tucson Brazil",
+            "Баща под наем Bulgaria (Bulgarian title)",
+            "Tucsonin veljekset Finland",
+            "Pótfater Hungary",
+            "Padre in affitto Italy",
+            "Сынки Тусона Russia",
+            "Hijos de Tucson Spain"
+        ],
+        "akas from release info": [
+            "Sons of Tucson (original title)",
+            "Os Filhos de Tucson Brazil",
+            "Баща под наем Bulgaria (Bulgarian title)",
+            "Tucsonin veljekset Finland",
+            "Pótfater Hungary",
+            "Padre in affitto Italy",
+            "Сынки Тусона Russia",
+            "Hijos de Tucson Spain"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Tucson (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 88,
+                    "original air date": "14 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    When the Gunderson boys - Brandon, Gary and Robby - hire Ron Snuffkin to pretend to be their father after their real father goes to prison, they find out that there's more to their \"fake\" dad than meets the eye. Ron has to enroll them in school, convince Robby's teacher to keep him in her class, sweet-talk the principal, locate mint-condition toy soldiers at his grandmother's house and avoid a thug who wants his money.    "
+                },
+                "2": {
+                    "title": "The Break-In",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Tucson (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 66,
+                    "original air date": "21 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Ron convinces his old buddy Glenn to stage a burglary in order to scare the boys, and get himself out of the storage shed and into the house.    "
+                },
+                "3": {
+                    "title": "The Golden Ticket",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Tucson (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 71,
+                    "original air date": "28 Mar. 2010",
+                    "year": "2010",
+                    "plot": "\n    Ron sets up a sleepover for a nerd with the boys so that he can get a \"Golden Ticket\" from the boy's police officer father.    "
+                },
+                "4": {
+                    "title": "Family Album",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Tucson (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 60,
+                    "original air date": "4 Apr. 2010",
+                    "year": "2010",
+                    "plot": "\n    Ron and the boys try to make the house presentable and create family photos when Robby's teacher comes to pay a visit.    "
+                },
+                "5": {
+                    "title": "Chicken Pox",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Tucson (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 68,
+                    "original air date": "6 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    Ron comes to the boys' aid when they all get Chicken Pox, mistakenly believing that he already had Chicken Pox when he was a kid.    "
+                },
+                "6": {
+                    "title": "The Debate Trip",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Tucson (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 56,
+                    "original air date": "13 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    Ron takes Gary to Flagstaff for a debate team tournament. Meanwhile, Angela discovers that Robby and Brandon are home alone and tries to take care of them.    "
+                },
+                "7": {
+                    "title": "Father's Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Tucson (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 51,
+                    "original air date": "20 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    Ron gets burned when he mistakenly assumes that the big Father's Day plans the boys are making for their real father are actually for him.    "
+                },
+                "8": {
+                    "title": "Gina",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Tucson (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 53,
+                    "original air date": "27 Jun. 2010",
+                    "year": "2010",
+                    "plot": "\n    Ron encounters his lost love and tries to get her back. Gary prepares his science fair experiment by taming bees. Brandon tries to get back the love of his life after a one week break up.    "
+                },
+                "9": {
+                    "title": "Dog Days of Tucson",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Tucson (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 55,
+                    "original air date": "4 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    Ron gets a dog for the boys, only to discover that he actually got them a wolf.    "
+                },
+                "10": {
+                    "title": "Kisses and Beads",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Tucson (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 60,
+                    "original air date": "11 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    Gary pays $500 to Ron for getting the first kiss with his crush. Ron realizes how to get Robby some friends and earn another $500. This would allow him to bet $1,000 on a sure winner in a dog race.    "
+                },
+                "11": {
+                    "title": "Glenn's Birthday",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Tucson (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 49,
+                    "original air date": "18 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    Ron is going to take Glenn to an adult film convention. However, Ron is supposed to watch Robby, because Gary and Brandon have band practice. So Ron takes Robby along. Meanwhile, Brandon seizes band leadership from Gary.    "
+                },
+                "12": {
+                    "title": "Sally Teel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Tucson (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 12,
+                    "votes": 49,
+                    "original air date": "25 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    Brandon gets the temp job at Ron's workplace. A girl named Sally can't find a partner to a dance contest. To get her in (and half of the $5,000 for each winner prize for himself), Ron forces Robby to be her partner. Gary becomes his coach.    "
+                },
+                "13": {
+                    "title": "Ron Quits",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Sons of Tucson (TV Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 13,
+                    "votes": 54,
+                    "original air date": "1 Aug. 2010",
+                    "year": "2010",
+                    "plot": "\n    Ron decides to quit.    "
+                }
+            }
+        },
+        "number of episodes": 13,
+        "cast": [
+            {
+                "name": "Labine, Tyler"
+            },
+            {
+                "name": "Dolce, Frank"
+            },
+            {
+                "name": "Levy, Matthew"
+            },
+            {
+                "name": "Stockham, Benjamin"
+            },
+            {
+                "name": "Truglio, Joe Lo"
+            },
+            {
+                "name": "Blue, Sarayu"
+            },
+            {
+                "name": "Horse, Michael"
+            },
+            {
+                "name": "Bravo, Edwin H."
+            },
+            {
+                "name": "Martinez, Natalie"
+            },
+            {
+                "name": "Breckenridge, Alexandra"
+            },
+            {
+                "name": "Handleson, Buddy"
+            },
+            {
+                "name": "Kesler, Ian Reed"
+            },
+            {
+                "name": "Ellison, Lacey"
+            },
+            {
+                "name": "Lawrence, Nilsson"
+            },
+            {
+                "name": "Bethune, Patricia"
+            },
+            {
+                "name": "Wheeler, Matt"
+            },
+            {
+                "name": "Bissete, Jasmine"
+            },
+            {
+                "name": "Cochrane, Mike"
+            },
+            {
+                "name": "Urban, Tai"
+            },
+            {
+                "name": "Falcone, Ben"
+            },
+            {
+                "name": "Fuller, Kurt"
+            },
+            {
+                "name": "Letscher, Brian"
+            },
+            {
+                "name": "Clair, Jessica St."
+            },
+            {
+                "name": "Doucette, Jeff"
+            },
+            {
+                "name": "Kostroff, Michael"
+            },
+            {
+                "name": "Loring, Scotch Ellis"
+            },
+            {
+                "name": "Ziering, Nikki"
+            },
+            {
+                "name": "Alvarado, Allen"
+            },
+            {
+                "name": "Courtney, Stephanie"
+            },
+            {
+                "name": "Greenberg, Will"
+            },
+            {
+                "name": "Key, Keegan-Michael"
+            },
+            {
+                "name": "McGill, Michael Patrick"
+            },
+            {
+                "name": "Reibel, Stephanie"
+            },
+            {
+                "name": "Travis, Stacey"
+            },
+            {
+                "name": "Garza, Lydia Blanco"
+            },
+            {
+                "name": "Jr., Terrence Hardy"
+            },
+            {
+                "name": "Klace, Scott"
+            },
+            {
+                "name": "Miller, Mia Angel"
+            },
+            {
+                "name": "Paton, Angela"
+            },
+            {
+                "name": "Russell, Brian Keith"
+            },
+            {
+                "name": "Scott, Stefanie"
+            },
+            {
+                "name": "Steinfeld, Hailee"
+            },
+            {
+                "name": "Tju, Brianne"
+            },
+            {
+                "name": "Bailey, Noelani"
+            },
+            {
+                "name": "Berfield, Justin"
+            },
+            {
+                "name": "Burrs, Marcia Ann"
+            },
+            {
+                "name": "Coppa, Bret Irving"
+            },
+            {
+                "name": "Hyder, Jamie Gray"
+            },
+            {
+                "name": "Lynn, Breanna"
+            },
+            {
+                "name": "Molina, Rolando"
+            }
+        ],
+        "locations": [
+            "Santa Clarita, California, USA"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Australia:PG",
+            "Netherlands:6"
+        ],
+        "number of seasons": 1,
+        "rating": 7.2,
+        "votes": 1907,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BOGUzOTRjZDUtYTEzMy00Y2VkLThhZjEtZGFjYmEzYTM1YzdkXkEyXkFqcGdeQXVyNjU2NjA5NjM@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "Sons of Tucson is a family comedy about three brothers who hire a charming, wayward schemer to stand in as their father when their real one goes to prison. What begins as a business relationship evolves into something more complex and compelling: a family unlike any we've ever seen. The three brothers find their dad-for-hire, Ron Snuffkin (Tyler Labine), at the local sporting good store. Ron will be forced to draw on a wide array of skills and a vast bag of tricks as he steps into the patriarch role to take care of the boys of the Gunderson family. Robby Gunderson, 8, is a loose cannon who doesn't respond well to authority; Gary Gunderson, 11, is a bright and street-savvy leader who is every bit the con man his father is; and Brandon Gunderson, 13, is a gentle free spirit who simply goes along for the ride. Maggie Morales (Natalie Martinez), Robby's second-grade teacher and the object of Ron's affection, might just be the only stable figure in the lives of this quirky quartet. While Sons of Tucson is grounded in the day-to-day challenges of a single-parent home, nothing in the Gunderson household is quite what it seems. An ongoing chess match between Ron and the boys will keep both parties on their toes, as neither side can afford to give up too much power or independence.",
+        "languages": [
+            "English"
+        ],
+        "title": "Sons of Tucson",
+        "year": 2010,
+        "kind": "tv series",
+        "series years": "2010-2010",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Bratman, Greg"
+            },
+            {
+                "name": "Dewey, Tommy"
+            },
+            {
+                "name": "Korzec, Kristi"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Dewman Productions"
+            },
+            {
+                "name": "J2TV"
+            },
+            {
+                "name": "20th Century Fox Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Fox Network"
+            },
+            {
+                "name": "Global"
+            },
+            {
+                "name": "Club RTL"
+            },
+            {
+                "name": "Comedy Central"
+            },
+            {
+                "name": "Mainostelevisio (MTV3)"
+            },
+            {
+                "name": "Prima TV"
+            },
+            {
+                "name": "RTL Entertainment"
+            },
+            {
+                "name": "Vlaamse Televisie Maatschappij (VTM)"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Look Effects"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "BAM Studios"
+            },
+            {
+                "name": "Central Casting"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Cut Music"
+            },
+            {
+                "name": "Inter Video"
+            },
+            {
+                "name": "Movie Movers"
+            },
+            {
+                "name": "Panavision"
+            },
+            {
+                "name": "RH Factor"
+            },
+            {
+                "name": "Soundtrack New York"
+            }
+        ],
+        "plot": [
+            "Three young brothers hire a charming, wayward schemer to stand in as their father when their real one goes to prison.::edlitz36",
+            "_Sons of Tucson_ (qv) is a family comedy about three brothers who hire a charming, wayward schemer to stand in as their father when their real one goes to prison. What begins as a business relationship evolves into something more complex and compelling: a family unlike any we've ever seen. The three brothers find their dad-for-hire, Ron Snuffkin (Tyler Labine), at the local sporting good store. Ron will be forced to draw on a wide array of skills and a vast bag of tricks as he steps into the patriarch role to take care of the boys of the Gunderson family. Robby Gunderson, 8, is a loose cannon who doesn't respond well to authority; Gary Gunderson, 11, is a bright and street-savvy leader who is every bit the con man his father is; and Brandon Gunderson, 13, is a gentle free spirit who simply goes along for the ride. Maggie Morales (Natalie Martinez), Robby's second-grade teacher and the object of Ron's affection, might just be the only stable figure in the lives of this quirky quartet. While _Sons of Tucson_ (qv) is grounded in the day-to-day challenges of a single-parent home, nothing in the Gunderson household is quite what it seems. An ongoing chess match between Ron and the boys will keep both parties on their toes, as neither side can afford to give up too much power or independence.::slaks"
+        ],
+        "tech": {
+            "runtime": [
+                "30 min (13 episodes)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Panavision Genesis HD Camera"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 1907,
+                "rating": 7.2
+            },
+            "aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "aged 18 29": {
+                "votes": 433,
+                "rating": 7.2
+            },
+            "aged 30 44": {
+                "votes": 912,
+                "rating": 7.3
+            },
+            "aged 45 plus": {
+                "votes": 260,
+                "rating": 6.8
+            },
+            "males": {
+                "votes": 1341,
+                "rating": 7.1
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 10.0
+            },
+            "males aged 18 29": {
+                "votes": 345,
+                "rating": 7.2
+            },
+            "males aged 30 44": {
+                "votes": 753,
+                "rating": 7.2
+            },
+            "males aged 45 plus": {
+                "votes": 196,
+                "rating": 6.6
+            },
+            "females": {
+                "votes": 305,
+                "rating": 7.5
+            },
+            "females aged 18 29": {
+                "votes": 84,
+                "rating": 7.3
+            },
+            "females aged 30 44": {
+                "votes": 150,
+                "rating": 7.6
+            },
+            "females aged 45 plus": {
+                "votes": 58,
+                "rating": 7.6
+            },
+            "top 1000 voters": {
+                "votes": 48,
+                "rating": 5.9
+            },
+            "us users": {
+                "votes": 778,
+                "rating": 7.3
+            },
+            "non us users": {
+                "votes": 627,
+                "rating": 7.1
+            }
+        },
+        "number of votes": {
+            "10": 433,
+            "9": 209,
+            "8": 400,
+            "7": 381,
+            "6": 200,
+            "5": 88,
+            "4": 49,
+            "3": 39,
+            "2": 36,
+            "1": 72
+        },
+        "arithmetic mean": 7.4,
+        "median": 8
+    }
+}

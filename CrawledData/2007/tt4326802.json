@@ -1,0 +1,98 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Germany\n",
+                "date": "1 February 2007"
+            },
+            {
+                "country": "Germany\n",
+                "date": "1 October 2007"
+            }
+        ],
+        "release dates": [
+            "Germany::1 February 2007",
+            "Germany::1 October 2007"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Games Magazine (TV Series 2007–2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "1 Feb. 2007",
+                    "year": "2007",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Haghiri, Sina"
+            },
+            {
+                "name": "Imdahl, Christiane"
+            }
+        ],
+        "genres": [
+            "Game-Show",
+            "News"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "Germany"
+        ],
+        "country codes": [
+            "de"
+        ],
+        "language codes": [
+            "de"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTU1OTQ0NzI2MF5BMl5BanBnXkFtZTgwNjg2NzM5MzE@._V1_SY150_CR5,0,101,150_.jpg",
+        "languages": [
+            "German"
+        ],
+        "title": "Games Magazine",
+        "year": 2007,
+        "kind": "tv series",
+        "series years": "2007-2009",
+        "akas": [
+            "Games Magazine (Germany)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "distributors": [
+            {
+                "name": "E.clips Fernsehen"
+            },
+            {
+                "name": "Sky"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "30 min"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        }
+    }
+}

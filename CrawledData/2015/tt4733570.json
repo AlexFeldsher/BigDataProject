@@ -1,0 +1,114 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "June 2015"
+            },
+            {
+                "country": "USA\n",
+                "date": "17 June 2015"
+            }
+        ],
+        "release dates": [
+            "USA::June 2015",
+            "USA::17 June 2015"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The 001 Files (TV Series 2015– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "17 Jun. 2015",
+                    "year": "2015",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Cockroft, Luke"
+            },
+            {
+                "name": "Hook, Sam"
+            },
+            {
+                "name": "Thompson, Ed"
+            },
+            {
+                "name": "Scruggs, William"
+            },
+            {
+                "name": "Brown, Steven"
+            },
+            {
+                "name": "Cockroft, Mark"
+            },
+            {
+                "name": "Ormiston, Andy"
+            }
+        ],
+        "genres": [
+            "Adventure"
+        ],
+        "runtimes": [
+            "25"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "The 001 Files",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-",
+        "akas": [
+            "The 001 Files (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Cockroft, Mark"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Big Brother Productions"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Big Brother Productions"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "25 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

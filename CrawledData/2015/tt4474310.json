@@ -1,0 +1,583 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "24 September 2015"
+            },
+            {
+                "country": "Germany\n",
+                "date": "25 September 2015"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "29 December 2015"
+            },
+            {
+                "country": "Japan\n",
+                "date": "9 April 2016"
+            },
+            {
+                "country": "UK\n",
+                "date": "21 October 2016"
+            }
+        ],
+        "release dates": [
+            "USA::24 September 2015",
+            "Germany::25 September 2015",
+            "Belgium::29 December 2015",
+            "Japan::9 April 2016",
+            "UK::21 October 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Player"
+            },
+            {
+                "countries": "Brazil",
+                "title": "O Jogador"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Играчът"
+            },
+            {
+                "countries": "Romania",
+                "title": "Jucatorul"
+            },
+            {
+                "countries": "Russia",
+                "title": "Игрок"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Igrač"
+            }
+        ],
+        "akas": [
+            "The Player (original title)",
+            "O Jogador Brazil",
+            "Играчът Bulgaria (Bulgarian title)",
+            "Jucatorul Romania",
+            "Игрок Russia",
+            "Igrač Serbia"
+        ],
+        "akas from release info": [
+            "The Player (original title)",
+            "O Jogador Brazil",
+            "Играчът Bulgaria (Bulgarian title)",
+            "Jucatorul Romania",
+            "Игрок Russia",
+            "Igrač Serbia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Player (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 384,
+                    "original air date": "24 Sep. 2015",
+                    "year": "2015",
+                    "plot": "\n    The series premiere introduces Alex Kane, a security expert who encounters an elite gambling organization called the House that is led by the mysterious Mr. Johnson. Kane joins the group, whose members place bets on whether he can prevent future crimes in hopes that they can assist him in catching his ex-wife's murderer.    "
+                },
+                "2": {
+                    "title": "Ante Up",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Player (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 286,
+                    "original air date": "1 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    While out to stop a diamond heist, Kane runs into a former old colleague who is looking for information; while attending Ginny's funeral, Kane uncovers shocking evidence about her murder.    "
+                },
+                "3": {
+                    "title": "L.A. Takedown",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Player (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 249,
+                    "original air date": "8 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Alex travels to Los Angeles to stop the Southwest Sniper before he kills again.    "
+                },
+                "4": {
+                    "title": "The Big Blind",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Player (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 221,
+                    "original air date": "15 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    Det. Brown discovers the truth about a hit man, leading him to arrest Alex's client. Meanwhile, Mr. Johnson helps Alex uncover clues about Ginny's murder, but Cassandra has her own plan.    "
+                },
+                "5": {
+                    "title": "House Rules",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Player (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 212,
+                    "original air date": "22 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    A student hacks the Pentagon and Alex attempts to protect him from both the House and the Chinese government; and new discoveries are made about Ginny's whereabouts. Meanwhile, Mr. Johnson takes drastic measures after issues arise with an old friend.    "
+                },
+                "6": {
+                    "title": "The Norseman",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Player (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 206,
+                    "original air date": "29 Oct. 2015",
+                    "year": "2015",
+                    "plot": "\n    The House bets on whether Alex can stop a serial killer by Halloween; Detective Brown pursues Cassandra.    "
+                },
+                "7": {
+                    "title": "A House Is Not a Home",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Player (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 179,
+                    "original air date": "5 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Kane tries to stop an angry father from seeking revenge; Cassandra sends Kane to the location of the next attack; Mr. Johnson has an underlying motive for going to Chicago.    "
+                },
+                "8": {
+                    "title": "Downtown Odds",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Player (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 166,
+                    "original air date": "12 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Alex intervenes to stop a mysterious newcomer to the Las Vegas drug scene from instigating a gang turf war.    "
+                },
+                "9": {
+                    "title": "Tell",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Player (TV Series 2015)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 173,
+                    "original air date": "19 Nov. 2015",
+                    "year": "2015",
+                    "plot": "\n    Alex and Cassandra team up to find a rogue former US Marshal who holds the key to Ginny's disappearance.    "
+                }
+            }
+        },
+        "number of episodes": 9,
+        "cast": [
+            {
+                "name": "Winchester, Philip"
+            },
+            {
+                "name": "Gupton, Damon"
+            },
+            {
+                "name": "Snipes, Wesley"
+            },
+            {
+                "name": "Wakefield, Charity"
+            },
+            {
+                "name": "Betts, Daisy"
+            },
+            {
+                "name": "Strickland, KaDee"
+            },
+            {
+                "name": "Wechsler, Nick"
+            },
+            {
+                "name": "Leland, Molly"
+            },
+            {
+                "name": "Grosbeck, Courtney"
+            },
+            {
+                "name": "Ybarra, Dustin"
+            },
+            {
+                "name": "Roundtree, Richard"
+            },
+            {
+                "name": "Marlow, Jeff"
+            },
+            {
+                "name": "Richàrd, Keiana"
+            },
+            {
+                "name": "Holt, Joe"
+            },
+            {
+                "name": "Barnbrook, Jacquie"
+            },
+            {
+                "name": "Sharp, Keesha"
+            },
+            {
+                "name": "Rennie, Adam Ryan"
+            },
+            {
+                "name": "Ballesteros, Chasty"
+            },
+            {
+                "name": "Olyaie, Afsheen"
+            },
+            {
+                "name": "Giovinazzo, Carmine"
+            },
+            {
+                "name": "Irby, Michael"
+            },
+            {
+                "name": "Astin, Mackenzie"
+            },
+            {
+                "name": "Boyar, Lombardo"
+            },
+            {
+                "name": "Dent, Catherine"
+            },
+            {
+                "name": "Dodani, Nik"
+            },
+            {
+                "name": "Fahey, Jeff"
+            },
+            {
+                "name": "Rota, Carlo"
+            },
+            {
+                "name": "Sikora, Joseph"
+            },
+            {
+                "name": "Brennan, Patrick"
+            },
+            {
+                "name": "Castañeda, David"
+            },
+            {
+                "name": "Celasco, Gerardo"
+            },
+            {
+                "name": "Deloach, Nikki"
+            },
+            {
+                "name": "Gautreaux, David"
+            },
+            {
+                "name": "Lee, Will Yun"
+            },
+            {
+                "name": "Sleiman, Haaz"
+            },
+            {
+                "name": "Adams, Isiah"
+            },
+            {
+                "name": "Criss, Anthony 'Treach'"
+            },
+            {
+                "name": "Dourif, Fiona"
+            },
+            {
+                "name": "Roberts, Eric"
+            },
+            {
+                "name": "Roberts, Jonno"
+            },
+            {
+                "name": "Vidal, Christina"
+            },
+            {
+                "name": "Ally, Usman"
+            },
+            {
+                "name": "De Ocampo, Ramon"
+            },
+            {
+                "name": "Heyerdahl, Christopher"
+            },
+            {
+                "name": "Nicotera, Niko"
+            },
+            {
+                "name": "Sebastian, Lobo"
+            },
+            {
+                "name": "Bender, Jade"
+            },
+            {
+                "name": "Clennon, David"
+            },
+            {
+                "name": "Diaz, Eddie"
+            },
+            {
+                "name": "Zúñiga, José"
+            }
+        ],
+        "locations": [
+            "Albuquerque Convention Center - 401 2nd Street NW, Albuquerque, New Mexico, USA",
+            "Las Vegas, Nevada, USA",
+            "Santa Clarita, California, USA"
+        ],
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Singapore:PG13::(digital streaming)",
+            "United States:TV-14"
+        ],
+        "number of seasons": 1,
+        "rating": 7.1,
+        "votes": 6744,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTQ2MzEyMTE4Ml5BMl5BanBnXkFtZTgwMjgwMDI2NjE@._V1_SY150_CR0,0,101,150_.jpg",
+        "plot outline": "From the executive producers of The Blacklist comes a new edge-of-your-seat Las Vegas thrill ride starring Wesley Snipes and Philip Winchester. Running a high-stakes game of life and death, pit boss Mr. Johnson enlists Alex Kane, a former military man, to race against the clock to stop unthinkable crimes. Place your bets.",
+        "languages": [
+            "English"
+        ],
+        "title": "The Player",
+        "year": 2015,
+        "kind": "tv series",
+        "series years": "2015-2015",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Fox, John"
+            },
+            {
+                "name": "Rogers, John"
+            },
+            {
+                "name": "Bosack, Matt"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Davis Entertainment"
+            },
+            {
+                "name": "Kung Fu Monkey Productions"
+            },
+            {
+                "name": "Universal Television"
+            },
+            {
+                "name": "Sony Pictures Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "National Broadcasting Company (NBC)"
+            },
+            {
+                "name": "Eén"
+            },
+            {
+                "name": "WOWOW Prime"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "J.E.M. F/X"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Allan Padelford Camera Cars"
+            },
+            {
+                "name": "BT Industrial Supply"
+            },
+            {
+                "name": "Camtec Motion Picture Camera Systems"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Ohana Camera Expendables"
+            },
+            {
+                "name": "Pictorvision"
+            },
+            {
+                "name": "Shine"
+            }
+        ],
+        "plot": [
+            "A former intelligence and FBI officer, who now works as a security expert in Las Vegas, is recruited by mysterious pit boss Mr. Johnson to, based on his tips, try to prevent crimes, while the rich place bets on his chances of success.::Anonymous",
+            "From the executive producers of The Blacklist comes a new edge-of-your-seat Las Vegas thrill ride starring Wesley Snipes and Philip Winchester. Running a high-stakes game of life and death, pit boss Mr. Johnson enlists Alex Kane, a former military man, to race against the clock to stop unthinkable crimes. Place your bets.",
+            "Alex Kane is a master security expert, who lives in Las Vegas and is respected by his clients for his expertise and professionalism. His previous career as an intelligence operative and FBI agent ended badly, when he was sent on one secret mission too many and began to enjoy shooting the bad guys a bit too much. Eventually, he himself got shot on a mission and a pretty young doctor, Virginia \"Ginny\" Lee, who took care of him while he was recuperating, gave him a reason to leave the life of danger and death behind. They soon got married, but eventually divorced and remained on good terms. Just as they're about to rekindle their relationship, a masked man shoots her and tries to kill Alex. Alex fights him off and chases after him. Just as he's about to take the attacker out, Alex is hit by a car driven by a mysterious blond, who takes him to the high tech office of secretive and laconic Mr. Johnson. He's sort of a pit boss, who runs a highly secretive and illegal game of chance, where a selected player, usually a former special ops or intelligence agent, must prevent a crime Mr. Johnson and his feisty blond assistant and key operative Cassandra King predict. The filthy rich know about the game and bet on the player's chances of success. To predict crimes, a highly sophisticated intelligence system is used. It analyzes enormous amounts of data collected through spying, public surveillance and hacking and concludes through background analysis and statistical probability, who and when plans to commit a crime or finds those that did and are about to do it again. Alex is offered a choice to become the player and save lives as well as learn why he and his late wife were attacked, while Mr. Johnson's clients enjoy their twisted high rollers game. During missions, Alex gets all the help he needs from Cassandra and the game's unfathomably powerful intelligence system, but can't call the police or anyone else for help. He gets.to keep his normal life in-between missions (aka bets), but he also must keep the existence of the game a secret under threat of death, even though his hacker friend Donovan, his ex-sister in law's good but rebellious teen daughter Dani, who sees him as a father figure, and his old friend, a suspicious Las Vegas Police Detective Cal Brown, want to know if he's in some sort of trouble. Alex soon begins to suspect that his ex-wife was not actually killed by the shooter, Cassandra shows signs that she may not be doing her job completely willingly and Mr. Johnson may not be as apathetic as he usually seems. Can Alex beat the odds enough times to get to the truth about his ex-wife and escape the game?"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 6744,
+                "rating": 7.1
+            },
+            "aged under 18": {
+                "votes": 5,
+                "rating": 4.0
+            },
+            "aged 18 29": {
+                "votes": 1156,
+                "rating": 7.4
+            },
+            "aged 30 44": {
+                "votes": 2272,
+                "rating": 6.8
+            },
+            "aged 45 plus": {
+                "votes": 1307,
+                "rating": 7.0
+            },
+            "males": {
+                "votes": 3914,
+                "rating": 7.0
+            },
+            "males aged under 18": {
+                "votes": 5,
+                "rating": 4.0
+            },
+            "males aged 18 29": {
+                "votes": 961,
+                "rating": 7.4
+            },
+            "males aged 30 44": {
+                "votes": 1756,
+                "rating": 6.8
+            },
+            "males aged 45 plus": {
+                "votes": 891,
+                "rating": 6.9
+            },
+            "females": {
+                "votes": 1154,
+                "rating": 7.2
+            },
+            "females aged 18 29": {
+                "votes": 181,
+                "rating": 7.4
+            },
+            "females aged 30 44": {
+                "votes": 484,
+                "rating": 7.0
+            },
+            "females aged 45 plus": {
+                "votes": 402,
+                "rating": 7.3
+            },
+            "top 1000 voters": {
+                "votes": 105,
+                "rating": 6.0
+            },
+            "us users": {
+                "votes": 1251,
+                "rating": 7.3
+            },
+            "non us users": {
+                "votes": 2183,
+                "rating": 6.6
+            }
+        },
+        "number of votes": {
+            "10": 1408,
+            "9": 837,
+            "8": 1455,
+            "7": 1326,
+            "6": 688,
+            "5": 401,
+            "4": 184,
+            "3": 122,
+            "2": 95,
+            "1": 228
+        },
+        "arithmetic mean": 7.4,
+        "median": 8
+    }
+}

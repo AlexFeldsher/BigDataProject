@@ -1,0 +1,580 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "16 October 2018"
+            },
+            {
+                "country": "USA\n",
+                "date": "16 October 2018"
+            },
+            {
+                "country": "Australia\n",
+                "date": "22 November 2018"
+            },
+            {
+                "country": "Austria\n",
+                "date": "30 November 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "30 November 2018",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Germany\n",
+                "date": "13 February 2019"
+            }
+        ],
+        "release dates": [
+            "Canada::16 October 2018",
+            "USA::16 October 2018",
+            "Australia::22 November 2018",
+            "Austria::30 November 2018                            (internet)",
+            "Germany::30 November 2018                            (internet)",
+            "Germany::13 February 2019"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Conners"
+            },
+            {
+                "countries": "Germany",
+                "title": "Die Conners"
+            },
+            {
+                "countries": "Russia",
+                "title": "Коннеры"
+            },
+            {
+                "countries": "Spain",
+                "title": "Los Conner"
+            },
+            {
+                "countries": "USA (working title)",
+                "title": "Untitled \"Roseanne\" Spinoff"
+            }
+        ],
+        "akas": [
+            "The Conners (original title)",
+            "Die Conners Germany",
+            "Коннеры Russia",
+            "Los Conner Spain",
+            "Untitled \"Roseanne\" Spinoff USA (working title)"
+        ],
+        "akas from release info": [
+            "The Conners (original title)",
+            "Die Conners Germany",
+            "Коннеры Russia",
+            "Los Conner Spain",
+            "Untitled \"Roseanne\" Spinoff USA (working title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Keep on Truckin'",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Conners (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 913,
+                    "original air date": "16 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    A sudden turn of events forces the Conners to face the daily struggles of life in Lanford in a way they never have before.    "
+                },
+                "2": {
+                    "title": "Tangled Up in Blue",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Conners (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 544,
+                    "original air date": "23 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    Darlene is in for one surprise after another when David introduces his girlfriend, Blue (Juliette Lewis), at a parent-teacher conference and mentions that Mark and Harris will be spending the weekend with them. Dan hires Becky to help out at work, but they both come to learn that she might need more help than she can offer.    "
+                },
+                "3": {
+                    "title": "There Won't Be Blood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Conners (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 420,
+                    "original air date": "30 Oct. 2018",
+                    "year": "2018",
+                    "plot": "\n    It's Halloween, the favorite time of year for the Conners, but an email from the school banning certain costumes, including Mark's, sets off an argument between Dan and Darlene. Jackie introduces someone new to the family at the Halloween party and insists that Dan vet him, only to immediately wish that she hadn't.    "
+                },
+                "4": {
+                    "title": "The Separation of Church and Dan",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Conners (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 329,
+                    "original air date": "13 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    Geena learns that D.J. hasn't been taking Mary to church while she's been away, so insists they go as a family to uphold her traditional values. To make matters worse, Mary refuses to attend without her cousins Harris and Mark, leaving D.J. in the last situation he wants to be in - at the mercy of Darlene. Meanwhile, Mark's attempt to conduct an unbiased survey on the upcoming election for his school project goes south when Jackie volunteers to help.    "
+                },
+                "5": {
+                    "title": "Miracles",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Conners (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 308,
+                    "original air date": "20 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    A family member drops a life-changing announcement; Dan suspects that Becky isn't sticking to her end of the deal about her drinking; Darlene continues her job search; Jackie offers English lessons to a needful Casa Bonita busboy.    "
+                },
+                "6": {
+                    "title": "One Flew Over the Conners' Nest",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Conners (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 269,
+                    "original air date": "27 Nov. 2018",
+                    "year": "2018",
+                    "plot": "\n    With Mark and Mary's help, Jackie convinces Dan to build a chicken coop in the backyard so the family can eat organic eggs, but from a bird's-eye view, it appears that she may have ulterior motives. Becky meets with Andrea for the first time since the surrogacy mishap, and Darlene is forced to deal with a sleazy customer at her casino job.    "
+                },
+                "7": {
+                    "title": "Hold the Salt",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Conners (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 241,
+                    "original air date": "4 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    Dan questions Peter's motives when he learns about the pricey Christmas gift Jackie purchased for her new, unemployed beau. Elsewhere, Mark and Mary write up their Christmas wish lists, while Darlene receives advice from an unlikely source.    "
+                },
+                "8": {
+                    "title": "O Sister, Where Art Thou?",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Conners (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 235,
+                    "original air date": "11 Dec. 2018",
+                    "year": "2018",
+                    "plot": "\n    When Becky helps Harris keep a secret from Darlene, it opens up a can of worms that causes a rift between the two sisters. Jackie supports Peter with his Nordic history project, and Dan reunites with an old friend.    "
+                },
+                "9": {
+                    "title": "Rage Against the Machine",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Conners (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 157,
+                    "original air date": "8 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    When Dan gets injured on the job covering D.J.'s vending machine route, the choice to sue the company could lead to D.J. getting fired. Meanwhile, Jackie is appalled when Becky seeks life coaching from her nemesis.    "
+                },
+                "10": {
+                    "title": "Don't Shoot the Piano Teacher",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Conners (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 140,
+                    "original air date": "15 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    When Ben offers Mark free piano lessons, Darlene finds this as an opportunity to test his parenting skills. Meanwhile, Jackie throws Becky a baby shower, and Emilio continues his efforts to be part of the baby's life.    "
+                },
+                "11": {
+                    "title": "We Continue to Truck",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Conners (TV Series 2018– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 11,
+                    "votes": 143,
+                    "original air date": "22 Jan. 2019",
+                    "year": "2019",
+                    "plot": "\n    As Darlene grapples with a life-changing offer from Ben, an unexpected conversation with David turns her world even more upside down. Relationship problems lead Jackie to the bottom of the bottle at the last place she remembers being truly happy. Becky's hopes of a happily ever after with Emilio are jeopardized when Dan delivers alarming news.    "
+                }
+            }
+        },
+        "number of episodes": 11,
+        "cast": [
+            {
+                "name": "Goodman, John"
+            },
+            {
+                "name": "Metcalf, Laurie"
+            },
+            {
+                "name": "Gilbert, Sara"
+            },
+            {
+                "name": "Goranson, Alicia"
+            },
+            {
+                "name": "Fishman, Michael"
+            },
+            {
+                "name": "Kenney, Emma"
+            },
+            {
+                "name": "McNamara, Ames"
+            },
+            {
+                "name": "Rey, Jayden"
+            },
+            {
+                "name": "Robinson, Maya Lynne"
+            },
+            {
+                "name": "Ferguson, Jay R."
+            },
+            {
+                "name": "Broderick, Matthew"
+            },
+            {
+                "name": "Lewis, Juliette"
+            },
+            {
+                "name": "Rosado, Rene"
+            },
+            {
+                "name": "Jr., James Pickens"
+            },
+            {
+                "name": "West, Natalie"
+            },
+            {
+                "name": "Liebegott, Ali"
+            },
+            {
+                "name": "Taylor, Stephen Monroe"
+            },
+            {
+                "name": "Brillon, Gina"
+            },
+            {
+                "name": "Long, Justin"
+            },
+            {
+                "name": "Ray, Marques"
+            },
+            {
+                "name": "Chalke, Sarah"
+            },
+            {
+                "name": "Steenburgen, Mary"
+            },
+            {
+                "name": "Gallagher, Peter"
+            },
+            {
+                "name": "Gainey, M.C."
+            },
+            {
+                "name": "Kraft, Lindsey"
+            },
+            {
+                "name": "Paymer, David"
+            },
+            {
+                "name": "Hendrie, Phil"
+            },
+            {
+                "name": "Billingsley, John"
+            },
+            {
+                "name": "Morris, Seth"
+            },
+            {
+                "name": "Sagal, Katey"
+            },
+            {
+                "name": "Texiera, Cheryl"
+            },
+            {
+                "name": "Bates, Paul"
+            },
+            {
+                "name": "Bedian, Anne"
+            },
+            {
+                "name": "Parsons, Estelle"
+            },
+            {
+                "name": "Oliver, Bruno"
+            },
+            {
+                "name": "Zies, Paul"
+            },
+            {
+                "name": "Miller, Blaise"
+            },
+            {
+                "name": "Washnevsky, Alain"
+            },
+            {
+                "name": "Willson, Paul"
+            },
+            {
+                "name": "Gavin, Jesse"
+            },
+            {
+                "name": "Farris, Callan"
+            },
+            {
+                "name": "Fox, Kirk"
+            },
+            {
+                "name": "Lara, Mauricio"
+            },
+            {
+                "name": "Moss, Rosie"
+            },
+            {
+                "name": "Caro, Elizabeth Phoenix"
+            },
+            {
+                "name": "Pulis, Ashton"
+            },
+            {
+                "name": "Relynn, Cassandra"
+            },
+            {
+                "name": "Romero, Xochitl"
+            },
+            {
+                "name": "Galecki, Johnny"
+            }
+        ],
+        "locations": [
+            "Warner Brothers Burbank Studios - 4000 Warner Boulevard, Burbank, California, USA::(studio)",
+            "619 South Runnymeade Avenue, Evansville, Indiana, USA::(exterior shots of the Conner family home)"
+        ],
+        "genres": [
+            "Comedy"
+        ],
+        "runtimes": [
+            "30"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Germany:12::(self applied)",
+            "United States:TV-PG"
+        ],
+        "number of seasons": 1,
+        "rating": 5.1,
+        "votes": 5427,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZDY5ZGJhNDgtNWUwMC00ZTI3LWE4NGItNzI0ZWRiMzhhNTIxXkEyXkFqcGdeQXVyNjYxMzQwNTQ@._V1_SX101_CR0,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Conners",
+        "year": 2018,
+        "kind": "tv series",
+        "series years": "2018-",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Caplan, Dave"
+            },
+            {
+                "name": "Friedman, Jena"
+            },
+            {
+                "name": "Helford, Bruce"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Werner Entertainment"
+            },
+            {
+                "name": "Mohawk Productions"
+            },
+            {
+                "name": "Gilbert Films"
+            },
+            {
+                "name": "Jax Media"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "American Broadcasting Company (ABC)"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Level 3 Post"
+            },
+            {
+                "name": "Panavision"
+            },
+            {
+                "name": "Warner Bros. Studio Facilities"
+            },
+            {
+                "name": "Warner Bros. Studios"
+            },
+            {
+                "name": "Werner Entertainment"
+            }
+        ],
+        "plot": [
+            "Follow-up to the comedy series _Roseanne (1988)_ (qv), centering on the family members of the matriarch after her sudden death."
+        ],
+        "tech": {
+            "runtime": [
+                "30 min (including commercials)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 5427,
+                "rating": 5.1
+            },
+            "aged under 18": {
+                "votes": 6,
+                "rating": 4.4
+            },
+            "aged 18 29": {
+                "votes": 388,
+                "rating": 5.0
+            },
+            "aged 30 44": {
+                "votes": 1749,
+                "rating": 5.3
+            },
+            "aged 45 plus": {
+                "votes": 1190,
+                "rating": 5.1
+            },
+            "males": {
+                "votes": 2427,
+                "rating": 4.7
+            },
+            "males aged under 18": {
+                "votes": 5,
+                "rating": 6.0
+            },
+            "males aged 18 29": {
+                "votes": 254,
+                "rating": 4.8
+            },
+            "males aged 30 44": {
+                "votes": 1128,
+                "rating": 4.9
+            },
+            "males aged 45 plus": {
+                "votes": 689,
+                "rating": 4.6
+            },
+            "females": {
+                "votes": 1424,
+                "rating": 6.1
+            },
+            "females aged under 18": {
+                "votes": 1,
+                "rating": 1.0
+            },
+            "females aged 18 29": {
+                "votes": 123,
+                "rating": 5.5
+            },
+            "females aged 30 44": {
+                "votes": 587,
+                "rating": 6.3
+            },
+            "females aged 45 plus": {
+                "votes": 475,
+                "rating": 6.1
+            },
+            "top 1000 voters": {
+                "votes": 69,
+                "rating": 5.3
+            },
+            "us users": {
+                "votes": 2008,
+                "rating": 5.1
+            },
+            "non us users": {
+                "votes": 671,
+                "rating": 4.8
+            }
+        },
+        "number of votes": {
+            "10": 1283,
+            "9": 344,
+            "8": 512,
+            "7": 441,
+            "6": 210,
+            "5": 131,
+            "4": 102,
+            "3": 118,
+            "2": 217,
+            "1": 2069
+        },
+        "arithmetic mean": 5.2,
+        "median": 6
+    }
+}

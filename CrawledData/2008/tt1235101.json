@@ -1,0 +1,609 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "3 December 2008"
+            },
+            {
+                "country": "Australia\n",
+                "date": "20 September 2010"
+            }
+        ],
+        "release dates": [
+            "USA::3 December 2008",
+            "Australia::20 September 2010"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Secret Millionaire"
+            },
+            {
+                "countries": "Portugal",
+                "title": "O Milionário Secreto"
+            }
+        ],
+        "akas": [
+            "Secret Millionaire (original title)",
+            "O Milionário Secreto Portugal"
+        ],
+        "akas from release info": [
+            "Secret Millionaire (original title)",
+            "O Milionário Secreto Portugal"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "Scott and Alexa Jacobs: Newark, N.J.",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "votes": 6,
+                    "original air date": "3 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Millionaire Scott Jacobs spends six days in Newark, N.J.    "
+                },
+                "2": {
+                    "title": "Chuck Runyon & Dave Mortensen: Oklahoma City",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "original air date": "10 Jun. 2012",
+                    "year": "2012",
+                    "plot": "\n    Chuck Runyon and Dave Mortensen seek individuals deserving of donations.    "
+                },
+                "3": {
+                    "title": "Steve Kaplan: Chicago",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "original air date": "1 Jul. 2012",
+                    "year": "2012",
+                    "plot": "\n    Author Steve Kaplan travels to Chicago.    "
+                },
+                "4": {
+                    "title": "Hilary Decesare: Long Beach, Calif.",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "original air date": "8 Jul. 2012",
+                    "year": "2012",
+                    "plot": "\n    Everloop CEO Hilary Decesare heads to Long Beach, California.    "
+                },
+                "5": {
+                    "title": "Jeff Usner: San Antonio",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "original air date": "15 Jul. 2012",
+                    "year": "2012",
+                    "plot": "\n    Millionaire Jeff Usner heads to an impoverished area of San Antonio.    "
+                },
+                "6": {
+                    "title": "Marcus Lemonis: Miami",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "original air date": "5 Aug. 2012",
+                    "year": "2012",
+                    "plot": "\n    Camping World CEO Marcus Lemonis returns to his hometown of Miami.    "
+                },
+                "7": {
+                    "title": "Sean Belnick: Brooklyn NY",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "original air date": "12 Aug. 2012",
+                    "year": "2012",
+                    "plot": "\n    Entrepreneur Sean Belnick travels to Brooklyn, N.Y.    "
+                },
+                "8": {
+                    "title": "Anne Beiler: Baltimore, MD",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 8,
+                    "original air date": "4 Aug. 2013",
+                    "year": "2013",
+                    "plot": "\n    Anne Beiler, the founder of Auntie Anne's Pretzels, travels to Baltimore to find people worthy of donations.    "
+                },
+                "9": {
+                    "title": "Jay Deutsch: Phoenix, Ariz.",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 9,
+                    "original air date": "26 Aug. 2012",
+                    "year": "2012",
+                    "plot": "\n    BDA CEO Jay Deutsch seeks individuals worthy of donations.    "
+                },
+                "10": {
+                    "title": "Debbie Johnston: Richmond, CA",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 10,
+                    "original air date": "13 Aug. 2013",
+                    "year": "2013",
+                    "plot": "\n    Entrepreneur Debbie Johnston travels to Richmond, Calif., in search of deserving people and organizations in need.    "
+                },
+                "11": {
+                    "title": "Amos Winbush: New Orleans, LA",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 11,
+                    "original air date": "2012",
+                    "year": "2012",
+                    "plot": "\n    CyberSynchs CEO Amos Winbush III volunteers in New Orleans.    "
+                },
+                "12": {
+                    "title": "Wing Lam: Mobile, AL",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 12,
+                    "original air date": "1 Sep. 2013",
+                    "year": "2013",
+                    "plot": "\n    Wahoo's Fish Taco co-founder Wing Lam travels to Mobile, Ala., seeking individuals worthy of donations.    "
+                },
+                "13": {
+                    "title": "George & Kym Rapier: Oakridge, Oregon",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 13,
+                    "original air date": "13 Sep. 2013",
+                    "year": "2013",
+                    "plot": "\n    George Rapier and his wife Kym leave their lavish lifestyle behind.    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Greg and Cole Ruzicka",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "3 Dec. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "2": {
+                    "title": "Todd & Gwen Graves",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "original air date": "3 Dec. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "3": {
+                    "title": "Myles & Cynthia Kovacs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "original air date": "10 Dec. 2008",
+                    "year": "2008",
+                    "plot": "\n    Millionaires go undercover to share their wealth.    "
+                },
+                "4": {
+                    "title": "Gurbaksh Chahal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "original air date": "11 Dec. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "5": {
+                    "title": "Greg Haerr",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "original air date": "17 Dec. 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                },
+                "6": {
+                    "title": "Molly Shattuck",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "original air date": "18 Dec. 2008",
+                    "year": "2008",
+                    "plot": "\n    Millionaires go undercover to share their wealth.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Dani Johnson: Knoxville, TN",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "original air date": "6 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Millionaire and successful entrepreneur Dani Johnson leaves her family and lavish lifestyle behind to spend six days in one of the poorest areas of Knoxville, Tennessee, in search of those most in need of her help. While there, she will survive on welfare level wages, volunteer her time and search her heart to determine how much of her own fortune to gift the community heroes she meets.    "
+                },
+                "2": {
+                    "title": "Marc Paskin: Detroit, MI",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "original air date": "13 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Real estate investor and multi-millionaire Marc Paskin spends a week living in a typical, run down, one-bedroom house on the east side of Detroit, an area with a reputation for crime, drugs and gangs. Paskin will have to survive on $50.00, the equivalent of one week of Detroit's welfare assistance for a single man over 55. During this time, he will find deserving people and organizations that are making a real difference in the lives of men, women and children, and will surprise these heroes with donations of thousands of dollars from his own fortune.    "
+                },
+                "3": {
+                    "title": "James Malinchak: Gary, IN",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "original air date": "20 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Motivational speaking mogul and author James Malinchak leaves his jet-setting life behind to live in Gary, Indiana, a city hit hard by the economic downturn. He will spend a week living on welfare level wages in a rundown neighborhood. While there, he will spend time volunteering where his help is needed most, searching for deserving people and organizations that are making a real difference, and will surprise these heroes with donations of thousands of dollars from his own fortune.    "
+                },
+                "4": {
+                    "title": "John Ferber: Skid Row, Los Angeles, CA",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "original air date": "27 Mar. 2011",
+                    "year": "2011",
+                    "plot": "\n    Following the deaths of two close friends, millionaire Internet entrepreneur John Ferber came to the realization that there was more to life than work. He took the loss of his friends as a wake-up call to live life fully and be more hands-on with helping others, eventually starting his online charitable website, Microgiving.com. For six days, Ferber will leave his luxurious Florida home and live on welfare level wages for a week among the 15,000 nightly homeless inhabitants of Skid Row in downtown Los Angeles, California. While there, he will search for people and ...    "
+                },
+                "5": {
+                    "title": "Gary & Diane Heavin: Houston, TX",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "original air date": "3 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    Gary & Diane Heavin, CEOs/founders of Curves International, Inc., the world's largest fitness franchise company, leave their thousand-acre ranch in Texas and spend a week living in Houston's \"Third Ward,\" where 20% of the residents live in extreme poverty. Gary & Diane will stay in a rundown one-bedroom home in a neighborhood not far from where Gary was born, home to one of the highest crime rates in the nation. They will have to survive on $6.50 per day, the equivalent of food stamps for a two-person household in Texas. During this time, they discover three ...    "
+                },
+                "6": {
+                    "title": "Ali Brown: Venice, California",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Secret Millionaire (TV Series 2008–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "original air date": "10 Apr. 2011",
+                    "year": "2011",
+                    "plot": "\n    Entrepreneur Ali Brown lives among the homeless in Venice Beach, CA.    "
+                }
+            }
+        },
+        "number of episodes": 25,
+        "cast": [
+            {
+                "name": "Clyde, K.C."
+            },
+            {
+                "name": "Underwood, Blair"
+            },
+            {
+                "name": "Chahal, Gurbaksh"
+            },
+            {
+                "name": "Graves, Todd"
+            },
+            {
+                "name": "Kovacs, Myles"
+            },
+            {
+                "name": "Shattuck, Molly"
+            },
+            {
+                "name": "Graves, Gwen"
+            },
+            {
+                "name": "Kovacs, Cynthia"
+            },
+            {
+                "name": "Bare, Carla"
+            },
+            {
+                "name": "Bare, Emily"
+            },
+            {
+                "name": "Garzon, Kathleen"
+            },
+            {
+                "name": "Haerr, Greg"
+            },
+            {
+                "name": "Rodriguez, Linda"
+            },
+            {
+                "name": "Ruzicka, Cole"
+            },
+            {
+                "name": "Ruzicka, Gregory Victor"
+            },
+            {
+                "name": "Brown, Ali"
+            },
+            {
+                "name": "Ferber, John"
+            },
+            {
+                "name": "Heavin, Diane"
+            },
+            {
+                "name": "Heavin, Gary"
+            },
+            {
+                "name": "Johnson, Dani"
+            },
+            {
+                "name": "Malinchak, James"
+            },
+            {
+                "name": "Miller, Ben"
+            },
+            {
+                "name": "Paskin, Marc"
+            },
+            {
+                "name": "Belnick, Sean"
+            },
+            {
+                "name": "Corona, Jonas"
+            }
+        ],
+        "genres": [
+            "Reality-TV"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "number of seasons": 3,
+        "rating": 6.5,
+        "votes": 274,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTc4NjA2OTcxNV5BMl5BanBnXkFtZTcwMzg0MTYxMg@@._V1_SY150_CR53,0,101,150_.jpg",
+        "plot outline": "Each episode of Secret Millionaire follows one of America's most successful business moguls for a week as they leave the comforts of home behind. They'll keep their true identities hidden while living in some of the country's most impoverished neighborhoods. Residing in local housing on welfare level wages, these secret millionaires will try to find the most deserving people within the community.",
+        "languages": [
+            "English"
+        ],
+        "title": "Secret Millionaire",
+        "year": 2008,
+        "kind": "tv series",
+        "series years": "2008-2013",
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "writer": [
+            {
+                "name": "Gleason, Kevin"
+            },
+            {
+                "name": "Gleason, Kevin"
+            },
+            {
+                "name": "Lambert, Stephen"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "RDF USA"
+            },
+            {
+                "name": "Rocket Science Laboratories"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Dlife"
+            },
+            {
+                "name": "Fox Network"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Larson Studios"
+            },
+            {
+                "name": "Shapeshifter"
+            }
+        ],
+        "plot": [
+            "Each episode of _Secret Millionaire_ (qv) follows one of America's most successful business moguls for a week as they leave the comforts of home behind. They'll keep their true identities hidden while living in some of the country's most impoverished neighborhoods. Residing in local housing on welfare level wages, these secret millionaires will try to find the most deserving people within the community."
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 274,
+                "rating": 6.5
+            },
+            "aged 18 29": {
+                "votes": 31,
+                "rating": 6.9
+            },
+            "aged 30 44": {
+                "votes": 130,
+                "rating": 6.2
+            },
+            "aged 45 plus": {
+                "votes": 75,
+                "rating": 6.8
+            },
+            "males": {
+                "votes": 149,
+                "rating": 6.2
+            },
+            "males aged 18 29": {
+                "votes": 22,
+                "rating": 7.0
+            },
+            "males aged 30 44": {
+                "votes": 91,
+                "rating": 5.9
+            },
+            "males aged 45 plus": {
+                "votes": 32,
+                "rating": 6.2
+            },
+            "females": {
+                "votes": 88,
+                "rating": 7.5
+            },
+            "females aged 18 29": {
+                "votes": 9,
+                "rating": 6.4
+            },
+            "females aged 30 44": {
+                "votes": 37,
+                "rating": 7.5
+            },
+            "females aged 45 plus": {
+                "votes": 41,
+                "rating": 7.8
+            },
+            "top 1000 voters": {
+                "votes": 15,
+                "rating": 4.1
+            },
+            "us users": {
+                "votes": 152,
+                "rating": 6.7
+            },
+            "non us users": {
+                "votes": 66,
+                "rating": 6.0
+            }
+        },
+        "number of votes": {
+            "10": 78,
+            "9": 27,
+            "8": 37,
+            "7": 31,
+            "6": 33,
+            "5": 14,
+            "4": 7,
+            "3": 9,
+            "2": 9,
+            "1": 29
+        },
+        "arithmetic mean": 7.0,
+        "median": 8
+    }
+}

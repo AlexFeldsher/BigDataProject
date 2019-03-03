@@ -1,0 +1,103 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Japan\n",
+                "date": "2 April 2012"
+            }
+        ],
+        "release dates": [
+            "Japan::2 April 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Biz purasu"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "Biz Plus"
+            }
+        ],
+        "akas": [
+            "Biz purasu (original title)",
+            "Biz Plus World-wide (English title)"
+        ],
+        "akas from release info": [
+            "Biz purasu (original title)",
+            "Biz Plus World-wide (English title)"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Episode dated 29 March 2013",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Biz Plus (TV Series 2012–2013)",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "29 Mar. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Chikada, Yuichi"
+            },
+            {
+                "name": "Iida, Kaori"
+            }
+        ],
+        "genres": [
+            "News"
+        ],
+        "runtimes": [
+            "15"
+        ],
+        "countries": [
+            "Japan"
+        ],
+        "country codes": [
+            "jp"
+        ],
+        "language codes": [
+            "ja"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "languages": [
+            "Japanese"
+        ],
+        "title": "Biz Plus",
+        "year": 2012,
+        "kind": "tv series",
+        "series years": "2012-2013",
+        "production companies": [
+            {
+                "name": "NHK"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "NHK World Premium"
+            },
+            {
+                "name": "NHK"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "15 min"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

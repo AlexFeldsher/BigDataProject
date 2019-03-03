@@ -1,0 +1,130 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "1 January 2009",
+                "notes": "                            (Chicago, Illinois)"
+            },
+            {
+                "country": "USA\n",
+                "date": "  2011"
+            }
+        ],
+        "release dates": [
+            "USA::1 January 2009                            (Chicago, Illinois)",
+            "USA::2011"
+        ],
+        "episodes": {
+            "-1": {
+                "-1": {
+                    "title": "Episode dated 2 May 2017",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You & Me This Morning (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "original air date": "2 May 2017",
+                    "year": "2017",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "You & Me This Morning (TV Series 2009– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "2011",
+                    "year": "2011",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Sewell, Amy"
+            },
+            {
+                "name": "Guth, Amy"
+            },
+            {
+                "name": "Kelly, Peter A"
+            },
+            {
+                "name": "Leving, Jeffery 'Dads Rights'"
+            },
+            {
+                "name": "Jones, Stevie Lynn"
+            },
+            {
+                "name": "Wellington, Terra"
+            },
+            {
+                "name": "Bockler, Aly"
+            },
+            {
+                "name": "Forman, Melissa"
+            },
+            {
+                "name": "Jackson, Summer"
+            }
+        ],
+        "locations": [
+            "Chicago, Illinois, USA"
+        ],
+        "genres": [
+            "Talk-Show"
+        ],
+        "runtimes": [
+            "120"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BZmY4NGRkNDgtNzUwNS00OTkzLWE0ZTYtZTc4N2IyMDQ1YWNhXkEyXkFqcGdeQXVyMTA4Mjg5MDE@._V1_SY150_CR151,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "You & Me This Morning",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-",
+        "akas": [
+            "You & Me This Morning (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "distributors": [
+            {
+                "name": "WCIU -TV"
+            }
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr (120 min)"
+            ],
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

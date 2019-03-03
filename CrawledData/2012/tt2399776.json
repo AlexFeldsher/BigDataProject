@@ -1,0 +1,475 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Sweden\n",
+                "date": "8 October 2012"
+            },
+            {
+                "country": "Finland\n",
+                "date": "23 January 2013"
+            },
+            {
+                "country": "UK\n",
+                "date": "2 December 2013"
+            },
+            {
+                "country": "Norway\n",
+                "date": "2 December 2013"
+            }
+        ],
+        "release dates": [
+            "Sweden::8 October 2012",
+            "Finland::23 January 2013",
+            "UK::2 December 2013",
+            "Norway::2 December 2013"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Torka aldrig tårar utan handskar"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Nunca Seque Lágrimas Sem Luvas"
+            },
+            {
+                "countries": "Croatia",
+                "title": "Nikad ne briši suze bez rukavica"
+            },
+            {
+                "countries": "Finland",
+                "title": "Älä pyyhi kyyneleitä paljain käsin"
+            },
+            {
+                "countries": "Finland (Swedish title)",
+                "title": "Torka aldrig tårar utan handskar"
+            },
+            {
+                "countries": "France",
+                "title": "Snö"
+            },
+            {
+                "countries": "Germany (literal title)",
+                "title": "Tränen nie ohne Handschuhe trocknen"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Sose töröld le a könnyeidet kesztyű nélkül"
+            },
+            {
+                "countries": "Norway",
+                "title": "Tørk aldri tårer uten hansker"
+            },
+            {
+                "countries": "Russia",
+                "title": "Никогда не вытирайте слезы без перчаток"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Nikad ne briši suze bez rukavica"
+            },
+            {
+                "countries": "USA",
+                "title": "Torka aldrig tårar utan handskar"
+            },
+            {
+                "countries": "World-wide (English title)",
+                "title": "Don't Ever Wipe Tears Without Gloves"
+            }
+        ],
+        "akas": [
+            "Torka aldrig tårar utan handskar (original title)",
+            "Nunca Seque Lágrimas Sem Luvas Brazil",
+            "Nikad ne briši suze bez rukavica Croatia",
+            "Älä pyyhi kyyneleitä paljain käsin Finland",
+            "Torka aldrig tårar utan handskar Finland (Swedish title)",
+            "Snö France",
+            "Tränen nie ohne Handschuhe trocknen Germany (literal title)",
+            "Sose töröld le a könnyeidet kesztyű nélkül Hungary",
+            "Tørk aldri tårer uten hansker Norway",
+            "Никогда не вытирайте слезы без перчаток Russia",
+            "Nikad ne briši suze bez rukavica Serbia",
+            "Torka aldrig tårar utan handskar USA",
+            "Don't Ever Wipe Tears Without Gloves World-wide (English title)"
+        ],
+        "akas from release info": [
+            "Torka aldrig tårar utan handskar (original title)",
+            "Nunca Seque Lágrimas Sem Luvas Brazil",
+            "Nikad ne briši suze bez rukavica Croatia",
+            "Älä pyyhi kyyneleitä paljain käsin Finland",
+            "Torka aldrig tårar utan handskar Finland (Swedish title)",
+            "Snö France",
+            "Tränen nie ohne Handschuhe trocknen Germany (literal title)",
+            "Sose töröld le a könnyeidet kesztyű nélkül Hungary",
+            "Tørk aldri tårer uten hansker Norway",
+            "Никогда не вытирайте слезы без перчаток Russia",
+            "Nikad ne briši suze bez rukavica Serbia",
+            "Torka aldrig tårar utan handskar USA",
+            "Don't Ever Wipe Tears Without Gloves World-wide (English title)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Kärleken",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Torka aldrig tårar utan handskar (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 66,
+                    "original air date": "8 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Rasmus, 19, leaves his home town and family for Stockholm, where he soon joins in the gay nightlife. Benjamin is a young Jehovah's Witness who finds that he must choose between his sexuality and his faith and family.    "
+                },
+                "2": {
+                    "title": "Sjukdomen",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Torka aldrig tårar utan handskar (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 62,
+                    "original air date": "15 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Rasmus and Benjamin move in together, but their relationship suffers as Benjamin leads a double life and Rasmus continues his promiscuous lifestyle. Then the results of an HIV test arrive.    "
+                },
+                "3": {
+                    "title": "Döden",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Torka aldrig tårar utan handskar (TV Mini-Series 2012)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 62,
+                    "original air date": "22 Oct. 2012",
+                    "year": "2012",
+                    "plot": "\n    Funerals of lost friends. In one scene, Rasmus fears for his life. Later, his parents come to his hospital bedside. Finally, the older Benjamin visits Rasmus's grave for the first time.    "
+                }
+            }
+        },
+        "number of episodes": 3,
+        "cast": [
+            {
+                "name": "Lundgren, Adam"
+            },
+            {
+                "name": "Pålsson, Adam"
+            },
+            {
+                "name": "Kjellman, Björn"
+            },
+            {
+                "name": "Berger, Simon J."
+            },
+            {
+                "name": "Almén, Emil"
+            },
+            {
+                "name": "Jonsson, Michael"
+            },
+            {
+                "name": "Svensson, Christoffer"
+            },
+            {
+                "name": "Berglund, Kristoffer"
+            },
+            {
+                "name": "Olsson, Annika"
+            },
+            {
+                "name": "Sauk, Stefan"
+            },
+            {
+                "name": "Richardson, Marie"
+            },
+            {
+                "name": "Hoberstorfer, Gerhard"
+            },
+            {
+                "name": "Friberg, Ulf"
+            },
+            {
+                "name": "Eriksson, Jonathan"
+            },
+            {
+                "name": "Hartelius, Claes"
+            },
+            {
+                "name": "Weiths, Belle"
+            },
+            {
+                "name": "Rembe-Nylander, Gorm"
+            },
+            {
+                "name": "Linnertorp, Lisa"
+            },
+            {
+                "name": "Langhammer, Ia"
+            },
+            {
+                "name": "Sundqvist, Sanna"
+            },
+            {
+                "name": "Silfverhjelm, Jennie"
+            },
+            {
+                "name": "Sporre, Julia"
+            },
+            {
+                "name": "Eriksson, Lena B."
+            },
+            {
+                "name": "Niavarani, Shebly"
+            },
+            {
+                "name": "Mjönes, David"
+            },
+            {
+                "name": "Wahlberg, Björn"
+            },
+            {
+                "name": "Arnold, Christian"
+            },
+            {
+                "name": "Eriksson, Anton"
+            },
+            {
+                "name": "Fransson, Lars"
+            },
+            {
+                "name": "Lindquist, Carl"
+            },
+            {
+                "name": "Mirbioki, Iman"
+            },
+            {
+                "name": "Samuelson, Andreas"
+            },
+            {
+                "name": "Carlsson, Andreas"
+            },
+            {
+                "name": "Carpentieri, Alexi"
+            },
+            {
+                "name": "Annersand, Johanna"
+            },
+            {
+                "name": "Lindquist, Emilie Fahlstedt"
+            },
+            {
+                "name": "Petersson, Michael"
+            },
+            {
+                "name": "Bergström, Magnus G."
+            }
+        ],
+        "genres": [
+            "Drama"
+        ],
+        "runtimes": [
+            "174"
+        ],
+        "countries": [
+            "Sweden",
+            "Finland",
+            "Norway"
+        ],
+        "country codes": [
+            "se",
+            "fi",
+            "no"
+        ],
+        "language codes": [
+            "sv"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "16:9 HD",
+        "sound mix": [
+            "Dolby Digital::(5.1)"
+        ],
+        "certificates": [
+            "Finland:K-12",
+            "United Kingdom:15"
+        ],
+        "original air date": "08 Oct 2012 (Sweden)",
+        "number of seasons": 1,
+        "rating": 8.4,
+        "votes": 3519,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMzYyMTQ3MjgyOF5BMl5BanBnXkFtZTcwOTYyNDk5OA@@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "Swedish"
+        ],
+        "title": "Torka aldrig tårar utan handskar",
+        "year": 2012,
+        "kind": "tv mini series",
+        "series years": "2012-2012",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Gardell, Jonas"
+            }
+        ],
+        "director": [
+            {
+                "name": "Kaijser, Simon"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Sveriges Television"
+            },
+            {
+                "name": "Finlands Svenska Television (FST)"
+            },
+            {
+                "name": "Norsk Rikskringkasting (NRK)"
+            },
+            {
+                "name": "Nordvisionsfonden"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Sveriges Television (SVT)"
+            },
+            {
+                "name": "Edel Media & Entertainment"
+            },
+            {
+                "name": "Edel Media & Entertainment"
+            },
+            {
+                "name": "SF Film Finland"
+            },
+            {
+                "name": "Yleisradio (YLE)"
+            }
+        ],
+        "plot": [
+            "A story of love and death. Rasmus, 19, escapes to Stockholm and finds love in the religious Benjamin just as the AIDS epidemic hits the city's gay community.::Peter Brandt Nielsen"
+        ],
+        "synopsis": [
+            "When Rasmus gets off the train at the Central Station in Stockholm in September 1982 he leaves the little town of Koppom behind, to never go back. Young and beautiful he throws himself out into Stockholm's gay scene.Benjamin is a Jehova's Witness. Eagerly he walks from door to door to spread God's message. And nothing can disturb his faith. Not until he knocks on Pauls door, one of the warmest, funniest and bitchiest gay person that God has ever created.And on Christmas Eve, Rasmus meets Benjamin at Pauls and nothing is ever the same again. What is told in this series has happened. Its happening in this city, in these quarters, amongst the people that live here. In a city where most people go on living as if nothing has happened when young men start to get sick, fade away and die."
+        ],
+        "tech": {
+            "runtime": [
+                "2 hr 54 min (174 min) (3 parts)"
+            ],
+            "sound mix": [
+                "Dolby Digital (5.1)"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "16:9 HD"
+            ],
+            "negative format": [
+                "16 mm"
+            ],
+            "cinematographic process": [
+                "Super 16"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 3519,
+                "rating": 8.4
+            },
+            "aged under 18": {
+                "votes": 5,
+                "rating": 6.8
+            },
+            "aged 18 29": {
+                "votes": 1265,
+                "rating": 8.6
+            },
+            "aged 30 44": {
+                "votes": 1098,
+                "rating": 8.3
+            },
+            "aged 45 plus": {
+                "votes": 358,
+                "rating": 8.2
+            },
+            "males": {
+                "votes": 1526,
+                "rating": 8.1
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 5.0
+            },
+            "males aged 18 29": {
+                "votes": 481,
+                "rating": 8.2
+            },
+            "males aged 30 44": {
+                "votes": 714,
+                "rating": 8.1
+            },
+            "males aged 45 plus": {
+                "votes": 261,
+                "rating": 8.1
+            },
+            "females": {
+                "votes": 1304,
+                "rating": 8.8
+            },
+            "females aged under 18": {
+                "votes": 3,
+                "rating": 8.7
+            },
+            "females aged 18 29": {
+                "votes": 753,
+                "rating": 8.8
+            },
+            "females aged 30 44": {
+                "votes": 372,
+                "rating": 8.7
+            },
+            "females aged 45 plus": {
+                "votes": 94,
+                "rating": 8.4
+            },
+            "top 1000 voters": {
+                "votes": 38,
+                "rating": 6.9
+            },
+            "us users": {
+                "votes": 87,
+                "rating": 7.4
+            },
+            "non us users": {
+                "votes": 2149,
+                "rating": 8.4
+            }
+        },
+        "number of votes": {
+            "10": 1106,
+            "9": 994,
+            "8": 856,
+            "7": 318,
+            "6": 115,
+            "5": 49,
+            "4": 15,
+            "3": 12,
+            "2": 12,
+            "1": 42
+        },
+        "arithmetic mean": 8.6,
+        "median": 9
+    }
+}

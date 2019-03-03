@@ -1,0 +1,97 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "1 August 2013"
+            },
+            {
+                "country": "USA\n",
+                "date": "5 August 2013",
+                "notes": "                            (Los Angeles, California)"
+            }
+        ],
+        "release dates": [
+            "USA::1 August 2013",
+            "USA::5 August 2013                            (Los Angeles, California)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Meet the Disney Legends (TV Mini-Series 2013– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "1 Aug. 2013",
+                    "year": "2013",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "cast": [
+            {
+                "name": "Johnson, R. Brandon"
+            }
+        ],
+        "genres": [
+            "Family"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "original air date": "01 Aug 2013 (USA)",
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Meet the Disney Legends",
+        "year": 2013,
+        "kind": "tv mini series",
+        "series years": "2013-",
+        "akas": [
+            "Meet the Disney Legends (United States)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Bolding, Muffy"
+            }
+        ],
+        "director": [
+            {
+                "name": "Butler, William"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Transition Entertainment"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Walt Disney Television"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

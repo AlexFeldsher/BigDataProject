@@ -1,0 +1,817 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Canada\n",
+                "date": "23 July 2010"
+            },
+            {
+                "country": "USA\n",
+                "date": "23 July 2010"
+            },
+            {
+                "country": "Ireland\n",
+                "date": "15 August 2010"
+            },
+            {
+                "country": "Spain\n",
+                "date": "14 September 2010"
+            },
+            {
+                "country": "Italy\n",
+                "date": "1 October 2010"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "10 October 2010"
+            },
+            {
+                "country": "UK\n",
+                "date": "16 October 2010"
+            },
+            {
+                "country": "Austria\n",
+                "date": "14 November 2010"
+            },
+            {
+                "country": "Germany\n",
+                "date": "15 November 2010"
+            },
+            {
+                "country": "France\n",
+                "date": "9 December 2010"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "5 January 2011"
+            },
+            {
+                "country": "Japan\n",
+                "date": "5 February 2011"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "1 September 2011"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "8 January 2012"
+            }
+        ],
+        "release dates": [
+            "Canada::23 July 2010",
+            "USA::23 July 2010",
+            "Ireland::15 August 2010",
+            "Spain::14 September 2010",
+            "Italy::1 October 2010",
+            "Netherlands::10 October 2010",
+            "UK::16 October 2010",
+            "Austria::14 November 2010",
+            "Germany::15 November 2010",
+            "France::9 December 2010",
+            "Sweden::5 January 2011",
+            "Japan::5 February 2011",
+            "Hungary::1 September 2011",
+            "Belgium::8 January 2012"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Pillars of the Earth"
+            },
+            {
+                "countries": "Brazil",
+                "title": "Os Pilares da Terra"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Устоите на Земята"
+            },
+            {
+                "countries": "Denmark",
+                "title": "Jordens søjler"
+            },
+            {
+                "countries": "Estonia",
+                "title": "Taevasambad"
+            },
+            {
+                "countries": "Finland",
+                "title": "Taivaan pilarit"
+            },
+            {
+                "countries": "France",
+                "title": "Les piliers de la terre"
+            },
+            {
+                "countries": "Germany",
+                "title": "Die Säulen der Erde"
+            },
+            {
+                "countries": "Greece",
+                "title": "Oi stylovates tis Gis"
+            },
+            {
+                "countries": "Hungary",
+                "title": "A katedrális"
+            },
+            {
+                "countries": "Italy",
+                "title": "I pilastri della Terra"
+            },
+            {
+                "countries": "Norway",
+                "title": "Stormenes Tid"
+            },
+            {
+                "countries": "Peru",
+                "title": "Los pilares de la Tierra"
+            },
+            {
+                "countries": "Poland",
+                "title": "Filary Ziemi"
+            },
+            {
+                "countries": "Portugal",
+                "title": "Os Pilares da Terra"
+            },
+            {
+                "countries": "Russia",
+                "title": "Столпы Земли"
+            },
+            {
+                "countries": "Serbia",
+                "title": "Stubovi zemlje"
+            },
+            {
+                "countries": "Spain",
+                "title": "Los pilares de la Tierra"
+            },
+            {
+                "countries": "Sweden",
+                "title": "Svärdet och spiran"
+            },
+            {
+                "countries": "USA",
+                "title": "The Pillars of the Earth"
+            }
+        ],
+        "akas": [
+            "The Pillars of the Earth (original title)",
+            "Os Pilares da Terra Brazil",
+            "Устоите на Земята Bulgaria (Bulgarian title)",
+            "Jordens søjler Denmark",
+            "Taevasambad Estonia",
+            "Taivaan pilarit Finland",
+            "Les piliers de la terre France",
+            "Die Säulen der Erde Germany",
+            "Oi stylovates tis Gis Greece",
+            "A katedrális Hungary",
+            "I pilastri della Terra Italy",
+            "Stormenes Tid Norway",
+            "Los pilares de la Tierra Peru",
+            "Filary Ziemi Poland",
+            "Os Pilares da Terra Portugal",
+            "Столпы Земли Russia",
+            "Stubovi zemlje Serbia",
+            "Los pilares de la Tierra Spain",
+            "Svärdet och spiran Sweden",
+            "The Pillars of the Earth USA"
+        ],
+        "akas from release info": [
+            "The Pillars of the Earth (original title)",
+            "Os Pilares da Terra Brazil",
+            "Устоите на Земята Bulgaria (Bulgarian title)",
+            "Jordens søjler Denmark",
+            "Taevasambad Estonia",
+            "Taivaan pilarit Finland",
+            "Les piliers de la terre France",
+            "Die Säulen der Erde Germany",
+            "Oi stylovates tis Gis Greece",
+            "A katedrális Hungary",
+            "I pilastri della Terra Italy",
+            "Stormenes Tid Norway",
+            "Los pilares de la Tierra Peru",
+            "Filary Ziemi Poland",
+            "Os Pilares da Terra Portugal",
+            "Столпы Земли Russia",
+            "Stubovi zemlje Serbia",
+            "Los pilares de la Tierra Spain",
+            "Svärdet och spiran Sweden",
+            "The Pillars of the Earth USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Anarchy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Pillars of the Earth (TV Mini-Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 541,
+                    "original air date": "23 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    The succession to the crown of England is in doubt and causes King Henry's daughter and nephew to compete for the throne. Church politics see Philip, a monk, elected the new prior, which leaves him indebted to Deacon Waleran.    "
+                },
+                "2": {
+                    "title": "Master Builder",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Pillars of the Earth (TV Mini-Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 458,
+                    "original air date": "23 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    Tom Builder, his children, Ellen and her son Jack arrive at Kingsbridge Priory in the hope of finding work. The church is in need of repair but Prior Philip has no money and is unable to hire them. After the church burns down, Tom presents a plan for a new a new style of church with pointed arches and large windows. Philip decides to ask the King for funds and learns a hard lesson in politics after making a deal, or so he thought, with Percy Hamleigh's scheming wife. His dealings with the Hamleighs also earns him the enmity of Bishop Waleran. With Philip away from the...    "
+                },
+                "3": {
+                    "title": "Redemption",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Pillars of the Earth (TV Mini-Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 427,
+                    "original air date": "30 Jul. 2010",
+                    "year": "2010",
+                    "plot": "\n    Construction of the new church at Kingsbridge Priory is underway. They have too few men and Prior Philip hopes the sale of this year's wool will give them the money they need to hire more workers. When the time comes to quarry the stone William Hamleigh prevents Tom Builder from starting working leading to a major confrontation with the monks of the Priory. Meanwhile, Aliena and her brother Richard travel to Winchester to witness their father's execution and plead for mercy. King Stephen refuses but does offer Richard a place in his army. Aliena comes up with a scheme...    "
+                },
+                "4": {
+                    "title": "Battlefield",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Pillars of the Earth (TV Mini-Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 399,
+                    "original air date": "6 Aug. 2010",
+                    "year": "2010",
+                    "plot": "\n    William applies to have his father's title of Earl transferred to him, and discovers a mysterious knight is also a rival for the Earldom. King Stephen, frightened by Jack's appearance, orders an assassin to kill him. The battle between King Stephen and Maud sees each side's leader being taken hostage. Philip is tortured into a confession when Waleran tells Maud that he is the man who betrayed Earl Bartholomew.    "
+                },
+                "5": {
+                    "title": "Legacy",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Pillars of the Earth (TV Mini-Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 391,
+                    "original air date": "13 Aug. 2010",
+                    "year": "2010",
+                    "plot": "\n    Princess Maude seems to have gained the upper hand having defeated King Stephen on the battlefield and taken him prisoner. However, her brother, Gloucester, has been taken prisoner by the other side, and a prisoner exchange is arranged. It doesn't go well and the self-styled Empress Maude and King Stephen are again at war. Philip's life is saved when his brother unexpectedly arrives in Lincoln. He manages to get access to the quarry to complete the cathedral and also a license to hold a market. Aliena's suggestion that they hold a fleece fair in direct competition ...    "
+                },
+                "6": {
+                    "title": "Witchcraft",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Pillars of the Earth (TV Mini-Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 384,
+                    "original air date": "20 Aug. 2010",
+                    "year": "2010",
+                    "plot": "\n    The war is over and Maud has returned to France leaving King Stephen once again unchallenged. Richard returns to Kingsbridge just after William Hamleigh's attack on the market. Aliena has lost everything and can no longer support Richard's knighthood. Alfred sees an opportunity and asks Aliena to marry him, promising to support Richard as well. After Tom Builder's funeral, Alfred also offers himself as master builder promising to build a vaulted roof made of stone. When the day to bless the church arrives 8 months later, tragedy strikes leaving many dead. Events also ...    "
+                },
+                "7": {
+                    "title": "New Beginnings",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Pillars of the Earth (TV Mini-Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 377,
+                    "original air date": "27 Aug. 2010",
+                    "year": "2010",
+                    "plot": "\n    As a result of his journeys, Jack has learned how to fulfill Tom Builder's dream of a cathedral filled with light. Aliena tracks Jack by following the trail of his carvings. Waleran offers Philip a new position, but it means that Philip must always obey Waleran. Kingsbridge becomes prosperous again which infuriates Regan and William, who plan an attack that is met with resistance from Richard, Jack and Philip.    "
+                },
+                "8": {
+                    "title": "The Work of Angels",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Pillars of the Earth (TV Mini-Series 2010)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 368,
+                    "original air date": "27 Aug. 2010",
+                    "year": "2010",
+                    "plot": "\n    Eight years later, Jack's fixation with the cathedral leaves him little time or energy for anything else, while Aliena's fixation with the distant Earldom of Shiring has married her to Alfred, a man she hates. Waleran and Alfred develop a plot to get rid of Jack for good and it seems to be working until evidence comes to light that makes all wrongs rectified.    "
+                }
+            }
+        },
+        "number of episodes": 8,
+        "cast": [
+            {
+                "name": "McShane, Ian"
+            },
+            {
+                "name": "Macfadyen, Matthew"
+            },
+            {
+                "name": "Redmayne, Eddie"
+            },
+            {
+                "name": "Atwell, Hayley"
+            },
+            {
+                "name": "Parish, Sarah"
+            },
+            {
+                "name": "Wörner, Natalia"
+            },
+            {
+                "name": "Taubman, Anatole"
+            },
+            {
+                "name": "Pielmeier, John"
+            },
+            {
+                "name": "Bathurst, Robert"
+            },
+            {
+                "name": "Wood, Clive"
+            },
+            {
+                "name": "Claflin, Sam"
+            },
+            {
+                "name": "Garrigan, Liam"
+            },
+            {
+                "name": "Oakes, David"
+            },
+            {
+                "name": "Curran, Tony"
+            },
+            {
+                "name": "Sutherland, Donald"
+            },
+            {
+                "name": "Pill, Alison"
+            },
+            {
+                "name": "Pinsent, Gordon"
+            },
+            {
+                "name": "Áron, László"
+            },
+            {
+                "name": "Atkine, Féodor"
+            },
+            {
+                "name": "Banlaki, Kelly"
+            },
+            {
+                "name": "Bárány, Virág"
+            },
+            {
+                "name": "Bark-Jones, David"
+            },
+            {
+                "name": "Baross, Tamás"
+            },
+            {
+                "name": "Bauer, Oliver"
+            },
+            {
+                "name": "Bennett, Skye"
+            },
+            {
+                "name": "Boath, Freddie"
+            },
+            {
+                "name": "Booth, Douglas"
+            },
+            {
+                "name": "Borbáth, Ottilia"
+            },
+            {
+                "name": "Coy, Jonathan"
+            },
+            {
+                "name": "Curtis, Scott"
+            },
+            {
+                "name": "Czapkó, Antal"
+            },
+            {
+                "name": "Dean, Brooke"
+            },
+            {
+                "name": "Devere, Matt"
+            },
+            {
+                "name": "Dickie, Kate"
+            },
+            {
+                "name": "Dzikowski, Lara"
+            },
+            {
+                "name": "Fon, Gabi"
+            },
+            {
+                "name": "Gamble, Stu"
+            },
+            {
+                "name": "Griffiths, Kevin"
+            },
+            {
+                "name": "Haderer, David"
+            },
+            {
+                "name": "Halse, Jody"
+            },
+            {
+                "name": "Haumann, Máté"
+            },
+            {
+                "name": "Haward-Grau, Jeremy"
+            },
+            {
+                "name": "Holt, Emily"
+            },
+            {
+                "name": "Horkay, Péter"
+            },
+            {
+                "name": "Horváth, Ákos"
+            },
+            {
+                "name": "Illyés, Barna"
+            },
+            {
+                "name": "Jakab, Csaba"
+            },
+            {
+                "name": "Johnston, Sidney"
+            },
+            {
+                "name": "Kelly, Mike"
+            },
+            {
+                "name": "Kertész, Péter"
+            }
+        ],
+        "locations": [
+            "Budapest, Hungary",
+            "Tata, Hungary",
+            "Fót Studios, Budapest, Hungary",
+            "Votivkirche, Vienna, Austria",
+            "Austria",
+            "Burg Kreuzenstein, Leobendorf, Lower Austria, Austria",
+            "Ócsa, Pest, Budapest, Hungary"
+        ],
+        "genres": [
+            "Drama",
+            "History",
+            "Romance",
+            "Thriller",
+            "War"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "Germany",
+            "Canada",
+            "United Kingdom",
+            "Hungary"
+        ],
+        "country codes": [
+            "de",
+            "ca",
+            "gb",
+            "hu"
+        ],
+        "language codes": [
+            "en",
+            "fr"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Dolby Digital"
+        ],
+        "certificates": [
+            "Brazil:16",
+            "Germany:16",
+            "Netherlands:16",
+            "Netherlands:12",
+            "Singapore:M18",
+            "South Korea:18",
+            "United States:TV-MA"
+        ],
+        "original air date": "23 Jul 2010 (USA)",
+        "number of seasons": 1,
+        "rating": 8.1,
+        "votes": 26208,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTg3NDgwNjQ4MV5BMl5BanBnXkFtZTcwMzU5MjI2Mw@@._V1_SX101_CR0,0,101,150_.jpg",
+        "budget": "$40,000,000 (estimated)",
+        "plot outline": "The Pillars of the Earth is set against a backdrop of war, religious strife and power struggles which tears lives and families apart. In that time, there rises a magnificent Cathedral in Kingsbridge. Against the backdrop, love-stories entwine: Tom, the master builder, Aliena, the noblewoman, the sadistic Lord William, Philip, the prior of Kingsbridge, Jack, the artist in stone work and Ellen, the woman from the forest who casts a curse. At once, this is a sensuous and enduring love story and an epic that shines with the fierce spirit of a passionate age. Follett masterfully weaves these stories through political turmoil of 12th century England, creating a relevant and viable world for today's audience and for generations to come.",
+        "languages": [
+            "English",
+            "French"
+        ],
+        "title": "The Pillars of the Earth",
+        "year": 2010,
+        "kind": "tv mini series",
+        "series years": "2010-2010",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Follett, Ken"
+            },
+            {
+                "name": "Pielmeier, John"
+            }
+        ],
+        "director": [
+            {
+                "name": "Mimica-Gezzan, Sergio"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Tandem Communications"
+            },
+            {
+                "name": "Muse Entertainment Enterprises"
+            },
+            {
+                "name": "Scott Free Productions"
+            },
+            {
+                "name": "The Movie Network (TMN)"
+            },
+            {
+                "name": "Movie Central Network"
+            },
+            {
+                "name": "Canadian Broadcasting Corporation (CBC)"
+            },
+            {
+                "name": "ProSiebenSat1 Produktion"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Tandem Communications"
+            },
+            {
+                "name": "Movie Central Network"
+            },
+            {
+                "name": "The Movie Network (TMN)"
+            },
+            {
+                "name": "Starz!"
+            },
+            {
+                "name": "AXN"
+            },
+            {
+                "name": "Canal+"
+            },
+            {
+                "name": "Channel 4 Television Corporation"
+            },
+            {
+                "name": "Cuatro"
+            },
+            {
+                "name": "Dutch FilmWorks (DFW)"
+            },
+            {
+                "name": "Dutch FilmWorks (DFW)"
+            },
+            {
+                "name": "Falcon Films"
+            },
+            {
+                "name": "Ledafilms"
+            },
+            {
+                "name": "NHK"
+            },
+            {
+                "name": "RTL Entertainment"
+            },
+            {
+                "name": "Sat.1"
+            },
+            {
+                "name": "Sky"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "TV2"
+            },
+            {
+                "name": "TV3 Television Network Ireland"
+            },
+            {
+                "name": "Universum Film (UFA)"
+            },
+            {
+                "name": "Universum Film (UFA)"
+            },
+            {
+                "name": "Visionary Thinking"
+            },
+            {
+                "name": "Österreichischer Rundfunk (ORF)"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Filmefex Studio"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Colorfront"
+            },
+            {
+                "name": "Concorde Film Trust"
+            },
+            {
+                "name": "Film Finances Canada"
+            },
+            {
+                "name": "Fintage CAM"
+            },
+            {
+                "name": "Goldcrest Post Production London"
+            },
+            {
+                "name": "Sky Media Travel"
+            },
+            {
+                "name": "Soundtrack New York"
+            },
+            {
+                "name": "The Eggplant Collective"
+            },
+            {
+                "name": "Translux"
+            },
+            {
+                "name": "Trevor Morris Studios"
+            },
+            {
+                "name": "Universal Production Partners (UPP)"
+            },
+            {
+                "name": "Varèse Sarabande"
+            }
+        ],
+        "plot": [
+            "Set against a backdrop of war, religious strife and power struggles which tears lives and families apart.::Anonymous",
+            "_The Pillars of the Earth_ (qv) is set against a backdrop of war, religious strife and power struggles which tears lives and families apart. In that time, there rises a magnificent Cathedral in Kingsbridge. Against the backdrop, love-stories entwine: Tom, the master builder, Aliena, the noblewoman, the sadistic Lord William, Philip, the prior of Kingsbridge, Jack, the artist in stone work and Ellen, the woman from the forest who casts a curse. At once, this is a sensuous and enduring love story and an epic that shines with the fierce spirit of a passionate age. Follett masterfully weaves these stories through political turmoil of 12th century England, creating a relevant and viable world for today's audience and for generations to come.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (including commercials)"
+            ],
+            "sound mix": [
+                "Dolby Digital"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Sony CineAlta F35, Zeiss Super Speed and Cooke Varotal Lenses"
+            ],
+            "negative format": [
+                "Digital"
+            ],
+            "cinematographic process": [
+                "Digital Intermediate (master format)",
+                "HDCAM SR (1080p/24) (source format)"
+            ],
+            "printed film format": [
+                "Video (HDTV)"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 26208,
+                "rating": 8.1
+            },
+            "aged under 18": {
+                "votes": 4,
+                "rating": 9.8
+            },
+            "aged 18 29": {
+                "votes": 5353,
+                "rating": 8.3
+            },
+            "aged 30 44": {
+                "votes": 11478,
+                "rating": 8.1
+            },
+            "aged 45 plus": {
+                "votes": 4820,
+                "rating": 7.9
+            },
+            "males": {
+                "votes": 14665,
+                "rating": 8.0
+            },
+            "males aged under 18": {
+                "votes": 1,
+                "rating": 9.0
+            },
+            "males aged 18 29": {
+                "votes": 2915,
+                "rating": 8.2
+            },
+            "males aged 30 44": {
+                "votes": 7826,
+                "rating": 8.0
+            },
+            "males aged 45 plus": {
+                "votes": 3393,
+                "rating": 7.9
+            },
+            "females": {
+                "votes": 7581,
+                "rating": 8.3
+            },
+            "females aged under 18": {
+                "votes": 3,
+                "rating": 10.0
+            },
+            "females aged 18 29": {
+                "votes": 2379,
+                "rating": 8.4
+            },
+            "females aged 30 44": {
+                "votes": 3489,
+                "rating": 8.2
+            },
+            "females aged 45 plus": {
+                "votes": 1344,
+                "rating": 8.2
+            },
+            "top 1000 voters": {
+                "votes": 214,
+                "rating": 7.1
+            },
+            "us users": {
+                "votes": 3667,
+                "rating": 8.1
+            },
+            "non us users": {
+                "votes": 14484,
+                "rating": 8.0
+            }
+        },
+        "number of votes": {
+            "10": 5826,
+            "9": 6428,
+            "8": 7628,
+            "7": 3555,
+            "6": 1417,
+            "5": 572,
+            "4": 272,
+            "3": 155,
+            "2": 123,
+            "1": 232
+        },
+        "arithmetic mean": 8.2,
+        "median": 8
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Peru\n",
+                "date": "19 May 2008"
+            },
+            {
+                "country": "Peru\n",
+                "date": "19 May 2008",
+                "notes": "                            (Lima)"
+            }
+        ],
+        "release dates": [
+            "Peru::19 May 2008",
+            "Peru::19 May 2008                            (Lima)"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Episode #1.1",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Los del barrio (TV Series 2008– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "19 May 2008",
+                    "year": "2008",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "countries": [
+            "Peru"
+        ],
+        "country codes": [
+            "pe"
+        ],
+        "language codes": [
+            "es"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "Spanish"
+        ],
+        "title": "Los del barrio",
+        "year": 2008,
+        "kind": "tv series",
+        "series years": "2008-",
+        "akas": [
+            "Los del barrio (Peru)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "Frecuencia Latina Network"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

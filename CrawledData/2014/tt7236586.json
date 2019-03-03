@@ -1,0 +1,80 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "Australia\n",
+                "date": "  2014"
+            },
+            {
+                "country": "Australia\n",
+                "date": "27 August 2014"
+            }
+        ],
+        "release dates": [
+            "Australia::2014",
+            "Australia::27 August 2014"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Snack Attack",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Recipe to Riches (TV Series 2014)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "original air date": "27 Aug. 2014",
+                    "year": "2014",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 1,
+        "genres": [
+            "Reality-TV"
+        ],
+        "countries": [
+            "Australia"
+        ],
+        "country codes": [
+            "au"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 1,
+        "languages": [
+            "English"
+        ],
+        "title": "Recipe to Riches",
+        "year": 2014,
+        "kind": "tv series",
+        "series years": "2014-2014",
+        "akas": [
+            "Recipe to Riches (Australia)"
+        ],
+        "seasons": [
+            "1"
+        ],
+        "production companies": [
+            {
+                "name": "FremantleMedia Australia"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Network Ten"
+            }
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        }
+    }
+}

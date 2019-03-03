@@ -1,0 +1,744 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "5 July 2016"
+            },
+            {
+                "country": "USA\n",
+                "date": "5 July 2016",
+                "notes": "                            (Discovery Film Festival)"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "17 January 2017"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "2 February 2019"
+            }
+        ],
+        "release dates": [
+            "USA::5 July 2016",
+            "USA::5 July 2016                            (Discovery Film Festival)",
+            "Netherlands::17 January 2017",
+            "Belgium::2 February 2019"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "Unearthed"
+            },
+            {
+                "countries": "Australia",
+                "title": "Blowing Up History"
+            },
+            {
+                "countries": "Germany",
+                "title": "Giganten der Geschichte"
+            },
+            {
+                "countries": "Italy",
+                "title": "Le radici della Storia"
+            },
+            {
+                "countries": "Netherlands",
+                "title": "Blowing Up History"
+            },
+            {
+                "countries": "Spain",
+                "title": "Desmontando la historia"
+            }
+        ],
+        "akas": [
+            "Unearthed (original title)",
+            "Blowing Up History Australia",
+            "Giganten der Geschichte Germany",
+            "Le radici della Storia Italy",
+            "Blowing Up History Netherlands",
+            "Desmontando la historia Spain"
+        ],
+        "akas from release info": [
+            "Unearthed (original title)",
+            "Blowing Up History Australia",
+            "Giganten der Geschichte Germany",
+            "Le radici della Storia Italy",
+            "Blowing Up History Netherlands",
+            "Desmontando la historia Spain"
+        ],
+        "episodes": {
+            "3": {
+                "1": {
+                    "title": "Viking City of the Dead",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 1,
+                    "original air date": "May 2018",
+                    "year": "2018",
+                    "plot": "\n    The lost fortresses of the Viking Age in today's Denmark. Why were they built and what caused the Viking Age to end?    "
+                },
+                "2": {
+                    "title": "Lost Pyramids of the Americas",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 2,
+                    "votes": 6,
+                    "original air date": "May 2018",
+                    "year": "2018",
+                    "plot": "\n    The 5,000-year-old Pyramid City of Caral in today's Peru marks the place where the possibly oldest civilization in the Americas once existed. Did they practice human sacrifices like some other more famous civilizations on the continent?    "
+                },
+                "3": {
+                    "title": "Forbidden City of the Pharaohs",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 3,
+                    "votes": 7,
+                    "original air date": "2018",
+                    "year": "2018",
+                    "plot": "\n    Near the city of Luxor lies the Valley of the Kings where most of Egypt's ancient temples and pyramids are located. How were they built and how did the Pharaohs use them to rise to power?    "
+                },
+                "4": {
+                    "title": "Statue of Liberty - The New Secrets",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 4,
+                    "votes": 7,
+                    "original air date": "Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    The latest scientific methods are used to analyze and the Statue of Liberty and discover its secrets as well as the inspiration for it.    "
+                },
+                "5": {
+                    "title": "Hunt for the Real Atlantis",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 5,
+                    "votes": 8,
+                    "original air date": "Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    The Greek island of Crete was the home of the mythical Labyrinth of the Minotaur. Did the demise of the island's advanced and mysterious Minoan civilization inspire the legend of the fall of the Atlantis?    "
+                },
+                "6": {
+                    "title": "Lost World of Easter Island",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 6,
+                    "votes": 7,
+                    "original air date": "Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    How and why were the famous Moai statues of Easter Island built and what caused the downfall of the Island's civilization which built them?    "
+                },
+                "7": {
+                    "title": "Wrath of Attila the Hun",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 7,
+                    "votes": 7,
+                    "original air date": "Jun. 2018",
+                    "year": "2018",
+                    "plot": "\n    What brought about the downfall of Trier, the largest Roman city north of the Alps and, for a time, an imperial residence? Did Attila the Hun conquer it or was it actually abandoned by Rome decades before he even arrived?    "
+                },
+                "17": {
+                    "title": "Abusimbel",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 3,
+                    "episode": 17,
+                    "original air date": "2018",
+                    "year": "2018",
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            },
+            "1": {
+                "1": {
+                    "title": "Mayan City of Blood",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 11,
+                    "original air date": "5 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Deep in the jungles of Mexico, the lost city of Chichen Itza contains ancient secrets of a mysterious civilization. Follow the scientists working to find how the Chichen Itza was built and how the bloody rite of human sacrifice shaped the city.    "
+                },
+                "2": {
+                    "title": "Dark Secrets of the Pyramid",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 18,
+                    "original air date": "12 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    This film unlocks the secrets of one of the most sophisticated and mysterious civilizations the world has ever known. It discovers how the Ancient Egyptians built the greatest monument of all time - the Great Pyramid.    "
+                },
+                "3": {
+                    "title": "Summit of the Gods",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 9,
+                    "original air date": "19 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    Go inside the Acropolis, an ancient engineering marvel that has stood above the city of Athens for thousands of years. Follow the scientists working to reveal its hidden mysteries: how it was built, what it looked like, and why it's still standing today.    "
+                },
+                "4": {
+                    "title": "Ghosts of the Great Wall",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 7,
+                    "original air date": "26 Jul. 2016",
+                    "year": "2016",
+                    "plot": "\n    The Great Wall of China is the biggest man-made structure on the planet -- and one of its biggest mysteries. Follow the scientific mission to reveal the ancient secrets of one of history's greatest empires.    "
+                },
+                "5": {
+                    "title": "House of Holy Relics",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 7,
+                    "original air date": "10 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    A medieval engineering marvel might be the home to the remains of the Bible's Three Magi, and we follow the scientists and experts who are delving deep into the mysteries of this incredible religious site.    "
+                },
+                "6": {
+                    "title": "Secrets of the Palace",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 8,
+                    "original air date": "9 Aug. 2016",
+                    "year": "2016",
+                    "plot": "\n    We reveal the centuries-old secrets and mysteries of one of the most remarkable examples of Victorian engineering. Follow the cutting-edge technology that built the Palace of Westminster, and find how it paved the way for the today's skyscrapers.    "
+                }
+            },
+            "2": {
+                "1": {
+                    "title": "Tut's Buried Secrets",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 1,
+                    "votes": 13,
+                    "original air date": "24 May 2017",
+                    "year": "2017",
+                    "plot": "\n    New discoveries explore the dark secrets of Tutankhamun's tomb. Archaeologists are finally finding answers to its ancient riddles, showing how his untimely death, his calamitous burial, and an act of God made a minor king the most famous of them all.    "
+                },
+                "2": {
+                    "title": "Curse of the Blood Pyramids",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 2,
+                    "votes": 11,
+                    "original air date": "31 May 2017",
+                    "year": "2017",
+                    "plot": "\n    Giant pyramids at a strange site in Mexico are revealing the bloody secrets of a mysterious civilization that vanished 1,400 years ago. Little is known about this lost culture, but new discoveries are uncovering shocking evidence of human sacrifice.    "
+                },
+                "3": {
+                    "title": "Lost Temples of the Jungle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 3,
+                    "votes": 14,
+                    "original air date": "7 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    New technologies reveal the startling truth behind the largest temple ever built, Angkor Wat. Accompany experts as they uncover how this colossal structure was constructed and why one of the largest cities in the world was suddenly abandoned.    "
+                },
+                "4": {
+                    "title": "Secret History of the Sphinx",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 4,
+                    "votes": 12,
+                    "original air date": "14 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    Recent forensic findings uncover the astonishing secrets of the world's most iconic monument, the great Sphinx at Giza. Join the extraordinary investigation as it reveals which pharaoh commissioned this colossal statue and why it was never finished.    "
+                },
+                "5": {
+                    "title": "Ghosts of Stonehenge",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 5,
+                    "votes": 11,
+                    "original air date": "21 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    Stonehenge is the ancient world's greatest wonder and biggest mystery. Now new discoveries are revealing its deepest and darkest secrets, showing how ancient magic, bizarre rituals, and brutal murder built this strange monument.    "
+                },
+                "6": {
+                    "title": "Hunt for King Arthur's Castle",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 6,
+                    "votes": 10,
+                    "original air date": "28 Jun. 2017",
+                    "year": "2017",
+                    "plot": "\n    A castle in Scotland could be the home of King Arthur's legendary Round Table. Scientists have made a gruesome discovery at this mysterious site: a disfigured skeleton that could reveal the castle's bloody secrets and rewrite the history books.    "
+                },
+                "7": {
+                    "title": "Hidden City of the Incas",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 7,
+                    "votes": 12,
+                    "original air date": "12 Jul. 2017",
+                    "year": "2017",
+                    "plot": "\n    The lost city of Machu Picchu is one of the greatest mysteries in archaeology. Scientists do not know why this city in the clouds was built, but investigations into secret Inca codes and deformed skeletons might finally reveal its ultimate mystery.    "
+                },
+                "8": {
+                    "title": "Treasures of the Terracotta Army",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 8,
+                    "votes": 13,
+                    "original air date": "19 Jul. 2017",
+                    "year": "2017",
+                    "plot": "\n    The Terracotta Army is one of China's greatest treasures, but there are still dark secrets surrounding this super-tomb. Newly discovered artifacts reveal the soldiers' supernatural enemy, and human remains point to ancient China's violent origins.    "
+                },
+                "9": {
+                    "title": "Mystery of Egypt's Mega Temple",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 9,
+                    "votes": 13,
+                    "original air date": "26 Jul. 2017",
+                    "year": "2017",
+                    "plot": "\n    The Egyptian mega-temple at Karnak was once the political powerbase of the ancient pharaohs and the home to strange religious rituals. New discoveries of skeletons tell a story of jealousy, betrayal, and the rise of a new religion that changed Egypt.    "
+                },
+                "10": {
+                    "title": "Sex, Lies, and the Taj Mahal",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 10,
+                    "votes": 9,
+                    "original air date": "2 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    The Taj Mahal is one of the world's most beautiful monuments, but new investigations reveal dark secrets. Scientists are uncovering codes that tell a shocking story of power and betrayal, challenging everything we thought we knew about the Taj Mahal.    "
+                },
+                "11": {
+                    "title": "Lost World of the Colosseum",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 11,
+                    "votes": 14,
+                    "original air date": "9 Aug. 2017",
+                    "year": "2017",
+                    "plot": "\n    New evidence uncovers the ancient mysteries behind the iconic Colosseum. Archaeologists uncover the secret lives of the gladiators and make new discoveries that help explain the rise and sudden fall of the Roman Empire.    "
+                },
+                "12": {
+                    "title": "Lost City of the Desert",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": 2,
+                    "episode": 12,
+                    "votes": 9,
+                    "original air date": "2017",
+                    "year": "2017",
+                    "plot": "\n    The ancient city of Petra, a city carved from desert rock, has baffled experts for decades. Now, new technologies resurrect the city and reveal why the spectacular civilization was suddenly abandoned.    "
+                }
+            },
+            "-1": {
+                "-1": {
+                    "title": "End of the Line",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "Unearthed (TV Series 2016– )",
+                        "kind": "tv series"
+                    },
+                    "season": -1,
+                    "episode": -1,
+                    "plot": "\n  Know what this is about?\n Be the first one to add a plot.\n    "
+                }
+            }
+        },
+        "number of episodes": 27,
+        "cast": [
+            {
+                "name": "Kearney, Steven"
+            },
+            {
+                "name": "Buckberry, Jo"
+            },
+            {
+                "name": "De Anda, Memo"
+            },
+            {
+                "name": "Hall, Edith"
+            },
+            {
+                "name": "Corbett, Glenn"
+            },
+            {
+                "name": "McKinley, Jackie"
+            },
+            {
+                "name": "Warrack, Simon"
+            },
+            {
+                "name": "Chavez, Rene"
+            },
+            {
+                "name": "Tryposkoufis, Sotiris"
+            },
+            {
+                "name": "Chevance, Jean-Baptiste"
+            },
+            {
+                "name": "Darvill, Timothy"
+            },
+            {
+                "name": "Ewart, Gordon"
+            },
+            {
+                "name": "Graf, David"
+            },
+            {
+                "name": "Sioumpara, Elisavet"
+            },
+            {
+                "name": "Tiesler, Vera"
+            },
+            {
+                "name": "Al-Salameen, Zeyad"
+            },
+            {
+                "name": "Greaney, Susan"
+            },
+            {
+                "name": "Hendrickson, Mitch"
+            },
+            {
+                "name": "Ovenden, Sue"
+            },
+            {
+                "name": "Eleftheriou, Vassiliki"
+            },
+            {
+                "name": "Glover, Jeffrey"
+            },
+            {
+                "name": "Boatto, Ginevra"
+            },
+            {
+                "name": "Cox, Adrian"
+            },
+            {
+                "name": "Jacques, David"
+            },
+            {
+                "name": "Parker, Tom"
+            },
+            {
+                "name": "Karanasos, Konstantinos"
+            },
+            {
+                "name": "Dunbar, Elaine"
+            },
+            {
+                "name": "Hang, Peou"
+            },
+            {
+                "name": "Hepher, James"
+            },
+            {
+                "name": "Perry, Megan"
+            },
+            {
+                "name": "Kalogeras, Ionnis"
+            },
+            {
+                "name": "Bedal, Leigh-Ann"
+            },
+            {
+                "name": "Cook, Murray"
+            },
+            {
+                "name": "Konteas, Zannis"
+            },
+            {
+                "name": "Porter, Barbara"
+            },
+            {
+                "name": "Scott, Nicki"
+            },
+            {
+                "name": "Christodoulopoulou, Rosalia"
+            },
+            {
+                "name": "Stevenson, Katie"
+            },
+            {
+                "name": "Aggelakopoulou, Eleni"
+            },
+            {
+                "name": "Dolan, Amanda"
+            },
+            {
+                "name": "Doxiadis, Euphrosyne"
+            },
+            {
+                "name": "Panou, Anastasia"
+            },
+            {
+                "name": "Ibrahim, Yossra"
+            },
+            {
+                "name": "Mulrooney, Mara"
+            },
+            {
+                "name": "Sobczyk, Maciej"
+            },
+            {
+                "name": "Torres-Hochstetter, Francisco"
+            },
+            {
+                "name": "Casanova, Patricia Vargas"
+            },
+            {
+                "name": "Vogt, Burkhard"
+            }
+        ],
+        "genres": [
+            "Documentary",
+            "History",
+            "Mystery"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "number of seasons": 3,
+        "rating": 7.5,
+        "votes": 100,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMWI4YzI2MDAtNTUwNy00NjRhLTljYzQtZjQ2ODg3M2YzY2IzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SY150_CR49,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "Unearthed",
+        "year": 2016,
+        "kind": "tv series",
+        "series years": "2016-",
+        "seasons": [
+            "1",
+            "2",
+            "3"
+        ],
+        "production companies": [
+            {
+                "name": "Windfall Films"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "Science Channel"
+            },
+            {
+                "name": "Discovery Channel"
+            },
+            {
+                "name": "Discovery Channel"
+            }
+        ],
+        "special effects": [
+            {
+                "name": "Oblique FX"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Canada Film Capital"
+            }
+        ],
+        "plot": [
+            "Exploration of great archaeological discoveries, fascinating ancient civilizations, forgotten architectural marvels and tantalizing historical mysteries."
+        ],
+        "tech": {
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 100,
+                "rating": 7.5
+            },
+            "aged 18 29": {
+                "votes": 9,
+                "rating": 7.7
+            },
+            "aged 30 44": {
+                "votes": 44,
+                "rating": 7.4
+            },
+            "aged 45 plus": {
+                "votes": 22,
+                "rating": 7.8
+            },
+            "males": {
+                "votes": 55,
+                "rating": 7.3
+            },
+            "males aged 18 29": {
+                "votes": 6,
+                "rating": 7.8
+            },
+            "males aged 30 44": {
+                "votes": 30,
+                "rating": 6.9
+            },
+            "males aged 45 plus": {
+                "votes": 13,
+                "rating": 7.6
+            },
+            "females": {
+                "votes": 26,
+                "rating": 8.1
+            },
+            "females aged 18 29": {
+                "votes": 3,
+                "rating": 6.7
+            },
+            "females aged 30 44": {
+                "votes": 14,
+                "rating": 8.3
+            },
+            "females aged 45 plus": {
+                "votes": 8,
+                "rating": 7.8
+            },
+            "top 1000 voters": {
+                "votes": 17,
+                "rating": 7.3
+            },
+            "us users": {
+                "votes": 27,
+                "rating": 7.7
+            },
+            "non us users": {
+                "votes": 31,
+                "rating": 7.0
+            }
+        },
+        "number of votes": {
+            "10": 25,
+            "9": 4,
+            "8": 29,
+            "7": 21,
+            "6": 10,
+            "5": 2,
+            "4": 2,
+            "3": 1,
+            "2": 1,
+            "1": 5
+        },
+        "arithmetic mean": 7.5,
+        "median": 8
+    }
+}

@@ -1,0 +1,477 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "UK\n",
+                "date": "  2013"
+            },
+            {
+                "country": "UK\n",
+                "date": "18 December 2013"
+            },
+            {
+                "country": "Germany\n",
+                "date": "15 September 2014",
+                "notes": "                            (DVD premiere)"
+            },
+            {
+                "country": "Japan\n",
+                "date": "2 September 2015",
+                "notes": "                            (internet)"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "27 August 2016"
+            }
+        ],
+        "release dates": [
+            "UK::2013",
+            "UK::18 December 2013",
+            "Germany::15 September 2014                            (DVD premiere)",
+            "Japan::2 September 2015                            (internet)",
+            "Sweden::27 August 2016"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Great Train Robbery"
+            },
+            {
+                "countries": "Bulgaria (Bulgarian title)",
+                "title": "Големият влаков обир"
+            },
+            {
+                "countries": "Germany",
+                "title": "Der große Eisenbahnraub 1963"
+            },
+            {
+                "countries": "Romania",
+                "title": "Marele jaf al trenului"
+            },
+            {
+                "countries": "Russia",
+                "title": "Великое ограбление поезда"
+            },
+            {
+                "countries": "Spain",
+                "title": "El gran asalto al tren"
+            },
+            {
+                "countries": "Sweden",
+                "title": "Det stora tågrånet"
+            },
+            {
+                "countries": "USA",
+                "title": "The Great Train Robbery"
+            }
+        ],
+        "akas": [
+            "The Great Train Robbery (original title)",
+            "Големият влаков обир Bulgaria (Bulgarian title)",
+            "Der große Eisenbahnraub 1963 Germany",
+            "Marele jaf al trenului Romania",
+            "Великое ограбление поезда Russia",
+            "El gran asalto al tren Spain",
+            "Det stora tågrånet Sweden",
+            "The Great Train Robbery USA"
+        ],
+        "akas from release info": [
+            "The Great Train Robbery (original title)",
+            "Големият влаков обир Bulgaria (Bulgarian title)",
+            "Der große Eisenbahnraub 1963 Germany",
+            "Marele jaf al trenului Romania",
+            "Великое ограбление поезда Russia",
+            "El gran asalto al tren Spain",
+            "Det stora tågrånet Sweden",
+            "The Great Train Robbery USA"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "A Robber's Tale",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Great Train Robbery (TV Mini-Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 234,
+                    "original air date": "18 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    Following a vicious attack on a wages van at Heathrow airport in November 1962 the gang concerned are disappointed that the haul is less than expected and their leader, Bruce Reynolds, despite his wife's request that he eschews crime, is greedy for a bigger heist. This comes about when an anonymous Ulsterman alerts the gang to the Glasgow to Euston mail train, said to be carrying a million pounds. Recruiting more villains Reynolds begins his meticulous plan to halt the train with false signals at a lonely Buckinghamshire crossing and, on August 8 1963, a night later ...    "
+                },
+                "2": {
+                    "title": "A Copper's Tale",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Great Train Robbery (TV Mini-Series 2013)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 206,
+                    "original air date": "19 Dec. 2013",
+                    "year": "2013",
+                    "plot": "\n    Four days after the robbery Home Secretary Brooke puts Flying Squad Chief Superintendent Tommy Butler in charge of the case. Though a dour loner and not a popular colleague he assembles an efficient team including Inspector Frank Williams, who knows Reynolds of old and places him high on his suspect list, and Sergeant Jack Slipper. The discovery of a suitcase containing stolen notes leads to the first arrest whilst a tip-off takes Butler to the farmhouse HQ and a mass of forensic evidence. This begins to yield results despite Butler's superiors' Wanted poster campaign...    "
+                }
+            }
+        },
+        "number of episodes": 2,
+        "cast": [
+            {
+                "name": "Glenister, Robert"
+            },
+            {
+                "name": "Roth, Jack"
+            },
+            {
+                "name": "Anderson, Paul"
+            },
+            {
+                "name": "Evans, Luke"
+            },
+            {
+                "name": "Murchie, Nicholas"
+            },
+            {
+                "name": "Compston, Martin"
+            },
+            {
+                "name": "Synnott, Del"
+            },
+            {
+                "name": "Muir, Bethany"
+            },
+            {
+                "name": "Hulme, Eric"
+            },
+            {
+                "name": "Maskell, Neil"
+            },
+            {
+                "name": "Gordon, Jack"
+            },
+            {
+                "name": "Bye, James"
+            },
+            {
+                "name": "Ward, George"
+            },
+            {
+                "name": "Broadbent, Jim"
+            },
+            {
+                "name": "Fox, James"
+            },
+            {
+                "name": "Costigan, George"
+            },
+            {
+                "name": "Snelling, Bradley"
+            },
+            {
+                "name": "Hope, Richard"
+            },
+            {
+                "name": "Collins, Nigel"
+            },
+            {
+                "name": "Morden, Alexa"
+            },
+            {
+                "name": "Pigott-Smith, Tim"
+            },
+            {
+                "name": "Chambers, Tom"
+            },
+            {
+                "name": "Moran, Nick"
+            },
+            {
+                "name": "Graham, Stuart"
+            },
+            {
+                "name": "McGregor, James"
+            },
+            {
+                "name": "Salthouse, John"
+            },
+            {
+                "name": "Long, Jordan"
+            },
+            {
+                "name": "De Main, John"
+            },
+            {
+                "name": "Wilby, James"
+            },
+            {
+                "name": "Cassidy, Gareth"
+            },
+            {
+                "name": "McDonnell, Tommy"
+            },
+            {
+                "name": "Voce, John"
+            },
+            {
+                "name": "Cox, Christine"
+            },
+            {
+                "name": "McCormack, Ross"
+            },
+            {
+                "name": "Jure, Matthew"
+            },
+            {
+                "name": "Beard, Tom"
+            },
+            {
+                "name": "Thomas, Bill"
+            },
+            {
+                "name": "Stratton, Mark"
+            },
+            {
+                "name": "Bones, Ken"
+            },
+            {
+                "name": "Smith, Dean"
+            },
+            {
+                "name": "Lauren, James"
+            },
+            {
+                "name": "Strong, Gwyneth"
+            },
+            {
+                "name": "Donegan, Alistair"
+            },
+            {
+                "name": "Doolittle, Eliza"
+            },
+            {
+                "name": "Hunt, Anthony"
+            },
+            {
+                "name": "Strong, James"
+            },
+            {
+                "name": "Ashwell, Mark"
+            },
+            {
+                "name": "Powell, Al"
+            },
+            {
+                "name": "Autumn, Kelly Marie"
+            },
+            {
+                "name": "Bartlett, Deborah"
+            }
+        ],
+        "locations": [
+            "Briggate, Leeds, West Yorkshire, England, UK",
+            "The Calls Hotel, Leeds, West Yorkshire, England, UK",
+            "Yorkshire, England, UK",
+            "Leeds, West Yorkshire, England, UK"
+        ],
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama",
+            "History"
+        ],
+        "runtimes": [
+            "180"
+        ],
+        "countries": [
+            "United Kingdom"
+        ],
+        "country codes": [
+            "gb"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "certificates": [
+            "Germany:12",
+            "Singapore:PG13",
+            "South Korea:15"
+        ],
+        "original air date": "2013 (UK)",
+        "number of seasons": 1,
+        "rating": 7.4,
+        "votes": 2757,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTY4MzhiZGUtZjdhNy00NTZkLTk2MGYtNmFmM2VlMzUzNWY0XkEyXkFqcGdeQXVyNTM4OTY2MDU@._V1_SY150_CR2,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Great Train Robbery",
+        "year": 2013,
+        "kind": "tv mini series",
+        "series years": "2013-2013",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Chibnall, Chris"
+            },
+            {
+                "name": "Cook, Andrew"
+            },
+            {
+                "name": "Ryan, Rob"
+            }
+        ],
+        "director": [
+            {
+                "name": "Jarrold, Julian"
+            },
+            {
+                "name": "Strong, James"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "World Productions"
+            },
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "Screen Yorkshire"
+            },
+            {
+                "name": "Lipsync Productions"
+            },
+            {
+                "name": "Content Media"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "British Broadcasting Corporation (BBC)"
+            },
+            {
+                "name": "Acorn Media Group"
+            },
+            {
+                "name": "Netflix"
+            },
+            {
+                "name": "New KSM"
+            },
+            {
+                "name": "New KSM"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "HireWorks"
+            },
+            {
+                "name": "On Set Tech"
+            }
+        ],
+        "plot": [
+            "A two-part drama which portrays _The Great Train Robbery_ (qv) of 8 August 1963, firstly from the point of view of the robbers and then from the point of view of the police who set out to identify and catch the robbers.::Anonymous"
+        ],
+        "tech": {
+            "runtime": [
+                "3 hr (180 min) (2 parts)"
+            ],
+            "color": [
+                "Color"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 2757,
+                "rating": 7.4
+            },
+            "aged under 18": {
+                "votes": 2,
+                "rating": 7.5
+            },
+            "aged 18 29": {
+                "votes": 513,
+                "rating": 7.7
+            },
+            "aged 30 44": {
+                "votes": 953,
+                "rating": 7.3
+            },
+            "aged 45 plus": {
+                "votes": 618,
+                "rating": 7.4
+            },
+            "males": {
+                "votes": 1781,
+                "rating": 7.4
+            },
+            "males aged under 18": {
+                "votes": 2,
+                "rating": 7.5
+            },
+            "males aged 18 29": {
+                "votes": 397,
+                "rating": 7.7
+            },
+            "males aged 30 44": {
+                "votes": 776,
+                "rating": 7.3
+            },
+            "males aged 45 plus": {
+                "votes": 492,
+                "rating": 7.4
+            },
+            "females": {
+                "votes": 419,
+                "rating": 7.5
+            },
+            "females aged 18 29": {
+                "votes": 110,
+                "rating": 7.7
+            },
+            "females aged 30 44": {
+                "votes": 159,
+                "rating": 7.3
+            },
+            "females aged 45 plus": {
+                "votes": 118,
+                "rating": 7.4
+            },
+            "top 1000 voters": {
+                "votes": 62,
+                "rating": 6.6
+            },
+            "us users": {
+                "votes": 292,
+                "rating": 7.4
+            },
+            "non us users": {
+                "votes": 1457,
+                "rating": 7.4
+            }
+        },
+        "number of votes": {
+            "10": 247,
+            "9": 347,
+            "8": 886,
+            "7": 847,
+            "6": 248,
+            "5": 92,
+            "4": 32,
+            "3": 24,
+            "2": 10,
+            "1": 24
+        },
+        "arithmetic mean": 7.5,
+        "median": 8
+    }
+}

@@ -1,0 +1,597 @@
+{
+    "imdb": {
+        "raw release dates": [
+            {
+                "country": "USA\n",
+                "date": "8 April 2009"
+            },
+            {
+                "country": "Hungary\n",
+                "date": "9 January 2011"
+            },
+            {
+                "country": "Sweden\n",
+                "date": "9 July 2011"
+            },
+            {
+                "country": "Czech Republic\n",
+                "date": "24 August 2012"
+            },
+            {
+                "country": "Slovakia\n",
+                "date": "24 August 2012"
+            },
+            {
+                "country": "Belgium\n",
+                "date": "1 September 2013"
+            },
+            {
+                "country": "Netherlands\n",
+                "date": "5 January 2014"
+            },
+            {
+                "country": "Germany\n",
+                "date": "9 April 2015"
+            }
+        ],
+        "release dates": [
+            "USA::8 April 2009",
+            "Hungary::9 January 2011",
+            "Sweden::9 July 2011",
+            "Czech Republic::24 August 2012",
+            "Slovakia::24 August 2012",
+            "Belgium::1 September 2013",
+            "Netherlands::5 January 2014",
+            "Germany::9 April 2015"
+        ],
+        "raw akas": [
+            {
+                "countries": " (original title)",
+                "title": "The Unusuals"
+            },
+            {
+                "countries": "Greece",
+                "title": "Unusuals"
+            },
+            {
+                "countries": "Hungary",
+                "title": "Zűrös zsaruk"
+            },
+            {
+                "countries": "Poland",
+                "title": "Komisariat Drugi"
+            },
+            {
+                "countries": "Romania",
+                "title": "Politisti cu probleme"
+            },
+            {
+                "countries": "Russia",
+                "title": "Необычный детектив"
+            }
+        ],
+        "akas": [
+            "The Unusuals (original title)",
+            "Unusuals Greece",
+            "Zűrös zsaruk Hungary",
+            "Komisariat Drugi Poland",
+            "Politisti cu probleme Romania",
+            "Необычный детектив Russia"
+        ],
+        "akas from release info": [
+            "The Unusuals (original title)",
+            "Unusuals Greece",
+            "Zűrös zsaruk Hungary",
+            "Komisariat Drugi Poland",
+            "Politisti cu probleme Romania",
+            "Необычный детектив Russia"
+        ],
+        "episodes": {
+            "1": {
+                "1": {
+                    "title": "Pilot",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Unusuals (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 1,
+                    "votes": 128,
+                    "original air date": "8 Apr. 2009",
+                    "year": "2009",
+                    "plot": "\n    Detective Casey Shraeger is a New York City vice cop who gets transfered into the homicide branch of the 2nd Unit, which is a \"special unit\" of detectives investigating crime and corruption in the city after one of the 2nd Unit detectives is found murdered. She is called in as his replacement to find out if the late detective was dirty. Casey begins to find out some interesting facts about her new co-workers, one of whom includes Det. Walsh, whose partner was the victim.    "
+                },
+                "2": {
+                    "title": "Boorland Day",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Unusuals (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 2,
+                    "votes": 90,
+                    "original air date": "15 Apr. 2009",
+                    "year": "2009",
+                    "plot": "\n    Casey Shraeger and her new partner, James Walsh, try to catch a family of criminals that has the entire 2nd Unit running all over New York until Walsh and Shraeger discover their motive. Meanwhile, Sgt. Brown has Shraeger investigate Walsh's past when it becomes known that her former partner turned out to be a dirty cop. Also, Henry Cole's former partner-in-crime returns, making it even more difficult for Cole to continue to hide his criminal past from the rest of the detectives.    "
+                },
+                "3": {
+                    "title": "One Man Band",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Unusuals (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 3,
+                    "votes": 79,
+                    "original air date": "21 Apr. 2009",
+                    "year": "2009",
+                    "plot": "\n    As Delahoy and Banks investigate a store that helps its customers commit murder, Casey's favor for her financial manager ends up freeing a hit-and-run suspect from jail.    "
+                },
+                "4": {
+                    "title": "Crime Slut",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Unusuals (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 4,
+                    "votes": 87,
+                    "original air date": "22 Apr. 2009",
+                    "year": "2009",
+                    "plot": "\n    Beaumont must keep a secret from Walsh when she loses his watch in a pawnshop robbery Delahoy worries about his future he tracks down a brain tumor victim who escaped from the hospital.    "
+                },
+                "5": {
+                    "title": "42",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Unusuals (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 5,
+                    "votes": 68,
+                    "original air date": "29 Apr. 2009",
+                    "year": "2009",
+                    "plot": "\n    After Beaumont is injured during an attack on Walsh, Cole decides to deal with Frank Lutz once and for all. Meanwhile, Banks tries to prevent a psychic's prediction of his own death from coming true.    "
+                },
+                "6": {
+                    "title": "The Circle Line",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Unusuals (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 6,
+                    "votes": 77,
+                    "original air date": "6 May 2009",
+                    "year": "2009",
+                    "plot": "\n    Walsh's old cop friend is in danger of being charged with a murder he might not have committed. Meanwhile, Banks and Delahoy are trying to track down a man who has been stealing other people's identities.    "
+                },
+                "7": {
+                    "title": "The Tape Delay",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Unusuals (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 7,
+                    "votes": 57,
+                    "original air date": "27 May 2009",
+                    "year": "2009",
+                    "plot": "\n    Shraeger & Walsh are assigned protective duty of a businessman, but he escapes or is kidnapped while they step away to assist a woman being attacked. Delahoy & Banks deal with a nursing home resident with dementia who goes on a crime spree. Delahoy continues to have symptoms of his brain tumor.    "
+                },
+                "8": {
+                    "title": "The Dentist",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Unusuals (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 8,
+                    "votes": 57,
+                    "original air date": "3 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    A pair on con men trick Alvarez and steal important evidence for the drug trial of a dentist. Meanwhile, Bank's locks himself in his apartment due to paranoia and becomes convinced that his neighbor was murdered.    "
+                },
+                "9": {
+                    "title": "The Apology Line",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Unusuals (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 9,
+                    "votes": 57,
+                    "original air date": "10 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    The detectives investigate the tape of a confession hot-line and attempt to solve murder of a naked man who was shot while running down the street.    "
+                },
+                "10": {
+                    "title": "The E.I.D.",
+                    "kind": "episode",
+                    "episode of": {
+                        "title": "The Unusuals (TV Series 2009)",
+                        "kind": "tv series"
+                    },
+                    "season": 1,
+                    "episode": 10,
+                    "votes": 70,
+                    "original air date": "17 Jun. 2009",
+                    "year": "2009",
+                    "plot": "\n    Delahoy and Banks investigate several break-ins that are related to an adult film series. Meanwhile Scraeger attempts to help serial crime accuser who may have been a victim of an attack ten years ago.    "
+                }
+            }
+        },
+        "number of episodes": 10,
+        "cast": [
+            {
+                "name": "Tamblyn, Amber"
+            },
+            {
+                "name": "Renner, Jeremy"
+            },
+            {
+                "name": "Perrineau, Harold"
+            },
+            {
+                "name": "Close, Joshua"
+            },
+            {
+                "name": "Curnen, Monique Gabriela"
+            },
+            {
+                "name": "Lennox, Kai"
+            },
+            {
+                "name": "Kinney, Terry"
+            },
+            {
+                "name": "Goldberg, Adam"
+            },
+            {
+                "name": "Vural, Marisa"
+            },
+            {
+                "name": "Foster, Kat"
+            },
+            {
+                "name": "Kahn, Ian"
+            },
+            {
+                "name": "Funaro, Robert"
+            },
+            {
+                "name": "O'Nan, Ryan"
+            },
+            {
+                "name": "Park, Susan"
+            },
+            {
+                "name": "Milioti, Cristin"
+            },
+            {
+                "name": "Burns, Heather"
+            },
+            {
+                "name": "Sarandon, Chris"
+            },
+            {
+                "name": "Maher, Matthew"
+            },
+            {
+                "name": "Rikoon, Robyn"
+            },
+            {
+                "name": "Berg, Brett"
+            },
+            {
+                "name": "Lowery, Marcella"
+            },
+            {
+                "name": "Moore, Jason R."
+            },
+            {
+                "name": "Faulk, Bruce"
+            },
+            {
+                "name": "Herlihy, Carmen M."
+            },
+            {
+                "name": "Berman, Shelley"
+            },
+            {
+                "name": "Clohessy, Robert"
+            },
+            {
+                "name": "Gleason, Joanna"
+            },
+            {
+                "name": "Cook, Gregory Russell"
+            },
+            {
+                "name": "Magnussen, Billy"
+            },
+            {
+                "name": "Stoll, Corey"
+            },
+            {
+                "name": "Jr., Isiah Whitlock"
+            },
+            {
+                "name": "Costabile, David"
+            },
+            {
+                "name": "Fliakos, Ari"
+            },
+            {
+                "name": "Ginsberg, Maury"
+            },
+            {
+                "name": "Servitto, Matt"
+            },
+            {
+                "name": "Adler, Joanna"
+            },
+            {
+                "name": "Brooks, Chloe"
+            },
+            {
+                "name": "Colicchio, Victor"
+            },
+            {
+                "name": "De Silva, Sanjit"
+            },
+            {
+                "name": "Gilpin, Betty"
+            },
+            {
+                "name": "Urcioli, Paul"
+            },
+            {
+                "name": "Carr, Geneva"
+            },
+            {
+                "name": "Henao, Zulay"
+            },
+            {
+                "name": "Kinney, Emily"
+            },
+            {
+                "name": "Kunken, Stephen"
+            },
+            {
+                "name": "Leslie, Conor"
+            },
+            {
+                "name": "McKinney, Chris"
+            },
+            {
+                "name": "Navaja, Flaco"
+            },
+            {
+                "name": "Odeh, Laura"
+            },
+            {
+                "name": "Teller, Miles"
+            }
+        ],
+        "locations": [
+            "New York City, New York, USA"
+        ],
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "runtimes": [
+            "60"
+        ],
+        "countries": [
+            "United States"
+        ],
+        "country codes": [
+            "us"
+        ],
+        "language codes": [
+            "en"
+        ],
+        "color info": [
+            "Color"
+        ],
+        "aspect ratio": "1.78 : 1",
+        "sound mix": [
+            "Stereo"
+        ],
+        "certificates": [
+            "Netherlands:12"
+        ],
+        "number of seasons": 1,
+        "rating": 8.0,
+        "votes": 4894,
+        "cover url": "https://m.media-amazon.com/images/M/MV5BMTg4OTk2OTk1M15BMl5BanBnXkFtZTcwNjAzMjQ1Mg@@._V1_SY150_CR62,0,101,150_.jpg",
+        "languages": [
+            "English"
+        ],
+        "title": "The Unusuals",
+        "year": 2009,
+        "kind": "tv series",
+        "series years": "2009-2009",
+        "seasons": [
+            "1"
+        ],
+        "writer": [
+            {
+                "name": "Hawley, Noah"
+            },
+            {
+                "name": "Byer, Melissa R."
+            },
+            {
+                "name": "De Laurentiis, Robert"
+            }
+        ],
+        "production companies": [
+            {
+                "name": "Totally Commercial Films"
+            },
+            {
+                "name": "26 Keys Productions"
+            },
+            {
+                "name": "Sony Pictures Television"
+            }
+        ],
+        "distributors": [
+            {
+                "name": "American Broadcasting Company (ABC)"
+            },
+            {
+                "name": "2BE"
+            },
+            {
+                "name": "Dajto"
+            },
+            {
+                "name": "FEM3"
+            },
+            {
+                "name": "Global"
+            },
+            {
+                "name": "PRO 4"
+            },
+            {
+                "name": "RTL Entertainment"
+            },
+            {
+                "name": "Sony Pictures Home Entertainment"
+            },
+            {
+                "name": "TV Nova"
+            }
+        ],
+        "other companies": [
+            {
+                "name": "Chapman/Leonard Studio Equipment"
+            },
+            {
+                "name": "Haddad's"
+            },
+            {
+                "name": "Henry's International Cuisine"
+            },
+            {
+                "name": "Paws for Effect"
+            },
+            {
+                "name": "Sony Pictures Stock Footage"
+            }
+        ],
+        "plot": [
+            "Darkly comedic drama focusing on the dysfunctional cops and staff of an infamous NYPD precinct.::tb4000"
+        ],
+        "tech": {
+            "runtime": [
+                "1 hr (60 min) (USA)"
+            ],
+            "sound mix": [
+                "Stereo"
+            ],
+            "color": [
+                "Color"
+            ],
+            "aspect ratio": [
+                "1.78 : 1"
+            ],
+            "camera": [
+                "Sony F23 and Sony EX3"
+            ],
+            "cinematographic process": [
+                "High Definition"
+            ]
+        },
+        "demographics": {
+            "imdb users": {
+                "votes": 4894,
+                "rating": 8.0
+            },
+            "aged 18 29": {
+                "votes": 714,
+                "rating": 8.2
+            },
+            "aged 30 44": {
+                "votes": 2385,
+                "rating": 7.9
+            },
+            "aged 45 plus": {
+                "votes": 1138,
+                "rating": 7.9
+            },
+            "males": {
+                "votes": 2595,
+                "rating": 7.9
+            },
+            "males aged 18 29": {
+                "votes": 351,
+                "rating": 8.2
+            },
+            "males aged 30 44": {
+                "votes": 1453,
+                "rating": 7.8
+            },
+            "males aged 45 plus": {
+                "votes": 744,
+                "rating": 7.7
+            },
+            "females": {
+                "votes": 1679,
+                "rating": 8.2
+            },
+            "females aged 18 29": {
+                "votes": 357,
+                "rating": 8.2
+            },
+            "females aged 30 44": {
+                "votes": 907,
+                "rating": 8.1
+            },
+            "females aged 45 plus": {
+                "votes": 376,
+                "rating": 8.4
+            },
+            "top 1000 voters": {
+                "votes": 88,
+                "rating": 5.8
+            },
+            "us users": {
+                "votes": 1989,
+                "rating": 8.1
+            },
+            "non us users": {
+                "votes": 1821,
+                "rating": 7.9
+            }
+        },
+        "number of votes": {
+            "10": 1224,
+            "9": 1092,
+            "8": 1403,
+            "7": 589,
+            "6": 257,
+            "5": 120,
+            "4": 55,
+            "3": 32,
+            "2": 34,
+            "1": 88
+        },
+        "arithmetic mean": 8.2,
+        "median": 8
+    }
+}
